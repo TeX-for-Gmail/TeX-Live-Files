@@ -1,0 +1,22 @@
+name errata
+category Package
+revision 42428
+shortdesc Error markup for LaTeX documents
+longdesc This package provides a simple infrastructure for recording
+longdesc errata in LaTeX documents. This allows the user to maintain an
+longdesc updated version of the document (with all errors corrected) and
+longdesc to automatically generate an errata document highlighting the
+longdesc difference to the published version.
+containersize 1652
+containerchecksum ac3b99ef6e120a5b488cf79f3e942c10a47ee92e84a04d3667f99810ef365aac66598908c491897ef7a99df268a0bbc7185d49aed2313487712e300383356ec5
+doccontainersize 147644
+doccontainerchecksum 7fb625a66efc914e2eacc45696ac43112d7ca49b668ffbea179f47f04746509f981141a77d2948f30b8c56e4a2ff06f6af3047fe494e4f084237891fbbf6710f
+srccontainersize 6420
+srccontainerchecksum ecc57287f78000349f4999d1f85aeaba0206a898ff2d97a1fa9b4f94acffd76099cc0f92a88e5a38153f71570f62d9616e0332edeb987e468a6483de0dfab5ee
+runfiles size=1
+ texmf-dist/tex/latex/errata/errata.sty
+catalogue-ctan /macros/latex/contrib/errata
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics editorial
+catalogue-version 0.3

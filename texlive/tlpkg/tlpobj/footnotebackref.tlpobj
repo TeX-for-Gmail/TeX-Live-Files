@@ -1,0 +1,18 @@
+name footnotebackref
+category Package
+revision 27034
+shortdesc Back-references from footnotes
+longdesc The package provides the means of creating hyperlinks, from a
+longdesc footnote at the bottom of the page, back to the occurence of
+longdesc the footnote in the main text.
+containersize 1572
+containerchecksum 8c18d95a4c74a7fe2ea4cc98df6bdb6813d9cf8323e44474330f03694758ee53da46d0d691164f6d90b2148a7cf9dc253dbc93548a3b33df3b0344096e4a90c9
+doccontainersize 112100
+doccontainerchecksum 685484323b721c5277aeaa041b1d40b0d4675bc901a371f36dbff6246063252bca69261748a096919c7345a4a6e6284a6093068555bb43eb92fbf7cfea41facc
+runfiles size=1
+ texmf-dist/tex/latex/footnotebackref/footnotebackref.sty
+catalogue-ctan /macros/latex/contrib/footnotebackref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics footnote hyper
+catalogue-version 1.0

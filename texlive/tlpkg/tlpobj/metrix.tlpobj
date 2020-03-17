@@ -1,0 +1,23 @@
+name metrix
+category Package
+revision 40099
+shortdesc Typeset metric marks for Latin text
+longdesc The package may be used to type the prosodics/metrics of
+longdesc (latin) verse; it provides macros to typeset the symbols
+longdesc standing alone, and in combination with symbols, giving
+longdesc automatic alignment. The package requires tikz (including the
+longdesc calc library, and the xparse package (thus also requiring the
+longdesc experimental LaTeX 3 environment).
+containersize 5132
+containerchecksum 4b5cdb8e5e4036563942aeb20f190094824c3017c0f41dcc3bd17d99d91e207c1bc32abd515be3be992de3cbf15defeb45b9427550af321e437b6e65975a05d5
+doccontainersize 513864
+doccontainerchecksum 2d341dfd5ab745cc07341137811c279a4646ad2d5cdec22565aac36b2f01dac3fd7ffc2b8bccd4c01edfbe1d035b1a0c392ff944d29fb8e337c5c55957d929a5
+srccontainersize 16552
+srccontainerchecksum a0429ba6355a73cc075da271d75df942b67c02df2bf07c29e4f5e0e7b9313381deadc187273f0711f8f30c639e9f1ff55ac4ae069fddfb43b80453e8c77b7eac
+runfiles size=7
+ texmf-dist/tex/latex/metrix/metrix.sty
+catalogue-ctan /macros/latex/contrib/metrix
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics latin verse expl3
+catalogue-version 1.3

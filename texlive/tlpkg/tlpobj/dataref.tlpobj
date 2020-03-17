@@ -1,0 +1,20 @@
+name dataref
+category Package
+revision 42883
+shortdesc Manage references to experimental data
+longdesc The package provides a mechanism that maintains a fixed
+longdesc symbolic reference to numerical results; such results may vary
+longdesc as the project proceeds (and hence the project report
+longdesc develops).
+containersize 6868
+containerchecksum 8b76861673fe05785582abbfb50d46ee6beea2cd63bd7f622e2640acce9c88a39e4fbf57b6db7872dc3f3b473d3e33581bb6c93f305e036148efb1c3ad4b6d8f
+doccontainersize 247204
+doccontainerchecksum 2d1bb12245c071b8282db3d0aaf198206fe2b8509527ef6e56950464b6f13d20be8381015fa62a1b0c7469e004664182170ba400c7650b38bc597e269f1d173d
+runfiles size=7
+ texmf-dist/tex/latex/dataref/dataref.sty
+catalogue-contact-repository https://github.com/stettberger/dataref
+catalogue-ctan /macros/latex/contrib/dataref
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref data-manip
+catalogue-version 0.6

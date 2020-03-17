@@ -1,0 +1,25 @@
+name semantic
+category Package
+revision 15878
+shortdesc Help for writing programming language semantics
+longdesc Eases the typesetting of notation of semantics and compilers.
+longdesc Includes T-diagrams, various derivation symbols and inference
+longdesc trees.
+containersize 6616
+containerchecksum d49c22d4982a33177fdd73c5ff15a68e663c3ff1ec9a45a40e5a8364371a25b536dd6c1dd963296ae998760178833b5f2c357119f41e7bb5a72061f0f9ad23fa
+doccontainersize 357820
+doccontainerchecksum 21e9a7efd9fd6dc28be30f284285cc8c13b266eb03c9212b30f97b761c1383e1fb84a18e92437d331d3963068a68c61276cc1fd3446807bedc954a490fc490aa
+srccontainersize 32236
+srccontainerchecksum 4d513b6c9b320b9ddd8ec92fd8eae079134d351170122833e99557fdec7510938d8ef856c52e0a862a8cb8cdffa3894c160dfe085452e0cffc49db4d3fac6a79
+runfiles size=10
+ texmf-dist/tex/latex/semantic/infernce.sty
+ texmf-dist/tex/latex/semantic/ligature.sty
+ texmf-dist/tex/latex/semantic/reserved.sty
+ texmf-dist/tex/latex/semantic/semantic.sty
+ texmf-dist/tex/latex/semantic/shrthand.sty
+ texmf-dist/tex/latex/semantic/tdiagram.sty
+catalogue-ctan /macros/latex/contrib/semantic
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics comp-sci
+catalogue-version 2.0

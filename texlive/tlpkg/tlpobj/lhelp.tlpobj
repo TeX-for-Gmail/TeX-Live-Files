@@ -1,0 +1,26 @@
+name lhelp
+category Package
+revision 23638
+shortdesc Miscellaneous helper packages
+longdesc This package defines macros which are useful for many
+longdesc documents. It is a large collection of simple 'little helpers'
+longdesc which do not really warrant a separate package on their own.
+longdesc Included are, among other things, definitions of common units
+longdesc with preceeding thinspaces, framed boxes where both width and
+longdesc height can be specified, starting new odd or even pages, draft
+longdesc markers, notes, conditional includes, including EPS files, and
+longdesc versions of enumerate and itemize which allow the horizontal
+longdesc and vertical spacing to be changed.
+containersize 5988
+containerchecksum 3a5bb1d95c300e9546b67c48cc2c3e1a5c3089c4430d76172a8d7f3cdc59fe03de1fafc6a1babeacc9259444e09e85e02a64f3b3f8ddfe3883511482b9ff0985
+doccontainersize 225808
+doccontainerchecksum 2411bd37dba9c4afe1ac4251c9897c99e5934938bd802dbe89993d5b6ec0d19e1cba8b143ee5febd9ad73f0ef823eb79f34587e6885250a2bce8eebbdbf06fd6
+srccontainersize 22548
+srccontainerchecksum 42e419f41c8d8c00a4d27b4bd4499097b7c4c2b8b2e75c68fedd224796dcc9b9dd09054f90cc525286ea6b72a579120c3fc027239bd0f0630ec471bc870ec02b
+runfiles size=5
+ texmf-dist/tex/latex/lhelp/lhelp.sty
+catalogue-ctan /macros/latex/contrib/lhelp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics macro-supp
+catalogue-version 2.0

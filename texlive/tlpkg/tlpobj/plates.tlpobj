@@ -1,0 +1,21 @@
+name plates
+category Package
+revision 15878
+shortdesc Arrange for "plates" sections of documents
+longdesc The plates package provides a simple facility for inserting
+longdesc colour figures in a document when they should be gathered and
+longdesc printed together as in a book's section of colour plates. The
+longdesc package provides a plate environment that takes the place of
+longdesc the figure environment for such colour images.
+containersize 6048
+containerchecksum f662191f6a053585bbcf5a71635b6f63ee5d713086bd24f3c879f73868b5ab42b6434860b68408fcade7b7ba448845d1dd6a5be12b10bc25be8032b9dcef9615
+doccontainersize 81112
+doccontainerchecksum 12779b285951d5e3d7a0f9d3ded736d5368291b678fd884262908897c4e32bd5fdbdd6bb4eeea59bf922555d5dc8daf6b0e06a174fba2605d4357dcf1f09c6d9
+runfiles size=5
+ texmf-dist/tex/latex/plates/endplate.sty
+ texmf-dist/tex/latex/plates/plates.sty
+catalogue-ctan /macros/latex/contrib/plates
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use
+catalogue-version 0.1

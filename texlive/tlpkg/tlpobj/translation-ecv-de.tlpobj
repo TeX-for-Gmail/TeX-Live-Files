@@ -1,0 +1,13 @@
+name translation-ecv-de
+category Package
+revision 24754
+shortdesc Ecv documentation, in German
+longdesc This is a "translation" of the ecv documentation.
+containersize 392
+containerchecksum 33998fcadaf7b42874968348ef4e3232652ea401410eea6a8011db146a4989afb102a2bba247df53b875bc02b1ea8f21ec5c68783ae43f36a3f175e77dde6453
+doccontainersize 406924
+doccontainerchecksum a86784aaeaa786251f35ddf273050e9c981a68d060ba1a2f186379e04f89edc696090b44b402996c4f2422d1cbfd7fd68136c29fc7c74a2fd32d6d230eb2e489
+catalogue-ctan /info/translations/ecv/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cv german-doc translation

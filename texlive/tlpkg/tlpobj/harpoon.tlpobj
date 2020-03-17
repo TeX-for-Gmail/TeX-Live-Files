@@ -1,0 +1,19 @@
+name harpoon
+category Package
+revision 21327
+shortdesc Extra harpoons, using the graphics package
+longdesc Provides over- and under-harpoon symbol commands; the harpoons
+longdesc may point in either direction, with the hook pointing up or
+longdesc down. The covered object is provided as an argument to the
+longdesc commands, so that they have the look of accent commands.
+containersize 1196
+containerchecksum 1894f54ff9eb98975f4eec9250a382534a0ede5312b4b540223d298a0fe5d7d8d24abe2018d07b30773e14bacdd97b60039a458fd274bb446aeb2e26b91bf96f
+doccontainersize 19464
+doccontainerchecksum 4d69050cd2a7c57219a7c55e8d97656fe6f130936d2e79a00d3760e9139799cbb98db2f338586b65412402069b22971ac73e5b722a3911bf1402625dac3e7d52
+runfiles size=1
+ texmf-dist/tex/latex/harpoon/harpoon.sty
+catalogue-ctan /macros/latex/contrib/harpoon
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics graphics-symb
+catalogue-version 1.0

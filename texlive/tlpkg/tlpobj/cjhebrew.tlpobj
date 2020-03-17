@@ -1,0 +1,36 @@
+name cjhebrew
+category Package
+revision 43444
+shortdesc Typeset Hebrew with LaTeX
+longdesc The cjhebrew package provides Adobe Type 1 fonts for Hebrew,
+longdesc and LaTeX macros to support their use. Hebrew text can be
+longdesc vocalised, and a few accents are also available. The package
+longdesc makes it easy to include Hebrew text in other-language
+longdesc documents. The package makes use of the e-TeX extensions to
+longdesc TeX, so should be run using an "e-LaTeX".
+execute addMap cjhebrew.map
+containersize 41616
+containerchecksum 65a73380bcfd8892ab2eb93d088076e2d5371019244bc8a65a4695e69a45f743248fce59557533add032a02a0b7ea4f02d6ea4634265d2d9718a5b100f5a18c6
+doccontainersize 112888
+doccontainerchecksum 591d932ae099aa168d55f9479842d25c5212dd7aed27eac1a5d05a111a8a396baae7c73ddafe1087a7b8008528c50b1a85825851643d8107133d41470ce1e397
+runfiles size=27
+ texmf-dist/fonts/afm/public/cjhebrew/cjheblsm.afm
+ texmf-dist/fonts/afm/public/cjhebrew/cjhebltx.afm
+ texmf-dist/fonts/enc/dvips/cjhebrew/cjhebltx.enc
+ texmf-dist/fonts/map/dvips/cjhebrew/cjhebrew.map
+ texmf-dist/fonts/tfm/public/cjhebrew/cjhblsm.tfm
+ texmf-dist/fonts/tfm/public/cjhebrew/cjhbltx.tfm
+ texmf-dist/fonts/tfm/public/cjhebrew/cjheblsm.tfm
+ texmf-dist/fonts/tfm/public/cjhebrew/cjhebltx.tfm
+ texmf-dist/fonts/tfm/public/cjhebrew/rcjhblsm.tfm
+ texmf-dist/fonts/tfm/public/cjhebrew/rcjhbltx.tfm
+ texmf-dist/fonts/type1/public/cjhebrew/cjheblsm.pfb
+ texmf-dist/fonts/type1/public/cjhebrew/cjhebltx.pfb
+ texmf-dist/fonts/vf/public/cjhebrew/cjhblsm.vf
+ texmf-dist/fonts/vf/public/cjhebrew/cjhbltx.vf
+ texmf-dist/tex/latex/cjhebrew/cjhebrew.sty
+catalogue-ctan /language/hebrew/cjhebrew
+catalogue-date 2017-03-09 19:41:20 +0100
+catalogue-license lppl
+catalogue-topics hebrew font font-type1 font-hebrew font-supp
+catalogue-version 0.2a

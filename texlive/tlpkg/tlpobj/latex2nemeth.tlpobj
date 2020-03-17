@@ -1,0 +1,32 @@
+name latex2nemeth
+category Package
+revision 45934
+shortdesc Convert LaTeX source to Braille with math in Nemeth
+longdesc After many failed attempts to transcribe real math notes and
+longdesc books to Braille/Nemeth in order to deal with a real situation
+longdesc (blind student in Math Dept.), we decided to develop a new
+longdesc program that follows a direct, from LaTeX to Braille/Nemeth,
+longdesc approach. Other attempts (such as tex4ht) failed because they
+longdesc all needed an extra step to go from xml to Braille, and this
+longdesc step (say, with liblouis) produced incomprehensible output
+longdesc (liblouis focuses in Office apps). Our main target was the
+longdesc Greek language which is only Braille level 1, but English at
+longdesc level 1 is supported as well. Simple pictures in PSTricks are
+longdesc also supported in order to produce tactile graphics with
+longdesc specialized equipment. Note that embossing will need
+longdesc LibreOffice and odt2braille as this project does not deal with
+longdesc embossers' drivers.
+depend latex2nemeth.ARCH
+containersize 7113440
+containerchecksum ee82b11dfd3ede3b926a034ce8a7f46ae2bdd065f648fc0375a62392a8be605e391c64726eea03efc439b7a01fcd3cecfd70106335c72927e45c70ef0c8aa48f
+doccontainersize 26732
+doccontainerchecksum a674eac6b80811890433c613f7ec9c6fc4667791c5b4692606e88d3e38ee59a3b68951e5f19b26d2b9f9de3b79002d17f4c539fdcfce37b82c3dfea5cb811086
+runfiles size=1945
+ texmf-dist/scripts/latex2nemeth/latex2nemeth
+ texmf-dist/scripts/latex2nemeth/latex2nemeth-v1.0.1.jar
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/braille/index-en.html
+catalogue-ctan /support/latex2nemeth
+catalogue-date 2017-11-28 11:33:20 +0100
+catalogue-license gpl3
+catalogue-topics cvt-other maths accessible
+catalogue-version 1.0.1

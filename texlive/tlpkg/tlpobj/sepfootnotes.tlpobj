@@ -1,0 +1,19 @@
+name sepfootnotes
+category Package
+revision 41732
+shortdesc Support footnotes and endnotes from separate files
+longdesc The package supports footnotes and endnotes from separate
+longdesc files. This is achieved with commands \sepfootnotecontent and
+longdesc \sepfootnote; the former defines the content of a note, while
+longdesc the latter typesets that note.
+containersize 2372
+containerchecksum a7333a9779ebca371aeef0a1348968d8b4649ca037e88f6e8a6f5224d13265202c8de8d2ce5dd89de170ddc348cfb04f5df92e249c122a608efa8fbab4daba98
+doccontainersize 207656
+doccontainerchecksum eb7d70eaec4bf58c85964f7a3692da09894c898f712a119fc0ffa42429be2e53b96ed6f569fcd37aff170d2b953543992bcc693e264ee1ec542c435be2723414
+runfiles size=3
+ texmf-dist/tex/latex/sepfootnotes/sepfootnotes.sty
+catalogue-ctan /macros/latex/contrib/sepfootnotes
+catalogue-date 2016-07-19 16:05:59 +0200
+catalogue-license lppl1.3
+catalogue-topics footnote
+catalogue-version 0.3c

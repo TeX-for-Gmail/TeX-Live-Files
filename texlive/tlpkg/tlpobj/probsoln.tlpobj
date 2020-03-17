@@ -1,0 +1,30 @@
+name probsoln
+category Package
+revision 44783
+shortdesc Generate problem sheets and their solution sheets
+longdesc The package is designed for lecturers who have to generate new
+longdesc problem sheets for their students on a regular basis (e.g.
+longdesc yearly) by randomly selecting a specified number of problems
+longdesc defined in another file. The package allows you easily to
+longdesc generate a new problem sheet that is different from the
+longdesc previous year, thus alleviating the temptation of students to
+longdesc seek out the previous year's students and checking out their
+longdesc answers. The solutions to the problems can be defined along
+longdesc with the problem, making it easy to generate the solution sheet
+longdesc from the same source code; problems may be reused within a
+longdesc document, so that solutions may appear in a different section
+longdesc of the same document as the problems they cover.
+containersize 7076
+containerchecksum f0c63a327569410af7eefa9f87fed56a6a2db78b05133c417afd245958a7f10dac965270fe00e7fe5de6ddfcc4a1cec446df819728e76ad347c7664fcfe849ec
+doccontainersize 954428
+doccontainerchecksum c79babc397260f03e2ad66556230966d1af97bbd5703c25cd09ff3aaad48b49d464672c501df047cf5226370b80588705c59212e75d0d1970337fd446d86e70e
+srccontainersize 25472
+srccontainerchecksum 53ce8efe56938c3e16da53bb1255d86b1ae9cc546cbf4983156c098ac07f1e7c16a998a7dc53fd445efa9f42a6b82889e50c188aa57a72aa9186177fbd744f5d
+runfiles size=8
+ texmf-dist/tex/latex/probsoln/probsoln.sty
+catalogue-contact-bugs http://www.dickimaw-books.com/cgi-bin/bugtracker.cgi?category=probsoln
+catalogue-ctan /macros/latex/contrib/probsoln
+catalogue-date 2017-07-10 15:22:13 +0200
+catalogue-license lppl
+catalogue-topics exercise
+catalogue-version 3.05

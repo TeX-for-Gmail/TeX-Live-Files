@@ -1,0 +1,23 @@
+name subfloat
+category Package
+revision 29349
+shortdesc Sub-numbering for figures and tables
+longdesc This package enables sub-numbering of floats (figures and
+longdesc tables) similar to the subequations-environment of the amsmath
+longdesc package. The subfloat package is not to be confused with the
+longdesc subfig package which generates sub-figures within one normal
+longdesc figure, and manages their placement; subfloat only affects
+longdesc captions and numbering.
+containersize 2032
+containerchecksum d5bd48fe7634ef6deec540595fd23aea21d95d7c68d053bc65eeebc950e35064add73e5b81e92d3a3d4a4dc938448d9c9a27bd0f1a625e4a9f425d4e2d55f237
+doccontainersize 89332
+doccontainerchecksum 400b9b272e51cd9fa7370f1cf7cb354dc1235fc41d57fb07061dd08b44e06cfc17d38c1be3fd5bafb5ed6bd0404660c46c9bbbfd2fb852297f283be85424c088
+srccontainersize 7148
+srccontainerchecksum e72b55996a07665b1deb038c5924e7a71c7b7aea761a1420d4c38d64c1ee98b8663b4a996ae39a869cb12b6ef99efd09c989f937bee18f05a1eba57856dc686f
+runfiles size=2
+ texmf-dist/tex/latex/subfloat/subfloat.sty
+catalogue-ctan /macros/latex/contrib/subfloat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics subfloat
+catalogue-version 2.14

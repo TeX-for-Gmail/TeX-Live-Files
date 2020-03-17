@@ -1,0 +1,19 @@
+name chronology
+category Package
+revision 37934
+shortdesc Provides a horizontal timeline
+longdesc A timeline package that allows labelling of events with per-day
+longdesc granularity. Other features include relative positioning with
+longdesc unit specification, adjustable tick mark step size, and scaling
+longdesc to specified width.
+containersize 1656
+containerchecksum 6fca0b31511366c1e39f6518bf5c6e10bfb503a8a901d9e1167866a40e2fbb9d2a6e109f48e146bbaaa2c017ac96e82196a5f49a91c6c9f52eee2633fd5c0737
+doccontainersize 12772
+doccontainerchecksum ce0417e339724dfd97c227f104d9cd0b697c1cb7a5c586c890c3e938bbdaf5db2984fa83a09d983970c1105751cd012e544807a74bf0a35ecd2074a97d0520a4
+runfiles size=1
+ texmf-dist/tex/latex/chronology/chronology.sty
+catalogue-ctan /macros/latex/contrib/chronology
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics planning calendar
+catalogue-version 1.1.1

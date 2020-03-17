@@ -1,0 +1,79 @@
+name t2
+category Package
+revision 47870
+shortdesc Support for using T2 encoding
+longdesc The T2 bundle provides a variety of separate support functions
+longdesc for using Cyrillic characters in LaTeX: the mathtext package,
+longdesc for using Cyrillic letters 'transparently' in formulae; the
+longdesc citehack package, for using Cyrillic (or indeed any non-ascii)
+longdesc characters in citation keys; support for Cyrillic in BibTeX;
+longdesc support for Cyrillic in Makeindex; and various items of font
+longdesc support.
+containersize 27072
+containerchecksum 9a47581909735a9ba582b71a132c925beab45cbfeb0201c93d138c35670fdf65580e6dc20d9498458e01eba7088c81d67cce329465e4763235e3f3404959c5c6
+doccontainersize 28752
+doccontainerchecksum 8c30658eab02eb576963a6a2f722b143444abf5d286473f165b6cab84c75ef703462a1841121a5d12cf822b150ce8c23a96256754a2d662fbe6c451a058333ef
+runfiles size=109
+ texmf-dist/fonts/enc/t2/t2a-mod1.enc
+ texmf-dist/fonts/enc/t2/t2a-mod2.enc
+ texmf-dist/fonts/enc/t2/t2a.enc
+ texmf-dist/fonts/enc/t2/t2b.enc
+ texmf-dist/fonts/enc/t2/t2c.enc
+ texmf-dist/fonts/enc/t2/x2.enc
+ texmf-dist/tex/generic/t2/cyrfinst/6r.etx
+ texmf-dist/tex/generic/t2/cyrfinst/README
+ texmf-dist/tex/generic/t2/cyrfinst/cyrillic.mtx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyc.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyci.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcycij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcycj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyctt.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyi.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyitt.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcyj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/lcytt.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/ot2c.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/ot2cj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/ot2i.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/ot2ij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/ot2j.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2ac.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2acj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2ai.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2aij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2aj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2bc.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2bcj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2bi.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2bij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2bj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2cc.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2ccj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2ci.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2cij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/t2cj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/x2c.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/x2cj.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/x2i.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/x2ij.etx
+ texmf-dist/tex/generic/t2/cyrfinst/derivatives/x2j.etx
+ texmf-dist/tex/generic/t2/cyrfinst/etc/alias-cmc.tex
+ texmf-dist/tex/generic/t2/cyrfinst/etc/alias-wncy.tex
+ texmf-dist/tex/generic/t2/cyrfinst/etc/cyralias.tex
+ texmf-dist/tex/generic/t2/cyrfinst/etc/fnstcorr.tex
+ texmf-dist/tex/generic/t2/cyrfinst/etc/showenc
+ texmf-dist/tex/generic/t2/cyrfinst/lcy-hi.etx
+ texmf-dist/tex/generic/t2/cyrfinst/lcy.etx
+ texmf-dist/tex/generic/t2/cyrfinst/ot2.etx
+ texmf-dist/tex/generic/t2/cyrfinst/t2a.etx
+ texmf-dist/tex/generic/t2/cyrfinst/t2b.etx
+ texmf-dist/tex/generic/t2/cyrfinst/t2c.etx
+ texmf-dist/tex/generic/t2/cyrfinst/x2.etx
+ texmf-dist/tex/latex/t2/citehack.sty
+ texmf-dist/tex/latex/t2/mathtext.sty
+ texmf-dist/tex/latex/t2/misccorr.sty
+catalogue-ctan /macros/latex/contrib/t2
+catalogue-date 2018-05-08 17:14:58 +0200
+catalogue-license lppl
+catalogue-topics fontenc cyrillic

@@ -1,0 +1,16 @@
+name showtags
+category Package
+revision 20336
+shortdesc Print the tags of bibliography entries
+longdesc Prints the tag right-aligned on each line of the bibliography.
+containersize 2052
+containerchecksum b70dc03f22838dab65631d39d8690897d4a5c71b5451775e85cdc3ff600d63afc29bd28e49aa64a5a2467143f4a84d62f5a2a9af4a8365e0a867d6a46e9de93b
+doccontainersize 211912
+doccontainerchecksum 3e1efebe8edd469e66b18aea9d9a3614b753a43ac61f5a31b57fccc1b45047aaaee8f80d156932671f9ae7457fc627732f1f72c65fca42946280c1182d8960de
+runfiles size=2
+ texmf-dist/tex/latex/showtags/showtags.sty
+catalogue-ctan /macros/latex/contrib/showtags
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics bibtex-supp
+catalogue-version 1.05

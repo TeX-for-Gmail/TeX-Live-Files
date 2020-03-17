@@ -1,0 +1,8 @@
+name findhyph.x86_64-linux
+category Package
+revision 14758
+shortdesc x86_64-linux files of findhyph
+containersize 336
+containerchecksum 0a406d29690576c2b407f0be03eb7c82c0ed56f08c764c0ceced8983795f57572fd2d978bb582ee624ab81dbe4a46709323c7a9a2190f3845e521d5901564ddb
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/findhyph

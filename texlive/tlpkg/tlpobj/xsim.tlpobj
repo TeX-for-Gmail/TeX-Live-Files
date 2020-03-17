@@ -1,0 +1,41 @@
+name xsim
+category Package
+revision 46634
+shortdesc eXercise Sheets IMproved
+longdesc This package helps in creating exercises and the corresponding
+longdesc solutions. It is the official successor of the exsheets package
+longdesc and fixes/improves various long-standing issues.
+containersize 29244
+containerchecksum ef198c64ae58b3a5c0062bb18de07c595c6f260bd6684d75aa5af8e22dcb5b83d305a8d2e1db666fbae321b91a36c62cc6ef6c971cc576d9fb58c88bff01d57d
+doccontainersize 2470624
+doccontainerchecksum 6ebf584d3b21c2afd414e7a6dc77211764b558687c9e453a3856961b2a753f684025fa40f45f1dbfd82cb73bdab2ff0e7ee8a4a94776c808fe6afd551f67644a
+runfiles size=63
+ texmf-dist/tex/latex/xsim/xsim-manual.cls
+ texmf-dist/tex/latex/xsim/xsim.auxfile.code.tex
+ texmf-dist/tex/latex/xsim/xsim.base.code.tex
+ texmf-dist/tex/latex/xsim/xsim.blanks.code.tex
+ texmf-dist/tex/latex/xsim/xsim.collections.code.tex
+ texmf-dist/tex/latex/xsim/xsim.definitions.code.tex
+ texmf-dist/tex/latex/xsim/xsim.environments.code.tex
+ texmf-dist/tex/latex/xsim/xsim.exercises.code.tex
+ texmf-dist/tex/latex/xsim/xsim.goals.code.tex
+ texmf-dist/tex/latex/xsim/xsim.grades.code.tex
+ texmf-dist/tex/latex/xsim/xsim.interface.code.tex
+ texmf-dist/tex/latex/xsim/xsim.modules.code.tex
+ texmf-dist/tex/latex/xsim/xsim.properties.code.tex
+ texmf-dist/tex/latex/xsim/xsim.random.code.tex
+ texmf-dist/tex/latex/xsim/xsim.solutions.code.tex
+ texmf-dist/tex/latex/xsim/xsim.sty
+ texmf-dist/tex/latex/xsim/xsim.style.layouts.code.tex
+ texmf-dist/tex/latex/xsim/xsim.tags.code.tex
+ texmf-dist/tex/latex/xsim/xsim.templates.code.tex
+ texmf-dist/tex/latex/xsim/xsim.translations.code.tex
+ texmf-dist/tex/latex/xsim/xsim.verbwrite.code.tex
+ texmf-dist/tex/latex/xsim/xsimverb.sty
+catalogue-contact-bugs https://github.com/cgnieder/xsim/issues
+catalogue-contact-repository https://github.com/cgnieder/xsim/
+catalogue-ctan /macros/latex/contrib/xsim
+catalogue-date 2018-02-14 13:24:04 +0100
+catalogue-license lppl1.3
+catalogue-topics exercise exam expl3
+catalogue-version 0.11

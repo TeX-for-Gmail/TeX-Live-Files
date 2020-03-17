@@ -1,0 +1,8 @@
+name pdfbook2.x86_64-linux
+category Package
+revision 37537
+shortdesc x86_64-linux files of pdfbook2
+containersize 336
+containerchecksum 8a3b310031a52a0f1b2b995d7d42f91e197112b5cf6a1d8935e6d4468142c43ae50e49185a39c2d1bf61093c5d6e5ce27c8fccf657c4c0c2f11232189c02bc97
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pdfbook2

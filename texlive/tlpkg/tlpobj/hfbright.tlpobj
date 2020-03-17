@@ -1,0 +1,70 @@
+name hfbright
+category Package
+revision 29349
+shortdesc The hfbright fonts
+longdesc These are Adobe Type 1 versions of the OT1-encoded and maths
+longdesc parts of the Computer Modern Bright fonts.
+execute addMixedMap hfbright.map
+containersize 832824
+containerchecksum 91c8b007dd8ce71af9dbc98a66a82a395d68fc87a0abcf9518b5b89a98dc23b28f1b9b9aa551f82b920dc3e2d8b6500884eaa3bc98be48371a9774f9f283a641
+doccontainersize 4964
+doccontainerchecksum 7de24b513093d965fab1f8d7d13ec4b356e7f5495cb3a8f17204b1a786288488b4921df6b7e184262bdd3aa11fed6483a25d0bf8e898db05c8b1f7dff769c175
+runfiles size=313
+ texmf-dist/fonts/afm/public/hfbright/hfbr10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbr17.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbr8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbr9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbras10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbras8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbras9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrbs10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrbs8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrbs9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrbx10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrmb10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrmi10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrmi8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrmi9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsl10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsl17.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsl8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsl9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsy10.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsy8.afm
+ texmf-dist/fonts/afm/public/hfbright/hfbrsy9.afm
+ texmf-dist/fonts/afm/public/hfbright/hfsltl10.afm
+ texmf-dist/fonts/afm/public/hfbright/hftl10.afm
+ texmf-dist/fonts/enc/dvips/hfbright/hfmital.enc
+ texmf-dist/fonts/enc/dvips/hfbright/hfmsa.enc
+ texmf-dist/fonts/enc/dvips/hfbright/hfmsb.enc
+ texmf-dist/fonts/enc/dvips/hfbright/hfmsym.enc
+ texmf-dist/fonts/enc/dvips/hfbright/hfot1.enc
+ texmf-dist/fonts/map/dvips/hfbright/hfbright.map
+ texmf-dist/fonts/type1/public/hfbright/hfbr10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbr17.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbr8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbr9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbras10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbras8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbras9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrbs10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrbs8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrbs9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrbx10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrmb10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrmi10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrmi8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrmi9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsl10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsl17.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsl8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsl9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsy10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsy8.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfbrsy9.pfb
+ texmf-dist/fonts/type1/public/hfbright/hfsltl10.pfb
+ texmf-dist/fonts/type1/public/hfbright/hftl10.pfb
+catalogue-ctan /fonts/ps-type1/hfbright
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-sans font-type1

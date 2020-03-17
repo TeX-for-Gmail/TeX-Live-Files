@@ -1,0 +1,24 @@
+name abc
+category Package
+revision 41157
+shortdesc Support ABC music notation in LaTeX
+longdesc The abc package lets you include lines of music written in the
+longdesc ABC Plus language. The package will then employ the \write18
+longdesc facility to convert your notation to PostScript (using the
+longdesc established utility abcm2ps) and hence to the format needed for
+longdesc inclusion in your document.
+containersize 2608
+containerchecksum 8b1ccd152ed2ad90810551a36f0fa7f114625784fa967f70b67559f9f1e8eb32d7edd08efc9e55dd92723df4039d1bdcc212200d712e99f27de84a153c2a3777
+doccontainersize 281848
+doccontainerchecksum 5f127f8e1ec104b40ac4d5e9bb22965e9376033892362073cdea9f65f1f10a4152f237b4f27bf52dbbe1389f59d3da673434c39a2b3f43d6f17aa60caabd5584
+srccontainersize 9616
+srccontainerchecksum e47ba563a1018edfad97fb0556e4f74c7f3054a56c38304d9a188a92b51554628430332b4e66ebf1d12eb4ec6719cc13d7ea62c23157e70a3c0d40e172b9a04c
+runfiles size=3
+ texmf-dist/tex/latex/abc/abc.sty
+ texmf-dist/tex/latex/abc/mup.sty
+catalogue-also abc2mtex
+catalogue-ctan /macros/latex/contrib/abc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics music foreign-import
+catalogue-version 2.0b

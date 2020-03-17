@@ -1,0 +1,31 @@
+name etextools
+category Package
+revision 20694
+shortdesc e-TeX tools for LaTeX users and package writers
+longdesc The package provides many (purely expandable) tools for LaTeX:
+longdesc Extensive list management (csv lists, lists of single
+longdesc tokens/characters, etoolbox lists); purely expandable loops
+longdesc (csvloop, forcsvloop, etc.); conversion (csvtolist, etc.));
+longdesc addition/deletion (csvadd, listdel, etc.); Expansion and group
+longdesc control: \expandnext, \ExpandAfterCmds, \AfterGroup...; Tests
+longdesc on tokens, characters and control sequences (\iffirstchar,
+longdesc \ifiscs, \ifdefcount, \@ifchar...); Tests on strings
+longdesc (\ifstrnum, \ifuppercase, \DeclareStringFilter...); Purely
+longdesc expandable macros with options (\FE@testopt, \FE@ifstar) or
+longdesc modifiers (\FE@modifiers); Some purely expandable numerics
+longdesc (\interval, \locinterplin). The package is dependent on the
+longdesc etex and the etoolbox packages.
+containersize 11492
+containerchecksum ed7e514441de2fd296c372d9c56dd71ebd5318bd67eb4611c4bf784b16b045a08338ca4456899739dc023e5bc4695a6fd1784e592e542cac6a0564a68307a983
+doccontainersize 928644
+doccontainerchecksum 5a8d722f9e2e59d483c7421909b4a0f8719b0de81f2b8b95801f905d478624eb4df936f193eb3e4ad1e3f0c2d844c7672a5e2ab1c0ff0654ed88c66bee4802ef
+srccontainersize 54816
+srccontainerchecksum a2535e9648828eee76f6fe48d7c85ab4211c2c107bc91f72a944f8a9eae384205ef371459fe2df743712039eb745e48dfbcfc42cd39b7d5391263711ba027862
+runfiles size=14
+ texmf-dist/tex/latex/etextools/etextools.sty
+catalogue-also etoolbox
+catalogue-ctan /macros/latex/contrib/etextools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp csv-support
+catalogue-version 3.1415926

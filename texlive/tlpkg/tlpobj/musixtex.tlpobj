@@ -1,0 +1,83 @@
+name musixtex
+category Package
+revision 48353
+shortdesc Sophisticated music typesetting
+longdesc MusiXTeX provides a set of macros, based on the earlier
+longdesc MusicTeX, for typesetting music with TeX. To produce optimal
+longdesc spacing, MusiXTeX is a three-pass system: etex, musixflx, and
+longdesc etex again. (Musixflx is a lua script that is provided in the
+longdesc bundle.) The three-pass process, optionally followed by
+longdesc processing for printed output, is automated by the musixtex
+longdesc wrapper script. The package uses its own specialised fonts,
+longdesc which must be available on the system for musixtex to run. This
+longdesc version of MusiXTeX builds upon work by Andreas Egler, whose
+longdesc own version is no longer being developed. The MusiXTeX macros
+longdesc are universally acknowledged to be challenging to use directly:
+longdesc the pmx preprocessor compiles a simpler input language to
+longdesc MusiXTeX macros..
+depend musixtex.ARCH
+containersize 100880
+containerchecksum 2793fe7e110e97df26dc0a681b24cd738eadbc6bf322b438141b66718b561af3d1c7cb029e465827151be5242d620a3182aa304467f3e8e7c58f457310881c0f
+doccontainersize 2032188
+doccontainerchecksum 29e7bbfda630825726d716ec45e4112b7d35e180a5d9294a5d1f7a1c8a8c544a8f9020021d17a1db74068ec23ed0c744593f74426fe465182d139d3e9e70e829
+srccontainersize 9012
+srccontainerchecksum 62a04ce4d437ada5b2a267b648844cc6702194979530f985bd7fb96b2242d9e92d9fd6367917352aa7f9a699f520569acd2fbfc4d6d56f2f33e9f6173f311909
+runfiles size=148
+ texmf-dist/dvips/musixtex/psslurs.pro
+ texmf-dist/scripts/musixtex/musixflx.lua
+ texmf-dist/scripts/musixtex/musixtex.lua
+ texmf-dist/tex/generic/musixtex/musixadd.tex
+ texmf-dist/tex/generic/musixtex/musixadf.tex
+ texmf-dist/tex/generic/musixtex/musixbar.tex
+ texmf-dist/tex/generic/musixtex/musixbbm.tex
+ texmf-dist/tex/generic/musixtex/musixblx.tex
+ texmf-dist/tex/generic/musixtex/musixbm.tex
+ texmf-dist/tex/generic/musixtex/musixcho.tex
+ texmf-dist/tex/generic/musixtex/musixcpt.tex
+ texmf-dist/tex/generic/musixtex/musixcrd.tex
+ texmf-dist/tex/generic/musixtex/musixdat.tex
+ texmf-dist/tex/generic/musixtex/musixdbr.tex
+ texmf-dist/tex/generic/musixtex/musixdia.tex
+ texmf-dist/tex/generic/musixtex/musixec.tex
+ texmf-dist/tex/generic/musixtex/musixeng.tex
+ texmf-dist/tex/generic/musixtex/musixesf.tex
+ texmf-dist/tex/generic/musixtex/musixevo.tex
+ texmf-dist/tex/generic/musixtex/musixext.tex
+ texmf-dist/tex/generic/musixtex/musixfll.tex
+ texmf-dist/tex/generic/musixtex/musixgre.tex
+ texmf-dist/tex/generic/musixtex/musixgui.tex
+ texmf-dist/tex/generic/musixtex/musixhor.tex
+ texmf-dist/tex/generic/musixtex/musixhou.tex
+ texmf-dist/tex/generic/musixtex/musixhv.tex
+ texmf-dist/tex/generic/musixtex/musixinv.tex
+ texmf-dist/tex/generic/musixtex/musixlit.tex
+ texmf-dist/tex/generic/musixtex/musixlyr.tex
+ texmf-dist/tex/generic/musixtex/musixmad.tex
+ texmf-dist/tex/generic/musixtex/musixper.tex
+ texmf-dist/tex/generic/musixtex/musixplt.tex
+ texmf-dist/tex/generic/musixtex/musixpoi.tex
+ texmf-dist/tex/generic/musixtex/musixppff.tex
+ texmf-dist/tex/generic/musixtex/musixps.tex
+ texmf-dist/tex/generic/musixtex/musixref.tex
+ texmf-dist/tex/generic/musixtex/musixslu.tex
+ texmf-dist/tex/generic/musixtex/musixsqr.tex
+ texmf-dist/tex/generic/musixtex/musixste.tex
+ texmf-dist/tex/generic/musixtex/musixstf.tex
+ texmf-dist/tex/generic/musixtex/musixstr.tex
+ texmf-dist/tex/generic/musixtex/musixsty.tex
+ texmf-dist/tex/generic/musixtex/musixtex.tex
+ texmf-dist/tex/generic/musixtex/musixtmr.tex
+ texmf-dist/tex/generic/musixtex/musixtri.tex
+ texmf-dist/tex/generic/musixtex/tuplet.tex
+ texmf-dist/tex/latex/musixtex/musixcpt.sty
+ texmf-dist/tex/latex/musixtex/musixcrd.sty
+ texmf-dist/tex/latex/musixtex/musixfll.sty
+ texmf-dist/tex/latex/musixtex/musixltx.tex
+ texmf-dist/tex/latex/musixtex/musixtex.sty
+catalogue-also pmx
+catalogue-contact-home http://icking-music-archive.org/software/htdocs
+catalogue-ctan /macros/musixtex
+catalogue-date 2018-08-05 08:12:10 +0200
+catalogue-license gpl2+
+catalogue-topics music
+catalogue-version 1.29

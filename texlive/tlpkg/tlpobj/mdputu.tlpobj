@@ -1,0 +1,30 @@
+name mdputu
+category Package
+revision 20298
+shortdesc Upright digits in Adobe Utopia Italic
+longdesc The Annals of Mathematics uses italics for theorems. However,
+longdesc slanted digits and parentheses look disturbing when surrounded
+longdesc by (upright) mathematics. This package provides virtual fonts
+longdesc with italics and upright digits and punctuation, as an
+longdesc extension to Mathdesign's Utopia bundle.
+containersize 16964
+containerchecksum 2720c63845939d2befea3af157eae95d2550a216cd22634ab0a923a06d50b48e7133e914d210c5d3aaae6fd620312d23d2e55a015c2a24ee1881bc7ed4868778
+doccontainersize 196940
+doccontainerchecksum 8c8097552ffa1f11944203e818742bec244abc5a7708207cbb69c46ffc64acaac28ca390c1ee256cd1cf2af093e39189cc9bcf655e948062cd217b58acee7628
+runfiles size=29
+ texmf-dist/fonts/tfm/public/mdputu/mdputubi7t.tfm
+ texmf-dist/fonts/tfm/public/mdputu/mdputubi8t.tfm
+ texmf-dist/fonts/tfm/public/mdputu/mdputuri7t.tfm
+ texmf-dist/fonts/tfm/public/mdputu/mdputuri8t.tfm
+ texmf-dist/fonts/vf/public/mdputu/mdputubi7t.vf
+ texmf-dist/fonts/vf/public/mdputu/mdputubi8t.vf
+ texmf-dist/fonts/vf/public/mdputu/mdputuri7t.vf
+ texmf-dist/fonts/vf/public/mdputu/mdputuri8t.vf
+ texmf-dist/tex/latex/mdputu/mdputu.sty
+ texmf-dist/tex/latex/mdputu/ot1mdputu.fd
+ texmf-dist/tex/latex/mdputu/t1mdputu.fd
+catalogue-ctan /fonts/mdputu
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font-maths font-virtual
+catalogue-version 1.2

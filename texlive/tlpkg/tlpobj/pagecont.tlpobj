@@ -1,0 +1,20 @@
+name pagecont
+category Package
+revision 15878
+shortdesc Page numbering that continues between documents
+longdesc The package provides the facility that several documents can be
+longdesc typeset independently with page numbers in sequence, as if they
+longdesc were a single document.
+containersize 1344
+containerchecksum 53b0f558c6198181349a66b39f0b54108a931279766882bfb713390e79ad0f62218ed841416e143c6909161ffec548592ffccb337505eba61f643a05d49f1fa6
+doccontainersize 73804
+doccontainerchecksum 634110b7cde040e5ae7be237abd6817055f7886d9fed5ce1a00b5ea93e9bc885f0c15398c280abe8472e27ce89aade2a827e66fc041081c8d31cdaf7755119bc
+srccontainersize 2920
+srccontainerchecksum 86417ff0f398efbf5b6abf2272df933734724a7d94f93d0a94704c393e195ca0a5828698d4d91527fe1bb0d70a26af49998513f0e9d80e1b8966239555a3dfab
+runfiles size=1
+ texmf-dist/tex/latex/pagecont/pagecont.sty
+catalogue-ctan /macros/latex/contrib/pagecont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics page-nos
+catalogue-version 1.0

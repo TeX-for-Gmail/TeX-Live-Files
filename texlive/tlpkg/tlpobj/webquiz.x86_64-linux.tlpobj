@@ -1,0 +1,8 @@
+name webquiz.x86_64-linux
+category Package
+revision 50419
+shortdesc x86_64-linux files of webquiz
+containersize 340
+containerchecksum 64721cc42dca06adc878937d1e83e2f09cb270fb1e27736427f05064b5c29cb859f29b9446ea282dbed998ef4a0f217cf3f1023c905aeb1ac79d69c421a97531
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/webquiz

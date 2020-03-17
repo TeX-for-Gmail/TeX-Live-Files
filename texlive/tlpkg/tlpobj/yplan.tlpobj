@@ -1,0 +1,24 @@
+name yplan
+category Package
+revision 34398
+shortdesc Daily planner type calendar
+longdesc Prints two six-monthly vertical-type daily planner (i.e.,
+longdesc months along the top, days downwards), with each 6-month period
+longdesc fitting onto a single A4 (or US letter) sheet. The package
+longdesc offers support for English, French, German, Spanish and
+longdesc Portuguese. The previous scheme of annual updates has now been
+longdesc abandoned, in favour of a Perl script yplan that generates a
+longdesc year's planner automatically. (The last manually-generated
+longdesc LaTeX file remains on the archive.)
+depend yplan.ARCH
+containersize 6236
+containerchecksum 4884ac99b0b56927fb86c6e06ae9d4accb7d8b441bb17df79753d8af9ee84b9440d66ad4fcf2107aa036eb2af89d5ad49d0a4c4cb91236c6475cf81bab85566a
+doccontainersize 4588
+doccontainerchecksum 7d3cddf3f2d54283b777c7ab7867df68fdb484c67d2f88589e29fc087db721e7ba9e0fcea2ffde9328e89075884d668b7de8fc61f462b735d9f1cfadb9662463
+runfiles size=5
+ texmf-dist/scripts/yplan/yplan
+ texmf-dist/tex/latex/yplan/yplan.sty
+catalogue-ctan /macros/latex/contrib/yplan
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics calendar

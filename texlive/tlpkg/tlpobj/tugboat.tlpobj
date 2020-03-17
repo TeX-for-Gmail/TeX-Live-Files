@@ -1,0 +1,28 @@
+name tugboat
+category Package
+revision 49415
+shortdesc LaTeX macros for TUGboat articles
+longdesc Provides ltugboat.cls for both regular and proceedings issues
+longdesc of the TUGboat journal. The distribution also a BibTeX style,
+longdesc tugboat.bst.
+containersize 26064
+containerchecksum 56a495c6239ed1a8ef1844bd90f9bcb97e2c97664877f343d198f9d9192d33e866b87334b961583d765d9b78633a5b5415933c000270d23be34f637612cfd1eb
+doccontainersize 769816
+doccontainerchecksum 9fbe0a3438a81acc63424007bea1f2e8ff7f6a29e16bf1642963763aaba763f64bc26863ffbe9cc9318836df2e9191c5d8bcef821f573447a262f2b49896edfe
+srccontainersize 38620
+srccontainerchecksum 76152f1a32da57ed51d97a8f6189b5a72ae0ffbf18934506034ac84014bb0a4bd790aed1919454e87838e3a68f88d38f191dbce995372741a47bed65449dc90b
+runfiles size=39
+ texmf-dist/bibtex/bst/tugboat/ltugbib.bst
+ texmf-dist/bibtex/bst/tugboat/tugboat.bst
+ texmf-dist/tex/latex/tugboat/ltugboat.cls
+ texmf-dist/tex/latex/tugboat/ltugboat.sty
+ texmf-dist/tex/latex/tugboat/ltugcomn.sty
+ texmf-dist/tex/latex/tugboat/ltugproc.cls
+ texmf-dist/tex/latex/tugboat/ltugproc.sty
+catalogue-also tugboat-plain
+catalogue-contact-home https://tug.org/TUGboat
+catalogue-ctan /macros/latex/contrib/tugboat
+catalogue-date 2018-12-14 21:15:38 +0100
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 2.21

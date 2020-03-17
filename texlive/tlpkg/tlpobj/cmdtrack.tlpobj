@@ -1,0 +1,24 @@
+name cmdtrack
+category Package
+revision 28910
+shortdesc Check used commands
+longdesc The package keeps track of whether a command defined in a
+longdesc document preamble is actually used somewhere in the document.
+longdesc After the package is loaded in the preamble of a document, all
+longdesc \newcommand (and similar command definitions) between that
+longdesc point and the beginning of the document will be marked for
+longdesc logging. At the end of the document a report of command usage
+longdesc will be printed in the TeX log, for example: "mdash was used on
+longdesc line 25"; "ndash was never used".
+containersize 2884
+containerchecksum 22de643d5b45f3898a1aeee44ae88594b545af34bb5bdac937753c13d31071872a78935dc2c73fb22c0e591d164f618549a2bd67a00550f3fb70753a951ad4cc
+doccontainersize 131540
+doccontainerchecksum 2a69b054e1de07b31426e653af45125824bd037cf5a24fcde1f0fe1b6aa3eb925688959aa84094ecc65954b92030e1b78545db18f08a39990c4412d487ce2284
+srccontainersize 5748
+srccontainerchecksum c6b02dd165bfb3ab40ee05aa3ac9df74faff8167de021495fb08e0d173b83f75453915a634d81d260d4739166b2e5a519b8cecfc7807d25f396c27c5b65f58f3
+runfiles size=2
+ texmf-dist/tex/latex/cmdtrack/cmdtrack.sty
+catalogue-ctan /macros/latex/contrib/cmdtrack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics debug-supp

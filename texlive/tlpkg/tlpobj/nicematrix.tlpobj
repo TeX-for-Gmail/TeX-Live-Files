@@ -1,0 +1,27 @@
+name nicematrix
+category Package
+revision 49866
+shortdesc Several features to improve the typesetting of mathematical matrices with TikZ
+longdesc This package provides new environments similar to the
+longdesc environments matrix, pmatrix, bmatrix, etc. of amsmath and
+longdesc mathtools. In these new environments, a TikZ node is created
+longdesc for each cell of the matrix. The user can use these nodes
+longdesc directly but nicematrix also provides commands which use these
+longdesc nodes to draw continuous dotted lines from two cells of the
+longdesc matrix (the result is more aesthetic than the classical result
+longdesc obtained using \cdots, \vdots, \ddots, etc.). This package also
+longdesc provides a control over the width of the columns and the
+longdesc possibility to add an exterior line and an exterior column.
+containersize 8244
+containerchecksum af54c75598589c6b424afcccc3a6771523b9957ce457ee0440ac0e0946c09d6e8ab379e23a1cebcb42470584fa09ec9c039c39fd04ab896821be040186b1c007
+doccontainersize 369984
+doccontainerchecksum a461981241f15a73799a59781527b2d9dcdaf07c70c8f0f4835ae19f8a9fde7d1ed4363f341ef172479e88526b69fb31d4c9ba6354b1b3063ba48aa4d4ae7cd7
+srccontainersize 30076
+srccontainerchecksum fbb4916fa0206da20449c2f0e3244aff06b2b4f7de4301bd224b5393da87baaa6e9eb32fdb004b6520c461b435b2d1bf1825a841790271bf7bb0ddaa1b7bb171
+runfiles size=15
+ texmf-dist/tex/latex/nicematrix/nicematrix.sty
+catalogue-ctan /macros/latex/contrib/nicematrix
+catalogue-date 2019-01-28 22:49:06 +0100
+catalogue-license lppl1.3
+catalogue-topics maths pgf-tikz
+catalogue-version 2.1.4

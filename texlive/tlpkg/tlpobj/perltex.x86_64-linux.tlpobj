@@ -1,0 +1,8 @@
+name perltex.x86_64-linux
+category Package
+revision 16181
+shortdesc x86_64-linux files of perltex
+containersize 340
+containerchecksum 1a045ca2d713d75dc473867a870983cd5eb4cdf9b9b4e6c25e9333dda0fcbc85713b383a4620444362607b9597c4ef81296b2ae4c18a3e80696b8be0a1867eac
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/perltex

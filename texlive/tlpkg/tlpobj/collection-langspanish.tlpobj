@@ -1,0 +1,22 @@
+name collection-langspanish
+category Collection
+revision 40587
+shortdesc Spanish
+longdesc Support for Spanish.
+depend collection-basic
+depend babel-catalan
+depend babel-galician
+depend babel-spanglish
+depend babel-spanish
+depend es-tex-faq
+depend hyphen-catalan
+depend hyphen-galician
+depend hyphen-spanish
+depend l2tabu-spanish
+depend latex2e-help-texinfo-spanish
+depend latexcheat-esmx
+depend lshort-spanish
+depend spanish-mx
+depend texlive-es
+containersize 392
+containerchecksum ed816cee1ca88a971b621d4a91ea7e6beebf8aacb684f8f000da8c4ce58e368a347eec69676db992dd1f09f287957855b4e814336a9bec689656a3eb6c34ce8b

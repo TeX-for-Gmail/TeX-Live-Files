@@ -1,0 +1,31 @@
+name splitindex
+category Package
+revision 39766
+shortdesc Unlimited number of indexes
+longdesc SplitIndex consists of a LaTeX package, splitidx, and a small
+longdesc program, splitindex. The package may be used to produce one
+longdesc index or several indexes. Without splitindex (for example,
+longdesc using the index package), the number of indexes is limited by
+longdesc the number of TeX's output streams. But using the program you
+longdesc may use even more than 16 indexes: splitidx outputs only a
+longdesc single file \jobname.idx and the program splits that file into
+longdesc several raw index files and calls your favorite index processor
+longdesc for each of the files.
+depend splitindex.ARCH
+containersize 8084
+containerchecksum 858033eadfa82b4e40a388356f64002370a5f4fc2c95565eae90c68373f708a3c9827fc4e0ba8094659382aba4e5925cba86632733b15d85ea6a82f73ace8737
+doccontainersize 442388
+doccontainerchecksum c8dd92e955fcccf71b412d9750fff7b6f214e929ddf194a6496a79a146f4837af3d773ed3f2303546727cc4a8fb9d5366dd75b64d3877e6121ce20315f71997a
+srccontainersize 24252
+srccontainerchecksum 8aa928bdf6f2e8fb6274c1fe8d0b4567d03a1c6ffbd078726bf6a36ff1bdab981d5150cf0250602a64d2a0a9be92695fdd399c04d041b7a9579a7d3a71910151
+runfiles size=10
+ texmf-dist/scripts/splitindex/splitindex.pl
+ texmf-dist/scripts/splitindex/splitindex.tlu
+ texmf-dist/scripts/splitindex/splitindex_main.tlu
+ texmf-dist/tex/generic/splitindex/splitindex.tex
+ texmf-dist/tex/latex/splitindex/splitidx.sty
+catalogue-ctan /macros/latex/contrib/splitindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics index-multi index
+catalogue-version 1.2c

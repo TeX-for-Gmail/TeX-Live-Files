@@ -1,0 +1,34 @@
+name fge
+category Package
+revision 37628
+shortdesc A font for Frege's Grundgesetze der Arithmetik
+longdesc The fonts are provided as Metafont source and Adobe Type 1
+longdesc (pfb) files. A small LaTeX package (fge) is included.
+execute addMap fge.map
+containersize 38360
+containerchecksum 0336a91c06bf658c1bf139d716952ac2ad420e307fb8b525e53cd4a488e0cff536c89ff06ceb8788d1e54b96a9fe4b24d94beb6913c1be8683e359a4d00dc4f6
+doccontainersize 137820
+doccontainerchecksum 4f18f7bc1c8000664753e6f0615f7dd1d0f71bf51aeee6860fc2181536f6f1fc37b21e83b0c5b6c151e1012a02ec97d3d5ff6d132a5f6986e94bd173f40f994c
+srccontainersize 3660
+srccontainerchecksum 4eebdfffd7fbfeb7539543719df1e50564df6ba815f37a503fc98420cfca5c6c2a0a0a0f732656bc288009e9bd0fd1ad7fb0a4625748496575179c3a7015e7bd
+runfiles size=30
+ texmf-dist/fonts/map/dvips/fge/fge.map
+ texmf-dist/fonts/source/public/fge/fgebase.mf
+ texmf-dist/fonts/source/public/fge/fgeit.mf
+ texmf-dist/fonts/source/public/fge/fgeit10.mf
+ texmf-dist/fonts/source/public/fge/fgerm.mf
+ texmf-dist/fonts/source/public/fge/fgerm10.mf
+ texmf-dist/fonts/tfm/public/fge/fgeit10.tfm
+ texmf-dist/fonts/tfm/public/fge/fgerm10.tfm
+ texmf-dist/fonts/type1/public/fge/fgeit10.pfb
+ texmf-dist/fonts/type1/public/fge/fgerm10.pfb
+ texmf-dist/tex/latex/fge/Ufgeit.fd
+ texmf-dist/tex/latex/fge/Ufgerm.fd
+ texmf-dist/tex/latex/fge/fge.cfg
+ texmf-dist/tex/latex/fge/fge.sty
+catalogue-contact-home http://soliton.vm.bytemark.co.uk/pub/jjg/en/code/fge.html
+catalogue-ctan /fonts/fge
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics font font-mf font-type1 maths
+catalogue-version 1.25

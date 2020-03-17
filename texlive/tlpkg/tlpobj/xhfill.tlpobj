@@ -1,0 +1,18 @@
+name xhfill
+category Package
+revision 22575
+shortdesc Extending \hrulefill
+longdesc The package provides extended macros for the default \hrulefill
+longdesc command. It allows modification of the width and the colour of
+longdesc the line.
+containersize 1200
+containerchecksum cc0ea9e9d40a590444801359c455716856c807eb429aa01b460fd7566797490932bd3566a5c6f95bd6723e0b05bde1aa632b83383c8bcdeba8a455cb84ea9f1b
+doccontainersize 39088
+doccontainerchecksum 027287d941c4576d7f55a3d618e13cde5348ac072f3e546dac6f8a8814efb982f9cd0c4162866403f946d07ecba0ea8cc15543cafbdf9008d60b78d0ea3d26fd
+runfiles size=1
+ texmf-dist/tex/latex/xhfill/xhfill.sty
+catalogue-ctan /macros/latex/contrib/xhfill
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics rule
+catalogue-version 1.01

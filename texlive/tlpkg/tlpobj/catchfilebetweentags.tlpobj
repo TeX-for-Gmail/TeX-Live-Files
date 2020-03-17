@@ -1,0 +1,23 @@
+name catchfilebetweentags
+category Package
+revision 21476
+shortdesc Catch text delimited by docstrip tags
+longdesc This package (built using the facilities of catchfile) provides
+longdesc a macro \catchfilebetweentags acts like the original \catchfile
+longdesc but only extracts a portion of the file instead of the complete
+longdesc file. The extracted portion can be delimited by strings or by
+longdesc docstrip tags: %<*tag> .... %</tag> (comments in the caught
+longdesc region may be included or dropped).
+containersize 1968
+containerchecksum 71656fb162aae4fccf15767911b8524c4f3a72f4c6fbeaea45a3dd9593489ec7644e7c10ab61a49cdd125ffe56e61331c30e35a10517720948d4f03b97b20056
+doccontainersize 140092
+doccontainerchecksum 4071d6d6ada488b5bbbac0df3b7604939fafbebc17808430d8bd389b86a8aeca0df90da77fb00f8be14af9e9a79c45bf5a2dc0b9ea45af34f60cbce83810e1a5
+srccontainersize 9544
+srccontainerchecksum 0d0e6436d1e065fd518a743fd39062f1ef9a86f450130a2339ae59e5af0a9fd0ebeaf72a66301c8ad42c6e218a01bef48c977044cf284c98cbf25e6c8f1773b9
+runfiles size=1
+ texmf-dist/tex/latex/catchfilebetweentags/catchfilebetweentags.sty
+catalogue-ctan /macros/latex/contrib/catchfilebetweentags
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.1

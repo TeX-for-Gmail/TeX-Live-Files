@@ -1,0 +1,19 @@
+name greek-inputenc
+category Package
+revision 40613
+shortdesc Greek encoding support for inputenc
+longdesc The bundle provides UTF-8, Macintosh Greek encoding and ISO
+longdesc 8859-7 definition files for use with inputenc.
+containersize 6240
+containerchecksum 870daae8063438230d37a4a22be5cf402f3449a7c91193cd829aec7cc470c672ec1cff52405bf23c41e032d591a34be68db6240d909c6d59f534d137ae582ab1
+doccontainersize 413708
+doccontainerchecksum 8f2856fbce187fe5ff1e199d3df2993885d3bf19aa08c0db13304e19c5b933a4036842325c16669f7f31fb78cc924b7957e7765812a4e2b99fef8039499a6f16
+runfiles size=12
+ texmf-dist/tex/latex/greek-inputenc/iso-8859-7.def
+ texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+ texmf-dist/tex/latex/greek-inputenc/macgreek.def
+catalogue-ctan /language/greek/greek-inputenc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics inputenc greek
+catalogue-version 1.6

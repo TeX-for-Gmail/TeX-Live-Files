@@ -1,0 +1,20 @@
+name tkz-doc
+category Package
+revision 48709
+shortdesc Documentation macros for the TKZ series of packages
+longdesc This bundle offers a documentation class (tkz-doc) and a
+longdesc package (tkzexample). These files are used in the documentation
+longdesc of the author's packages tkz-tab and tkz-linknodes.
+containersize 8364
+containerchecksum 8ca4da6f1b627c7e6604e8eb55fec2a20198e23240cdb043f83d7f8b28ff1687f71e63fb6a500018d7b5a17add28531c45abe79398880bfbcf5395f5baf7639c
+doccontainersize 404
+doccontainerchecksum e35ae8c425fb20a4f54ab5a81b0b013d107c86a37113b92b4db9fd90de338ec746899e2e554a5c568def0439ff484520bbb7e3bdffdea0728c0bc38d0d574c18
+runfiles size=9
+ texmf-dist/tex/latex/tkz-doc/tkz-doc.cls
+ texmf-dist/tex/latex/tkz-doc/tkzexample.sty
+catalogue-contact-repository https://github.com/tkz-sty
+catalogue-ctan /macros/latex/contrib/tkz-doc
+catalogue-date 2018-09-19 23:07:30 +0200
+catalogue-license lppl
+catalogue-topics doc-supp class
+catalogue-version 1.1d

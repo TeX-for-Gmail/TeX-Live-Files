@@ -1,0 +1,27 @@
+name lettre
+category Package
+revision 44950
+shortdesc Letters and faxes in French
+longdesc Developed from the ancestor of the standard letter class, at
+longdesc the Observatoire de Geneve.
+containersize 13328
+containerchecksum 7e50bf7d6109fcf0e128c35ebaa034c3301668f6e3bd8536b4a37c7e721592e28561911f922cfdf740d0c397a8375113dce0b7a00388a11bc4196b4b33fc04dd
+doccontainersize 943804
+doccontainerchecksum 308122fdd634c278f6e05e85a3a052e4255f06339db0f744fdd4859f6bc2983b7150c8fbb5d85fa71c39bf71ca6aec9d6c3d27707da0f95252beb2fb09dfafc7
+runfiles size=21
+ texmf-dist/tex/latex/lettre/lettre-USenglish.ldf
+ texmf-dist/tex/latex/lettre/lettre-amg.cfg
+ texmf-dist/tex/latex/lettre/lettre-default.cfg
+ texmf-dist/tex/latex/lettre/lettre-english.ldf
+ texmf-dist/tex/latex/lettre/lettre-french.ldf
+ texmf-dist/tex/latex/lettre/lettre-german.ldf
+ texmf-dist/tex/latex/lettre/lettre-obs.cfg
+ texmf-dist/tex/latex/lettre/lettre-romand.ldf
+ texmf-dist/tex/latex/lettre/lettre.cls
+catalogue-contact-bugs https://puszcza.gnu.org.ua/bugs/?group=latex-lettre
+catalogue-contact-home https://puszcza.gnu.org.ua/projects/latex-lettre
+catalogue-ctan /macros/latex/contrib/lettre
+catalogue-date 2017-08-04 13:56:57 +0200
+catalogue-license lppl1.3
+catalogue-topics letter french
+catalogue-version 3.000

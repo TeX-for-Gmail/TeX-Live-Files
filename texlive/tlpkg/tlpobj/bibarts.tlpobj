@@ -1,0 +1,34 @@
+name bibarts
+category Package
+revision 50226
+shortdesc "Arts"-style bibliographical information
+longdesc BibArts is a LaTeX package to assist in making bibliographical
+longdesc features common in the arts, and the humanities (history,
+longdesc political science, philosophy, etc.). bibarts.sty provides
+longdesc commands for quotation, abbreviations, and especially for a
+longdesc formatted citation of literature, journals (periodicals),
+longdesc edited sources, and archive sources. In difference to its
+longdesc forerunner, it helps to use slanted fonts (italics), and is
+longdesc able to set ibidem automatically in footnotes. It will also
+longdesc copy all citation information, abbreviations, and register key
+longdesc words into lists for an automatically generated appendix. That
+longdesc lists could refer to page and footnote numbers. BibArts has
+longdesc nothing to do with BibTeX. The lists are created by bibsort.
+longdesc BibArts requires a program, for which source and Windows
+longdesc executable are provided. The program creates the bibliography
+longdesc without using MakeIndex or BibTeX. Its source is not written
+longdesc for a certain operating system. A summary of contents is in
+longdesc English; the full documentation is in German.
+containersize 27216
+containerchecksum 04ac23199e53049f54b670a2c6de94546a01d987e96aed23617692aef156e487dbf631309b81aaa0a95885f9b989e4e9fd9409d444d319cd58169e930b842ae6
+doccontainersize 1129924
+doccontainerchecksum 4e6282217b655fe87dea8e5cd68ed0db14990756bf997e90d3a5def53da50fed63687bf33e00ed741ed437572bb554fe68ce34b146bd31f3fd16e9f66e5879f8
+srccontainersize 37824
+srccontainerchecksum 59a2a25aab81c196e50be807e43a2db0a8eb72b0990b7b5cd8dba971ea995f863986fe759534bcd306b64aaae155cc99a5c6432bda65346cf0899de2c62caa97
+runfiles size=35
+ texmf-dist/tex/latex/bibarts/bibarts.sty
+catalogue-ctan /macros/latex/contrib/bibarts
+catalogue-date 2019-03-04 09:44:09 +0100
+catalogue-license gpl
+catalogue-topics bibtex-supp humanities
+catalogue-version 2.2

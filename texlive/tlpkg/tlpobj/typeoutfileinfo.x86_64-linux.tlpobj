@@ -1,0 +1,8 @@
+name typeoutfileinfo.x86_64-linux
+category Package
+revision 25648
+shortdesc x86_64-linux files of typeoutfileinfo
+containersize 344
+containerchecksum bb5b0d91637fbef237a7969c5af8cd8927c7e7e0cd46b67252204898a713afd5344a02b67d5d97aeba718df6cbf58ae2d4aaf92babca603cd82397c3834ee917
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/typeoutfileinfo

@@ -1,0 +1,22 @@
+name papertex
+category Package
+revision 19230
+shortdesc Class for newspapers, etc
+longdesc This class allows LaTeX users to create a paperTeX newspaper.
+longdesc The final document has a front page and as many inner pages as
+longdesc desired. News items appear one after another and the user can
+longdesc choose the number of columns, style and so on. The class allows
+longdesc users to create newsletters too.
+containersize 5644
+containerchecksum 489718b18bff9055917d9aa1329c34218282c2dec743c4a136625b6c39dc5102bc85d7da6dfb5e2b6a0f4bfe5a8fe27341ba9c7cd205cb8435ed3bc81a7a5c1c
+doccontainersize 437088
+doccontainerchecksum aa36046e89f7e4486020a62dc8cb10f0a680247a3148149831153400a4ee935d3120525de3fbf29eac5c6cd58b655c1a2dcc2c4a8baf7d849a40f842d3b895fa
+srccontainersize 14804
+srccontainerchecksum 9afa6d8e8d23108266bae48e78caedc5bb20c06eb15e3de8969a2e8bfaea880901a184fa8f2409e6d7ec0a4341105151049e1763fa4f4cdce8150e6bb3a52174
+runfiles size=6
+ texmf-dist/tex/latex/papertex/papertex.cls
+catalogue-ctan /macros/latex/contrib/papertex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics magazine
+catalogue-version 1.2b

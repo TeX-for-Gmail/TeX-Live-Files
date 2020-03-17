@@ -1,0 +1,23 @@
+name plex-otf
+category Package
+revision 47562
+shortdesc Support for the OpenType font IBM Plex
+longdesc This package supports the free otf fonts from the IBM Plex
+longdesc project which are available from GitHub or already part of your
+longdesc system (Windows/Linux/...). This package supports only XeLaTeX
+longdesc or LuaLaTeX; for pdfLaTeX use plex-mono.sty, plex-sans.sty,
+longdesc and/or plex-serif.sty from the plex package. IBM Plex has no
+longdesc math symbols. You will have to use one of the existing math
+longdesc fonts if you need them.
+containersize 3544
+containerchecksum 07e49e5dcbef60efd3e3050259f10b75bfbb83128412a1e60a31c2f17983ec73d055e5f6e117ec2673f9f0e5db716471fefb312be50cc4475761aa6ad895e9da
+doccontainersize 545036
+doccontainerchecksum 4af950e1a3a384a1c738c6fa1bad629010ee2718840094500976b6883c2e3120cd070631463f90610c60877c0dea771c9c7e4f8f8c091aaf1f29b15b8400de96
+runfiles size=6
+ texmf-dist/tex/latex/plex-otf/plex-otf.sty
+catalogue-also plex
+catalogue-ctan /fonts/plex-otf
+catalogue-date 2018-04-13 20:34:33 +0200
+catalogue-license lppl1.3
+catalogue-topics font-serif font-sans font-proportional font-mono font-otf
+catalogue-version 0.07a

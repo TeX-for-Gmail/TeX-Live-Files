@@ -1,0 +1,14 @@
+name lshort-italian
+category Package
+revision 15878
+shortdesc Introduction to LaTeX in Italian
+longdesc This is the Italian translation of the Short Introduction to
+longdesc LaTeX2e.
+containersize 396
+containerchecksum b92c1566d1a7c9a079d3d770e9d5bc8e33e61da53100c3cb4617e37765076accd16b89210da12ff954e25a97c55d8a2168f81789ab31c05f66bcd6a19168f719
+doccontainersize 685672
+doccontainerchecksum 2f46613ff2ebaad079a8f2bea6756932aa9dd0840977dcbb8ee195072c1d8c590549e362dc979e9bd373a46ec44d21303aab72f351d799d2a7a3f5b6883e2c06
+catalogue-ctan /info/lshort/italian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tut-latex italian-doc

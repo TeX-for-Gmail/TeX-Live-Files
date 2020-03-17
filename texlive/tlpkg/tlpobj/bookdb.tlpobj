@@ -1,0 +1,19 @@
+name bookdb
+category Package
+revision 37536
+shortdesc A BibTeX style file for cataloguing a home library
+longdesc This package provides an extended book entry for use in
+longdesc cataloguing a home library. The extensions include fields for
+longdesc binding, category, collator, condition, copy, illustrations,
+longdesc introduction, location, pages, size, value, volumes.
+containersize 7052
+containerchecksum 3e44184427ce346930b35fc2ea3b508d9f32c1e89cc01d66046e271d61e0bbfde54b5d18917b09acc159f1d657f9d32c29f3086b04e4f1dc6da0cd21a0df3da2
+doccontainersize 209744
+doccontainerchecksum 2449b7d32558665b297e57eaff6529932289e957e0a77d8a8ff84e9614b53844a2684a7b23a62ce6684b6e813223c2c1293bf25e678a1271e3e3cc27383d12b4
+runfiles size=9
+ texmf-dist/bibtex/bst/bookdb/bookdb.bst
+catalogue-ctan /biblio/bibtex/contrib/bookdb
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-sty catalogue
+catalogue-version 0.2

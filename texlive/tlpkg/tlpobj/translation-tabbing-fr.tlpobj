@@ -1,0 +1,14 @@
+name translation-tabbing-fr
+category Package
+revision 24228
+shortdesc French translation of the documentation of Tabbing
+longdesc A translation to French (by the author) of the documentation of
+longdesc the Tabbing package.
+containersize 404
+containerchecksum 76f1c6318cd964b94d5a1d836b1a40fc58de49566cdc30b1ea60fc29fbcc8c6b01a477f4739a5fd9bb24998325dbf42817ad016fff27207e710bfc4b51b29985
+doccontainersize 355420
+doccontainerchecksum ae2f1aa60162512287f15c770a465c2e39abe1fa5d1223d96c524dc81bf065d62f307893d22dfc06fc50da8d63d817ed60c8f07fd4fede984b6febe9c8b7b710
+catalogue-ctan /info/translations/Tabbing/fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics french-doc translation

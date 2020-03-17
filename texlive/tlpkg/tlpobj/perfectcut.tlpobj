@@ -1,0 +1,29 @@
+name perfectcut
+category Package
+revision 44175
+shortdesc Delimiters whose size adjusts to the nesting
+longdesc This package defines the command \perfectcut#1#2 which displays
+longdesc a bracket <#1||#2>. Various delimiters are similarly defined.
+longdesc The effect of these commands is to let the delimiters grow
+longdesc according to the number of nested \perfectcommands (regardless
+longdesc of the size of the contents). The package is originally
+longdesc intended for solving a notational issue regarding the
+longdesc representation of abstract-machine-like calculi in proof theory
+longdesc and computer science. For general use, the package also defines
+longdesc commands for defining custom delimiters that behave in the same
+longdesc way. This package also offers a sound reimplementation of \big,
+longdesc \bigg, etc.
+containersize 4644
+containerchecksum 8c0eb4c5b1418a323ec1cb140380664d94b38ce5165bf8649e7b3a75bf0d32ef0a67fdd2999959ea60e460a7000aed87be3bd3c369328d14c4e99a16203d1780
+doccontainersize 186764
+doccontainerchecksum 40d7c9a2b0242d668f49e5102eda1b016f86848d4349aa8593742ae1aede4272700b6053cbb4f77f23c9bd9523d30668525e662954a993720edf66d290c0101b
+runfiles size=5
+ texmf-dist/tex/latex/perfectcut/perfectcut.sty
+catalogue-contact-bugs https://github.com/gadmm/perfectcut/issues
+catalogue-contact-home https://github.com/gadmm/perfectcut
+catalogue-contact-repository https://github.com/gadmm/perfectcut.git
+catalogue-ctan /macros/latex/contrib/perfectcut
+catalogue-date 2017-05-03 14:02:24 +0200
+catalogue-license lppl1.3
+catalogue-topics paren-mgmt comp-theory
+catalogue-version 2.2

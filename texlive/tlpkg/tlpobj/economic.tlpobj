@@ -1,0 +1,54 @@
+name economic
+category Package
+revision 32639
+shortdesc BibTeX support for submitting to Economics journals
+longdesc The bundle offers macros and BibTeX styles for the American
+longdesc Economic Review (AER), the American Journal of Agricultural
+longdesc Economics (AJAE), the Canadian Journal of Economics (CJE), the
+longdesc European Review of Agricultural Economics (ERAE), the
+longdesc International Economic Review (IER) and Economica. The macro
+longdesc sets are based on (and require) the harvard package, and all
+longdesc provide variations of author-date styles of presentation.
+containersize 31200
+containerchecksum d8bad4a76eefc8729ea06e93a63adadfeed57de5694775bc44f1dfe03217101609ada6d12b7a2382b9d80d068f0c51fb2ef45c2cf289fe294efe23fcf0bd028a
+doccontainersize 815976
+doccontainerchecksum 39c319f14ee3d6fb10fa3c4f5d3a873322d332bc181a33a70020a9fa787383b72809b3b9aea5fcf4a3cff9930543e0d0269f74146c12f2b0d77a4f77c159eeb7
+runfiles size=171
+ texmf-dist/bibtex/bst/economic/aer.bst
+ texmf-dist/bibtex/bst/economic/aertt.bst
+ texmf-dist/bibtex/bst/economic/agecon.bst
+ texmf-dist/bibtex/bst/economic/ajae.bst
+ texmf-dist/bibtex/bst/economic/apecon.bst
+ texmf-dist/bibtex/bst/economic/cje.bst
+ texmf-dist/bibtex/bst/economic/ecca.bst
+ texmf-dist/bibtex/bst/economic/ecta.bst
+ texmf-dist/bibtex/bst/economic/erae.bst
+ texmf-dist/bibtex/bst/economic/ier.bst
+ texmf-dist/bibtex/bst/economic/itaxpf.bst
+ texmf-dist/bibtex/bst/economic/jae.bst
+ texmf-dist/bibtex/bst/economic/jpe.bst
+ texmf-dist/bibtex/bst/economic/jss2.bst
+ texmf-dist/bibtex/bst/economic/oega.bst
+ texmf-dist/bibtex/bst/economic/regstud.bst
+ texmf-dist/bibtex/bst/economic/tandfx.bst
+ texmf-dist/bibtex/bst/economic/worlddev.bst
+ texmf-dist/tex/latex/economic/aer.sty
+ texmf-dist/tex/latex/economic/aertt.sty
+ texmf-dist/tex/latex/economic/agecon.cls
+ texmf-dist/tex/latex/economic/ajae.cls
+ texmf-dist/tex/latex/economic/apecon.cls
+ texmf-dist/tex/latex/economic/cje.sty
+ texmf-dist/tex/latex/economic/ecca.cls
+ texmf-dist/tex/latex/economic/erae.cls
+ texmf-dist/tex/latex/economic/itaxpf.cls
+ texmf-dist/tex/latex/economic/jrurstud.cls
+ texmf-dist/tex/latex/economic/njf.cls
+ texmf-dist/tex/latex/economic/oegatb.cls
+ texmf-dist/tex/latex/economic/pocoec.cls
+ texmf-dist/tex/latex/economic/regstud.cls
+ texmf-dist/tex/latex/economic/worlddev.cls
+catalogue-contact-repository http://sourceforge.net/projects/economtex/
+catalogue-ctan /biblio/bibtex/contrib/economic
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty

@@ -1,0 +1,24 @@
+name knowledge
+category Package
+revision 50031
+shortdesc Displaying, hyperlinking, and indexing notions in a document
+longdesc The package offers a systematic way to handle
+longdesc notions/concepts/terms throughout a document. It helps building
+longdesc an index. In combination with hyperref it makes it easy to have
+longdesc every reference of a concept linked to its introduction. It
+longdesc also offers simple notations.
+containersize 19584
+containerchecksum 45627c99590c069d93d681fb23d6a2a95eab555ee152455ce80f34da0ee0da7b85e8bb338cc4e4d9bb7d4b21029b30d56cd3a083074afdea1c336330960796a2
+doccontainersize 715252
+doccontainerchecksum 233575930f834ed7267f86f2a3a8eab88c348fdc07196cba52be2edb6d9f6831e19cc858b1b7c79e9c27036b1b6deeec20e8d6a35f2b39b0e9297738fe8c47b9
+srccontainersize 36436
+srccontainerchecksum f5dcdb23f284dce87ba1744fcc4a23577a3660061bd1509abe268836cfe6e6c0b55d9e7adea78c8bdd91e5a1d7375320baa00098840ca7d075052a286ab3a095
+runfiles size=29
+ texmf-dist/tex/latex/knowledge/knowledge.sty
+catalogue-contact-home https://www.irif.fr/~colcombe/knowledge_en.html
+catalogue-contact-repository https://www.irif.fr/~colcombe/Knowledge/
+catalogue-ctan /macros/latex/contrib/knowledge
+catalogue-date 2019-02-15 19:38:03 +0100
+catalogue-license lppl1.2
+catalogue-topics index label-ref
+catalogue-version 1.16

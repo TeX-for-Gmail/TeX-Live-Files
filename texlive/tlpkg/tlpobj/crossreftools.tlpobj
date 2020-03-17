@@ -1,0 +1,20 @@
+name crossreftools
+category Package
+revision 49589
+shortdesc Expandable extraction of cleveref data
+longdesc This package extracts information from cross-referencing
+longdesc labels, especially those from cleveref, in an expandable
+longdesc manner.
+containersize 3272
+containerchecksum 9f5426951f7062ac3a850d141aff2031ea2197a97d5e4bf2c2b93fcd2719d5b1d6587b66d51fb258f514423bcb43cc8699b58a74c411824ffe7057cc27d03702
+doccontainersize 356080
+doccontainerchecksum 66597598d04218394abe1762aca2e9ecb25ab25328e9b203bb789459d053ec575f2a7adcc9460b1356d5488b32f2fb8335e8a7554074fb5ab2df810fde2be586
+runfiles size=4
+ texmf-dist/tex/latex/crossreftools/crossreftools.sty
+catalogue-also cleveref
+catalogue-contact-home http://www.ich-rede-mich-um-kopf-und-kragen.de
+catalogue-ctan /macros/latex/contrib/crossreftools
+catalogue-date 2019-01-03 16:16:07 +0100
+catalogue-license lppl1.3
+catalogue-topics label-ref
+catalogue-version 0.9

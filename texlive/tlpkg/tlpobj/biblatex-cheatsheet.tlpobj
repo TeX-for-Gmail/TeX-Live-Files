@@ -1,0 +1,15 @@
+name biblatex-cheatsheet
+category Package
+revision 44685
+shortdesc BibLaTeX/Biber 'cheat sheet'
+longdesc A BibLaTeX/Biber 'cheat sheet' which I wrote because I wanted
+longdesc one to distribute to students, but couldn't find an existing
+longdesc one.
+containersize 436
+containerchecksum a974a8eeb4282f66ebdc7a57d40c76b0f2bc957249c130d4f97aa9f9749f5091745a87db277c3bef43d0f4e37790a9663949ca3bba3b28a16d37c13bd6029181
+doccontainersize 322392
+doccontainerchecksum a2b9a82afe127d0bfb71f3a481eed3198e27ef35caa5cd08557ed35645f6209e9187f1e0c21d6fa51e6c32d0cf044c0d85373195a5f034c856fb4beec360af13
+catalogue-ctan /info/biblatex-cheatsheet
+catalogue-date 2017-06-24 10:26:01 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex bibtex-doc

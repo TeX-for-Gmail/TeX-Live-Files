@@ -1,0 +1,19 @@
+name mslapa
+category Package
+revision 17514
+shortdesc Michael Landy's APA citation style
+longdesc LaTeX and BibTeX style files for a respectably close
+longdesc approximation to APA (American Psychological Association)
+longdesc citation and reference style.
+containersize 8996
+containerchecksum 76910e823a3d1114a2f7497c49d7a9edeabdfc3642309604654f244b060c4ef456aa170f677dfaa719d36416eaa41b68ab28c5cbf869f611a33155250bb44423
+doccontainersize 277424
+doccontainerchecksum af01997554d68c0c779950e3be4c92fe7ab0616eb2c5ab55c5131f17ef22eb6e7066c4190607b77c9cc44aa50c15a472ea27733add54fe82b7801c7724f1663c
+runfiles size=10
+ texmf-dist/bibtex/bst/mslapa/mslapa.bst
+ texmf-dist/tex/latex/mslapa/mslapa.sty
+catalogue-also apacite apa
+catalogue-ctan /macros/latex/contrib/mslapa
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics psychology journalpub bibtex-sty

@@ -1,0 +1,21 @@
+name gloss
+category Package
+revision 15878
+shortdesc Create glossaries using BibTeX
+longdesc A glossary package using BibTeX with \cite replaced by \gloss.
+containersize 5588
+containerchecksum 399bc1b809c01fd60934e28834dd7d6f263aded75bbede67507a5dc7bdbcdef725248b9a10d4ebf3cfaa981be33fd35a4ade78eb20b2b23cbf851376ad5e58f8
+doccontainersize 102720
+doccontainerchecksum 871760a86ffb9d50cd480e2cd234a9873de48ce620f57a6538b36b0c1fd5e7f11342fa435e147ee1fb47ed08b8e855eba8168c8b755ed67ed7fffcb8f0e0ac86
+runfiles size=9
+ texmf-dist/bibtex/bib/gloss/glsbase.bib
+ texmf-dist/bibtex/bib/gloss/sample.bib
+ texmf-dist/bibtex/bst/gloss/glsplain.bst
+ texmf-dist/bibtex/bst/gloss/glsshort.bst
+ texmf-dist/tex/latex/gloss/gloss.sty
+catalogue-also glossary glosstex nomencl
+catalogue-ctan /macros/latex/contrib/gloss
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics glossary
+catalogue-version 1.5.2

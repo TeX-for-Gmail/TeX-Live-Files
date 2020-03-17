@@ -1,0 +1,18 @@
+name diagnose
+category Package
+revision 19387
+shortdesc A diagnostic tool for a TeX installation
+longdesc Provides macros to assist evaluation of the capabilities of a
+longdesc TeX installation (i.e., what extensions it supports). An
+longdesc example document that examines the installation is available.
+containersize 1008
+containerchecksum 91fd8eb4b7d896f27c15c2b3b2a0a9bc839bb736a1fa053d47896c6b989729c3dc3a644ad59f6b3bd4164c150034f6ede5d52b680fb1c8cea6838dc70713f654
+doccontainersize 66784
+doccontainerchecksum f3e7152e656ee4c5f6ac28205b1dd5e9c0cf19c3d9400e2c40c8d8e9fecbcbc01cb1f7a36534849b6ba26f222f9547e3d669114a7d8923645528b7150cd10de4
+runfiles size=1
+ texmf-dist/tex/latex/diagnose/diagnose.sty
+catalogue-ctan /macros/latex/contrib/diagnose
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics install-mgmt
+catalogue-version 0.2

@@ -1,0 +1,23 @@
+name hyphen-chinese
+category TLCore
+revision 50821
+shortdesc Chinese pinyin hyphenation patterns.
+longdesc Hyphenation patterns for unaccented transliterated Mandarin
+longdesc Chinese (pinyin) in T1/EC and UTF-8 encodings.  The latter can
+longdesc hyphenate pinyin with or without tone markers; the former only
+longdesc without.
+depend hyphen-base
+depend hyph-utf8
+containersize 4284
+containerchecksum ea3bc37c9fd9cc98751580878e8ca9dc56cc4a53ecce35078f069a66d7e23e298b19b1fdb946a348abfa4f6dedb541af8025d32d7a9cf401922b588557c53815
+runfiles size=10
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-zh-latn-pinyin.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-zh-latn-pinyin.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/quote/hyph-quote-zh-latn-pinyin.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex-8bit/pyhyph.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-zh-latn-pinyin.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-zh-latn-pinyin.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-zh-latn-pinyin.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-zh-latn-pinyin.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-zh-latn-pinyin.pat.txt
+ texmf-dist/tex/generic/hyphen/pyhyph.tex

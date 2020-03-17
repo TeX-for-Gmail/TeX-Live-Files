@@ -1,0 +1,29 @@
+name dccpaper
+category Package
+revision 50294
+shortdesc Typeset papers for the International Journal of Digital Curation
+longdesc The LaTeX class ijdc-v9 produces camera-ready papers and
+longdesc articles suitable for inclusion in the International Journal of
+longdesc Digital Curation, with applicability from volume 9 onwards. The
+longdesc similar idcc class can be used for submissions to the
+longdesc International Digital Curation Conference, beginning with the
+longdesc 2015 conference.
+containersize 24736
+containerchecksum a58fc01b1e0e02adb2fded14fb5200507ea208a3f3bc084d6701ba9127d187435b2b4470e7b28a5ead6ba50d931526d46f606a02e83b55a2c42985a07cdcd959
+doccontainersize 253532
+doccontainerchecksum d06a1ad6310b31955a478c3e66ce643117cb771e255474975fb39c34574cda4382953656315ae4f177e62714c0df7807e234e4b7a4e31f04a3dc5aa08d0ae378
+srccontainersize 26660
+srccontainerchecksum 7515a2a3e3b9e1f9c684a6c35184b2698c87f87f55501c5d5a5aade96ef71ad8f5c7bd66e9680ffdb0db5c46b1081e3b134e8baaadeebc6295501635292d7730
+runfiles size=25
+ texmf-dist/tex/latex/dccpaper/dccpaper-base.sty
+ texmf-dist/tex/latex/dccpaper/dccpaper-by.eps
+ texmf-dist/tex/latex/dccpaper/dccpaper-by.pdf
+ texmf-dist/tex/latex/dccpaper/idcc.cls
+ texmf-dist/tex/latex/dccpaper/ijdc-v9.cls
+catalogue-contact-bugs https://github.com/DigitalCurationCentre/dccpaper/issues
+catalogue-contact-repository https://github.com/DigitalCurationCentre/dccpaper
+catalogue-ctan /macros/latex/contrib/dccpaper
+catalogue-date 2019-03-08 18:49:03 +0100
+catalogue-license lppl1.3ccc-by-4
+catalogue-topics journalpub confproc class
+catalogue-version 1.8

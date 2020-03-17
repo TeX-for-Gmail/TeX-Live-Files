@@ -1,0 +1,8 @@
+name latex-papersize.x86_64-linux
+category Package
+revision 42296
+shortdesc x86_64-linux files of latex-papersize
+containersize 344
+containerchecksum b509a7ee1aaf8ac9e54f0ea32e823c4b3353060fe905b52bbd64a1e8350b1c89d83ce3c2e9f2ca2e112e41d5f6e4712d67705f5a0b3e6ca61113c25fc8f10963
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latex-papersize

@@ -1,0 +1,26 @@
+name acmart
+category Package
+revision 50662
+shortdesc Class for typesetting publications of ACM
+longdesc This package provides a class for typesetting publications of
+longdesc the Association for Computing Machinery.
+containersize 36084
+containerchecksum 7e763332d296076957977882331af207566c2be1f49dc0018b37af8f9dd4b593e355176f2177f61997f20bf80b268604d5e721bdcf9a737c16a9dd184776a0c7
+doccontainersize 3877368
+doccontainerchecksum ffc55424717be86a6c0c9e71db775ed3cba6242d8c6369e5bd4d11e33cf24568380239e244af7adab97c06ad8c8a2e9359fb1e2d4f2f9713ae1e08f74d1fd222
+srccontainersize 49744
+srccontainerchecksum 2c2e9386c01577177dd1f772c480b0abcba7afe31c1aa4a2151c4c8cafd78bab0bff67b589a34f64866c7bec41efea925d52e9bfb66b42cb3bea03e148430270
+runfiles size=51
+ texmf-dist/bibtex/bst/acmart/ACM-Reference-Format.bst
+ texmf-dist/tex/latex/acmart/ACM-Reference-Format.bbx
+ texmf-dist/tex/latex/acmart/ACM-Reference-Format.cbx
+ texmf-dist/tex/latex/acmart/ACM-Reference-Format.dbx
+ texmf-dist/tex/latex/acmart/acmart.cls
+catalogue-contact-bugs https://github.com/borisveytsman/acmart/issues
+catalogue-contact-development https://github.com/borisveytsman/acmart/pulls
+catalogue-contact-repository https://github.com/borisveytsman/acmart/
+catalogue-ctan /macros/latex/contrib/acmart
+catalogue-date 2019-03-30 12:39:31 +0100
+catalogue-license lppl1.3
+catalogue-topics class comp-sci comp-theory engineering journalpub
+catalogue-version 1.58

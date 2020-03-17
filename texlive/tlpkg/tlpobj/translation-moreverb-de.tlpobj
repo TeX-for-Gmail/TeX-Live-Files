@@ -1,0 +1,13 @@
+name translation-moreverb-de
+category Package
+revision 23957
+shortdesc German version of moreverb
+longdesc This is a "translation" of the moreverb documentation.
+containersize 396
+containerchecksum 6b11a1b522c728722d4d5d5b38dd453ec017dc053d360180b943778923ca9a23b3ebb92516c1a6880e507f5e8b6d8d87878c92762637acc5ac93f42ad790446e
+doccontainersize 94828
+doccontainerchecksum 955070d4e92e38712a5df837fd0df716d1a597780a4b06046d5aac5164efc0fec1121c51ea09c3ef1a090d51732f57308f4db386440118548e2167f3cafe16ce
+catalogue-ctan /info/translations/moreverb/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics german-doc verbatim translation

@@ -1,0 +1,24 @@
+name pst-solarsystem
+category Package
+revision 45097
+shortdesc Plot the solar system for a specific date
+longdesc The package uses pstricks to produce diagrams of the visible
+longdesc planets, projected on the plane of the ecliptic. It is not
+longdesc possible to represent all the planets in their real
+longdesc proportions, so only Mercury, Venus, Earth and Mars have their
+longdesc orbits in correct proportions and their relative sizes are
+longdesc observed. Saturn and Jupiter are in the right direction, but
+longdesc not in the correct size.
+containersize 4908
+containerchecksum 48c38ec076b20b28aef50c207a77069cf5053a209f4ddcb3adb5a8e01f2b6510abb388075c7e5c90b6b48ecdf6f92764836dd58fb51181e28afbbe6d47600abd
+doccontainersize 267348
+doccontainerchecksum 581e73c180e455adb09453c7f535de5a3f540c3d8046ea0a1667f9f13390cf63297b9073ef66d93f4c6b2aadffad3de24000a49cbbbe374bb7af75402fb6bef1
+runfiles size=6
+ texmf-dist/dvips/pst-solarsystem/pst-solarsystem.pro
+ texmf-dist/tex/generic/pst-solarsystem/pst-solarsystem.tex
+ texmf-dist/tex/latex/pst-solarsystem/pst-solarsystem.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-solarsystem
+catalogue-date 2018-09-15 13:22:10 +0200
+catalogue-license lppl
+catalogue-topics astronomy pstricks
+catalogue-version 0.13

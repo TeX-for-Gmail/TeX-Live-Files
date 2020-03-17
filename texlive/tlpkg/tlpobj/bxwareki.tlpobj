@@ -1,0 +1,23 @@
+name bxwareki
+category Package
+revision 50696
+shortdesc Convert dates from Gregorian to Japanase calender
+longdesc This package provides commands to convert from the Gregorian
+longdesc calendar (e. g. 2018/8/28) to the Japanese rendering of the
+longdesc Japanese calendar (e. g. Heisei 30 nen 8 gatsu 28 nichi;
+longdesc actually with kanji characters). You can choose whether the
+longdesc numbers are written in Western numerals or kanji numerals.
+containersize 9108
+containerchecksum 727905bcc54545908e603979c61127212c4937aa88ba7de80b2799c1f38fc2aaf901f1ce1ee5e5936745019f0ed869e259bfd5b765adc68b479ca80a94f25475
+doccontainersize 194724
+doccontainerchecksum 60b4b1e64f96e81f9a6483d9cb25f708f4b4d3f8ebb3dece72287eacb74cb201de468bed12b56e8bdbf8f04e43731d87ad9b930254272a0d27f9f665c2eebc86
+runfiles size=10
+ texmf-dist/tex/latex/bxwareki/bxwareki-cd.def
+ texmf-dist/tex/latex/bxwareki/bxwareki.sty
+ texmf-dist/tex/latex/bxwareki/bxwareki2019.def
+catalogue-contact-repository https://github.com/zr-tex8r/BXwareki
+catalogue-ctan /language/japanese/BX/bxwareki
+catalogue-date 2019-04-01 14:08:14 +0200
+catalogue-license mit
+catalogue-topics calendar japanese
+catalogue-version 0.5

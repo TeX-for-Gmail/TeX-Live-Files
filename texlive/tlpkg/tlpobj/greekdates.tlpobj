@@ -1,0 +1,23 @@
+name greekdates
+category Package
+revision 15878
+shortdesc Provides ancient Greek day and month names, dates, etc
+longdesc The package provides easy access to ancient Greek names of days
+longdesc and months of various regions of Greece. In case the historical
+longdesc information about a region is not complete, we use the Athenian
+longdesc name of the month. Moreover commands and options are provided,
+longdesc in order to completely switch to the "ancient way", commands
+longdesc such as \today.
+containersize 3820
+containerchecksum 7f350b4db9578f9020b28bc217e508574b697749c1d2e10c9de9c6499e26605da8334583ea7fb56d74bae77bc30e5835653014f5f8f594d3f35d04478ccffa9c
+doccontainersize 98112
+doccontainerchecksum 979353f7cdeb127e12388e1eeea4903a929d911f6f8fd42cd814b6cbea09a64d0ab9c8118968bf218330dfae64f9147621d23d2955fb85291f484d0b5eb92a00
+srccontainersize 7276
+srccontainerchecksum 16a5fe04bd6a598a09c7f326f6848074782e8801d0723366e5ae2b1ae51580319210c64f5e7dbae7eca5cfe3573b0f24d689c802d9594d18dc7c8f4126d9ff49
+runfiles size=6
+ texmf-dist/tex/latex/greekdates/greekdates.sty
+catalogue-ctan /macros/latex/contrib/greekdates
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics date-time greek
+catalogue-version 1.0

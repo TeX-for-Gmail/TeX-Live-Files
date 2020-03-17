@@ -1,0 +1,20 @@
+name options
+category Package
+revision 39030
+shortdesc Provides convenient key-value options for LaTeX package writers
+longdesc The options package provides easy to use key-value options for
+longdesc LaTeX package writers. It has a similar interface as pgfkeys
+longdesc with path options but comes with more built-in data types and
+longdesc more convenient support for families and searching.
+containersize 11224
+containerchecksum 3cdcd07f3c279a601da49a843169f0cb44aea573ac6c1c67a347712e5a087df4b21c6481168407ac6383e8fd5cdc511ea29fd7ec944edd2d514ac88b560633a3
+doccontainersize 223064
+doccontainerchecksum f23bc3575d6c93d056c752c63bb39e3ef9c92de1a90177e204e4d6a1fd90ce8c9afb36e727ac8ce827a59dad96a3b236e5c3c09af081160113cee1b529bc1973
+runfiles size=13
+ texmf-dist/tex/latex/options/options.sty
+catalogue-also keyval pgfkeys xkeyval
+catalogue-ctan /macros/latex/contrib/options
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics keyval
+catalogue-version 1.0

@@ -1,0 +1,23 @@
+name tdsfrmath
+category Package
+revision 15878
+shortdesc Macros for French teachers of mathematics
+longdesc A collection of macros for French maths teachers in colleges
+longdesc and lycees (and perhaps elsewhere). It is hoped that the
+longdesc package will facilitate the everyday use of LaTeX by
+longdesc mathematics teachers.
+containersize 5480
+containerchecksum f2c7a19dc327230f46320c695eaf40e9ff17088a709e38ec7f8de23f5c0cbeb18f606bd41625a1229734dacc80edba9d052c21620f7cdf213f60e915b6128010
+doccontainersize 717616
+doccontainerchecksum 9b0e747f90b75f372f04eddfb1c17dc73c3ef6a95d576077790b23bb496cee07afd3af5d1a53581872255c4e71b933949beae909591d0e1c407d9efc3f1d227d
+srccontainersize 33688
+srccontainerchecksum f44f98be464973ef3596d6e0d77e508280b597e4010b2c94620aad0ff950c8328ba1d4bbcf22e0f71f091c311d9b99dd979c73c182debeedd90ab14bea9e1d7a
+runfiles size=7
+ texmf-dist/tex/latex/tdsfrmath/suite.sto
+ texmf-dist/tex/latex/tdsfrmath/taupe.sto
+ texmf-dist/tex/latex/tdsfrmath/tdsfrmath.sty
+catalogue-ctan /macros/latex/contrib/tdsfrmath
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 1.3

@@ -1,0 +1,32 @@
+name skrapport
+category Package
+revision 49540
+shortdesc 'Simple' class for reports, etc.
+longdesc The class is intended for simple documents (e.g., reports
+longdesc handed in as coursework and the like). The class is small and
+longdesc straightforward; its design was inspired by that of the PracTeX
+longdesc journal style.
+containersize 12732
+containerchecksum d72270c0df7a79250ae1c0519e4f984f1ef3f74dd40952d3567ce1c965a90cf41231a985c39f84862fc37e1f098b05a1297d4b186c338a5355e0be98c3f24611
+doccontainersize 267616
+doccontainerchecksum d3162fd57a2c926f52f42149f74687b175ffb32e1185f0e1b3e047599aa9199ba952628fe518e6870267b61132650446fadc6307177659d84a2c4ab91c590acd
+srccontainersize 31204
+srccontainerchecksum 915059538931683ccb030b3ace50d71b4d569408e0aa887092173a7ae095ad12f797411ecdcba185427867b79985252bdfd5b6d2a77a478c10a2b423c40df314
+runfiles size=26
+ texmf-dist/tex/latex/skrapport/skrapport-colortheme-cruelwater.sty
+ texmf-dist/tex/latex/skrapport/skrapport-colortheme-default.sty
+ texmf-dist/tex/latex/skrapport/skrapport-colortheme-skdoc.sty
+ texmf-dist/tex/latex/skrapport/skrapport-colortheme-unscathed.sty
+ texmf-dist/tex/latex/skrapport/skrapport-colortheme-violet.sty
+ texmf-dist/tex/latex/skrapport/skrapport-size-common.sty
+ texmf-dist/tex/latex/skrapport/skrapport-size10pt.clo
+ texmf-dist/tex/latex/skrapport/skrapport-size11pt.clo
+ texmf-dist/tex/latex/skrapport/skrapport-size12pt.clo
+ texmf-dist/tex/latex/skrapport/skrapport.cls
+catalogue-contact-bugs https://github.com/urdh/skrapport/issues
+catalogue-contact-repository https://github.com/urdh/skrapport
+catalogue-ctan /macros/latex/contrib/skrapport
+catalogue-date 2018-12-29 22:01:02 +0100
+catalogue-license lppl1.3
+catalogue-topics class
+catalogue-version 0.12i

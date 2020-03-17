@@ -1,0 +1,24 @@
+name latexbangla
+category Package
+revision 42409
+shortdesc Enhanced LaTeX integration for Bangla
+longdesc This package simplifies the process of writing Bangla in LaTeX
+longdesc and addresses most of the associated typesetting issues.
+longdesc Notable features: Automated transition from Bangla to English
+longdesc and vice versa. Patch for the unproportionate whitespace issue
+longdesc in popular Bangla fonts. Full support for all the common
+longdesc commands and environments. Bangla numbering for page, section,
+longdesc chapter, footnotes etc. (extending polyglossia's support). New
+longdesc theorem, problems, example, solution and other environments,
+longdesc all of which are in Bangla.
+containersize 3288
+containerchecksum 97e4a88b3028f3836a82c80bee739393c0ebdd219ac3b78acfa00f84f5b5857334605ee4719c8dd40d1cfcb44a4f9f821d711401d091a3ab46204d2457559fd4
+doccontainersize 147412
+doccontainerchecksum dd88aa9630a08992348699e71c1e1ac7a697c0279a83daa333f0bd0c098d564b730f7bff829e7489000ce09331c9f13a804badd4bc253dc181b09646f8c0b991
+runfiles size=2
+ texmf-dist/tex/latex/latexbangla/latexbangla.sty
+catalogue-ctan /language/bengali/latexbangla
+catalogue-date 2016-11-06 05:41:03 +0100
+catalogue-license lppl1.3
+catalogue-topics indic
+catalogue-version 0.2

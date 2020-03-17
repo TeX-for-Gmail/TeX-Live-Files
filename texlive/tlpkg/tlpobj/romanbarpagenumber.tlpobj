@@ -1,0 +1,22 @@
+name romanbarpagenumber
+category Package
+revision 36236
+shortdesc Typesetting roman page numbers
+longdesc The package romanbar allows to typeset roman numbers with bars.
+longdesc This package allows you to use those roman numbers as page
+longdesc number.
+containersize 876
+containerchecksum 7c8fbfcd5e9ec9e306e7ac836fb4c82db3bc42179bf77502b5299c17c4d3ad515b9397016d600011eb24c5d9f2eda23a485634c5aca3a765653cce32d7bf82c5
+doccontainersize 213792
+doccontainerchecksum a46bbeef023b74c576da84f9791d4d6d47a08091b43c6bf6936c4e17ff54ab2bf5b517cbf1d07e59c077e0981ac989570265df1fde7237ff24727e33d6f1b71c
+srccontainersize 3144
+srccontainerchecksum 953af4fff1fe7e6b3e4bfb7447a0da7207f93d7377ce365bfdf563c9dead97860826c8f5b8dc491164437523e27a040fee5b95b58f09f248166268197233f89c
+runfiles size=1
+ texmf-dist/tex/latex/romanbarpagenumber/romanbarpagenumber.sty
+catalogue-also romanbar
+catalogue-contact-repository https://github.com/ypid/latex-packages/tree/master/romanbarpagenumber
+catalogue-ctan /macros/latex/contrib/romanbarpagenumber
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics numbers page-nos
+catalogue-version 1.0

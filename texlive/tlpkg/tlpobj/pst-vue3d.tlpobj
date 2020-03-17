@@ -1,0 +1,22 @@
+name pst-vue3d
+category Package
+revision 15878
+shortdesc Draw perspective views of three dimensional objects
+longdesc With pst-vue3d three dimensional objects like cubes, spheres
+longdesc and others can be viewed from different points. The
+longdesc distribution includes a comprehensive set of examples of usage.
+containersize 13120
+containerchecksum d2e5829b3c241f33a69b1c59b5aa360f73948a6dff70d39ed41b82c67abc2b469860e0bd91ff131dba6392cdb3eb9d78638928052175e65ad7aa94fc3a8d05df
+doccontainersize 4434836
+doccontainerchecksum 70d297642f7f36539cb21c12b46e2d5e4a6db244f203aa1b009c500876d2def37224579cd8ad54e5b5004f26c41203a0cb2d0a321d38b15051605c2f9432bcc8
+srccontainersize 832
+srccontainerchecksum 660753b080958b11891954b27b39dcf06ee44db1a582376824c517d41996e3721c21066e430b633c7ed56b053b9f4c91dd3e1c968c3209b0426e840653c23563
+runfiles size=27
+ texmf-dist/dvips/pst-vue3d/pst-vue3d.pro
+ texmf-dist/tex/generic/pst-vue3d/pst-vue3d.tex
+ texmf-dist/tex/latex/pst-vue3d/pst-vue3d.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-vue3d
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use graphics-3d
+catalogue-version 1.24

@@ -1,0 +1,16 @@
+name l2tabu-italian
+category Package
+revision 25218
+shortdesc Italian Translation of Obsolete packages and commands
+longdesc Italian translation of the l2tabu practical guide to LaTeX2e (a
+longdesc list of obsolete packages and commands).
+containersize 448
+containerchecksum 5b2348bed7ce47d7e2b8de6642e14b24ab440226d0de46a51eab08b3d11a39bada93d890e1ab9e2dbd3ce253b3263460fe7114baf9bc7b5c775a7d806c731ab2
+doccontainersize 257412
+doccontainerchecksum c76981112631423d5d92ee9236d9b5b076e3d71086f9dada77de51362a5d5e01d82d5b018a68950c2b7f4b10eff1882d677243594436bae41bcc6ab996aa900a
+catalogue-also l2tabu l2tabu-english l2tabu-french
+catalogue-ctan /info/l2tabu/italian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics italian-doc
+catalogue-version 2.3

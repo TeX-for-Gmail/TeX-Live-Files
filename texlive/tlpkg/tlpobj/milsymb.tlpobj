@@ -1,0 +1,24 @@
+name milsymb
+category Package
+revision 47482
+shortdesc LaTeX package for TikZ based drawing of military symbols as per NATO APP-6(C)
+longdesc The package offers commands to draw military symbols as per
+longdesc NATO APP-6(C) https://www.awl.edu.pl/images/en/APP_6_C.pdf. It
+longdesc has a set of commands for drawing all symbols found in the
+longdesc document up to the control measures, as well as support for
+longdesc custom non-standard symbols. Control measures are planned to be
+longdesc included in a future release.
+containersize 22168
+containerchecksum a4ae59e46fd7a1c55701b9455c4d04c5b2a4d4bd8635978071ba79899ef28f5b506cac55df87537c07ba2c5d0fe68247ea275c354b4d6fc6ec1ea71d7e301584
+doccontainersize 1544388
+doccontainerchecksum b4be45d82539d53563e80bc8d7ccfcd4b49e06aeeca87dbfaf8447b8df5a80b6a8e3ef9a81389e30c63e5460e5460938f652571c86ff12ed62274c76b97cd65f
+runfiles size=46
+ texmf-dist/tex/latex/milsymb/milsymb.sty
+catalogue-contact-bugs https://github.com/ralphieraccoon/MilSymb/issues
+catalogue-contact-home https://github.com/ralphieraccoon/MilSymb/wiki
+catalogue-contact-repository https://github.com/ralphieraccoon/MilSymb
+catalogue-ctan /graphics/pgf/contrib/milsymb
+catalogue-date 2018-05-03 05:20:47 +0200
+catalogue-license cc-by-sa-4
+catalogue-topics pgf-tikz symbol-supp
+catalogue-version 1.0

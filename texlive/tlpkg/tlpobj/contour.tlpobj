@@ -1,0 +1,25 @@
+name contour
+category Package
+revision 18950
+shortdesc Print a coloured contour around text
+longdesc This package generates a coloured contour around a given text
+longdesc in order to enable printing text over a background without the
+longdesc need of a coloured box around the text.
+containersize 2672
+containerchecksum 0dd4a28f97efcfd0459595776cbab019168fca48984d78f9ec17e0f3af9dbebd378adc6649bce6a9a999651c75316f3ff44e0f10e208465dda2d904d080c41d3
+doccontainersize 153180
+doccontainerchecksum af1c649d2e5666ee3973395babce4802da2154ba95fa7fc08e378c261a8ea1c5be44053c40c5cc1bd0c74e2c54b659470c3d45063fbbd4330cdc5e664f19bff0
+srccontainersize 6840
+srccontainerchecksum 377b4a92031cd957b15d232cda9e4c2e7488a4c71624eed06dc2edf9dca37afc11e18691650ea377da2dd78b5f636272eeb6d94bebd99ad5ec1ec477f7b65784
+runfiles size=7
+ texmf-dist/tex/latex/contour/contour.cfg
+ texmf-dist/tex/latex/contour/contour.sty
+ texmf-dist/tex/latex/contour/dvips.cnt
+ texmf-dist/tex/latex/contour/dvipsone.cnt
+ texmf-dist/tex/latex/contour/pdftex.cnt
+ texmf-dist/tex/latex/contour/vtex.cnt
+catalogue-ctan /macros/latex/contrib/contour
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics decoration colour
+catalogue-version 2.14

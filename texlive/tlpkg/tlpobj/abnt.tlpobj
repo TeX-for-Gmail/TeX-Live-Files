@@ -1,0 +1,18 @@
+name abnt
+category Package
+revision 49188
+shortdesc Typesetting academic works according to ABNT rules
+longdesc The ABNT package provides a clean and practical implementation
+longdesc of the ABNT rules for academic texts. Its purpose is to be as
+longdesc simple and user-friendly as possible.
+containersize 2368
+containerchecksum e26dff31bb974379dbe8c33ce9a3321870ca0194ad6714e2848c427108626c066dd6c3ae7e0c7ce182f75cf928bb9741c09ccb3fecf3cd20c0f0b7b450219c45
+doccontainersize 97616
+doccontainerchecksum dd331cc5a403bcf10e7c9cbb551cc604e9de8df456a373e2b4cbb7ec397ced5b1bc48d0bad1fb9201b73214ffeb54cf0d7291e66b70af697a5638641a22443ec
+runfiles size=2
+ texmf-dist/tex/latex/abnt/abnt.sty
+catalogue-also biblatex-abnt abntex2
+catalogue-ctan /macros/latex/contrib/abnt
+catalogue-date 2018-11-18 17:03:00 +0100
+catalogue-license lppl1.3c
+catalogue-topics portuguese-br

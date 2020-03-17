@@ -1,0 +1,36 @@
+name chemstyle
+category Package
+revision 31096
+shortdesc Writing chemistry with style
+longdesc Chemstyle has been developed as a successor to the LaTeX
+longdesc package provided by the rsc bundle. The package provides an
+longdesc extensible system for formatting chemistry documents according
+longdesc to the conventions of a number of leading journals. It also
+longdesc provides some handy chemistry-related macros. Chemstyle is much
+longdesc enhanced compared to its predecessor, and users of rsc are
+longdesc strongly encouraged to migrate (all of the additional macros in
+longdesc the rsc LaTeX package are present in chemstyle). The package
+longdesc chemscheme is distributed with chemstyle; chemstyle itself
+longdesc incorporates ideas that come from the trivfloat package; the
+longdesc documentation uses the auto-pst-pdf package.
+containersize 6272
+containerchecksum 299e15460a64019177530a4d28154453a813c6987e6e89b6f60466ae9e59372c1a5e0fc418c49b85364ba3185d4fe4e4b7f98caad9add7dce9bbe1792d4e314d
+doccontainersize 271232
+doccontainerchecksum f8d6c51cd7e3df7ea8366ade62d0cf8ec3825b0ca54be600107a6be8853d1c58e1989f5c13bddcacd97673260890fd0f63e9a0282203dbdbc6a01653d86f0537
+srccontainersize 25008
+srccontainerchecksum 0ee97edc8ecf8f08ed39ed9fffe18b89249c513f33ff415e4205619395baa6e8b7c77832d5110d113d78d94c1d79ba84f79a5ff23a43fd0bb23d19db96badf52
+runfiles size=14
+ texmf-dist/tex/latex/chemstyle/chemscheme.sty
+ texmf-dist/tex/latex/chemstyle/chemstyle.sty
+ texmf-dist/tex/latex/chemstyle/config/angew.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/ic.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/jacs.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/jomc.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/orglett.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/rsc.chemstyle.cfg
+ texmf-dist/tex/latex/chemstyle/config/tetlett.chemstyle.cfg
+catalogue-ctan /macros/latex/contrib/chemstyle
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics chemistry
+catalogue-version 2.0m

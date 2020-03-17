@@ -1,0 +1,23 @@
+name elegantpaper
+category Package
+revision 50679
+shortdesc An Elegant LaTeX Template for Working Papers
+longdesc ElegantPaper is designed for writing working papers, especially
+longdesc for economics students. This template is based on the standard
+longdesc LaTeX article class. The goal of this template is to make the
+longdesc writing process easier and more comfortable.
+containersize 3348
+containerchecksum 0e816ca471b7ea09e375ebd6c30be63aa708e3f867c9ec4669b03efb7a11483736be56e3b8ea8fa8eaaaa4798fe2b807e9c52d7f307059e619b3eea3d9b2391b
+doccontainersize 450604
+doccontainerchecksum 0210333865225e3ef0d73dc66595cecf27b12b90e1f7946798490c471760f58079a8d9955e062e7160dade30c17ba77e61adbc91b2c3c463703fc07c703e3735
+runfiles size=2
+ texmf-dist/tex/latex/elegantpaper/elegantpaper.cls
+catalogue-contact-announce https://elegantlatex.org/
+catalogue-contact-home https://elegantlatex.org/
+catalogue-contact-repository https://github.com/ElegantLaTeX/ElegantPaper/
+catalogue-contact-support https://github.com/ElegantLaTeX/ElegantPaper/issues
+catalogue-ctan /macros/latex/contrib/elegantpaper
+catalogue-date 2019-03-31 19:57:20 +0200
+catalogue-license lppl1.3c
+catalogue-topics class
+catalogue-version 0.07

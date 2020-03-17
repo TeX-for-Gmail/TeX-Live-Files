@@ -1,0 +1,30 @@
+name gfsbaskerville
+category Package
+revision 19440
+shortdesc A Greek font, from one such by Baskerville
+longdesc The font is a digital implementation of Baskerville's classic
+longdesc Greek font, provided by the Greek Font Society. The font covers
+longdesc Greek only, and LaTeX support provides for the use of LGR
+longdesc encoding.
+execute addMap gfsbaskerville.map
+containersize 116604
+containerchecksum b545ec586b3bdfe3da2cabaa959ceeeb4ff513b48024575b1b5e3c57bb2d10a0b4e2cd7507726275eed0826dabf03d05c20eb9d5ec341aaedc0313264214ef78
+doccontainersize 45796
+doccontainerchecksum a45ed2b35774755a6558431f784faad4bbd63aa81ad5d80c3cfe3f7726604aea3e4de2baa72bb27a4e2271e9bfe180c8963d06b880a0efd2dc5f7789dcabb51b
+runfiles size=53
+ texmf-dist/fonts/afm/public/gfsbaskerville/GFSBaskerville-Regular.afm
+ texmf-dist/fonts/enc/dvips/gfsbaskerville/gpgfsbaskerville.enc
+ texmf-dist/fonts/map/dvips/gfsbaskerville/gfsbaskerville.map
+ texmf-dist/fonts/opentype/public/gfsbaskerville/GFSBaskerville.otf
+ texmf-dist/fonts/tfm/public/gfsbaskerville/ggfsbaskervillerg6a.tfm
+ texmf-dist/fonts/tfm/public/gfsbaskerville/ggfsbaskervillerg6r.tfm
+ texmf-dist/fonts/type1/public/gfsbaskerville/GFSBaskerville-Regular.pfb
+ texmf-dist/fonts/vf/public/gfsbaskerville/ggfsbaskervillerg6a.vf
+ texmf-dist/tex/latex/gfsbaskerville/gfsbaskerville.sty
+ texmf-dist/tex/latex/gfsbaskerville/lgrgfsbaskerville.fd
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /fonts/greek/gfs/gfsbaskerville
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics font font-type1 font-otf font-greek
+catalogue-version 1.0

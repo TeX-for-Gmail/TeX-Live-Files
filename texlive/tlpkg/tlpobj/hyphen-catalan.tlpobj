@@ -1,0 +1,18 @@
+name hyphen-catalan
+category TLCore
+revision 50792
+shortdesc Catalan hyphenation patterns.
+longdesc Hyphenation patterns for Catalan in T1/EC and UTF-8 encodings.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=catalan 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-ca.tex 	file_patterns=hyph-ca.pat.txt 	file_exceptions=hyph-ca.hyp.txt
+containersize 5232
+containerchecksum 29454662cb701c63e8017dc034a31db9539483319e36307aa99dfdadf9d7fa7d3c44500397c0af079b3026f874803522768212e1249cc888898a593f79fed32b
+runfiles size=10
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ca.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-ca.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ca.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ca.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ca.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ca.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ca.pat.txt

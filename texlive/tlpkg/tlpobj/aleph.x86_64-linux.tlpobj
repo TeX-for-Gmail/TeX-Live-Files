@@ -1,0 +1,9 @@
+name aleph.x86_64-linux
+category Package
+revision 50700
+shortdesc x86_64-linux files of aleph
+containersize 246524
+containerchecksum 7b394763989d45308daccef61c4a08e2856c158b2dae66f573a6d9c7f782e059fbcb69299a7053f00f14860accb2034044295c2ff1b8e2bfb57faae648da6557
+binfiles arch=x86_64-linux size=138
+ bin/x86_64-linux/aleph
+ bin/x86_64-linux/lamed

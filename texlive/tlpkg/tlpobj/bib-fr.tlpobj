@@ -1,0 +1,29 @@
+name bib-fr
+category Package
+revision 15878
+shortdesc French translation of classical BibTeX styles
+longdesc These files are French translations of the classical BibTeX
+longdesc style files. The translations can easily be modified by simply
+longdesc redefining FUNCTIONs named fr.*, at the beginning (lines
+longdesc 50-150) of each file.
+containersize 13440
+containerchecksum 24e5ada94266ba8786470453bf8a076891e9b7efac1ff64fcb559bfe2c95875d3120634f94f464c9e40da0f45b18a78af1bc428106b31e85851a2998b58f0834
+doccontainersize 952
+doccontainerchecksum a19ffa9b3ce51d372a7467bdf7e360ac4a0faf45fc2205eadfaff16fb640ffb0cccac7fd0849a74955dcf612e353f0e25f94c0af9e3b5bf617f067606c1da120
+runfiles size=66
+ texmf-dist/bibtex/bst/bib-fr/abbrv-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/abbrvnat-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/alpha-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/apalike-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/ieeetr-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/plain-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/plainnat-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/siam-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/unsrt-fr.bst
+ texmf-dist/bibtex/bst/bib-fr/unsrtnat-fr.bst
+catalogue-also babelbib
+catalogue-ctan /biblio/bibtex/contrib/bib-fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty french
+catalogue-version 1.5

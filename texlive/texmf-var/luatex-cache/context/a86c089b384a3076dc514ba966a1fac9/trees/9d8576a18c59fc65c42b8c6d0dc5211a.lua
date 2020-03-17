@@ -1,0 +1,22 @@
+return {
+ ["content"]={
+  ["files"]={
+   ["ls-r"]="",
+  },
+  ["metadata"]={
+   ["directories"]=0,
+   ["files"]=1,
+   ["path"]="selfautoparent:texmf-config",
+   ["remappings"]=1,
+  },
+  ["remap"]={
+   ["ls-r"]="ls-R",
+  },
+ },
+ ["date"]="2020-03-17",
+ ["root"]="selfautoparent:texmf-config",
+ ["time"]="19:14:19",
+ ["type"]="files",
+ ["uuid"]="8d9e4a98-4c2e-83df-9a7d-f95c3872d5cb",
+ ["version"]="1.100",
+}

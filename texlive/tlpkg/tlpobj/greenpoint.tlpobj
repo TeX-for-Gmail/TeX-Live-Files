@@ -1,0 +1,19 @@
+name greenpoint
+category Package
+revision 15878
+shortdesc The Green Point logo
+longdesc A Metafont-implementation of the logo commonly known as 'Der
+longdesc Grune Punkt' ('The Green Point'). In Austria, it can be found
+longdesc on nearly every bottle. It should not be confused with the
+longdesc 'Recycle'-logo, implemented by Ian Green.
+containersize 1692
+containerchecksum 2ab6b0a9d12c12936362e9e1ff387c393bcd2e9769357dbc74a5d9bcbbe027424f5d58d85d608c2c519d615f01e6e809f6192280c8c60aa53fb8d96dcbdeb8dc
+doccontainersize 948
+doccontainerchecksum 84143440a421999f0a59461652be21d49d8ace66fd3b8d9d89132c6f06f67ef4b571522d6ed54d87f614a15dceb99cdf4c3caecb54eed9a4bbf49401de20ada5
+runfiles size=2
+ texmf-dist/fonts/source/public/greenpoint/greenpoint.mf
+ texmf-dist/fonts/tfm/public/greenpoint/greenpoint.tfm
+catalogue-ctan /fonts/greenpoint
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl
+catalogue-topics font font-mf font-specialist

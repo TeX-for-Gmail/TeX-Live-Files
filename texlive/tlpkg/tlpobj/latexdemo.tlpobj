@@ -1,0 +1,21 @@
+name latexdemo
+category Package
+revision 34481
+shortdesc Demonstrate LaTeX code with its resulting output
+longdesc The package provides configurable tools to print out LaTeX code
+longdesc and the resulting output in the same document. It also supports
+longdesc printing the result inside a conditional sequence; thus one may
+longdesc suppress printing if the code would not compile.
+containersize 2476
+containerchecksum d8b6ceb9aed4b2edbb4fc9e939dbc2dc5b6989fd04703dce2e504135d2c1bda46c8dd78e995d41a7e8727563c72b4f77979a52513ab0d49d8c95f80246a94fa9
+doccontainersize 459344
+doccontainerchecksum 34a0ed1b5e9ce5f2b71d67384427b4a7d69439ac4eb5113e1b8e270618164f883b05bf7cbdff9da57fe2bec7cf43bed844ec77b90da00efe30fe9061b3ca0339
+srccontainersize 6176
+srccontainerchecksum 7416fda5909c8488b2e7aa6fce9b1c0e747577e82a2fcb44df617c493e768b3d86310b1817ccfd96edd22aafdee45d32eba1495949c44aa9c1e252abece321be
+runfiles size=2
+ texmf-dist/tex/latex/latexdemo/latexdemo.sty
+catalogue-ctan /macros/latex/contrib/latexdemo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics listing
+catalogue-version 0.1

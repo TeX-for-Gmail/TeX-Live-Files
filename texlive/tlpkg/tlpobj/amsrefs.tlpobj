@@ -1,0 +1,36 @@
+name amsrefs
+category Package
+revision 30646
+shortdesc A LaTeX-based replacement for BibTeX
+longdesc Amsrefs is a LaTeX package for bibliographies that provides an
+longdesc archival data format similar to the format of BibTeX database
+longdesc files, but adapted to make direct processing by LaTeX easier.
+longdesc The package can be used either in conjunction with BibTeX or as
+longdesc a replacement for BibTeX.
+containersize 27428
+containerchecksum a0993aa374bf845952c934a421d2b344564726207245102dec82915a3cddf33ad8cb1f2d4d48d71ba0263fae0c24c78f0cc21e0b923a875af02d12c602a375d6
+doccontainersize 1938800
+doccontainerchecksum 2c472849194fb72453a541ba443b2232fbf876cd2d4071dd6e6eb65603845ac9715629bbc7b1f44dc0268a809a1a5d74a08f0dc27a81e9b30787a44d133bdd57
+srccontainersize 102004
+srccontainerchecksum 9cdfcb0e841f6dcfb23c5fac930d12cc610ae8002aed13a4867bf384fa0f177f834cb58482647c2daf7c52c0267f85e8dc4f93575b14fe58e2a634307b7bab49
+runfiles size=59
+ texmf-dist/bibtex/bib/amsrefs/amsj.bib
+ texmf-dist/bibtex/bst/amsrefs/amsra.bst
+ texmf-dist/bibtex/bst/amsrefs/amsrn.bst
+ texmf-dist/bibtex/bst/amsrefs/amsrs.bst
+ texmf-dist/bibtex/bst/amsrefs/amsru.bst
+ texmf-dist/bibtex/bst/amsrefs/amsry.bst
+ texmf-dist/tex/latex/amsrefs/amsbst.sty
+ texmf-dist/tex/latex/amsrefs/amsrefs.sty
+ texmf-dist/tex/latex/amsrefs/ifoption.sty
+ texmf-dist/tex/latex/amsrefs/mathscinet.sty
+ texmf-dist/tex/latex/amsrefs/pcatcode.sty
+ texmf-dist/tex/latex/amsrefs/rkeyval.sty
+ texmf-dist/tex/latex/amsrefs/textcmds.sty
+catalogue-also biblatex
+catalogue-contact-home http://www.ams.org/tex/amsrefs.html
+catalogue-ctan /macros/latex/contrib/amsrefs
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics biblio
+catalogue-version 2.14

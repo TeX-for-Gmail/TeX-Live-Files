@@ -1,0 +1,24 @@
+name spanish-mx
+category Package
+revision 15878
+shortdesc Typeset Spanish as in Mexico
+longdesc The bundle provides files to support typesetting of texts in
+longdesc Spanish according to Mexican current practices, using babel.
+longdesc The files merge earlier work on a mexican.ldf, or may be used
+longdesc to define a configuration that will typeset all documents (that
+longdesc request babel's spanish option) to use the Mexican language
+longdesc facilities. (Note that this facility is only available with the
+longdesc recent (version >=4.2b) releases of the Spanish option.)
+containersize 3076
+containerchecksum cb638093e1a50de3fd67720ae21e11285337910f98da86db79613f73878084b93fc8afd998b4422b673e3daceaa2ba7aa76b02efc98003e741b74449d4c94af2
+doccontainersize 1060
+doccontainerchecksum 0b257bd5ce8a7332fe6cf1f5772a464ffdc525e80794dc89600e9ad279beb1f39523fabfcd2723123a458787d7bfd32ecbe0b2962b4abfc3627275862e05b97f
+runfiles size=3
+ texmf-dist/tex/latex/spanish-mx/esmx.cfg
+ texmf-dist/tex/latex/spanish-mx/spanishmx.ldf
+ texmf-dist/tex/latex/spanish-mx/spanishmx.sty
+catalogue-ctan /language/spanish/babel/contrib/mexican
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics spanish multilingual-addon
+catalogue-version 1.1a

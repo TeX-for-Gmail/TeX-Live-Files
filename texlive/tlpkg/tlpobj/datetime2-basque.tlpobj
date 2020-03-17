@@ -1,0 +1,19 @@
+name datetime2-basque
+category Package
+revision 47064
+shortdesc Basque language module for the datetime2 package
+longdesc This module provides the "basque" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty.
+containersize 2428
+containerchecksum 73d7dcb4a2d13d4ad4747d4d2a19b839bd9a1bd55793657315832178091357f61d9b748d5aaefd317baa7f52df2a4926dad6196d11d11cbce0df78168b2ad380
+doccontainersize 1804
+doccontainerchecksum ce083f982f95f5e4beb33a706144d26f6f09de8ede946ac89d28ad5e5c75f9a475e4e9bca5fbc7773ee90a91ca095f0b1a9908fc0f74fcbb4117ec7511d603b2
+srccontainersize 4672
+srccontainerchecksum a2bab4c1956a0471571221a57f85e9f4260e349a9b775540638255d8313f5db2c9922120e045b8c769b7b7fe1698c7fcfae1e1aa101e858e84aac32673f6fb86
+runfiles size=3
+ texmf-dist/tex/latex/datetime2-basque/datetime2-basque.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-basque
+catalogue-date 2018-03-21 20:14:45 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual basque
+catalogue-version 1.2a

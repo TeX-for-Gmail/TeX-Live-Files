@@ -1,0 +1,21 @@
+name titlepic
+category Package
+revision 43497
+shortdesc Add picture to title page of a document
+longdesc The package allows you to place a picture on the title page
+longdesc (cover page) of a LaTeX document. Example of usage:
+longdesc \usepackage[cc]{titlepic} \usepackage{graphicx}
+longdesc \titlepic{\includegraphics[width=\textwidth]{picture.png}} The
+longdesc package currently only works with the document classes article,
+longdesc report and book.
+containersize 1472
+containerchecksum 753ff5c116f102ebd9fe59ea0ad1e80a7fd102f55588f9454fb3ef43fd5478add2d39984638e112dfcc5421f5f79b4c34c8c15d47845273744b6960946ad1805
+doccontainersize 125016
+doccontainerchecksum 6faaeeb6c7212e35c22321e279c08ac8a985ebb8ec66054b49456ee5a9491b88e48edcb20920d61a052b2df9617ddee7e40bb0e868fe082ce5889e63c193b641
+runfiles size=1
+ texmf-dist/tex/latex/titlepic/titlepic.sty
+catalogue-ctan /macros/latex/contrib/titlepic
+catalogue-date 2017-03-14 12:42:38 +0100
+catalogue-license pd
+catalogue-topics titlepage graphics-use
+catalogue-version 1.2

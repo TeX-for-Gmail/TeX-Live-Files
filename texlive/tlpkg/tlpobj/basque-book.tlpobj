@@ -1,0 +1,21 @@
+name basque-book
+category Package
+revision 32924
+shortdesc Class for book-type documents written in Basque
+longdesc The class is derived from the LaTeX book class. The extensions
+longdesc solve grammatical and numeration issues that occur when
+longdesc book-type documents are written in Basque. The class is useful
+longdesc for writing books, PhD and Master Theses, etc., in Basque.
+containersize 6032
+containerchecksum 645d55362506a1bcf563a12ddb7616f085d5cc75a45cb2f0dcdf551158b48f595cd71278caf9a0c35f1d85ca66b880e6f59f9ee416fb9bf15cd7c18bf6fda2b9
+doccontainersize 391648
+doccontainerchecksum 7954b1c86ddac3a1409bf16cc7db5470332fb86459257756200dc794a3443b137e6013a7e904bbf63e8fceae64850418e56ad08af12a448c1fe507e29221c7be
+srccontainersize 10280
+srccontainerchecksum 4b8a2ac7320d04d5e35a0c789e5b548582ef4e0723ca45231250b44ab08fb52a73e88f5425218ecdc3e3d35e01042b64c711ad78aaef0c4f119ebd1abc4dc36f
+runfiles size=6
+ texmf-dist/tex/latex/basque-book/basque-book.cls
+catalogue-ctan /macros/latex/contrib/basque-book
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics book-pub dissertation class basque
+catalogue-version 1.20

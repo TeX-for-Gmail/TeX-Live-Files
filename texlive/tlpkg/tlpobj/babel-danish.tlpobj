@@ -1,0 +1,21 @@
+name babel-danish
+category Package
+revision 30262
+shortdesc Babel contributed support for Danish
+longdesc The package provides a language definition, file for use with
+longdesc babel, which establishes Danish conventions in a document (or a
+longdesc subset of the conventions, if Danish is not the main language
+longdesc of the document).
+containersize 2464
+containerchecksum 03bc05d7e6d59ffbb6191cc392294007bf4f1b6f758aceeedb8dddfe9aefadde3e7904d7aa0834ecdf6dbae732057ed0523b24ca20dfa594e02ee8857c94cd3a
+doccontainersize 127824
+doccontainerchecksum b85445b348bd65abb4c7df530e20b93c5cc86f2ce25f0306aef3d32b585ce8ad8d5b16007bede46be535ac0737546f453c1241a225b31a9216ae25482360b2cf
+srccontainersize 5704
+srccontainerchecksum 0556cb121d06313ea2c1f84a98ea89e75d8bc0fe2a8dcbee98deff446ddf187833af6ee2634483f25a721142078ea889bf065996171617cc95ce28a8a5083b81
+runfiles size=2
+ texmf-dist/tex/generic/babel-danish/danish.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/danish
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1.3
+catalogue-topics danish
+catalogue-version 1.3r

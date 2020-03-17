@@ -1,0 +1,30 @@
+name tkz-base
+category Package
+revision 48710
+shortdesc Tools for drawing with a cartesian coordinate system
+longdesc The bundle is a set of packages, designed to give mathematics
+longdesc teachers (and students) easy access to programming of drawings
+longdesc with TikZ.
+containersize 20104
+containerchecksum 3d187ef9abac64179de9d1c5992fb0b493eddd54e14b83b57adba977fea69598480f56546e685d212093f21d3ce7c9dcc0cef41f426975c2d51fd0188c53ad7b
+doccontainersize 527804
+doccontainerchecksum 8ae2af7426f66ac769e13399a6bbcb86ed785dc45ad4b89c325fb1a3f5b512b24cb574162f6b1324b3b5d877e4acb0c00d07858a7ee46c8ea2b9bf64e4c5a087
+runfiles size=36
+ texmf-dist/tex/latex/tkz-base/tkz-base.cfg
+ texmf-dist/tex/latex/tkz-base/tkz-base.sty
+ texmf-dist/tex/latex/tkz-base/tkz-obj-marks.tex
+ texmf-dist/tex/latex/tkz-base/tkz-obj-points.tex
+ texmf-dist/tex/latex/tkz-base/tkz-obj-segments.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-arith.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-base.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-math.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-misc.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-obsolete.tex
+ texmf-dist/tex/latex/tkz-base/tkz-tools-utilities.tex
+catalogue-also pgf
+catalogue-contact-repository https://github.com/tkz-sty
+catalogue-ctan /macros/latex/contrib/tkz/tkz-base
+catalogue-date 2018-09-19 23:00:28 +0200
+catalogue-license lppl
+catalogue-topics pgf-tikz
+catalogue-version 1.16d

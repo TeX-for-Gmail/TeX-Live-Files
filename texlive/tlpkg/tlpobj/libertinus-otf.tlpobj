@@ -1,0 +1,26 @@
+name libertinus-otf
+category Package
+revision 50783
+shortdesc Support for Libertinus OpenType
+longdesc This package offers LuaLaTeX/XeLaTeX support for the Libertinus
+longdesc OpenType fonts maintained by Khaled Hosny. Furthermore
+longdesc math-bold, mono-bold, mono-oblique, and mono-bold-oblique font
+longdesc styles are provided, which have been derived from the ones in
+longdesc the libertinus-fonts package itself. The Libertinus fonts are
+longdesc similiar to Libertine and Biolinum, but come with math symbols.
+containersize 1447944
+containerchecksum 13a81146f4e73633c9ff4f9eb651b0daa3d75f32203ff831bfc5ad57475c775c0527cae2d5a4b367fa1f9c0dd3d0c0303c227f9fa1145eef495483e2d69ef9c8
+doccontainersize 436252
+doccontainerchecksum 4b8a8e7aa26101bcadf4fe4526990d55b89d55a08af053e5cbca7fbc0a4b89311e4540144088d8d772fcc82965b00cfef0ad5135482be7a928ae6ad73caa84b0
+runfiles size=1027
+ texmf-dist/fonts/opentype/public/libertinus-otf/LibertinusMath-Bold.otf
+ texmf-dist/fonts/opentype/public/libertinus-otf/LibertinusMono-Bold.otf
+ texmf-dist/fonts/opentype/public/libertinus-otf/LibertinusMono-BoldOblique.otf
+ texmf-dist/fonts/opentype/public/libertinus-otf/LibertinusMono-Oblique.otf
+ texmf-dist/fonts/opentype/public/libertinus-otf/LibertinusSans-BoldOblique.otf
+ texmf-dist/tex/latex/libertinus-otf/libertinus-otf.sty
+catalogue-ctan /fonts/libertinus-otf
+catalogue-date 2019-04-05 09:38:28 +0200
+catalogue-license lppl1.3ofl
+catalogue-topics font font-otf font-supp font-sans font-mono font-maths
+catalogue-version 0.14

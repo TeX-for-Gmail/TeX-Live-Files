@@ -1,0 +1,27 @@
+name ocgx
+category Package
+revision 28492
+shortdesc Use OCGs within a PDF document without JavaScript
+longdesc The package extends the ocg package, which allows you to create
+longdesc OCGs (Optional Content Groups) in PDF documents. (The ocg
+longdesc package is distributed as part of Asymptote.) Every OCG
+longdesc includes TeX material into a layer of the PDF file. Each of
+longdesc these layers can be displayed or not. Links can enable or
+longdesc disable the display of OCGs. The ocgx package does not use
+longdesc Javascript embedded in the PDF document to enable (to show) or
+longdesc disable (to hide) OCGs.
+containersize 2120
+containerchecksum 5e8e27f2ad058f30431a78d006869d4448fcb722c6b86a306505afc54a4e39e9136980affad1267da479bb175b8608d093ea531f85302e1c4f450ee93451ac33
+doccontainersize 991560
+doccontainerchecksum 62dd19282c5ff9b030b1caa8a779590f46aae1bafeb4ecb90195e2e0469669c21e130408fdcf855a0a0859100d04cd7b3494ce60bc21e32ea5c3c6fc162ea69e
+srccontainersize 7776
+srccontainerchecksum 3abfd38cb39915bb6a1a5610c5d760174cf0caa7de99b8f975f8084f01579a2211c45ceb0912b84f9ab09d26ad091801869c11f393d1b59eacbb133dbd6b1603
+runfiles size=2
+ texmf-dist/tex/latex/ocgx/ocgx.sty
+ texmf-dist/tex/latex/ocgx/tikzlibraryocgx.code.tex
+catalogue-also asymptote
+catalogue-ctan /macros/latex/contrib/ocgx
+catalogue-date 2016-12-28 10:23:26 +0100
+catalogue-license lppllppl
+catalogue-topics pdf-feat
+catalogue-version 0.5

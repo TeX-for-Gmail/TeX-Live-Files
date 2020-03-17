@@ -1,0 +1,24 @@
+name thaispec
+category Package
+revision 46923
+shortdesc Thai Language Typesetting in XeLaTeX
+longdesc This package allows you to input Thai characters directly to
+longdesc LaTeX documents and choose any (system wide) Thai fonts for
+longdesc typesetting in XeLaTeX. It also tries to appropriately justify
+longdesc paragraphs with no more external tools. Required packages are
+longdesc fontspec, ucharclasses, polyglossia, setspace, datetime2,
+longdesc kvoptions, fp, afterpackage, xstring, and xpatch.
+containersize 3340
+containerchecksum 9ba72a1ea7dabc10fa424f6230d3ce217d9b9ce3009d019a6f1d6bdfb7bd4b7cbb44cf719882398c808a844ebdc65961857b91f694f36bb4804ca3d17c1b6f93
+doccontainersize 56996
+doccontainerchecksum 534901ba06432f56f644da26e11b96c078eda8f1cc716dd08e893b02df084d5d4fa40397ef635f91aeeea60c510849376edcaecb62c5e69a4e09976db2c9f82c
+srccontainersize 5940
+srccontainerchecksum 46d937ddb05dae9d678e23080de57096c1aee4b83cda8714e15a24c68c366d911c714f9723c0d234b11aec7dbd43c3fbedcd6acf5216f01a38bf34fb0e7145ec
+runfiles size=3
+ texmf-dist/tex/latex/thaispec/thaispec.sty
+catalogue-contact-home https://github.com/epsilonxe/LaTeX/tree/master/Packages/thaispec
+catalogue-ctan /language/thai/thaispec
+catalogue-date 2018-05-13 08:10:59 +0200
+catalogue-license lppl1.3
+catalogue-topics thai xetex
+catalogue-version 0.3

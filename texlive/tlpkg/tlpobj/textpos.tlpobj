@@ -1,0 +1,22 @@
+name textpos
+category Package
+revision 41331
+shortdesc Place boxes at arbitrary positions on the LaTeX page
+longdesc A package to facilitate placement of boxes at absolute
+longdesc positions on the LaTeX page. There are several reasons why this
+longdesc might be useful, an important one being to help the creation of
+longdesc large-format conference posters.
+containersize 3824
+containerchecksum daf46d185793cfe785bfe1bf92a23b2d5971b1a3f5fec1148a89a0ef01777e2bf903f8de605551668489efd691c93dcd0bdd23844272065c1f55ad2fb3b02bdd
+doccontainersize 307396
+doccontainerchecksum 516cddb99f648aabc959791dd5ed08794a259ce5509596439fdb711d96734acfc6e7b572fc3a2222c8604d2f36dd708f2e0b1d9c0a3d001ee7cf3c6ca71033db
+srccontainersize 21432
+srccontainerchecksum 3c2ee4b19e84b6038cf0353b1da797a0e7aebd7a425b350f3bc52acb9808b04a34a314f9f6b84272afcee1153023eb485049cd76214f62959f739b7d0a0a93d3
+runfiles size=3
+ texmf-dist/tex/latex/textpos/textpos.sty
+catalogue-contact-home http://purl.org/nxg/dist/textpos
+catalogue-ctan /macros/latex/contrib/textpos
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 1.8

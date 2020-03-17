@@ -1,0 +1,27 @@
+name gridset
+category Package
+revision 15878
+shortdesc Grid, a.k.a. in-register, setting
+longdesc Grid setting -- also known as strict in-register setting -- is
+longdesc something, that should be done for a lot of documents but is
+longdesc not easy using LaTeX. The package helps to get the information
+longdesc needed for grid setting. It does not implement auto grid
+longdesc setting, but there is a command \vskipnextgrid, that moves to
+longdesc the next grid position. This may be enough under some
+longdesc circumstances, but in other circumstances it may fail. Thus
+longdesc gridset is only one more step for grid setting, not a complete
+longdesc solution.
+containersize 5828
+containerchecksum e9e9fbb2dcec8932e96655886ab9c4c19ed3e986f033feac7d8e64241fcb41f8e2be5e5bbb47032816626580bbe77611dabe24fba34b43ad53f3a592062b826a
+doccontainersize 106712
+doccontainerchecksum b9c0001a5d89d592e9d176f2bf91cdd5fc6363de32e21621b73f9d7c392928f0e39ef4eb17c589469e59e2e865b05e33233d237afd1266f0477ed3d8f3c1c66c
+srccontainersize 6404
+srccontainerchecksum bedb06496d04f10395ba999f91bb49c4ad6c19d26f3c8de3b1492268fc58dcde72d8c03bea6d646ef75ef65dd843b4459af453ca673634fce164599ac014d50a
+runfiles size=5
+ texmf-dist/tex/latex/gridset/gridset.sty
+catalogue-contact-home http://komascript.de/gridset
+catalogue-ctan /macros/latex/contrib/gridset
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics typeset-grid
+catalogue-version 0.1

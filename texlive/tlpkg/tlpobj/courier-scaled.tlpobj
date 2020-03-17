@@ -1,0 +1,27 @@
+name courier-scaled
+category Package
+revision 24940
+shortdesc Provides a scaled Courier font
+longdesc This package sets the default typewriter font to Courier with a
+longdesc possible scale factor (in the same way as the helvet package
+longdesc for Helvetica works for sans serif).
+containersize 2080
+containerchecksum 570256a4353163cba169ac5d649458d363edc5c2836efccff1e7df83c12d9b552978b3531f2ab026430b3222b3dfc00be0e4700031e6bc50bdb60a739a68c9aa
+doccontainersize 151604
+doccontainerchecksum 59c5cec8491e678b084afb4c6e63ed07ca179b5f17be8fe581ff341c80b3cee8016601799ada090e1fcde9eeb72197986f3d4aeffa7c7a9d10a014e34282f52a
+runfiles size=11
+ texmf-dist/tex/latex/courier-scaled/8rpcrs.fd
+ texmf-dist/tex/latex/courier-scaled/couriers.sty
+ texmf-dist/tex/latex/courier-scaled/il2pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/ly1pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/omlpcrs.fd
+ texmf-dist/tex/latex/courier-scaled/omspcrs.fd
+ texmf-dist/tex/latex/courier-scaled/ot1pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/t1pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/t5pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/ts1pcrs.fd
+ texmf-dist/tex/latex/courier-scaled/xl2pcrs.fd
+catalogue-ctan /fonts/psfonts/courier-scaled
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics font-use

@@ -1,0 +1,56 @@
+name chessfss
+category Package
+revision 19440
+shortdesc A package to handle chess fonts
+longdesc This package offers commands to use and switch between chess
+longdesc fonts. It uses the LaTeX font selection scheme (nfss). The
+longdesc package doesn't parse, format and print PGN input like e.g. the
+longdesc packages skak or texmate; the aim of the package is to offer
+longdesc writers of chess packages a bundle of commands for fonts, so
+longdesc that they don't have to implement all these commands for
+longdesc themselves. A normal user can use the package to print e.g.
+longdesc single chess symbols and simple diagrams. The documentation
+longdesc contains also a section about installation of chess fonts.
+containersize 10968
+containerchecksum 8250d4b470a74877c44093888657b0a3c6ce71abc2a23780e71590d0398fc08943ef77ffafcfdabdc6bfd739f7d5b4ca15f2436df103271de029e5ff6102f579
+doccontainersize 1376
+doccontainerchecksum 1f9e625cb7765450fde23f5666af3b43ddb9ba2e67e7d04b98ef19446117cf26eaec3c2586be7c683286dedc37f8d628e4142bae834af716f2c068ac28beef58
+srccontainersize 10896
+srccontainerchecksum 8745f5c712df2da39a61aa3d7ec3b6b4917c4905e3a0c4ac25ea6484555f25db6fd31b49a9c86566f69a660108683b4749abeb17f512ece9af54ffd7806c1d79
+runfiles size=47
+ texmf-dist/fonts/enc/dvips/chessfss/chess-board-example-enc.enc
+ texmf-dist/fonts/enc/dvips/chessfss/chess-fig-example-enc.enc
+ texmf-dist/tex/latex/chessfss/chessfss.sty
+ texmf-dist/tex/latex/chessfss/lsb1enc.def
+ texmf-dist/tex/latex/chessfss/lsb1skak.fd
+ texmf-dist/tex/latex/chessfss/lsb1skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsb2enc.def
+ texmf-dist/tex/latex/chessfss/lsb2skak.fd
+ texmf-dist/tex/latex/chessfss/lsb2skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsb3enc.def
+ texmf-dist/tex/latex/chessfss/lsb3skak.fd
+ texmf-dist/tex/latex/chessfss/lsb3skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbc1enc.def
+ texmf-dist/tex/latex/chessfss/lsbc1skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbc2enc.def
+ texmf-dist/tex/latex/chessfss/lsbc2skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbc3enc.def
+ texmf-dist/tex/latex/chessfss/lsbc3skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbc4enc.def
+ texmf-dist/tex/latex/chessfss/lsbc4skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbc5enc.def
+ texmf-dist/tex/latex/chessfss/lsbc5skaknew.fd
+ texmf-dist/tex/latex/chessfss/lsbenc.def
+ texmf-dist/tex/latex/chessfss/lsbskak.fd
+ texmf-dist/tex/latex/chessfss/lsbskaknew.fd
+ texmf-dist/tex/latex/chessfss/lsfenc.def
+ texmf-dist/tex/latex/chessfss/lsfskak.fd
+ texmf-dist/tex/latex/chessfss/lsfskaknew.fd
+ texmf-dist/tex/latex/chessfss/lsienc.def
+ texmf-dist/tex/latex/chessfss/lsiskak.fd
+ texmf-dist/tex/latex/chessfss/lsiskaknew.fd
+catalogue-ctan /macros/latex/contrib/chessfss
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics font-supp games
+catalogue-version 1.2a

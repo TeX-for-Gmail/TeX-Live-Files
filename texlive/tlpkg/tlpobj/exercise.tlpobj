@@ -1,0 +1,26 @@
+name exercise
+category Package
+revision 35417
+shortdesc Typeset exercises, problems, etc. and their answers
+longdesc The package helps to typeset exercises or list of exercises
+longdesc within any document. Exercises, questions and sub-questions are
+longdesc automatically numbered. It is possible to put answers in the
+longdesc same document, and display them immediatly, later in the
+longdesc document or not to print answers at all. The layout of
+longdesc exercises is fully customisable. It is possible to typeset long
+longdesc problems, short exercises, questionnaires, etc. Usage of the
+longdesc babel package is detected, but not fully supported yet (only
+longdesc English and French are implemented).
+containersize 7228
+containerchecksum 8de2044404690716d781a3b081181d9a14596487213762bb1ef426a0951dc18b1097a4cd8255bc7094d9d5e7f874e68181849c173a4932e7d07c46e14d1609b1
+doccontainersize 318960
+doccontainerchecksum 3059c297ecb8a990bac32e1e52bcd6fe39e6958c96c145ad70b937ba89284a6f447a84e2f144d31aefa1c446331c7ce80ccba926e288d7ade917c7aa68095076
+srccontainersize 15012
+srccontainerchecksum fa76e8b16def4f53a968c897e12e37707c054c3a964f14ee9654bae4e7285a3d300d62f0a79ba7fd80b2fa15e9a334bf38f3a744f0c0f6c32659853bc9b57855
+runfiles size=9
+ texmf-dist/tex/latex/exercise/exercise.sty
+catalogue-ctan /macros/latex/contrib/exercise
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics exercise
+catalogue-version 1.6

@@ -1,0 +1,17 @@
+name comma
+category Package
+revision 18259
+shortdesc Formats a number by inserting commas
+longdesc A flexible package that allows commas (or anything else) to be
+longdesc inserted every three digits in a number, as in 1,234.
+containersize 1696
+containerchecksum 65c21bca8e6a707697847ff96d1cd909cbe0c7d33140b4b175a2e3464c1c67827cea9c9f65e45dfcd31fcf2fd94262daa907358341fddf351241753ab47ac99c
+doccontainersize 153428
+doccontainerchecksum b25433b52a32cee71043c1f13d2ca45beff32733ac24259f767b6093f5b5f38e0da3c88569bcd637267397c49d26e546c26454381cf916040c52a2833b02df65
+runfiles size=1
+ texmf-dist/tex/latex/comma/comma.sty
+catalogue-ctan /macros/latex/contrib/comma
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers
+catalogue-version 1.2

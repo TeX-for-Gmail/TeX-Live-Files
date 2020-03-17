@@ -1,0 +1,20 @@
+name keyval2e
+category Package
+revision 23698
+shortdesc A lightweight and robust key-value parser
+longdesc The package provides lightweight and robust facilities for
+longdesc creating and managing keys. Its machinery isn't as extensive as
+longdesc that of, e.g., the ltxkeys package, but it is equally robust;
+longdesc ease of use and speed of processing are the design aims of the
+longdesc package.
+containersize 3228
+containerchecksum 08495711a9b509707ce6da359f9743b267baaa6ba6e18e41c965ce016c4c51e1bb7353769ecc9596e9bc415976449612f602e291608d306ee5baa69a4e823160
+doccontainersize 314328
+doccontainerchecksum 424035c6250990b4104200fdab744d50643b6ce36ea717f50544fecd40746d47d7d2145203f0d6f19652a7217c99eb599a1c7d8b0e3a0fe00e1355c416cd4294
+runfiles size=3
+ texmf-dist/tex/latex/keyval2e/keyval2e.sty
+catalogue-ctan /macros/latex/contrib/keyval2e
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics keyval
+catalogue-version 0.0.2

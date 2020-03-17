@@ -1,0 +1,21 @@
+name odsfile
+category Package
+revision 38449
+shortdesc Read OpenDocument Spreadsheet documents as LaTeX tables
+longdesc The distribution includes a package and a lua library that can
+longdesc together read OpenDocument spreadsheet documents as LaTeX
+longdesc tables. Cells in the tables may be processed by LaTeX macros,
+longdesc so that (for example) the package may be used for drawing some
+longdesc plots. The package uses lua's zip library.
+containersize 4976
+containerchecksum c739d1d20c26fde107649ae8aa5a3f767f59d6db3acd063264be6ffd0dcf43d2a1c87eaf9449d1e1f71a7c10cb24cbc55849255cf95fb72983e476e0cb2a8ee0
+doccontainersize 272368
+doccontainerchecksum 9be750187f9b4476748bb1bc7440dd68437ba8d11e8198af8a1d532b09c37696aa9341dbd91198922ef2ea0a2991d44a946fe080f68fd1d6bfcf563cac50a29b
+runfiles size=4
+ texmf-dist/tex/lualatex/odsfile/odsfile.lua
+ texmf-dist/tex/lualatex/odsfile/odsfile.sty
+catalogue-ctan /macros/luatex/latex/odsfile
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics foreign-import table luatex
+catalogue-version 0.6

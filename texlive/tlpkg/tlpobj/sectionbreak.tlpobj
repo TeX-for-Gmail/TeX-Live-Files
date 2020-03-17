@@ -1,0 +1,22 @@
+name sectionbreak
+category Package
+revision 50339
+shortdesc LaTeX support for section breaks
+longdesc This package provides LaTeX support for section breaks, used
+longdesc mainly in fiction books to signal changes in a story, like
+longdesc changes in time, location, etc. It supports the asterism
+longdesc symbol, text content, or custom macros as the section break
+longdesc mark symbol.
+containersize 1332
+containerchecksum 4b2c26642ba346acce5aff9678bf94f76d85005464f80eaae862a522bcbfa34c1671af79671982a91208ef104a21a532d851dcc785b5c40de4fe462d12488832
+doccontainersize 50844
+doccontainerchecksum a98eede394708bf612f593e00c58b5500a35b5173381c1f149d0be29b49fe95f5162602177b7d4f23c5b5312d7cdf47ea6ced8bc285853d2b7d77926a6ca66b0
+runfiles size=1
+ texmf-dist/tex/latex/sectionbreak/sectionbreak.sty
+catalogue-contact-bugs https://github.com/michal-h21/sectionbreak/issues
+catalogue-contact-repository https://github.com/michal-h21/sectionbreak
+catalogue-ctan /macros/latex/contrib/sectionbreak
+catalogue-date 2019-03-11 13:54:30 +0100
+catalogue-license lppl1.3
+catalogue-topics decoration headings
+catalogue-version 0.1d

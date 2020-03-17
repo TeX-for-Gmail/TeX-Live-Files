@@ -1,0 +1,18 @@
+name dice
+category Package
+revision 28501
+shortdesc A font for die faces
+longdesc A Metafont font that can produce die faces in 2D or with
+longdesc various 3D effects.
+containersize 3256
+containerchecksum 7ec762fccc174a13f2a84ee43aa49319548aa970f017cd17bca73add506ca270a6ac621f51ff96d47a4f5eadeafc89ecc44f1c99b31a2e76722e648519e1fd69
+doccontainersize 1236
+doccontainerchecksum 9c09c47b70e28e4c8ccffd4c75f8cac7942767279d0e01e543538ddf0ee70fe60cd15d1e3ddce27b56e1a9f865d5ad9b1794a875e41d131d763c11a3e0fb96ef
+runfiles size=6
+ texmf-dist/fonts/source/public/dice/dice3d.mf
+ texmf-dist/fonts/tfm/public/dice/dice3d.tfm
+catalogue-also epsdice
+catalogue-ctan /fonts/dice
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use font font-mf

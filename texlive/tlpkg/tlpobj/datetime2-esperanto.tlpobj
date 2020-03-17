@@ -1,0 +1,23 @@
+name datetime2-esperanto
+category Package
+revision 47356
+shortdesc Esperanto language module for the datetime2 package
+longdesc This module provides the "esperanto" style that can be set
+longdesc using \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2484
+containerchecksum 6406e5a6708c1c97da6e0f8460ba70d61c403875497c57008013a3d1a8a9100b344b3d7267ed869f777566aa403110e17d778e2a47b3970846324bf08e8ae046
+doccontainersize 81488
+doccontainerchecksum c200c3f39ed756765876ca5655b99025a898719f9723a996bd4772974643e0421edd8d36a8eeb00d29dc75ae715fb55927e31f067b1159bbb1f4dd218de780a7
+srccontainersize 4732
+srccontainerchecksum 799b2197ce9f0950889a933952dcc33dc0ad2cb97d906baa61bdcf8d32bbf341d65aa2c2f1509fa59f366cb570e9ba6b4946d4d5785c5022c55117297192a32a
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-esperanto/datetime2-esperanto-ascii.ldf
+ texmf-dist/tex/latex/datetime2-esperanto/datetime2-esperanto-utf8.ldf
+ texmf-dist/tex/latex/datetime2-esperanto/datetime2-esperanto.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-esperanto
+catalogue-date 2018-04-07 06:41:21 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

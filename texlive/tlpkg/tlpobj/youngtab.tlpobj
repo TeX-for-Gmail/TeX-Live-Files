@@ -1,0 +1,21 @@
+name youngtab
+category Package
+revision 17635
+shortdesc Typeset Young-Tableaux
+longdesc A package for typesetting Young-Tableaux, mathematical symbols
+longdesc for the representations of groups, providing two macros,
+longdesc \yng(1) and \young(1) to generate the whole Young-Tableaux.
+containersize 2024
+containerchecksum d394f53ea68d2874036faa0d00323a0c15e3144a2433e27db0a630f05a637bad37d297132a92c00bc5ba3fb8a8bc643bc8778787b8897ab03296eb62d33683b6
+doccontainersize 144620
+doccontainerchecksum 38d42380d67372f2b84984cf41b0cd775c6b707405baffc5852cb147bba914899bcc09230e645e7779deb142358a4bf46f1efa0b47f159eeadc09d3e99f2728d
+srccontainersize 11612
+srccontainerchecksum 88d214c9cd6d87f6cd2c075ebb5554c55038f0eacbe047d7d90ab1a3fe695a9329c34149c2026fafed045e02449688e2fc3b0b5ecc24d0960640a3557a284739
+runfiles size=2
+ texmf-dist/tex/latex/youngtab/youngtab.sty
+catalogue-also young ytableau
+catalogue-ctan /macros/latex/contrib/youngtab
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1
+catalogue-topics maths
+catalogue-version 1.1

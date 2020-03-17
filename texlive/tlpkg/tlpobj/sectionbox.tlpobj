@@ -1,0 +1,20 @@
+name sectionbox
+category Package
+revision 37749
+shortdesc Create fancy boxed ((sub)sub)sections
+longdesc Sectionbox is a LaTeX package for putting fancy colored boxes
+longdesc around sections, subsections, and subsubsections, especially
+longdesc for use in posters, etc. It was designed with the sciposter
+longdesc class in mind, and certainly works with that class and with
+longdesc derived classes.
+containersize 1856
+containerchecksum d1a4da6a59c0411baaa785c58350c1d5be9c1081e0344d8a61fc009f49a1b751a09f358ba1baa3b645de4eff7d69e3781d8b44d90738105c0f56723da36efdb3
+doccontainersize 192044
+doccontainerchecksum 80ae58336eabd8169781c3c30b42b2583f78ffa4093a7d3f9d9e9c6e31a3fb8f457fd42d56f2ff75b2ff3c38b537642dd6f254e54b3112538657a37b3b4e0410
+runfiles size=2
+ texmf-dist/tex/latex/sectionbox/sectionbox.sty
+catalogue-ctan /macros/latex/contrib/sectionbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics decoration
+catalogue-version 1.01

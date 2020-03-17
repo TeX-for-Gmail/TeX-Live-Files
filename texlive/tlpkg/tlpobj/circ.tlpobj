@@ -1,0 +1,44 @@
+name circ
+category Package
+revision 15878
+shortdesc Macros for typesetting circuit diagrams
+longdesc Several electrical symbols like resistor, capacitor,
+longdesc transistors etc., are defined. The symbols can be connected
+longdesc with wires. The package also contains an American resistor
+longdesc symbol for those of us on that side of the Atlantic. The
+longdesc package also has simple facilities for producing optics
+longdesc diagrams; however, no-one would deny that the PSTricks
+longdesc pst-optic package, or the MetaPost makecirc package does the
+longdesc job better.
+containersize 23692
+containerchecksum 638a89cd3ef49ba7f21f42944d1452c2866265f326e33e07b47d9607723de7f477766e8c240df7a91081f864f12346aa358b48f66cb67017fc11ace129c9c694
+doccontainersize 207692
+doccontainerchecksum 389d98b3b5cce6c93d84bb3022f4aaaad1927bf78b323c106f7e89612835b92a2ff878fbe8d120406018549dba6cb370d88f098df523ff69a8810ff6e2b80241
+srccontainersize 38440
+srccontainerchecksum b6127892465f3bbba51b3fa0f1d35e667cb4286adf0280691656a8b62c52ee57aa01578e716c495612b00a5725ed30c17b1a81b6346f184fd6d60611ea2663be
+runfiles size=43
+ texmf-dist/fonts/source/public/circ/cibimos.mf
+ texmf-dist/fonts/source/public/circ/cicirc.mf
+ texmf-dist/fonts/source/public/circ/cidiod.mf
+ texmf-dist/fonts/source/public/circ/cioptic.mf
+ texmf-dist/fonts/source/public/circ/ciphysic.mf
+ texmf-dist/fonts/source/public/circ/cirest.mf
+ texmf-dist/fonts/source/public/circ/cisym.mf
+ texmf-dist/fonts/source/public/circ/ciwidko.mf
+ texmf-dist/fonts/source/public/circ/csym.mf
+ texmf-dist/fonts/source/public/circ/defcirc.mf
+ texmf-dist/fonts/tfm/public/circ/cioptic.tfm
+ texmf-dist/tex/latex/circ/basic.def
+ texmf-dist/tex/latex/circ/box.def
+ texmf-dist/tex/latex/circ/circ.sty
+ texmf-dist/tex/latex/circ/gate.def
+ texmf-dist/tex/latex/circ/ic.def
+ texmf-dist/tex/latex/circ/oldgate.def
+ texmf-dist/tex/latex/circ/optics.def
+ texmf-dist/tex/latex/circ/physics.def
+catalogue-also circuit-macros
+catalogue-ctan /macros/generic/diagrams/circ
+catalogue-date 2017-10-29 14:32:55 +0100
+catalogue-license gpl
+catalogue-topics diagram-circ font font-mf
+catalogue-version 1.1

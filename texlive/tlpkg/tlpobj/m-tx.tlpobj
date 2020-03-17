@@ -1,0 +1,24 @@
+name m-tx
+category Package
+revision 50602
+shortdesc A preprocessor for pmx
+longdesc M-Tx is a preprocessor to pmx, which is itself a preprocessor
+longdesc to musixtex, a music typesetting system. The prime motivation
+longdesc to the development of M-Tx was to provide lyrics for music to
+longdesc be typeset. In fact, pmx now provides a lyrics interface, but
+longdesc M-Tx continues in use by those who prefer its language.
+depend m-tx.ARCH
+containersize 4544
+containerchecksum 055839d04921e71aa0a83309485ba2506feaf2d3bcb919073cb011bdff8ba1f623c2c7af6fc4008badf8faad17e41dc4aa55f9aa47b0065af65fd2fb5dd6ae89
+doccontainersize 739508
+doccontainerchecksum c1470ffebb9b86958bdb68cf50e1fe18847e11cf1c28feca36ba0de68ce0fa72daa80c1df9312319d9cb5a42bfb250e7aa3a1e2ec8e093780b170b4d6d1b619c
+runfiles size=4
+ texmf-dist/scripts/m-tx/m-tx.lua
+ texmf-dist/tex/generic/m-tx/mtx.tex
+ texmf-dist/tex/latex/m-tx/mtxlatex.sty
+catalogue-contact-home http://icking-music-archive.org/software/indexmt6.html
+catalogue-ctan /support/m-tx
+catalogue-date 2019-01-24 14:47:00 +0100
+catalogue-license mit
+catalogue-topics music
+catalogue-version 0.63c

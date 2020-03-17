@@ -1,0 +1,20 @@
+name hpsdiss
+category Package
+revision 15878
+shortdesc A dissertation class
+longdesc The class was developed to typeset a dissertation at ETH
+longdesc Zurich. The requirements were to use A5 paper and 10pt type. A
+longdesc sample of the output is shown in the PDF documentation link.
+containersize 5708
+containerchecksum 4905368d081cc6e7f2c7b43b28d4c6e22081796d8594e5a07e521bb7ab0fb14c9ccce1dcbe135b0cbc5a7b2671e3041d7764ff80c7e1543b4ac4cefe945794b4
+doccontainersize 110020
+doccontainerchecksum 566f0509feee0bc5c28481fb62f2c991827cd5855f9696fdda79628f5c43329b39dd508fe9613d2c0f823bef421a97393fd303d830c779c42ac67f88303a239b
+srccontainersize 11408
+srccontainerchecksum 8337cbedc42502ececcfd60adf422e15aba32381c46489a82d8b618286a4d8848c0288136771b8acdbb03af9f39029e4be8e1c287f6dac9bd3ade3b727e8ec8e
+runfiles size=6
+ texmf-dist/tex/latex/hpsdiss/hpsdiss.cls
+catalogue-ctan /macros/latex/contrib/hpsdiss
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics dissertation class
+catalogue-version 1.0

@@ -1,0 +1,23 @@
+name widetable
+category Package
+revision 49416
+shortdesc An environment for typesetting tables of specified width
+longdesc The package defines a new environment that, unlike tabularX,
+longdesc typesets a table of specified width by working on the
+longdesc inter-column glue; the tabular cells will all be stretched (or
+longdesc shrunk) according to need. The package will use the e-TeX
+longdesc arithmetic extensions if they are available (they are, in most
+longdesc modern distributions).
+containersize 1980
+containerchecksum bba703845715cbcef2d8eb8b7ae944cf70930c03cf7807946f942b7b24dc2dac76522d61aad5ad926ff52cf30940ac56b3ddcf69a263163f945e15c57c0ef277
+doccontainersize 412876
+doccontainerchecksum 2b939f7e2b3ff5353f234782f3d2a73bf46dcb9b0631d5dfc354370bba77bdbb4f5ddba564b5dae15706131b817dbea309e26e6525f18a8db4140b1454fa7592
+srccontainersize 10252
+srccontainerchecksum 312fc7e7d488fae3afb7ce6c8d419ea7c8d89bf2d131aa1a19db173a6dba9844c132511b123983de93481776f7d87818bb239ffca88526500c618983ab1eda5c
+runfiles size=1
+ texmf-dist/tex/latex/widetable/widetable.sty
+catalogue-ctan /macros/latex/contrib/widetable
+catalogue-date 2018-12-14 16:36:59 +0100
+catalogue-license lppl1.3
+catalogue-topics table-long
+catalogue-version 1.5

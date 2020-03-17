@@ -1,0 +1,26 @@
+name datetime2-it-fulltext
+category Package
+revision 38093
+shortdesc Italian full text styles for the datetime2 package
+longdesc Italian date and time styles that use words for the numbers and
+longdesc ordinals. This package provides the following date and time
+longdesc styles: "it-fulltext" and "it-fulltext-twenty-four". The first
+longdesc style uses a format "am pm", the second a format "24 hours".
+longdesc The necessary packages are datetime2, itnumpar, ifxetex, and
+longdesc ifluatex. This package is the translation and adaptation of
+longdesc datetime2-en-fulltext.
+containersize 3752
+containerchecksum 389840e273ea5b9e8e8c66e77578d9908349589b11a599308acfde9ab8dd972ec855011fc4d3302ad2ae16dfad05812ae75d6eece275761587242099fa907d67
+doccontainersize 123908
+doccontainerchecksum a5a56a912b1b618999cec4b37fccaefe6f1e00f3b84f6aff8dd6b9b3ffa1855d25e8af8b49d04112829d7cef82f21b757772876b75cfc910a4dd5c89920ce131
+srccontainersize 4488
+srccontainerchecksum ddffefcb640de660f1f9258d7bad92c40d3ce73017c53534389ce1d3e772214bdfcdf7a4dd927201aaba096533d7000a84871000772762c2edbfda9d1d11d9bb
+runfiles size=10
+ texmf-dist/tex/latex/datetime2-it-fulltext/datetime2-it-fulltext-ascii.ldf
+ texmf-dist/tex/latex/datetime2-it-fulltext/datetime2-it-fulltext-utf8.ldf
+ texmf-dist/tex/latex/datetime2-it-fulltext/datetime2-it-fulltext.sty
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-it-fulltext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.6

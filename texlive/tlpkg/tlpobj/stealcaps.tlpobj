@@ -1,0 +1,30 @@
+name stealcaps
+category Package
+revision 46434
+shortdesc "Steal" small capitals
+longdesc This little package is mainly meant to be used when there is a
+longdesc (TrueType or OpenType) font that does not provide real small
+longdesc capitals. As a workaround, this package helps to borrow, or
+longdesc "steal", the small capitals from another font. This might also
+longdesc be useful in the rare case that someone does not like the
+longdesc present small capitals, and wants to change them, or likes
+longdesc those from another font better. To achieve the borrowing, one
+longdesc only needs to load the package and specify the name of the
+longdesc target font via the from option. Package dependencies: pgfopts,
+longdesc iftex, fontspec.
+containersize 1548
+containerchecksum 83296141df9f56d0e38d04bcc948cb4a9b5e308f5a71ef3080b4b53392792d42c142a2cc5b69140233d6f00bcf7804dd1c9dff686df3debbca857d765d7639b7
+doccontainersize 2993416
+doccontainerchecksum 3dd77d36d16fbfaf10993bf36c1a286506b6f80b795c721ce15b7854453af0b6041c586bbb653e7707eb057664885a9027135d199a9df7b748d23c6106175477
+srccontainersize 3280
+srccontainerchecksum 8afa57a79a3bb38a04ebb681df5c7976e9ea275e379c00308b6672459ac61ebfe745f16d334beb4d3627438487446f638bd00788d60fd68b22f0026a7a87d4d8
+runfiles size=1
+ texmf-dist/tex/latex/stealcaps/stealcaps.sty
+catalogue-contact-bugs https://github.com/giannotr/stealcaps/issues
+catalogue-contact-home https://github.com/giannotr/stealcaps
+catalogue-contact-repository https://github.com/giannotr/stealcaps.git
+catalogue-ctan /macros/latex/contrib/stealcaps
+catalogue-date 2018-01-26 07:47:53 +0100
+catalogue-license lppl1.3c
+catalogue-topics font-supp font-use
+catalogue-version 1.0

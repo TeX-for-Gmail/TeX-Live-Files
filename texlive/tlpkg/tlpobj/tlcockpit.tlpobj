@@ -1,0 +1,24 @@
+name tlcockpit
+category Package
+revision 48846
+shortdesc A GUI frontend to TeX Live Manager (tlmgr)
+longdesc This package aims at being a GUI for tlmgr, the TeX Live
+longdesc Manager, with a modern look and feel. We take inspiration from
+longdesc the excellent TeX Live Utility for MacOS.
+depend tlcockpit.ARCH
+containersize 15369828
+containerchecksum 71311166878766909118415e59f5252e581e2f3b98df14a5db8958cd9325a88c36cb2a834db82fa4ec35fe00fa5da9fdf72a54b5bfbabe1196976a438709dd0a
+doccontainersize 1012280
+doccontainerchecksum 861c801439ea2fbfba6ace5e7e2c06e54c59a8169aa9848e44a7318c4b3a273ed5a1e31e7cb90a633aed5501063e0f47b034fb1d32223b5eb77c5b067d56872a
+srccontainersize 96728
+srccontainerchecksum 4232e4eb98cc9442d4f32c6426b14329e002c3aa069b0dbdcfd0ccc917fc2711a8e4685a6ff47506a6557f6c3bf6447c8795f9efb7b52077a0a872cd38481511
+runfiles size=4052
+ texmf-dist/scripts/tlcockpit/tlcockpit.jar
+ texmf-dist/scripts/tlcockpit/tlcockpit.sh
+catalogue-contact-bugs https://github.com/TeX-Live/tlcockpit/issues
+catalogue-contact-repository https://github.com/TeX-Live/tlcockpit
+catalogue-ctan /support/tlcockpit
+catalogue-date 2018-10-06 10:55:25 +0200
+catalogue-license gpl3+
+catalogue-topics install-mgmt
+catalogue-version 1.0

@@ -1,0 +1,19 @@
+name bibleref-parse
+category Package
+revision 22054
+shortdesc Specify Bible passages in human-readable format
+longdesc The package parses Bible passages that are given in human
+longdesc readable format. It accepts a wide variety of formats. This
+longdesc allows for a simpler and more convenient interface to the
+longdesc functionality of the bibleref package.
+containersize 7204
+containerchecksum 3af7da247ff7f9708ef076a3fe110979e7ff07be0afb08597feeda9ae31e60a66eb2bbbb5da015e10566e83a116cc9f2efa56fe91a57717230fb35bd004c209d
+doccontainersize 101648
+doccontainerchecksum 08393d76bca59dcbd715cc443ffbf7a1e15894ac6a2963d0ce770c96974c14d42283fd9237c215fe454ec4403a21387ba9dee52ea1bd93b83ab4a13fbc65157c
+runfiles size=12
+ texmf-dist/tex/latex/bibleref-parse/bibleref-parse.sty
+catalogue-ctan /macros/latex/contrib/bibleref-parse
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 1.1

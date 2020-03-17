@@ -1,0 +1,17 @@
+name musixguit
+category Package
+revision 21649
+shortdesc Easy notation for guitar music, in MusixTeX
+longdesc The package provides commands for typesetting notes for guitar,
+longdesc especially for simplifying guitar notation with MusixTeX.
+containersize 2796
+containerchecksum 6262e1b447f517680ddfd9e5e076ea384dfa7fc8d219e7a2613a80ba66a0f0435d9dc31502f6abbfc150fa1e2de001afbdec25dd5778e3ffe559ea389d57208a
+doccontainersize 159672
+doccontainerchecksum 8a6c9a42383d6b35c1300b958a7629306a6883bec1bd68751165eb3514f8f069c9995247142bad459e06fa42378a9ddd23093cb749bb2ccd58743312f83425dd
+runfiles size=3
+ texmf-dist/tex/latex/musixguit/musixguit.sty
+catalogue-ctan /macros/latex/contrib/musixguit
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics music
+catalogue-version 1.2.2

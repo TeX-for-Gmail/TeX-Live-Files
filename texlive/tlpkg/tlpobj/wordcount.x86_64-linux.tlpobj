@@ -1,0 +1,8 @@
+name wordcount.x86_64-linux
+category Package
+revision 46165
+shortdesc x86_64-linux files of wordcount
+containersize 340
+containerchecksum 040676cec77862755e98612699d52add93781f533e54b110f1b715015de1c32c923c68bf6b7ed66f7df5ce66e3d1fc0e4f78d706486608c0cd4b32e6fe600719
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/wordcount

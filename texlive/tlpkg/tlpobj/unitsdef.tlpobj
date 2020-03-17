@@ -1,0 +1,34 @@
+name unitsdef
+category Package
+revision 15878
+shortdesc Typesetting units in LaTeX
+longdesc Many packages for typesetting units have been written for use
+longdesc in LaTeX2e. Some define macros to typeset a lot of units but do
+longdesc not suit to the actual font settings, some make the characters
+longdesc needed available but do not predefine any unit. This package
+longdesc tries to comply with both requirements. It predefines common
+longdesc units, defines an easy to use interface to define new units and
+longdesc changes the output concerning to the surrounding font settings.
+containersize 4836
+containerchecksum 048b2d4f3b160a359a8db5a66b9bc3bf68545384c39c7c4964521aa2067a35e4524734e082d5bedeaf3ff52b6a5043717ca6f510cce0d041b0968968ffd232b5
+doccontainersize 635436
+doccontainerchecksum c1e6de470c8b290c66f71020794fa5a855a0c9b22d90f629c8ec0f6ab110ff780c0f39291f0309348711cc2acb60cf52f38538da8894803cfee54f9fd6fdc9c6
+srccontainersize 12264
+srccontainerchecksum 9ab403624c578eb8f33801309e8c7ab0bb0b53f5bd0de0ad912a5ed6955a5d3ea0d44bb43b61fbfe5cc60a667cd908f85061c92fd397931a2a4780d0af58646b
+runfiles size=14
+ texmf-dist/tex/latex/unitsdef/ampabbrv.cfg
+ texmf-dist/tex/latex/unitsdef/enerabbr.cfg
+ texmf-dist/tex/latex/unitsdef/freqabbr.cfg
+ texmf-dist/tex/latex/unitsdef/lengabbr.cfg
+ texmf-dist/tex/latex/unitsdef/molabbrv.cfg
+ texmf-dist/tex/latex/unitsdef/timeabbr.cfg
+ texmf-dist/tex/latex/unitsdef/unitsdef.sty
+ texmf-dist/tex/latex/unitsdef/volabbrv.cfg
+ texmf-dist/tex/latex/unitsdef/voltabbr.cfg
+ texmf-dist/tex/latex/unitsdef/weigabbr.cfg
+catalogue-also siunits sistyle units
+catalogue-ctan /macros/latex/contrib/unitsdef
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics units scientific-docs
+catalogue-version 0.2

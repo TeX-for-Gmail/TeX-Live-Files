@@ -1,0 +1,26 @@
+name exam-n
+category Package
+revision 42755
+shortdesc Exam class, focused on collaborative authoring
+longdesc The class design offers: Direct support for collaborative
+longdesc development of an exam, using a model in which a departmental
+longdesc 'exams convener' or 'exam chair' coordinates multiple authors
+longdesc writing individual questions (the class file and associated
+longdesc process is in regular use within a physics and astronomy
+longdesc department). All of the 'traditional' exam paper features such
+longdesc as sectioning, per-part running marks, 'Question n continued'
+longdesc catchwords, and so on. Readily configured local adaptation.
+containersize 11804
+containerchecksum 6cb28928125f1164fcf2a78980345373a094fc1a2f2f22756c8f9b27da05b88b6011f000508354b4d73aafa09a2a877bd0e6913a274518b471380074762be392
+doccontainersize 820032
+doccontainerchecksum 502d6fd1073f4ce68477e6be652dd131bb0a74818df2b1fc6b0a97aafeb946de1d0fe3fe90ed5843bd63305c528031acde37697cfd756c9839b083f9926a363c
+srccontainersize 34424
+srccontainerchecksum 7241ce6d5e83e75142d8f3df652af4eaed554a7a2c93ee3b2868bb8c5918cfd950c7fa1413464604607b120eefed14fece4f801b08a6f0fbbded59f29e8ba620
+runfiles size=11
+ texmf-dist/tex/latex/exam-n/exam-n.cls
+catalogue-contact-home http://purl.org/nxg/dist/exam-n
+catalogue-ctan /macros/latex/contrib/exam-n
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics exam
+catalogue-version 1.1.4

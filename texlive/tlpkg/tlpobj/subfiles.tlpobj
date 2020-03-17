@@ -1,0 +1,23 @@
+name subfiles
+category Package
+revision 48323
+shortdesc Individual typesetting of subfiles of a "main" document
+longdesc Using subfiles the user can handle multi-file projects more
+longdesc comfortably making it possible to both process the subsidiary
+longdesc files by themselves and to process the main file that includes
+longdesc them, without making any changes to either.
+containersize 1444
+containerchecksum 9a71fe71fe0acd6f9df8b94b29b59416953e353857989d45ad974e6cc5f013319252f1f02f4feaf4bc788013ae3acc5082361da0eead42da1e51b344c6388727
+doccontainersize 231984
+doccontainerchecksum 4c7470b61c49bf20292806f41ba21b824091a9c46bc3befb46dce259e706ba3523d1d41dfd45dc1a4406fc993a974c1e3f13eb6f7bd849dc24c21668acda20ea
+srccontainersize 4904
+srccontainerchecksum ef5bd2853db5150d6c7890fa96f7eb59d35577457cd9c8214aef6e0afade618d8af17b9b8a9640a8d556835aa8e7cbfa6d20e735c440d90ee03266dd2c42186e
+runfiles size=2
+ texmf-dist/tex/latex/subfiles/subfiles.cls
+ texmf-dist/tex/latex/subfiles/subfiles.sty
+catalogue-also combine standalone
+catalogue-ctan /macros/latex/contrib/subfiles
+catalogue-date 2018-07-31 17:12:00 +0200
+catalogue-license lppl1.3
+catalogue-topics subdocs
+catalogue-version 1.2

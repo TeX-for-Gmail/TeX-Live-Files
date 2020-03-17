@@ -1,0 +1,30 @@
+name sty2dtx
+category Package
+revision 29743
+shortdesc Create a .dtx file from a .sty file
+longdesc The package provides a Perl script that converts a .sty file
+longdesc (LaTeX package) to .dtx format (documented LaTeX source), by
+longdesc surrounding macro definitions with macro and macrocode
+longdesc environments. The macro name is automatically inserted as an
+longdesc argument to the macro environemnt. Code lines outside macro
+longdesc definitions are wrapped only in macrocode environments. Empty
+longdesc lines are removed. The script should not be thought to be fool
+longdesc proof and 100% accurate but rather as a good start to the
+longdesc business of making a .dtx file from an undocumented style file.
+longdesc Full .dtx files are generated. A template based on the skeleton
+longdesc file from 'dtxtut' is used. User level macros are added
+longdesc automatically to the 'Usage' section of the .dtx file. A
+longdesc corresponding .ins file can be generated as well.
+depend sty2dtx.ARCH
+containersize 8676
+containerchecksum 05e17abf8322e70f275308e983a244e178883aa36571640d513962e813a2bfeb88264c0ae9ccab956f9bd016923d1727c14a7a26bb58b257c7d05600a540da1c
+doccontainersize 151548
+doccontainerchecksum 1abba13831a0cd4b93f9665f242b96d32e764c39ccdb917f655922fe2a4b00385d6a78c77c151e212082eace3b9c9447705681416b5cb2eed9f794d7eb30c905
+runfiles size=8
+ texmf-dist/scripts/sty2dtx/sty2dtx.pl
+catalogue-also makedtx
+catalogue-ctan /support/sty2dtx
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics package-devel
+catalogue-version 2.3

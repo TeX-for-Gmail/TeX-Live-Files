@@ -1,0 +1,28 @@
+name iodhbwm
+category Package
+revision 49838
+shortdesc Unofficial template of the DHBW Mannheim
+longdesc This package provides an unofficial template of the DHBW
+longdesc Mannheim for the creation of bachelor thesis, studies or
+longdesc project work with LaTeX. The aim of the package is the quick
+longdesc creation of a basic framework without much effort.
+containersize 41408
+containerchecksum 024101c5eed90eec28c9c2c81d4acd1042c964a9da386575741705d333f7ae956ea4fb644bdd2f8aa36a508e7e878dd787baf729ae87f567d279abc914bd5d51
+doccontainersize 3159264
+doccontainerchecksum 5d07feb9980ced9b9a84898348e4ac833c3aede1614f7e2c2b5c6a27d85f91d2f3cdb66fa8d78cfc8d18c4fe05bd1fd61f27819715eaa17cf7c5e613b4239cf0
+runfiles size=24
+ texmf-dist/tex/latex/iodhbwm/dhbw-declaration.def
+ texmf-dist/tex/latex/iodhbwm/dhbw-logo.png
+ texmf-dist/tex/latex/iodhbwm/dhbw-titlepage-ba.def
+ texmf-dist/tex/latex/iodhbwm/dhbw-titlepage-pa.def
+ texmf-dist/tex/latex/iodhbwm/dhbw-titlepage-sa.def
+ texmf-dist/tex/latex/iodhbwm/dhbw-titlepage.def
+ texmf-dist/tex/latex/iodhbwm/iodhbwm-templates.sty
+ texmf-dist/tex/latex/iodhbwm/iodhbwm.cls
+catalogue-contact-bugs https://github.com/faltfe/iodhbwm/issues
+catalogue-contact-repository https://github.com/faltfe/iodhbwm/
+catalogue-ctan /macros/latex/contrib/iodhbwm
+catalogue-date 2019-01-27 14:22:03 +0100
+catalogue-license lppl1.3
+catalogue-topics class dissertation
+catalogue-version 1.0.1

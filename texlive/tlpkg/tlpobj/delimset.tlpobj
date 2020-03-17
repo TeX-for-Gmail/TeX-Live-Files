@@ -1,0 +1,21 @@
+name delimset
+category Package
+revision 49544
+shortdesc Typeset and declare sets of delimiters with convenient size control
+longdesc delimset is a LaTeX2e package to typeset and declare sets of
+longdesc delimiters in math mode whose size can be adjusted
+longdesc conveniently.
+containersize 2016
+containerchecksum 5c19bda2a87de91ac1d32981198ce7718d490184d4d65dade231b66c3f46621af91dbeb89bb79ba1370fd82a0527d01d0aa7cd9dddeea818e8c4b4380a7b63ed
+doccontainersize 319324
+doccontainerchecksum 9e671fa601b878187b5b3ae1a47feffb6c451fd42f202f948a87b02f35385b47239947a3e91260e699c64c453df161d9ae734fa3a8e241b0e47056181fefc46c
+srccontainersize 11440
+srccontainerchecksum d5618af6db29684ddd58164c9f55fbee73417d6968550361d7277558de98e621e2d1233b593c87860ccd8f7beb66a3c2369518736e14c86472d77425d6499869
+runfiles size=2
+ texmf-dist/tex/latex/delimset/delimset.sty
+catalogue-also delim delimseasy
+catalogue-ctan /macros/latex/contrib/delimset
+catalogue-date 2018-12-30 15:38:52 +0100
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 1.1

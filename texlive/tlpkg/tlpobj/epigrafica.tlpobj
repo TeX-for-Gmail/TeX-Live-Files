@@ -1,0 +1,78 @@
+name epigrafica
+category Package
+revision 17210
+shortdesc A Greek and Latin font
+longdesc Epigrafica is forked from the development of the MgOpen font
+longdesc Cosmetica, which is a similar design to Optima and includes
+longdesc Greek. Development has been supported by the Laboratory of
+longdesc Digital Typography and Mathematical Software, of the Department
+longdesc of Mathematics of the University of the Aegean, Greece.
+execute addMap epigrafica.map
+containersize 343668
+containerchecksum 82e5dd9f781b6c3ad0bef743b117d9658ae9e0162fec524fbb59f35f13008d3ce9b37daef8d6b977a5ec4834a1ecdc06346627857445c5f19c89f4b202706beb
+doccontainersize 266312
+doccontainerchecksum c90061813a408ea74da7c0a9a53c1dc0f4ef65a9ec1d96e92002127ef401abb5211b7f029630fa445725497018a6e5ed3415e31c40001674405b13a4b4ebf6de
+runfiles size=161
+ texmf-dist/fonts/afm/public/epigrafica/Epigrafica-Entona.afm
+ texmf-dist/fonts/afm/public/epigrafica/Epigrafica-EntonaReonta.afm
+ texmf-dist/fonts/afm/public/epigrafica/Epigrafica-Ortha.afm
+ texmf-dist/fonts/afm/public/epigrafica/Epigrafica-Pezokefalaia.afm
+ texmf-dist/fonts/afm/public/epigrafica/Epigrafica-Reonta.afm
+ texmf-dist/fonts/enc/dvips/epigrafica/epigraficahellenic.enc
+ texmf-dist/fonts/map/dvips/epigrafica/epigrafica.map
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficab8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficab8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficabi8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficabi8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficabo8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficabo8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficac8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficac8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahb7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahb7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahbi7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahbi7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahbo7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahbo7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahc7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahc7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahi7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahi7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficahn7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficaho7a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficaho7r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficai8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficai8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigrafican8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigrafican8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficao8a.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/epigraficao8r.tfm
+ texmf-dist/fonts/tfm/public/epigrafica/gepigraficahn7a.tfm
+ texmf-dist/fonts/type1/public/epigrafica/Epigrafica-Entona.pfb
+ texmf-dist/fonts/type1/public/epigrafica/Epigrafica-EntonaReonta.pfb
+ texmf-dist/fonts/type1/public/epigrafica/Epigrafica-Ortha.pfb
+ texmf-dist/fonts/type1/public/epigrafica/Epigrafica-Pezokefalaia.pfb
+ texmf-dist/fonts/type1/public/epigrafica/Epigrafica-Reonta.pfb
+ texmf-dist/fonts/vf/public/epigrafica/epigraficab8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficabi8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficabo8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficac8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahb7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahbi7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahbo7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahc7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahi7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficahn7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficaho7r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficai8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigrafican8r.vf
+ texmf-dist/fonts/vf/public/epigrafica/epigraficao8r.vf
+ texmf-dist/tex/latex/epigrafica/epigrafica.sty
+ texmf-dist/tex/latex/epigrafica/lgrepigrafica.fd
+ texmf-dist/tex/latex/epigrafica/ot1epigrafica.fd
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /fonts/greek/epigrafica
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics font font-type1 font-greek font-sans
+catalogue-version 1.01

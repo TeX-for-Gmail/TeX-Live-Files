@@ -1,0 +1,23 @@
+name arphic-ttf
+category Package
+revision 42675
+shortdesc TrueType version of Chinese Arphic fonts
+longdesc This package provides TrueType versions of the Chinese Arphic
+longdesc fonts for use with XeLaTeX and LuaLaTeX. Type1 versions of
+longdesc these fonts, for use with pdfLaTeX and the cjk package, are
+longdesc provided by the arphic package. Arphic is actually the name of
+longdesc the company which created these fonts.
+containersize 12663696
+containerchecksum f0559968e2659a4e899bb0ee1e6236f4bf7f4133c96c146a189b42fe0ce7f375ffc5c62efd8acffa68b36c92159c28eb54167a7625b606cf7644c0a072d7f8e9
+doccontainersize 13072
+doccontainerchecksum 000030c21bf1ccd74ebc1c6bf8e46dc5d9f884480b2c31407353a3ff45a4d1072f759e9e31abbe5c9de7dfc68820fa359d42c5e980bfb7e9d408f015f8944aab
+runfiles size=8110
+ texmf-dist/fonts/truetype/public/arphic-ttf/bkai00mp.ttf
+ texmf-dist/fonts/truetype/public/arphic-ttf/bsmi00lp.ttf
+ texmf-dist/fonts/truetype/public/arphic-ttf/gbsn00lp.ttf
+ texmf-dist/fonts/truetype/public/arphic-ttf/gkai00mp.ttf
+catalogue-also arphic
+catalogue-ctan /fonts/arphic-ttf
+catalogue-date 2016-12-17 05:41:03 +0100
+catalogue-license other-free
+catalogue-topics font font-cjk font-ttf

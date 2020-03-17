@@ -1,0 +1,8 @@
+name ctan-o-mat.x86_64-linux
+category Package
+revision 47020
+shortdesc x86_64-linux files of ctan-o-mat
+containersize 344
+containerchecksum 2d4e2232f2cb1d1c2be84210f81565afaccb311669a537c78d6e4f3432df6d9d1c49cf367777c0676ec2a68ceb62200bfad6df0bdfdad4d6aa64f118d4e7276a
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ctan-o-mat

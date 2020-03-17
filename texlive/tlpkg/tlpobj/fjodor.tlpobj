@@ -1,0 +1,16 @@
+name fjodor
+category Package
+revision 20220
+shortdesc A selection of layout styles
+longdesc The package provides several page layouts, selectable by
+longdesc package options.
+containersize 1300
+containerchecksum 26186ec669370270049d45f81b873b444d829c11e9127702533bc09036795ddbd5b6bb43ad54b91662ab9206d56211f1db08b99045c2693c0826f2ec531958c8
+doccontainersize 453284
+doccontainerchecksum 3115f5294219a3db2a87d702081b69a27c36065345b4c2bb8fdc4d63f3d20c542c81f6d7d70cedad094297b358b83be4141b69615293ed2530e7e1224a5796a6
+runfiles size=2
+ texmf-dist/tex/latex/fjodor/fjodor.sty
+catalogue-ctan /macros/latex/contrib/fjodor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics geometry

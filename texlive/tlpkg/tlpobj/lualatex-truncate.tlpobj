@@ -1,0 +1,22 @@
+name lualatex-truncate
+category Package
+revision 48469
+shortdesc A wrapper for using the truncate package with LuaLaTeX
+longdesc This package provides a wrapper for the truncate package, thus
+longdesc fixing issues related to LuaTeX's hyphenation algorithm.
+containersize 1932
+containerchecksum f4de38427798b565aacdb127152cd7ac8a42b441c555f742f5bf90480f7cdf8e182745a5882a9c8e0645c529d27647a056f26b7493dadb13216972794e617341
+doccontainersize 62752
+doccontainerchecksum 704b34da4b8ab787c53f2af21fd17a29d6c8e1d42024de2ff0e65d434a502b47022fa2a506e149b67ee5cb542f2f4835babda315b1dded598f63dca353aa78b1
+srccontainersize 5392
+srccontainerchecksum bffd59b8b5a7d02f40f4ff2f4d028aa98ae26b3d9d9cb432f531211fbcf65d18814653fed07b68e4d34f65d514f7aacfe6bd5aea956a12f7fac2e088841ca02d
+runfiles size=1
+ texmf-dist/tex/lualatex/lualatex-truncate/lualatex-truncate.sty
+catalogue-also truncate
+catalogue-contact-bugs https://gitlab.com/SFr682k/lualatex-truncate/issues
+catalogue-contact-repository https://gitlab.com/SFr682k/lualatex-truncate
+catalogue-ctan /macros/luatex/latex/lualatex-truncate
+catalogue-date 2018-08-22 22:23:58 +0200
+catalogue-license lppl1.3c
+catalogue-topics layout luatex
+catalogue-version 1.1

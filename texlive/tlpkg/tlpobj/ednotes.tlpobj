@@ -1,0 +1,26 @@
+name ednotes
+category Package
+revision 35829
+shortdesc Typeset scholarly editions
+longdesc A macro package for typesetting scholarly critical editions.
+longdesc Provides macros for critical edition typesetting with LaTeX,
+longdesc including support for line numbers and layers of footnotes.
+depend ncctools
+containersize 31976
+containerchecksum be181a2665a8dbd44d98f75a0bc718b460d85c4fb66e412e18f12b542d65a870660597ece71588e9410214a61d6e2d9883089ab1439eeefd63a5cea95fca5d6b
+doccontainersize 375072
+doccontainerchecksum 242ee2a951a61be7dc0133b0a156611bc574c4c54b879701960f312c58613221acad1c83132658d622962ac24b13b4cb5c91e46c77f774dc3865db57e126e0b7
+runfiles size=30
+ texmf-dist/tex/latex/ednotes/edcntwd0.sty
+ texmf-dist/tex/latex/ednotes/ednotes.sty
+ texmf-dist/tex/latex/ednotes/lblchng1.sty
+ texmf-dist/tex/latex/ednotes/mfparptc.sty
+ texmf-dist/tex/latex/ednotes/mfparxsp.sty
+catalogue-also edmac ledmac manyfoot lineno poemscol
+catalogue-contact-home http://www.webdesign-bu.de/uwe_lueck/critedltx.html
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/ednotes
+catalogue-date 2017-05-05 22:15:23 +0200
+catalogue-license lppl
+catalogue-topics crit-ed
+catalogue-version 1.3a

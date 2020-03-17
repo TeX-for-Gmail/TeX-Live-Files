@@ -1,0 +1,28 @@
+name cherokee
+category Package
+revision 21046
+shortdesc A font for the Cherokee script
+longdesc The Cherokee script was designed in 1821 by Segwoya. The
+longdesc alphabet is essentially syllabic, only 6 characters (a e i o s
+longdesc u) correspond to Roman letters: the font encodes these to the
+longdesc corresponding roman letter. The remaining 79 characters have
+longdesc been arbitrarily encoded in the range 38-122; the cherokee
+longdesc package provides commands that map each such syllable to the
+longdesc appropriate character; for example, Segwoya himself would be
+longdesc represented \Cse\Cgwo\Cya. The font is distributed as Metafont
+longdesc source; it works very poorly in modern environments, and could
+longdesc do with expert attention (if you are interested, please contact
+longdesc the CTAN team for details).
+containersize 4424
+containerchecksum 731fb10454a9d359d91abf927a27215e72283a9635cbd853a6738ddbd5047d81fdb8d547b891f29836d0b604d97749074e9f2676c5ad122522d987ac9bb46105
+doccontainersize 616
+doccontainerchecksum 34b258b5b699f644cc0f7f9b673f3dbe48357bbd338726af2b404da4888a9e742f04e397cc3b6a3221d218a96ac7180ce1e6ba80a19c688de0960ce59cb14bb8
+runfiles size=8
+ texmf-dist/fonts/source/public/cherokee/cherokee.mf
+ texmf-dist/fonts/tfm/public/cherokee/cherokee.tfm
+ texmf-dist/tex/latex/cherokee/cherokee.sty
+catalogue-also ocherokee
+catalogue-ctan /fonts/cherokee
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-nonroman font-mf

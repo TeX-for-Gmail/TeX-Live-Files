@@ -1,0 +1,27 @@
+name gfsneohellenicmath
+category Package
+revision 46869
+shortdesc A Greek math font in the Neo-Hellenic style
+longdesc The GFSNeohellenic font, a historic font first designed by
+longdesc Victor Scholderer, and digitized by George Matthiopoulos of the
+longdesc Greek Font Society (GFS), now has native support for
+longdesc Mathematics. The project was commissioned to GFS by the
+longdesc Department of Mathematics of the University of the Aegean,
+longdesc Samos, Greece. The Math Table was constructed by the
+longdesc Mathematics Professor A. Tsolomitis. A useful application is in
+longdesc beamer documents since this is a Sans Math font. The
+longdesc GFSNeohellenic fontfamily supports many languages (including
+longdesc Greek), and it is distributed (both text and math) under the
+longdesc OFL license.
+containersize 308032
+containerchecksum 11816aed70ed5d89b65148b3872f77a788271c603ee4f9eda71d250347bf7f2aa251b7c8e9dadaab75dde273a465a199adbcade3a957dcc79947d5d52297e7b7
+doccontainersize 114836
+doccontainerchecksum 2022e02ec438b19ce6e8fbf8f300ee050c2c7687408a4c4772751ef3059c882cd6944985a59ed9a5c1c8de1aec0ef2444c6f06c468cb4a8c8a3ea269b12b7ed1
+runfiles size=166
+ texmf-dist/fonts/opentype/public/gfsneohellenicmath/GFSNeohellenicMath.otf
+ texmf-dist/tex/latex/gfsneohellenicmath/gfsneohellenicot.sty
+catalogue-ctan /fonts/gfsneohellenicmath
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license ofl
+catalogue-topics font font-type1 font-otf font-greek maths font-maths
+catalogue-version 1.0

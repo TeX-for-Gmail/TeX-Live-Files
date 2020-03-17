@@ -1,0 +1,34 @@
+name lcdftypetools
+category TLCore
+revision 50602
+catalogue lcdf-typetools
+shortdesc A bundle of outline font manipulation tools
+longdesc This bundle of tools comprises: Cfftot1, which translates a
+longdesc Compact Font Format (CFF) font, or a PostScript-flavored
+longdesc OpenType font, into PostScript Type 1 format. It correctly
+longdesc handles subroutines and hints; Mmafm and mmpfb, which create
+longdesc instances of multiple-master fonts (mmafm and mmpfb were
+longdesc previously distributed in their own package, mminstance);
+longdesc Otfinfo, which reports information about OpenType fonts, such
+longdesc as the features they support and the contents of their 'size'
+longdesc optical size features; Otftotfm, which creates TeX font metrics
+longdesc and encodings that correspond to a PostScript-flavored OpenType
+longdesc font. It will interpret glyph positionings, substitutions, and
+longdesc ligatures as far as it is able. You can say which OpenType
+longdesc features should be activated; T1dotlessj, creates a Type 1 font
+longdesc whose only character is a dotless j matching the input font's
+longdesc design; T1lint, which checks a Type 1 font for correctness;
+longdesc T1reencode, which replaces a font's internal encoding with one
+longdesc you specify; and T1testpage, which creates a PostScript proof
+longdesc for a Type 1 font. It is preliminary software.
+depend glyphlist
+depend lcdftypetools.ARCH
+containersize 1000
+containerchecksum 90e2fd4cfdd5b7dcdcd3eb395630e534220ad406135acd251d9c2dd35d7078bf0d781ea9d7019a38f698fa045d6f03738ae25bff80df12218f8d64a88079835c
+doccontainersize 258784
+doccontainerchecksum 2093330ede2753b383d57454c9fade7b89915985be4168677081ad2841ec1735c9d5ebefaeb3d53f49721d81f39d55ea01a42a0188ff79a986fed7530f3220e9
+catalogue-contact-home http://www.lcdf.org/type/
+catalogue-ctan /fonts/utilities/lcdf-typetools
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics font-devel

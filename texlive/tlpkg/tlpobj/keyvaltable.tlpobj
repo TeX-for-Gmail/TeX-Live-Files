@@ -1,0 +1,24 @@
+name keyvaltable
+category Package
+revision 50471
+shortdesc Re-usable tables separating content and presentation
+longdesc The main goal of the keyvaltable package is to offer means for
+longdesc typesetting tables easily and yet still looking rather nicely
+longdesc in a way that separates content from presentation and with
+longdesc re-usable layout for tables of the same type. For this purpose,
+longdesc the package provides the environment KeyValTable, which allows
+longdesc one to typeset tables that have a previously defined column
+longdesc layout and whose rows can be produced in a key-value fashion.
+containersize 4300
+containerchecksum e9318bbb3d10ce72be8565ac7ff3bb93329d1c8e37e8a9d5c8a6e8d4431fa4a081a2609bc4bb67dedf385306a4c2ca721e40378b4642dfcca69f2edb3280b197
+doccontainersize 264204
+doccontainerchecksum 567dda21b7cd07bf50a86d2a0df66467721df15c8e4b4df324c9b2973bd16afb51efa9a7ce7b54c37eef032fd47237985af3bf2f8332ab108106d11bc7c6a53d
+srccontainersize 19344
+srccontainerchecksum 533643ab2ef7357317b5a727a110c5ea9a78849b87b521902236f0cad5d0f00deb1a441d0ace07734858b0e31f9b33e8530abd3f74d9e8b33ec3b2196c25ebd6
+runfiles size=4
+ texmf-dist/tex/latex/keyvaltable/keyvaltable.sty
+catalogue-ctan /macros/latex/contrib/keyvaltable
+catalogue-date 2019-03-18 21:55:33 +0100
+catalogue-license lppl1.2
+catalogue-topics table
+catalogue-version 1.0

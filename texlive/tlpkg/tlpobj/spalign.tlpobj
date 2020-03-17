@@ -1,0 +1,30 @@
+name spalign
+category Package
+revision 42225
+shortdesc Typeset matrices and arrays with spaces and semicolons as delimiters
+longdesc Typeset matrices and arrays with spaces and semicolons as
+longdesc delimiters. The purpose of this package is to decrease the
+longdesc number of keystrokes needed to typeset small amounts of aligned
+longdesc material (matrices, arrays, etc.). It provides a facility for
+longdesc typing alignment environments and macros with spaces as the
+longdesc alignment delimiter and semicolons (by default) as the
+longdesc end-of-row indicator. For instance, typeset a matrix using
+longdesc \spalignmat{1 12 -3; 24 -2 2; 0 0 1}, or a vector using
+longdesc \spalignvector{22 \frac{1}{2} -14}. This package also contains
+longdesc utility macros for typesetting augmented matrices, vectors,
+longdesc arrays, systems of equations, and more, and is easily
+longdesc extendable to other situations that use alignments. People who
+longdesc have to typeset a large number of matrices (like linear algebra
+longdesc teachers) should find this package to be a real time saver.
+containersize 2848
+containerchecksum 6e00399e0940778a6ed8326abce14f15836bcb69f8e7c67d06cdf8567330ce0482a213c7b65c2662e0fddc47ce7b684a640e133017eca314b59eefc278eb6425
+doccontainersize 120216
+doccontainerchecksum 534f2c39076a6ff243a8e4cffe353a569b493b90fc1bdcc3db43229dda3955f013de15ce1db7beb38bc9b8d972c7430a24d64c263041c82e84c799f446faab0a
+srccontainersize 12044
+srccontainerchecksum 3a12b34469bbefd61112b7338c8b5d440de46837632a695b52ae18e4f297d6ac0cde7ae71db7bb0a7bd3db0aeaa83e78f33a60e4dd496cf9c0ccda1a297b4ae9
+runfiles size=3
+ texmf-dist/tex/latex/spalign/spalign.sty
+catalogue-ctan /macros/latex/contrib/spalign
+catalogue-date 2018-01-07 14:49:11 +0100
+catalogue-license lppl1.3
+catalogue-topics maths matrix maths-syseqn maths-theorem typeset-grid

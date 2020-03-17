@@ -1,0 +1,19 @@
+name tkz-kiviat
+category Package
+revision 48712
+shortdesc Draw Kiviat graphs
+longdesc The package allows the user to draw Kiviat Graphs directly, or
+longdesc with data from an external file. The drawing is done with the
+longdesc help of pgfplots.
+containersize 2352
+containerchecksum d1b6b4c1ecfe29397c2a63c808cc24119688782326bff3615c3e84dc22ae1bd6bdffc57761af31ef21bf3f3378806dfd087fdd24d5dbac49ec890df54ea3bcf8
+doccontainersize 156212
+doccontainerchecksum 5ab29135b2903988727129f37496ae27a5ead3800edbe47728d7d5171d210ef7e11bf47d3a4fdd27c0c03f6e09aad8b9697acadbb959f549f5c290e66c1cab45
+runfiles size=3
+ texmf-dist/tex/latex/tkz-kiviat/tkz-kiviat.sty
+catalogue-contact-repository https://github.com/tkz-sty
+catalogue-ctan /macros/latex/contrib/tkz/tkz-kiviat
+catalogue-date 2018-09-19 23:58:18 +0200
+catalogue-license lppl
+catalogue-topics graphics-plot
+catalogue-version 0.1b

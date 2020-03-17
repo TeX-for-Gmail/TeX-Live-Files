@@ -1,0 +1,18 @@
+name gloss-occitan
+category Package
+revision 39609
+shortdesc Polyglossia support for Occitan
+longdesc Occitan language description file for polyglossia
+containersize 2008
+containerchecksum 699068d013af556efe5c02f5a2338f2440c0b8dd6bed61dfec94c9fea3f8b50926061db899e5408172414e48fbef98e79905df51463967ae173ee0dd7f361b85
+doccontainersize 69740
+doccontainerchecksum 68b577e22544b76caf10aae62282a2649e1d18d9019c0727d9eb14d5f0342b95f35e1a95c85bcaeea551808aedebb76a9d5031453269d5ead71a2df0fa45e228
+srccontainersize 6340
+srccontainerchecksum a4d1936873891b2e04e6d9b476432090b7b3e31ccd07dcce7931b62a8044f691ae79df929dea87ab2f6b7bb89dc84e33054f56e51332d84fb97db9d787dadb0f
+runfiles size=2
+ texmf-dist/tex/latex/gloss-occitan/gloss-occitan.ldf
+catalogue-ctan /macros/latex/contrib/gloss-occitan
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics multilingual-addon occitan
+catalogue-version 0.1

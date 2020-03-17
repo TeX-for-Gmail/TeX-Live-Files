@@ -1,0 +1,17 @@
+name cleanthesis
+category Package
+revision 38221
+shortdesc A clean LaTeX style for thesis documents
+longdesc The package offers a clean, simple, and elegant LaTeX style for
+longdesc thesis documents.
+containersize 6172
+containerchecksum f08a3d56f00e1627cb4ba4b7c242d10b2adfc1ec026dd2e15b09a851c7df895a804b53c28c7f78f4c880ab15728f8935f067a23044d95e221f164c5fb4cdbc3d
+doccontainersize 808828
+doccontainerchecksum fd69963d55daeaf833bfe18242fb3f5843daf37d6bbd8fbb73b25792ab5578cf3e4a1e0361caad15f9433d399df085b3489e072a64c0be8f41cdcd8832f32dd8
+runfiles size=6
+ texmf-dist/tex/latex/cleanthesis/cleanthesis.sty
+catalogue-ctan /macros/latex/contrib/cleanthesis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation
+catalogue-version 0.3.1

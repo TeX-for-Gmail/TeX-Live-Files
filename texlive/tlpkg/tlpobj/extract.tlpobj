@@ -1,0 +1,31 @@
+name extract
+category Package
+revision 15878
+shortdesc Extract parts of a document and write to another document
+longdesc The package provides the means to extract specific content from
+longdesc a source document and write that to a target document. One
+longdesc could, for instance, use this to extract all exercises from
+longdesc lecture notes and generate an exercises book on the fly. The
+longdesc package also provides an environment which writes its body
+longdesc entirely to the target file. Another environment will write to
+longdesc the target file, but will also execute the body. This allows to
+longdesc share code (for instance, a preamble) between the source
+longdesc document and the target file. Finally, the package provides an
+longdesc interface to conditionally extract content. With a single
+longdesc package option, one can specify exactly which commands (counted
+longdesc from the start of the document) should be extracted and which
+longdesc not. This might be useful for extracting specific slides from a
+longdesc presentation and use them in a new file.
+containersize 4288
+containerchecksum bf2feedc3914bc6f10cded15d894a4b0606b86038134ce7993171fa4b79045cbf131b11e43116fcc1632dd3969fc42b38ac06b1b3d2e6b462b44ea25353d01bc
+doccontainersize 183328
+doccontainerchecksum d694fee22cd4adab84c546bae47b65a0b90ad611df7bde8161f0270efa66557fedda46d6de42b9d0c4a752f6a4178e8d1bd7bf95ff1c58b886b9be75cd45a795
+srccontainersize 17352
+srccontainerchecksum 0c79f916c3a2a8da7227976efe9a2714919736542179ae226b109263e061d931286976306e6bfc15e25772e077339528188998fcc2b9436ea9ea2b383b5aa57c
+runfiles size=4
+ texmf-dist/tex/latex/extract/extract.sty
+catalogue-ctan /macros/latex/contrib/extract
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics editorial
+catalogue-version 1.8

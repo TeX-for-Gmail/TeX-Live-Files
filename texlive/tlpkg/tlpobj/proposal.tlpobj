@@ -1,0 +1,35 @@
+name proposal
+category Package
+revision 40538
+shortdesc A set of LaTeX classes for preparing proposals for collaborative projects
+longdesc The process of preparing a collaborative proposal, to a major
+longdesc funding body, involves integration of contributions of a many
+longdesc people at many sites. It is therefore an ideal application for
+longdesc a text-based document preparation system such as LaTeX, in
+longdesc concert with a distributed version control system such as SVN.
+longdesc The proposal class itself provides a basis for such an
+longdesc enterprise. The dfgproposal and dfgproposal classes provide two
+longdesc specialisations of the base class for (respectively) German and
+longdesc European research proposals. The packages depend on the
+longdesc author's stex bundle.
+containersize 17220
+containerchecksum d9a352995030efd57ecd46028147a6326ede0695545194a01846d4a3e2d29096ace9e6f69900766906f3ecfa05ce566ebd1c2c5f76a3b2b2646c1e0f865093ba
+doccontainersize 1079828
+doccontainerchecksum 53c1d47f2f42c9ceed73f350c2aff9b229d6dc8dfde9e3fb8109971905c5d6430ca52d72551d540f5a1727a767d6cf485d8bca2489f301edfbf964490ecfb5a2
+srccontainersize 49544
+srccontainerchecksum 39ec30b5c0d94a2beb6d83d796ed13ca95b5e0045edc8e7828f5528e44e9f24350fceef93ec2c3bf9cdbf3766d7ddb0b72d6e10a909a6fc92e393681d425d8b4
+runfiles size=26
+ texmf-dist/tex/latex/proposal/base/pdata.sty
+ texmf-dist/tex/latex/proposal/base/proposal.cls
+ texmf-dist/tex/latex/proposal/base/reporting.cls
+ texmf-dist/tex/latex/proposal/dfg/dfgpdata.sty
+ texmf-dist/tex/latex/proposal/dfg/dfgproposal.cls
+ texmf-dist/tex/latex/proposal/dfg/dfgreporting.cls
+ texmf-dist/tex/latex/proposal/eu/eupdata.sty
+ texmf-dist/tex/latex/proposal/eu/euproposal.cls
+ texmf-dist/tex/latex/proposal/eu/eureporting.cls
+catalogue-contact-repository https://github.com/KWARC/LaTeX-proposal
+catalogue-ctan /macros/latex/contrib/proposal
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics proposal

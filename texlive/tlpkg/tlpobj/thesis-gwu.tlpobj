@@ -1,0 +1,23 @@
+name thesis-gwu
+category Package
+revision 48537
+shortdesc Thesis class for George Washington University School of Engineering and Applied Science
+longdesc This class is an attempt to create a standard format for GWU
+longdesc SEAS dissertations/theses. It automatically handles many of the
+longdesc complicated formatting requirements and includes many useful
+longdesc packages. An example thesis is provided serving as a user guide
+longdesc and a demonstration of the thesis.
+containersize 10428
+containerchecksum f5f54b6ba4d95422d3b5e219a8319375f543939b0a4fff260616048faee47203497cff1eadf8603f03ad54f7f93bfd524fc3f2efa108bcf36c34a38f468b85cf
+doccontainersize 402080
+doccontainerchecksum 88928ac624aa85413652ae32170854cce4c0519858b5e35752fa06bc4e7130ac031eade4127704edadf69a1fc5fa0e3357af1a0350af83decde430e606c0ff4b
+runfiles size=13
+ texmf-dist/tex/latex/thesis-gwu/thesis-gwu.cls
+catalogue-contact-bugs https://github.com/skulumani/thesis-gwu/issues
+catalogue-contact-home https://github.com/skulumani/thesis-gwu
+catalogue-contact-repository https://github.com/skulumani/thesis-gwu
+catalogue-ctan /macros/latex/contrib/thesis-gwu
+catalogue-date 2018-08-31 23:05:31 +0200
+catalogue-license gpl3
+catalogue-topics dissertation class
+catalogue-version 1.6.1

@@ -1,0 +1,23 @@
+name easyreview
+category Package
+revision 38352
+shortdesc Package to provide a way to review (or perform editorial process) in LaTeX
+longdesc The easyReview package provides a way to review (or perform
+longdesc editorial process) in LaTeX. You can use the provided commands
+longdesc to claim attention in different ways to part of the text, or
+longdesc even to indicate that a text was added, needs to be removed,
+longdesc needs to be replaced and add comments to the text.
+containersize 1468
+containerchecksum 4efa69b2e6280333a89022f93a95c8af4d22cc9b82c4e8692291470af83696e7ed524c77cfe9d9c397c4136c0ebd8399a8ca4ab47d42b84da35bb79189ff1b6f
+doccontainersize 330600
+doccontainerchecksum 4f71891df0b1dfbf32be06a427f34e5c45f73543b3acb9117487d2bffa46f5b61b74f795249cf3d806705beab710c5a7934a59a8e215c87678e778db517a0832
+srccontainersize 2472
+srccontainerchecksum 8e4375d0711a1fd8ffb3c43a53b62e5e9b84ea90217c21a7155e514a4a42b8b34c36a0f0a839766d7e9b4eee05a6cb36ffd1da98f1c9f756d67fc8ba0acd4807
+runfiles size=1
+ texmf-dist/tex/latex/easyreview/easyReview.sty
+catalogue-contact-repository https://github.com/jmamatos/easyReview
+catalogue-ctan /macros/latex/contrib/easyreview
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics notes editorial
+catalogue-version 1.0

@@ -1,0 +1,46 @@
+name pxtxalfa
+category Package
+revision 23682
+shortdesc Virtual maths alphabets based on pxfonts and txfonts
+longdesc The package provides virtual math alphabets based on pxfonts
+longdesc and txfonts, with LaTeX support files and adjusted metrics. The
+longdesc mathalfa package offers support for this collection.
+execute addMap pxtx.map
+containersize 9044
+containerchecksum ac1972a7dd5445bafca244e04663e09c4e939eedf31e8038e2ea41d255bdf6a4721bc53a443f6663f989b21494c61b3dae9ddc9940e283cdb49723e6fabbea69
+doccontainersize 36128
+doccontainerchecksum 55d06ddcb52e79ea590b24e8aa53a41dc18162ef9a8871ea69eafe53c6d0f5ecd5b548f97864c0253f543ca9f4eda17c665f1a6de1115cd8052670c934fbe52d
+runfiles size=28
+ texmf-dist/fonts/map/dvips/pxtxalfa/pxtx.map
+ texmf-dist/fonts/tfm/public/pxtxalfa/pxb-ds.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/pxr-ds.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/rtxmia.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txb-cal.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txb-frak.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txb-of.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txr-cal.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txr-ds.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txr-frak.tfm
+ texmf-dist/fonts/tfm/public/pxtxalfa/txr-of.tfm
+ texmf-dist/fonts/vf/public/pxtxalfa/pxb-ds.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/pxr-ds.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txb-cal.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txb-frak.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txb-of.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txr-cal.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txr-ds.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txr-frak.vf
+ texmf-dist/fonts/vf/public/pxtxalfa/txr-of.vf
+ texmf-dist/tex/latex/pxtxalfa/px-ds.sty
+ texmf-dist/tex/latex/pxtxalfa/pxtx-cal.sty
+ texmf-dist/tex/latex/pxtxalfa/pxtx-frak.sty
+ texmf-dist/tex/latex/pxtxalfa/tx-of.sty
+ texmf-dist/tex/latex/pxtxalfa/upx-ds.fd
+ texmf-dist/tex/latex/pxtxalfa/utx-cal.fd
+ texmf-dist/tex/latex/pxtxalfa/utx-frak.fd
+ texmf-dist/tex/latex/pxtxalfa/utx-of.fd
+catalogue-ctan /fonts/pxtxalfa
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-maths font-virtual
+catalogue-version 1

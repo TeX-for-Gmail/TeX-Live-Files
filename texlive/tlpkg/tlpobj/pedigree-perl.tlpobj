@@ -1,0 +1,31 @@
+name pedigree-perl
+category Package
+revision 31990
+shortdesc Generate TeX pedigree files from CSV files
+longdesc This program generates TeX commands to typeset pedigrees --
+longdesc either TeX fragments or full LaTeX files, to be processed by
+longdesc the authors' pst-pdgr package. The program has support for
+longdesc multilanguage pedigrees (at the present moment the English and
+longdesc Russian languages are supported).
+depend pedigree-perl.ARCH
+containersize 17236
+containerchecksum 9adc918e1156b2a14bc144b96b5d3fe2b1272a5c9924e30c67236c564c1a065f06ea075249df21f19ce13b9cc03a885402e120d6b8f40f912d8c6ef4b98fc1f3
+doccontainersize 649380
+doccontainerchecksum 1e645090b3cb78b95bfed3398923c6e4cd39637238e7849bb1d05623307f82115fca87ceb6bac2aa89beb68371d7acd438099675ca33295839e413905b4ae150
+runfiles size=28
+ texmf-dist/scripts/pedigree-perl/Pedigree.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/AbortionNode.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/Area.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/ChildlessNode.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/Language.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/MarriageNode.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/Node.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/Parser.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/PersonNode.pm
+ texmf-dist/scripts/pedigree-perl/Pedigree/TwinsNode.pm
+ texmf-dist/scripts/pedigree-perl/pedigree.pl
+catalogue-ctan /graphics/pstricks/contrib/pedigree/pedigree-perl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics humanities csv-support
+catalogue-version 1.0

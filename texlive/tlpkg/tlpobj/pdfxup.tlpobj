@@ -1,0 +1,19 @@
+name pdfxup
+category Package
+revision 40690
+shortdesc Create n-up PDF pages with minimal margins
+longdesc pdfxup is a unix/linux shell script that creates a PDF document
+longdesc where each page is obtained by combining several pages of a PDF
+longdesc file given as output.
+depend pdfxup.ARCH
+containersize 7264
+containerchecksum 4086f58241799139e980c97c1aae786566bb7801932334d78e89dfc5f8e718b6b9fd3eada32ae006b9aeb74d8b2644071a1b1e60db7dda3b4b4942947d727fca
+doccontainersize 21260
+doccontainerchecksum 3888fce668affc7efa7e9d88c890f72c94b49dd88ea3c05af956943dc015e89ad930e2de3a67e023c7e1be2cd1c7911e5df29dbc273e3c2b219eb5377c165956
+runfiles size=7
+ texmf-dist/scripts/pdfxup/pdfxup
+catalogue-ctan /support/pdfxup
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics pdfprocess
+catalogue-version 1.30

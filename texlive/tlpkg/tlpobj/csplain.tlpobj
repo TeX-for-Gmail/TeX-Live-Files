@@ -1,0 +1,122 @@
+name csplain
+category Package
+revision 50572
+shortdesc Plain TeX multilanguage support
+longdesc CSplain is a small extension of basic Plain TeX macros, the
+longdesc formats csplain and pdfcsplain can be generated. It supports:
+longdesc hyphenation of words for 50+ languages, simple and powerfull
+longdesc font loading system (various sizes of fonts), TeX, pdfTeX,
+longdesc XeTeX and LuaTeX engines, math fonts simply loaded with full
+longdesc amstex-like features, three internal encodings (IL2 for
+longdesc Czech/Slovak languages, T1 for many languages with latin
+longdesc alphabet and Unicode in new TeX engines), natural UTF-8 input
+longdesc in pdfTeX using encTeX without any active characters, Czech and
+longdesc Slovak special typesetting features. An important part of the
+longdesc package is OPmac, which implements most of LaTeX's features
+longdesc (sectioning, font selection, color, hyper reference and urls,
+longdesc bibliography, index, toc, tables,etc.) by Plain TeX macros. The
+longdesc OPmac macros can generate and bibliography without any external
+longdesc program.
+depend tex
+depend cm
+depend cs
+depend hyphen-base
+depend plain
+depend enctex
+depend tex-ini-files
+depend luatex
+depend luatex85
+depend csplain.ARCH
+execute AddFormat name=csplain engine=pdftex           options="-etex -enc csplain-utf8.ini"           fmttriggers=cm,cs,hyphen-base,plain,enctex
+execute AddFormat name=pdfcsplain engine=pdftex           options="-etex -enc csplain-utf8.ini"           fmttriggers=cm,cs,hyphen-base,plain,enctex,tex-ini-files
+execute AddFormat name=luacsplain engine=luatex           options="-etex csplain.ini"           fmttriggers=cm,cs,hyphen-base,plain,tex-ini-files,luatex,luatex85
+execute AddFormat name=pdfcsplain engine=xetex           options="-etex csplain.ini"           fmttriggers=cm,cs,hyphen-base,plain
+execute AddFormat name=pdfcsplain engine=luatex           options="-etex csplain.ini"           fmttriggers=cm,cs,hyphen-base,plain,tex-ini-files,luatex,luatex85
+containersize 119524
+containerchecksum 65e665a61c075680b29e653f1348c04e44a91ccc9cd0a63050cb2351639b9a91e49b068f9ad940e95995c56f21ce3510312a6ade8c6d1d81abf225b3a7e16e73
+runfiles size=213
+ texmf-dist/tex/csplain/base/csenc-k.tex
+ texmf-dist/tex/csplain/base/csenc-p.tex
+ texmf-dist/tex/csplain/base/csenc-u.tex
+ texmf-dist/tex/csplain/base/csenc-w.tex
+ texmf-dist/tex/csplain/base/cseplain.ini
+ texmf-dist/tex/csplain/base/csfonts.tex
+ texmf-dist/tex/csplain/base/csfontsm.tex
+ texmf-dist/tex/csplain/base/csplain-utf8.ini
+ texmf-dist/tex/csplain/base/csplain.ini
+ texmf-dist/tex/csplain/base/czhyphen.ex
+ texmf-dist/tex/csplain/base/czhyphen.tex
+ texmf-dist/tex/csplain/base/etex-mac.tex
+ texmf-dist/tex/csplain/base/extcode.tex
+ texmf-dist/tex/csplain/base/fonttabs.tex
+ texmf-dist/tex/csplain/base/hyphen.ex
+ texmf-dist/tex/csplain/base/hyphen.lan
+ texmf-dist/tex/csplain/base/il2code.tex
+ texmf-dist/tex/csplain/base/lua-hyphen.lan
+ texmf-dist/tex/csplain/base/luaplain.ini
+ texmf-dist/tex/csplain/base/plaina4.tex
+ texmf-dist/tex/csplain/base/skhyphen.ex
+ texmf-dist/tex/csplain/base/skhyphen.tex
+ texmf-dist/tex/csplain/base/t1code.tex
+ texmf-dist/tex/csplain/base/t1enc-u.tex
+ texmf-dist/tex/csplain/base/ucode.tex
+ texmf-dist/tex/csplain/base/uni-lcuc.tex
+ texmf-dist/tex/csplain/base/xeplain.ini
+ texmf-dist/tex/csplain/fonts/ams-math.tex
+ texmf-dist/tex/csplain/fonts/cavantga.tex
+ texmf-dist/tex/csplain/fonts/cbookman.tex
+ texmf-dist/tex/csplain/fonts/chars-8z.tex
+ texmf-dist/tex/csplain/fonts/chelvet.tex
+ texmf-dist/tex/csplain/fonts/cncent.tex
+ texmf-dist/tex/csplain/fonts/cpalatin.tex
+ texmf-dist/tex/csplain/fonts/cs-adventor.tex
+ texmf-dist/tex/csplain/fonts/cs-all.tex
+ texmf-dist/tex/csplain/fonts/cs-antt.tex
+ texmf-dist/tex/csplain/fonts/cs-arev.tex
+ texmf-dist/tex/csplain/fonts/cs-baskerx.tex
+ texmf-dist/tex/csplain/fonts/cs-bera.tex
+ texmf-dist/tex/csplain/fonts/cs-bonum.tex
+ texmf-dist/tex/csplain/fonts/cs-charter.tex
+ texmf-dist/tex/csplain/fonts/cs-cursor.tex
+ texmf-dist/tex/csplain/fonts/cs-heros.tex
+ texmf-dist/tex/csplain/fonts/cs-heuristica.tex
+ texmf-dist/tex/csplain/fonts/cs-iwona.tex
+ texmf-dist/tex/csplain/fonts/cs-kurier.tex
+ texmf-dist/tex/csplain/fonts/cs-libertine.tex
+ texmf-dist/tex/csplain/fonts/cs-pagella.tex
+ texmf-dist/tex/csplain/fonts/cs-polta.tex
+ texmf-dist/tex/csplain/fonts/cs-schola.tex
+ texmf-dist/tex/csplain/fonts/cs-termes.tex
+ texmf-dist/tex/csplain/fonts/ctimes.tex
+ texmf-dist/tex/csplain/fonts/cyrchars.tex
+ texmf-dist/tex/csplain/fonts/dcfonts.tex
+ texmf-dist/tex/csplain/fonts/ecfonts.tex
+ texmf-dist/tex/csplain/fonts/exchars.tex
+ texmf-dist/tex/csplain/fonts/ff-mac.tex
+ texmf-dist/tex/csplain/fonts/glyphtounicode-cs.tex
+ texmf-dist/tex/csplain/fonts/ki-math.tex
+ texmf-dist/tex/csplain/fonts/kp-fonts.tex
+ texmf-dist/tex/csplain/fonts/kp-math.tex
+ texmf-dist/tex/csplain/fonts/lmfonts.tex
+ texmf-dist/tex/csplain/fonts/luafonts.tex
+ texmf-dist/tex/csplain/fonts/ntx-math.tex
+ texmf-dist/tex/csplain/fonts/pazo-math.tex
+ texmf-dist/tex/csplain/fonts/tx-math.tex
+ texmf-dist/tex/csplain/fonts/uni-math.tex
+ texmf-dist/tex/csplain/fonts/unifam.tex
+ texmf-dist/tex/csplain/opmac/fontfam-catalog.tex
+ texmf-dist/tex/csplain/opmac/fontfam-global.tex
+ texmf-dist/tex/csplain/opmac/fontfam.tex
+ texmf-dist/tex/csplain/opmac/op-example.bib
+ texmf-dist/tex/csplain/opmac/opmac-bib-iso690.tex
+ texmf-dist/tex/csplain/opmac/opmac-bib-simple.tex
+ texmf-dist/tex/csplain/opmac/opmac-bib.tex
+ texmf-dist/tex/csplain/opmac/opmac-luatex.tex
+ texmf-dist/tex/csplain/opmac/opmac-xetex.tex
+ texmf-dist/tex/csplain/opmac/opmac.tex
+ texmf-dist/tex/csplain/opmac/pdfuni.tex
+catalogue-contact-home http://petr.olsak.net/csplain-e.html
+catalogue-ctan /macros/cstex/base/csplain.tar.gz
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics czech slovak format

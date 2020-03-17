@@ -1,0 +1,20 @@
+name fnpara
+category Package
+revision 25607
+shortdesc Footnotes in paragraphs
+longdesc Typeset footnotes in run-on paragraphs, instead of one above
+longdesc another; this is a re-seating, for the LaTeX environment, of an
+longdesc example in the TeXbook. The same basic code, improved for use
+longdesc in e-TeX-based LaTeX, appears in the comprehensive footnote
+longdesc package footmisc, and superior versions are also available in
+longdesc the manyfoot and bigfoot packages.
+containersize 3076
+containerchecksum 620aafcef4ec7fdaf5cd732551fddbfce53222cb7540dd370f2cda425e1782c907e59868953f50acfff993a8fd8a84d108da7992f1c1565cbfa889a5ca0ef5d0
+doccontainersize 175136
+doccontainerchecksum 798c7fb03a8fb20695ed63ba1333686d21832a936a74a93ca77c7614346316234b2255b8e0340dd87fd57bc1480f23df24381107fc81c68cd4c0cd594ddf5329
+runfiles size=2
+ texmf-dist/tex/latex/fnpara/fnpara.sty
+catalogue-ctan /macros/latex/contrib/fnpara
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics footnote

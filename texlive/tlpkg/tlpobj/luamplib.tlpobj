@@ -1,0 +1,24 @@
+name luamplib
+category Package
+revision 50608
+shortdesc Use LuaTeX's built-in MetaPost interpreter
+longdesc The package enables the user to specify MetaPost diagrams
+longdesc (which may include colour specifications from the color or
+longdesc xcolor packages) into a document, using LuaTeX's built-in
+longdesc MetaPost library. The facility is only available in PDF mode.
+containersize 11792
+containerchecksum 233e6ebf8f6ce9c249b142435475591ed82bc8bd2b60ba12d97baf1c542edc819e240e9de5f86a20500befa8aed6e2fa2b0dfff3dd6b3c1da8f43f9552f666b1
+doccontainersize 151692
+doccontainerchecksum 592be60c38e77f17130f751b4e05a872e9bc49c62cbaff4502c29e61a81dc6b947db9bce3bf784248efbba3327d0ead5935c857d1c3cf4ae1d5ae1e69b908c02
+srccontainersize 26480
+srccontainerchecksum 0a3bed424acc4a492698be14be7c6784d74c524fbe6faaf91d94ad6aee6c0c3dfa99382a607b99000d7850198e5dfaee2d1a03feb7c09c8022a97d5baaf6419a
+runfiles size=12
+ texmf-dist/tex/luatex/luamplib/luamplib.lua
+ texmf-dist/tex/luatex/luamplib/luamplib.sty
+catalogue-contact-bugs https://github.com/lualatex/luamplib/issues
+catalogue-contact-repository http://github.com/lualatex/luamplib
+catalogue-ctan /macros/luatex/generic/luamplib
+catalogue-date 2019-03-26 13:13:24 +0100
+catalogue-license gpl2
+catalogue-topics mp-use graphics-in-tex luatex
+catalogue-version 2.20.1

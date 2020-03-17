@@ -1,0 +1,27 @@
+name cmpj
+category Package
+revision 44283
+shortdesc Style for the journal Condensed Matter Physics
+longdesc The package contains macros and some documentation for
+longdesc typesetting papers for submission to the Condensed Matter
+longdesc Physics journal published by the Institute for Condensed Matter
+longdesc Physics of the National Academy of Sciences of Ukraine.
+containersize 48396
+containerchecksum 17ff49e4350bad1a72e33291c37ede5cf8769d5d385b98f8fd47f309af7e47f00e98662b991055cd2dd1117fe65e69a63a0ca8ba00e7129bad772cbaa4df3b17
+doccontainersize 463512
+doccontainerchecksum 2440e6244a15c59b406520b0c1fc3f78fea2493bef65c66df445744efbc226c7768ebe1a7150fc12dde754c7bf671d455476ed87633efcf345b765a25b7af43c
+runfiles size=75
+ texmf-dist/bibtex/bst/cmpj/cmpj.bst
+ texmf-dist/tex/latex/cmpj/cmp-logo.eps
+ texmf-dist/tex/latex/cmpj/cmp-logo.pdf
+ texmf-dist/tex/latex/cmpj/cmpj-cc-by-small.eps
+ texmf-dist/tex/latex/cmpj/cmpj-cc-by-small.pdf
+ texmf-dist/tex/latex/cmpj/cmpj.sty
+ texmf-dist/tex/latex/cmpj/cmpj2.sty
+ texmf-dist/tex/latex/cmpj/cmpj3.sty
+catalogue-contact-home http://www.icmp.lviv.ua/journal/Instructions.html
+catalogue-ctan /macros/latex/contrib/cmpj
+catalogue-date 2017-05-10 15:16:26 +0200
+catalogue-license lppl
+catalogue-topics physics journalpub
+catalogue-version 3.01

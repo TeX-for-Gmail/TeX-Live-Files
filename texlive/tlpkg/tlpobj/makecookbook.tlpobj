@@ -1,0 +1,27 @@
+name makecookbook
+category Package
+revision 49311
+shortdesc Make a Cookbook
+longdesc The makecookbook bundle contains the files needed to create a
+longdesc nice quality family cookbook in a form ready to submit to most
+longdesc print-on-demand companies. Modifiable choices have been made
+longdesc regarding standard book features such as trim size, margins,
+longdesc headers/footers, chapter heading formatting, front matter
+longdesc (copyright page, table of contents, etc.) and back matter
+longdesc (index). Commands and environments have been created to format
+longdesc the food stories and recipes. The user will need to: supply
+longdesc their own food stories and recipes(!), and install the needed
+longdesc fonts. We assume a LuaTeX compile. Please note that no new
+longdesc document class or package is included here. Rather, we provide
+longdesc a modifiable preamble and a small number of other files that,
+longdesc together, fully support creation of all of the internal pages
+longdesc of a cookbook (i.e., everything except the cover art).
+containersize 880
+containerchecksum a4fdb7a7553a08b51d15c038187ef621ca6852c20a033b1751c544634c3092f93c3db5c1f4d744732ff6696509d8fa406251e9d14e619397ca4202b55c1b9c64
+doccontainersize 463616
+doccontainerchecksum 84c97dd438e3d3abedce031da5841f789f3b8c28672c9e3b6c53929e2e781a9d51adaec6d883d0008b42f1eae2ed5bbf992ec229bb8b2f7f510346d10dbc31fb
+catalogue-ctan /macros/luatex/latex/makecookbook
+catalogue-date 2018-12-06 07:49:18 +0100
+catalogue-license lppl1.3c
+catalogue-topics book-pub cooking luatex
+catalogue-version 0.85

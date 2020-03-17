@@ -1,0 +1,25 @@
+name linegoal
+category Package
+revision 21523
+shortdesc A "dimen" that returns the space left on the line
+longdesc The linegoal package provides a macro \linegoal to be used with
+longdesc \setlength: \setlength<some dimen>\linegoal will set <some
+longdesc dimen> to the horizontal length of the remainder of the line.
+longdesc This is achieved using the \pdfsavepos primitive of pdfTeX,
+longdesc through the zref-savepos package. Example: Some text:
+longdesc \begin{tabularx}\linegoal{|l|X|} \hline one & two \\ three &
+longdesc four \\\hline \end{tabularx} will position the table after the
+longdesc initial text, and make the table fill the rest of the line.
+containersize 1988
+containerchecksum 87a062513ff7674f315472cc46e13fbce99057c3b7083a2b9c93b92f09d538af29f5d1e3664dd5273080b9037ac232dc0d7491753b83136d2d3558ada1b81976
+doccontainersize 138308
+doccontainerchecksum 9c61ec4fa6bc63a57f7b272c7dfc55035e8e4f14225bbd2763157915fd351a2bb4f179150801f06682fd9bd59f756edbb127e7bd68592ffee5c1cfbac91b10a6
+srccontainersize 10356
+srccontainerchecksum 69133c573e53608e6b341abd7e745ba6b532eba05bb9a2ff2105bb9da69e31bf590fdc3f06241e5b667ec7f0c9458a908f5ad72304c7a5c9e412c0057611c5cc
+runfiles size=1
+ texmf-dist/tex/latex/linegoal/linegoal.sty
+catalogue-ctan /macros/latex/contrib/linegoal
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 2.9

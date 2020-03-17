@@ -1,0 +1,17 @@
+name smalltableof
+category Package
+revision 20333
+shortdesc Create listoffigures etc. in a single chapter
+longdesc The package allows you to create a list of figures and list of
+longdesc tables in a chapter named 'List' that contains separate
+longdesc sections for each list of figures, tables, etc.
+containersize 996
+containerchecksum 50a4878bddc55e1b05ede3e770aad31f6c56b81f9e6d0a536ece25729e3c5a9a1720068534f26a9c224c101f0e0d833478f1a5c3b12759d7c3ffce027bbd5edd
+doccontainersize 177112
+doccontainerchecksum ca62aa29f6ad62f149dd9c5077ee2b14ed69d8a750f33d3de274ae275e5d1528482e58140a78b0917cf02a879206194e24a6beecd33060544abb50dd6fc564a6
+runfiles size=1
+ texmf-dist/tex/latex/smalltableof/smalltableof.sty
+catalogue-ctan /macros/latex/contrib/smalltableof
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics toc-etc

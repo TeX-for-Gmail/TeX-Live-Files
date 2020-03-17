@@ -1,0 +1,9 @@
+name jadetex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of jadetex
+containersize 340
+containerchecksum c77695a595c67e68466280d6eb589b2f925d9e6b1da1fe7ff949d66a8647846f2ed8d5a08912f0fd5dee6d960063f5eb084d7f4a18636b7c97a72a38599d409e
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/jadetex
+ bin/x86_64-linux/pdfjadetex

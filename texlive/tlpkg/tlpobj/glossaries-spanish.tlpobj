@@ -1,0 +1,20 @@
+name glossaries-spanish
+category Package
+revision 35665
+shortdesc Spanish language module for glossaries package
+longdesc Spanish language module for glossaries package.
+containersize 1896
+containerchecksum 6c92de5e24135a9c47d200f8f0c0ce7dff8a01f8c13bfb49d4090d1c195052559f75763c0ed68d633b40cf18bc89bc51e7b6c2aacdec05376a3c2e1d1b7a31b2
+doccontainersize 128220
+doccontainerchecksum 5fc58f64a7f54b50dcfd632e700805bab2f46a92b727853b147d9f7156b2fddd50a8fac08d0ac59bf5f89e0ecf1d5ddf7c22482e661f8a5e7b5568832168bd5c
+srccontainersize 2520
+srccontainerchecksum 8bccb84eec75980107ed08b9f7e1ef0a595f7eb0c270ccbff77f4ea176fb5e17292b7d34d081ffdaa7d7be82fe40f71bbc30a65904892400536c51ea777475df
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-noenc.ldf
+ texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish-utf8.ldf
+ texmf-dist/tex/latex/glossaries-spanish/glossaries-spanish.ldf
+catalogue-ctan /macros/latex/contrib/glossaries-spanish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

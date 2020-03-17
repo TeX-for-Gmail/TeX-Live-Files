@@ -1,0 +1,24 @@
+name tensor
+category Package
+revision 15878
+shortdesc Typeset tensors
+longdesc A package which allows the user to set tensor-style super- and
+longdesc subscripts with offsets between successive indices. It supports
+longdesc the typesetting of tensors with mixed upper and lower indices
+longdesc with spacing, also typset preposed indices. This is a complete
+longdesc revision and extension of the original 'tensor' package by Mike
+longdesc Piff.
+containersize 2004
+containerchecksum 8f048f9c72eb693bf9e75e6ebda2901eb6b6add654b1f89651d54eb9416559c2455436f5e825160bfce220c790e00aa3a6f95a4557b3fdc880bade768dd36c05
+doccontainersize 90232
+doccontainerchecksum d9ec6b7b49d028a5a405f16c8cdb54873d92d3a0968b7df38aad44da607c8ea8cdcac45cce63b0bd2258a2a89787e2388b2375189636b93bf643055c0b9f86fd
+srccontainersize 7272
+srccontainerchecksum fb246320405988579412cb8afc3f0f0951bd6ca09974c3f38c83979ff195e16e43c1852bca5097e8e4b07039230d3c019117234d4bb77eb75e70bedbc796ab3a
+runfiles size=2
+ texmf-dist/tex/latex/tensor/tensor.sty
+catalogue-also tensind
+catalogue-ctan /macros/latex/contrib/tensor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics subsup-pos maths
+catalogue-version 2.1

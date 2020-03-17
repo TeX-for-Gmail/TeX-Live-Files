@@ -1,0 +1,21 @@
+name chemcompounds
+category Package
+revision 15878
+shortdesc Simple consecutive numbering of chemical compounds
+longdesc The chemcompounds package allows for a simple consecutive
+longdesc numbering of chemical compounds. Optionally, it is possible to
+longdesc supply a custom name for each compound. The package differs
+longdesc from the chemcono package by not generating an odd-looking list
+longdesc of compounds inside the text.
+containersize 1956
+containerchecksum d8cafe15f21045522812279337f9680a975a3f9b9930231b7992435bf694f8f180b061623bdf5fbe7dc9cfdf7d6342e0d6c2dae1cbe0d8e855699064a97a95fd
+doccontainersize 111604
+doccontainerchecksum 26d9568f73f6b0c557cc55b48a99826b70d87724f7f5776f7c58691e8374b3b6ed400206b338bb0397ae5e0c1df5d1bdbb638e80d0dbfea228138b96863587ad
+srccontainersize 7200
+srccontainerchecksum d1a0c821c6624efcb31ca21ab658a64919dd6eca51add909bea4467dbf47b20dfb60f10ee979a7525a04bae0f7440ddfae2c244da25444ccf0486708b4d1a1a6
+runfiles size=2
+ texmf-dist/tex/latex/chemcompounds/chemcompounds.sty
+catalogue-ctan /macros/latex/contrib/chemcompounds
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics chemistry

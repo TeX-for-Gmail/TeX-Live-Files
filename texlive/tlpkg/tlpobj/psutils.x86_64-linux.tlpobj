@@ -1,0 +1,16 @@
+name psutils.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of psutils
+containersize 69208
+containerchecksum 5ab37c3d987333151198ab2fde6bb860868a774535f7cc9a14b1ae847a462bd4c0a8983503e755b8ef792bcf88f0eaa74a56b78266641172be658a8772c25393
+binfiles arch=x86_64-linux size=91
+ bin/x86_64-linux/epsffit
+ bin/x86_64-linux/extractres
+ bin/x86_64-linux/includeres
+ bin/x86_64-linux/psbook
+ bin/x86_64-linux/psjoin
+ bin/x86_64-linux/psnup
+ bin/x86_64-linux/psresize
+ bin/x86_64-linux/psselect
+ bin/x86_64-linux/pstops

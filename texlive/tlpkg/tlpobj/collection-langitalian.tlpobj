@@ -1,0 +1,24 @@
+name collection-langitalian
+category Collection
+revision 30372
+shortdesc Italian
+longdesc Support for Italian.
+depend collection-basic
+depend amsldoc-it
+depend amsmath-it
+depend amsthdoc-it
+depend babel-italian
+depend codicefiscaleitaliano
+depend fancyhdr-it
+depend fixltxhyph
+depend frontespizio
+depend hyphen-italian
+depend itnumpar
+depend l2tabu-italian
+depend latex4wp-it
+depend layaureo
+depend lshort-italian
+depend psfrag-italian
+depend texlive-it
+containersize 412
+containerchecksum 1cace30c8b68dc6e44e5bfe070c155bc65462b4d950506d79967f9e7472c9d7b7f9b3016fe3a34049cc7ec50c21d12f4bd6c4a03bf4f3c63172976d1b888855e

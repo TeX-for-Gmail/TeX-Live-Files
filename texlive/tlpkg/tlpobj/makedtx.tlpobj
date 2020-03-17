@@ -1,0 +1,29 @@
+name makedtx
+category Package
+revision 46702
+shortdesc Perl script to help generate dtx and ins files
+longdesc The makedtx bundle is provided to help LaTeX2e developers to
+longdesc write the code and documentation in separate files, and then
+longdesc combine them into a single .dtx file for distribution. It
+longdesc automatically generates the character table, and also writes
+longdesc the associated installation (.ins) script.
+depend makedtx.ARCH
+containersize 7784
+containerchecksum e083fa791975cef84b2e2ba3472984e354d5ced50ae7fb96dd8239cfffd379e7a25fdab80abcb721e63dfb10d9557bce69e97c5624d1635f894bcd26e22b5f4d
+doccontainersize 269240
+doccontainerchecksum 913f6f02ff478ab5edeed4792846ee6bc06d28c16fd3d7396d394f4a964d6f39a12c8163d66a50a5bf53add151317184b09a712dfd32f9ff783bda7f520c7eef
+srccontainersize 16152
+srccontainerchecksum 84e12e7798c37a598a2d37fa7faa206ffb6f5c1f9c21af7130a9f05bebf9857f2a4fb7988be55a9936199694a0d74595ff75a1261187d81fd06beda5e0628931
+runfiles size=8
+ texmf-dist/scripts/makedtx/makedtx.pl
+ texmf-dist/tex/latex/makedtx/createdtx.sty
+catalogue-also sty2dtx
+catalogue-contact-bugs https://puszcza.gnu.org.ua/bugs/?group=latex-makedtx
+catalogue-contact-development https://puszcza.gnu.org.ua/project/memberlist.php?group=latex-makedtx
+catalogue-contact-home https://puszcza.gnu.org.ua/projects/latex-makedtx
+catalogue-contact-repository https://puszcza.gnu.org.ua/svn/?group=latex-makedtx
+catalogue-ctan /support/makedtx
+catalogue-date 2018-02-21 20:29:09 +0100
+catalogue-license lppl
+catalogue-topics package-devel
+catalogue-version 1.2

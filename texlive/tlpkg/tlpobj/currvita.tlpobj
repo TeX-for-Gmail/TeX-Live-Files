@@ -1,0 +1,21 @@
+name currvita
+category Package
+revision 15878
+shortdesc Typeset a curriculum vitae
+longdesc Currvita is a package rather than a class (like most other
+longdesc curriculum vitae offerings). The author considers that a
+longdesc curriculum vitae can quite reasonably form part of another
+longdesc document (such as a letter, or a dissertation).
+containersize 2340
+containerchecksum c555b0e9c7a500e086f0435a2dc6cde8da8b02df4d27be14534d28c77c1f546aafecb863bc652922e07191d0441a77db647f8d1d11e33ec9bc6014f73a5822c2
+doccontainersize 89020
+doccontainerchecksum b3de1ad371cead2829225015d60a4defe604e63890ef06da65fa9223cce4e748707f0b6f4f0b0dcdf22c3096e381adc3432a7b21b36f834c18ae4eb32bfba024
+srccontainersize 16148
+srccontainerchecksum a1dc7d983ac6badf9ced1492c712373205d5b0a91934f0a76eb1ac546470292e6c9dda4cd5f5d721e06c90d6237eb39236f1417d1c6992a774f7a9f7df9213bb
+runfiles size=2
+ texmf-dist/tex/latex/currvita/currvita.sty
+catalogue-also curve cv esieecv europecv vita
+catalogue-ctan /macros/latex/contrib/currvita
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics cv

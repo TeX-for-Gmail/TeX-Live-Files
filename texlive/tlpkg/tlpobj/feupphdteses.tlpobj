@@ -1,0 +1,18 @@
+name feupphdteses
+category Package
+revision 30962
+shortdesc Typeset Engineering PhD theses at the University of Porto
+longdesc A complete template for thesis/works of Faculdade de Engenharia
+longdesc da Universidade do Porto (FEUP) Faculty of Engineering
+longdesc University of Porto.
+containersize 6312
+containerchecksum b4d4285b33f314720cd07eea903bb2fc6092f96033f75d4b06cf315fd24d1a34722aa73db4cb6410a847e1d23a131ae329f8ebe75fca15dcaffb99097768f55e
+doccontainersize 187324
+doccontainerchecksum d87c0a7722f62a599bcc63f7ecfea190c64d82a4a4a1ba21d18c69866f80ec77a527a82cb94b0d081002073f5faab95119c6902e8f8f2c10d815ca2d206b1d4c
+runfiles size=5
+ texmf-dist/tex/latex/feupphdteses/feupphdteses.sty
+catalogue-ctan /macros/latex/contrib/feupphdteses
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics dissertation
+catalogue-version 4.0

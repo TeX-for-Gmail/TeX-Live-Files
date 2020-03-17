@@ -1,0 +1,18 @@
+name zed-csp
+category Package
+revision 17258
+shortdesc Typesetting Z and CSP format specifications
+longdesc The package supports real-time CSP and incorporates the
+longdesc functionality of Spivey's original Z package, written for LaTeX
+longdesc 2.09.
+containersize 8040
+containerchecksum 2f41c5b28e602aa88146cbbc172eb2d6c6f21491e45622c4c1688b9a8acb5be304a8acde842bef84f7a238109ac9ebefa31844826387b266f14faa6a6943903a
+doccontainersize 234644
+doccontainerchecksum e5e657656e46023e32366ba415f46322f4c9b4fe0e69f03c88d4e5fcdd577e3436be6436424f502c3807278efe3a31ab7cba3020ef3c9e44874de3660dcccd2b
+runfiles size=8
+ texmf-dist/tex/latex/zed-csp/zed-csp.sty
+catalogue-also objectz
+catalogue-ctan /macros/latex/contrib/zed-csp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics formal-spec

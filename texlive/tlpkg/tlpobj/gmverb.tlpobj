@@ -1,0 +1,22 @@
+name gmverb
+category Package
+revision 24288
+shortdesc A variant of LaTeX \verb, verbatim and shortvrb
+longdesc A redefinition of \verb and verbatim so that long lines are
+longdesc breakable before \ and after { with % as 'hyphen'. Allows you
+longdesc to define your own verbatim-like environments (subject to a
+longdesc size limit) and allows you to declare any single character as a
+longdesc shorthand as in the \MakeShortVerb command of the shortvrb
+longdesc package of the LaTeX distribution. The package depends on the
+longdesc gmutils package.
+containersize 16340
+containerchecksum 18038202bca3493596925d9d7c65612434ccddde4b301134f1f57706e5d2978025fead598751e27a29d23f66ed12306e6092461aac1d9d921ce818b0a49cdfbd
+doccontainersize 212068
+doccontainerchecksum 6dfcc27b38639d4a97ed311bf7c6f1faeb1a023abc27d53e272f334b232a52aa0edc030b0c53d6587845da64097496696ceb03cbd6aa13c8ca5ac12c1772860c
+runfiles size=12
+ texmf-dist/tex/latex/gmverb/gmverb.sty
+catalogue-ctan /macros/latex/contrib/gmverb
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics verbatim
+catalogue-version 0.98

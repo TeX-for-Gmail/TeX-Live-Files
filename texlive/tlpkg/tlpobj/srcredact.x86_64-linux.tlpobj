@@ -1,0 +1,8 @@
+name srcredact.x86_64-linux
+category Package
+revision 38710
+shortdesc x86_64-linux files of srcredact
+containersize 340
+containerchecksum 1f3b9e8d45d1fd51e575b87e17adb46d197642237e35a9697fbe7ea7eb76a76eee6089903bb84d3868148b5ab175650001da8eb1c9b61a647f63a64b00c4af5f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/srcredact

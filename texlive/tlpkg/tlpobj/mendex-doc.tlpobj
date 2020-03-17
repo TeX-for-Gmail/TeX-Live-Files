@@ -1,0 +1,18 @@
+name mendex-doc
+category Package
+revision 50268
+shortdesc Documentation for Mendex index processor
+longdesc This package provides documentation for Mendex (Japanese index
+longdesc processor). The source code of the program is not included, it
+longdesc can be obtained from TeX Live subversion repository.
+containersize 492
+containerchecksum 2a4b24f7340194fa80160681fb038369e45c1e6783765860d3f57be944c4b79533febc82cdbc65f89b9ad99308cb4ecae4baad37205d0f375f244e5211a87df6
+doccontainersize 184476
+doccontainerchecksum e8c8e773169a262e9f19bb9ab704c05968440aa0ea5928e329c79851e9e23fec5f78a108188fd2512becf7d78ea1e9f388ffa80b0795bbb4ff8cb81893b4e869
+srccontainersize 644
+srccontainerchecksum b526ed09c503619dc128721e9ae439b89b5b143ae18d388fa387cb7407533e47f0bcaecb6967380f3ebc067f9e310f596f0302fca5438212734730d3ca7931cf
+catalogue-contact-repository https://github.com/texjporg/mendex-doc
+catalogue-ctan /info/mendex-doc
+catalogue-date 2019-03-05 05:43:38 +0100
+catalogue-license bsd3
+catalogue-topics index documentation

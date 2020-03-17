@@ -1,0 +1,35 @@
+name fontawesome
+category Package
+revision 48145
+shortdesc Font containing web-related icons
+longdesc The package offers access to the large number of web-related
+longdesc icons provided by the included font. The package requires the
+longdesc package, fontspec, if run with XeTeX or LuaTeX.
+execute addMap fontawesome.map
+containersize 276180
+containerchecksum e08643104006c9e14c40bb965b4401a8fe296f43e5f39b285cd19d5aa0ed33602cc0eb6ffcc996e1d6e5aaa57dd906903324626ee40facdcb3cedc5216a3deb6
+doccontainersize 232920
+doccontainerchecksum bbd18a60db734922ea006ebd00b0c9f90c34907a7b519a08bf007daf01cceaaf6db3b31c3dd8c76e1dac199d4f7c312116f6935b764afb62248b7dcfd92ac78c
+runfiles size=120
+ texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc
+ texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc
+ texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
+ texmf-dist/fonts/map/dvips/fontawesome/fontawesome.map
+ texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf
+ texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomeone.tfm
+ texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
+ texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesometwo.tfm
+ texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb
+ texmf-dist/tex/latex/fontawesome/fontawesome.sty
+ texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex
+ texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex
+ texmf-dist/tex/latex/fontawesome/fontawesomesymbols-xeluatex.tex
+ texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
+ texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+ texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
+catalogue-contact-repository https://github.com/xdanaux/fontawesome-latex
+catalogue-ctan /fonts/fontawesome
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-supp-symbol font-symbol font-otf font-type1
+catalogue-version 4.6.3.2

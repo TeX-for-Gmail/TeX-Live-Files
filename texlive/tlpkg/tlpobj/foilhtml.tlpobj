@@ -1,0 +1,23 @@
+name foilhtml
+category Package
+revision 21855
+shortdesc Interface between foiltex and LaTeX2HTML
+longdesc Provides integration between FoilTeX and LaTeX2HTML, adding
+longdesc sectioning commands and elements of logical formatting to
+longdesc FoilTeX and providing support for FoilTeX commands in
+longdesc LaTeX2HTML.
+containersize 3628
+containerchecksum 80b177c1eb224dbbd086d3b8a0b10b3f0b3434e977c8d71b34a58f76a5a73757148b4e7438a275f1be186df51e36342de132940ebdde9608e7c741664ea200d7
+doccontainersize 5048
+doccontainerchecksum a24c9f048f7e1cf187d40f6eb3370cf68f6de80e24f2f72b077d782be5dcd369cf3a7ce9bc7d0a269c285d04cbb543481cf439710037a26a7597164492b277fb
+srccontainersize 15700
+srccontainerchecksum a6fc97ea007ddddaef17cfb4bf86d75ee34a5525ee48b58b111188cf6a2e6269052c4f90d87ff3aa6157d1523fcca3f8f99471fef108cc8c1e69dffa7c6656ca
+runfiles size=4
+ texmf-dist/tex/latex/foilhtml/foilhtml.cfg
+ texmf-dist/tex/latex/foilhtml/foilhtml.sty
+catalogue-contact-home http://users.lk.net/~borisv/latex.html
+catalogue-ctan /macros/latex/contrib/foilhtml
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics presentation
+catalogue-version 1.2

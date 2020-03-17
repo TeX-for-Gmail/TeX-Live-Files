@@ -1,0 +1,19 @@
+name mceinleger
+category Package
+revision 15878
+shortdesc Creating covers for music cassettes
+longdesc A package for creating MC-covers on your own. It allows the
+longdesc creation of simple covers as well as covers with an additional
+longdesc page for more information about the cassette (table of contents
+longdesc e.g.). The rotating package is required.
+containersize 1092
+containerchecksum 0792d7a5289965b2379001a54177e1aed4a3356d8611e52ef77f5097bed1918dac324bdf5c618ca76d2925d11539b623cd9d4016ff0f4d1f9283137816ec145d
+doccontainersize 43372
+doccontainerchecksum 2dab78fd096927e3958d7270ddf15de9350ec30d1d000e7cf92be3b249ccf70e6faa1dce482a07995e65b4a4549693ce3b34d1a63bcc403ebe81f3d1887ecf90
+runfiles size=1
+ texmf-dist/tex/latex/mceinleger/mceinleger.sty
+catalogue-also cdcover
+catalogue-ctan /macros/latex/contrib/mceinleger
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics covers

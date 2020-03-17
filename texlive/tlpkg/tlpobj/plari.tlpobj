@@ -1,0 +1,21 @@
+name plari
+category Package
+revision 15878
+shortdesc Typesetting stageplay scripts
+longdesc Plari (the name comes from the Finnish usage for the working
+longdesc copy of a play) is a report-alike class, without section
+longdesc headings, and with paragraphs vertically separated rather than
+longdesc indented.
+containersize 2336
+containerchecksum 86e91b884be131df6b4da6441a9fbeb872e0f345eed49005ef74d58eb3ef8a2724da98cc810a51b58d45047d77545ac6b9512612b5946ba29d443dd14bbdb263
+doccontainersize 136708
+doccontainerchecksum befa46f8ef7c4c89e18339ececbd53341aa50d6bfc8927001d17395cba42db0f0ca3414619c746c78e4f5f4f9cb1f6db813defc7b89299f5b29e9c0866852c82
+srccontainersize 3588
+srccontainerchecksum e03c7b5fe7406c447509d4ae841c13c579c608564f45b83e1fddb066248b53e46f83a2760d745db1a5acae08dff493686d667f0328c9c3d467df6a92d8304a5a
+runfiles size=1
+ texmf-dist/tex/latex/plari/plari.cls
+catalogue-also sides
+catalogue-ctan /macros/latex/contrib/plari
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics drama-script

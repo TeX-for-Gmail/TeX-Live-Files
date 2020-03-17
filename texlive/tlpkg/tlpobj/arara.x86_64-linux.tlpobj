@@ -1,0 +1,8 @@
+name arara.x86_64-linux
+category Package
+revision 29036
+shortdesc x86_64-linux files of arara
+containersize 336
+containerchecksum ecdedb6fa0cbb2737f1c1bdb1833998f5d991b5b71d22bf41581d4365b7e89fff23e9a1d3eb7e32446ffe8462e332feea9c086a71096ea8cb1166379705a2db0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/arara

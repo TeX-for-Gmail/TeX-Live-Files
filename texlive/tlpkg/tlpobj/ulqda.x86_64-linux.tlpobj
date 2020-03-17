@@ -1,0 +1,8 @@
+name ulqda.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of ulqda
+containersize 336
+containerchecksum 163882707eab250aa4353c4f1e71f5dff137a356461f85c197b5d3384b81a57c6a14fd6c98a69371276325aa97091831b249b1d9659349e6994333177b019c5c
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ulqda

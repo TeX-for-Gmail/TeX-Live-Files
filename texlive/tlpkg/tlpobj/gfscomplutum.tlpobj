@@ -1,0 +1,35 @@
+name gfscomplutum
+category Package
+revision 19469
+shortdesc A Greek font with a long history
+longdesc GFS Complutum derives, via a long development, from a
+longdesc minuscule-only font cut in the 16th century. An unsatisfactory
+longdesc set of majuscules were added in the early 20th century, but its
+longdesc author died before he could complete the revival of the font.
+longdesc The Greek Font Society has released this version, which has a
+longdesc new set of majuscules.
+execute addMap gfscomplutum.map
+containersize 123244
+containerchecksum 4013ef92910c3c1145708afa5a9ff13cfb0aae05e6b225c56c98090ea7cd223799e73212982312a14cf504a355dddce08e3364df8c046dfe462d07429cfa617d
+doccontainersize 58076
+doccontainerchecksum 5854b000522120f6a1b065300943fd8aebcd75f57da15d667616a3706d35ffa35cac0422712d0b008dc2abf2b9deceb0248fc044be68f893f6ad0eefcd50b316
+runfiles size=58
+ texmf-dist/fonts/afm/public/gfscomplutum/GFSComplutum-Regular.afm
+ texmf-dist/fonts/enc/dvips/gfscomplutum/gpcomplutum.enc
+ texmf-dist/fonts/map/dvips/gfscomplutum/gfscomplutum.map
+ texmf-dist/fonts/opentype/public/gfscomplutum/GFSPolyglot.otf
+ texmf-dist/fonts/tfm/public/gfscomplutum/gcomplutum8a.tfm
+ texmf-dist/fonts/tfm/public/gfscomplutum/gcomplutum8r.tfm
+ texmf-dist/fonts/tfm/public/gfscomplutum/gcomplutumo8a.tfm
+ texmf-dist/fonts/tfm/public/gfscomplutum/gcomplutumo8r.tfm
+ texmf-dist/fonts/type1/public/gfscomplutum/GFSComplutum-Regular.pfb
+ texmf-dist/fonts/vf/public/gfscomplutum/gcomplutum8a.vf
+ texmf-dist/fonts/vf/public/gfscomplutum/gcomplutumo8a.vf
+ texmf-dist/tex/latex/gfscomplutum/gfscomplutum.sty
+ texmf-dist/tex/latex/gfscomplutum/lgrcomplutum.fd
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /fonts/greek/gfs/gfscomplutum
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license ofl
+catalogue-topics font font-type1 font-otf font-greek
+catalogue-version 1.0

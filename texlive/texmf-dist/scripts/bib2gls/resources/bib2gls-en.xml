@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>English language file for bib2gls</comment>
+
+<entry key="about.version">{0} version {1} ({2})</entry>
+<entry key="about.license">License GPLv3+: GNU GPL version 3 or later &lt;http://gnu.org/licenses/gpl.html&gt;
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.</entry>
+
+<entry key="syntax.usage">Usage: {0} [&lt;option&gt;]+ &lt;aux file&gt;</entry>
+<entry key="syntax.info">Helper application for the glossaries-extra package.
+See the manual for further details.</entry>
+<entry key="syntax.use.help">(Use --help or -h for help.)</entry>
+<entry key="syntax.options">Options:</entry>
+<entry key="syntax.version">{0} (or {1})	Display version and exit.</entry>
+<entry key="syntax.help">{0} (or {1})		Display this help message and exit.</entry>
+<entry key="syntax.debug">{0} [&lt;n&gt;]		Switch on debug mode (optionally with the given level).</entry>
+<entry key="syntax.nodebug">{0}		Switch off debug mode. (Default.)</entry>
+<entry key="syntax.nodebug">{0}		Switch off debug mode. (Default.)
+			Synonym: {1}</entry>
+<entry key="syntax.verbose">{0}		Switch on verbose mode.</entry>
+<entry key="syntax.noverbose">{0}		Switch off verbose mode. (Default.)
+			Some messages are displayed.
+			Synonym: {1}</entry>
+<entry key="syntax.silent">{0}		Only display error messages.</entry>
+<entry key="syntax.locale">{0} &lt;lang&gt; (or {1} &lt;lang&gt;)
+			Use language resource file for &lt;lang&gt;.
+			Also sets default document language.</entry>
+<entry key="syntax.log">{0} &lt;file&gt; (or {1} &lt;file&gt;)
+			Set transcript file name.</entry>
+<entry key="syntax.dir">{0} &lt;directory&gt; (or {1} &lt;directory&gt;)
+			Files relative to &lt;directory&gt;.
+			(This doesn''t change the current working
+			directory.)</entry>
+<entry key="syntax.interpret">{0}		Switch on interpret mode (default).</entry>
+<entry key="syntax.no.interpret">{0}		Switch off interpret mode.</entry>
+<entry key="syntax.break.space">{0}		Interpret tilde character as normal space.</entry>
+<entry key="syntax.no.break.space">{0}	Interpret tilde character as a non-breaking space 
+			(default).</entry>
+<entry key="syntax.cite.as.record">{0}	Treat \citation as an ignored record.</entry>
+<entry key="syntax.no.cite.as.record">{0}	Don''t treat \citation as an ignored record (default).</entry>
+<entry key="syntax.merge.wrglossary.records">{0}
+			Merge wrglossary counter records (default).</entry>
+<entry key="syntax.no.merge.wrglossary.records">{0}
+			Don''t merge wrglossary counter records.</entry>
+<entry key="syntax.force.cross.resource.refs">{0} (or {1})
+			Force cross-resource referencing mode on.</entry>
+<entry key="syntax.no.force.cross.resource.refs">{0}
+			Don''t force cross-resource referencing mode on 
+			(default).</entry>
+
+<entry key="syntax.merge.nameref.on">{0} &lt;rule&gt;
+			Rule for merging locations with record=nameref
+			(requires glossaries-extra version 1.37+).
+			&lt;rule&gt; may be one of: ''hcounter'', ''href'', ''title''
+			or ''location''.</entry>
+
+<entry key="syntax.support.unicode.script">{0}
+			Text superscripts or subscripts will use Unicode 
+			superscript or subscript characters if possible
+			(default).</entry>
+<entry key="syntax.no.support.unicode.script">{0}
+			Text superscripts or subscripts won''t use Unicode
+			superscript or subscript characters.</entry>
+
+
+<entry key="syntax.mfirstuc">{0} &lt;fields&gt;|"all" (or {1} &lt;fields&gt;|"all")
+			Insert an empty group if fields start 
+			with certain problematic commands
+			to protect against case-changing commands
+			like \Gls.
+
+			The default is to do this for all fields.
+			To do this for only a subset of fields,
+			set &lt;fields&gt; to a comma-separated
+			list of fields (e.g. 'name,short,long').
+			The keyword 'all' indicates all fields.</entry>
+<entry key="syntax.no.mfirstuc">{0}
+			Switch off the auto-insertion of an empty
+			group for all fields.</entry>
+
+<entry key="syntax.no.math.mfirstuc">{0}
+			Switch off the auto-insertion of an empty
+			group for math-shift ($).</entry>
+
+<entry key="syntax.math.mfirstuc">{0}
+			Switch on the auto-insertion of an empty
+			group for math-shift ($).
+			This option will be overriden by 
+			{1}</entry>
+
+
+<entry key="syntax.check.shortcuts">{0} &lt;option&gt;
+			Check for the shortcut commands when 
+			searching for dependencies.
+			Permitted values of &lt;option&gt;:
+			''ac'', ''acronyms'' (or ''acro''),
+			''abbreviations'' (or ''abbr''),
+			''all'' (or ''true''),
+			''none'' (or ''false'')</entry>
+<entry key="syntax.check.nested">{0} &lt;list&gt;|"none"
+			Check each field listed in &lt;list&gt;
+			for potentially problematic nested link 
+			text. (Default list: name, text, plural,
+			first, firstplural, short, shortplural,
+			long, longplural, symbol).
+
+			If "none", disable check.</entry>
+<entry key="syntax.nocheck.nested">{0}
+			Don''t check for potentially problematic
+			nested link text. (Equivalent to
+			{1} "none")</entry>
+<entry key="syntax.format.map">{0} &lt;key&gt;:&lt;value&gt;[,&lt;key&gt;:&lt;value&gt;]* (or {1}  &lt;key&gt;:&lt;value&gt;[,&lt;key&gt;:&lt;value&gt;]*)
+			Set location format mappings.</entry>
+<entry key="syntax.group">{0} or {1}
+			Add ''group'' field to entries.</entry>
+<entry key="syntax.no.group">{0}
+			Don''t add ''group'' field to entries (default).</entry>
+<entry key="syntax.record.count">{0} or {1}
+			Add record count fields to entries.</entry>
+<entry key="syntax.no.record.count">{0}
+			Don''t add record count fields to entries.
+			(Automatically implements {1})</entry>
+<entry key="syntax.record.count.unit">{0} or {1}
+			Add unit record count fields to entries.
+			(Automatically implements {2})</entry>
+<entry key="syntax.no.record.count.unit">{0}
+			Don''t add unit record count fields to entries.</entry>
+<entry key="syntax.trim.fields">{0}
+			Trim leading and trailing spaces from fields.</entry>
+<entry key="syntax.no.trim.fields">{0}
+			Don''t trim leading and trailing spaces from fields 
+			(default).</entry>
+<entry key="syntax.expand.fields">{0}
+			Don''t write \glsnoexpandfields to the .glstex file.</entry>
+<entry key="syntax.no.expand.fields">{0}
+			Write \glsnoexpandfields to the .glstex file (default).</entry>
+<entry key="syntax.tex.encoding">{0} &lt;name&gt;
+			Set the character encoding for the output files.</entry>
+<entry key="syntax.packages">{0} &lt;list&gt; or {1} &lt;list&gt;
+			Instruct interpreter to assume the listed 
+			packages have been used in the document.
+			(The packages must be known by the interpreter.)</entry>
+<entry key="syntax.ignore.packages">{0} &lt;list&gt; or {1} &lt;list&gt;
+			Don''t check the log file for the listed
+			packages.</entry>
+<entry key="syntax.custom.packages">{0} &lt;list&gt; 
+			Instruct the interpreter to parse
+			the listed packages.</entry>
+<entry key="syntax.list.known.packages">{0}
+			List the packages known to the interpreter.</entry>
+
+<entry key="message.reading">Reading {0}</entry>
+<entry key="message.writing">Writing {0}</entry>
+<entry key="message.no.read">No read access for {0}</entry>
+<entry key="message.no.write">No write access for {0}</entry>
+<entry key="message.running">Running {0}</entry>
+<entry key="message.processing">Processing {0}</entry>
+<entry key="message.copying">Copying {0} -&gt; {1}</entry>
+<entry key="message.moving">Moving {0} -&gt; {1}</entry>
+<entry key="message.crossref.found">Entry {0}: found cross-reference ({1}): {2}</entry>
+<entry key="message.crossref.by">Entry {0} cross-referenced by {1}</entry>
+<entry key="message.checking.crossrefs">Checking cross-references for: {0}</entry>
+<entry key="message.custom.dep.found">Entry {0}: found custom ''{1}'' dependency ({2}): {3}</entry>
+<entry key="message.field.not.set">Field {0} not set.</entry>
+<entry key="message.dual.dep">Dual found: {0} (primary {1})</entry>
+<entry key="message.added.alias.dep">Adding alias {0} as dependency for {1}</entry>
+<entry key="message.added.dep">Added dependent: {0}</entry>
+<entry key="message.added.parent">Adding parent: {0}</entry>
+<entry key="message.selecting.all">Selecting all entries.</entry>
+<entry key="message.selecting.entry.records">Selecting entry {0} (has one or more records).</entry>
+<entry key="message.selecting.entry.record.match">Selecting entry {0} (matches record {1}).</entry>
+<entry key="message.selecting.entry.seerecord.match">Selecting entry {0} (matches cross-reference record {1}).</entry>
+<entry key="message.selecting.entry.suprecord.match">Selecting entry {0} (matches supplemental record {1}).</entry>
+<entry key="message.selecting.entry.crossresource.dep">Selecting entry {0} (cross-resource dependency).</entry>
+<entry key="message.selecting.entry.dualrecords">Selecting entry {0} (dual {1} has one or more records).</entry>
+<entry key="message.selecting.entry.dep">Selecting entry {0} (is dependency).</entry>
+<entry key="message.selecting.entry">Selecting entry {0}.</entry>
+<entry key="message.datetime.field.check">Checking entry {0} field {1} for date/time data (date:{2}, time:{3}).</entry>
+<entry key="message.field.notset">Field {0} not set for entry {1}</entry>
+<entry key="message.selection.mode">Selection mode: {0}</entry>
+<entry key="message.ignore.fields">Ignoring fields:</entry>
+<entry key="message.sort.mode">Sort mode: {0}</entry>
+<entry key="message.sort.field">Sort field: {0}</entry>
+<entry key="message.sort.date.locale">Date/time sort locale: {0}</entry>
+<entry key="message.sort.date.format">Date/time sort format: {0}</entry>
+<entry key="message.sort.numeric.locale">Numeric sort locale: {0}</entry>
+<entry key="message.sort.numeric.format">Numeric sort format: {0}</entry>
+<entry key="message.no.sort.required">No sorting required.</entry>
+<entry key="message.sort.labels">Label list sort method ''{0}'' on {1,choice,1#field|1&lt;fields}: {2}</entry>
+<entry key="message.label.prefix">Label prefix: {0}</entry>
+<entry key="message.dual.label.prefix">Dual label prefix: {0}</entry>
+<entry key="message.tertiary.label.prefix">Tertiary label prefix: {0}</entry>
+<entry key="message.dual.sort.mode">Dual sort mode: {0}</entry>
+<entry key="message.dual.sort.field">Dual sort field: {0}</entry>
+<entry key="message.dual.sort.date.locale">Dual date/time sort locale: {0}</entry>
+<entry key="message.dual.sort.date.format">Dual date/time sort format: {0}</entry>
+<entry key="message.dual.sort.numeric.locale">Dual numeric sort locale: {0}</entry>
+<entry key="message.dual.sort.numeric.format">Dual numeric sort format: {0}</entry>
+<entry key="message.dual.entry.mappings">Dual entry mappings:</entry>
+<entry key="message.dual.symbol.mappings">Dual symbol mappings:</entry>
+<entry key="message.dual.abbreviation.mappings">Dual abbreviation mappings:</entry>
+<entry key="message.dual.abbreviationentry.mappings">Dual abbreviation-entry mappings:</entry>
+<entry key="message.dual.indexentry.mappings">Dual index-entry mappings:</entry>
+<entry key="message.dual.indexsymbol.mappings">Dual index-symbol mappings:</entry>
+<entry key="message.dual.indexabbrv.mappings">Dual index-abbreviation mappings:</entry>
+<entry key="message.process.result">Processed returned: {0}</entry>
+<entry key="message.truncated">Truncating according to limit={0}.</entry>
+
+<entry key="message.log.file">Transcript written to {0}.</entry>
+<entry key="message.written">{0} written to {1}.</entry>
+<entry key="message.written.total">{0} written in total.</entry>
+
+<entry key="message.0.entry">No entries</entry>
+<entry key="message.1.entry">1 entry</entry>
+<entry key="message.2.entry">{0,number} entries</entry>
+
+<entry key="message.selected">{0} selected.</entry>
+<entry key="message.dual.selected">{0} dual selected.</entry>
+
+<entry key="message.1.sty">1 recognised package:</entry>
+<entry key="message.2.sty">{0,number} recognised packages:</entry>
+
+<entry key="message.initialising.resource">Initialising resource {0}.</entry>
+<entry key="message.parsing.resource.bib">Parsing bib files for resource {0}.</entry>
+<entry key="message.processing.resource">Processing resource {0}.</entry>
+<entry key="message.processing.master">Processing master {0}.</entry>
+<entry key="message.selecting.entries">Selecting entries for resource {0}.</entry>
+<entry key="message.cross-resource.dep.allowed">Cross-resource references allowed.</entry>
+<entry key="message.cross-resource.dep.notallowed">Cross-resource references disabled.
+(Use {0} to override if required.)</entry>
+<entry key="message.cross-resource.notallowed">Cross-resource references can''t be supported for resource set {0}.</entry>
+<entry key="message.checking.read">Checking read access for {0}</entry>
+<entry key="message.checking.write">Checking write access for {0}</entry>
+<entry key="message.setting.sort">Initialising collation keys (strength={0}, decomposition={1})</entry>
+<entry key="message.non_unique_sort">Sort value ''{0}'' (entry ''{1}'') not unique for the entry''s hierarchical level.</entry>
+<entry key="message.sort_suffix">Appending suffix ''{0}'' to the sort value ''{1}'' for entry ''{2}''.</entry>
+<entry key="message.no.fallback">Entry type ''{0}'' has no fallback for field: {1}</entry>
+<entry key="message.inconsistent.range">Inconsistent location format {0}
+with range started by {1}</entry>
+<entry key="message.merge.range">Merging location {0}
+into explicit range {1}</entry>
+<entry key="message.uc.protecting">Inserting empty group in front of {0} to protect it from mfirstuc.</entry>
+<entry key="message.discarding.entry">Discarding entry {0}</entry>
+<entry key="message.pattern.info">Pattern: {0}. Field: {1}. Value: {2}. Matches: {3}.</entry>
+<entry key="message.calc.text.width">Calculating width of name field for entry ''{0}''</entry>
+<entry key="message.calc.text.width.result">Calculated width of ''{0}'': {1,number}</entry>
+<entry key="message.parsing.code">Parsing code block:</entry>
+<entry key="message.unknown.tex.charset">Unable to detect character encoding for TeX file.
+Defaulting to: {0}.
+(Use {1} if this is incorrect.)</entry>
+<entry key="message.tex.charset">TeX character encoding: {0}</entry>
+<entry key="message.charset">Encoding: {0}</entry>
+<entry key="message.detected.charset">Detected encoding: {0}</entry>
+<entry key="message.default.charset">Default encoding: {0}</entry>
+<entry key="message.null">not set</entry>
+<entry key="message.detected.fontenc">Detected font encoding: {0}</entry>
+<entry key="message.missing.id">id missing</entry>
+<entry key="message.default.locale">Default document locale: {0} {1}</entry>
+<entry key="message.adding.record">Adding record {0} to entry {1}''s record list.</entry>
+<entry key="message.adding.supplemental.record">Adding supplemental record {0} to entry {1}''s record list.</entry>
+<entry key="message.adding.counter.record">Adding record {0} to entry {1}''s {2} record list.</entry>
+<entry key="message.copying.record">Copying record {0} from entry {1} to entry {2}.</entry>
+<entry key="message.ignored.record">Ignoring record {0}.</entry>
+<entry key="message.clearing.records">Clearing entry {0}''s record list.</entry>
+<entry key="message.normalizing">Normalising {0} to {1}.</entry>
+<entry key="message.norm.distinct">Normalized {0} distinct from {1}.</entry>
+<entry key="message.no.norm">Can''t normalize {0}.</entry>
+<entry key="message.collator.rules">Collator rules: {0}.</entry>
+<entry key="message.no.collation.element">No collation element for: {0}.</entry>
+<entry key="message.break.points">Break points: {0}.</entry>
+<entry key="message.field.alias.check">Checking field aliases for {0}.</entry>
+<entry key="message.clearing.entry.aliases">Clearing entry type aliases.</entry>
+<entry key="message.setting.entry.aliases">Setting entry type aliases.</entry>
+<entry key="message.removing.missing.parent">Stripping missing parent ''{0}'' from entry {1}</entry>
+<entry key="message.missing.sort.fallback">Entry ''{0}'' missing sort field ''{1}''. Falling back on field ''{2}''.</entry>
+<entry key="message.list.known.packages.auto">Automatic support for: </entry>
+<entry key="message.list.known.packages.extra">Support available for: </entry>
+<entry key="message.list.known.packages.info">Support may be quite limited in some cases.</entry>
+<entry key="message.created.missing.parent">Created missing parent ''{0}'' for entry ''{1}''</entry>
+<entry key="message.found_entry_in_resource">Found entry ''{0}'' in resource set: {1}</entry>
+
+<entry key="tag.page">Page</entry>
+<entry key="tag.pages">Pages</entry>
+<entry key="tag.passim">passim</entry>
+
+<!-- Sentence terminators for use with check-end-punctuation.
+     Only characters that have the Unicode category
+     "Punctuation, Other" are checked.
+     -->
+<entry key="sentence.terminators">.?!</entry>
+
+<!--
+     Letter groups usually only have the first character converted to upper case
+     (for example, the digraph 'dz' is converted to 'Dz'). This doesn't apply
+     to the Dutch digraph 'ij', which should be converted to 'IJ'. Other 
+     exceptions may be added as appropriate.
+  -->
+<entry key="grouptitle.case.ij">IJ</entry>
+
+<entry key="warning.title">Warning: {0}</entry>
+<entry key="warning.substituting">Substituting {0} with {1}</entry>
+<entry key="warning.removing">Removing {0}</entry>
+<entry key="warning.cant.parse.file">Can''t parse {0}
+{1}</entry>
+<entry key="warning.ignoring.unknown.entry.type">Ignoring unknown entry type: {0}</entry>
+<entry key="warning.ignoring.unknown.encoding">Ignoring unknown encoding: {0}</entry>
+<entry key="warning.ignoring.unknown.field">Ignoring unknown field: {0}</entry>
+<entry key="warning.entry.already.defined">Entry {0} is being defined in {1} but it has already been defined in a previous .glstex file.</entry>
+<entry key="warning.can.find.arg">Can''t detect argument for: \{0}</entry>
+<entry key="warning.no.default.sort">Can''t determine sort value for: {0}
+(Using sort field ''{1}''. Entry type: {2}.)
+Falling back on ID.</entry>
+<entry key="warning.cant.parse.sort">Can''t parse sort value ''{0}'' for: {1}
+</entry>
+<entry key="warning.cant.parse.pattern.sort">Can''t parse sort value ''{0}'' for ''{1}'' (pattern: ''{2}'')
+</entry>
+<entry key="warning.cant.parse.datetime.pattern">Can''t parse {0} value ''{1}'' (pattern: ''{2}'')</entry>
+<entry key="warning.deprecated.type">Entry type ''{0}'' deprecated. Use ''{1}'' instead.</entry>
+<entry key="warning.deprecated.option">Option ''{0}'' deprecated. Use ''{1}'' instead.</entry>
+<entry key="warning.deprecated.cs">Command ''{0}'' deprecated. Use ''{1}'' instead.</entry>
+<entry key="warning.missing.field">Entry ''{0}'' missing required field: {1}</entry>
+<entry key="warning.potential.nested.link">Entry ''{0}'' has potentially nested link text in field: {1}
+Consider using \glsps'{'{3}'}' or \glspt'{'{3}'}' instead of {2}'{'{3}'}'</entry>
+<entry key="warning.dir.no.write">Directory not writable: {0}
+Using TEXMFOUTPUT instead: {1}</entry>
+<entry key="warning.conflicting.range.format">Entry location conflict for formats: {0} and {1}
+Replacing {1} with {2}</entry>
+<entry key="warning.discarding.conflicting.record">Entry location conflict for formats: {0} and {1}
+Discarding: {2}
+Conflicts with: {3}</entry>
+<entry key="warning.discarding.conflicting.record.using.map">Entry location conflict.
+Obeying requested mapping {0} -&gt; {1}
+Discarding: {2}
+Keeping: {3}</entry>
+<entry key="warning.discarding.conflicting.record.using.map2">Entry location conflict.
+Obeying requested mapping {0} -&gt; {1} and {2} -&gt; {3} 
+Discarding: {4}
+Discarding: {5}
+Replacement: {6}</entry>
+<entry key="warning.cant.find.parent">Parent ''{0}'' not found for entry {1}</entry>
+<entry key="warning.cant.find.parent.name">Can''t determine parent name for entry {0}</entry>
+<entry key="warning.field.clash">Field clash: {0} and {1}
+Ignoring {1}</entry>
+<entry key="warning.field.unsupported">Unsupported field: {0}
+(Update glossaries-extra.sty to at least version {1})</entry>
+<entry key="warning.option.clash">Option clash: {0} and {1}
+Ignoring {1}</entry>
+<entry key="warning.option.pair.required">Resource option {0} requires option {1}</entry>
+<entry key="warning.group.option.required">Resource option {0} requires application switch {1}</entry>
+<entry key="warning.no_group_field">You have the --group switch on but the document hasn''t defined the ''group'' key. (Have you forgotten to use the ''record'' package option?)</entry>
+<entry key="warning.parent.missing">Parent {0} does not occur before entry {1} so removing relationship.</entry>
+<entry key="warning.unknown.field.pattern">Ignoring pattern for unknown field: {0}</entry>
+<entry key="warning.notbasiclatin.id">Problematic entry label: {0}
+You document doesn''t seem to have used fontspec which 
+suggests it''s not using XeLaTeX or LuaLaTeX, so you need 
+to restrict your labels to the Basic Latin set (or
+switch TeX engines).</entry>
+<entry key="warning.spchars.id">Problematic entry label: {0}
+Contains one or more special characters.</entry>
+<entry key="warning.alias.not.found">Can''t find target {0} for aliased entry {1}.
+Aliased entries must be in the same resource set as their target entries with option {2}={3}.</entry>
+<entry key="warning.deprecated">''{0}'' deprecated. Use ''{1}'' instead.</entry>
+<entry key="warning.identical">Identical sort values for ''{0}'' and ''{1}''</entry>
+<entry key="warning.identical.id">Falling back on ID</entry>
+<entry key="warning.identical.original_id">Falling back on original ID</entry>
+<entry key="warning.identical.none">No fallback</entry>
+<entry key="warning.identical.field">Falling back on ''{0}'' field (''{1}'' &lt;=&gt; ''{2}'' = {3})</entry>
+<entry key="warning.unknown.widest.fortype">Can''t determine widest level {0} entry for glossary type ''{1}''. Using fallback method.</entry>
+<entry key="warning.unknown.widest">Can''t determine widest level {0} entry for unknown glossary type. Using fallback method.</entry>
+<entry key="warning.invalid.locale">Unrecognised locale: {0}. Using {1} instead.</entry>
+<entry key="warning.interpreter.needed.fallback">Interpreter needed to obtain fallback contents for field {0} (entry {1})</entry>
+<entry key="warning.multi_supp_unsupported">Multiple supplemental locations not supported with glossaries-extra {1}. Restricting selection to just {0}. Update to at least glossaries-extra version {2} to support multiple supplementary sources.</entry>
+<entry key="warning.unknown_entry">Unknown entry: {0}</entry>
+<entry key="warning.unknown_entry_in_current_resource">Unknown entry ''{0}'' in current resource set: {1}</entry>
+
+<entry key="error.title">Error: {0}</entry>
+<entry key="error.alias.map.forbidden">The 'alias' field can't be mapped.</entry>
+<entry key="error.no.sty.version">Unable to read version date for package {0}</entry>
+<entry key="error.sty.too.old">Package {0} version {1} is too old.
+Minimum version {2} required.</entry>
+<entry key="error.unknown.tex.charset">Unknown TeX charset: {0}
+Defaulting to {1}. Use {2} to set another encoding.</entry>
+<entry key="error.missing.aux.cs.require_cs">Missing \{0} in aux file. (Have you used \{1}?)</entry>
+<entry key="error.missing.aux.cs.require_cs_or">Missing \{0} in aux file. (Have you used \{1} or \{2}?)</entry>
+<entry key="error.missing.records">No records found in aux file.
+Have you used the glossaries-extra.sty ''record'' option?
+Have you indexed your entries using commands like \gls?</entry>
+<entry key="error.missing.aux.new.cs">Missing \{0} in aux file (make sure glossaries-extra.sty is at least {1}).</entry>
+<entry key="error.only.one.aux">Only one aux file permitted.</entry>
+<entry key="error.no.aux">Aux file not supplied. Syntax: bib2gls [&lt;options&gt;] &lt;aux file&gt;</entry>
+<entry key="error.file.not.found">File not found: {0}</entry>
+<entry key="error.missing.src">File not found: {0}
+(Did you forget to use the ''src'' key?)</entry>
+<entry key="error.dir.not.found">Directory not found: {0}</entry>
+<entry key="error.not.dir">Not a directory: {0}</entry>
+<entry key="error.cant.open.log">Can''t open log file: {0}</entry>
+<entry key="error.invalid.id">Invalid or missing id
+{0}</entry>
+<entry key="error.invalid.sort.value">Invalid sort method ''{0}'' given in option: {1}</entry>
+<entry key="error.invalid.opt.value">Invalid ''{0}'' value: {1}</entry>
+<entry key="error.invalid.opt.int.value">Invalid ''{0}'' value: {1} (number required)</entry>
+<entry key="error.invalid.opt.minint.value">Invalid ''{0}'' value: {1} (can''t be less than {2,number})</entry>
+<entry key="error.invalid.choice.value">Invalid ''{0}'' value: {1} (allowed values: {2})</entry>
+<entry key="error.invalid.opt.list.size">Invalid value for: {0}
+Value must be a list of size {2,number}</entry>
+<entry key="error.invalid.opt.keylist.value">Invalid ''{0}'' value ''{1}'' (within option ''{2}'')</entry>
+<entry key="error.invalid.opt.keylist.key">Invalid key ''{0}'' within option ''{1}''</entry>
+<entry key="error.invalid.opt.keylist.pattern">Invalid pattern ''{1}'' in {0}='{'{1}'}' (within option ''{2}'')</entry>
+<entry key="error.missing.value">Missing value for: {0}</entry>
+<entry key="error.option.clash">Option clash: {0} and {1}</entry>
+<entry key="error.invalid.dual.map">Invalid mapping: {0}={1}
+The size of the first list ({2,number}) is not the same as the size of 
+the second list ({3,number}).</entry>
+<entry key="error.invalid.field">Invalid field ''{0}'' given in option ''{1}''</entry>
+<entry key="error.invalid.entry.type">Invalid entry type ''{0}'' provided in option ''{1}''</entry>
+<entry key="error.invalid.substitution">Invalid substitution ''{0}'' provided in option ''{1}'' (required syntax: '{'regex'}{'replacement'}')</entry>
+<entry key="error.openin.forbidden">Read access forbidden for file: {0}</entry>
+<entry key="error.openout.forbidden">Write access forbidden for file: {0}</entry>
+<entry key="error.forbidden.ext">Write access forbidden for extension: {0}</entry>
+<entry key="error.cant.open.process.stream">Unable to open input stream from process: {0}</entry>
+<entry key="error.cyclic.hierarchy">Cyclical hierarchy for entry: {0}</entry>
+<entry key="error.child.parent">Entry can''t be its own parent: {0}</entry>
+<entry key="error.duplicate.resource">Duplicate resource: {0}</entry>
+<entry key="error.nested.range">Nested location range: {0}
+Outer range started with: {1}</entry>
+<entry key="error.range.missing.start">Unmatched end location range {0}</entry>
+<entry key="error.inconsistent.range">Inconsistent location format {0}
+with range started by {1}</entry>
+<entry key="error.range.missing.end">Unmatched start location range {0}</entry>
+<entry key="error.bib.contents.parse">Syntax error parsing @{0}:
+{1}
+</entry>
+<entry key="error.bib.contents.parse.before">Syntax error parsing @{0}:
+{1}
+Error occurred before: {2}
+</entry>
+<entry key="error.bib.contents.parse.data">Syntax error parsing @{0} ({1}):
+{2}
+</entry>
+<entry key="error.bib.contents.parse.data.before">Syntax error parsing @{0} ({1}):
+{2}
+Error occurred before: {3}
+</entry>
+<entry key="error.invalid.sort.rule">Invalid syntax in sort rule:
+{0}</entry>
+<entry key="error.field.alias.trail">''field-aliases'' can''t contain both ''{0}={1}'' and ''{2}={0}'' (trails not permitted)</entry>
+<entry key="error.field.alias.identity">''field-aliases'' can''t contain identity mapping ''{0}={0}''</entry>
+<entry key="error.cyclic.sameas.type.category">Cyclic reference category='{'same as type'}' and type='{'same as category'}'</entry>
+<entry key="error.unsupported.package">Package ''{0}'' doesn't have in-built support.
+Use {1} {0} to allow the interpreter to parse {0}.sty if the package isn''t too complicated.</entry>
+<entry key="error.supported.package">Package ''{0}'' has in-built support.
+Use {1} {0} instead.</entry>
+<entry key="error.create.missing.parent.failed">Attempt to create missing parent ''{0}'' for entry ''{1}'' caused a problem:
+{2}</entry>
+
+<!--
+    The following messages are used by convertgls2bib
+-->
+
+<entry key="gls2bib.override.newdualentry">Overriding default definition of \newdualentry with custom 
+definition. (Change \newcommand to \providecommand if you want 
+\newdualentry[options]'{'label'}{'short'}{'long'}{'description'}'
+converted to @dualabbreviationentry.)</entry>
+
+<!--
+     The following messages are used by various parts of
+     texparserlib.jar only a few of them may actually be generated by 
+     bib2gls which is just using that library to parse the aux and bib files.
+ -->
+
+<entry key="error.line">Line {0}: {1}.</entry>
+<entry key="error.line_with_code">Line {0}: {1} (error code {2}).</entry>
+<entry key="error.unknown">Unknown error</entry>
+<entry key="error.exec_failed">Failed to execute: {0}</entry>
+<entry key="error.app_failed">{0} failed with exit code {1}</entry>
+<entry key="error.interrupted">Process interrupted</entry>
+<entry key="error.syntax">Syntax error: {0}</entry>
+<entry key="error.syntax.unknown_option">Unknown option: {0}</entry>
+<entry key="error.syntax.only_one">Only one {0} permitted</entry>
+<entry key="error.syntax.only_one_input">Only one input file permitted</entry>
+<entry key="error.syntax.missing_filename">Filename expected after {0}</entry>
+<entry key="error.syntax.missing_input">File name expected after {0}</entry>
+<entry key="error.syntax.batch.missing_in">Input file required for batch mode</entry>
+<entry key="error.syntax.batch.missing_out">Output directory required for batch mode</entry>
+<entry key="error.syntax.batch.unknown_format">Unknown format ''{0}''</entry>
+<entry key="error.exists">{0} already exists</entry>
+
+<entry key="tex.error.bad_param">Parameter digit 1 to 9 expected. Found ''{0}''</entry>
+<entry key="tex.error.no_eg">Missing end group</entry>
+<entry key="tex.error.par_before_eg">Paragraph break found before end group</entry>
+<entry key="tex.error.unexpected_eg">Unexpected end group found</entry>
+<entry key="tex.error.missing_endmath">Missing end math</entry>
+<entry key="tex.error.dollar2_ended_with_dollar">$$ ended with $</entry>
+<entry key="tex.error.not_found">Expected ''{0}'' but not found</entry>
+<entry key="tex.error.missing_param">Argument expected for ''{0}'' but not found</entry>
+<entry key="tex.error.empty_stack">Argument expected but not found (empty stack)</entry>
+<entry key="tex.error.not_math_mode">{0} is only permitted in math mode</entry>
+<entry key="tex.error.invalid_accent">{0} is not a recognised accent </entry>
+<entry key="tex.error.ambiguous_midcs">Ambiguous use of {0}</entry>
+<entry key="tex.error.missing_closing">Missing closing {0}</entry>
+<entry key="tex.error.dimen_expected">Dimension expected</entry>
+<entry key="tex.error.missing_unit">Missing unit</entry>
+<entry key="tex.error.expected">Expected {0}</entry>
+<entry key="tex.error.undefined">Undefined command \{0}</entry>
+<entry key="tex.error.undefined_char">Undefined active character ''{0}''</entry>
+<entry key="tex.error.cs_expected">Control sequence expected (found ''{0}'')</entry>
+<entry key="tex.error.number_expected">Number expected (found ''{0}'')</entry>
+<entry key="tex.error.register_undef">Unknown register ''{0}''</entry>
+<entry key="tex.error.syntax">Invalid syntax for {0}</entry>
+<entry key="tex.error.extra">Extra {0}</entry>
+<entry key="tex.error.extra_or_forgotten">Extra {0}, or forgotten {1}</entry>
+<entry key="tex.error.double_subscript">Double subscript _{0}_ (replaced with _{0}'{}'_)</entry>
+<entry key="tex.error.double_superscript">Double superscript ^{0}^ (replaced with ^{0}'{}'^)</entry>
+<entry key="tex.error.illegal_align">Illegal alignment {0}</entry>
+<entry key="tex.error.misplaced_omit">Misplaced \omit</entry>
+<entry key="tex.error.improper_alphabetic_constant">Improper alphabetic constant {0}</entry>
+<entry key="tex.error.register_expected">Register expected</entry>
+<entry key="tex.error.register_expected_but_found">Register expected (found ''{0}'')</entry>
+<entry key="tex.error.numeric register_expected">Numeric register expected</entry>
+<entry key="tex.error.register_not_numeric">Register ''{0}'' not numeric</entry>
+<entry key="tex.error.register_not_token">Register ''{0}'' not a token register</entry>
+<entry key="tex.error.generic">{0}</entry>
+<entry key="tex.error.file.not.found">File ''{0}'' not found.</entry>
+<entry key="tex.error.unexpandable">Can''t expand ''{0}''</entry>
+
+
+
+<entry key="latex.error.no_alignment">No alignment specifiers found</entry>
+<entry key="latex.error.undefined_counter">No counter ''{0}'' defined</entry>
+<entry key="latex.error.multi_begin_doc">Only one \begin'{document}' permitted</entry>
+<entry key="latex.error.no_begin_doc">No \begin'{document}' found</entry>
+<entry key="latex.error.multi_cls">Only one \documentclass permitted</entry>
+<entry key="latex.error.missing_key">Missing ''{0}'' key</entry>
+<entry key="latex.error.extra_end">Extra \end'{'{0}'}' found</entry>
+<entry key="latex.error.unaccessible">Unaccessible ''{0}''</entry>
+<entry key="latex.error.defined">''{0}'' already defined</entry>
+<entry key="latex.error.illegal_array_arg_char">Illegal character ''{0}'' in array arg</entry>
+<entry key="latex.error.lonely_item">Lonely \item</entry>
+<entry key="latex.package.error">Package {0} Error: {1}</entry>
+<entry key="latex.class.error">Class {0} Error: {1}</entry>
+<entry key="latex.illegal.argtype">Illegal argument type {0}</entry>
+<entry key="latex.package.not.loaded">Package ''{0}'' has not been loaded</entry>
+
+<entry key="bibtex.error.missing_value">Missing value</entry>
+<entry key="bibtex.error.expecting">Expecting ''{0}''</entry>
+<entry key="bibtex.error.expecting_or">Expecting ''{0}'' or ''{1}''</entry>
+<entry key="bibtex.error.missing.id">Missing identifier</entry>
+<entry key="bibtex.error.invalid.id">Invalid identifier element {0}</entry>
+<entry key="bibtex.error.missing_field_part">Missing field value</entry>
+<entry key="bibtex.error.missing_field_name">Missing field identifier</entry>
+<entry key="bibtex.error.unbalanced_braces">Unbalanced braces</entry>
+<entry key="bibtex.error.immediately_follows_entry_type">''{0}'' immediately follows entry type</entry>
+<entry key="bibtex.error.immediately_follows_field_name">''{0}'' immediately follows field name</entry>
+<entry key="bibtex.error.illegal_end">Illegal end</entry>
+<entry key="bibtex.error.missing">Missing</entry>
+<entry key="bibtex.error.too_many_commas">Too many commas in name ''{0}''</entry>
+<entry key="bibtex.error.string_name_undefined">String name ''{0}'' undefined</entry>
+<entry key="bibtex.error.repeated_entry">Repeated entry ''{0}''</entry>
+
+<!--  Package messages -->
+
+<!-- probsoln messages -->
+
+<entry key="probsoln.no_such_db">ProbSoln database ''{0}'' doesn''t exist.</entry>
+<entry key="probsoln.no_such_entry_in_db">Entry ''{0}'' doesn''t exist in ProbSoln database '{1}'.</entry>
+<entry key="probsoln.db_exists">ProbSoln database ''{0}'' already exists.</entry>
+<entry key="probsoln.request_args">Problem ''{0}'' (in database ''{1}'') requires {2} arguments. Please specify</entry>
+<entry key="probsoln.request_arg">Problem ''{0}'' (in database ''{1}'') requires 1 argument. Please specify</entry>
+
+<!-- datatool messages -->
+
+<entry key="datatool.db_exists">Database ''{0}'' already exists.</entry>
+<entry key="datatool.db_doesnt_exist">Database ''{0}'' doesn''t exist.</entry>
+<entry key="datatool.mismatched">Unmatched ''{0}'' (ended with ''{1}'').</entry>
+<entry key="datatool.invalid.header">Invalid header specs ''{0}''.</entry>
+<entry key="datatool.invalid.contents">Invalid contents specs ''{0}''.</entry>
+<entry key="datatool.header.exists">Header ''{0}'' already exists.</entry>
+<entry key="datatool.header.doesnt_exist">Header ''{0}'' doesn''t exist.</entry>
+<entry key="datatool.row.not.found">Row index ''{0}'' doesn''t exist.</entry>
+<entry key="datatool.loaddb.message">Database ''{0}'' loaded from ''{1}'' (column count={2}, row count={3}).</entry>
+
+<!--  ifthen messages -->
+
+<entry key="ifthen.invalid.condition">Invalid condition ''{0}''.</entry>
+
+<!--  inputenc messages -->
+
+<entry key="inputenc.unknown.encoding">Unknown encoding ''{0}''.</entry>
+
+<!-- color messages -->
+<entry key="color.unsupported">Unsupported ''{0}'' model colour {1}</entry>
+<entry key="color.invalid.specs">Invalid specification ''{0}'' for colour model {1}</entry>
+<entry key="color.unknown">Unknown named colour ''{0}''</entry>
+
+</properties>

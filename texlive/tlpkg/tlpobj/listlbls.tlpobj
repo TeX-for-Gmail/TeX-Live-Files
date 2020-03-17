@@ -1,0 +1,24 @@
+name listlbls
+category Package
+revision 34893
+shortdesc Creates a list of all labels used throughout a document
+longdesc The package aims to help a LaTeX author to keep track of all
+longdesc defined labels by typesetting a complete list of labels
+longdesc wherever the author requests it. (Of course, the user may need
+longdesc to have additional LaTeX runs to get the references right. )
+longdesc This package is based on an answer David Carlisle gave on
+longdesc TeX/Stackexchange in the thread 'List of all labels with
+longdesc hyperlinks'.
+containersize 1908
+containerchecksum b5c2e7e168b07aa288c911dbf5c1fa8b56d2a73d38babf0140b77bbf783334f2da42b2bfa8d951e166f7184345cea26a908d12ff4a07ef89b85a7d7772d645e1
+doccontainersize 74316
+doccontainerchecksum 225837c7a5c80b5a01739c20011f4b4c76b0cdeaf26e3f8f44fcafee3e439a104c6eb1a47660a788b96a3cd63f3e19d1384ecada059380773850c7a4109d3269
+srccontainersize 5048
+srccontainerchecksum 3b35fa88f640d4f2a13f0cc888a7ab7bb09052ab080454d398f0edc27caa11728152e24bf5184d54aeb1bc86e599aa8a4bbfff6a6efd790e11277f99da2f27e6
+runfiles size=1
+ texmf-dist/tex/latex/listlbls/listlbls.sty
+catalogue-ctan /macros/latex/contrib/listlbls
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref debug-supp
+catalogue-version 1.03

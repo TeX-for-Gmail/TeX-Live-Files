@@ -1,0 +1,21 @@
+name tugboat-plain
+category Package
+revision 48608
+shortdesc Plain TeX macros for TUGboat
+longdesc The macros defined in this directory (in files tugboat.sty and
+longdesc tugboat.cmn) are used in papers written in Plain TeX for
+longdesc publication in TUGboat.
+containersize 32584
+containerchecksum b2e730b6c5a6fd23e088dc7990827c5bf9c009f28dd293b16b25ec7d59dc2fc2c6559d4d43f2f272c261645568b35f45ddf193bcd3995699753311094a8dc160
+doccontainersize 221368
+doccontainerchecksum 4194a3acc61dd9ab6cd9e2c421c29204e2f8e9463fed401939ee6d1ac780d43cdd9b8e51077425f924bff6b6523d302762e9561d64fe41720f83684ca69bad04
+runfiles size=31
+ texmf-dist/tex/plain/tugboat-plain/tugboat.cmn
+ texmf-dist/tex/plain/tugboat-plain/tugboat.sty
+ texmf-dist/tex/plain/tugboat-plain/tugproc.sty
+catalogue-also tugboat
+catalogue-ctan /macros/plain/contrib/tugboat
+catalogue-date 2018-09-06 20:20:38 +0200
+catalogue-license other-free
+catalogue-topics journalpub
+catalogue-version 1.24

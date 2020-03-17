@@ -1,0 +1,28 @@
+name xetex-devanagari
+category Package
+revision 34296
+shortdesc XeTeX input map for Unicode Devanagari
+longdesc The package provides a map for use with Jonathan Kew's TECkit,
+longdesc to translate Devanagari (encoded according to the Harvard/Kyoto
+longdesc convention) to Unicode (range 0900-097F).
+containersize 12452
+containerchecksum 96eeb5289b4b0ce252eba1daf15fbccaf2cbb2d251a85818b6dd761048532f36355619e37f1f857caf4592cbf85d112d6d48d5944c455ef36da9913529a783fc
+doccontainersize 992
+doccontainerchecksum 0f360c3f43c6562520b8843269068fc46ecc405cd3a4d8faecddc4f606d69cedcab28950fc1d2e11699e297fe4d70c4c3d50765a2ec30541c237914accbc7129
+runfiles size=14
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/README
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/devanagarinumerals.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/devanagarinumerals.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/harvardkyoto.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/harvardkyoto.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/iast.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/iast.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/velthuis-sanskrit.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/velthuis-sanskrit.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/velthuis.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xetex-devanagari/velthuis.tec
+catalogue-ctan /macros/xetex/generic/devanagari
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics inputenc xetex
+catalogue-version 0.5

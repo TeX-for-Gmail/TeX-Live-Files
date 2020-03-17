@@ -1,0 +1,30 @@
+name dvipng
+category TLCore
+revision 50863
+shortdesc A fast DVI to PNG/GIF converter
+longdesc This program makes PNG and/or GIF graphics from DVI files as
+longdesc obtained from TeX and its relatives. Its benefits include:
+longdesc Speed. It offers very fast rendering of DVI as bitmap files,
+longdesc which makes it suitable for generating large amounts of images
+longdesc on-the-fly, as needed in preview-latex, WeBWorK and others; It
+longdesc does not read the postamble, so it can be started before TeX
+longdesc finishes. There is a --follow switch that makes dvipng wait at
+longdesc end-of-file for further output, unless it finds the POST marker
+longdesc that indicates the end of the DVI; Interactive query of
+longdesc options. dvipng can read options interactively through stdin,
+longdesc and all options are usable. It is even possible to change the
+longdesc input file through this interface. Support for PK, VF,
+longdesc PostScript Type1, and TrueType fonts, colour specials, and
+longdesc inclusion of PostScript, PNG, JPEG or GIF images.
+depend dvipng.ARCH
+containersize 944
+containerchecksum 3716cc269d2f869527f6f4d5cc9ea92844c6d67e8eb56d80874540f37b89d6f8a391fb5c3fe0c194088f4ee7301396605c22d2990322ff441e1d1872a58eca78
+doccontainersize 288280
+doccontainerchecksum 752961d28935c2399badb3e31af65c76eeb5a9cddb0de44f5d9907b8800567bf9fd8019fe8c39cc335dc9a60487aacd4de196611fe1f289cd0c424fd1d6c180e
+catalogue-also dvi2bitmap
+catalogue-contact-repository http://savannah.nongnu.org/projects/dvipng/
+catalogue-ctan /dviware/dvipng
+catalogue-date 2019-01-06 07:24:08 +0100
+catalogue-license lgpl3
+catalogue-topics dvi-bit
+catalogue-version 1.15

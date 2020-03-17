@@ -1,0 +1,24 @@
+name fancyvrb
+category Package
+revision 49717
+shortdesc Sophisticated verbatim text
+longdesc Flexible handling of verbatim text including: verbatim commands
+longdesc in footnotes; a variety of verbatim environments with many
+longdesc parameters; ability to define new customized verbatim
+longdesc environments; save and restore verbatim text and environments;
+longdesc write and read files in verbatim mode; build "example"
+longdesc environments (showing both result and verbatim source).
+containersize 11972
+containerchecksum 334df96a99813a99d36a68cb99b35145048bc478e463373efec5932bfa981eec2eeac910616e6cda2491636961249c947b9daf4b130329696c755076909cf46b
+doccontainersize 170044
+doccontainerchecksum 45ef859efb1e9f22799686600c1be8a5f2db4acece1f8c0bb4e1bcd37ce5a83d708ea027f0c0b60da7bbb2c8add47ce70ef6f53f68bf0810886066230072c9d2
+runfiles size=17
+ texmf-dist/tex/latex/fancyvrb/fancyvrb-ex.sty
+ texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+ texmf-dist/tex/latex/fancyvrb/hbaw.sty
+ texmf-dist/tex/latex/fancyvrb/hcolor.sty
+catalogue-ctan /macros/latex/contrib/fancyvrb
+catalogue-date 2019-01-15 20:16:28 +0100
+catalogue-license lppl1.3
+catalogue-topics verbatim
+catalogue-version 3.2a

@@ -1,0 +1,24 @@
+name rutitlepage
+category Package
+revision 49125
+shortdesc Radboud University Titlepage Package
+longdesc This is an unofficial LaTeX package to generate titlepages for
+longdesc the Radboud University, Nijmegen. It uses official vector logos
+longdesc from the university. This package requires the following other
+longdesc LaTeX packages: geometry, graphicx, ifpdf, keyval, iflang, and,
+longdesc optionnaly, babel-dutch.
+containersize 2000
+containerchecksum ff61f381d2ca376cfe52d182afbe4b2ffcb3872f60efd89e171de7aa02f2c9d039a2d424fa31b0bd09a8da73613d0bc38e83728d31e47782fa353c99c1b56c57
+doccontainersize 191572
+doccontainerchecksum b426c54765a305b4759a9e61fc58722e6e8765cdceda0742d108bfc32f6f8abb9e61326685e01f78ec924fd38e73b866f10652c9abf71a398ab3ba7532851d9f
+srccontainersize 2659044
+srccontainerchecksum d82ac9a24ac8ef8f8dc18d94957218a75e2f067aa805c7cd66c309cb8717f7997b9050be52bc5d31b956b8e8f29570802f722ee5fee12719f3fe2e47881b95cf
+runfiles size=2
+ texmf-dist/tex/latex/rutitlepage/rutitlepage.sty
+catalogue-contact-bugs https://github.com/dopefishh/rutitlepage/issues
+catalogue-contact-repository https://github.com/dopefishh/rutitlepage
+catalogue-ctan /macros/latex/contrib/rutitlepage
+catalogue-date 2018-11-10 20:32:18 +0100
+catalogue-license lppl1.3
+catalogue-topics titlepage logo
+catalogue-version 2.1

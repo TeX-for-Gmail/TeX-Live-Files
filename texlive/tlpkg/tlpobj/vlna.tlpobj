@@ -1,0 +1,12 @@
+name vlna
+category TLCore
+revision 50602
+shortdesc add ~ after non-syllabic preposition, for Czech/Slovak
+longdesc Preprocessor for TeX source implementing the Czech/Slovak
+longdesc typographical rule forbidding a non-syllabic preposition alone
+longdesc at the end of a line.
+depend vlna.ARCH
+containersize 380
+containerchecksum 320aa1e734120d4434ff05b2560c8d131daeb3a04d8f2ecd4e47e89cbe05e72ad459698cee63c05fe1c7278335774a8e2e4ab6dcf07ce1ac7cc15dc119c6cba0
+doccontainersize 142812
+doccontainerchecksum e9b2676f12fba6415749cf72aa0d8c34c328941f722e2a11d2372220dc615acc0b5ffaaff57abb24a8dd0747894990bce912bf8f423519aaf8390b6f03061835

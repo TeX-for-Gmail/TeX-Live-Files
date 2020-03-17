@@ -1,0 +1,32 @@
+name xindex
+category Package
+revision 50842
+shortdesc Unicode compatible index generation
+longdesc This package provides a unicode compatible index programm for
+longdesc LaTeX. It needs Lua 5.3, which will be included in at least
+longdesc LuaTeX 1.09 (TeX Live 2019).
+depend xindex.ARCH
+containersize 27736
+containerchecksum f27035d661cff83820f8600bcac21d2e51b373de7e7007bbd7d4411b8b5974a68dd293adf8f75a5966eeda922584a912fe3b3fefbae23854430044bd7acdab07
+doccontainersize 437472
+doccontainerchecksum e6088d0f269fc025395ec711a54218ccaee15184b24f3eff0de773a5032d8da170d43b47b8d7768167e2f9fe1e6018114b65b9919f44cff629bd6d667e26f92d
+runfiles size=47
+ texmf-dist/scripts/xindex/xindex.lua
+ texmf-dist/tex/latex/xindex/xindex.sty
+ texmf-dist/tex/lualatex/xindex/xindex-DIN2.lua
+ texmf-dist/tex/lualatex/xindex/xindex-HAdW-eKO.lua
+ texmf-dist/tex/lualatex/xindex/xindex-base.lua
+ texmf-dist/tex/lualatex/xindex/xindex-cfg-common.lua
+ texmf-dist/tex/lualatex/xindex/xindex-cfg.lua
+ texmf-dist/tex/lualatex/xindex/xindex-dtk.lua
+ texmf-dist/tex/lualatex/xindex/xindex-lapp.lua
+ texmf-dist/tex/lualatex/xindex/xindex-lib.lua
+ texmf-dist/tex/lualatex/xindex/xindex-pretty.lua
+ texmf-dist/tex/lualatex/xindex/xindex-unicode.lua
+catalogue-contact-bugs https://gitlab.com/hvoss49/xindex/issues
+catalogue-contact-repository https://gitlab.com/hvoss49/xindex
+catalogue-ctan /indexing/xindex
+catalogue-date 2019-04-07 20:34:49 +0200
+catalogue-license lppl1.3
+catalogue-topics index use-lua
+catalogue-version 0.10

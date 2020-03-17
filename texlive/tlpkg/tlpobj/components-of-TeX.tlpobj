@@ -1,0 +1,15 @@
+name components-of-TeX
+category Package
+revision 15878
+catalogue components
+shortdesc Components of TeX
+longdesc An introduction to the components and files users of TeX may
+longdesc encounter.
+containersize 392
+containerchecksum 364836128154056aa5d1e005144a64aa64ee105c78d34127958599c8c0eb82aa70e856017be3d7166d723a0fd7c9656d72cb24e46bd61d8768c1dc82991c5f77
+doccontainersize 11052
+doccontainerchecksum 5da762a898a6cb95d5da95f444e862c8d0ac351ca63eca776fc1a9e35e2fb00389d414a85fa1bef357abc3d68b691a36ddac8c6aba20b7ea6f398c9017ac13fb
+catalogue-ctan /info/components-of-TeX
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl
+catalogue-topics documentation

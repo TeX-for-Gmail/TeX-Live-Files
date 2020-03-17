@@ -1,0 +1,6 @@
+% This is rsbegin.mf in text format as of 2006/9/6
+% created by LHfonts (TeX4MF) version 3.5
+%
+%
+
+roman_ec:=false; more_letters:=true; old_cyr:=true; genmode:="ex"; enc_name:="XSlav";

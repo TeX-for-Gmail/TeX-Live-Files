@@ -1,0 +1,29 @@
+name tex4ebook
+category Package
+revision 50512
+shortdesc Convertor from LaTeX to ebook formats
+longdesc This is a bundle of lua scripts and LaTeX packages for
+longdesc conversion of LaTeX files to ebook formats such as epub, mobi
+longdesc and epub3. tex4ht is used as conversion engine.
+depend tex4ebook.ARCH
+containersize 15776
+containerchecksum 946317be3532db3e60b1fcf2c027f616c00526da55562ab3b682c01306277059edaf14138902d1e21eab53cfb9bf293c636598cffddb9f1980b287b2fba081d9
+doccontainersize 81192
+doccontainerchecksum 586d3ce7642a0f06e358e0cb3d3dc577396a638d7e7c9f333a118716bf4dee8c18991d1736ac7169ba32c22b9aa10b887a8ae77ae5a4f40c800f2f1aca958abd
+runfiles size=17
+ texmf-dist/scripts/tex4ebook/config-t4e.lua
+ texmf-dist/scripts/tex4ebook/exec_epub.lua
+ texmf-dist/scripts/tex4ebook/exec_epub3.lua
+ texmf-dist/scripts/tex4ebook/exec_mobi.lua
+ texmf-dist/scripts/tex4ebook/list-fonts.lua
+ texmf-dist/scripts/tex4ebook/tex4ebook
+ texmf-dist/tex/latex/tex4ebook/tex4ebook-epub3.4ht
+ texmf-dist/tex/latex/tex4ebook/tex4ebook.4ht
+ texmf-dist/tex/latex/tex4ebook/tex4ebook.sty
+catalogue-contact-bugs https://github.com/michal-h21/tex4ebook/issues
+catalogue-contact-repository https://github.com/michal-h21/tex4ebook
+catalogue-ctan /support/tex4ebook
+catalogue-date 2019-03-21 16:08:34 +0100
+catalogue-license lppl1.3
+catalogue-topics ebook
+catalogue-version 0.2c

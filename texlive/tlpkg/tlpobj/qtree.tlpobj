@@ -1,0 +1,23 @@
+name qtree
+category Package
+revision 15878
+shortdesc Draw tree structures
+longdesc The package offers support for drawing tree diagrams, and is
+longdesc especially suitable for linguistics use. It allows trees to be
+longdesc specified in a simple bracket notation, automatically
+longdesc calculates branch sizes, and supports both DVI/PostScript and
+longdesc PDF output by use of pict2e facilities. The package is a
+longdesc development of the existing qobitree package, offering a new
+longdesc front end.
+containersize 8156
+containerchecksum 9f381007c2526f51483d7c190cd7cf86cb399e95475841900ffa8f522d3da71f4f451b42562783d756e252e513ca1f9e9e8586517057a8f6b881cbbecb5c3987
+doccontainersize 209544
+doccontainerchecksum c16142acf0c3f9e4f347c9ceff7a6c29557c0c2c4d2232ce9df146279b3cd4e1019e703479f426709a3feeb6ac46fb91f7dcee8cad35b19c83c9893661322f96
+runfiles size=10
+ texmf-dist/tex/latex/qtree/qtree.sty
+catalogue-also tree-dvips
+catalogue-ctan /macros/latex/contrib/qtree
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree linguistic
+catalogue-version 3.1b

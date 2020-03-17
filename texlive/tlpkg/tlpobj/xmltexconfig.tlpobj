@@ -1,0 +1,9 @@
+name xmltexconfig
+category Package
+revision 45845
+shortdesc configuration files for xmltex and pdfxmltex
+containersize 488
+containerchecksum 2620dde42acffee6561f406527794cc62d87c1104135da846b7cd3c7f4109c4d1986d562ea612f2b5246e1863eff86795c4789075f8475d45de00763cfb539fc
+runfiles size=2
+ texmf-dist/tex/xmltex/xmltexconfig/pdfxmltex.ini
+ texmf-dist/tex/xmltex/xmltexconfig/xmltex.ini

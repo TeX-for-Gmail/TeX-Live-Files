@@ -1,0 +1,42 @@
+name mex
+category Package
+revision 45678
+shortdesc Polish formats for TeX
+longdesc MeX is an adaptation of Plain TeX (MeX) and LaTeX209 (LaMeX)
+longdesc formats to the Polish language and to Polish printing customs.
+longdesc It contains a complete set of Metafont sources of Polish fonts,
+longdesc hyphenation rules for the Polish language and sources of
+longdesc formats.
+depend pl
+depend hyphen-polish
+depend pdftex
+depend tex
+depend hyphen-base
+depend knuth-lib
+depend plain
+depend tex-ini-files
+depend enctex
+depend utf8mex
+depend mex.ARCH
+execute AddFormat name=mex engine=pdftex patterns=mexconf.tex           options="-translate-file=cp227.tcx *mex.ini"           fmttriggers=hyphen-base,hyphen-polish,knuth-lib,pl,plain,tex-ini-files
+execute AddFormat name=pdfmex engine=pdftex patterns=mexconf.tex           options="-translate-file=cp227.tcx *pdfmex.ini"           fmttriggers=hyphen-base,hyphen-polish,knuth-lib,pl,plain,tex-ini-files
+execute AddFormat name=utf8mex engine=pdftex patterns=mexconf.tex            options="-enc *utf8mex.ini"            fmttriggers=hyphen-base,hyphen-polish,knuth-lib,pl,plain,tex-ini-files,enctex,utf8mex
+containersize 11476
+containerchecksum 192ff9559722639d535d91d58d161594506374548a4414ff1508750e35b0b3e755e0c6c87559899e216901d62bc88cb28dfbe0725ca5a51325135f4251e1f110
+doccontainersize 35780
+doccontainerchecksum 0409918335f2b6fbaba3bab7027d91b2959c13927445bf64aab60a14b033c1e50d27c19878a65a56e8245ac025a881300e0f5e47ab0662e70e5872109097077b
+srccontainersize 38840
+srccontainerchecksum 3d8246a6e7f3723904711f765f42282cdca89c88d62aea2d37a259900a645c094d6b1cf8185533341c82d14ed7c44e4b1b573e6524d5b4fccc74cc9d2cbdf1bf
+runfiles size=13
+ texmf-dist/tex/mex/base/lamex.tex
+ texmf-dist/tex/mex/base/mex.tex
+ texmf-dist/tex/mex/base/mex1.tex
+ texmf-dist/tex/mex/base/mex2.tex
+ texmf-dist/tex/mex/base/mexconf.tex
+ texmf-dist/tex/mex/config/mex.ini
+ texmf-dist/tex/mex/config/pdfmex.ini
+catalogue-ctan /language/polish/mex105.zip
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics format polish
+catalogue-version 1.05

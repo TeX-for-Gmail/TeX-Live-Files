@@ -1,0 +1,53 @@
+name jurabib
+category Package
+revision 15878
+shortdesc Extended BibTeX citation support for the humanities and legal texts
+longdesc This package enables automated citation with BibTeX for legal
+longdesc studies and the humanities. In addition, the package provides
+longdesc commands for specifying editors in a commentary in a convenient
+longdesc way. Simplified formatting of the citation as well as the
+longdesc bibliography entry is also provided. It is possible to display
+longdesc the (short) title of a work only if an authors is cited with
+longdesc multiple works. Giving a full citation in the text, conforming
+longdesc to the bibliography entry, is supported. Several options are
+longdesc provided which might be of special interest for those outside
+longdesc legal studies--for instance, displaying multiple full
+longdesc citations. In addition, the format of last names and first
+longdesc names of authors may be changed easily. Cross references to
+longdesc other footnotes are possible. Language dependent handling of
+longdesc bibliography entries is possible by the special language field.
+containersize 51660
+containerchecksum 12a1d9402ca15ff23cbb9818f07290f0b295c9844bc4cf02e1332eb27a26a3a8d0ed3199df1c4f4f85c9ff5308e7426d0c7adad8dc587fe905c5a15314863b3b
+doccontainersize 651904
+doccontainerchecksum 3f804537752bfd7b6780d082b37834c805e521491f39bd76b52541707e69f8b775b9e18bfcba0b0827133be8cf82bab86651f2a7ec351f9cc140427056ca0dc0
+srccontainersize 61896
+srccontainerchecksum 349a2f55265584d73d0a1b0cdd00f0fdb384c87f8b1399acf62f14229ec4cb03919bb1c37d3c8ed992f72f3cd846c93bb13f25bed052edd80810bb6a92665e75
+runfiles size=145
+ texmf-dist/bibtex/bib/jurabib/book.bib
+ texmf-dist/bibtex/bib/jurabib/comment.bib
+ texmf-dist/bibtex/bib/jurabib/jbtest.bib
+ texmf-dist/bibtex/bib/jurabib/jbtesthu.bib
+ texmf-dist/bibtex/bst/jurabib/jox.bst
+ texmf-dist/bibtex/bst/jurabib/jurabib.bst
+ texmf-dist/bibtex/bst/jurabib/jureco.bst
+ texmf-dist/bibtex/bst/jurabib/jurunsrt.bst
+ texmf-dist/tex/latex/jurabib/dajbbib.ldf
+ texmf-dist/tex/latex/jurabib/dejbbib.ldf
+ texmf-dist/tex/latex/jurabib/dujbbib.ldf
+ texmf-dist/tex/latex/jurabib/enjbbib.ldf
+ texmf-dist/tex/latex/jurabib/fijbbib.ldf
+ texmf-dist/tex/latex/jurabib/frjbbib.ldf
+ texmf-dist/tex/latex/jurabib/itjbbib.ldf
+ texmf-dist/tex/latex/jurabib/jblong.cfg
+ texmf-dist/tex/latex/jurabib/jurabib.cfg
+ texmf-dist/tex/latex/jurabib/jurabib.sty
+ texmf-dist/tex/latex/jurabib/nojbbib.ldf
+ texmf-dist/tex/latex/jurabib/ptjbbib.ldf
+ texmf-dist/tex/latex/jurabib/spjbbib.ldf
+catalogue-also jura juramisc alphanum alnumsec
+catalogue-contact-repository http://sourceforge.net/projects/jurabib
+catalogue-ctan /macros/latex/contrib/jurabib
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics bibtex-supp
+catalogue-version 0.6

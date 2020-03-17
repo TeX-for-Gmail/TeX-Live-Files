@@ -1,0 +1,21 @@
+name pbsheet
+category Package
+revision 24830
+shortdesc Problem sheet class
+longdesc This class is designed to simplify the typesetting of problem
+longdesc sheets with Mathematics and Computer Science content. It is
+longdesc currently customised towards teaching in French (and the
+longdesc examples are in French).
+containersize 5284
+containerchecksum 4fee9d64b1988f9981a056adc10de3be6940cb2cc7e23d9bc4effa8647e27601e5b74d2c15289ed5cc96c3f42d4f2569d897be111e2dff064a4c5d40445c760c
+doccontainersize 402592
+doccontainerchecksum d929cb815e8204268f17d9e71f53550b7647d39fd50782c1e6bb848a6a8840ef8389d2f3359bef554450179bd9a638ea80a1c7ec018c7275165622f1ba645a95
+srccontainersize 7164
+srccontainerchecksum 7790c2a14e44ff68071c4b3f0017c5b83a2fcd50a110d05b55297f07b4b313ebe8d5ab3b4d071bab5b575ded1323bb26b828aabc7cd20522a4298827d1686c12
+runfiles size=5
+ texmf-dist/tex/latex/pbsheet/pbsheet.cls
+catalogue-ctan /macros/latex/contrib/pbsheet
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exercise
+catalogue-version 0.1

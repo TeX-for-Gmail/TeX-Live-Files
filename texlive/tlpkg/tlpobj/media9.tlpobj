@@ -1,0 +1,39 @@
+name media9
+category Package
+revision 50089
+shortdesc Multimedia inclusion package with Adobe Reader-9/X compatibility
+longdesc The package provides an interface to embed interactive Flash
+longdesc (SWF) and 3D objects (Adobe U3D & PRC), as well as video and
+longdesc sound files or streams in the popular MP4, FLV and MP3 formats
+longdesc into PDF documents with Acrobat-9/X compatibility. Playback of
+longdesc multimedia files uses the built-in Flash Player of Adobe Reader
+longdesc and does, therefore, not depend on external plug-ins. Flash
+longdesc Player supports the efficient H.264 codec for video
+longdesc compression. The package is based on the RichMedia Annotation,
+longdesc an Adobe addition to the PDF specification. It replaces the now
+longdesc obsolete movie15 package.
+containersize 1893832
+containerchecksum b6c60d76d7a51f5ad88a3b3e6f651a180d8a8bd67e825449eef335dc5407b1c9a9d001620992198f35fc852fa63065fb6a7fb61b10d9482cad8eb2f2beee7a87
+doccontainersize 3721352
+doccontainerchecksum a23870f84fec53e07328262ba2c96f5133198ad43fe03bee5ef4fe513c070025edae4a8fc01f7177037c37765a6f2b6bf989a9c5705631cb43a64ea159167718
+srccontainersize 1243224
+srccontainerchecksum 920678c93f560b85a1f07116bef3a5ee7c3a377fcd12bfb18e03ed7bf119d52ff182e9c8284e8a9287ee92f21f55f21b02f37c760e9c555ea5fc2c6941614871
+runfiles size=501
+ texmf-dist/tex/latex/media9/javascript/3Dmenu.js
+ texmf-dist/tex/latex/media9/javascript/3Dspintool.js
+ texmf-dist/tex/latex/media9/javascript/animation.js
+ texmf-dist/tex/latex/media9/javascript/asylabels.js
+ texmf-dist/tex/latex/media9/media9.sty
+ texmf-dist/tex/latex/media9/pdfbase.sty
+ texmf-dist/tex/latex/media9/players/APlayer.swf
+ texmf-dist/tex/latex/media9/players/APlayer9.swf
+ texmf-dist/tex/latex/media9/players/SlideShow.swf
+ texmf-dist/tex/latex/media9/players/StrobeMediaPlayback.swf
+ texmf-dist/tex/latex/media9/players/VPlayer.swf
+ texmf-dist/tex/latex/media9/players/VPlayer9.swf
+catalogue-contact-repository https://gitlab.com/agrahn/media9
+catalogue-ctan /macros/latex/contrib/media9
+catalogue-date 2019-02-20 09:47:25 +0100
+catalogue-license lppl
+catalogue-topics multimedia
+catalogue-version 0.95

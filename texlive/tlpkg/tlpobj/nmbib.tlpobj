@@ -1,0 +1,26 @@
+name nmbib
+category Package
+revision 37984
+shortdesc Multiple versions of a bibliography, with different sort orders
+longdesc This package is a rewrite of the multibibliography package
+longdesc providing multiple bibliographies with different sorting. The
+longdesc new version offers a number of citation commands, streamlines
+longdesc the creation of bibliographies, ensures compatibility with the
+longdesc natbib package, and provides other improvements.
+containersize 9092
+containerchecksum c915b266e2a7644a88de6476bd4cf81943f7da31472f1b8eb889e048df8acc4afc36e247b8fc63bfdeb8c0384d87fc59f43d87f3ff09822d076c62a0edd1c110
+doccontainersize 443656
+doccontainerchecksum 0014c7fdade3685ce03bf9fcc2725b430f6272025809e224b88361960cb47e5b533d88d60f0ce55e011dbb943c8fc025340fadc506eedf10189724ae79dd2bda
+srccontainersize 11372
+srccontainerchecksum 52297a890da760e2c945522094f128612ceb521500c81ce54da2f481581000bf42302665585fa056b31ff0f096a3a170ce56013e0979ae2043a94b68e7d32a5a
+runfiles size=24
+ texmf-dist/bibtex/bst/nmbib/chronoplainnm.bst
+ texmf-dist/bibtex/bst/nmbib/plainnm.bst
+ texmf-dist/bibtex/bst/nmbib/unsrtnm.bst
+ texmf-dist/tex/latex/nmbib/nmbib.sty
+catalogue-also multibibliography
+catalogue-ctan /macros/latex/contrib/nmbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-supp
+catalogue-version 1.04

@@ -1,0 +1,8 @@
+name dviasm.x86_64-linux
+category Package
+revision 8601
+shortdesc x86_64-linux files of dviasm
+containersize 340
+containerchecksum 0c26f92fa0196d39883e3f2dfc5a54cace8eb521403ace614a8049fd6c2969548c2b4c2baaa4b1dbd50cbce4e3d731ec5522cb324eac01ac88b4bae6b62c7c4c
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/dviasm

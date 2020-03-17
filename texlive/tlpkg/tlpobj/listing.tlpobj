@@ -1,0 +1,23 @@
+name listing
+category Package
+revision 17373
+shortdesc Produce formatted program listings
+longdesc The listing environment is provided and is similar to figure
+longdesc and table, although it is not a floating environment. Includes
+longdesc support for \caption, \label, \ref, and introduces
+longdesc \listoflistings, \listingname, \listlistingname. It produces a
+longdesc .lol file. It does not change \@makecaption (unless the option
+longdesc bigcaptions is used), so packages that change the layout of
+longdesc \caption still work.
+containersize 1968
+containerchecksum 154a9eb9da19d4a1d9f6ed421bc13f1f83279cd456b95ab8b7d84f9c48d6aae5548b7357e46041580d4b457758aa090e6352aca9d9e20f1739dc589d4fa24bdd
+doccontainersize 259240
+doccontainerchecksum 11ef594d55ee823dab2a88ad5882e1ea89d7741f1038d3782ac43fa43cce948c1ed72096ddd11d1efbcc3b43ac9bc4dd23713f725aa71807ea174548d9a5c968
+runfiles size=1
+ texmf-dist/tex/latex/listing/listing.sty
+catalogue-also listings
+catalogue-ctan /macros/latex/contrib/listing
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics listing
+catalogue-version 1.2

@@ -1,0 +1,20 @@
+name guitartabs
+category Package
+revision 48102
+shortdesc A class for drawing guitar tablatures easily
+longdesc This package provides is a simple LaTeX2e class that allows
+longdesc guitarists to create basic guitar tablatures using LaTeX.
+longdesc Create music and do not be bothered with macro programming. The
+longdesc class depends on the LaTeX packages geometry, harmony,
+longdesc inputenc, intcalc, musixtex, tikz, and xifthen, as well as the
+longdesc article class.
+containersize 2504
+containerchecksum a4866683cb639b63d455f40da2ef58ee4c69d0e29e5071437a07922a0a45598677557ce609905dd8fc5c3e40a98bceb9a753cf4506342585e6cc2c37fa591271
+doccontainersize 205316
+doccontainerchecksum ef5f516db586d1473d949f44a2eb9fb307b84ea5a7dcc3c9419298203b41c54ff4dad75d3b24cf30fbc24f4c60ad4b79b9c1fd58804667732a66b0ccb52cc3b4
+runfiles size=3
+ texmf-dist/tex/latex/guitartabs/guitartabs.cls
+catalogue-ctan /macros/latex/contrib/guitartabs
+catalogue-date 2018-06-30 04:59:57 +0200
+catalogue-license lppl1.3c
+catalogue-topics music chords class

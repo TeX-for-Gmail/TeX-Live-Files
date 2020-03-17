@@ -1,0 +1,18 @@
+name babel-swedish
+category Package
+revision 30296
+shortdesc Babel support for typesetting Swedish
+longdesc The package provides the language definition file for Swedish.
+containersize 2688
+containerchecksum 46dbacd9ed25d6eba7a8f5a26a28c40f5c77cbdf4140e3a6ceac1b34a8afdc95626200ea0a6775c3f00b8aa7ae5b7772144e7ef8d0e409531b5bb74e01a90278
+doccontainersize 130184
+doccontainerchecksum 2c3f738b347fb8a4c6dc3917c840de294f21e544ef995770099eb6d779995ba32ea1a1adc8def7a883bc983a4cf85268628e623aaff44c9be653fe55d901d452
+srccontainersize 6788
+srccontainerchecksum 44c4ae33b5d6824fddaa77142c55016473ac2b4520ba17e504854d7893c3b9fd317dd67149b4cb005311b7fd0daa86630e5ef83c903f69facbf667c993f6a59d
+runfiles size=2
+ texmf-dist/tex/generic/babel-swedish/swedish.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/swedish
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1.3
+catalogue-topics swedish multilingual-addon
+catalogue-version 2.3d

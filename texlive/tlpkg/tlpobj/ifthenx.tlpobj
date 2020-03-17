@@ -1,0 +1,21 @@
+name ifthenx
+category Package
+revision 25819
+shortdesc Extra tests for \ifthenelse
+longdesc The package extends the ifthen package, providing extra
+longdesc predicates for the package's \ifthenelse command. The package
+longdesc is complementary to xifthen, in that they provide different
+longdesc facilities; the two may be loaded in the same document, as long
+longdesc as xifthen is loaded first.
+containersize 4116
+containerchecksum 76235d3f8dc4e62604828beaf87327d11d4a9ff69061edf1a3ed4c874983251fba75d80973e54fb3daa2d160b27000089f4cdf1c29748124825fb4075b6f7148
+doccontainersize 1924
+doccontainerchecksum efc4fa3b5d6e91d1d5af27846bf2652672a233537810051b2858c1c4ffacafb9771b2c3a222cea4d490e0478eef96b205c4043f4957b876b7f4d57903b26454d
+runfiles size=3
+ texmf-dist/tex/latex/ifthenx/ifthenx.sty
+catalogue-also xifthen
+catalogue-ctan /macros/latex/contrib/ifthenx
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp cond-comp
+catalogue-version 0.1a

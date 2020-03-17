@@ -1,0 +1,28 @@
+name biblatex-trad
+category Package
+revision 46668
+shortdesc "Traditional" BibTeX styles with BibLaTeX
+longdesc The bundle provides implementations of the "traditional" BibTeX
+longdesc styles (plain, abbrev, unsrt and alpha) with BibLaTeX.
+containersize 4172
+containerchecksum 3a21ed76cdfd4c327562aed15a56fda824b33fdbab993accc8e944a662e157ca8ce30c4ac6413b4365c27ce787625e03d206a5574116c205daa55a5211779f7d
+doccontainersize 333008
+doccontainerchecksum cabf53ca2febe8bdc26c56f58f99e811ab8695134f3b10c01f946c7c13a63b723ebd598013fdad3eff8aec9d4f629b16bd3915d9087b1dca365cf208a7f72ea5
+runfiles size=15
+ texmf-dist/tex/latex/biblatex-trad/trad-abbrv.bbx
+ texmf-dist/tex/latex/biblatex-trad/trad-abbrv.cbx
+ texmf-dist/tex/latex/biblatex-trad/trad-alpha.bbx
+ texmf-dist/tex/latex/biblatex-trad/trad-alpha.cbx
+ texmf-dist/tex/latex/biblatex-trad/trad-plain.bbx
+ texmf-dist/tex/latex/biblatex-trad/trad-plain.cbx
+ texmf-dist/tex/latex/biblatex-trad/trad-standard.bbx
+ texmf-dist/tex/latex/biblatex-trad/trad-standard.cbx
+ texmf-dist/tex/latex/biblatex-trad/trad-unsrt.bbx
+ texmf-dist/tex/latex/biblatex-trad/trad-unsrt.cbx
+catalogue-contact-bugs https://github.com/moewew/biblatex-trad/issues
+catalogue-contact-home https://github.com/moewew/biblatex-trad
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-trad
+catalogue-date 2018-02-17 21:45:55 +0100
+catalogue-license lppl1.3c
+catalogue-topics biblatex
+catalogue-version 0.4a

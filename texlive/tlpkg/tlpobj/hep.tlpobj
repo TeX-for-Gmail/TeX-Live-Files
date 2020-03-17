@@ -1,0 +1,18 @@
+name hep
+category Package
+revision 15878
+shortdesc A "convenience wrapper" for High Energy Physics packages
+longdesc Loads the author's hepunits and hepnicenames packages, and a
+longdesc selection of others that are useful in High Energy Physics
+longdesc papers, etc.
+containersize 2124
+containerchecksum 9cd27826b7dde1ebd5830cdd17423f4092c9833c962be7e73b515de2e624a7853badde0c244dc26be6b7d3d9f9c3932fffc48bb4e86e06b90d6699dcebb0d497
+doccontainersize 1800
+doccontainerchecksum 1d77a9bd31e982a8ff908f772d8cf67692145624bf00db2745afaf1aa59fc1da7cae6d2e094379077a550e4d76338a5a82bef8e25c8d733547751a24c84035f2
+runfiles size=2
+ texmf-dist/tex/latex/hep/hep.sty
+catalogue-ctan /macros/latex/contrib/hep
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics
+catalogue-version 1.0

@@ -1,0 +1,24 @@
+name witharrows
+category Package
+revision 50356
+shortdesc "Aligned" math environments with arrows for comments
+longdesc This package provides an environment WithArrows which is
+longdesc similar to the environment aligned of amsmath (and mathtools),
+longdesc but gives the possibility to draw arrows on the right side of
+longdesc the alignment. These arrows are usually used to give
+longdesc explanations concerning the mathematical calculus presented.
+longdesc The package requires the following other LaTeX packages: expl3,
+longdesc footnote, l3keys2e, tikz, and xparse.
+containersize 11068
+containerchecksum d5aa3725d7a82025b8064f4be067473b6469f4bd9721c33b84c3380ee038c8478e84ed4f15dfdefa39281799104cbe899b67e88f2e7d1b12df62c067b5f4895a
+doccontainersize 368332
+doccontainerchecksum dec9798d741457d95d66c84ab48a46a62888e0aa60b9ea4c73258c5506f279eba82c7e8910e3d47a3ca6424f6e9b3633acd593c6161b70b3a66c5c62d6f30579
+srccontainersize 40360
+srccontainerchecksum 8fd64d67af8d09675051793df0b183cba8a05438c56cbb639f4d37b0b567c06929298e38f3755dd3aca7eae509d65e70906405bdd53eeaa1eee6d0d0724883a8
+runfiles size=16
+ texmf-dist/tex/latex/witharrows/witharrows.sty
+catalogue-ctan /macros/latex/contrib/witharrows
+catalogue-date 2019-03-11 23:14:22 +0100
+catalogue-license lppl1.3
+catalogue-topics maths maths-syseqn pgf-tikz expl3
+catalogue-version 1.16

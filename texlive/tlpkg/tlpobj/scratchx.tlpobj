@@ -1,0 +1,20 @@
+name scratchx
+category Package
+revision 44906
+shortdesc Include Scratch programs in LaTeX documents
+longdesc This package can be used to include every kind of Scratch
+longdesc program in LaTeX documents. This may be particularly useful for
+longdesc Math Teachers and IT specialists. The package depends on the
+longdesc following other LaTeX packages: calc, fp, ifsym, multido, tikz,
+longdesc xargs, and xstring.
+containersize 7280
+containerchecksum 793c4e96cedd97ca37b7906b6a9e78bb06f39572ddfb57d8e4b54dd9b2846b31bbdd835fe1a93517d1430448571a30d26fa8ad7cad0aa3fab6ca526bacb605b6
+doccontainersize 427720
+doccontainerchecksum c87994e90a748fa8afba91b443850a2d9f555ff4ac6b264107b42981e078b6966e8cbffd75f071f3f69a78c9b9aa10db65c3e855a4920f3b732446df01da7d6c
+runfiles size=10
+ texmf-dist/tex/latex/scratchx/ScratchX.sty
+catalogue-ctan /macros/latex/contrib/scratchx
+catalogue-date 2017-07-30 05:13:46 +0200
+catalogue-license lppl1.3c
+catalogue-topics games pgf-tikz
+catalogue-version 1.1

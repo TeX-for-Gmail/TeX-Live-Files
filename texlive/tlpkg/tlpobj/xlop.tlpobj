@@ -1,0 +1,27 @@
+name xlop
+category Package
+revision 42899
+shortdesc Calculates and displays arithmetic operations
+longdesc Xlop (eXtra Large OPeration) will typeset arithmetic problems
+longdesc either in-line or "as in school" (using French school
+longdesc conventions). So for example, \opadd{2}{3} can give either
+longdesc $2+3=5$ or something similar to: \begin{tabular}{r} 2\\ +3\\
+longdesc \hline 5\end{tabular}. Furthermore, numbers may be very large,
+longdesc e.g 200 figures (with a very long compilation time). Many other
+longdesc features allow to deal with numbers (tests, display, some high
+longdesc level operations, etc.)
+containersize 15712
+containerchecksum 74f6ec3dfe32715ebe0bc0cbd3181dbc4e8384be19f2f7849333c21398fbb3a43d4e3385c8eb1dc81688bdde44072796cb1210402cdfa7522fd5a9052173004b
+doccontainersize 537796
+doccontainerchecksum 792a49ef02b67b0db85c827c52ea644235bb2d8c8d8c8c9c4e5c36d1003ab643906e7bad13ddc505e884abecbba97d495ae8d93d4a958c5ff9ce10888c29ae6a
+srccontainersize 916
+srccontainerchecksum e9ffcbc786fb8a5f697f23d6e229afbc39dbd9e72bf5d6ec81c396d6b8f62208004475c712301b203e4baef70d1b45cf1a5a41d86997cbfd794a68c8b2020d00
+runfiles size=32
+ texmf-dist/tex/generic/xlop/xlop.sty
+ texmf-dist/tex/generic/xlop/xlop.tex
+catalogue-also longdiv
+catalogue-ctan /macros/generic/xlop
+catalogue-date 2017-01-08 10:27:32 +0100
+catalogue-license lppl
+catalogue-topics arithmetic
+catalogue-version 0.26

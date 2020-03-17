@@ -1,0 +1,18 @@
+name magaz
+category Package
+revision 24694
+shortdesc Magazine layout
+longdesc The current version does special formatting for the first line
+longdesc of text in a paragraph. The package is part of a larger body of
+longdesc tools which remain in preparation.
+containersize 4416
+containerchecksum 5c35baa39a8b26911b2c2dd875576a0f875f5edc37fb497dbd403720855861219fdced11ee3fbbdee8e63f0817b6c2ee6a20e6ec3bcc9a5183465c22caf7735d
+doccontainersize 231644
+doccontainerchecksum 78c9163951f269a489f6e8a48cce7d9ca46aa5c7f2f2567f8e50627ddc32920a8a5b54bf141ae881c2863de6bad4f7a954588fef9469291f18e65b7fadbf051b
+runfiles size=3
+ texmf-dist/tex/latex/magaz/magaz.sty
+catalogue-ctan /macros/latex/contrib/magaz
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics layout typesetting
+catalogue-version 0.4

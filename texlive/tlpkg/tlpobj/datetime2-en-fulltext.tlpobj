@@ -1,0 +1,26 @@
+name datetime2-en-fulltext
+category Package
+revision 36705
+shortdesc English Full Text styles for the datetime2 package
+longdesc English date and time styles that use words for the numbers and
+longdesc ordinals. This package provides the following date and time
+longdesc styles: "en-fulltext", "en-FullText", "en-FULLTEXT", and the
+longdesc additional time style "en-Fulltext". (The date equivalent can
+longdesc be obtained through commands like \Today.) Unlike the base
+longdesc styles provided by datetime2.sty, these styles aren't
+longdesc expandable styles. This means that you can't use the date or
+longdesc time in PDF bookmarks or in the argument of certain commands,
+longdesc such as \MakeUppercase, while these styles are in use.
+containersize 2696
+containerchecksum 19f08e264921b8b12def2b20bb1d904f90dae712bcbe579a9697d1f657f148ad8311c6d7a8621f336dc82518ec64438640b49776fdab62f302b0919cc7de8e4a
+doccontainersize 278384
+doccontainerchecksum a6ed1e804d8229d735aaf1874458dda3206ecb5e648c35af82a1d3fe524e65aeb7669088dc4bd9fd83919263d59035fd539a8318a24b2bc2470f14670e28eced
+srccontainersize 4060
+srccontainerchecksum 9bf741dced10ac57d7c4fbc3a8a26b49b35d07a221f4d7ecf56ddfdea6500edeb39ef75ed0234d6e510ea07da5da06cf29691a36545dc4367b3682e879d92b10
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-en-fulltext/datetime2-en-fulltext.sty
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-en-fulltext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.0

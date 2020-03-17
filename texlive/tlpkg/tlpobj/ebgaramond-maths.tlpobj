@@ -1,0 +1,26 @@
+name ebgaramond-maths
+category Package
+revision 35701
+shortdesc LaTeX support for EBGaramond fonts in mathematics
+longdesc This package provides some LaTeX support for the use of
+longdesc EBGaramond12 in mathematics. It is based on, and requires,
+longdesc ebgaramond. The package was created in response to a question
+longdesc at TeX-stackexchange. and tested in the form of an answer in
+longdesc the same forum.
+execute addMap EBGaramond-Maths.map
+containersize 3412
+containerchecksum d07aa996f6ceaa8f5a3594fdbb2986e2993a2731b96de4457b8a41b7a21eff295d66774ec0a14e74d97fd5b19816330cbdb7e2ff103b81ab9cda37d76eeb6951
+doccontainersize 196372
+doccontainerchecksum 33599ab4850abe6fa070c1bc7a819e4caf2bbcbfb673626629c34b8c0d329d2c16d1fe75592b9da1981e4524cf3b5385ca6c13d343f528ab3ef363f5caa6fe51
+runfiles size=5
+ texmf-dist/fonts/enc/dvips/ebgaramond-maths/a_42pejf.enc
+ texmf-dist/fonts/map/dvips/ebgaramond-maths/EBGaramond-Maths.map
+ texmf-dist/fonts/tfm/public/ebgaramond-maths/EBGaramond12-Italic--oml-ebgaramond.tfm
+ texmf-dist/tex/latex/ebgaramond-maths/OMLEBGaramond-Maths.fd
+ texmf-dist/tex/latex/ebgaramond-maths/ebgaramond-maths.sty
+catalogue-also ebgaramond
+catalogue-ctan /fonts/ebgaramond-maths
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-maths font-virtual
+catalogue-version 1.1

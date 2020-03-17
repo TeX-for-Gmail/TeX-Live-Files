@@ -1,0 +1,22 @@
+name newspaper
+category Package
+revision 15878
+shortdesc Typeset newsletters to resemble newspapers
+longdesc The newspaper package redefines the page style and \maketitle
+longdesc command to produce a typeset page similar to that of a
+longdesc newspaper. It also provides several commands that (when used
+longdesc with other packages) simplify the writing of articles in a
+longdesc newspaper-style column format.
+containersize 1924
+containerchecksum 227fd249bba9deea4f191c59060c49d2d1cb8e367bb3007d3b123c17dd4328206962946ce3f637c8e6ae079a9c95244ce9027b0c9f83e0901801dde066a0405a
+doccontainersize 196212
+doccontainerchecksum b08d57346ba93e37e93f3c6e2487d56a0ac67eac0e4d9db564d221319e6403a1055729a2a1e43db4e161877b7300aa90e1853d75843c95295481d7cfaa3f6c1f
+srccontainersize 6804
+srccontainerchecksum 172e832bd15e8aecf6f80f8cb768d2d7b3721975638007ce631b78cf5f6dab27ef24ff63f5693f5c46cc430bfecae577beefe4fd2f6fef22d6f5fdf9ff20dfe7
+runfiles size=1
+ texmf-dist/tex/latex/newspaper/newspaper.sty
+catalogue-ctan /macros/latex/contrib/newspaper
+catalogue-date 2018-12-30 10:18:35 +0100
+catalogue-license lppl
+catalogue-topics magazine
+catalogue-version 1.0

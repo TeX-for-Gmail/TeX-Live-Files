@@ -1,0 +1,26 @@
+name hvfloat
+category Package
+revision 50846
+shortdesc Rotating caption and object of floats independently
+longdesc This package defines a macro to place objects (tables and
+longdesc figures) and their captions in different positions with
+longdesc different rotating angles within a float. All objects and
+longdesc captions can be framed. The main command is \hvFloat{float
+longdesc type}{floating object}{caption}{label}; a simple example is
+longdesc \hvFloat{figure}{\includegraphics{rose}}{Caption}{fig:0}.
+longdesc Options are provided to place captions to the right or left,
+longdesc and rotated. Setting nonFloat=true results in placing the float
+longdesc here.
+containersize 6816
+containerchecksum 057c2802d00a81ed354afd49fb0359c07436008cc5d268037f6f045b07de735003aa44327c90c0c28f8d9aa45fc638dd6045d8800f7ee1460d8291aebd5a79ce
+doccontainersize 2886780
+doccontainerchecksum 4fb7e09ba4a55456164fdcfa997f9d882bfa96a807ebf85541e65942d97b13cedad178242ac6a3498c64e1da2c77027412380ecc22677eb0dc43e76adcf137a0
+runfiles size=9
+ texmf-dist/tex/latex/hvfloat/hvfloat-fps.sty
+ texmf-dist/tex/latex/hvfloat/hvfloat.sty
+catalogue-also rotating
+catalogue-ctan /macros/latex/contrib/hvfloat
+catalogue-date 2019-04-07 17:12:28 +0200
+catalogue-license lppl
+catalogue-topics float box-manip
+catalogue-version 2.12a

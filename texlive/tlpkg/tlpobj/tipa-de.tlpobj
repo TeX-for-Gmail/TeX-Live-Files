@@ -1,0 +1,15 @@
+name tipa-de
+category Package
+revision 22005
+shortdesc German translation of tipa documentation
+longdesc This is a translation of Fukui Rei's tipaman from the tipa
+longdesc bundle.
+containersize 416
+containerchecksum 45ce2504e63e517e76ebbd7b6bfc7b6a4b3a10d72747714c731b6af0b1a9de4d025bce996594449ea61e983097748389a6d878936078fb676ddd4d6f1f267425
+doccontainersize 3676376
+doccontainerchecksum c69333d9a7d335fb217dacb00610b9f0e5eaaf78e535d69998fc600fe53f0ba61c7e3cc1e82d75f52b435cd6945044560b2d275476e96d84d611ab4978c02e3f
+catalogue-ctan /info/translations/tipa/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics translation german-doc font-doc
+catalogue-version 1.3

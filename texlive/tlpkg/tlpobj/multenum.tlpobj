@@ -1,0 +1,20 @@
+name multenum
+category Package
+revision 21775
+shortdesc Multi-column enumerated lists
+longdesc Defines an environment multienumerate, that produces an
+longdesc enumerated array in which columns are vertically aligned on the
+longdesc counter. The motivation was lists of answers for a text book,
+longdesc where there are many rather small items; the multienumerate
+longdesc environment goes some way to making such lists look neater.
+containersize 1664
+containerchecksum e73e2d3fe45f562398de752520628032fea310e5345a247472a2807618b72467b245995f32f21474dcb5702106bf32d6394508a96c4aeae4dbeaf6fdda7bdf4e
+doccontainersize 107660
+doccontainerchecksum 889ffbce149b1f0a98e22a1ebcafc60e29858d08b57e2e567956830c679515759a6c8209901641e3d77ded31238e8fe93f7e4cdff95d1be925e3972c9005f4a7
+runfiles size=2
+ texmf-dist/tex/latex/multenum/multienum.sty
+catalogue-also shortlst paralist
+catalogue-ctan /macros/latex/contrib/multenum
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics list list-enum

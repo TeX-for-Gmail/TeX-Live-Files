@@ -1,0 +1,19 @@
+name footnpag
+category Package
+revision 15878
+shortdesc Per-page numbering of footnotes
+longdesc Allows footnotes on individual pages to be numbered from 1,
+longdesc rather than being numbered sequentially through the document.
+containersize 7732
+containerchecksum a1ce9661f0f6a69d1709ea053fd548aed428a9cc8ef0445b9c4b897eeef349bb9767c219f5d860ab4d7d264982c1f4404d33619c80dec8411350bb965b19d709
+doccontainersize 53212
+doccontainerchecksum f83c9cc0701c63dbd5d3b7dd6038e1bb2c427e6edaca05b814778592587b066af3c4f7f12646f7b2ff7cc1c2ab8d2ffd99480dbfe72e50c9bce907e8e2d4c509
+srccontainersize 924
+srccontainerchecksum a44b0ba4ef7b6328d6d307eca25c34d494000a238c69fec3686a55057ff56ae1ada7cacc763ff1cd26aaa83962257442060fbd795c76d61f92761bd66be81378
+runfiles size=5
+ texmf-dist/tex/latex/footnpag/footnpag.sty
+catalogue-also footmisc
+catalogue-ctan /macros/latex/contrib/footnpag
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics footnote

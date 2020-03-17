@@ -1,0 +1,21 @@
+name qsharp
+category Package
+revision 49722
+shortdesc Syntax highlighting for the Q# language
+longdesc The package provides syntax highlighting for the Q# language, a
+longdesc domain-specific language for quantum programming.
+containersize 1120
+containerchecksum 29aa0808112111d088f8795ec87ca3df6f2e10f0a8e91347ddc7101733aadc72ba90356f7e4b39fce6484e04975d3e151205a5d5272789ecd414cd0a6afc243b
+doccontainersize 7208
+doccontainerchecksum 69d74a3ed755d16957a2a844ae624a15e18813fdf02595c2e4ae2dc0cf13b20a1db1c4f49c20db3e4d3343c586411a88c7ecfe6367c4c1efea1a8cb2730cf8f3
+srccontainersize 2620
+srccontainerchecksum d8ad97902be6b5f29db2cdd7d27049407ebffe5efc8bf0f0ac64e64ed2e3df8f4fe86b8e023ae7dde4368740fdebf22ff6420a32854d5745e8fb147005788226
+runfiles size=1
+ texmf-dist/tex/latex/qsharp/qsharp.sty
+catalogue-contact-bugs https://github.com/msr-quarc/qsharp.sty/issues
+catalogue-contact-repository https://github.com/msr-quarc/qsharp.sty
+catalogue-ctan /macros/latex/contrib/qsharp
+catalogue-date 2019-01-20 05:31:27 +0100
+catalogue-license lppl1.3c
+catalogue-topics synt-hlt
+catalogue-version 0.3.1901.1401

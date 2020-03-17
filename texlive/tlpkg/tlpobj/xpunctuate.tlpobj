@@ -1,0 +1,23 @@
+name xpunctuate
+category Package
+revision 26641
+shortdesc Process trailing punctuation which may be redundant
+longdesc The package provides commands that enable the user (or package
+longdesc writer) to insert punctuation after the macro. The method is
+longdesc similar to that of xspace, but goes further. The package
+longdesc provides the commands \xperiod, \xcomma and \xperiodcomma,
+longdesc which follow a similar procedure to that of \xspace, and insert
+longdesc punctuation if and only if it is necessary.
+containersize 1324
+containerchecksum 4b69969632691a529ff0127f21a5974a509a29c047a33cdfc53d1bdef1aacee7d6ee8eeda5d185759b60b2e4dfcd0dc59948a8156767e2a7ced0256aac0697d4
+doccontainersize 199392
+doccontainerchecksum 04a839972105943ad72b848adb44584b647a3e52842c0956489ce82496d005ce35f4b8c8e6be1337b5f65616036b58e9543e7f4796075f9828aa9220015e441f
+srccontainersize 4180
+srccontainerchecksum 02b04679b0d5ec75f2972f786293250e0115378fee96845249a221be1cbfdce9d03897f877b82950a5c80d117d4693aaa60c06d7effff9c50e63db8a6e1e49d6
+runfiles size=1
+ texmf-dist/tex/latex/xpunctuate/xpunctuate.sty
+catalogue-ctan /macros/latex/contrib/xpunctuate
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics macro-supp
+catalogue-version 1.0

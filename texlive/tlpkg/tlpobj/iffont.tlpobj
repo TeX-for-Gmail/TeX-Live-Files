@@ -1,0 +1,21 @@
+name iffont
+category Package
+revision 38823
+shortdesc Conditionally load fonts with fontspec
+longdesc This package provides a macro to select the first font XeLaTeX
+longdesc or LuaTeX can find in a comma separated list and, additionally,
+longdesc a number of macro tests.
+containersize 1348
+containerchecksum a2a329da661f003edac0e0bc701958e0744864f8693ffccce7f1ea6867eaabe7d71b38a1dbef8bc27f770e8b4c30a4480ede1dd575d26860095575020db987f6
+doccontainersize 28352
+doccontainerchecksum 95a8f7357f095dc39ff642edeb6d7df206c37ef01c14a1daa280939d44047c5a935eb18049c280ce00238ad4fdfef6abe7399dd8c6fc815b7c70b22072465453
+srccontainersize 3452
+srccontainerchecksum 2a12158850d95a2008e5a845914293cc9aae54dedd54e4a13a27899b0bb8c272e43bba374447b34913f7b4aae01aff9b9fee981240bed93f8995dfc53eefd2e5
+runfiles size=1
+ texmf-dist/tex/latex/iffont/iffont.sty
+catalogue-contact-repository https://github.com/benjamin-weiss/iffont
+catalogue-ctan /macros/latex/contrib/iffont
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics font-mgmt
+catalogue-version 1.0.0

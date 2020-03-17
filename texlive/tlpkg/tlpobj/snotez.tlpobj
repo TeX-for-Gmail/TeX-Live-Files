@@ -1,0 +1,22 @@
+name snotez
+category Package
+revision 30355
+shortdesc Typeset notes, in the margin
+longdesc The package provides a macro \sidenote, that places a note in
+longdesc the margin of the document, with its baseline aligned with the
+longdesc baseline in the body of the document. These sidenotes are
+longdesc numbered (both in the text, and on the notes themselves). The
+longdesc package loads the package etoolbox, pgfopts, marginnote and
+longdesc perpage.
+containersize 2924
+containerchecksum e1e6ecfd64a317745fba39643c70ef5a71719e3c4ed3644569ab7a4a549a44eb58d1fd1d77608fd455282124d0e7372a364f95f7b67de192b1cfca1a9644086a
+doccontainersize 461068
+doccontainerchecksum 6ab47280669285be6cd72e2027b939ab2c2e2df7c910b5775dcf02b570ba558a3c89832a45d65cf1a8a649dad67606a2d2fe3d4e477de67098dce497f0c2beec
+runfiles size=3
+ texmf-dist/tex/latex/snotez/snotez.sty
+catalogue-also sidenotes
+catalogue-ctan /macros/latex/contrib/snotez
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics marginal
+catalogue-version 0.3

@@ -1,0 +1,8 @@
+name dvisvgm.x86_64-linux
+category TLCore
+revision 50358
+shortdesc x86_64-linux files of dvisvgm
+containersize 1651460
+containerchecksum 16cbc91267486ec99275210f3093f2c0e074b53a82a3f4a77ec6179abdfe0932dcd5b7624d962b223d87279f10b45c255f9ab1aab1822f36f342ac69f73efe89
+binfiles arch=x86_64-linux size=1355
+ bin/x86_64-linux/dvisvgm

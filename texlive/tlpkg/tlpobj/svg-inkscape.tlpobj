@@ -1,0 +1,22 @@
+name svg-inkscape
+category Package
+revision 32199
+shortdesc How to include an SVG image in LaTeX using Inkscape
+longdesc The document demonstrates the use of SVG images in LaTeX
+longdesc documents. Using the "PDF+LaTeX output" option of Inkscape, it
+longdesc is possible to include SVG in documents, in which LaTeX
+longdesc typesets the text. This results in uniform text style
+longdesc throughout the document, including text in images; moreover,
+longdesc LaTeX commands may be used in the image's text, providing such
+longdesc things as mathematics and references. The document also
+longdesc describes how to automate the conversion from SVG to PDF+LaTeX
+longdesc using Inkscape.
+containersize 648
+containerchecksum e1708206e6fe85271e729ee8c9bf952f45af662a54ad2e816b449fed263fefd8527529ea777b85a50f736d0ec7875afcb3059ed2ac81afd45c54ccdc687c3979
+doccontainersize 197212
+doccontainerchecksum 609d1a7d2256461a749c3a74ac5dffdb7efec999faa15315872f4e61884933cf47c380bfd8eba53de491494cb498a45ba263dc889fa0fd337c48f82842fa6bdd
+catalogue-also svg
+catalogue-ctan /info/svg-inkscape
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-prep

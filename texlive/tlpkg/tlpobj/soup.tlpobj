@@ -1,0 +1,22 @@
+name soup
+category Package
+revision 50815
+shortdesc Generate alphabet soup puzzles
+longdesc Generate alphabet soup puzzles (aka word search puzzles), and
+longdesc variations using numbers or other symbols. Provides macros to
+longdesc generate an alphabet soup style puzzle (also known as word
+longdesc search puzzles or "find-the-word" puzzles). Allow creating
+longdesc numbersoup and soups with custom symbol sets.
+containersize 3424
+containerchecksum 478c8cba8623b184db1c9237b7a805219bf1ffb7ef45280fecf7cd75a1720ca0ea2e1e1ad73465ee20dbc2bbaf14667d4707524edbc073dd4fbd0537dbeca8c2
+doccontainersize 113216
+doccontainerchecksum 318cb98167123bf8d9a5f80db8e31a31f6f61536e938da3b68efc0dfec6722bc898d8295d32896c24d2842b262f22f70e08014c07755b6728dbb2040f64aef5e
+srccontainersize 7288
+srccontainerchecksum 41d74f1e6812f4b56b44e3a80abb398baf9eef5c6a361de98a1237fc6931952460450f3780f682d35bf9bc718d2902c9d82ce15994144b2a133dcda46b531774
+runfiles size=4
+ texmf-dist/tex/latex/soup/soup.sty
+catalogue-ctan /macros/latex/contrib/soup
+catalogue-date 2019-04-06 06:01:50 +0200
+catalogue-license lppl1.3
+catalogue-topics cwpuzzle games puzzle
+catalogue-version 1.0.2

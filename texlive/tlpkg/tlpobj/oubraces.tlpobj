@@ -1,0 +1,16 @@
+name oubraces
+category Package
+revision 21833
+shortdesc Braces over and under a formula
+longdesc Provides a means to interleave \overbrace and \underbrace in
+longdesc the same formula.
+containersize 1660
+containerchecksum 8a0a6e0648cc3dd9a342a960dec6512fc9153a083c8fc74eb08c4e0f46d091e5f2c71bdb69bae80fc13a857175ec6bab4b18cc81a0963d794028f4faedd0def3
+doccontainersize 60352
+doccontainerchecksum c97f91df77f64d824605c56669136585b94d95031ed5a4a67f3404c54b2c96f32bafaecc06d114755d0e65c3fcd0379d63f28f94aa32ccb8d23730f5f3eaf63c
+runfiles size=1
+ texmf-dist/tex/latex/oubraces/oubraces.sty
+catalogue-ctan /macros/latex/contrib/oubraces
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics maths

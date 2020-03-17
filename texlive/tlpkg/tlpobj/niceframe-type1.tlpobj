@@ -1,0 +1,27 @@
+name niceframe-type1
+category Package
+revision 44671
+shortdesc Type 1 versions of the fonts recommended in niceframe
+longdesc The bundle provides Adobe Type 1 versions of the fonts
+longdesc bbding10, dingbat, karta15, umranda and umrandb.
+execute addMap niceframe.map
+containersize 276328
+containerchecksum c99757f9907622958267f042f0ee0aec8dc6317839fba05309116f9151e476e37f24dde00e6de59fb0204beb9383eae039c0fabb089d6349d6f6031e8df196f0
+doccontainersize 604
+doccontainerchecksum 5ab28cf7091ba993d7b4ac9f5caf2d563c60e63a3ce8975bae105f460e2dadbc963efd17b7ec5ddeeb8a35bea1b05a007590d3f6f9d5cf5dba0495e5b0ee8ad8
+runfiles size=84
+ texmf-dist/fonts/afm/public/niceframe-type1/bbding10.afm
+ texmf-dist/fonts/afm/public/niceframe-type1/dingbat.afm
+ texmf-dist/fonts/afm/public/niceframe-type1/karta15.afm
+ texmf-dist/fonts/afm/public/niceframe-type1/umranda.afm
+ texmf-dist/fonts/afm/public/niceframe-type1/umrandb.afm
+ texmf-dist/fonts/map/dvips/niceframe-type1/niceframe.map
+ texmf-dist/fonts/type1/public/niceframe-type1/bbding10.pfb
+ texmf-dist/fonts/type1/public/niceframe-type1/dingbat.pfb
+ texmf-dist/fonts/type1/public/niceframe-type1/karta15.pfb
+ texmf-dist/fonts/type1/public/niceframe-type1/umranda.pfb
+ texmf-dist/fonts/type1/public/niceframe-type1/umrandb.pfb
+catalogue-ctan /fonts/niceframe
+catalogue-date 2017-06-23 04:27:05 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-decor

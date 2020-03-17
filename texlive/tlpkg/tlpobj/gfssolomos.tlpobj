@@ -1,0 +1,29 @@
+name gfssolomos
+category Package
+revision 18651
+shortdesc A Greek-alphabet font
+longdesc Solomos is a font which traces its descent from a
+longdesc calligraphically-inspired font of the mid-19th century. LaTeX
+longdesc support, for use with the LGR encoding only, is provided.
+execute addMap gfssolomos.map
+containersize 102812
+containerchecksum 6e6ac03cf7ee20accfb67855b3dce136e3caa2466fce760adef0a2c1633e0a170543cf861a6a07a0c80344ab026dc2f74a35c5543ea92a53f7ce8a1042f778b7
+doccontainersize 52744
+doccontainerchecksum 67640d1a95ad7ec43d7df407916cde264c5460cf400011cf0cdb3dc4caffabba370f2fc15ae945e20b6a9bb6623645f6ffe80034a781cdeb11c400bd23985e3b
+runfiles size=44
+ texmf-dist/fonts/afm/public/gfssolomos/GFSSolomos-Regular.afm
+ texmf-dist/fonts/enc/dvips/gfssolomos/gpsolomos.enc
+ texmf-dist/fonts/map/dvips/gfssolomos/gfssolomos.map
+ texmf-dist/fonts/opentype/public/gfssolomos/GFSSolomos.otf
+ texmf-dist/fonts/tfm/public/gfssolomos/gsolomos8a.tfm
+ texmf-dist/fonts/tfm/public/gfssolomos/gsolomos8r.tfm
+ texmf-dist/fonts/type1/public/gfssolomos/GFSSolomos-Regular.pfb
+ texmf-dist/fonts/vf/public/gfssolomos/gsolomos8a.vf
+ texmf-dist/tex/latex/gfssolomos/gfssolomos.sty
+ texmf-dist/tex/latex/gfssolomos/lgrsolomos.fd
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /fonts/greek/gfs/gfssolomos
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license ofl
+catalogue-topics font font-type1 font-otf font-greek
+catalogue-version 1.0

@@ -1,0 +1,23 @@
+name patgen
+category TLCore
+revision 50602
+shortdesc Generate hyphenation patterns
+longdesc This is the last version of the program distributed by Knuth;
+longdesc it advertises itself as a pattern generator for "the algorithm
+longdesc used in TeX", but, of course, the patterns used in modern
+longdesc distributions are Unicode-based. The currently-maintained
+longdesc patgen is part of web2c (and all major TeX distributions).
+depend kpathsea
+depend patgen.ARCH
+containersize 648
+containerchecksum 524ea5aa09feba7ef5efd47e35d8d94703be4e191bb081d0b13007e853e88729c6029451e58a7237ad5ddf524c4d0798421316c38d1d9374ed7cd05f2744f761
+doccontainersize 28652
+doccontainerchecksum 136e6c23505593788da8343f4dffccee77ffcf9fa63382871507db47c3ff23d6c25d0cefc985f67e4ee137840aa3af8f1738a5b2dac5272e568e73b18b71a5e2
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-repository http://tug.org/svn/texlive/trunk/Build/source/texk/web2c/
+catalogue-contact-support http://lists.tug.org/tex-k
+catalogue-ctan /obsolete/systems/knuth/unsupported/patgen
+catalogue-date 2019-01-05 09:49:23 +0100
+catalogue-license knuth
+catalogue-topics hyph-gen
+catalogue-version 2.3

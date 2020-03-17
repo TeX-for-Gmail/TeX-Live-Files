@@ -1,0 +1,30 @@
+name examdesign
+category Package
+revision 15878
+shortdesc LaTeX class for typesetting exams
+longdesc This bundle provides a class examdesign. The class provides
+longdesc several features useful for designing tests or question sets:
+longdesc it allows for explicit markup of questions and answers; the
+longdesc class will, at the user's request, automatically generate
+longdesc answer keys; multiple versions of the same test can be
+longdesc generated automatically, with the ordering of questions within
+longdesc each section randomly permuted so as to minimize cheating; the
+longdesc generated answer keys can be constructed either with or without
+longdesc the questions included; environments are provided to assist in
+longdesc constructing the most common types of test question: matching,
+longdesc true/false, multiple-choice, fill-in-the-blank, and short
+longdesc answer/essay questions.
+containersize 10780
+containerchecksum bf052063b16056faed35007a5e1b6e2bf4f116388b2698c24c7c00ff257fde4f0225f138af6c011f99d051085169b51357c8661647f28be07a7f6dfd330ac10c
+doccontainersize 377000
+doccontainerchecksum 1870e3732933e0d69f52eff2c403011b09814938083b91bb428c776ef50140e1b43713837e018b09e8340dd5e47811aa1050bb9f90b350aa341216edb00c2a9b
+srccontainersize 29924
+srccontainerchecksum 8f755df76be154c4a2a1aa6d2814774a0b9398d0b64f7a59cd865e92e805dc3bfc84026a18dc449a2ebd6cb6215097e351037430de19960e957f314ae724e244
+runfiles size=12
+ texmf-dist/tex/latex/examdesign/examdesign.cls
+catalogue-also exams exam
+catalogue-ctan /macros/latex/contrib/examdesign
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics exam class
+catalogue-version 1.101

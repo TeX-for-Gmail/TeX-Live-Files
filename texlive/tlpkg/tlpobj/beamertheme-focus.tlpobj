@@ -1,0 +1,24 @@
+name beamertheme-focus
+category Package
+revision 49748
+shortdesc A minimalist presentation theme for LaTeX Beamer
+longdesc A presentation theme for LaTeX Beamer that aims at a clean and
+longdesc minimalist design, so to minimize distractions and put the
+longdesc focus directly on the content.
+containersize 4300
+containerchecksum 03bab50a19a100e1ec64dfac81469c2f7a7bdede3616aa377c567b3fa48203a0d04a00794efa6fc3376518a252c1ff0ceee2be890127ec653dc0ad3186c08b57
+doccontainersize 534596
+doccontainerchecksum cb808d4f989cb1795a814ad25d8a6b5cd61d86680edf15a61f6ecdb8db1a95f14a0b9a024fedeb8f367ada8311ce41bae315cc448dbafd0f25aeb77cfb5826e9
+runfiles size=7
+ texmf-dist/tex/latex/beamertheme-focus/beamercolorthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerfontthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerinnerthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerouterthemefocus.sty
+ texmf-dist/tex/latex/beamertheme-focus/beamerthemefocus.sty
+catalogue-contact-bugs https://github.com/elauksap/focus-beamertheme/issues
+catalogue-contact-repository https://github.com/elauksap/focus-beamertheme
+catalogue-ctan /macros/latex/contrib/beamer-contrib/themes/beamertheme-focus
+catalogue-date 2019-01-18 11:41:18 +0100
+catalogue-license gpl3
+catalogue-topics presentation
+catalogue-version 2.3

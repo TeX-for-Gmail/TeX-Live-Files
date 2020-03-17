@@ -1,0 +1,30 @@
+name pax
+category Package
+revision 26112
+shortdesc Extract and reinsert PDF annotations with pdfTeX
+longdesc If PDF files are included using pdfTeX, PDF annotations are
+longdesc stripped. The pax project offers a solution without altering
+longdesc pdfTeX. A Java program (pax.jar) parses the PDF file that will
+longdesc later be included. The program then writes the data of the
+longdesc annotations into a file that can be read by TeX. The LaTeX
+longdesc package pax extends the graphics package to support the scheme:
+longdesc if a PDF file is included, the package looks for the file with
+longdesc the annotation data, reads them and puts the annotations in the
+longdesc right place. Project status: experimental
+depend pax.ARCH
+containersize 18136
+containerchecksum 3fa85993a3cee32753a6b965a2e7a97cccda36f2c32941e8650026d90a8a69c93ba1f762f802f15999b3c32e327e1a98d970217613a660cc5fac68cf3afabd6a
+doccontainersize 3012
+doccontainerchecksum e4a2c6b4220bb498bbc1f74ab8fdfcb65d261ef944a43a86f9007bfd0073c9c6aca08fb136c8b1516d78fd3a37bb00388afc95874778fe453e75f0ea615ef1bb
+srccontainersize 18776
+srccontainerchecksum ad5e65d29d540d3736bf7045c0c392d79d2ba9c9a194a7d04df3c76729105b95c609167900e9b4533d0ea353312c452de0cb02f303b0d5e777c0eddaac0c18dc
+runfiles size=10
+ texmf-dist/scripts/pax/pax.jar
+ texmf-dist/scripts/pax/pdfannotextractor.pl
+ texmf-dist/tex/latex/pax/pax.sty
+catalogue-also pdftex
+catalogue-ctan /macros/latex/contrib/pax
+catalogue-date 2016-12-28 10:23:26 +0100
+catalogue-license lpplgpl
+catalogue-topics pdf-feat
+catalogue-version 0.1l

@@ -1,0 +1,26 @@
+name wordlike
+category Package
+revision 15878
+shortdesc Simulating word processor layout
+longdesc The package simulates typical word processor layout: narrow
+longdesc page margins, Times, Helvetica and Courier fonts, \LARGE or
+longdesc \Large headings, and \sloppy typesetting. The package aims at
+longdesc making life easier for users who are discontent with LaTeX's
+longdesc standard layout settings because they need a layout that
+longdesc resembles the usual "wordlike" output. The design of the
+longdesc package draws on several discussions in the de.comp.text.tex
+longdesc and comp.text.tex newsgroups that are referred to in the
+longdesc manual.
+containersize 1584
+containerchecksum d600073b2373119973ca47564938db5824181d6b74409ef7f4a2b19d53b83b97ccf8edf5d77dd831c0d52a4379f5928ad7a0391d90a2f19fe4d3ef681133078b
+doccontainersize 110924
+doccontainerchecksum 10bbfa76beb0718dff8d4175712567e34e77aaefbce9fbc350d5bca43d8d5e87fe1cdcce5c558946c2b04beede8628b7535abc451f7d904ac283929ae39c6460
+srccontainersize 6324
+srccontainerchecksum 23e7f66f064e7e8bbf94d58118c0c8891a316fc2e2fdf37156b078242fb33343a38d19f03dd605035ce874de1d05d9e405c612e32c407e061f54386cfef791ac
+runfiles size=1
+ texmf-dist/tex/latex/wordlike/wordlike.sty
+catalogue-ctan /macros/latex/contrib/wordlike
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics layout
+catalogue-version 1.2b

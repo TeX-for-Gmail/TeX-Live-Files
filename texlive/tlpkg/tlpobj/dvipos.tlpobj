@@ -1,0 +1,9 @@
+name dvipos
+category TLCore
+revision 50602
+shortdesc support DVI pos: specials used by ConTeXt DVI output
+depend dvipos.ARCH
+containersize 296
+containerchecksum ea771c689b519ab7167a0e363af501db771e7883c0b82fe0ded3661b57fcf31b932cb268b08b7e1f2f4ea3a7f85a7bc1efca83272f7eaf163354166a0b9a5a93
+doccontainersize 28512
+doccontainerchecksum 0e4548fc7abe4aa8f54a1b1a17d4582e1cb6e9f0aecd9812a1e2337ab1aa9995b4f3c4e2417f3eed248a9d40a5ba2c314aab273fda3ff5dafda3d9ca23307b77

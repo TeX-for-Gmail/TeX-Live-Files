@@ -1,0 +1,20 @@
+name jkmath
+category Package
+revision 47109
+shortdesc Macros for mathematics that make the code more readable
+longdesc Inspired by the physicspackage on CTAN, the package defines
+longdesc some simple macros for mathematical notation which make the
+longdesc code more readable and/or allow flexibility in typesetting
+longdesc material.
+containersize 1636
+containerchecksum 8e549db42b25c2edac71013afba0ebe3e09859ce4ef104da2b969663014cb88c10bf1c8899ee181070e6cec1b28d0ec9e5966d27f2176e2032d6855ded8ea941
+doccontainersize 128124
+doccontainerchecksum 99a954f6eb917333a8e6c4e3437fcd16f6950e0473fc1a48c99d748246c97d5a3df5b96e0314a9ec5e7c6bb0b318b934c40070ec94df00546e49cf140aef23c2
+runfiles size=1
+ texmf-dist/tex/latex/jkmath/jkmath.sty
+catalogue-contact-home https://github.com/JKaerts/jkmath
+catalogue-ctan /macros/latex/contrib/jkmath
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 0.1

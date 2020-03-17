@@ -1,0 +1,32 @@
+name proofread
+category Package
+revision 48322
+shortdesc Commands for inserting annotations
+longdesc This package defines a few LaTeX commands that may be useful
+longdesc when you proofread a LaTeX document. They allow you to easily
+longdesc highlight text and add comments in the margin. Vim escape
+longdesc sequences are provided for inserting or removing these LaTeX
+longdesc commands in the source. Options are provided for displaying the
+longdesc document with extra line spacing, and for displaying it in
+longdesc either corrected or uncorrected state, both without margin
+longdesc notes. The package is based on code for a text highlighting
+longdesc command that was published by Antal Spector-Zabusky on
+longdesc http://tex.stackexchange.com/questions/5959. The main file,
+longdesc proofread.dtx, is self-extracting, so you can generate the
+longdesc style file by compiling proofread.dtx with pdfLaTeX. This
+longdesc package is based on the soul package; so if you plan to
+longdesc highlight non-ASCII characters, you must compile your source
+longdesc with either XeTeX- or LuaTeX-based compilers.
+containersize 2624
+containerchecksum c5c018f1002c1868bf10cee9a537e5abc7281a5e15584ad14dc5344d4316ea99bf2030fc930c839e5acd321b224550da11924518590d628405d1589b978e3523
+doccontainersize 288052
+doccontainerchecksum 60097c6918ecdb7a542f3689cc936bfff35b37d9915275c4cc4d604e47803de5113e84ef655035084f74a26ed479cdd785f31d9f04399bc3dd750ee1405ecd58
+srccontainersize 6320
+srccontainerchecksum f14b3237561eb9c3094500cfa4f72b19d8c10eef9ad1f96d787a62533642a64d9d1af652630e79f595e47608ea1419210e4391346ca3b0727eb62ad600413cd7
+runfiles size=2
+ texmf-dist/tex/latex/proofread/proofread.sty
+catalogue-ctan /macros/latex/contrib/proofread
+catalogue-date 2018-07-31 13:24:40 +0200
+catalogue-license lppl1.3c
+catalogue-topics editorial decoration
+catalogue-version 1.03

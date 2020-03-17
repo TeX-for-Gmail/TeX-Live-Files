@@ -1,0 +1,23 @@
+name captdef
+category Package
+revision 17353
+shortdesc Declare free-standing \caption commands
+longdesc The \DeclareCaption command defines a class of caption command
+longdesc associated with the counter specified to the command. These
+longdesc commands are free-standing (i.e., don't need to be inside a
+longdesc float environment). The package uses \DeclareCaption to define
+longdesc \figcaption and \tabcaption, which can be used outside figure
+longdesc or table environments.
+containersize 1140
+containerchecksum c24a7d66c1daa3a9c336a8555286876aea9e969a4107c42c258f0f4c9a88070316df70e0f2a860adb6335a33e49cdd7a9ba8391255f1e1fb283bd2f6a7e7b343
+doccontainersize 216228
+doccontainerchecksum c0a1a4584d0802eda39812d2c293fabed2487b0cedb57df622519d5857c2ef10e54e66032e9e9ee9ab81c757fb827eabf422b1bf2ab0ae6f7c22ab3aecb49a8f
+runfiles size=1
+ texmf-dist/tex/latex/captdef/captdef.sty
+catalogue-also capt-of
+catalogue-contact-repository https://github.com/rf-latex/captdef
+catalogue-contact-support https://github.com/rf-latex/captdef/issues
+catalogue-ctan /macros/latex/contrib/captdef
+catalogue-date 2018-09-15 15:27:07 +0200
+catalogue-license lppl
+catalogue-topics caption

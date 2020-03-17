@@ -1,0 +1,19 @@
+name warning
+category Package
+revision 22028
+shortdesc Global warnings at the end of the logfile
+longdesc This package provides a command that generates a list of
+longdesc warnings that are printed out at the very end of the logfile.
+longdesc This is useful for warnings such as 'Rerun for this or that
+longdesc reason' or 'This is a draft, change it before the final run'.
+containersize 1488
+containerchecksum de3d9ef9a6dda4022fa8f04a0be509d3e9e583a539a3590cd30527f108ff739e0c1dbf8c5945e0a72902b14c2616e26d41a05f23957e9466c788fd228ac6b082
+doccontainersize 256532
+doccontainerchecksum 04c8ecdd39f2e0b3aec8cf6d9235acc7e10c8e182bbb2a7b30a46cf9ce7c08fb0fea21956356b3dad500a5a58c7a2b63e9471b2e8fe626b17492f721f527ce72
+runfiles size=1
+ texmf-dist/tex/latex/warning/warning.sty
+catalogue-ctan /macros/latex/contrib/warning
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics comp-supp
+catalogue-version 0.01

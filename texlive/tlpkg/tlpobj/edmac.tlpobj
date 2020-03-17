@@ -1,0 +1,24 @@
+name edmac
+category Package
+revision 15878
+shortdesc Typeset critical editions
+longdesc This is the type example package for typesetting scholarly
+longdesc critical editions.
+containersize 13196
+containerchecksum a9f12f0745305ce261b142f96ed496341997098461df749715723fb09d978ebb037976c7fd7176eae2475d24c71df201a0123b1651749b2b96c9ed9429746f6e
+doccontainersize 89884
+doccontainerchecksum a54f4b1171f8f6edd6e655f49adec69f21a8293af03a02228056ca700feb7b656cbf715047a20f45127695fa851af45fb5e4852ccbf7d28374a02d14f6e55acc
+srccontainersize 952
+srccontainerchecksum b32626fb4acd41e9d853131d1c32e43d2cf10ee021ada41b06b8cee5c88b1f8ec8511057f83865c9237d8a96a9648edf8696d9fb6166e4c9f072e8dfc10808a2
+runfiles size=17
+ texmf-dist/tex/generic/edmac/edmac.tex
+ texmf-dist/tex/generic/edmac/edmacfss.sty
+ texmf-dist/tex/generic/edmac/edstanza.tex
+ texmf-dist/tex/generic/edmac/tabmac.tex
+catalogue-also ledmac ednotes manyfoot lineno poemscol
+catalogue-contact-home http://tug.org/edmac
+catalogue-ctan /macros/plain/contrib/edmac
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2
+catalogue-topics crit-ed
+catalogue-version 3.17

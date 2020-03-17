@@ -1,0 +1,25 @@
+name multiexpand
+category Package
+revision 45943
+shortdesc Variations on the primitive command \expandafter
+longdesc The package provides two user commands; one that performs
+longdesc multiple expansions, and one that does multiple \expandafter
+longdesc operations, in a single macro call. The author suggests that
+longdesc the same effect could be provided by use of the command variant
+longdesc mechanisms of LaTeX 3 (see, for example, the interface
+longdesc documentation of the experimental LaTeX 3 kernel).
+containersize 1572
+containerchecksum 63f512ca5b9649c86a6936cc2407737e41afd6c6a3b4810fe81155a5b4127aecc538303e26b91f53decee900fba7946e90a46a545b3c9caafb3e0863940e0009
+doccontainersize 378352
+doccontainerchecksum 6b8a727aae2d314877df551ca5804e84be0bc530b4f09d8bfe6a9c1a4c1eb98647257beeb1813a183f0aa5422b0041443e817ce11b6db70e4129e3edc664e788
+srccontainersize 5932
+srccontainerchecksum 197ad74e02212405fee0c79ea03021172e7ac5a99222e0c0d300da6a141bc694a2957c544bd357fb67fcac24acbbb4059041bd37f607b29f5f763b59b70613f9
+runfiles size=1
+ texmf-dist/tex/generic/multiexpand/multiexpand.sty
+catalogue-contact-bugs https://github.com/blefloch/latex-multiexpand/issues
+catalogue-contact-repository https://github.com/blefloch/latex-multiexpand
+catalogue-ctan /macros/generic/multiexpand
+catalogue-date 2017-11-29 21:17:19 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp
+catalogue-version 1.5

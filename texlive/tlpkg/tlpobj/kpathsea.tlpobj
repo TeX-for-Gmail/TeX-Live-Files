@@ -1,0 +1,53 @@
+name kpathsea
+category TLCore
+revision 50660
+shortdesc Path searching library for TeX-related files
+longdesc Kpathsea is a library and utility programs which provide path
+longdesc searching facilities for TeX file types, including the
+longdesc self-locating feature required for movable installations,
+longdesc layered on top of a general search mechanism. It is not
+longdesc distributed separately, but rather is released and maintained
+longdesc as part of the TeX live sources.
+depend kpathsea.ARCH
+containersize 31484
+containerchecksum d1a698d20fecd29d9f7c2e6d0b3a62cdd61a22a796d5d9aecac5f34d6cd4fefbe1ea5fe33106df314c99433419418754585fa2c862fa413e2c4a1b690cff4570
+doccontainersize 1068232
+doccontainerchecksum 21445ef78776821d9a2920760393937c415f014bfddd23323b49dcd2c2e932dd7e4f5789dc482bb9d45abde9c3b38951ab631b4d332a67f28a25a77616b48229
+runfiles size=51
+ texmf-dist/web2c/amiga-pl.tcx
+ texmf-dist/web2c/cp1250cs.tcx
+ texmf-dist/web2c/cp1250pl.tcx
+ texmf-dist/web2c/cp1250t1.tcx
+ texmf-dist/web2c/cp227.tcx
+ texmf-dist/web2c/cp852-cs.tcx
+ texmf-dist/web2c/cp852-pl.tcx
+ texmf-dist/web2c/cp8bit.tcx
+ texmf-dist/web2c/empty.tcx
+ texmf-dist/web2c/fmtutil.cnf
+ texmf-dist/web2c/il1-t1.tcx
+ texmf-dist/web2c/il2-cs.tcx
+ texmf-dist/web2c/il2-pl.tcx
+ texmf-dist/web2c/il2-t1.tcx
+ texmf-dist/web2c/kam-cs.tcx
+ texmf-dist/web2c/kam-t1.tcx
+ texmf-dist/web2c/macce-pl.tcx
+ texmf-dist/web2c/macce-t1.tcx
+ texmf-dist/web2c/maz-pl.tcx
+ texmf-dist/web2c/mktex.cnf
+ texmf-dist/web2c/mktex.opt
+ texmf-dist/web2c/mktexdir
+ texmf-dist/web2c/mktexdir.opt
+ texmf-dist/web2c/mktexnam
+ texmf-dist/web2c/mktexnam.opt
+ texmf-dist/web2c/mktexupd
+ texmf-dist/web2c/natural.tcx
+ texmf-dist/web2c/tcvn-t5.tcx
+ texmf-dist/web2c/texmf.cnf
+ texmf-dist/web2c/viscii-t5.tcx
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-home http://tug.org/kpathsea
+catalogue-contact-repository http://tug.org/svn/texlive/trunk/Build/source/texk/kpathsea/
+catalogue-contact-support http://lists.tug.org/tex-k
+catalogue-date 2019-01-05 09:54:55 +0100
+catalogue-license lgpl2.1
+catalogue-topics sys-supp

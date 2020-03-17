@@ -1,0 +1,39 @@
+name ginpenc
+category Package
+revision 24980
+shortdesc Modification of inputenc for German
+longdesc If the inputenc is used and German umlauts are input directly,
+longdesc they are converted to the LICR representation \"a (etc.). This
+longdesc breaks the sort algorithm of makeindex, for instance. Ginpenc
+longdesc converts umlauts and the sharp-s to the short forms defined by
+longdesc babel, e.g., "a instead, if the text is typeset in German.
+containersize 2212
+containerchecksum 20ea4e42fa07c21d8f2ae5d4419e6382141e6babca0b89b508744ea22d6310052f2c46e6ba0ad32b06f5623daee07a16eeaaa98378c9ad04dacb78634b9a583d
+doccontainersize 200176
+doccontainerchecksum 4e343ab469e2445f6a2fd5297ae38d1cb42d4db1a3c438885815a2e4c5d367bfae3226a628e11152826fc5e4fd28a9c4bc5c393acea550c5ab33cd854d4f3e8e
+srccontainersize 3844
+srccontainerchecksum b28077cb4b369567952e77198cb77f4edad02f0949d4f46836ae59d75a2f113f64446fba83a88e6155e9356797577fea72c79244808d575359eb7ca10d029940
+runfiles size=18
+ texmf-dist/tex/latex/ginpenc/ansinew.gie
+ texmf-dist/tex/latex/ginpenc/applemac.gie
+ texmf-dist/tex/latex/ginpenc/ascii.gie
+ texmf-dist/tex/latex/ginpenc/cp1250.gie
+ texmf-dist/tex/latex/ginpenc/cp1252.gie
+ texmf-dist/tex/latex/ginpenc/cp437.gie
+ texmf-dist/tex/latex/ginpenc/cp437de.gie
+ texmf-dist/tex/latex/ginpenc/cp850.gie
+ texmf-dist/tex/latex/ginpenc/cp852.gie
+ texmf-dist/tex/latex/ginpenc/cp865.gie
+ texmf-dist/tex/latex/ginpenc/decmulti.gie
+ texmf-dist/tex/latex/ginpenc/ginpenc.sty
+ texmf-dist/tex/latex/ginpenc/latin1.gie
+ texmf-dist/tex/latex/ginpenc/latin2.gie
+ texmf-dist/tex/latex/ginpenc/latin3.gie
+ texmf-dist/tex/latex/ginpenc/latin5.gie
+ texmf-dist/tex/latex/ginpenc/latin9.gie
+ texmf-dist/tex/latex/ginpenc/next.gie
+catalogue-ctan /macros/latex/contrib/ginpenc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics inputenc
+catalogue-version 1.0

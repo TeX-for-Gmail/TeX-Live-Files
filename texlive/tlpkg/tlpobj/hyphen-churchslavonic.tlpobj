@@ -1,0 +1,17 @@
+name hyphen-churchslavonic
+category TLCore
+revision 50792
+shortdesc Church Slavonic hyphenation patterns.
+longdesc Hyphenation patterns for Church Slavonic in UTF-8 encoding
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=churchslavonic 	lefthyphenmin=1 	righthyphenmin=2 	file=loadhyph-cu.tex 	file_patterns=hyph-cu.pat.txt 	file_exceptions=hyph-cu.hyp.txt
+containersize 31860
+containerchecksum e9234dacf17d3a2236a7376a4bdf56e01ae06f3df64a9533e2263754bd63f4cf3200e78931af706ad541b412ac35977b2955b7b51ab4eb16406578a5338544f2
+runfiles size=72
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-cu.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-cu.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cu.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cu.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cu.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cu.pat.txt

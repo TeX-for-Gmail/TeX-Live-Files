@@ -1,0 +1,26 @@
+name elements
+category Package
+revision 46505
+shortdesc Provides properties of chemical elements
+longdesc The package provides means for retrieving properties of
+longdesc chemical elements like atomic number, element symbol, element
+longdesc name, electron distribution or isotope number. Properties are
+longdesc defined for the elements up to the atomic number 112. This
+longdesc package is a spin-off of the package bohr by the same author.
+containersize 7028
+containerchecksum 278bf4316e7952a7a7a325375a9b84236ebbb936c5042e76bc51b976bf55db326d27c28f4b29eb11e90d3526711cf0eddb9b0069cf826680ede51b2ecca81840
+doccontainersize 406072
+doccontainerchecksum 99a7f5a5831cea6757eb3b8f6994953337b95be450697389d6e607ff74dc8c4c134a5c1630f542e026637a4aa6ccfd5665881b8b0a923b2bd7680582ba6c7b4c
+runfiles size=15
+ texmf-dist/tex/latex/elements/elements.sty
+ texmf-dist/tex/latex/elements/elements_names_english.def
+ texmf-dist/tex/latex/elements/elements_names_french.def
+ texmf-dist/tex/latex/elements/elements_names_german.def
+ texmf-dist/tex/latex/elements/elements_names_spanish.def
+catalogue-contact-bugs https://github.com/cgnieder/elements/issues
+catalogue-contact-repository https://github.com/cgnieder/elements/
+catalogue-ctan /macros/latex/contrib/elements
+catalogue-date 2018-01-31 16:01:38 +0100
+catalogue-license lppl1.3
+catalogue-topics chemistry
+catalogue-version 0.2c

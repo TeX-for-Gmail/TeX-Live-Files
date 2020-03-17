@@ -1,0 +1,17 @@
+name alterqcm
+category Package
+revision 23385
+shortdesc Multiple choice questionnaires in two column tables
+longdesc Macros to support the creation of multiple-choice
+longdesc questionnaires in two-column tables.
+containersize 5056
+containerchecksum 7865af4a25c6c93fc1613456a8db298cb7d0117cac15fc3d9e3e748eb33a720e9c45c0b2a1773413f6a7b30f190a91ff92f02cad4119ca5521615db1676ea055
+doccontainersize 956440
+doccontainerchecksum b36cb86557bf1b7e4db356b2f04d650ad7ffd43a3b2e18e336bffe46d8727d58b72148718179dd60c10356730609d68a9b7c1714353df392ed5c9293829a461b
+runfiles size=6
+ texmf-dist/tex/latex/alterqcm/alterqcm.sty
+catalogue-ctan /macros/latex/contrib/alterqcm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exam
+catalogue-version 3.7c

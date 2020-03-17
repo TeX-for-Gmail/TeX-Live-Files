@@ -1,0 +1,25 @@
+name nkarta
+category Package
+revision 16437
+shortdesc A "new" version of the karta cartographic fonts
+longdesc A development of the karta font, offering more mathematical
+longdesc stability in Metafont. A version that will produce the glyphs
+longdesc as Encapsulated PostScript, using MetaPost, is also provided.
+containersize 27392
+containerchecksum 60537472bed0bd22d64789008ff8bbbab92ffcde68cbd74eb0b6d9910705f9f476e8f2c4dafa0020a24b0ff2e27c42a39de1791f2c91040af07dd429e0fa28ad
+doccontainersize 93256
+doccontainerchecksum b3cb0205fdc567fbed23f797031e7336fb231c11490f463ee3bb3887e5d8ad1aba90bed1b14178b1d9ba15d76ba02ba93598362b9655eea78bf086c7df6c8b61
+srccontainersize 27360
+srccontainerchecksum f96b85f2a779ae64c9c2a056e16d2d8473844b45c0d906f97a3b62f6f517ea614600312d44151d9b9b676f3ec7360638c72fd43c7a35e183bad0d4602dd84aee
+runfiles size=68
+ texmf-dist/fonts/source/public/nkarta/nkarta.mf
+ texmf-dist/fonts/source/public/nkarta/nkarta15.mf
+ texmf-dist/fonts/source/public/nkarta/nkchars.mf
+ texmf-dist/fonts/tfm/public/nkarta/nkarta15.tfm
+ texmf-dist/metapost/nkarta/nkarta.mp
+ texmf-dist/metapost/nkarta/nkchars.mp
+catalogue-ctan /fonts/nkarta
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-mf font-symbol
+catalogue-version 0.2

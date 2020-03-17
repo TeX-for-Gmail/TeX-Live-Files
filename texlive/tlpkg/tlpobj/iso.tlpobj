@@ -1,0 +1,29 @@
+name iso
+category Package
+revision 15878
+shortdesc Generic ISO standards typesetting macros
+longdesc Generic class and package files for typesetting ISO
+longdesc International Standard documents. Several standard documents
+longdesc have been printed by ISO from camera-ready copy prepared using
+longdesc LaTeX and these files. The class makes use of the isorot
+longdesc package, rather than use other mechanisms directly.
+containersize 15220
+containerchecksum 1ee4026383b28594c02ee7a3fde24228ac777814456fd8580954b1708ba3f735b563beaa291cea859c6492f8b9cc488635b67e373fc3afbd8f884a3b6d30a392
+doccontainersize 812136
+doccontainerchecksum f5c874d3e00fb451f81a52f5711ac0b1c39ce48eca50a6edc0b1049bf4aeec43830fb534e207d852bb440c96bcb86d960d5e2e0670610d7cb9eabad2ff1451a3
+srccontainersize 48644
+srccontainerchecksum c40bd267337a62dc7dbf437087e36e569b83da7806f801017ad3aa8b3059409cfc51c32d83e9991b7fa0c9b2e7eb5aed22f841670196fa9f7080e5398a098d74
+runfiles size=27
+ texmf-dist/makeindex/iso/iso.ist
+ texmf-dist/tex/latex/iso/askincv1.sty
+ texmf-dist/tex/latex/iso/iso10.clo
+ texmf-dist/tex/latex/iso/iso11.clo
+ texmf-dist/tex/latex/iso/iso9.clo
+ texmf-dist/tex/latex/iso/isov2.4ht
+ texmf-dist/tex/latex/iso/isov2.cls
+catalogue-also iso10303
+catalogue-ctan /macros/latex/contrib/isostds/iso
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics typeset-std
+catalogue-version 2.4

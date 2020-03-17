@@ -1,0 +1,24 @@
+name longnamefilelist
+category Package
+revision 27889
+shortdesc Tidy \listfiles with long file names
+longdesc The package equips LaTeX's \listfiles command with an optional
+longdesc argument for the number of characters in the longest base
+longdesc filename. This way you get a neatly aligned file list even when
+longdesc it contains files whose base names have more than 8 characters.
+longdesc The package can be combined with the myfilist package as
+longdesc explained in the documentation.
+containersize 3620
+containerchecksum 1d16ee9c76784c5124de3abe62b6e916d0f65e979a18a721ef688a960e5d20382dc976de0b68d95c47e9651ad71a67ca97a828f1bdfba8e4a77ac084d7561386
+doccontainersize 309272
+doccontainerchecksum d909908d763342790b8ab56d333e60d7047894472f3922a2554581a5455539845af72d3867d0a55f5a27e982aa8128ae1a948f40e106fa127f2d01156b55ccf6
+srccontainersize 1652
+srccontainerchecksum af1383755b422a3bdbf7af7437b732a39aaf666c7244e75d498b1252d3644e58a18115a744c4b4c7fe1433f415b40886868faeb064b13647452d444f64fd6f9b
+runfiles size=2
+ texmf-dist/tex/latex/longnamefilelist/longnamefilelist.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/longnamefilelist
+catalogue-date 2017-05-06 08:40:41 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-mgmt
+catalogue-version 0.2

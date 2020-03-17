@@ -1,0 +1,21 @@
+name he-she
+category Package
+revision 41359
+shortdesc Alternating pronouns to aid gender-neutral writing
+longdesc The package implements a version of semi-automatic pronoun
+longdesc switching for writing gender-neutral (and possibly annoying)
+longdesc prose. It has upper- and lowercase versions of switching
+longdesc pronouns for all case forms, plus anaphoric versions that
+longdesc reflect the current gender choice.
+containersize 3096
+containerchecksum 726954216d3f8328eb7868553875651c2dbc3f626a9eb60fddd770b0e236a4e09a45872020589d8f263cb9f39300d1743e0a35676947752f33933db1e766411d
+doccontainersize 213100
+doccontainerchecksum 580702222de769b066b01af45aad75717d11f46178a2b1f19e0bdc85b67497d9aed8b7ad642f76b8b85c5513f4921f58af8bcb80d1fcb88307f8ca8b07c8307b
+runfiles size=3
+ texmf-dist/tex/latex/he-she/he-she.sty
+catalogue-also gender eemeir
+catalogue-ctan /macros/latex/contrib/he-she
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 1.3

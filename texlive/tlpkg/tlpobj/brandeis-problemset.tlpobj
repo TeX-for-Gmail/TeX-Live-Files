@@ -1,0 +1,24 @@
+name brandeis-problemset
+category Package
+revision 50737
+shortdesc Document class for COSI Problem sets at Brandeis University (Waltham, MA)
+longdesc Brandeis University's computer science ("COSI") courses often
+longdesc assign "problem sets" which require fairly rigorous formatting.
+longdesc This document class, which extends article, provides a simple
+longdesc way to typeset these problem sets in LaTeX. Although the class
+longdesc is compatible with all LaTeX flavors, XeLaTeX or LuaLaTeX are
+longdesc recommended for fontspec support.
+containersize 6816
+containerchecksum f0260601ca57ffaecd12820d69694bc1f46de977af81cc1091697758516f4d562a1d88a7b2178c2422780b63dec9181c55dd9b99c5b585e26e5cc771e5ca6c50
+doccontainersize 148388
+doccontainerchecksum 12ea4c26b8eb5cc903c7f91f3b79168cc8cb702815a07e777a1a4e7364e293611f6c7fd41f7ff56bd5c459dea296c776c54397362b1ee660ff9a785d282b85b0
+runfiles size=6
+ texmf-dist/tex/latex/brandeis-problemset/brandeis-problemset.cls
+ texmf-dist/tex/latex/brandeis-problemset/brandeis-problemset.sty
+catalogue-contact-bugs https://github.com/9999years/brandeis-problemset/issues
+catalogue-contact-repository https://github.com/9999years/brandeis-problemset
+catalogue-ctan /macros/latex/contrib/brandeis-problemset
+catalogue-date 2019-04-03 18:18:22 +0200
+catalogue-license lppl1.3c
+catalogue-topics exercise class
+catalogue-version 0.5.4

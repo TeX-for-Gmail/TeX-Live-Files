@@ -1,0 +1,19 @@
+name grid-system
+category Package
+revision 32981
+shortdesc Page organisation, modelled on CSS facilities
+longdesc The package provides the means for LaTeX to implement a grid
+longdesc system as known from CSS grid systems. The facility is useful
+longdesc for creating box layouts as used in brochures.
+containersize 1368
+containerchecksum b9846f467854538c488ae444645fcfb962c1aece34e3847dc3dfdd4a2aadf8339840c09243448922ce184f6211bb3b95c6fe9675b5bae0e3b3756b2787e7e87b
+doccontainersize 58056
+doccontainerchecksum 659b426e99db9152c64f37a4c977176ce1a24c324465399f3e481cffef505044aa820f1a445a79c68f069702c07082d3d5c73c5fa762068a44acdc21221cce68
+runfiles size=1
+ texmf-dist/tex/latex/grid-system/grid-system.sty
+catalogue-contact-repository https://github.com/bitzl/latex-grid-system
+catalogue-ctan /macros/latex/contrib/grid-system
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license apache2
+catalogue-topics layout
+catalogue-version 0.3.0

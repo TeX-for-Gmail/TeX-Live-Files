@@ -1,0 +1,177 @@
+#!/bin/bash
+#
+# lpsmag CONFIGFILE
+#
+# creates a LaTeX file for the production
+# a Sudoku magazine with lpsudoku.sty
+#
+# License: LPPL
+#
+VERSION="v1.1 (06/05/2013)"
+CONFIGFILE="$1"
+TEXFILE="lpsmag.tex"
+TEXFILEBAK="${TEXFILE}.bak"
+typeset -i COUNT=0
+SUDOKUPP="6"
+SUDOKUPPD="12"
+#
+if [ -z "$CONFIGFILE" ]
+then
+  echo "no config file"
+  echo "Usage: `basename $0` configfile"
+  exit 1
+fi
+#
+exec 1> $TEXFILE
+#
+startpuzzles()
+{
+  echo "\lpsudokusetup{scale=0.75,width=6.8cm,fontsize=Large,cvoffset=-24pt}"
+  echo "\setpuzzlecounter{1}"
+}
+#
+startsolutions()
+{
+  echo "\lpsudokusetup{scale=0.5,width=4.6cm,fontsize=normalsize}"
+  echo "\setpuzzlecounter{1}"
+}
+#
+page()
+{
+  local name="$1"
+  local difficulty="$2"
+  qqwing --generate $SUDOKUPP --one-line --difficulty $difficulty >${name}.81
+  cat ${name}.81 | qqwing --solve --one-line >${name}_sol.81
+}
+#
+typesetpage()
+{
+  local name="$1"
+  local last="$2"
+  local puzzlenummer="uneven"
+  COUNT=0
+  echo "%startpage"
+  for puzzle in `cat ${name}.81`
+  do
+    ((COUNT++))
+    echo $puzzle >puzzle.81
+    createlpsudoku -i puzzle.81
+    if [ "$puzzlenummer" = "uneven" ]
+    then
+      echo "\hfill"
+      # toggle even/uneven
+      puzzlenummer="even"
+    else
+      # no \vfill after last lpsudoku
+      # environment of the page
+      if [ $COUNT -lt $SUDOKUPP ]
+      then
+        echo "\vfill"
+      else
+        if [ "$last" != "last" ]
+        then
+          echo "\clearpage"
+        fi
+      fi
+      puzzlenummer="uneven"
+    fi
+  done
+}
+#
+tspfor()
+{
+  local name="$1"
+  local last="$2"
+  local puzzlepos="one"
+  for puzzle in `cat ${name}.81`
+  do
+    ((COUNT++))
+    if [ $COUNT -eq 1 -o $COUNT -eq 7 ]
+    then
+      echo "%startpage"
+    fi
+    echo $puzzle >puzzle.81
+    createlpsudoku -i puzzle.81
+    if [ "$puzzlepos" = "one" ]
+    then
+      echo "\hfill"
+      puzzlepos="two"
+    elif [ "$puzzlepos" = "two" ]
+    then
+      echo "\hfill"
+      puzzlepos="three"
+    else
+      if [ $COUNT -lt $SUDOKUPPD ]
+      then
+        echo "\vfill"
+        puzzlepos="one"
+      else
+        if [ "$last" = "last" ]
+        then
+          puzzlepos="one"
+        else
+          echo "\clearpage"
+          puzzlepos="one"
+        fi
+      fi
+    fi
+  done
+}
+#
+typesetsolpage()
+{
+  local name1="$1_sol"
+  local name2="$2_sol"
+  local last="$3"
+  COUNT=0
+  tspfor $name1 $last
+  tspfor $name2 $last
+}
+#
+addcounterstyle()
+{
+  grep -ne'startpage' $TEXFILE | cut -d':' -f1 >csl.tmp
+  for linenumber in `cat csl.tmp`
+  do
+    COUNT="$linenumber"
+    ((COUNT++))
+    echo "$COUNT a [counterstyle=left]" >>sed.tmp
+    echo "$linenumber d" >>sed.tmp
+  done
+  sed -f sed.tmp $TEXFILE >$TEXFILEBAK
+  rm $TEXFILE
+  mv $TEXFILEBAK $TEXFILE
+}
+#
+addpercent()
+{
+  sed -e's/$/%/' $TEXFILE >$TEXFILEBAK
+  rm $TEXFILE
+  mv $TEXFILEBAK $TEXFILE
+}
+#
+deleteauxfiles()
+{
+  rm *.81
+  rm *.tmp
+}
+#
+cat >preamble.tmp <<EOF
+\documentclass[a4paper]{article}%
+\usepackage[bottom=3cm,top=3cm,left=2.7cm,right=2.7cm]{geometry}
+\usepackage{logicpuzzle}%
+\lpsudokusetup{width=5cm,scale=0.55,fontsize=normalsize}%
+EOF
+#
+cat preamble.tmp
+echo "\begin{document}"
+#
+. $CONFIGFILE
+#
+echo "\end{document}"
+#
+addcounterstyle
+addpercent
+deleteauxfiles
+exit 0
+#

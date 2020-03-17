@@ -1,0 +1,8 @@
+name listbib.x86_64-linux
+category Package
+revision 26126
+shortdesc x86_64-linux files of listbib
+containersize 336
+containerchecksum 8f10bcb3425cc8f12bef08f7d13d1ddb9ce2fae6275e14cfda204affbb25347246630a355413c03dedc3cd39f2e8dbf1ab5051f70b9b027d92c41a457a0ceed0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/listbib

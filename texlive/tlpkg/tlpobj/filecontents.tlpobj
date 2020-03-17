@@ -1,0 +1,25 @@
+name filecontents
+category Package
+revision 47890
+shortdesc Extended filecontents and filecontents* environments
+longdesc LaTeX2e's filecontents and filecontents* environments enable a
+longdesc LaTeX source file to generate external files as it runs through
+longdesc LaTeX. However, there are two limitations of these
+longdesc environments: they refuse to overwrite existing files, and they
+longdesc can only be used in the preamble of a document. The
+longdesc filecontents package removes these limitations, letting you
+longdesc overwrite existing files and letting you use
+longdesc filecontents/filecontents* anywhere.
+containersize 1764
+containerchecksum 60e257edc011be2701e7526723e014e537993ce4bd4a2ec0a3fcdfbf4bcb4c4d90f574d33c37c97e1d78151de983138cec0b1d10aef913100076431c4eb9d7f5
+doccontainersize 117976
+doccontainerchecksum 76d1eac8e20f4e411459feb6823a8ce179f0032b0a409ff5513d63fb52b6742b4cbf9feaebc465d2c1a3b397fc36f13aab55b401d69b3756f2a4850d83cd210a
+srccontainersize 5724
+srccontainerchecksum ee82eea1ed9c60dbd9fcf7bb4b2f8ab763af4ba339905351aac3746d37ea3bc85214760c799ed84c13fab8ce3e7516afc96afd077c37c542cb45d8beeb3ec1d1
+runfiles size=1
+ texmf-dist/tex/latex/filecontents/filecontents.sty
+catalogue-ctan /macros/latex/contrib/filecontents
+catalogue-date 2018-05-31 12:59:15 +0200
+catalogue-license lppl1.3c
+catalogue-topics file-mgmt
+catalogue-version 1.4

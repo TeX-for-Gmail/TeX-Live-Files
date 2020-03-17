@@ -1,0 +1,18 @@
+name permute
+category Package
+revision 15878
+shortdesc Support for symmetric groups
+longdesc A package for symmetric groups, allowing you to input, output,
+longdesc and calculate with them.
+containersize 2740
+containerchecksum 2b1ea22ff45718a12f5a031a60a2780a43b324afb3a7c4b3bf2e1a9808f5eb789938f0e084214912a50dc1a8ebe76c58cc39dccd5a411ce001fafc8fa5c41ea4
+doccontainersize 70116
+doccontainerchecksum f0f9f8d4e7e9b7cf5794529bd5febb0bd58f1ba0e95a72d688280ac3e6837cf39bdfb62ac29584fbf8cb37e1dafdcb971b9333a0306fa867fa4a1a256dd5a4e3
+srccontainersize 11164
+srccontainerchecksum 4273fc09b30de6ea203e13b09822a07b222de8d1abc143e67c0c465bd8c31ca4648b83a7fbd895a8865b7793462bd020642d383e761c926504a6d40e785c0108
+runfiles size=3
+ texmf-dist/tex/latex/permute/permute.sty
+catalogue-ctan /macros/latex/contrib/permute
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths

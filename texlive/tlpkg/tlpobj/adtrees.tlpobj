@@ -1,0 +1,21 @@
+name adtrees
+category Package
+revision 39438
+shortdesc Macros for drawing adpositional trees
+longdesc The adtrees package provides a package to write adpositional
+longdesc trees, a formalism devoted to represent natural language
+longdesc expressions. The package is composed by the files adtree.sty:
+longdesc containing the LaTeX engine to adpositional trees
+longdesc adtreedoc.pdf: the human readable documentation for the package
+longdesc adtreedoc.tex: the source code for the documentation.
+containersize 5696
+containerchecksum 4916236eb85cda36b9e073bd507973aadc8cb63b567f1434d9739c05ecd4e07e563bd18763f6f9a84e900966e2794b186bd7815e7dc2e88729d5f7f82a1d2632
+doccontainersize 316268
+doccontainerchecksum 72b7205e7c0cfd9bd4468b94b0d65a4aeab9d3fd696ee496877676ebb666d90b61f77700a75d91a453193bea602d196d54b8992f2ceb739290d4af8b82d88230
+runfiles size=7
+ texmf-dist/tex/latex/adtrees/adtrees.sty
+catalogue-ctan /macros/latex/contrib/adtrees
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tree linguistic
+catalogue-version 1.0

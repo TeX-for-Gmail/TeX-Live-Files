@@ -1,0 +1,19 @@
+name xcntperchap
+category Package
+revision 46236
+shortdesc Track the number of subsections etc. that occur in a specified tracklevel
+longdesc This package is the successor of cntperchap and allows to
+longdesc provide more tracklevels than just only one.
+containersize 3356
+containerchecksum dd87c239759d04adc359a6f1dcaefd090b7cc0afaeeefd9ef71530e5933f8b174d53c8110163822150bbb722b5ed8f47eb279f2224b02aedec6137ef7edf97c5
+doccontainersize 344160
+doccontainerchecksum 5f7554ebf4ef3d878c8a31872e6d67b6716ea7d6e5e1b38915f4b4d7c2edbc4fb1aa31d557e74cbbe792134e77a6c9cb4dd24ab0daf765659e399cc84e70d7c9
+runfiles size=3
+ texmf-dist/tex/latex/xcntperchap/xcntperchap.sty
+catalogue-also cntperchap
+catalogue-contact-home http://www.ich-rede-mich-um-kopf-und-kragen.de
+catalogue-ctan /macros/latex/contrib/xcntperchap
+catalogue-date 2018-01-05 22:19:02 +0100
+catalogue-license lppl1.3
+catalogue-topics counter-mgmt macro-supp
+catalogue-version 0.5

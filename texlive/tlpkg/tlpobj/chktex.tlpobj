@@ -1,0 +1,22 @@
+name chktex
+category TLCore
+revision 50602
+shortdesc Check for errors in LaTeX documents
+longdesc The program reports typographic and other errors in LaTeX
+longdesc documents. Filters are also provided for checking the LaTeX
+longdesc parts of CWEB documents.
+depend chktex.ARCH
+containersize 9940
+containerchecksum 528392dde236fd4dc9cca54239e7b1d19103fa5789a1c0f541a74472ccea52548fceb13e10a629e389f94ac5c16006246edb3ca584b1681b9e22346edc720715
+doccontainersize 425832
+doccontainerchecksum 6c879a78bc9aef8b851c07f54e3e1974628b0533a843046fad4e82013c32da6f1bcf585547816ac3f3b97fb4425af61e8b7b2b6e3ac1ca177e667a9b26ec17ae
+runfiles size=8
+ texmf-dist/chktex/chktexrc
+ texmf-dist/scripts/chktex/chkweb.sh
+ texmf-dist/scripts/chktex/deweb.pl
+catalogue-contact-home http://www.nongnu.org/chktex/
+catalogue-ctan /support/chktex
+catalogue-date 2019-01-06 07:22:27 +0100
+catalogue-license gpl2
+catalogue-topics debug-supp
+catalogue-version 1.7.6

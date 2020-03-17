@@ -1,0 +1,21 @@
+name datetime2-ukrainian
+category Package
+revision 47552
+shortdesc Ukrainian language module for the datetime2 package
+longdesc This module provides the "ukrainian" style that can be set
+longdesc using \DTMsetstyle provided by datetime2.sty.
+containersize 3340
+containerchecksum 5e3d412b8a5b73bb6bd2ee176305806d9b41c5a67196ddd28640e958a7019b3e73f961964b7510be4cd69833c4599db1fed05c6a6f66d4d0b3bc5ad73b5d6dbc
+doccontainersize 62424
+doccontainerchecksum df40b4e156164a1c05a94c926d691b887a56ef8f42baee26e684383871edff05e5c6e87eba95994783cac2fcea1a5c72347c8eb86f0cca360faa8dd4829349b5
+srccontainersize 8016
+srccontainerchecksum 36c7db71bd063a87e8b9f2958217c71c7e6820b4e5536a5cc46db35ef69e83dd5e7b0ddd57038b66f8405d5a24afd21253ca34f7a8d174a26b4a67607048caf4
+runfiles size=8
+ texmf-dist/tex/latex/datetime2-ukrainian/datetime2-ukrainian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-ukrainian/datetime2-ukrainian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-ukrainian/datetime2-ukrainian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-ukrainian
+catalogue-date 2018-04-15 19:39:57 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.2a

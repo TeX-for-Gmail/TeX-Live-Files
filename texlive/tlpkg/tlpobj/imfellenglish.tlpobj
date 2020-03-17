@@ -1,0 +1,84 @@
+name imfellenglish
+category Package
+revision 38547
+shortdesc IM Fell English fonts with LaTeX support
+longdesc Igino Marini has implemented digital revivals of fonts
+longdesc bequeathed to Oxford University by Dr. John Fell, Bishop of
+longdesc Oxford and Dean of Christ Church in 1686. This package provides
+longdesc the English family, consisting of Roman, Italic and Small-Cap
+longdesc fonts.
+execute addMap imfellEnglish.map
+containersize 2947156
+containerchecksum 99dcc3e48c55b402adb5e5481615a35f4d6ecc535cf68ac95b223e13bedd8edfad2dcb2d6ce99712646b52d384e02a1500f333823a343d887f87fbed44a06ccc
+doccontainersize 143264
+doccontainerchecksum 3ae58fa270354ab028a4cfbd6d23ba12a9969073f28db5ce2de4888af2ec70a904767dfe692ff7ef657e5ce13747e7a2602856b0ee4cc92db87ac8e2f4a9e635
+runfiles size=1431
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_5cupvv.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_cycd4j.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_dc7pev.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_fhc46f.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_qauovj.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_s6atnx.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_uut767.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_wnjo6u.enc
+ texmf-dist/fonts/enc/dvips/imfellenglish/imfe_zxj6gt.enc
+ texmf-dist/fonts/map/dvips/imfellenglish/imfellEnglish.map
+ texmf-dist/fonts/opentype/iginomarini/imfellenglish/IMFeENit28P.otf
+ texmf-dist/fonts/opentype/iginomarini/imfellenglish/IMFeENrm28P.otf
+ texmf-dist/fonts/opentype/iginomarini/imfellenglish/IMFeENsc28P.otf
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ot1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ot1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-t1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ot1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-t1.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ts1.tfm
+ texmf-dist/fonts/type1/iginomarini/imfellenglish/IM_FELL_English_Italic.pfb
+ texmf-dist/fonts/type1/iginomarini/imfellenglish/IM_FELL_English_ItalicLCDFJ.pfb
+ texmf-dist/fonts/type1/iginomarini/imfellenglish/IM_FELL_English_Roman.pfb
+ texmf-dist/fonts/type1/iginomarini/imfellenglish/IM_FELL_English_RomanLCDFJ.pfb
+ texmf-dist/fonts/type1/iginomarini/imfellenglish/IM_FELL_English_SC.pfb
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ly1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ot1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ly1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ot1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-t1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_Roman-tlf-ts1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ly1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ot1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-t1.vf
+ texmf-dist/fonts/vf/iginomarini/imfellenglish/IM_FELL_English_SC-tlf-ts1.vf
+ texmf-dist/tex/latex/imfellenglish/LY1IMFELLEnglish-TLF.fd
+ texmf-dist/tex/latex/imfellenglish/OT1IMFELLEnglish-TLF.fd
+ texmf-dist/tex/latex/imfellenglish/T1IMFELLEnglish-TLF.fd
+ texmf-dist/tex/latex/imfellenglish/TS1IMFELLEnglish-TLF.fd
+ texmf-dist/tex/latex/imfellenglish/imfellEnglish.sty
+catalogue-ctan /fonts/imfellenglish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license ofl
+catalogue-topics font font-otf font-type1

@@ -1,0 +1,26 @@
+name pdfprivacy
+category Package
+revision 45985
+shortdesc A LaTeX package to remove or suppress pdf meta-data
+longdesc Creating pdfs with pdfLaTeX populates several pdf meta-data
+longdesc fields such as date/time of creation/modification, information
+longdesc about the LaTeX installation (e.g., pdfTeX version), and the
+longdesc relative paths of included pdfs. The pdfprivacy package
+longdesc provides support for emptying several of these pdf meta-data
+longdesc fields as well as suppressing some pdfTeX meta-data entries in
+longdesc the resulting pdf.
+containersize 1488
+containerchecksum 8ec360bcfa5056b240091f1b2b5e6562656b15379bcf74b161899ddce41cb70d08cfdfb73b9497efd48e192fde11bfb4ffc59ed99059e1b6f6619e34b7f39bcd
+doccontainersize 263692
+doccontainerchecksum 81e2d8a0e5f5889efbf96eae5e879378fd0b4cdfa9db66283e34836b767d27d216e35822f9225eadd8816e46c503443055dc822f221b35134ecf95fa2e0d22ab
+srccontainersize 5432
+srccontainerchecksum 7c31f0fc5836adffb8bb9417fa90c5acdd1cfab2f653d79c00cf5c4552435ecbf915cdc53ff4cbed796013c0c737c25fe779e9410ccf646090d5071139df5069
+runfiles size=1
+ texmf-dist/tex/latex/pdfprivacy/pdfprivacy.sty
+catalogue-contact-bugs https://github.com/LaurensS/pdfprivacy/issues
+catalogue-contact-repository https://github.com/LaurensS/pdfprivacy
+catalogue-ctan /macros/latex/contrib/pdfprivacy
+catalogue-date 2017-12-05 05:27:30 +0100
+catalogue-license lppl1.3c
+catalogue-topics pdf-feat pdf-view pdfprocess
+catalogue-version 1.0

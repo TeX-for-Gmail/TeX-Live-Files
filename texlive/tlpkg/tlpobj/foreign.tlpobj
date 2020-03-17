@@ -1,0 +1,19 @@
+name foreign
+category Package
+revision 27819
+shortdesc Systematic treatment of 'foreign' words in documents
+longdesc The package supports authors' use of consistent typesetting of
+longdesc foreign words in documents.
+containersize 1740
+containerchecksum e886be0cbbb64b11b6c54d6b62d6b38db1bb7e65b7a3a9cc951ad71d4cc1a93c323d8a1e17ba863daa6535c747c9801b06bc4d3c664bfb8da38518a9c93d45b0
+doccontainersize 81432
+doccontainerchecksum d3804dd1b83ba173e4098696656c814629ff099699f332c3b81136c4519bd577aaabd4d2601893f88a58009f00e8c8ba44fcf2c4a3b72ce90af4d4febb510ec6
+srccontainersize 6180
+srccontainerchecksum d91bd89508318df931629678cdd0415da8baed9efcb55f965d71e26a61db705acc6abe14c6f7c17b61f54e32ae123ecd48cd018920b1f43626559e2b0b4a3c16
+runfiles size=2
+ texmf-dist/tex/latex/foreign/foreign.sty
+catalogue-ctan /macros/latex/contrib/foreign
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 2.7

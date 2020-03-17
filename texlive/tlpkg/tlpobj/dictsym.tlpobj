@@ -1,0 +1,25 @@
+name dictsym
+category Package
+revision 20031
+shortdesc DictSym font and macro package
+longdesc This directory contains the DictSym Type1 font designed by
+longdesc Georg Verweyen and all files required to use it with LaTeX on
+longdesc the Unix or PC platforms. The font provides a number of symbols
+longdesc commonly used in dictionaries. The accompanying macro package
+longdesc makes the symbols accessible as LaTeX commands.
+execute addMap dictsym.map
+containersize 31568
+containerchecksum 6195ea914b422d5bb1c098e3a8f103d91aaa94520bdff1f5a04d7c952f84f16b1aa96287dac4a309d8d72eabac65a5dbaca275abc211d9290266cfb8f5fcce3a
+doccontainersize 19784
+doccontainerchecksum 935e67c0be73969b572146ccfc92ca42c15b3b5cf2cdfb596cf3ecb9368463b793d530221d2a7e90df18edd54b7938dd27d1ee00757b580c543ea59ddce5d277
+runfiles size=20
+ texmf-dist/fonts/afm/public/dictsym/dictsym.afm
+ texmf-dist/fonts/map/dvips/dictsym/dictsym.map
+ texmf-dist/fonts/tfm/public/dictsym/dictsym.tfm
+ texmf-dist/fonts/type1/public/dictsym/dictsym.pfb
+ texmf-dist/fonts/type1/public/dictsym/dictsym.pfm
+ texmf-dist/tex/latex/dictsym/dictsym.sty
+catalogue-ctan /fonts/dictsym
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-symbol font-type1 linguistic

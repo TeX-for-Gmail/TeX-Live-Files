@@ -1,0 +1,15 @@
+name lshort-korean
+category Package
+revision 15878
+shortdesc Korean introduction to LaTeX
+longdesc A translation of Oetiker's original (not so) short
+longdesc introduction.
+containersize 412
+containerchecksum a0dec4209900dc30ea4bf42c664ab09d7eaafd6d805a3013de64f80fd35714ff5b014bcc0e79c4dd3da820c4ef435a1f801594cdc439409e3be86d443f85466e
+doccontainersize 1091760
+doccontainerchecksum 28a6ed95dd3b8a552779c3eb7f16b9773b4a429222c66e557a92624f4612edfb43a06bc1a7934a0f85bf3bb9ca1a7fb5a173376d0516902c26114f13e632df37
+catalogue-ctan /info/lshort/korean
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics tut-latex korean-doc
+catalogue-version 4.17

@@ -1,0 +1,96 @@
+name hyphen-indic
+category TLCore
+revision 50792
+shortdesc Indic hyphenation patterns.
+longdesc Hyphenation patterns for Assamese, Bengali, Gujarati, Hindi,
+longdesc Kannada, Malayalam, Marathi, Oriya, Panjabi, Tamil and Telugu
+longdesc for Unicode engines.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=assamese 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-as.tex 	file_patterns=hyph-as.pat.txt 	file_exceptions=
+execute AddHyphen 	name=bengali 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-bn.tex 	file_patterns=hyph-bn.pat.txt 	file_exceptions=
+execute AddHyphen 	name=gujarati 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-gu.tex 	file_patterns=hyph-gu.pat.txt 	file_exceptions=
+execute AddHyphen 	name=hindi 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-hi.tex 	file_patterns=hyph-hi.pat.txt 	file_exceptions=
+execute AddHyphen 	name=kannada 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-kn.tex 	file_patterns=hyph-kn.pat.txt 	file_exceptions=
+execute AddHyphen 	name=malayalam 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-ml.tex 	file_patterns=hyph-ml.pat.txt 	file_exceptions=
+execute AddHyphen 	name=marathi 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-mr.tex 	file_patterns=hyph-mr.pat.txt 	file_exceptions=
+execute AddHyphen 	name=oriya 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-or.tex 	file_patterns=hyph-or.pat.txt 	file_exceptions=
+execute AddHyphen 	name=panjabi 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-pa.tex 	file_patterns=hyph-pa.pat.txt 	file_exceptions=
+execute AddHyphen 	name=pali 	lefthyphenmin=1 	righthyphenmin=2 	file=loadhyph-pi.tex 	file_patterns=hyph-pi.pat.txt 	file_exceptions=
+execute AddHyphen 	name=tamil 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-ta.tex 	file_patterns=hyph-ta.pat.txt 	file_exceptions=
+execute AddHyphen 	name=telugu 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-te.tex 	file_patterns=hyph-te.pat.txt 	file_exceptions=
+containersize 6652
+containerchecksum d326eeaf638982be4c5621ee129f868161d07de3bfd0c0ca9cf3a3dd337ed48671b1f04a061724d2431559ac7c38bb661a7d476ca2b3f015518da2036dbf22d5
+runfiles size=60
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-as.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-bn.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-gu.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-hi.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-kn.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ml.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-mr.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-or.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pa.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-pi.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ta.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-te.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-as.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-bn.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-gu.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-hi.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-kn.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ml.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-mr.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-or.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pa.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-pi.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ta.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-te.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-as.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-as.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-as.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-as.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bn.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bn.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bn.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bn.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-gu.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-gu.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-gu.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-gu.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-hi.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-hi.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-hi.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-hi.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-kn.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-kn.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-kn.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-kn.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ml.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ml.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ml.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ml.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-mr.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-mr.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-mr.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-mr.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-or.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-or.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-or.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-or.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pa.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pa.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pa.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pa.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pi.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pi.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pi.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-pi.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ta.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ta.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ta.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ta.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-te.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-te.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-te.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-te.pat.txt

@@ -1,0 +1,19 @@
+name ean
+category Package
+revision 20851
+shortdesc Macros for making EAN barcodes
+longdesc Provides EAN-8 and EAN-13 forms. The package needs the ocr-b
+longdesc fonts; note that the fonts are not available under a free
+longdesc licence, as the macros are.
+containersize 3148
+containerchecksum 8a44b134d612ad4908a3ec025b0934feb56a8a8d7c7dce91f7ff152fda91c99c0c557ecacf7b22d8e9abf8e99d28b09b21abc8658e598baf37bfbbaa885b86d4
+doccontainersize 948
+doccontainerchecksum 35c7d054236569b03082af07412f00dd08d760547433ec8da1876a83546c7432c4cdbffb617ff34b4e48b86873d699d41749bd838e12ffe32980b3d6e92865b0
+runfiles size=4
+ texmf-dist/tex/generic/ean/ean13.tex
+ texmf-dist/tex/generic/ean/ean8.tex
+catalogue-also barcodes code128
+catalogue-ctan /macros/generic/ean
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics barcode

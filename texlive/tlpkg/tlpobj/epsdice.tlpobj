@@ -1,0 +1,26 @@
+name epsdice
+category Package
+revision 15878
+shortdesc A scalable dice "font"
+longdesc The epsdice package defines a single command \epsdice that
+longdesc takes a numeric argument (in the range 1-6), and selects a face
+longdesc image from a file that contains each of the 6 possible die
+longdesc faces. The graphic file is provided in both Encapsulated
+longdesc PostScript and PDF formats.
+containersize 5360
+containerchecksum acc0ceb408f320570a93a52132d3e37d43d4be65a31a038187edd6de9899427f08d7859dbc383b7b27e9d9b5a635ae94ea97f0be4ab8386b5991089a1435c350
+doccontainersize 66176
+doccontainerchecksum 6d9db45832d3e26e79a518f06d00db992ddfb2999099d32b415891e8d05b51803dc4f03d097cdcb04e5ccd6073606d4c7a87a07b9dd20d8d257456f927ee7427
+srccontainersize 6704
+srccontainerchecksum 9bc8b64a815e9aa14b6ef09e9ea6328e338e9539ebefbe3df805d3fe05ba3aff61750fd98033be72ed7a7cb4c3d5aa6152b557c9a1dfb0272dec856968171d29
+runfiles size=5
+ texmf-dist/tex/latex/epsdice/dice.eps
+ texmf-dist/tex/latex/epsdice/dice.pdf
+ texmf-dist/tex/latex/epsdice/epsdice.cfg
+ texmf-dist/tex/latex/epsdice/epsdice.sty
+catalogue-also dice
+catalogue-ctan /macros/latex/contrib/epsdice
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use
+catalogue-version 2.1

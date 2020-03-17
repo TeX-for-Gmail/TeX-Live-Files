@@ -1,0 +1,22 @@
+name tikz-network
+category Package
+revision 48314
+shortdesc Draw networks with TikZ
+longdesc This package allows the creation of images of complex networks
+longdesc that are seamlessly integrated into the underlying LaTeX files.
+containersize 8188
+containerchecksum c27f6f89e57e5199e68d7c94b186642449677575f5f8af7be5b6163baeb63deed79812d0b24ee8825287e37bba90edca55fa7ed5a68c99af0819b79004fb16ce
+doccontainersize 790028
+doccontainerchecksum ac74e660b25e308050b3aedd27c4d777e68a61e4e077a636eacb2f1b4865d4532b355b8ec7a862393fde15d8d72ce268d77715bc69a82ad54de4d78cfbf74f9e
+runfiles size=13
+ texmf-dist/tex/latex/tikz-network/tikz-network.sty
+catalogue-contact-announce https://github.com/hackl/tikz-network
+catalogue-contact-bugs https://github.com/hackl/tikz-network/issues
+catalogue-contact-home https://github.com/hackl/tikz-network
+catalogue-contact-repository https://github.com/hackl/tikz-network
+catalogue-contact-support https://github.com/hackl/tikz-network/issues
+catalogue-ctan /graphics/pgf/contrib/tikz-network
+catalogue-date 2018-08-04 05:30:36 +0200
+catalogue-license gpl3+
+catalogue-topics pgf-tikz diagram
+catalogue-version 1.0

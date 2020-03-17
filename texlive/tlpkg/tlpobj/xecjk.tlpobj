@@ -1,0 +1,38 @@
+name xecjk
+category Package
+revision 50852
+shortdesc Support for CJK documents in XeLaTeX
+longdesc A LaTeX package for typesetting CJK documents in the way users
+longdesc have become used to, in the CJK package. The package requires a
+longdesc current version of xtemplate (and hence of the current LaTeX3
+longdesc development environment).
+containersize 129308
+containerchecksum 47981c7c217dc90e23becd3e17807a744d79da4f2f58d4cff479debdcd9194c2c58ed4dba33f01115c10cb0ef212156b83b38edd3688b698e85148f915e18b8a
+doccontainersize 1536396
+doccontainerchecksum bd9274e055c17334dae543893a1ec044e0a0bd08081889763b67b9ad8fc772a243f229acf2bebf624a78ce829bca4795088602c4d5edaccab17771027f994384
+srccontainersize 88452
+srccontainerchecksum dd929eec2aecaeb47320a2085614920c8232e5ddf5125a31a8b7867c911fddecd4f5135e3dc557bd8cf160326f32abbffc22faa329d816114645235c94082a46
+runfiles size=131
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/full-stop.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/full-stop.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/fullwidth-stop.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/fullwidth-stop.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/han-simp.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/han-simp.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/han-trad.map
+ texmf-dist/fonts/misc/xetex/fontmapping/xecjk/han-trad.tec
+ texmf-dist/tex/xelatex/xecjk/xeCJK-listings.sty
+ texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+ texmf-dist/tex/xelatex/xecjk/xeCJK.sty
+ texmf-dist/tex/xelatex/xecjk/xeCJKfntef.sty
+ texmf-dist/tex/xelatex/xecjk/xunicode-addon.sty
+ texmf-dist/tex/xelatex/xecjk/xunicode-extra.def
+catalogue-contact-bugs https://github.com/CTeX-org/ctex-kit/issues
+catalogue-contact-home http://www.ctex.org/
+catalogue-contact-repository https://github.com/CTeX-org/ctex-kit
+catalogue-contact-support https://github.com/CTeX-org/ctex-kit/issues
+catalogue-ctan /macros/xetex/latex/xecjk
+catalogue-date 2019-04-07 19:45:54 +0200
+catalogue-license lppl1.3c
+catalogue-topics chinese japanese korean xetex expl3
+catalogue-version 3.7.2

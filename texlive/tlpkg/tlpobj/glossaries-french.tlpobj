@@ -1,0 +1,19 @@
+name glossaries-french
+category Package
+revision 42873
+shortdesc French language module for glossaries package
+longdesc French language module for glossaries package.
+containersize 1644
+containerchecksum 8516e94f69248238b0e94099b67c9807f02587e934e6fd2c9ef23befcfac783297cc4df71b8e41be77fdab85abcb4103435c3fd24584b46a3b473fc4489d5d82
+doccontainersize 194372
+doccontainerchecksum c26b40d499199c15c875cdca901a3168ab72e4009a04e92f3b1ae9010d7912484b1185453d117154eb5b9e63358b36cd58aeff3d0c4727945a343be4c3c2ede0
+srccontainersize 2692
+srccontainerchecksum 9c6b0b1d851c88c757e87c8b29b2cfaa3886efb00433a9c3744e175fd4dfd4433de3b80b9d70df89f879536b1058ddb1baeae41c5cdfc6c47377256df8e63882
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-french/glossaries-french.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-french
+catalogue-date 2017-01-04 23:59:43 +0100
+catalogue-license lppl1.3
+catalogue-topics glossary french
+catalogue-version 1.1

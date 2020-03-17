@@ -1,0 +1,22 @@
+name functan
+category Package
+revision 15878
+shortdesc Macros for functional analysis and PDE theory
+longdesc This package provides a convenient and coherent way to deal
+longdesc with name of functional spaces (mainly Sobolev spaces) in
+longdesc functional analysis and PDE theory. It also provides a set of
+longdesc macros for dealing with norms, scalar products and convergence
+longdesc with some object oriented flavor (it gives the possibility to
+longdesc override the standard behavior of norms, ...).
+containersize 2552
+containerchecksum 0899d9a3c30e701d5ba6a0275521a40a3cf2df680e9d4a95624730184fb370ae2537bec1becc3b185647a988af5fa8e4bda5198f42cbe68cbc848d8915f1c9da
+doccontainersize 147704
+doccontainerchecksum c824825fd424316701e25fc573a431aa5967af0d520b631489b20608459dcd0f7abfac277c5b1e7b60e0a2888e0b37d787755acd6f671e48d4911969e3058692
+srccontainersize 9636
+srccontainerchecksum f83465845900ae5bc872fceead5a83fa972c9fa8b858606007237251ee2dd77cbd095376194aca0356e5c8be53fe653a88f5a10c1f73effa8201b3adf55c5a17
+runfiles size=3
+ texmf-dist/tex/latex/functan/functan.sty
+catalogue-ctan /macros/latex/contrib/functan
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths

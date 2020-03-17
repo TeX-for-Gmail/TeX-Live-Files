@@ -1,0 +1,16 @@
+name easy-todo
+category Package
+revision 32677
+shortdesc To-do notes in a document
+longdesc The package provides to-do notes throughout a document, and
+longdesc will provide an index of things to do.
+containersize 1352
+containerchecksum 88b496c1f4f56d26ac2fcc6d82e28d71bf11418368d82d3dcb193f8299672bf41d6c15938f3f6af5ac28141f2a52d132844fd178ebb9694de7f7a22fe8f13eaa
+doccontainersize 140064
+doccontainerchecksum b2c49273445084f94083ed11f43492ed8ca32582fd9ffe9d12ccb7afe316b06b1924a507c5a12ab5880cae40ef4ee196c6d3e5d05f916356fdc026acc0a9acf1
+runfiles size=1
+ texmf-dist/tex/latex/easy-todo/easy-todo.sty
+catalogue-ctan /macros/latex/contrib/easy-todo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license apache2
+catalogue-topics notes editorial

@@ -1,0 +1,20 @@
+name isorot
+category Package
+revision 15878
+shortdesc Rotation of document elements
+longdesc The package is for rotation of document elements. It is a
+longdesc combination of the lscape package and an extension of the
+longdesc rotating package. The package is designed for use with the iso
+longdesc class but may be used with any normal class.
+containersize 2568
+containerchecksum 788b712fc11f3e4dccd58a75a950752d0492dbc30f0475dedeb26b86e500d0d23c4babf0dfc2361fe16e74d7b37d8f5605b4d4faf1e7018642a5e9dd1be73be3
+doccontainersize 122280
+doccontainerchecksum 4aed42e6fe61aecba99783a1173d903daec621e7d5e0867f6f73319804bfa7727a2a2dac204d792b76a98f8e291bc563bff364360b19ccede2b79600a59260d0
+srccontainersize 13604
+srccontainerchecksum 99767e98f2eca92d4f0d8e32024805bea9646f10eda7cdc7fa5b325de04d6e70648c1e1421172e2358d7a6ef7eeca718db3e31e7f272160ddba2f24e4c516888
+runfiles size=2
+ texmf-dist/tex/latex/isorot/isorot.sty
+catalogue-ctan /macros/latex/contrib/isorot
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics rotation

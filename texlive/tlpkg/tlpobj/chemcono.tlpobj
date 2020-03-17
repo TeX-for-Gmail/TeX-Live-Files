@@ -1,0 +1,22 @@
+name chemcono
+category Package
+revision 17119
+shortdesc Support for compound numbers in chemistry documents
+longdesc A LaTeX package for using compound numbers in chemistry
+longdesc documents. It works like \cite and the \thebibliography, using
+longdesc \fcite and \theffbibliography instead. It allows compound names
+longdesc in documents to be numbered and does not affect the normal
+longdesc citation routines.
+containersize 8132
+containerchecksum 29b6e78d47cdcb21c634540ed6a935cd5c6eea5fb6a28ee85cfe681ff00c8bd24d7175ee5adbbeab03e11db2f56a38d3359235ed44771976917f35c673fd21c5
+doccontainersize 231312
+doccontainerchecksum 9936d1f0ce1e6ab9498aec9d68c176ddd803de3ed1e5a698ca7b548203cac66492ce319af3e5951144ad11878065c8b349f57668498d245413d7db62d1b6a8ae
+runfiles size=7
+ texmf-dist/tex/latex/chemcono/chemcono.sty
+ texmf-dist/tex/latex/chemcono/drftcono.sty
+ texmf-dist/tex/latex/chemcono/showkeysff.sty
+catalogue-ctan /macros/latex/contrib/chemcono
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics chemistry
+catalogue-version 1.3

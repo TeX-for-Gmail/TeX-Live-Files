@@ -1,0 +1,22 @@
+name eiad-ltx
+category Package
+revision 15878
+shortdesc LaTeX support for the eiad font
+longdesc The package provides macros to support use of the eiad fonts in
+longdesc OT1 encoding. Also offered are a couple of Metafont files
+longdesc described in the font package, but not provided there.
+containersize 3672
+containerchecksum e052333d39e72562e8e84d0e7f6af7066c2068a782422f612a26bd2903d8143874cd4dcc556d7406f3601a6b3a28506a3c0edc92e4029d124f02fe91edf0163c
+doccontainersize 1956
+doccontainerchecksum 907a20283eb78965dc4d8fdb46c542937c70c7a3f2849984034f9f37872d4d3042064fad0ee232132aadcb7daa4d4ec4b9745f8a6d0406dfa7b929ea68be0d96
+srccontainersize 4224
+srccontainerchecksum dcdb63542954048aa74a1a412cef02c16706bb7f66870e72ab4c772e2e41048c255bd02877fc60ffdef15b09e229ba721054cfbcbea5ce16fdaa181ca0bc8283
+runfiles size=3
+ texmf-dist/fonts/source/public/eiad-ltx/Fbf10.mf
+ texmf-dist/fonts/source/public/eiad-ltx/Fr10.mf
+ texmf-dist/tex/latex/eiad-ltx/eiad.sty
+catalogue-ctan /macros/latex/contrib/eiad
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp irish-gaelic
+catalogue-version 1.0

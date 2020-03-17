@@ -1,0 +1,27 @@
+name ibycus-babel
+category Package
+revision 15878
+shortdesc Use the Ibycus 4 Greek font with Babel
+longdesc The package allows you to use the Ibycus 4 font for ancient
+longdesc Greek with Babel. It uses a Perl script to generate hyphenation
+longdesc patterns for Ibycus from those for the ordinary Babel encoding,
+longdesc cbgreek. It sets up ibycus as a pseudo-language you can specify
+longdesc in the normal Babel manner. For proper hyphenation of Greek
+longdesc quoted in mid-paragraph, you should use it with elatex (all
+longdesc current distributions of LaTeX are built with e-TeX, so the
+longdesc constraint should not be onerous).
+containersize 2164
+containerchecksum 30f810bd70555df4f05fbc0b073456c030a0768372bd3c681921f41fc31bfbe0570a39e474ab26aeeacb142622154e5cab3714412b09f89d1260fae8b60e817a
+doccontainersize 53824
+doccontainerchecksum f09dfd00f35f653defd756b72437dd712ed1ffceb05beeadfb34c1c5163559ee7c0ae6ce0420f57b722e93080248cbcfd678d811f1383fa5fa1ab76db52a060b
+srccontainersize 7824
+srccontainerchecksum 13e3ad11b56a70d7752209feaa9437bda4979c40a25597114bfc5b4e26a889c623aa7266959a212de6b7e74ebe75fb38b36767fa95f692adae027e5d025a4702
+runfiles size=3
+ texmf-dist/tex/latex/ibycus-babel/ibycus.ldf
+ texmf-dist/tex/latex/ibycus-babel/lgienc.def
+ texmf-dist/tex/latex/ibycus-babel/lgifib.fd
+catalogue-ctan /language/greek/ibycus-babel
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics greek multilingual-addon
+catalogue-version 3.0

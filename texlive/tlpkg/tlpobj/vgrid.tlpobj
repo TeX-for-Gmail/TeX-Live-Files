@@ -1,0 +1,20 @@
+name vgrid
+category Package
+revision 32457
+shortdesc Overlay a grid on the printed page
+longdesc The package overlays a grid (whose spacing is \baselineskip,
+longdesc which offers guidlines for considering the "rhythm" of the
+longdesc document on the page.
+containersize 1216
+containerchecksum ee46d8ae234af6f0b3bc8689cceab7d5ce8e7229b132c396a000cca15cde0ee422f91b2d4fc485c743e3a896bbab5ec90b24ea5d398bf63342751bf75143330a
+doccontainersize 24004
+doccontainerchecksum 92e5498cea29d5fc1b373619e97c6692fef3f63002757a954649c0c4f9ef7b6594d61cce017bee709f0f1898777f962c25053b64da8079c8c9c9893f821a9aa6
+srccontainersize 2264
+srccontainerchecksum 5589904860a74979a070224b252be9b302e0f7128946624fb671e8618a2afc55c526631217348eaf84d7c0f827dfef7aac7a13a953e1ff82a61211eb2e070e36
+runfiles size=1
+ texmf-dist/tex/latex/vgrid/vgrid.sty
+catalogue-ctan /macros/latex/contrib/vgrid
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics layout-supp
+catalogue-version 0.1

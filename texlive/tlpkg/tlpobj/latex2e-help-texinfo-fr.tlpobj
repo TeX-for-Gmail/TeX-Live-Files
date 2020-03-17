@@ -1,0 +1,16 @@
+name latex2e-help-texinfo-fr
+category Package
+revision 44997
+shortdesc A French translation of "latex2e-help-texinfo"
+longdesc This package provides a complete French translation of
+longdesc latex2e-help-texinfo.
+containersize 472
+containerchecksum 6023d1aaf419519fb35f916be296e9681dd2e2912b35d92da5b59d5ab279154eb71813f49b159c01bad045246a293c8e6552d2a469cb69916d169ac1b60d9daa
+doccontainersize 1178656
+doccontainerchecksum bb1ad23b5a46e00193b4e807aecd0a439d1d5f7c15736e748b002168441b5c7fccbcd8f7f6361a1c5fa3175344c9aa1c0ec77e20be450e653a0354a87643b9eb
+catalogue-contact-bugs http://lists.tug.org/latexrefman
+catalogue-contact-home https://puszcza.gnu.org.ua/software/latexrefman/
+catalogue-ctan /info/latex2e-help-texinfo-fr
+catalogue-date 2017-08-09 19:37:09 +0200
+catalogue-license pd
+catalogue-topics ref-latex documentation french-doc

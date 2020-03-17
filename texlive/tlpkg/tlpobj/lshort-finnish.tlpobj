@@ -1,0 +1,14 @@
+name lshort-finnish
+category Package
+revision 15878
+shortdesc Finnish introduction to LaTeX
+longdesc This is the Finnish translation of Short Introduction to
+longdesc LaTeX2e, with added coverage of Finnish typesetting rules.
+containersize 424
+containerchecksum 997db393d16942e78e4f52eef886ac7b14cba7ec3fd0c88f8c2cc74fb6b35f3802c58c51ac0112cc2b086f9c3b965b5f8d508ea81a36edb7da1ce84ef83cd203
+doccontainersize 1681088
+doccontainerchecksum 71c2e5c4d49a779f529a527cda5fcc6e55cfa0149fc2d9272ae7e69aecf2a8a361b057bcfdf5deaa7791073bc6252c3101f5ce0b8d231c779e99c34910a3343f
+catalogue-ctan /info/lshort/finnish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics tut-latex finnish-doc

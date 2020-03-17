@@ -1,0 +1,21 @@
+name getitems
+category Package
+revision 39365
+shortdesc Gathering items from a list-like environment
+longdesc This package provides a \gatheritems command to parse a list of
+longdesc data separated by \item tokens. This makes it easier to define
+longdesc custom environments which structure their data in the same way
+longdesc that itemize or enumerate do.
+containersize 1668
+containerchecksum 8797c7e70f1c81330b68b6c386116b0caf2c350a2b75724d796f0ab7380a2ea4cb2ae293ac3e6b941887b30faa2b73775c2bfce7c674ee98c4256a23231443b0
+doccontainersize 201756
+doccontainerchecksum 95302dae67f3193dc3d52b4e5724584ee066eee1dbba30b1233faa0c65fc568f932805b18b8054165760a2b655b486e7f3115d3b37be780f8f5a7220f2f924fc
+srccontainersize 5440
+srccontainerchecksum 1bc8b4c2b75c5cf43e18a510e5e479a7109ac440266e0dc7d748d6ef391280d81f72a07f6bfc518c6c0c313b7c8e1e11cfe9ccaae33540e1b48988414bef5ad1
+runfiles size=1
+ texmf-dist/tex/latex/getitems/getitems.sty
+catalogue-ctan /macros/latex/contrib/getitems
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics text-manip macro-supp
+catalogue-version 1.0

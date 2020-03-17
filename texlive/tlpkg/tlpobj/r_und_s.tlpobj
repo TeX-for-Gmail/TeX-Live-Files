@@ -1,0 +1,30 @@
+name r_und_s
+category Package
+revision 15878
+catalogue r-und-s
+shortdesc Chemical hazard codes
+longdesc The r_und_s package decodes the german 'R- und S-Satze', which
+longdesc are numerically coded security advice for chemical substances
+longdesc into plain text. This is, e.g., used to compose security sheets
+longdesc or lab protocols and especially useful for students of
+longdesc chemistry. There are four packages, giving texts in German,
+longdesc English, French and Dutch.
+containersize 15440
+containerchecksum 86b219305e4e085af2a22d34bc586253b5674abb18e257fa96bab1d45695f841020c0004f1da51fcfca0fd0b325e4043f2e368740841a5a2e8db774711ac6348
+doccontainersize 3584
+doccontainerchecksum 26e227f106bb9303c4823f0230b689d6ed883580051e1bd5ec2e16ad796a3e33df2caa389c309b21b010bb43b07e5ec1027d6c046af55193deb0e4d975288846
+runfiles size=31
+ texmf-dist/tex/latex/r_und_s/eng_rs.sty
+ texmf-dist/tex/latex/r_und_s/eng_rs.tex
+ texmf-dist/tex/latex/r_und_s/fr_rs.sty
+ texmf-dist/tex/latex/r_und_s/fr_rs.tex
+ texmf-dist/tex/latex/r_und_s/nl_rs.sty
+ texmf-dist/tex/latex/r_und_s/nl_rs.tex
+ texmf-dist/tex/latex/r_und_s/r_und_s.sty
+ texmf-dist/tex/latex/r_und_s/r_und_s.tex
+catalogue-also mhchem
+catalogue-ctan /macros/latex/contrib/r_und_s
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics safety-notice
+catalogue-version 1.3i

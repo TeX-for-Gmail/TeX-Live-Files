@@ -1,0 +1,23 @@
+name csbulletin
+category Package
+revision 49681
+shortdesc LaTeX class for articles submitted to the CSTUG Bulletin (Zpravodaj)
+longdesc The package provides the class for articles for the CSTUG
+longdesc Bulletin (Zpravodaj Ceskoslovenskeho sdruzeni uzivatelu TeXu).
+longdesc You can see the structure of a document by looking at the
+longdesc source file of the manual.
+containersize 12956
+containerchecksum 730ca61f0678ab2dfe4aca6be57b64cf6944ec018a7154f25c565687c29cc746b9cbd508ea01600a1d17f31850dd2bd047ebd47788997cd244e8f74199a96d68
+doccontainersize 271880
+doccontainerchecksum b9581a3d257647ddbdb583c5327e1e6dbbb52c8bc3153e115dcbcc6047fc2146ee0b62271727826f608d70f9d1a1b25e844c6f772c12ce6b8c38e1cf32015303
+runfiles size=13
+ texmf-dist/tex/latex/csbulletin/csbulacronym.sty
+ texmf-dist/tex/latex/csbulletin/csbulletin.cls
+ texmf-dist/tex/latex/csbulletin/csbulobalka.cls
+ texmf-dist/tex/latex/csbulletin/csbulobalka.sty
+ texmf-dist/tex/latex/csbulletin/csbulv1.cls
+catalogue-ctan /macros/latex/contrib/csbulletin
+catalogue-date 2019-01-12 11:49:08 +0100
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 1.2

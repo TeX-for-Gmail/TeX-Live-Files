@@ -1,0 +1,41 @@
+name sanskrit
+category Package
+revision 42925
+shortdesc Sanskrit support
+longdesc A font and pre-processor suitable for the production of
+longdesc documents written in Sanskrit. Type 1 versions of the fonts are
+longdesc available.
+containersize 16300
+containerchecksum 0dbfc19e366fc2e69c3700e0c532c280f1e444d0d6b44b37fd1565a64b0f883901c209fb1cab7c6a35cc9ffc23d32b5cd78ad2ee3e52d7cccf41a80a8fdd6c57
+doccontainersize 526860
+doccontainerchecksum a5cb05e7fa966cb09d84d0dae14eec25354156f8acb5811f4867b3724fbed62df94305ea9062772879c5cfadffde8265e7c9de062bfdf6756cf2843053caf9fd
+srccontainersize 22212
+srccontainerchecksum b2644a58e3a64122b5b5765547959d888837b3353b70b5bfc7a98a17f380de4f6e2fafbdc20c0458860baf28fc373ddf9c173737d8c776867bfe7c3bc68ef40a
+runfiles size=40
+ texmf-dist/fonts/source/public/sanskrit/skt10.mf
+ texmf-dist/fonts/source/public/sanskrit/skt8.mf
+ texmf-dist/fonts/source/public/sanskrit/skt9.mf
+ texmf-dist/fonts/source/public/sanskrit/sktb10.mf
+ texmf-dist/fonts/source/public/sanskrit/sktbs10.mf
+ texmf-dist/fonts/source/public/sanskrit/sktchars.mf
+ texmf-dist/fonts/source/public/sanskrit/sktdefs.mf
+ texmf-dist/fonts/source/public/sanskrit/sktf10.mf
+ texmf-dist/fonts/source/public/sanskrit/sktfs10.mf
+ texmf-dist/fonts/source/public/sanskrit/sktligs.mf
+ texmf-dist/fonts/source/public/sanskrit/skts10.mf
+ texmf-dist/fonts/tfm/public/sanskrit/skt10.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/skt8.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/skt9.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/sktb10.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/sktbs10.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/sktf10.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/sktfs10.tfm
+ texmf-dist/fonts/tfm/public/sanskrit/skts10.tfm
+ texmf-dist/tex/latex/sanskrit/ot1skt.fd
+ texmf-dist/tex/latex/sanskrit/skt.sty
+catalogue-also devanagari
+catalogue-ctan /language/sanskrit
+catalogue-date 2017-01-11 20:18:05 +0100
+catalogue-license lppl
+catalogue-topics font font-mf indic
+catalogue-version 2.2.1

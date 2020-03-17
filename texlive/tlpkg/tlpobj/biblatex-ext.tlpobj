@@ -1,0 +1,95 @@
+name biblatex-ext
+category Package
+revision 50759
+shortdesc Extended BibLaTeX standard styles
+longdesc The BibLaTeX-ext bundle provides styles that slightly extend
+longdesc the standard styles that ship with BibLaTeX. The styles offered
+longdesc in this bundle provide a simple interface to change some of the
+longdesc stylistic decisions made in the standard styles. At the same
+longdesc time they stay as close to their standard counterparts as
+longdesc possible, so that most customisation methods can be applied
+longdesc here as well.
+containersize 25352
+containerchecksum 344fe22dc2bf00408faa9abd4a3123d17f63f8ab60fcf4c127be694d14628dae60176a43dda4292ef5fab7ce41954c9299e9e94d3bb7dd24845e28869e5cd0dd
+doccontainersize 529388
+doccontainerchecksum ae472fd0f9dbe4fc4336f49e0937153a0fd51688fc6a0bd151679a90c0dacae1521832dde0727724d8b8c3ff31baedd7423f05ed03d9a3feff94209e906d6d88
+runfiles size=114
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-oa-doiapi.sty
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-oa.sty
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-oasymb-l3draw.sty
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-oasymb-pict2e.sty
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-oasymb-tikz.sty
+ texmf-dist/tex/latex/biblatex-ext/biblatex-ext-tabular.sty
+ texmf-dist/tex/latex/biblatex-ext/blxextdoiapi.lua
+ texmf-dist/tex/latex/biblatex-ext/ext-alphabetic-verb.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-alphabetic-verb.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-alphabetic.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-alphabetic.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-common.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-comp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-comp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-ibid.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-ibid.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-icomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-icomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-tcomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-tcomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-terse.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-terse.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-ticomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle-ticomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authortitle.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-common.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-comp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-comp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ecomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ecomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ibid.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ibid.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-icomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-icomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-iecomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-iecomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tcomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tcomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tecomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tecomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-terse.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-terse.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ticomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-ticomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tiecomp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear-tiecomp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-authoryear.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-biblatex-aux.def
+ texmf-dist/tex/latex/biblatex-ext/ext-dashed-common.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric-comp.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric-comp.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric-verb.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric-verb.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-numeric.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-standard.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-ibid.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-ibid.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-inote.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-inote.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-note.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-note.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad1.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad1.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad2.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad2.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad3.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose-trad3.cbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose.bbx
+ texmf-dist/tex/latex/biblatex-ext/ext-verbose.cbx
+catalogue-contact-bugs https://github.com/moewew/biblatex-ext/issues
+catalogue-contact-home https://github.com/moewew/biblatex-ext
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-ext
+catalogue-date 2019-04-04 14:55:48 +0200
+catalogue-license lppl1.3c
+catalogue-topics biblatex
+catalogue-version 0.7a

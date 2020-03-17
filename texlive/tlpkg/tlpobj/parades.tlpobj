@@ -1,0 +1,18 @@
+name parades
+category Package
+revision 40042
+shortdesc Tabulators and space between paragraphs in galley approach
+longdesc The LaTeX package paravesp controls the spaces above and below
+longdesc paragraphs. The python script parades.py generates paragraph
+longdesc styles with support of space above, space below and tabulators.
+longdesc The system imposes the galley approach on the document.
+containersize 1044
+containerchecksum 6eda005756083b1ca0c1ee09efe44830874d8090c25aaddb8d6631284a057130d2f03ca7f88b460fbeb7bea90ad31da8242028a70b07f6a66bfb978cd7390e26
+doccontainersize 213564
+doccontainerchecksum eca6b66f0bb424730177498fd6310718a78ffdd031961f8de877bd6f9d027430143c19310b158abf26f92b4280016cdac696f423b493aa49d60b06cefc546688
+runfiles size=1
+ texmf-dist/tex/latex/parades/paravesp.sty
+catalogue-ctan /macros/latex/contrib/parades
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics parshape

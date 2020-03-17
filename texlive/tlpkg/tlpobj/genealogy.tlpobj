@@ -1,0 +1,21 @@
+name genealogy
+category Package
+revision 25112
+shortdesc A compilation genealogy font
+longdesc A simple compilation of the genealogical symbols found in the
+longdesc wasy and gen fonts, adding the male and female symbols to
+longdesc Knuth's 'gen' font, and so avoiding loading two fonts when you
+longdesc need only genealogical symbols. The font is distributed as
+longdesc Metafont source.
+containersize 2560
+containerchecksum 907394cb0ca9b3d339d78595e613236038ea2acce27c4468b7d028d0db7ddf36f7037c4f0bc63d5970e904d0675bcaf057c769239a79f064fa6aa9dae4f2014e
+doccontainersize 1128
+doccontainerchecksum 34c9d737d31626331a18051a5b04584fd896d7cb8ea1814ff2fbf30486ec3578b2bef16155b9c8f2ca645d42f797f3101c799d3422c05f824026e268fa4f94e8
+runfiles size=4
+ texmf-dist/fonts/source/public/genealogy/drgen.mf
+ texmf-dist/fonts/source/public/genealogy/drgen10.mf
+ texmf-dist/fonts/tfm/public/genealogy/drgen10.tfm
+catalogue-ctan /fonts/genealogy
+catalogue-date 2017-02-19 14:06:21 +0100
+catalogue-license lppl
+catalogue-topics genealogy font font-symbol font-specialist font-mf

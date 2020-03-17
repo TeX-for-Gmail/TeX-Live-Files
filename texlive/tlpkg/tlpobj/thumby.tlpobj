@@ -1,0 +1,23 @@
+name thumby
+category Package
+revision 16736
+shortdesc Create thumb indexes for printed books
+longdesc The package can generate thumb indexes for your document. It
+longdesc features printing thumb indexes on one- or two-sided pages,
+longdesc along with background- and foreground-color selection and full
+longdesc LaTeX styling of the chapter numbers in the thumb indexes. The
+longdesc height of each thumb index is automatically chosen based on the
+longdesc number of chapters in your document, while the width is chosen
+longdesc by the user. The package is designed to work with the memoir
+longdesc class, and also requires PerlTeX and tikz/
+containersize 3268
+containerchecksum 485bb2670133c3c83f0f7aaa685defc6d36f5d24173652d869f526770e1f55c55a31f3a3180f115aef45fb824d9032ee915b91c1c59b9b33794c95c92f03c3e6
+doccontainersize 155976
+doccontainerchecksum bac645197085968fe8a7bd41f4a9ec3c6e51e17e6750b87ca1a458acc9f6a4f244d1f3b36b9c622c98492b90abddf9a4df1636b1874c02820dcdb6340bad0910
+runfiles size=3
+ texmf-dist/tex/latex/thumby/thumby.sty
+catalogue-ctan /macros/latex/contrib/thumby
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics layout-page
+catalogue-version 0.1

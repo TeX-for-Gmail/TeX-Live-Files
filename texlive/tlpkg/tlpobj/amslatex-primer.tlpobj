@@ -1,0 +1,22 @@
+name amslatex-primer
+category Package
+revision 28980
+shortdesc Getting up and running with AMS-LaTeX
+longdesc The document aims to get you up and running with AMS-LaTeX as
+longdesc quickly as possible. These instructions (along with a template
+longdesc file template.tex) are not a substitute for the full
+longdesc documentation, but they may get you started quickly enough so
+longdesc that you will only need to refer to the main documentation
+longdesc occasionally. In addition to 'AMS-LaTeX out of the box', the
+longdesc document contains: a section describing how to draw commutative
+longdesc diagrams using Xy-pic; and a section describing how to use
+longdesc amsrefs to create a bibliography.
+containersize 664
+containerchecksum 05c7c19430a85986db770d1ff8686993edcde35171e3653ddfb7db4a09422c80e53632f583371079fe14d3c6fd9ff4eb3f0c37cbecea7ca2d9a5aefb04cabdb0
+doccontainersize 566748
+doccontainerchecksum 85faf2a9c03f7d7d1e23d72b7041c9b322d5f8bd8cb309a60f7256416249ceb7582c112d25f8953ee67dd2b79a3697e29cf6250d7b199a9eb73a9682f123354f
+catalogue-ctan /info/amslatex/primer
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics maths-doc
+catalogue-version 2.3

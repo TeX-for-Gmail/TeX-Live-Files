@@ -1,0 +1,15 @@
+name l2tabu-english
+category Package
+revision 15878
+shortdesc English translation of "Obsolete packages and commands"
+longdesc English translation of the l2tabu practical guide to LaTeX2e by
+longdesc Mark Trettin. A list of obsolete packages and commands.
+containersize 444
+containerchecksum 66e1d62c731a021c1be2fb6e9e3034c7dec59edfd03dc2bb0042a37ff6f0d967e59a023fee994f45cf2c9b15e64445b45c48a207e21b7edb81d8a538b6c8eb6b
+doccontainersize 266556
+doccontainerchecksum 250ebdbd2a6dd3dd7d05c35cea0ea8fdb969bef983bc0a5f2c804129091f22ac0a499df482a1a990bf278ad94befc774d354341b30f9a0cd67539e1f63074ee4
+catalogue-ctan /info/l2tabu/english
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics documentation translation
+catalogue-version 1.8.5.7

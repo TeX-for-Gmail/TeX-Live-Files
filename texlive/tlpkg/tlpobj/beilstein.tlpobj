@@ -1,0 +1,25 @@
+name beilstein
+category Package
+revision 46503
+shortdesc Support for submissions to the "Beilstein Journal of Nanotechnology"
+longdesc The package provides a LaTeX class file and a BibTeX style file
+longdesc in accordance with the requirements of submissions to the
+longdesc ``Beilstein Journal of Nanotechnology''. Although the files can
+longdesc be used for any kind of document, they have only been designed
+longdesc and tested to be suitable for submissions to the Beilstein
+longdesc Journal of Nanotechnology.
+containersize 13972
+containerchecksum b581df03b91834de1382b50dbcd1c4df25d8d3c1788889bb7057cebf3193fb664ef94f63b5c137f7ec5e3ce7a8d2d40fa3acf3a2640ba1e2b7b94daaf870841d
+doccontainersize 698248
+doccontainerchecksum 00d281b248088fc0e31004bd4eced9a9eacba7f4260676318e13452e467d8e4587a8493a6444e709b76c18902ce766e35cda7ebf14595c277b59232a66e76e4b
+srccontainersize 76764
+srccontainerchecksum fbaa3aeb41641adb0dcb559347b8eaf30adc79719d305d26f62bdbc2a80a913e4dcbb6507f7c2353687011a02fbf43f0fa49a67445844e4d37294b7ea4c3726f
+runfiles size=17
+ texmf-dist/bibtex/bst/beilstein/bjnano.bst
+ texmf-dist/tex/latex/beilstein/beilstein.cls
+catalogue-contact-home https://www.beilstein-journals.org/bjnano/
+catalogue-ctan /macros/latex/contrib/beilstein
+catalogue-date 2018-01-30 22:19:12 +0100
+catalogue-license lppl1.3c
+catalogue-topics journalpub
+catalogue-version 1.4

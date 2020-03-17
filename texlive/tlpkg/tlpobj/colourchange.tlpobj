@@ -1,0 +1,21 @@
+name colourchange
+category Package
+revision 21741
+shortdesc Colourchange
+longdesc The package allows you to change the colour of the structural
+longdesc elements (inner theme and outer theme) of your beamer
+longdesc presentation during the presentation. There is a manual option
+longdesc but there is also the option to have your structure colour
+longdesc change from one colour to another as a function of how far
+longdesc through the presentation you are.
+containersize 2060
+containerchecksum dba4ef8d97324c3da71de1c6a37e268618bab0a876e1da37226ec9fb187087d39f32507e97f4ab4fa801fd4bbb98c51a322c6f2493b719133154b24223bfba46
+doccontainersize 234136
+doccontainerchecksum 628bc515058108ba97312c15ee5af00e086ea3dc124b4e7b038b176d4175e2146afc6f571593c006d749634896fa286d16c923c17d4dc9e55e81ac3a8aa95442
+runfiles size=2
+ texmf-dist/tex/latex/colourchange/colourchange.sty
+catalogue-ctan /macros/latex/contrib/colourchange
+catalogue-date 2018-01-07 11:56:15 +0100
+catalogue-license gpl3
+catalogue-topics presentation colour
+catalogue-version 1.22

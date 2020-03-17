@@ -1,0 +1,15 @@
+name latex-graphics-companion
+category Package
+revision 29235
+catalogue lgc-examples
+shortdesc Examples from The LaTeX Graphics Companion
+longdesc The source of the examples printed in the book, together with
+longdesc necessary supporting files.
+containersize 436
+containerchecksum 3148a646539db3622096f9aeefd7ca2d44b0cf83cd454673893978897d07cfe7107b8f5bc745bc6b60734d4ad3429be1ffc2edaa8c9dd1721b41bfe913fa0dbe
+doccontainersize 61484
+doccontainerchecksum ab9d885c811af3964e8cdd8576349059bd45d660e6b9a7e931697f7c7fa5282c725e044817de8f2648ded59519d1592945e0804ba7cbe0054ce2bd4d44606af5
+catalogue-ctan /info/examples/lgc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex

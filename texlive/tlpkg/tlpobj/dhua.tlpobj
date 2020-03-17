@@ -1,0 +1,30 @@
+name dhua
+category Package
+revision 24035
+shortdesc German abbreviations using thin space
+longdesc The package provides commands for those abbreviations of German
+longdesc phrases for which the use of thin space is recommended. Setup
+longdesc commands \newdhua and \newtwopartdhua are provided, as well as
+longdesc commands for single cases (such as \zB for 'z. B.', saving the
+longdesc user from typing such as 'z.\,B.'). To typeset the
+longdesc documentation, the niceverb package, version 0.44, or later, is
+longdesc required. Das Paket `dhua' stellt Befehle fur sog.
+longdesc mehrgliedrige Abkurzungen bereit, fur die schmale Leerzeichen
+longdesc (Festabstande) empfohlen werden (Duden, Wikipedia). In die
+longdesc englische Paketdokumentation sind deutsche Erlauterungen
+longdesc eingestreut.
+containersize 4708
+containerchecksum c6e6187bdfc80cec3ce092a4dd3605055f3ad67ff49777bf0948af128c8b48118247ed9ca6f5feb1a69d32719f81968d8259794082a28277796eb6beccf9cedb
+doccontainersize 323640
+doccontainerchecksum a2f9f61ed61c5476d5f70fdfe59a451e7b3cafd3412336c5767b53b0157416149ee9ae924834f8a05beaedabb9e4a8dd3e4dbcb2f17b733af113c0a8085e363c
+srccontainersize 3096
+srccontainerchecksum ff72f267dcbd05830664f9ebc328fa1b6b80eb579627c5ae78965b47b8b8605ddf33c6b6a9b343774b2944d985afc9a9816924f23e8e7ec9fbc807f00bddb143
+runfiles size=4
+ texmf-dist/tex/latex/dhua/dhua.cfg
+ texmf-dist/tex/latex/dhua/dhua.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/dhua
+catalogue-date 2017-05-05 20:35:46 +0200
+catalogue-license lppl1.3
+catalogue-topics shortcut german
+catalogue-version 0.11

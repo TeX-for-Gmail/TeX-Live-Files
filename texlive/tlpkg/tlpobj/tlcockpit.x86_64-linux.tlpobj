@@ -1,0 +1,8 @@
+name tlcockpit.x86_64-linux
+category Package
+revision 46798
+shortdesc x86_64-linux files of tlcockpit
+containersize 340
+containerchecksum e0d68662d662741b6e7013a5eda9a122fb95b9de226170474042fbf103ccf2294f17f02e6bd23a785105cd81ba7c8eeb56ec230a9a16e1ffcea93a3e04464783
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/tlcockpit

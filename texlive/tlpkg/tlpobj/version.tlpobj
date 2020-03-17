@@ -1,0 +1,22 @@
+name version
+category Package
+revision 21920
+shortdesc Conditionally include text
+longdesc Defines macros \includeversion{NAME} and \excludeversion{NAME},
+longdesc each of which defines an environment NAME whose text is to be
+longdesc included or excluded from compilation. Although the command
+longdesc syntax is very similar to that of comment, comment.sty is to be
+longdesc preferred to version.sty for documents where significant chunks
+longdesc of text may be excluded.
+containersize 2468
+containerchecksum 9b57997e63fab25d916630bb086b7d4372e094e64175caa761c20c3c2d426a58fdc42ef661bbc1ec47f2a8d9c617b7e4dc405499c01b84eb53ca0d10f6c9108d
+doccontainersize 304932
+doccontainerchecksum 9bada1489523eccc809d4b9654411addf31f2d63efc1f1f9d68b81e2bb3d9365e2709f55a77c53c3d2231b8da89114bd5a4217c8d18553234a980d379b1a0084
+runfiles size=2
+ texmf-dist/tex/latex/version/version.sty
+catalogue-also verbatim versions optional comment
+catalogue-ctan /macros/latex/contrib/version
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics cond-comp
+catalogue-version 2.0

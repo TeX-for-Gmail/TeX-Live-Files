@@ -1,0 +1,18 @@
+name glossaries-danish
+category Package
+revision 35665
+shortdesc Danish language module for glossaries package
+longdesc Danish language module for glossaries package.
+containersize 1668
+containerchecksum d9551aaa01e6f6720406a58f869048fbeac30fd629edd7fcdef657525dd1f7fb3faa2127cd81fb777d339ae65a1015e9cea7e5fe26a7de10db3a387152aaf0b3
+doccontainersize 123944
+doccontainerchecksum 8e6097ced6686f3f5f0162c7deb11de9acfd55ca152c8ba3d4eafe155f645f33ec32dc495e3b4f4832e33300cd63d2d4ba56d018177f96426ee72e14cc60e230
+srccontainersize 2232
+srccontainerchecksum f8a52fad43c5a95989ed8da27ad5a15da56e5cb2b08797bd70879327a512d9bad44fd217270940ca1ac541a880bb939b9e360fe5a686b0b25d779baa1bd01de6
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-danish/glossaries-danish.ldf
+catalogue-ctan /macros/latex/contrib/glossaries-danish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary danish
+catalogue-version 1.0

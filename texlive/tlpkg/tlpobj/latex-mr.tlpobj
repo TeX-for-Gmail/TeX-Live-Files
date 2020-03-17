@@ -1,0 +1,23 @@
+name latex-mr
+category Package
+revision 44601
+shortdesc A practical guide to LaTeX and Polyglossia for Marathi and other Indian languages
+longdesc The package provides a short guide to LaTeX and specifically to
+longdesc the polyglossia package. This document aims to introduce LaTeX
+longdesc and polyglossia for Indian languages. Though the document often
+longdesc discusses the language Marathi, the discussion applies to other
+longdesc India languages also, with some minute changes which are
+longdesc described in Section 1.2. We assume that the user of this
+longdesc document knows basic (La)TeX or has, at least, tried her hand
+longdesc on it. This document is not very suitable for first time users.
+containersize 716
+containerchecksum 3c5b806bb100cd7280d4a7e97104f21b4260372292aba60264f88fe9a7230fb42365ffea15a948d4334f8f74683d9a79ca40cb9b87c49066d61a2b0f101dfb8c
+doccontainersize 357060
+doccontainerchecksum 6022c2e3642928e716e6ed2536c849fade08dd26138312567b139a450032ec75d029ea5f1103bfbfdbdb7bec4b35d972c08e866da8d5eea89012b7a1fc414678
+catalogue-contact-announce https://sites.google.com/site/homerdholkar/other/latex-poly-mr
+catalogue-contact-home https://sites.google.com/site/homerdholkar/other/latex-poly-mr
+catalogue-ctan /info/latex-mr
+catalogue-date 2017-06-16 08:43:03 +0200
+catalogue-license lppl1.3
+catalogue-topics tut-latex
+catalogue-version 1.0

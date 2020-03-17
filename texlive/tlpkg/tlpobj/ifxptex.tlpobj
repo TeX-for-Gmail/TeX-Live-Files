@@ -1,0 +1,20 @@
+name ifxptex
+category Package
+revision 46153
+shortdesc Detect pTeX and its derivatives
+longdesc The package provides commands for detecting pTeX and its
+longdesc derivatives (e-pTeX, upTeX, e-upTeX, and ApTeX). Both LaTeX and
+longdesc plain TeX are supported.
+containersize 1268
+containerchecksum 7bc52847fe21879614ffe673ebec74c735c70e07d63649def00f70d22db80faa920f0764f76c5094ef982abbff8202ca55410ee92d033c45ec43fd25adabb23b
+doccontainersize 199416
+doccontainerchecksum 1bc4feaacbdd33ba6f46c699969638cdc8a4b962287332476d0d163a10141136f9b913027ccc3418033dee0862d5e572957dbe07d47371c1d932103958151e27
+runfiles size=1
+ texmf-dist/tex/generic/ifxptex/ifxptex.sty
+catalogue-also ifptex
+catalogue-contact-repository https://github.com/Man-Ting-Fang/ifxptex
+catalogue-ctan /macros/generic/ifxptex
+catalogue-date 2017-12-27 11:02:36 +0100
+catalogue-license knuth
+catalogue-topics macro-supp env-query
+catalogue-version 0.2

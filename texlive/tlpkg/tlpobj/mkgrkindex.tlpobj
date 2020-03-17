@@ -1,0 +1,24 @@
+name mkgrkindex
+category Package
+revision 26313
+catalogue greek-makeindex
+shortdesc Makeindex working with Greek
+longdesc Makeindex is resolutely stuck with Latin-based alphabets, so
+longdesc will not deal with Greek indexes, unaided. This package
+longdesc provides a Perl script that will transmute the index of a Greek
+longdesc document in such a way that makeindex will sort the entries
+longdesc according to the rules of the Greek alphabet.
+depend mkgrkindex.ARCH
+containersize 2892
+containerchecksum bbb0b306f30b4fe898f5d5bfdcb1eaa4d2d88a95cfa1ea0da51957aad1de028928562c930180f6c0a7d66b5cdfd804d52afbd229e7ca43173477a229cefff192
+doccontainersize 91480
+doccontainerchecksum 5a5b14d4282e97420f796456155a71c23a44d4197d4d92bfea1f0f20e95b42e506c7be3f2b0aba37508415341e999522bd823c649cc6259a6e26d42399c6b8cf
+runfiles size=4
+ texmf-dist/makeindex/mkgrkindex/lowercase-headers.ist
+ texmf-dist/makeindex/mkgrkindex/uppercase-headers.ist
+ texmf-dist/scripts/mkgrkindex/mkgrkindex
+catalogue-ctan /language/greek/mkgrkindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics index-proc greek
+catalogue-version 2.0

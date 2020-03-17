@@ -1,0 +1,21 @@
+name xfakebold
+category Package
+revision 48460
+shortdesc Fake a regular font for bold characters
+longdesc This package uses PDF's text rendering to modify the linewidth
+longdesc of an outline font to get bold characters. It works only for
+longdesc vectorfonts where the glyphs are defined by their outline. The
+longdesc package works both in text and in math mode, for pdfLaTeX as
+longdesc well as for LuaLaTeX. The package depends on ifluatex, ifxetex,
+longdesc and xkeyval.
+containersize 1280
+containerchecksum 78383691bf81bd885eddc5354022574d89de1d16b81037c8e94b5d068be2cefa45ef368336ed8d9186dce06a9c8359cc48010689d358ed35fcc83d3e00c7deb7
+doccontainersize 79456
+doccontainerchecksum e2d9b56234ff7a5bb0c63c9cf7fa59c186360419e97f2585be59e85ee9554cdd1bb6017f50fd542c79a25cf59946716cde049ec5025273211e65b3bdd5316c9f
+runfiles size=1
+ texmf-dist/tex/latex/xfakebold/xfakebold.sty
+catalogue-ctan /macros/latex/contrib/xfakebold
+catalogue-date 2018-08-22 15:59:18 +0200
+catalogue-license lppl1.3c
+catalogue-topics font-supp-misc font-util pdf-feat
+catalogue-version 0.04

@@ -1,0 +1,25 @@
+name superiors
+category Package
+revision 36422
+shortdesc Attach superior figures to a font family
+longdesc The package allows the attachment of an arbitrary superior
+longdesc figures font to a font family that lacks one. (Superior figures
+longdesc are commonly used as footnote markers.) Two superior figures
+longdesc fonts are provided--one matching Times, the other matching
+longdesc Libertine.
+execute addMap superiors.map
+containersize 9884
+containerchecksum 859d955467b42c924027c06002cd6333096be75df25f957b34bc7d16fb74404fd7afdf8cf93fa8382b9c11e42ae0ea70a3f89d88f800825a0927a38365c96843
+doccontainersize 316872
+doccontainerchecksum 18b0fb3511b7200d3e357db8655c36c8eb99b540188eb6900bfca8c47aff07d4cb228faef120d56d7cabe8266bb549b81021ce539edadd84cfb8817220387367
+runfiles size=7
+ texmf-dist/fonts/enc/dvips/superiors/sups.enc
+ texmf-dist/fonts/map/dvips/superiors/superiors.map
+ texmf-dist/fonts/tfm/public/superiors/libertinesups.tfm
+ texmf-dist/fonts/type1/public/superiors/libertinesups.pfb
+ texmf-dist/tex/latex/superiors/superiors.sty
+catalogue-ctan /fonts/superiors
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-symbol font-type1 font-supp
+catalogue-version 1.05

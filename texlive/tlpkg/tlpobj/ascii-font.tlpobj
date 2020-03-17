@@ -1,0 +1,26 @@
+name ascii-font
+category Package
+revision 29989
+shortdesc Use the ASCII "font" in LaTeX
+longdesc The package provides glyph and font access commands so that
+longdesc LaTeX users can use the ASCII glyphs in their documents. The
+longdesc ASCII font is encoded according to the IBM PC Code Page 437 C0
+longdesc Graphics. This package replaces any early LaTeX 2.09 package
+longdesc and "font" by R. Ramasubramanian and R.W.D. Nickalls.
+execute addMap ascii.map
+containersize 49000
+containerchecksum e92e312e38432a7294c71a76604e5a3c2aa6b65937d39933fcbc9fc9b61e00a1e2f35ba739f64c29a3ebf6d2e388cd29da384a2a6456f71576101a1f12e36f0d
+doccontainersize 556
+doccontainerchecksum 2d681a41d213fe260e3491a3b410239fa2e025ba19894d133a27e47b417ccf27648aa13ae431b4c42549c1692cbe517f2595c2de675b14d9ea0460d469e4f036
+srccontainersize 4448
+srccontainerchecksum 1bbadf44599ad29f843ef17d1b437f951f5b167e9bf84a73600a0a9dc5633d94d76c91ec23493250ac894d9114c1b2d1d1f182690aef5dea92c9ec51c96e69a9
+runfiles size=17
+ texmf-dist/fonts/map/dvips/ascii-font/ascii.map
+ texmf-dist/fonts/tfm/public/ascii-font/ASCII.tfm
+ texmf-dist/fonts/type1/public/ascii-font/ASCII.pfb
+ texmf-dist/tex/latex/ascii-font/ascii.sty
+catalogue-ctan /fonts/ascii
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-symbol font-type1
+catalogue-version 2.0

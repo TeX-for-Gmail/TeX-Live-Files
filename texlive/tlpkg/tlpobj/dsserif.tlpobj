@@ -1,0 +1,37 @@
+name dsserif
+category Package
+revision 47570
+shortdesc A double-struck serifed font for mathematical use
+longdesc DSSerif is a mathematical font package with double struck
+longdesc serifed digits, upper and lower case letters, in regular and
+longdesc bold weights. The design was inspired by the STIX double struck
+longdesc fonts, which are sans serif, but starting from a Courier-like
+longdesc base.
+execute addMap DSSerif.map
+containersize 78412
+containerchecksum 346d9192803712c47d8905920b6c86244759635e7929e1a2c049a558a7e50eb36dc6574dae59f17bda21e6c95d1a661c9857514eb7f5f60d008f293beb758da8
+doccontainersize 247164
+doccontainerchecksum 87e5ede487017ac47d7502d5983d5d158deb4d709f033ca34855f01f4b93fe7e3001c6287277f4f830b79c2ff1cf41caacccf2942769f8b2b848524ba4fa6696
+srccontainersize 1716
+srccontainerchecksum 31ad24b5b7667c1763dc36a475ce13b70bdc38c239a5c38a09acc3d4e66c95b1abf82d60ca240e7bf121f9dc93b17a17f420ab863a8f2052ed363c5adc46ec22
+runfiles size=33
+ texmf-dist/fonts/afm/public/dsserif/DSSerif-Bold.afm
+ texmf-dist/fonts/afm/public/dsserif/DSSerif.afm
+ texmf-dist/fonts/afm/public/dsserif/DSSerifUni-Bold.afm
+ texmf-dist/fonts/afm/public/dsserif/DSSerifUni.afm
+ texmf-dist/fonts/map/dvips/dsserif/DSSerif.map
+ texmf-dist/fonts/tfm/public/dsserif/DSSerif-Bold.tfm
+ texmf-dist/fonts/tfm/public/dsserif/DSSerif.tfm
+ texmf-dist/fonts/tfm/public/dsserif/DSSerifUni-Bold.tfm
+ texmf-dist/fonts/tfm/public/dsserif/DSSerifUni.tfm
+ texmf-dist/fonts/type1/public/dsserif/DSSerif-Bold.pfb
+ texmf-dist/fonts/type1/public/dsserif/DSSerif.pfb
+ texmf-dist/fonts/type1/public/dsserif/DSSerifUni-Bold.pfb
+ texmf-dist/fonts/type1/public/dsserif/DSSerifUni.pfb
+ texmf-dist/tex/latex/dsserif/dsserif.sty
+ texmf-dist/tex/latex/dsserif/udsserif.fd
+catalogue-ctan /fonts/dsserif
+catalogue-date 2018-05-05 05:37:43 +0200
+catalogue-license ofllppllppl1.3
+catalogue-topics font font-serif font-maths font-bbd font-type1
+catalogue-version 1.00

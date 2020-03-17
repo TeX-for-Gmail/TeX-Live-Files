@@ -1,0 +1,22 @@
+name xltabular
+category Package
+revision 49939
+shortdesc Longtable support with possible X-column specifier
+longdesc This package loads package ltablex, but keeps the current
+longdesc tabularx environment as is. The new environment xltabular is a
+longdesc combination of longtable and tabularx: Header/footer
+longdesc definitions, X-column specifier, and with possible pagebreaks.
+containersize 1696
+containerchecksum 57f734e3715107169b53c017e9524c1cd4f29a120e6f6aab7e50e380216ca2f841fb0aa5e3d5fe016a061b87d64eae4714f35dcda8ccb4b2c73ec4d5727a877e
+doccontainersize 73392
+doccontainerchecksum fb9567b70272ea7f49d6923a19748a1cc53615f45b56b2b573304c6cfa334f0dcf6aa1fc89a3236d814693332fa3cc71798d548323ec2b1c2bf34071ebd7fd19
+runfiles size=1
+ texmf-dist/tex/latex/xltabular/xltabular.sty
+catalogue-also longtable tabularx ltablex
+catalogue-contact-bugs https://github.com/rolfn/xltabular/issues
+catalogue-contact-home https://github.com/rolfn/xltabular
+catalogue-ctan /macros/latex/contrib/xltabular
+catalogue-date 2019-02-04 10:22:01 +0100
+catalogue-license lppl1.3
+catalogue-topics table table-long
+catalogue-version 0.2b

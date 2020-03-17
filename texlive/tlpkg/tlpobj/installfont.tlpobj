@@ -1,0 +1,26 @@
+name installfont
+category Package
+revision 31205
+shortdesc A bash script for installing a LaTeX font family
+longdesc With this script you can install a LaTeX font family
+longdesc (PostScript Type 1, TrueType and OpenType formats are
+longdesc supported). Font series from light to ultra bold, and (faked)
+longdesc small caps and (faked) slanted shapes are supported, but not
+longdesc expert fonts. The script will rename the fonts automatically
+longdesc (optional) or will otherwise expect the *.afm files and the
+longdesc font files (in PostScript Type1 format) named in the Karl Berry
+longdesc scheme (e.g. 5bbr8a.pfb). After running the script, you should
+longdesc have a working font installation in your local TeX tree.
+depend installfont.ARCH
+containersize 4840
+containerchecksum cd5133b93c5daabaa0ea13649f3d34c28f9af9f92db54917e64cafca5f5e7fe5169d87e36783036850ccde0002d34860eceaea528ad06e21f08141106e6599ae
+doccontainersize 56040
+doccontainerchecksum 2b61c4b229e0c4ec89c591075e52bcf8c150f5f9584bff94f81ec1f229940dafef11d6b6f84dd086692cbd99e6616685533d4313ef5bc48c56a7494fef3583b7
+runfiles size=5
+ texmf-dist/scripts/installfont/installfont-tl
+catalogue-contact-repository https://bitbucket.org/kleberj/installfont/
+catalogue-ctan /support/installfont
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics font-proc
+catalogue-version 1.7

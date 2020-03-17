@@ -1,0 +1,34 @@
+name dk-bib
+category Package
+revision 15878
+shortdesc Danish variants of standard BibTeX styles
+longdesc Dk-bib is a translation of the four standard BibTeX style files
+longdesc (abbrv, alpha, plain and unsrt) and the apalike style file into
+longdesc Danish. The files have been extended with URL, ISBN, ISSN,
+longdesc annote and printing fields which can be enabled through a LaTeX
+longdesc style file. Dk-bib also comes with a couple of Danish sorting
+longdesc order files for BibTeX8.
+containersize 13636
+containerchecksum 9de9e026b9e3de53b297d7925bd0e4e9ab08562e798a8f1b9e6988ecb891067534a741aefbbb81f1c53d7ae6b6cd0e0796d8c0690c5af661e76a5c6d9ea876df
+doccontainersize 404476
+doccontainerchecksum 258d8413d860f6a30c597c10b8c25f352166f8bc39cf23714a137e46f4748ba716dcae8eb8b6e17378f6a850ae64a68a9f331c8301c938f0a8042d967b3e62b3
+srccontainersize 1300
+srccontainerchecksum ddb3927504b35d025c339bfd1c072e9ef770a159f046bf86220ea675df481e5b781026ed6395a776f27518ffedef83b7c5f95be30f1be49747a76bb2e2280817
+runfiles size=42
+ texmf-dist/bibtex/bib/dk-bib/litteratur.bib
+ texmf-dist/bibtex/bst/dk-bib/dk-abbrv.bst
+ texmf-dist/bibtex/bst/dk-bib/dk-alpha.bst
+ texmf-dist/bibtex/bst/dk-bib/dk-apali.bst
+ texmf-dist/bibtex/bst/dk-bib/dk-plain.bst
+ texmf-dist/bibtex/bst/dk-bib/dk-unsrt.bst
+ texmf-dist/bibtex/csf/dk-bib/88591-dk.csf
+ texmf-dist/bibtex/csf/dk-bib/cp850-dk.csf
+ texmf-dist/bibtex/csf/dk-bib/mac-dk.csf
+ texmf-dist/bibtex/csf/dk-bib/utf8-dk.csf
+ texmf-dist/tex/latex/dk-bib/dk-apali.sty
+ texmf-dist/tex/latex/dk-bib/dk-bib.sty
+catalogue-ctan /biblio/bibtex/contrib/dk-bib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty danish
+catalogue-version 0.6

@@ -1,0 +1,23 @@
+name ktv-texdata
+category Package
+revision 27369
+shortdesc Extract subsets of documents
+longdesc The package defines an exercice environment which numbers every
+longdesc exercise, and a command \get to extract a collection whose
+longdesc argument is a comma-separated set of exercise index numbers.
+longdesc While the package was designed for teachers constructing tables
+longdesc of exercises, it plainly has more general application.
+containersize 2832
+containerchecksum c2f3e86494993e6e56f131b9e7105ee2d15179b96580982ae7fba9e32c3e9889159ae767d96d95111f2eb052bd61f0c3c15406ae3af70b359e3b5ce081a6978a
+doccontainersize 192368
+doccontainerchecksum d930db31105dbcfe3df4184422115d82fda7efa93d00eb8f9fefa0eff3893602fb4db9e7be26d2a44c0b3cb56e8e9810f61bc660c15e49c23880c3f0cd44025b
+srccontainersize 14640
+srccontainerchecksum 1f7eebfcdbdeae66dbff4037a01173bc9383f75b5d7704755a10c442d63380d286bb4532546e036d5c558dc399defe3f9d3d035bc67a5ba90f8482e427b507ce
+runfiles size=3
+ texmf-dist/tex/latex/ktv-texdata/ktv-buildnum.sty
+ texmf-dist/tex/latex/ktv-texdata/ktv-texdata.sty
+catalogue-ctan /macros/latex/contrib/ktv-texdata
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics data-sel
+catalogue-version 05.34

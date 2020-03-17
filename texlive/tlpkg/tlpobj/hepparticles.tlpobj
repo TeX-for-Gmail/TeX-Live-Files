@@ -1,0 +1,32 @@
+name hepparticles
+category Package
+revision 35723
+shortdesc Macros for typesetting high energy physics particle names
+longdesc HEPparticles is a set of macros for typesetting high energy
+longdesc particle names, to meet the following criteria: 1. The main
+longdesc particle name is a Roman or Greek symbol, to be typeset in
+longdesc upright font in normal contexts. 2. Additionally a superscript
+longdesc and/or subscript may follow the main symbol. 3. Particle
+longdesc resonances may also have a resonance specifier which is typeset
+longdesc in parentheses following the main symbol. In general the
+longdesc parentheses may also be followed by sub- and superscripts. 4.
+longdesc The particle names are expected to be used both in and out of
+longdesc mathematical contexts. 5. If the surrounding text is bold or
+longdesc italic then the particle name should adapt to that context as
+longdesc best as possible (this may not be possible for Greek symbols).
+longdesc A consequence of point 5 is that the well-known problems with
+longdesc boldness of particle names in section titles, headers and
+longdesc tables of contents automatically disappear if these macros are
+longdesc used.
+containersize 4448
+containerchecksum fb9229745b601b6f731c959856fe46d6871dd3a1c7fec2bac8116f4d74a575ff52523f610599979e25e7147b4ae6d36906d19ba66260356f15bc1a47a2d57460
+doccontainersize 83952
+doccontainerchecksum 539025b2f0998bf031f417d002028e29edc58c1818d0dc9c07ee58c6877b5709936be23985ecd5a518c36187f451a2d5df66b5832d0019ff8b755c763b903aa8
+runfiles size=5
+ texmf-dist/tex/latex/hepparticles/hepparticles.sty
+catalogue-also maybemath
+catalogue-ctan /macros/latex/contrib/hepparticles
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics
+catalogue-version 2.0

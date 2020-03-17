@@ -1,0 +1,24 @@
+name pgf-blur
+category Package
+revision 48446
+shortdesc PGF/TikZ package for "blurred" shadows
+longdesc The package adds blurred/faded/fuzzy shadows to PGF/TikZ
+longdesc pictures. It is configured as a TikZ/PGF library module. The
+longdesc method is similar to that of the author's pst-blur package for
+longdesc PSTricks.
+containersize 2648
+containerchecksum a341495270be35f6824a10edff85edccdfe4d9a0f3cb0ba50ede1b8f5970dbe93b0d5567f113b5c2dfe0661f7201fff710cfae0d9f3f1420245520486775e399
+doccontainersize 242488
+doccontainerchecksum 4cd2faa5160e0286f8b23f518c857b957e9873c0f8f1ec54f8156acfa1e15f7e8c22e6b4691d07ea929b6cc3c76847413fcb9223852bf26efb1c6455909e1816
+srccontainersize 9236
+srccontainerchecksum b254cf39510bc1604af7f238a00d9ea9ae615a1a99da8714c11079553fcae3e26dc8534e6fc7797dcb1fc02dd68a6b236e05bfb4b58bfeef8f1cc8195e4c5c05
+runfiles size=3
+ texmf-dist/tex/latex/pgf-blur/tikzlibraryshadows.blur.code.tex
+catalogue-contact-bugs https://github.com/norbusan/pgf-blur/issues
+catalogue-contact-home https://github.com/norbusan/pgf-blur
+catalogue-contact-repository https://github.com/norbusan/pgf-blur
+catalogue-ctan /graphics/pgf/contrib/pgf-blur
+catalogue-date 2018-08-21 14:56:15 +0200
+catalogue-license lpplpd
+catalogue-topics graphics-subpic pgf-tikz
+catalogue-version 1.02

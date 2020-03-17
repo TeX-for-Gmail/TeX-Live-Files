@@ -1,0 +1,8 @@
+name eplain.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of eplain
+containersize 320
+containerchecksum e781326badf6f76486eb2b2a76b4439bcd6a716030d00b8af0d3b310572e9909534121b6b1f7527ba367013d16ba74d7a0326f5e2f371fd69191be305edd39dd
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/eplain

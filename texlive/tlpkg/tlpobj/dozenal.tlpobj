@@ -1,0 +1,139 @@
+name dozenal
+category Package
+revision 47680
+shortdesc Typeset documents using base twelve numbering (also called "dozenal")
+longdesc The package supports typesetting documents whose counters are
+longdesc represented in base twelve, also called "dozenal". It includes
+longdesc a macro by David Kastrup for converting positive whole numbers
+longdesc to dozenal from decimal (base ten) representation. The package
+longdesc also includes a few other macros and redefines all the standard
+longdesc counters to produce dozenal output. Fonts, in Roman, italic,
+longdesc slanted, and boldface versions, provide ten and eleven (the
+longdesc Pitman characters preferred by the Dozenal Society of Great
+longdesc Britain). The fonts were designed to blend well with the
+longdesc Computer Modern fonts, and are available both as Metafont
+longdesc source and in Adobe Type 1 format.
+containersize 101908
+containerchecksum ca4171da87126231a791f432a6015cc069f0eb0d540f8b79b3b5028f3f3e30d9202622886b582f2e351049603d0323a458fbce3d6b2565af5391a4aa94b734c0
+doccontainersize 311064
+doccontainerchecksum e7c180bed185135cfba31acbf4488ff0991066be7456a7c54625df458a24819ef8b41bc19eec955967f22fc156ad6efc9e194489178e2cffb806bf066ea42520
+srccontainersize 11940
+srccontainerchecksum 4e8c3cc35fc2d429fa286fc68eb92d2d290bbbbeabcb714d849f9132ff71bf99edfc5b08a0ae596f98e900e1b49d658af2b2b9daf1fbacf57e2b3aeefa15f6ad
+runfiles size=170
+ texmf-dist/fonts/afm/public/dozenal/dozchars10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars12.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars17.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars6.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars7.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars8.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchars9.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchb10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx12.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx5.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx6.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx7.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx8.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbx9.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbxi10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchbxsl10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchit10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchit12.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchit7.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchit8.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchit9.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchsl10.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchsl12.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchsl8.afm
+ texmf-dist/fonts/afm/public/dozenal/dozchsl9.afm
+ texmf-dist/fonts/map/dvips/dozenal/dozenal.map
+ texmf-dist/fonts/source/public/dozenal/dozchars10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars12.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars17.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars6.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars7.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars8.mf
+ texmf-dist/fonts/source/public/dozenal/dozchars9.mf
+ texmf-dist/fonts/source/public/dozenal/dozchb10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx12.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx5.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx6.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx7.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx8.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbx9.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbxi10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchbxsl10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchit10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchit12.mf
+ texmf-dist/fonts/source/public/dozenal/dozchit7.mf
+ texmf-dist/fonts/source/public/dozenal/dozchit8.mf
+ texmf-dist/fonts/source/public/dozenal/dozchit9.mf
+ texmf-dist/fonts/source/public/dozenal/dozchsl10.mf
+ texmf-dist/fonts/source/public/dozenal/dozchsl12.mf
+ texmf-dist/fonts/source/public/dozenal/dozchsl8.mf
+ texmf-dist/fonts/source/public/dozenal/dozchsl9.mf
+ texmf-dist/fonts/source/public/dozenal/dozenal.mf
+ texmf-dist/fonts/source/public/dozenal/dozenalb.mf
+ texmf-dist/fonts/source/public/dozenal/dozenali.mf
+ texmf-dist/fonts/source/public/dozenal/dozenalitalic.mf
+ texmf-dist/fonts/source/public/dozenal/dozenalroman.mf
+ texmf-dist/fonts/tfm/public/dozenal/dozchars10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars12.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars17.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars6.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars7.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars8.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchars9.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchb10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx12.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx5.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx6.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx7.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx8.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbx9.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbxi10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchbxsl10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchit10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchit12.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchit7.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchit8.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchit9.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchsl10.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchsl12.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchsl8.tfm
+ texmf-dist/fonts/tfm/public/dozenal/dozchsl9.tfm
+ texmf-dist/fonts/tfm/public/dozenal/gray.tfm
+ texmf-dist/fonts/type1/public/dozenal/dozchars10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars12.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars17.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars6.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars7.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars8.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchars9.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchb10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx12.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx5.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx6.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx7.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx8.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbx9.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbxi10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchbxsl10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchit10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchit12.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchit7.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchit8.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchit9.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchsl10.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchsl12.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchsl8.pfb
+ texmf-dist/fonts/type1/public/dozenal/dozchsl9.pfb
+ texmf-dist/tex/latex/dozenal/dozenal.sty
+catalogue-ctan /fonts/dozenal
+catalogue-date 2018-05-11 21:00:13 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-specialist font-mf font-type1 numbers
+catalogue-version 7.2

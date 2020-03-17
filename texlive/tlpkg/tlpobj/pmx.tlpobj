@@ -1,0 +1,25 @@
+name pmx
+category Package
+revision 46823
+shortdesc Preprocessor for MusiXTeX
+longdesc PMX provides a preprocessor for MusiXTeX. pmxab builds a TeX
+longdesc input file based on a .pmx input file in a much simpler
+longdesc language, making most of the layout decisions by itself. It has
+longdesc most of MusiXTeX's functionality, but it also permits in-line
+longdesc TeX to give access to virtually all of MusiXTeX. For
+longdesc proof-listening, pmxab will make a MIDI file of your score.
+longdesc scor2prt is an auxiliary program that makes parts from a score.
+depend pmx.ARCH
+containersize 10120
+containerchecksum d8c20ad86fa90531b0bfb1e7af06492e31a4b3a46331fd36d60bf46275103672b61a419eb671a3c89f098e0c74a580df313d75001e52b27b148bf322c7df1593
+doccontainersize 560992
+doccontainerchecksum 37405b45aabf5bb6027b7849bc23f263f2ab9ffec515c3d7a2073bd7030580898b1c2171c760a9da40dcf0cd4cde890e235dde572b22e69e6a273b7bec4ebeb3
+runfiles size=9
+ texmf-dist/scripts/pmx/pmx2pdf.lua
+ texmf-dist/tex/generic/pmx/pmx.tex
+catalogue-contact-home http://icking-music-archive.org/software/indexmt6.html
+catalogue-ctan /support/pmx
+catalogue-date 2018-02-13 05:43:04 +0100
+catalogue-license gpl2
+catalogue-topics music
+catalogue-version 2.84

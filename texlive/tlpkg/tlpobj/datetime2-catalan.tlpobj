@@ -1,0 +1,23 @@
+name datetime2-catalan
+category Package
+revision 47032
+shortdesc Catalan language module for the datetime2 package
+longdesc This module provides the "catalan" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2488
+containerchecksum 7a414761760e3fb61ed12c656a88b6ae4d36b8268998f10ffc85a9cd362a6ee60b73b37c0994aa47603e805d785a3a0faa7266efa46c3e017535b864f2282e5d
+doccontainersize 280420
+doccontainerchecksum d1613bf5d8a35f69bf3dde127a764434b8527f0e627cecbdda43490642cb8d0a10ae629bf5f1359b7a87c12b3845bd468fb2c00b508be1d2cd80b6ad98904ebe
+srccontainersize 4672
+srccontainerchecksum 35fbd618c48265f4cd6bdccca100396f54b6379111189f8fad705e93f69026fbbba21f246074a3d154855b0a04e83c4a310b99c78e2105f821d109cfdadff6a3
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-catalan/datetime2-catalan-ascii.ldf
+ texmf-dist/tex/latex/datetime2-catalan/datetime2-catalan-utf8.ldf
+ texmf-dist/tex/latex/datetime2-catalan/datetime2-catalan.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-catalan
+catalogue-date 2018-03-19 17:52:59 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

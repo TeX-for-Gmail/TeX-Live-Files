@@ -1,0 +1,19 @@
+name frederika2016
+category Package
+revision 42157
+shortdesc An OpenType Greek calligraphy font
+longdesc Frederika2016 is an attempt to digitize Hermann Zapf's
+longdesc Frederika font. The font is the Greek companion of Virtuosa by
+longdesc the same designer. This font is a calligraphy font and this is
+longdesc an initial release.
+containersize 41296
+containerchecksum b7b271af72364e0d2d00ac499bc1e419534d479d27fb424b7046373323354c47da29b888f0d765e3ff4725333ab3d407cd21a064bc4d063adf890de75aa49e3a
+doccontainersize 336060
+doccontainerchecksum e205744d689113870fce9cf791f089ccb59cb6fa326c811f34db7183588df3de9b946cddba2a02128a9b88490e9326bea6563fa0fd9a3cdc76467555b7b8d198
+runfiles size=22
+ texmf-dist/fonts/opentype/public/frederika2016/Frederika2016.otf
+catalogue-ctan /fonts/frederika2016
+catalogue-date 2016-09-28 05:06:55 +0200
+catalogue-license ofl
+catalogue-topics font font-otf
+catalogue-version 1.000 2016 initial release

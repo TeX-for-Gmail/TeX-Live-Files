@@ -1,0 +1,28 @@
+name bxbase
+category Package
+revision 44481
+shortdesc BX bundle base components
+longdesc The main purpose of this bundle is to serve as an underlying
+longdesc library for other packages created by the same author (their
+longdesc names start with "BX" or "PX"). However bxbase package contains
+longdesc a few user-level commands and is of some use by itself.
+containersize 22632
+containerchecksum 18b281f5147a179d2908944dc35e5b9547bb094b15adb559f8154c432710e531ada4c7ab6f755cb631ab882d005e55dd5aecf8602b61fa07bc54fa91506aac89
+doccontainersize 87112
+doccontainerchecksum da2a4dbce775b37d143b112159e132568b3c48bfa56599ab5f04db0b0b51d1b901775036b76cb4bc049f8193117a01a4d2b6054744a49a8d57f986a2193fc6d8
+runfiles size=29
+ texmf-dist/tex/latex/bxbase/bxbase.def
+ texmf-dist/tex/latex/bxbase/bxbase.sty
+ texmf-dist/tex/latex/bxbase/bxtoolbox-ext.def
+ texmf-dist/tex/latex/bxbase/bxtoolbox-ja.def
+ texmf-dist/tex/latex/bxbase/bxtoolbox.def
+ texmf-dist/tex/latex/bxbase/bxtoolbox.sty
+ texmf-dist/tex/latex/bxbase/bxutf8.def
+ texmf-dist/tex/latex/bxbase/bxutf8x.def
+ texmf-dist/tex/latex/bxbase/zxbase.sty
+catalogue-contact-home https://github.com/zr-tex8r/BXbase
+catalogue-ctan /language/japanese/BX/bxbase
+catalogue-date 2017-05-30 16:37:29 +0200
+catalogue-license mit
+catalogue-topics japanese macro-supp
+catalogue-version 1.1

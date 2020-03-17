@@ -1,0 +1,30 @@
+name multilang
+category Package
+revision 49065
+shortdesc A LaTeX package for maintaining multiple translations of a document
+longdesc Maintaining a LaTeX document with translations for multiple
+longdesc languages can be cumbersome and error-prone. This package
+longdesc provides a set of macros for defining macros and environments
+longdesc as wrappers around existing macros and environments. These
+longdesc wrappers allow one to clearly specify multiple translations for
+longdesc the arguments to the wrapped macros and environments while only
+longdesc the translation of the document's language is actually shown.
+longdesc Choosing a translation then is as simple as choosing the
+longdesc document's language via babel or polyglossia.
+containersize 3436
+containerchecksum 57f9829b100068a84feb8a09a94066b93ec5fe70daf831ea99604089a4fc2f67af76f79505a2eab6dbc8f2b025feed6d908a1f24630e27e0f7606c4a3ebb71ca
+doccontainersize 414176
+doccontainerchecksum e611f2195fc4f7083d6343eb3554a2e786fd6522383456544e45346481cd57d54b0899cdc6ffd9edc4b75567b1e092ecc597bff660d849e0ce2b3e2d1bd55507
+srccontainersize 17232
+srccontainerchecksum 1e52e9c740d0eae4f89eb4a65e1d12b3d5f159cd6c938f729bdd019ccb8bcf98300a544fa7131fe214cde9b7b58f9b64a771a49513f45943c681893fbfc78b6e
+runfiles size=5
+ texmf-dist/tex/latex/multilang/multilang-sect.sty
+ texmf-dist/tex/latex/multilang/multilang-tags.sty
+ texmf-dist/tex/latex/multilang/multilang.sty
+catalogue-contact-bugs https://github.com/Ri-Ga/multilang/issues
+catalogue-contact-repository https://github.com/Ri-Ga/multilang
+catalogue-ctan /macros/latex/contrib/multilang
+catalogue-date 2018-11-03 14:35:33 +0100
+catalogue-license lppl1.2
+catalogue-topics multilingual
+catalogue-version 0.9b

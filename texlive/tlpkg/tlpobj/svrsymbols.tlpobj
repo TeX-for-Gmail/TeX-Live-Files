@@ -1,0 +1,27 @@
+name svrsymbols
+category Package
+revision 50019
+shortdesc A font with symbols for use in physics texts
+longdesc The svrsymbols package is a LaTeX interface to the SVRsymbols
+longdesc font. The glyphs of this font are ideograms that have been
+longdesc designed for use in physics texts. Some symbols are standard
+longdesc and some are entirely new.
+execute addMap svrsymbols.map
+containersize 67560
+containerchecksum 1fadd5259d527daf316502aae6072865b9c6e2efc1ab92f4bc0c3d1070ca4dd863b8f7366c9e6909b7885858c1745cd723003a9f4bd28e8208889da2c21f18d3
+doccontainersize 58768
+doccontainerchecksum 6ff7b9c1efa4b59c453b42fd37dc66e3c79912ff0bf9765b2745fd0cd946a4cfc4a063fc943d1b5919368f8a5809eef5cb7f3a4bf3b6cbdf8200f42180d21f92
+srccontainersize 3936
+srccontainerchecksum 916ca0f14ff1b9ae99fc609c41fa655eef39bb053ad39274dbe43167dbeed06ebbb9990cde6c040fcbf9b432b4ff89651195df094aa9c35bc172e7932917148d
+runfiles size=26
+ texmf-dist/fonts/afm/public/svrsymbols/SVRsymbols.afm
+ texmf-dist/fonts/map/dvips/svrsymbols/svrsymbols.map
+ texmf-dist/fonts/opentype/public/svrsymbols/SVRsymbols.otf
+ texmf-dist/fonts/tfm/public/svrsymbols/SVRsymbols.tfm
+ texmf-dist/fonts/type1/public/svrsymbols/SVRsymbols.pfb
+ texmf-dist/tex/latex/svrsymbols/svrsymbols.sty
+catalogue-ctan /fonts/svrsymbols
+catalogue-date 2019-02-12 22:24:22 +0100
+catalogue-license lppl1.3c
+catalogue-topics font font-maths font-symbol-maths physics
+catalogue-version 2.0b

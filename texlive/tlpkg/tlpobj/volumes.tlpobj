@@ -1,0 +1,24 @@
+name volumes
+category Package
+revision 15878
+shortdesc Typeset only parts of a document, with complete indexes etc
+longdesc This package helps you if you want to produce separate printed
+longdesc volumes from one LaTeX document, as well as one comprehensive,
+longdesc "all-inclusive" version. It suppresses the part of the table of
+longdesc contents that are not typeset, while counters, definitions,
+longdesc index entries etc. are kept consistent throughout the input
+longdesc file.
+containersize 2544
+containerchecksum e54add2c60c5446329fe6f944c99132e0f99e89dd8fc9ff459e0ee106a5241e4df4d864b43269fc14a08ddda92f4e41607eaa20ba50d4a566be7468d0dd66b2c
+doccontainersize 146160
+doccontainerchecksum 4471a360d04cc1ed9c90ecb53bfc422fdae30571a25fc4811813f30ed5308f4d20309a1fdba808d1eb20e84b97318708f57d08722344afd755aa06588acbd024
+srccontainersize 10228
+srccontainerchecksum 0f47cc01b4631430cc4b73c7348bcb9d500d0c5c9960a15e9fb29e1c805ff0be4f0108c6bf795156ab7f939fb355f800da916f913a4a441e65bdcefdb05c0499
+runfiles size=3
+ texmf-dist/tex/latex/volumes/nowtoaux.sty
+ texmf-dist/tex/latex/volumes/volumes.sty
+catalogue-ctan /macros/latex/contrib/volumes
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-pub
+catalogue-version 1.0

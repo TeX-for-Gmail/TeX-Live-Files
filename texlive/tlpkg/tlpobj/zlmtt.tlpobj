@@ -1,0 +1,36 @@
+name zlmtt
+category Package
+revision 34485
+shortdesc Use Latin Modern Typewriter fonts
+longdesc The package allows selection of Latin Modern Typewriter fonts
+longdesc with scaling and access to all its features. The package
+longdesc requires the mweights package.
+containersize 3036
+containerchecksum d015f09cf1d82550664780fa4bee7f901245365af5a1adb0820f7f844796f142faefea8899caa2a555cab5714205651f0978e7bb4dc3101c6cc8eba796e36728
+doccontainersize 53492
+doccontainerchecksum 34c82d428dd65651dffa4b23db4b9fb7b70cbb97f21e7b0ac960fb09326248912d48f41405aa6f682e59c45402da6810f97181782602456fddf75cfed5c1b5e4
+runfiles size=19
+ texmf-dist/tex/latex/zlmtt/il2zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/il2zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/l7xzlmtt.fd
+ texmf-dist/tex/latex/zlmtt/l7xzlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/ly1zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/ly1zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/ot1zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/ot1zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/ot4zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/ot4zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/qxzlmtt.fd
+ texmf-dist/tex/latex/zlmtt/qxzlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/t1zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/t1zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/t5zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/t5zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/ts1zlmtt.fd
+ texmf-dist/tex/latex/zlmtt/ts1zlmvtt.fd
+ texmf-dist/tex/latex/zlmtt/zlmtt.sty
+catalogue-ctan /fonts/zlmtt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp
+catalogue-version 1.01

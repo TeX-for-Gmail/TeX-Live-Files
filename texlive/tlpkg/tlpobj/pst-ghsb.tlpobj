@@ -1,0 +1,13 @@
+name pst-ghsb
+category Package
+revision 45797
+shortdesc HSB gradients via PSTricks
+longdesc Usage modeled on pst-grad; superseded by pst-slpe.
+containersize 2668
+containerchecksum 3bb85212ac247b5d6ddabf8d98f7ff5621b78ae2b83b08c00ce7c2831f6f6ec4d621a4e5f2ad00e2b5d8883f95aed579f0d17a5525c9df5ef9939528ec736325
+doccontainersize 86856
+doccontainerchecksum cfe4f9f8b24fbdbf22280b098c32c1b9b368fd6f74cd20c1ee7b241bf3a9afba822fda33b9c9365cb9c20c76ca658123039eb27828361d74e4a31fc8e170a6bf
+runfiles size=4
+ texmf-dist/dvips/pst-ghsb/pst-ghsb.pro
+ texmf-dist/tex/generic/pst-ghsb/pst-ghsb.tex
+ texmf-dist/tex/latex/pst-ghsb/pst-ghsb.sty

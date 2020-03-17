@@ -1,0 +1,20 @@
+name ltxguidex
+category Package
+revision 49705
+shortdesc An extended ltxguide class
+longdesc The ltxguidex document class extends ltxguide with a set of
+longdesc environments and commands that make writing beautiful LaTeX
+longdesc documentation easier and more natural.
+containersize 2780
+containerchecksum d52cf3b8ea9d112dec8d96ccfae3c1d8575d14348a764e5ee9291efb38e68dff8c69c37150e6c70af72768701f1899e76a4467c0daa7c7c16b9144aee12e2a94
+doccontainersize 74232
+doccontainerchecksum 2c6587a07cc9e2ff306992497b0ab06f366929476ce4b2b1040b2f734afb480c609f990177efd41ee82a626a70fab99841092aeb44bcb2ecb5053ac28ea8a64c
+runfiles size=2
+ texmf-dist/tex/latex/ltxguidex/ltxguidex.cls
+catalogue-contact-bugs https://github.com/9999years/ltxguidex/issues
+catalogue-contact-home https://github.com/9999years/ltxguidex
+catalogue-ctan /macros/latex/contrib/ltxguidex
+catalogue-date 2019-01-20 05:31:27 +0100
+catalogue-license lppl1.3c
+catalogue-topics class
+catalogue-version 0.1.0

@@ -1,0 +1,18 @@
+name bitpattern
+category Package
+revision 39073
+shortdesc Typeset bit pattern diagrams
+longdesc A package to typeset bit pattern diagrams such as those used to
+longdesc describe hardware, data format or protocols.
+containersize 2156
+containerchecksum 34a0ade2d1110a15618b2ecc7f46a413519a0864a2e5cd1e25eacb9dd76cc66b35565b4b8c015780fa1d3dc88e2237ae7de33c77e29fd5428758a526959625af
+doccontainersize 175700
+doccontainerchecksum d1fd1b2b46d7846804c9163889bf3a96cda2e11e35de2328c9043f99ccd9d0778710219593565ec9231775e1404d713edd7998e3fa909ada7dee35333137b56f
+srccontainersize 6764
+srccontainerchecksum 8c5860792394f85ab87d2a3ab234496a1f550a24f98a5e2f8f4d815b24e4fd3e7d0a1ffefac3912536d22cd39fdbd91db013b1c8e05d4de92aca47db679fa7e3
+runfiles size=2
+ texmf-dist/tex/latex/bitpattern/bitpattern.sty
+catalogue-ctan /macros/latex/contrib/bitpattern
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics engineering comp-sci comp-net

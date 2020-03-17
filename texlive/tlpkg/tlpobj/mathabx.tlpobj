@@ -1,0 +1,103 @@
+name mathabx
+category Package
+revision 15878
+shortdesc Three series of mathematical symbols
+longdesc Mathabx is a set of 3 mathematical symbols font series: matha,
+longdesc mathb and mathx. They are defined by Metafont code and should
+longdesc be of reasonable quality (bitmap output). Things change from
+longdesc time to time, so there is no claim of stability (encoding,
+longdesc metrics, design). The package includes Plain TeX and LaTeX
+longdesc support macros. A version of the fonts, in Adobe Type 1 format,
+longdesc is also available.
+containersize 102916
+containerchecksum 400bb43207c43192321cfe1b658c85a07410778e7694ab1604b992025d69300bb2d4c2cb7866a255dc4988c843dd3b92c33e527c12f087bb560cba4520115643
+doccontainersize 497084
+doccontainerchecksum e1f9f96794f6d20dd75bd7ceabd40993e56d5315848bbea8a6812a16f74c0fb92ddc6356c71aaa1367c47b1dc26a3711793ec88cf0b90d391f8157fe20f77196
+runfiles size=215
+ texmf-dist/fonts/source/public/mathabx/matha10.mf
+ texmf-dist/fonts/source/public/mathabx/matha12.mf
+ texmf-dist/fonts/source/public/mathabx/matha5.mf
+ texmf-dist/fonts/source/public/mathabx/matha6.mf
+ texmf-dist/fonts/source/public/mathabx/matha7.mf
+ texmf-dist/fonts/source/public/mathabx/matha8.mf
+ texmf-dist/fonts/source/public/mathabx/matha9.mf
+ texmf-dist/fonts/source/public/mathabx/mathacnt.mf
+ texmf-dist/fonts/source/public/mathabx/mathadrv.mf
+ texmf-dist/fonts/source/public/mathabx/matharrw.mf
+ texmf-dist/fonts/source/public/mathabx/mathastr.mf
+ texmf-dist/fonts/source/public/mathabx/mathastrotest10.mf
+ texmf-dist/fonts/source/public/mathabx/mathastrotestdrv.mf
+ texmf-dist/fonts/source/public/mathabx/mathasym.mf
+ texmf-dist/fonts/source/public/mathabx/mathb10.mf
+ texmf-dist/fonts/source/public/mathabx/mathb12.mf
+ texmf-dist/fonts/source/public/mathabx/mathb5.mf
+ texmf-dist/fonts/source/public/mathabx/mathb6.mf
+ texmf-dist/fonts/source/public/mathabx/mathb7.mf
+ texmf-dist/fonts/source/public/mathabx/mathb8.mf
+ texmf-dist/fonts/source/public/mathabx/mathb9.mf
+ texmf-dist/fonts/source/public/mathabx/mathbase.mf
+ texmf-dist/fonts/source/public/mathabx/mathbdel.mf
+ texmf-dist/fonts/source/public/mathabx/mathbdrv.mf
+ texmf-dist/fonts/source/public/mathabx/mathbigs.mf
+ texmf-dist/fonts/source/public/mathabx/mathbsym.mf
+ texmf-dist/fonts/source/public/mathabx/mathc10.mf
+ texmf-dist/fonts/source/public/mathabx/mathcall.mf
+ texmf-dist/fonts/source/public/mathabx/mathcallgreek.mf
+ texmf-dist/fonts/source/public/mathabx/mathcdrv.mf
+ texmf-dist/fonts/source/public/mathabx/mathfine.mf
+ texmf-dist/fonts/source/public/mathabx/mathgrey.mf
+ texmf-dist/fonts/source/public/mathabx/mathhbrw.mf
+ texmf-dist/fonts/source/public/mathabx/mathineq.mf
+ texmf-dist/fonts/source/public/mathabx/mathltlk.mf
+ texmf-dist/fonts/source/public/mathabx/mathmbcb.mf
+ texmf-dist/fonts/source/public/mathabx/mathprmt.mf
+ texmf-dist/fonts/source/public/mathabx/mathsmsy.mf
+ texmf-dist/fonts/source/public/mathabx/mathsubs.mf
+ texmf-dist/fonts/source/public/mathabx/mathsymb.mf
+ texmf-dist/fonts/source/public/mathabx/mathu10.mf
+ texmf-dist/fonts/source/public/mathabx/mathudrv.mf
+ texmf-dist/fonts/source/public/mathabx/mathusym.mf
+ texmf-dist/fonts/source/public/mathabx/mathux10.mf
+ texmf-dist/fonts/source/public/mathabx/mathuxdrv.mf
+ texmf-dist/fonts/source/public/mathabx/mathx10.mf
+ texmf-dist/fonts/source/public/mathabx/mathx12.mf
+ texmf-dist/fonts/source/public/mathabx/mathx5.mf
+ texmf-dist/fonts/source/public/mathabx/mathx6.mf
+ texmf-dist/fonts/source/public/mathabx/mathx7.mf
+ texmf-dist/fonts/source/public/mathabx/mathx8.mf
+ texmf-dist/fonts/source/public/mathabx/mathx9.mf
+ texmf-dist/fonts/source/public/mathabx/mathxdrv.mf
+ texmf-dist/fonts/source/public/mathabx/maydigit.mf
+ texmf-dist/fonts/tfm/public/mathabx/matha10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha12.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha5.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha6.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha7.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha8.tfm
+ texmf-dist/fonts/tfm/public/mathabx/matha9.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathastrotest10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb12.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb5.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb6.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb7.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb8.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathb9.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathc10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathu10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathux10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx10.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx12.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx5.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx6.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx7.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx8.tfm
+ texmf-dist/fonts/tfm/public/mathabx/mathx9.tfm
+ texmf-dist/tex/generic/mathabx/mathabx.dcl
+ texmf-dist/tex/generic/mathabx/mathabx.sty
+ texmf-dist/tex/generic/mathabx/mathabx.tex
+catalogue-contact-home http://www-math.univ-poitiers.fr/~phan/
+catalogue-ctan /fonts/mathabx
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-symbol-maths

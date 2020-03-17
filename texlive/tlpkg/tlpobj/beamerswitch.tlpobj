@@ -1,0 +1,28 @@
+name beamerswitch
+category Package
+revision 49849
+shortdesc Convenient mode selection in Beamer documents
+longdesc This class is a wrapper around the beamer class to make it
+longdesc easier to use the same document to generate the different forms
+longdesc of the presentation: the slides themselves, an abbreviated
+longdesc slide set for transparencies or online reference, an n-up
+longdesc handout version (various layouts are provided), and a
+longdesc transcript or set of notes using the article class. The class
+longdesc provides a variety of handout layouts, and allows the mode to
+longdesc be chosen from the command line (without changing the document
+longdesc itself).
+containersize 4652
+containerchecksum 73fb637ea191f42127ac76fd5ec5573820e40964296c2ae9215d82e426438a28149afd5d86553e1bbd4a6ed5808d429f0cf98295e69d6bef0a607924c894753c
+doccontainersize 241676
+doccontainerchecksum 5f598af37ae2202cf7db5dacd0d7b947e64b33f63eff64e549a1bda063fd992e64bb177586d3cb4b00eee1029409c2650a888cacc94158dcdfbedbdb50727090
+srccontainersize 19640
+srccontainerchecksum 9daa1006f526510d3731ffcfac33b9a23fff97b66eab0cae0cf51fc7a2765ad5fdcf5247b8640d2d60eac1c94e73444df2329dd5e078321f21263fb4b5a0fac0
+runfiles size=11
+ texmf-dist/tex/latex/beamerswitch/beamerswitch.cls
+catalogue-contact-bugs https://github.com/alex-ball/beamerswitch/issues
+catalogue-contact-repository https://github.com/alex-ball/beamerswitch
+catalogue-ctan /macros/latex/contrib/beamer-contrib/beamerswitch
+catalogue-date 2019-01-28 18:28:39 +0100
+catalogue-license lppl1.3c
+catalogue-topics presentation class
+catalogue-version 1.5

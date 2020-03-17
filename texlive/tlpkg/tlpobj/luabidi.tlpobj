@@ -1,0 +1,22 @@
+name luabidi
+category Package
+revision 30790
+shortdesc Bidirectional typesetting with LuaLaTeX
+longdesc The package attempts to emulate the XeTeX bidi package, in the
+longdesc context of LuaTeX.
+containersize 2248
+containerchecksum 270da3ba601daa28769a21ed85ce5d41f7c4a451f32d10400680399efbc7e7dcc52148a9df092ebfeade6055326e83a0841bca314ed08df89a9f4c569af25c5a
+doccontainersize 632
+doccontainerchecksum 3d3a62c47a4d1bba9b148cc05ed137665533eb58791db1a4032bded74a3f4442aebb22319e8a29a9dcb1afe5ba1d3472c6ae054c950fa89e13ba641fedcd0473
+runfiles size=4
+ texmf-dist/tex/lualatex/luabidi/arabmaths.tex
+ texmf-dist/tex/lualatex/luabidi/autofootnoterule.tex
+ texmf-dist/tex/lualatex/luabidi/luabidi.sty
+ texmf-dist/tex/lualatex/luabidi/textwidthfootnoterule.tex
+catalogue-contact-bugs https://github.com/bidi-tex/luabidi/issues
+catalogue-contact-repository https://github.com/bidi-tex/luabidi
+catalogue-ctan /macros/luatex/latex/luabidi
+catalogue-date 2018-11-28 20:29:19 +0100
+catalogue-license lppl1.3
+catalogue-topics typesetting luatex
+catalogue-version 0.2

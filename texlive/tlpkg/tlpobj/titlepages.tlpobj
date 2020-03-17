@@ -1,0 +1,15 @@
+name titlepages
+category Package
+revision 19457
+shortdesc Sample titlepages, and how to code them
+longdesc The document provides examples of over two dozen title page
+longdesc designs based on a range of published books and theses,
+longdesc together with the LaTeX code used to create them.
+containersize 480
+containerchecksum affb8e221dd2ba1ad6e18d08dcbf3176bf65ae3006a732a7d2bf954fbfe90215175cd3de0dbb7546906b7d65eecb9aff06fabce86c46e88e5027851e11e52260
+doccontainersize 887312
+doccontainerchecksum 703f376c6bb2480f7a326f31ec277716073ddf67834930401c17627dba41c5321a0115e01ec73160917c68fb7ba4e0042e8ac40d968eef89f52b5dd27c2e0495
+catalogue-ctan /info/latex-samples/TitlePages
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics titlepage use-sample

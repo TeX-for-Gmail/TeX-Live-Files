@@ -1,0 +1,21 @@
+name gotoh
+category Package
+revision 44764
+shortdesc An implementation of the Gotoh sequence alignment algorithm
+longdesc This package calculates biological sequence alignment with the
+longdesc Gotoh algorithm. The package also provides an interface to
+longdesc control various settings including algorithm parameters.
+containersize 2632
+containerchecksum 478d51d4f8af849180d1e21ea21c6404f6eb1d13cd70d232f7002f62a588ed2de40e2950699c1bc0e5442069a957b05f3128430ef421311737cf55a6df868a12
+doccontainersize 291976
+doccontainerchecksum 3aa9837e81bc59adaba5b1cc3908738451fefe2645bf1422e0c6b119e4ff94ad85a7c2ddbae798e1e1ced95a530ab95b2f7a5a92da827c9f6d9bdc574b5f3231
+srccontainersize 8224
+srccontainerchecksum 8ae972cc1f0095c442241e5340c3688021253d135167a89c67000c74a53418c48c3fa13b4b2007dbbf598abd1445ef06a9113a32a1fa37b0b8a5dca6c050ba5e
+runfiles size=4
+ texmf-dist/tex/latex/gotoh/gotoh.sty
+catalogue-contact-repository https://github.com/wtsnjp/Gotoh
+catalogue-ctan /macros/latex/contrib/gotoh
+catalogue-date 2017-07-07 08:45:27 +0200
+catalogue-license mit
+catalogue-topics biology
+catalogue-version 1.1

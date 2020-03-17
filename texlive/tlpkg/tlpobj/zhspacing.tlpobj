@@ -1,0 +1,26 @@
+name zhspacing
+category Package
+revision 41145
+shortdesc Spacing for mixed CJK-English documents in XeTeX
+longdesc The package manages spacing in a CJK document; between
+longdesc consecutive Chinese letters, spaces are ignored, but a
+longdesc consistent space is inserted between Chinese text and English
+longdesc (or mathematics). The package may be used by any document
+longdesc format under XeTeX.
+containersize 12276
+containerchecksum 52d1d3523ae4c0d2dba5258b06cf9920f8a9005df7e03fd1407dd8ae2e4dc90768aab10127319ef9025765820b3ebb8a946ea0373114c9148a303517b563bfe0
+doccontainersize 169376
+doccontainerchecksum 7fd15e4f29671081670e881e9366ba627f5bed6d981fa0ef1c670d0744e1286c04e785e28b92279d66af851803d84949c2f463370f23c64987fea78531172128
+runfiles size=18
+ texmf-dist/tex/context/third/zhspacing/t-zhspacing.tex
+ texmf-dist/tex/generic/zhspacing/zhmath.sty
+ texmf-dist/tex/generic/zhspacing/zhsmyclass.sty
+ texmf-dist/tex/generic/zhspacing/zhspacing.sty
+ texmf-dist/tex/generic/zhspacing/zhsusefulmacros.sty
+ texmf-dist/tex/xelatex/zhspacing/zhfont.sty
+ texmf-dist/tex/xelatex/zhspacing/zhulem.sty
+catalogue-contact-repository https://github.com/ctex-org/ctex-kit
+catalogue-ctan /macros/xetex/generic/zhspacing
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics multilingual-addon chinese

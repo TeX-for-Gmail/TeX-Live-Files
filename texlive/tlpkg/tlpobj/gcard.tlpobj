@@ -1,0 +1,21 @@
+name gcard
+category Package
+revision 15878
+shortdesc Arrange text on a sheet to fold into a greeting card
+longdesc The package provides a simple means of producing greeting
+longdesc cards. It arranges four panels onto a single sheet so that when
+longdesc the sheet is folded twice the four panels are arranged as front
+longdesc cover, inside left and right pages, and back cover. It uses the
+longdesc textpos package for placement on the sheet and the graphicx
+longdesc package for the necessary rotation. The four panels are set in
+longdesc minipages for formatting by the user.
+containersize 1676
+containerchecksum de462bff229779faa33c546d525e3624f1ed372c09c1b90fa9270928caf0a2604f2bb9d3ef0768de7dd0646202d7a59995b7252c0b83b19eaf777438bd1acc47
+doccontainersize 128064
+doccontainerchecksum f7fd3c07e053962c88d0a0b8e5899272a3bd9af4cf1731f88a7014773d8f0ecc91fb45e1e59b1a372d8c8977e1dce91c5162558d0245d77a187ac7787a3710ea
+runfiles size=1
+ texmf-dist/tex/latex/gcard/gcard.sty
+catalogue-ctan /macros/latex/contrib/gcard
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter graphics-use

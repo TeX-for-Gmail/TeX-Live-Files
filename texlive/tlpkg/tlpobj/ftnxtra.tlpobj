@@ -1,0 +1,22 @@
+name ftnxtra
+category Package
+revision 29652
+shortdesc Extend the applicability of the \footnote command
+longdesc The package treats footnotes in \caption, the tabular
+longdesc environment, and \chapter and other \section-like commands.
+containersize 1900
+containerchecksum df8395b996f96ed72505ef1ef7f0e8e6101d4b26059831b227344023514d377eb189961a240e83ba42ac4ef7e8086b8ffcda347290014fbb1cf1531371c20eff
+doccontainersize 23512
+doccontainerchecksum fc16ff992e3339480a4154169665be49f51e56f361d0b1f97842c555be59485fd7edf3cf815e32642826224e188c5377fdb2ab36746cdaef7f552399a4b7119c
+srccontainersize 2804
+srccontainerchecksum 87e580467312c6198fd7106b6fdfdac994c5f9fae3d131b793da60ebc9d852141ed6630aa0d4273e50e7311b6e10499a3e4e2cf141ff197d5ed72822f0c15be6
+runfiles size=2
+ texmf-dist/tex/latex/ftnxtra/ftnxtra.sty
+catalogue-also footnote footmisc
+catalogue-contact-bugs https://github.com/bidi-tex/ftnxtra/issues
+catalogue-contact-repository https://github.com/bidi-tex/ftnxtra
+catalogue-ctan /macros/latex/contrib/ftnxtra
+catalogue-date 2018-11-28 19:25:02 +0100
+catalogue-license lppl
+catalogue-topics footnote
+catalogue-version 0.1

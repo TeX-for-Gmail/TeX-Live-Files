@@ -1,0 +1,36 @@
+name mathtools
+category Package
+revision 46250
+shortdesc Mathematical tools to use with amsmath
+longdesc Mathtools provides a series of packages designed to enhance the
+longdesc appearance of documents containing a lot of mathematics. The
+longdesc main backbone is amsmath, so those unfamiliar with this
+longdesc required part of the LaTeX system will probably not find the
+longdesc packages very useful. Mathtools provides many useful tools for
+longdesc mathematical typesetting. It is based on amsmath and fixes
+longdesc various deficiencies of amsmath and standard LaTeX. It
+longdesc provides: Extensible symbols, such as brackets, arrows,
+longdesc harpoons, etc.; Various symbols such as \coloneqq (:=); Easy
+longdesc creation of new tag forms; Showing equation numbers only for
+longdesc referenced equations; Extensible arrows, harpoons and
+longdesc hookarrows; Starred versions of the amsmath matrix environments
+longdesc for specifying the column alignment; More building blocks:
+longdesc multlined, cases-like environments, new gathered environments;
+longdesc Maths versions of \makebox, \llap, \rlap etc.; Cramped math
+longdesc styles; and more... Mathtools requires mhsetup.
+containersize 19112
+containerchecksum ad121970fb30bca9b043490862029ffbcb21a0d07f69aaa9938fc6e91c2545783bea36e4e931d0d921548d8b8ae45b4ace0d04767f2d7ad13c5ff5d9096f418b
+doccontainersize 965596
+doccontainerchecksum fd2754e2048d1615a25a001915ac02ffc88be0237fd963be778785325ec0e05bcfcea0d1c12f84d87728a2802f1b0945d1adf4e527d5b893a4fa1eb1da58f262
+srccontainersize 81732
+srccontainerchecksum f55c3957012385446dbbdf6f8d0339b28ce42578f8864ab40d629aa8af605cb41fb2eab8e7a5d12bc7d28ea9aed1744381cc207b89addca9227f542643c15c8c
+runfiles size=28
+ texmf-dist/tex/latex/mathtools/empheq.sty
+ texmf-dist/tex/latex/mathtools/mathtools.sty
+ texmf-dist/tex/latex/mathtools/mhsetup.sty
+catalogue-also mhsetup empheq
+catalogue-ctan /macros/latex/contrib/mathtools
+catalogue-date 2018-01-08 15:01:37 +0100
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 1.21

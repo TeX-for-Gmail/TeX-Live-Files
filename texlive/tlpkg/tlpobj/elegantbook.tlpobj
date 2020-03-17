@@ -1,0 +1,23 @@
+name elegantbook
+category Package
+revision 50117
+shortdesc An Elegant LaTeX Template for Books
+longdesc ElegantBook is designed for writing Books. This template is
+longdesc based on the standard LaTeX book class. The goal of this
+longdesc template is to make the writing process more elegant. Just
+longdesc enjoy it!
+containersize 5564
+containerchecksum 971a438a0f48b1efef10363caf54e29f00aa2320e9bfb3774d1464700ece7bca9241e324d0ce5650f2b18e75e2866d2ba3c01c2345454057effea8c48de74796
+doccontainersize 1377872
+doccontainerchecksum ac768ada42edd6cf61d54a8b71f23b3de9978292e18d791c4cf7c0e51420c2a14787e4bd9cd9f02faa6a887e06a017bdebc6e1f84abf73f27ada6ca5d667574b
+runfiles size=4
+ texmf-dist/tex/latex/elegantbook/elegantbook.cls
+catalogue-contact-announce https://elegantlatex.org/
+catalogue-contact-home https://elegantlatex.org/
+catalogue-contact-repository https://github.com/ElegantLaTeX/ElegantBook
+catalogue-contact-support https://github.com/ElegantLaTeX/ElegantBook/issues
+catalogue-ctan /macros/latex/contrib/elegantbook
+catalogue-date 2019-02-26 05:14:40 +0100
+catalogue-license lppl1.3c
+catalogue-topics class chinese book-pub
+catalogue-version 3.06

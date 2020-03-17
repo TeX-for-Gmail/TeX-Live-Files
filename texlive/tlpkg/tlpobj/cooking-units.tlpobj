@@ -1,0 +1,24 @@
+name cooking-units
+category Package
+revision 48748
+shortdesc Typeset and convert units for cookery books and recipes
+longdesc The package provides commands to typeset amounts and units
+longdesc consistently and offers an easy-to-use key-value syntax to
+longdesc convert one unit into another (for example 'dag' to 'g'; see
+longdesc the documentation for more examples). This packages requires
+longdesc expl3 and xparse, translations, xfrac, l3keys2e, and,
+longdesc optionally, fmtcount.
+containersize 16068
+containerchecksum d37a80797b11767dca8494626e7c7fb7b6a64ef216f2f278935d5d1078547239e05b1d5945d03c1d91e902cf979d492d5586a6d1419df1a17192ce77d4c20d22
+doccontainersize 656020
+doccontainerchecksum 06cfb266d9676148b305bb4e2a6b49c802752195abb4ef7510aa226e10b6d9f804b7e9bf45e8c0ecff19071c1aacd6dbafc9ff89adc55830609ec158a3ef2468
+srccontainersize 50748
+srccontainerchecksum 2a3ee2c632a544708b192b260809403bf6a9124c2207babf9dcce20d6b8869d01adb5a37a2644f6263c59d4c67eab11461484d454be67744a8243f6a08f9a4ea
+runfiles size=29
+ texmf-dist/tex/latex/cooking-units/cooking-units.sty
+catalogue-contact-repository https://github.com/Vidabe/cooking-units
+catalogue-ctan /macros/latex/contrib/cooking-units
+catalogue-date 2018-09-24 15:23:01 +0200
+catalogue-license lppl
+catalogue-topics cooking units
+catalogue-version 1.45

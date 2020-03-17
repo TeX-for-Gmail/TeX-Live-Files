@@ -1,0 +1,24 @@
+name pagecolor
+category Package
+revision 44487
+shortdesc Interrogate page colour
+longdesc This package provides the command \thepagecolor, which gives
+longdesc the current page (background) colour, i. e. the argument used
+longdesc with the most recent call of \pagecolor{...}. The command
+longdesc \thepagecolornone gives the same colour as \thepagecolor,
+longdesc except when the page background colour is "none" (e.g., as a
+longdesc result of using the \nopagecolor command). In that case
+longdesc \thepagecolor is "white" and \thepagecolornone is "none".
+containersize 3192
+containerchecksum 6df1ddc270fa99a658d2ffe94b29e31e54e665b3c3c41c8c1f992adb8453f5bb6b59356c2ef049ac4679f4e996a6888911e5c8c5d92500df0a3f53d5a11f5fb1
+doccontainersize 407548
+doccontainerchecksum c63adfeddcd00a7d738fd74c047b034d4a88264185d519d4891a429b82c62f20dc28196e1657e1c7c1dd3fa8a570d5a66e6af3aed5c78ca851ec40153f2396e3
+srccontainersize 12008
+srccontainerchecksum 2cb9a6c424ec6b1a649a592a51d4c06f67685042da8cba22ac088ca962ecbd2b93806a962409ea94f28e9183cebc02d7e2b9ee298d645a330fab8722534ecebc
+runfiles size=3
+ texmf-dist/tex/latex/pagecolor/pagecolor.sty
+catalogue-ctan /macros/latex/contrib/pagecolor
+catalogue-date 2017-05-29 13:22:07 +0200
+catalogue-license lppl1.3c
+catalogue-topics colour
+catalogue-version 1.0i

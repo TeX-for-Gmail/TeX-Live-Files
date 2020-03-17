@@ -1,0 +1,19 @@
+name macroswap
+category Package
+revision 31498
+shortdesc Swap the definitions of two LaTeX macros
+longdesc The package provides simple utility methods to swap the meaning
+longdesc (token expansion) of two macros by name.
+containersize 1052
+containerchecksum 39af1bcf247986c1f7559e1523d1d33680270602bda1d904404db0700452d203f950eadb2d9808a1cd3098bccf070218bd791fdbe5be4a3b0f539f013ef226a6
+doccontainersize 163332
+doccontainerchecksum 4e46c824a6a5909fca7d8a4628c87cc7a372ae5eab0d2f5110dc1f205e072e53a817043cbead53dde55e71c7c1c0e23695ba963c27e46bc70e2f84d430b656d7
+srccontainersize 3172
+srccontainerchecksum 43ac07d97c89b821f89f7308acc21521d025bad0dcc82f281e011254b163a54cc457db5bc0dc74419cc5bdfc4297e18cc886bbb1b22715dcb7d41e6bcc0c2374
+runfiles size=1
+ texmf-dist/tex/latex/macroswap/macroswap.sty
+catalogue-ctan /macros/latex/contrib/macroswap
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics macro-supp
+catalogue-version 1.1

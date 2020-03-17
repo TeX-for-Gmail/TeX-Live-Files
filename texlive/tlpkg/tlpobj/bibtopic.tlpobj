@@ -1,0 +1,28 @@
+name bibtopic
+category Package
+revision 15878
+shortdesc Include multiple bibliographies in a document
+longdesc The package allows the user to include several bibliographies
+longdesc covering different 'topics' or bibliographic material into a
+longdesc document (e.g., one bibliography for primary literature and one
+longdesc for secondary literature). The package provides commands to
+longdesc include either all references from a .bib file, only the
+longdesc references actually cited or those not cited in your document.
+longdesc The user has to construct a separate .bib file for each
+longdesc bibliographic 'topic', each of which will be processed
+longdesc separately by BibTeX. If you want to have bibliographies
+longdesc specific to one part of a document, see the packages bibunits
+longdesc or chapterbib.
+containersize 8592
+containerchecksum 34e2a644cc4472f415522e6e798bcb1e2d623afd4783b07f4904405c63296ec912fb6c1d03f80d51c37ab81944cddb5b4f3678a22a7151d89376ed9aa343e9d7
+doccontainersize 222060
+doccontainerchecksum 5849fd57abb9bd847833993e660e342a537562bea9fba76376f3885d3bd09360c5783e4f04828137b43c076b635a2d566d908be48287c3fe6645c2abcba06652
+srccontainersize 40496
+srccontainerchecksum 2b6d11221e625b6d568874d12cbc7b45d074ebe2bb973d63fcbb9d85689a4c27824f3eec68fcaa46f0de707767baa516c3925ff0fc4d6a90518584847844ede9
+runfiles size=9
+ texmf-dist/tex/latex/bibtopic/bibtopic.sty
+catalogue-ctan /macros/latex/contrib/bibtopic
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-multi bibtex-supp
+catalogue-version 1.1a

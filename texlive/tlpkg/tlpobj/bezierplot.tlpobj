@@ -1,0 +1,25 @@
+name bezierplot
+category Package
+revision 48644
+shortdesc Approximate smooth function graphs with cubic bezier splines for use with TikZ or MetaPost
+longdesc This package consists of a Lua program as well as a (Lua)LaTeX
+longdesc .sty file. Given a smooth function, bezierplot returns a smooth
+longdesc bezier path written in TikZ notation (which also matches
+longdesc MetaPost) that approximates the graph of the function. For
+longdesc polynomial functions of degree [?] 3 and their inverses the
+longdesc approximation is exact (up to numeric precision). bezierplot
+longdesc also finds special points such as extreme points and inflection
+longdesc points and reduces the number of used points.
+containersize 7792
+containerchecksum f67725beb0a1d2368a046be85e481d0c972ebd095f266958f3aab7eb3b17099514f1c04ee8a90b07c33f2693f57782647bebc755343d34b042d39b54cccdbe0d
+doccontainersize 255100
+doccontainerchecksum 1eeb6569ed23d323bebb8d88abf6f122863208a85663bbad6813e7a1726bfa062a08cfaa6aebcc7125c9453daf5f6d16c4125ccb244c81a4e87347d36875761f
+runfiles size=9
+ texmf-dist/tex/lualatex/bezierplot/bezierplot.lua
+ texmf-dist/tex/lualatex/bezierplot/bezierplot.sty
+catalogue-contact-repository https://github.com/linusromer/bezierplot
+catalogue-ctan /macros/luatex/latex/bezierplot
+catalogue-date 2018-09-11 17:29:23 +0200
+catalogue-license lppl1.3c
+catalogue-topics luatex use-lua graphics-plot graphics-plotfn
+catalogue-version 1.3

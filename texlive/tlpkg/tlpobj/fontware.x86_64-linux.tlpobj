@@ -1,0 +1,11 @@
+name fontware.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of fontware
+containersize 101492
+containerchecksum 57ad212f80de0634766314ea5a0bf93064e7145331666f4ba423cce874d5d0f58e2f3e29d5b435af72ef9de99a63ff3291fc481003457cc9d261695380f37631
+binfiles arch=x86_64-linux size=86
+ bin/x86_64-linux/pltotf
+ bin/x86_64-linux/tftopl
+ bin/x86_64-linux/vftovp
+ bin/x86_64-linux/vptovf

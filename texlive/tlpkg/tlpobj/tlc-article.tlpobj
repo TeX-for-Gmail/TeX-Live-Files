@@ -1,0 +1,25 @@
+name tlc-article
+category Package
+revision 47891
+shortdesc A LaTeX document class for formal documents
+longdesc The package provides a LaTeX document class that orchestrates a
+longdesc logical arrangement for document header, footer, author,
+longdesc abstract, table of contents, and margins. It standardizes a
+longdesc document layout intended for formal documents. The tlc_article
+longdesc GitHub repository uses a SCRUM framework adapted to standard
+longdesc GitHub tooling. tlc_article is integrated with Travis-ci.org
+longdesc for continuous integration and AllanConsulting.slack.com for
+longdesc centralized notification.
+containersize 3760
+containerchecksum 7b533169d7f59aa2024311ff4cb2d1a1da7bad458f376a1d5835f136e77ef49faf2fb30dbb95a1f287cdf7f08f382b31f48b696a651c10dab546e30debdf826c
+doccontainersize 110140
+doccontainerchecksum ec4637ac508bb74fa4df73a36dd78092588aca0a84cc5fb39e901a08ecb5e9034059d44d9b9252850e3257791139940dc08dead475a2732a11bb543ef06cfd4d
+runfiles size=3
+ texmf-dist/tex/latex/tlc-article/tlc-article.cls
+catalogue-contact-bugs https://github.com/Traap/tlc-article/issues
+catalogue-contact-home https://github.com/Traap/tlc-article
+catalogue-ctan /macros/latex/contrib/tlc-article
+catalogue-date 2018-06-05 05:23:42 +0200
+catalogue-license bsd3
+catalogue-topics class article-like
+catalogue-version 1.0.10

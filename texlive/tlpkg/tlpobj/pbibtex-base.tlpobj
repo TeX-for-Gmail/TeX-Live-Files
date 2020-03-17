@@ -1,0 +1,28 @@
+name pbibtex-base
+category Package
+revision 40986
+shortdesc Bibliography styles and miscellaneous files for pBibTeX
+longdesc These are miscellaneous files, including bibliography styles
+longdesc (.bst), for pBibTeX, which is a Japanese extended version of
+longdesc BibTeX contained in TeX Live. The bundle is a redistribution
+longdesc derived from the ptex-texmf distribution by ASCII MEDIA WORKS.
+containersize 14712
+containerchecksum 4c807466ddae93f7b12a62fb32b4a8a8dcdf16eb8935548aaeeccaa90de15484e396f307f229cab8a2980212aa7627e80047502a067847114ca7ff6a9ae22c3b
+doccontainersize 846572
+doccontainerchecksum a87c2feac2b0a115ccec0ced7ed9b5215c8b7501020a4ca14fea9a5062bc0994fa31c892c1a738c582118b73ff4df5aba371abaef76d3c15a00d5268bef85031
+runfiles size=61
+ texmf-dist/pbibtex/bib/jxampl.bib
+ texmf-dist/pbibtex/bst/jabbrv.bst
+ texmf-dist/pbibtex/bst/jalpha.bst
+ texmf-dist/pbibtex/bst/jipsj.bst
+ texmf-dist/pbibtex/bst/jname.bst
+ texmf-dist/pbibtex/bst/jorsj.bst
+ texmf-dist/pbibtex/bst/jplain.bst
+ texmf-dist/pbibtex/bst/junsrt.bst
+ texmf-dist/pbibtex/bst/tieice.bst
+ texmf-dist/pbibtex/bst/tipsj.bst
+catalogue-contact-repository https://github.com/texjporg/pbibtex-base
+catalogue-ctan /biblio/pbibtex/base
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license bsd3
+catalogue-topics biblio japanese

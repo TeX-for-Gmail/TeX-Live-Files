@@ -1,0 +1,17 @@
+name chicago
+category Package
+revision 15878
+shortdesc A "Chicago" bibliography style
+longdesc Chicago is a BibTeX style that follows the "B" reference style
+longdesc of the 13th Edition of the Chicago manual of style; a LaTeX
+longdesc package (to LaTeX 2.09 conventions) is also provided. The style
+longdesc was derived from the newapa style.
+containersize 10508
+containerchecksum 2313d7911a8c6bbcfbfb25405e3fd2ea8c0721045f77b9ecf27e4daaee5cfc1a5c010c72d192583e6025aecc6f69421fbd7921d63daa9f29145eb6f9c96c3abb
+runfiles size=13
+ texmf-dist/bibtex/bst/chicago/chicago.bst
+ texmf-dist/tex/latex/chicago/chicago.sty
+catalogue-ctan /biblio/bibtex/contrib/chicago
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty

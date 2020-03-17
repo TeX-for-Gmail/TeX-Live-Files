@@ -1,0 +1,20 @@
+name ifptex
+category Package
+revision 45485
+shortdesc Check if the engine is pTeX or one of its derivatives
+longdesc The ifptex package is a counterpart of ifxetex, ifluatex, etc.
+longdesc for the ptex engine. The ifuptex package is an alias to ifptex
+longdesc provided for backward compatibility.
+containersize 3540
+containerchecksum 56c72a37f02e87817736a8c172bd031293e63379a15a01c727f5d0208e6bba1900e06383bdb470d96edec80f5151eda05c5ee28bdbe37943e07d6d846f0f2a93
+doccontainersize 2948
+doccontainerchecksum 47aeb2a9e1f9b1b2ec102fdfbefbc932f0a0b5e7c89819609b5b6456dd8c50effbd05ab7eb24d65d40bd4f9065baa5aa5aa008e613a23a10bcc5bfe44e651377
+runfiles size=4
+ texmf-dist/tex/generic/ifptex/ifptex.sty
+ texmf-dist/tex/generic/ifptex/ifuptex.sty
+catalogue-contact-repository https://github.com/zr-tex8r/ifptex
+catalogue-ctan /macros/generic/ifptex
+catalogue-date 2017-10-05 23:03:57 +0200
+catalogue-license mit
+catalogue-topics env-query japanese
+catalogue-version 1.2c

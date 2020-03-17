@@ -1,0 +1,20 @@
+name xtuthesis
+category Package
+revision 47049
+shortdesc XTU thesis template
+longdesc The package provides a thesis template for the Xiangtan
+longdesc University.
+containersize 3564
+containerchecksum 5d9081b8d197952aa5ff58b1cbd490bb529cbbc1b72956cca8dd28b1b6bc12c6248d3d04fd457349b30df7594aa1872ce9c8438feb67af1b93ff0fd33eefcb7d
+doccontainersize 833404
+doccontainerchecksum 96e94598e3e397a9657a83496d940aa2525fdbe1ec2cf820b05e5493b1f3e1c45568e16b62c22d4ee25afe2bd0657848a433477e82cc8038895c2195139ca065
+runfiles size=3
+ texmf-dist/tex/latex/xtuthesis/xtuformat.sty
+catalogue-contact-bugs https://github.com/MrDongdongLin/xtuthesis/pulls
+catalogue-contact-home https://github.com/MrDongdongLin/xtuthesis
+catalogue-contact-repository https://github.com/MrDongdongLin/xtuthesis
+catalogue-ctan /macros/latex/contrib/xtuthesis
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl1.3
+catalogue-topics chinese dissertation
+catalogue-version 1.0

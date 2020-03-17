@@ -1,0 +1,87 @@
+name armtex
+category Package
+revision 33894
+shortdesc A system for writing Armenian with TeX and LaTeX
+longdesc ArmTeX is a system for typesetting Armenian text with Plain TeX
+longdesc or LaTeX(2e). It may be used with input: from a standard Latin
+longdesc keyboard without any special encoding and/or support for
+longdesc Armenian letters, any keyboard which uses an encoding that has
+longdesc Armenian letters in the second half (characters 128-255) of the
+longdesc extended ASCII table (for example ArmSCII8 Armenian standard),
+longdesc or encoded in UTF-8. Users should note that the manuals (below)
+longdesc mostly describe the previous (version 2.0) of the package.
+longdesc Updating work is still under way.
+execute addMixedMap arss.map
+execute addMixedMap artm.map
+containersize 527176
+containerchecksum 9e76f19f3b1bdcc771039d0be62c5745e5605b1838c4d7b2df67b14b1babcecf49fa5abb667b0d106a432919dd08e23e82201a62bb4adfde3c2016aeace79bb1
+doccontainersize 429996
+doccontainerchecksum 8df4b5c1aa4b653869383336594ea3bb960ed8bdc2c413464df1aba607c9c310bcb5e8e63a911fc28113a8770573e510d81c6fcdf84242dcf08dd2da33f7dbf9
+runfiles size=525
+ texmf-dist/fonts/afm/public/armenian/arssb10.afm
+ texmf-dist/fonts/afm/public/armenian/arssbs10.afm
+ texmf-dist/fonts/afm/public/armenian/arssr10.afm
+ texmf-dist/fonts/afm/public/armenian/arsssl10.afm
+ texmf-dist/fonts/afm/public/armenian/artmb10.afm
+ texmf-dist/fonts/afm/public/armenian/artmbi10.afm
+ texmf-dist/fonts/afm/public/armenian/artmbs10.afm
+ texmf-dist/fonts/afm/public/armenian/artmi10.afm
+ texmf-dist/fonts/afm/public/armenian/artmr10.afm
+ texmf-dist/fonts/afm/public/armenian/artmsl10.afm
+ texmf-dist/fonts/map/dvips/armenian/arss.map
+ texmf-dist/fonts/map/dvips/armenian/artm.map
+ texmf-dist/fonts/source/public/armenian/arssb10.mf
+ texmf-dist/fonts/source/public/armenian/arssbs10.mf
+ texmf-dist/fonts/source/public/armenian/arssr10.mf
+ texmf-dist/fonts/source/public/armenian/arsssl10.mf
+ texmf-dist/fonts/source/public/armenian/artmb10.mf
+ texmf-dist/fonts/source/public/armenian/artmbi10.mf
+ texmf-dist/fonts/source/public/armenian/artmbs10.mf
+ texmf-dist/fonts/source/public/armenian/artmi10.mf
+ texmf-dist/fonts/source/public/armenian/artmr10.mf
+ texmf-dist/fonts/source/public/armenian/artmsl10.mf
+ texmf-dist/fonts/source/public/armenian/ps2mfbas.mf
+ texmf-dist/fonts/tfm/public/armenian/arssb10.tfm
+ texmf-dist/fonts/tfm/public/armenian/arssbs10.tfm
+ texmf-dist/fonts/tfm/public/armenian/arssr10.tfm
+ texmf-dist/fonts/tfm/public/armenian/arsssl10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmb10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmbi10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmbs10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmi10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmr10.tfm
+ texmf-dist/fonts/tfm/public/armenian/artmsl10.tfm
+ texmf-dist/fonts/type1/public/armenian/arssb10.pfb
+ texmf-dist/fonts/type1/public/armenian/arssb10.pfm
+ texmf-dist/fonts/type1/public/armenian/arssbs10.pfb
+ texmf-dist/fonts/type1/public/armenian/arssbs10.pfm
+ texmf-dist/fonts/type1/public/armenian/arssr10.pfb
+ texmf-dist/fonts/type1/public/armenian/arssr10.pfm
+ texmf-dist/fonts/type1/public/armenian/arsssl10.pfb
+ texmf-dist/fonts/type1/public/armenian/arsssl10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmb10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmb10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmbi10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmbi10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmbs10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmbs10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmi10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmi10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmr10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmr10.pfm
+ texmf-dist/fonts/type1/public/armenian/artmsl10.pfb
+ texmf-dist/fonts/type1/public/armenian/artmsl10.pfm
+ texmf-dist/tex/latex/armenian/armscii8.def
+ texmf-dist/tex/latex/armenian/armtex.sty
+ texmf-dist/tex/latex/armenian/ot6cmr.fd
+ texmf-dist/tex/latex/armenian/ot6cmss.fd
+ texmf-dist/tex/latex/armenian/ot6enc.def
+ texmf-dist/tex/latex/armenian/ot6enc.dfu
+ texmf-dist/tex/plain/armenian/arm.tex
+ texmf-dist/tex/plain/armenian/armkb-a8.tex
+ texmf-dist/tex/plain/armenian/armkb-u8.tex
+catalogue-ctan /language/armenian/armtex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics armenian format font font-mf font-type1
+catalogue-version 3.0-beta3

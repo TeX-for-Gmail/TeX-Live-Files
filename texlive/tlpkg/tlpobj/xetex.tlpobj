@@ -1,0 +1,50 @@
+name xetex
+category TLCore
+revision 50602
+shortdesc An extended variant of TeX for use with Unicode sources
+longdesc XeTeX is a TeX typesetting engine using Unicode and supporting
+longdesc modern font technologies such as OpenType, TrueType or Apple
+longdesc Advanced Typography (AAT), including OpenType mathematics
+longdesc fonts. XeTeX supports many extensions that reflect its origins
+longdesc in linguistic research; it also supports micro-typography (as
+longdesc available in pdfTeX). XeTeX was developed by the SIL (the first
+longdesc version was specifically developed for those studying
+longdesc linguistics, and using Macintosh computers). XeTeX's immediate
+longdesc output is an extended variant of DVI format, which is
+longdesc ordinarily processed by a tightly bound processor (called
+longdesc xdvipdfmx), that produces PDF. XeTeX is released as part of TeX
+longdesc Live; documentation has arisen separately. Source code is
+longdesc available from ctan:/systems/texlive/Source/.
+depend xetexconfig
+depend latex
+depend dvipdfmx
+depend cm
+depend hyphen-base
+depend tex-ini-files
+depend unicode-data
+depend etex
+depend plain
+depend babel
+depend latex-fonts
+depend xetex.ARCH
+execute AddFormat name=xetex engine=xetex patterns=language.def   options="-etex xetex.ini"   fmttriggers=cm,hyphen-base,tex-ini-files,unicode-data,etex,plain
+execute AddFormat name=xelatex engine=xetex patterns=language.dat   options="-etex xelatex.ini"   fmttriggers=cm,hyphen-base,tex-ini-files,unicode-data,babel,latex,latex-fonts
+postaction script file=tlpkg/tlpostcode/xetex.pl
+containersize 6940
+containerchecksum 657b122433e14d4489a7344b1ce8079e4439d67abb5cad25c7241685b5ad01110f75dba60d18752624172cd05b7acbbb5ad0cf82b850ab4f39056963b8081780
+doccontainersize 616888
+doccontainerchecksum 37cc86382c4ac1443db72ffabd4a3440b0e14cfc50f5ab632976cfc4a6aa4c14bfbadccc07dd8062f226a08c58cc41437590e6ceb10b0d201d8b14a21fa9a510
+runfiles size=6
+ texmf-dist/fonts/misc/xetex/fontmapping/base/qx-unicode.map
+ texmf-dist/fonts/misc/xetex/fontmapping/base/qx-unicode.tec
+ texmf-dist/fonts/misc/xetex/fontmapping/base/tex-text.map
+ texmf-dist/fonts/misc/xetex/fontmapping/base/tex-text.tec
+ tlpkg/tlpostcode/xetex.pl
+catalogue-also luatex
+catalogue-contact-announce http://lists.tug.org/xetex-announce
+catalogue-contact-home http://tug.org/xetex
+catalogue-contact-repository https://tug.org/svn/texlive/trunk/Build/source/texk/web2c/xetexdir
+catalogue-contact-support http://lists.tug.org/xetex
+catalogue-date 2018-12-26 09:45:23 +0100
+catalogue-license other-free
+catalogue-topics engine

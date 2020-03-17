@@ -1,0 +1,21 @@
+name cnbwp
+category Package
+revision 32550
+shortdesc Typeset working papers of the Czech National Bank
+longdesc The package supports proper formatting of Working Papers of the
+longdesc Czech National Bank (WP CNB). The package was developed for CNB
+longdesc but it is also intended for authors from outside CNB.
+containersize 9924
+containerchecksum 31c83774160e64dadc95afebe830ea1aa7c929e48f611cf5c9742cb66e12a3dd459928c85ed1378460247241fd4f007145b002ae7aabb88e773779124510c86f
+doccontainersize 684304
+doccontainerchecksum d41f72a3c5482b1ec50f1bacbaf8bed5f926c5d522ab5e3574d71d68b2d7c63e20fa1df65962f94e53b70f75aa7dee5337d064c212990c0f3351c30b05b567ac
+runfiles size=15
+ texmf-dist/bibtex/bst/cnbwp/abbrvcnb.bst
+ texmf-dist/makeindex/cnbwp/cnbindex.ist
+ texmf-dist/tex/latex/cnbwp/cnbwp-manual.sty
+ texmf-dist/tex/latex/cnbwp/cnbwp.cls
+ texmf-dist/tex/latex/cnbwp/cnbwpsizes.clo
+catalogue-ctan /macros/latex/contrib/cnbwp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics misc-paper

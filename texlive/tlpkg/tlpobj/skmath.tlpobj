@@ -1,0 +1,19 @@
+name skmath
+category Package
+revision 49550
+shortdesc Extensions to the maths command repertoir
+longdesc The package provides a selection of new maths commands and
+longdesc improved re-definitions of existing commands.
+containersize 3572
+containerchecksum a8c015b5a7d2031bc98d65a5d7a52262546180aa39106bb9266206541812530f4bb8351f042836353c66436084d1619ff24be8c0646a5991afc5b0c70429563a
+doccontainersize 284048
+doccontainerchecksum 15b034f42b766af418b3278d4089e0c833f7d7027cf199118798216217ba811af49dbacdab735fd6aed7ff8d7115628f698ab4e23eb15ca625f6d92bdce0730e
+srccontainersize 8476
+srccontainerchecksum f57a6198337d1e85c85039cc1f0886adfee6022f3c16e1e91d2a537c18e9ddeac95079f683cb8a936ac1b2a758e227310eece2b30fe05451baab5a3b9ed1f816
+runfiles size=4
+ texmf-dist/tex/latex/skmath/skmath.sty
+catalogue-ctan /macros/latex/contrib/skmath
+catalogue-date 2018-12-29 23:02:23 +0100
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.5

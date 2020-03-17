@@ -1,0 +1,21 @@
+name keyreader
+category Package
+revision 28195
+shortdesc A robust interface to xkeyval
+longdesc The package provides a robust interface to controlling keys in
+longdesc xkeyval, removing some of that package's restrictions. The
+longdesc package also addresses some of the issues now covered by the
+longdesc author's ltxkeys package, which was assumed to be a replacement
+longdesc for keyreader. Since keyreader has remained a favourite with
+longdesc users, it has been reinstated.
+containersize 9192
+containerchecksum d1786b07a3dc87f94248043f0bd941dcd8dccce29132e67118d3fedc0fe207a2df846d850851217fa87ed2219915719e70fa73ec284ed420072654c578ee0b3c
+doccontainersize 233148
+doccontainerchecksum 05c45cb13bd2612dd5b048f296437b605117c71a52cef2a1b90ad58b693a31d05da9491464ea9b208dd7eed3f3cfc96e9b5a00f5a77e5d492208fe1e924dde4c
+runfiles size=10
+ texmf-dist/tex/latex/keyreader/keyreader.sty
+catalogue-ctan /macros/latex/contrib/keyreader
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics keyval
+catalogue-version 0.5b

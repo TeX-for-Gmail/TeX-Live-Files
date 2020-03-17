@@ -1,0 +1,24 @@
+name environ
+category Package
+revision 33821
+shortdesc A new interface for environments in LaTeX
+longdesc The package provides the \collect@body command (as in amsmath),
+longdesc as well as a \long version \Collect@Body, for collecting the
+longdesc body text of an environment. These commands are used to define
+longdesc a new author interface to creating new environments. For
+longdesc example: \NewEnviron{test} wraps the entire environment body in
+longdesc square brackets, doing the right thing in ignoring leading and
+longdesc trailing spaces.
+containersize 1896
+containerchecksum 4e5bb20e2a69875006e8d9ebc3a8744dcfff3240cc28ea44f7acfa3775914dc9ee108a89368b6a510eb0a7aed19d2d13b001f0270ef9ad011b881c3cbc6aab9f
+doccontainersize 156300
+doccontainerchecksum 443362ac9bd70d88bfa92c26e66871ebfc9ec1bdc226ec49b8a41c7bb76f3afa8a424d7ae2e16a7d06f77f4da4208c10f8dad014d918ed7ed239d645781b8815
+srccontainersize 6416
+srccontainerchecksum 5f539dfec035e337aa659aa29815b9293e714efe27d55286a96afc1d52082577eb42bcf02cf19388a2ec92bc880bccc73935a7f5a55ad7f6ed5bfb2862476aaf
+runfiles size=2
+ texmf-dist/tex/latex/environ/environ.sty
+catalogue-ctan /macros/latex/contrib/environ
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 0.3

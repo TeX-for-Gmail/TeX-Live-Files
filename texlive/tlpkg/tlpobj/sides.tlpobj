@@ -1,0 +1,19 @@
+name sides
+category Package
+revision 15878
+shortdesc A LaTeX class for typesetting stage plays
+longdesc This is a LaTeX class for typesetting stage plays, based on the
+longdesc plari class written by Antti-Juhani Kaijanaho in 1998. It has
+longdesc been updated and several formatting changes have been made to
+longdesc it--most noticibly there are no longer orphans.
+containersize 3100
+containerchecksum 739e26e0c0b77d75e91f2a3a18996aa55ee1163a2bee6d489db4ba3b0864b51572c55ec53441946f16cb87694425d09e613abd2223fba2941fea4be137341b10
+doccontainersize 46528
+doccontainerchecksum 653a8472a278bb1d33d9f86559398b62e32b521c6ce8dd977dbbc4f44183e37b95378ea4b29356948735c42925f9ed25153cc6a9009341ff01d80befe2bcddb3
+runfiles size=2
+ texmf-dist/tex/latex/sides/sides.cls
+catalogue-also dramatist
+catalogue-ctan /macros/latex/contrib/sides
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics drama-script

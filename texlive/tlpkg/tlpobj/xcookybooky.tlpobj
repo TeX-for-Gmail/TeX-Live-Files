@@ -1,0 +1,27 @@
+name xcookybooky
+category Package
+revision 36435
+shortdesc Typeset (potentially long) recipes
+longdesc The package enables the user to typeset recipes, which could be
+longdesc greater than one page. Above the recipe text two (optional)
+longdesc pictures can be displayed. Other features are recipe name,
+longdesc energy content, portions, preparation and baking time, baking
+longdesc temperatures, recipe source and of course preparation steps and
+longdesc required ingredients. At the bottom you may insert an optional
+longdesc hint. The package depends on the Emerald fonts.
+containersize 6352
+containerchecksum 3f74d540c4da5ab4f6f1b6c78f3a35172fb4f2d94b7c720fe3fd1d31e1c53db6659371da6d48adf755675af831d252178b96ba57a1f0c0319459f4a564897b49
+doccontainersize 863388
+doccontainerchecksum 29d1620c7ea3d13e4fdf97454bf824fab8de6acd96661554a1f37717e4fa0dcf6df20cec580b6b25101b75d2d22080962713d05347eba4974c5cbdbca6129ec6
+srccontainersize 14844
+srccontainerchecksum 0a0d8eb171bc551831f65511f74b9db402587b6bdb47dfcd3d9e31403eaf530e954c5ce0510f9fa4e850b3036bc6807339aefca9567b9fff7152c72c8332d640
+runfiles size=8
+ texmf-dist/tex/latex/xcookybooky/xcookybooky.cfg
+ texmf-dist/tex/latex/xcookybooky/xcookybooky.sty
+catalogue-also cookybooky
+catalogue-contact-repository http://svenharder.github.io/xcookybooky/
+catalogue-ctan /macros/latex/contrib/xcookybooky
+catalogue-date 2018-04-05 06:13:24 +0200
+catalogue-license lppl1.3
+catalogue-topics cooking
+catalogue-version 1.5

@@ -1,0 +1,35 @@
+name footmisx
+category Package
+revision 42621
+shortdesc A range of footnote options
+longdesc This a fork of footmisc package allowing to use hyperref. Here
+longdesc is a copy of the description of package footmisc: A collection
+longdesc of ways to change the typesetting of footnotes. The package
+longdesc provides means of changing the layout of the footnotes
+longdesc themselves (including setting them in 'paragraphs' -- the para
+longdesc option), a way to number footnotes per page (the perpage
+longdesc option), to make footnotes disappear in a 'moving' argument
+longdesc (stable option) and to deal with multiple references to
+longdesc footnotes from the same place (multiple option). The package
+longdesc also has a range of techniques for labelling footnotes with
+longdesc symbols rather than numbers. Some of the functions of the
+longdesc package are overlap with the functionality of other packages.
+longdesc The para option is also provided by the manyfoot and bigfoot
+longdesc packages, though those are both also portmanteau packages.
+longdesc (Don't be seduced by fnpara, whose implementation is improved
+longdesc by the present package.) The perpage option is also offered by
+longdesc footnpag and by the rather more general-purpose perpage
+containersize 6048
+containerchecksum 591f181c8103ebd7a86440b27992df9eaea91d5998caa0f52dbfa48b7afc4791ef8c1f5a95d85b7cafd56113726beb74268b7498ec489d7b3142dcdf7f07adba
+doccontainersize 396
+doccontainerchecksum 8c36c6eb169a804769ece280c2210949db96bbe57d6dacc1a0952fc1338d619334d3d8b46cbaa3dcac09e05a0c015f37146d8bed315238b5e918c373b2b42155
+srccontainersize 19832
+srccontainerchecksum 5b069985c3a55240d762ee67a1da66895c304b5ac82bc0ce80c9e5fe9e77906cc0810dcb11c39b3ab63ce39f5d52964b7fb3319d49c0b18c85bc1410bad84ae2
+runfiles size=7
+ texmf-dist/tex/latex/footmisx/footmisx.sty
+catalogue-also endnotes ftnright
+catalogue-ctan /macros/latex/contrib/footmisx
+catalogue-date 2016-12-06 05:11:09 +0100
+catalogue-license lppl1.3
+catalogue-topics footnote
+catalogue-version 20161201

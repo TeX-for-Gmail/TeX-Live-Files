@@ -1,0 +1,22 @@
+name tabstackengine
+category Package
+revision 46848
+shortdesc "Tabbing" front-end to stackengine
+longdesc The package provides a front end to the stackengine package, to
+longdesc allow tabbed stacking. In most cases, an existing stackengine
+longdesc command may be prepended with the word "tabbed", "align" or
+longdesc "tabular" to create a new tabbed version of a stacking macro.
+longdesc In addition, hooks in the package's parser that tabbed strings
+longdesc of data may be parsed, extracted, and reconstituted (not
+longdesc requiring use of any stacking constructions).
+containersize 5168
+containerchecksum 2f6245d65a7d711d598b894c8acfd8d2a032ae210eabfa219934e8fa086bbe3edef81e73092234e5528f9f62a6856546aaec7eafe5572eded155ca8fa5fc3999
+doccontainersize 582016
+doccontainerchecksum 6ce0b2ec254e44bca6f6cb746d4e3762735e9bb85e561df7628d3a2e2e35ddaac1635c825f27900d06badeb310535e73c84495e24748c1181825fd61fb03105d
+runfiles size=6
+ texmf-dist/tex/latex/tabstackengine/tabstackengine.sty
+catalogue-ctan /macros/latex/contrib/tabstackengine
+catalogue-date 2018-03-05 20:20:38 +0100
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 2.10

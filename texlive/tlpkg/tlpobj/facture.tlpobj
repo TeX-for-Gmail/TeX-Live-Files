@@ -1,0 +1,24 @@
+name facture
+category Package
+revision 43865
+shortdesc Generate an invoice
+longdesc Une classe simple permettant de produire une facture, avec ou
+longdesc sans TVA, avec gestion d'une adresse differente pour la
+longdesc livraison et pour la facturation. A simple class that allows
+longdesc production of an invoice, with or without VAT; different
+longdesc addresses for delivery and for billing are permitted.
+containersize 3284
+containerchecksum 6657931eb2c0a134c53cd9271109552d4b8848247198fee9aa8d9010ff2faa4909416484dec8809d7ddc58b4202f9e2a97c5b97279e5432a1e928f91d7cde71a
+doccontainersize 156268
+doccontainerchecksum a96e30b15f1fa827fa4dafd3594e8b98ee8c17c23056926d82243955971225d5a4bdf41a1a2a5b19049619c2eabc1b8529db70adce17bc126c0e1e3be7ecb2df
+srccontainersize 7356
+srccontainerchecksum 2612d792d95e3e22727e3e7ac4c4932e1f25c3788ebf6b4eb1be76727c52694a65c378f13ce917f9cec3975468f79f7a6d62adf4f125c57e6b644076d22e7bce
+runfiles size=3
+ texmf-dist/tex/xelatex/facture/facture.cls
+catalogue-also invoice factura
+catalogue-contact-repository https://github.com/maieul/facture
+catalogue-ctan /macros/xetex/latex/facture
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license cc-by-sa-2
+catalogue-topics invoice class xetex
+catalogue-version 1.2.2

@@ -1,0 +1,30 @@
+name zebra-goodies
+category Package
+revision 46004
+shortdesc A collection of handy macros for paper writing
+longdesc This package offers a collection of macros to help in the
+longdesc process of writing a paper. You may add comments, todo notes,
+longdesc etc. during revision, in a colourful way. The package also
+longdesc summarizes the inserted notes at the end of the document. There
+longdesc are some predefined note commands as well as a way of defining
+longdesc new ones to suit the user's needs. You may safely remove this
+longdesc package once the paper is finished. This package depends on the
+longdesc following other LaTeX packages: kvoptions, manfnt, marginnote,
+longdesc tikzpagenodes, xcolor, and, optionally, microtype. Note:
+longdesc "zebra" is the name of the package author's lab.
+containersize 2360
+containerchecksum fa8ded449653eb43baf1a8b27acce710ed64dedd574d1de8eace201dd6555948ce794543d9b21cef8ff2bc4fe788cfe826dbaf31a1c2ecef84dd949c14dbab93
+doccontainersize 1004
+doccontainerchecksum bf4441df24408617b926a7d7e618190aa82c1a8d33d42b989a8b53d1c69fff3fbbb3db9638fa9eb03df6b3f4cfad1c839a27c21307c809b0322846d44ba74006
+runfiles size=1
+ texmf-dist/tex/latex/zebra-goodies/zebra-goodies.sty
+catalogue-contact-bugs https://github.com/xueruini/zebra-goodies/issues
+catalogue-contact-development https://github.com/xueruini
+catalogue-contact-home https://github.com/xueruini/zebra-goodies
+catalogue-contact-repository https://github.com/xueruini/zebra-goodies
+catalogue-contact-support https://github.com/xueruini/zebra-goodies/issues
+catalogue-ctan /macros/latex/contrib/zebra-goodies
+catalogue-date 2017-12-06 09:55:03 +0100
+catalogue-license lppl1.3c
+catalogue-topics notes editorial marginal
+catalogue-version 0.3.0

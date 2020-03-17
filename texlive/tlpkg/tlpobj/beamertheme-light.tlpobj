@@ -1,0 +1,18 @@
+name beamertheme-light
+category Package
+revision 49867
+shortdesc A minimal beamer style
+longdesc The LaTeX package beamertheme-light provides an aesthetic and
+longdesc minimal beamer style by redefining colors and fonts.
+containersize 1868
+containerchecksum 5cc15c3ee0222678c1c97b31805421caac8b20fca03b1d748fd2a71756d5d764b8fbfb32ab70937e890f7755966b520362db98a9ae65be3f83509cfa287d600a
+doccontainersize 99012
+doccontainerchecksum e2d0cdb7fdabe582f2b6f1a656a5b9b61ee3680fd4944c06f108cf69eced96bed7b25e56563b1cb9879e8da42fdbbeaa41d769158c5e256bc70b5d695571a5af
+runfiles size=2
+ texmf-dist/tex/latex/beamertheme-light/beamertheme-light.sty
+catalogue-also beamertheme-focus
+catalogue-ctan /macros/latex/contrib/beamer-contrib/themes/beamertheme-light
+catalogue-date 2019-01-31 09:05:36 +0100
+catalogue-license gpl3
+catalogue-topics presentation
+catalogue-version 1.0

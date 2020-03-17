@@ -1,0 +1,48 @@
+name interfaces
+category Package
+revision 21474
+shortdesc Set parameters for other packages, conveniently
+longdesc The package provides a small number of convenient macros that
+longdesc access features in other frequently-used packages, or provide
+longdesc interfaces to other useful facilities such as the pdfTeX
+longdesc \pdfelapsedtime primitive. Most of these macros use pgfkeys to
+longdesc provide a key-value syntax. The package also uses the package
+longdesc scrlfile from the Koma-Script bundle (for controlled loading of
+longdesc other files) and etoolbox. The package is bundled with
+longdesc sub-packages containing actual interfaces: by default, the
+longdesc package loads all available sub-packages, but techniques are
+longdesc provided for the user to select no more than the interfaces
+longdesc needed for a job.
+containersize 27932
+containerchecksum 3c726602547ae05d0ca055d92b98a3cd5fce9709329fe9e769e5bb02c401a28b9b4cee53e5b1ee21dbb6c1c4223cf7a098aea227d615a45ced885c7c4ccab93e
+doccontainersize 740556
+doccontainerchecksum a9b44711b1f38c48886f7b4a49b3a58ec5514995c9bed9a067d41cbf35dcc0093fcade7ef28693970f1f017924dc2f6f79d8c89a1efc847f7a8c264cb8f98ea9
+srccontainersize 67108
+srccontainerchecksum a93e77e7d12c91515e2d67f926ff6bfb76a278eae5880c60d2575580517d31f82d45656061f2999d5c4e73279a09dc5c5437351f10419b6ea92424d555e7e3a7
+runfiles size=60
+ texmf-dist/tex/latex/interfaces/interfaces-LaTeX.sty
+ texmf-dist/tex/latex/interfaces/interfaces-appendix.sty
+ texmf-dist/tex/latex/interfaces/interfaces-base.sty
+ texmf-dist/tex/latex/interfaces/interfaces-bookmark.sty
+ texmf-dist/tex/latex/interfaces/interfaces-embedfile.sty
+ texmf-dist/tex/latex/interfaces/interfaces-enumitem.sty
+ texmf-dist/tex/latex/interfaces/interfaces-environ.sty
+ texmf-dist/tex/latex/interfaces/interfaces-etoolbox.sty
+ texmf-dist/tex/latex/interfaces/interfaces-fancyhdr.sty
+ texmf-dist/tex/latex/interfaces/interfaces-hypbmsec.sty
+ texmf-dist/tex/latex/interfaces/interfaces-hyperref.sty
+ texmf-dist/tex/latex/interfaces/interfaces-makecell.sty
+ texmf-dist/tex/latex/interfaces/interfaces-marks.sty
+ texmf-dist/tex/latex/interfaces/interfaces-pgfkeys.sty
+ texmf-dist/tex/latex/interfaces/interfaces-scrlfile.sty
+ texmf-dist/tex/latex/interfaces/interfaces-tikz.sty
+ texmf-dist/tex/latex/interfaces/interfaces-titlesec.sty
+ texmf-dist/tex/latex/interfaces/interfaces-tocloft.sty
+ texmf-dist/tex/latex/interfaces/interfaces-truncate.sty
+ texmf-dist/tex/latex/interfaces/interfaces-umrand.sty
+ texmf-dist/tex/latex/interfaces/interfaces.sty
+catalogue-ctan /macros/latex/contrib/interfaces
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics package-supp
+catalogue-version 3.1

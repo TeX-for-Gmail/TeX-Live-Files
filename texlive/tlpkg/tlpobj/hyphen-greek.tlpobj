@@ -1,0 +1,37 @@
+name hyphen-greek
+category TLCore
+revision 50792
+catalogue elhyphen
+shortdesc Modern Greek hyphenation patterns.
+longdesc Hyphenation patterns for Modern Greek in monotonic and
+longdesc polytonic spelling in LGR and UTF-8 encodings.  Patterns in
+longdesc UTF-8 use two code positions for each of the vowels with acute
+longdesc accent (a.k.a tonos, oxia), e.g., U+03AC, U+1F71 for alpha.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=monogreek 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-el-monoton.tex 	file_patterns=hyph-el-monoton.pat.txt 	file_exceptions=
+execute AddHyphen 	name=greek synonyms=polygreek 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-el-polyton.tex 	file_patterns=hyph-el-polyton.pat.txt 	file_exceptions=
+containersize 13936
+containerchecksum 11f05a9fff489d7d7fe5c48530c7808067c0e9581b2c39e5b8f93c10b6f3b0fd93be2fa9fb316059e7fbbd44f56c339d8398cad9054e573240d50dd926597cca
+doccontainersize 727508
+doccontainerchecksum 8294841da3ea59c01850cfad6ac93e214c14686f190d033edf6a3a1b4ddb86a1fe6126c45647ba7511462989fed56e9dc32f70d743c7899ecf70fc0721327546
+runfiles size=24
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-el-monoton.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-el-polyton.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-el-monoton.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-el-polyton.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-monoton.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-monoton.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-monoton.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-monoton.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-polyton.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-polyton.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-polyton.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-el-polyton.pat.txt
+ texmf-dist/tex/generic/hyphen/grmhyph5.tex
+ texmf-dist/tex/generic/hyphen/grphyph5.tex
+catalogue-ctan /language/hyphenation/elhyphen
+catalogue-date 2016-07-20 08:10:44 +0200
+catalogue-license other-free
+catalogue-topics greek hyphenation
+catalogue-version 5

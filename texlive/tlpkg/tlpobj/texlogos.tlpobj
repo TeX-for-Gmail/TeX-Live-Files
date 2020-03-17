@@ -1,0 +1,22 @@
+name texlogos
+category Package
+revision 19083
+shortdesc Ready-to-use LaTeX logos
+longdesc TeXlogos defines an assortment of frequently used logos not
+longdesc contained in base LaTeX itself. The Metafont, MetapostAMS,
+longdesc BibTeX and SliTeX logos are defined, as long as you have the
+longdesc appropriate CM/Logo/AMS fonts. Currency symbols Euro, Cent,
+longdesc Yen, Won and Naira are defined so as not to need TS1-encoded
+longdesc fonts. Also defined are the C++ logo, with the '+' signs
+longdesc properly positioned, and the logo of the Vienna University
+longdesc Business Administration Center (BWZ).
+containersize 1960
+containerchecksum d3b5f5ea0dd90e925bffc1ac0f790848d1c2abe50003e2591c8efb219b4a205d48e4420d2000b3de15b1ff9d4d0bd9e083ba1694d4ee34febd68f8db0df16ea2
+runfiles size=2
+ texmf-dist/tex/latex/texlogos/texlogos.sty
+catalogue-also hologo
+catalogue-ctan /macros/latex/contrib/texlogos/texlogos.sty
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics logo
+catalogue-version 1.3.1

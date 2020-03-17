@@ -1,0 +1,23 @@
+name logicproof
+category Package
+revision 33254
+shortdesc Box proofs for propositional and predicate logic
+longdesc A common style of proof used in propositional and predicate
+longdesc logic is Fitch proofs, in which each line of the proof has a
+longdesc statement and a justification, and subproofs within a larger
+longdesc proof have boxes around them. The package provides environments
+longdesc for typesetting such proofs and boxes. It creates proofs in a
+longdesc style similar to that used in "Logic in Computer Science" by
+longdesc Huth and Ryan.
+containersize 2016
+containerchecksum d5b15ee5f35a9ef94618f8b092e97ccc4f1959a617c2e604b99ba56eef14c4a1a078d66f2c77d02239289e30878293ea6c9ff4134bd003331fc41fd3db19cec5
+doccontainersize 54576
+doccontainerchecksum bf8a33c5db05a30cb4f520fa2f73f572a90c3803c4b6dc1709f9e2c80f67e32e7665ce898852dedcd3daa8974bf909034d06f805ce473318f0f512645ceaf9da
+srccontainersize 7728
+srccontainerchecksum 4cde464059a65161c6ab069ef0c8905e4e6cefb7ebfd8c7c3b2af909209af4a911dd1bb0daee5b27868305660601187fe7a105660b395de98ae3d30864f012ea
+runfiles size=2
+ texmf-dist/tex/latex/logicproof/logicproof.sty
+catalogue-ctan /macros/latex/contrib/logicproof
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics logic

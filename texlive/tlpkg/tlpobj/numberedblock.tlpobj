@@ -1,0 +1,19 @@
+name numberedblock
+category Package
+revision 33109
+shortdesc Print a block of code, with unique index number
+longdesc The package has been created for the convenience of the report
+longdesc writer; it provides the means to number, and label, code-block
+longdesc snippets in your document. In this way, you can (unambiguously)
+longdesc refer to each snippet elsewhere in your document.
+containersize 2516
+containerchecksum d45a69881dee3aa3b6de69587b8c59d889fcae528c3c66f10cc14d653dbf7281e9ef4045dd2595d1a5c7305686bb0d12696bc00b672c5907dc58481a4e00d70e
+doccontainersize 73436
+doccontainerchecksum 99443d809e77b32fafaf59b3faecbd121f038e3ce8e054304e8fdae6b145a0d19a67b5e7d003db72f06528d975c3e543a2fb9bbfbae9f48be460b1a344a0d2c8
+runfiles size=2
+ texmf-dist/tex/latex/numberedblock/numberedblock.sty
+catalogue-ctan /macros/latex/contrib/numberedblock
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics listing label-ref
+catalogue-version 1.10

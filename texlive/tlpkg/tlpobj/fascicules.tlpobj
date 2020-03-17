@@ -1,0 +1,24 @@
+name fascicules
+category Package
+revision 49457
+shortdesc Create mathematical manuals for schools
+longdesc This package enables LaTeX users to create math books for
+longdesc middle and high schools. It provides commands to create the
+longdesc front page of the manual and the chapters. Each chapter can
+longdesc consist of three sections: the lesson, the exercises and the
+longdesc activities.
+containersize 5708
+containerchecksum 5ca661dea7cad6094d66d0a843cf5f19183154f81773db38f9a13795a5b9d8646e9f0b471bbd741e5f25cd424f199b3a18d1257a7e8d07e0d812a04ae202ca24
+doccontainersize 2042292
+doccontainerchecksum 02d72ccdec87334da2c10d5a57b004357e36c8fc1aad33783e44992019fe3dcc8b8d6442d63870b4806c3dd080c3518bf94ae110531ac65947584301a11b4b51
+srccontainersize 9292
+srccontainerchecksum c129da364d22c605feba74d4e93d7eb48c8b5a3ef77c60d2f930fa2d3c8f757bbf3fd8a5aa8f3afc688057d80d86acb5b74d2d9b422d387bc075e7e7122150d8
+runfiles size=5
+ texmf-dist/tex/latex/fascicules/fascicules.sty
+catalogue-also schule
+catalogue-contact-home http://fascicules.serveblog.net/
+catalogue-ctan /macros/latex/contrib/fascicules
+catalogue-date 2018-12-21 06:32:50 +0100
+catalogue-license lppl
+catalogue-topics teaching
+catalogue-version 1

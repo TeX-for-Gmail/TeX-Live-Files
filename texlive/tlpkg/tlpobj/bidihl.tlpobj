@@ -1,0 +1,19 @@
+name bidihl
+category Package
+revision 37795
+shortdesc Experimental bidi-aware text highlighting
+longdesc Experimental bidi-aware text highlighting.
+containersize 2356
+containerchecksum fd82ad18b96cdd782fddab8739e09978d08fc37e8c65a177bde930671e102c9ffefe7465fc766860068188f6b9f8222119ac791f07223f79e9840f25659ea3ea
+doccontainersize 43416
+doccontainerchecksum c9d0503857f2cfa960e36872757afcab17b2631caa8a33112ff2361694939774052a5249db62d21831e19c17826f422853a78c5522094706bd4208d4c5223019
+runfiles size=2
+ texmf-dist/tex/xelatex/bidihl/bidihl.sty
+catalogue-also bidi
+catalogue-contact-bugs https://github.com/bidi-tex/bidihl/issues
+catalogue-contact-repository https://github.com/bidi-tex/bidihl
+catalogue-ctan /macros/xetex/latex/bidihl
+catalogue-date 2018-11-28 18:51:46 +0100
+catalogue-license lppl1.3
+catalogue-topics xetex bidi
+catalogue-version 0.1c

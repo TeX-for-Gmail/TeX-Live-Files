@@ -1,0 +1,23 @@
+name alg
+category Package
+revision 15878
+shortdesc LaTeX environments for typesetting algorithms
+longdesc Defines two environments for typesetting algorithms in LaTeX2e.
+longdesc The algtab environment is used to typeset an algorithm with
+longdesc automatically numbered lines. The algorithm environment can be
+longdesc used to encapsulate the algtab environment algorithm in a
+longdesc floating body together with a header, a caption, etc.
+longdesc \listofalgorithms is defined.
+containersize 2568
+containerchecksum 923f36ab03aa10cf3da008f4b3d7ba5919f3e4a512c82fd1c42386df22019ca70c4c1700b7596750a00ea7c50586bdb803db3fee22edfbc402ebb9e249668e99
+doccontainersize 1116
+doccontainerchecksum d94795e7513612f3eb102b85b9fdcc792b175411fd67edd6779037b1e0dc101378159f58c6c6feb82ca6b73ea2a6fd415a36e4a4ea67913a0d1110582a41e38d
+srccontainersize 5768
+srccontainerchecksum a8231edf9c10855b312bb00f2bf37b68ada65b876ab621f459b3ee12da5bc5b90080ab6eff5c3a48c0821753a02576aac0100b3a577cfb7c5dc2cd4b47c8a026
+runfiles size=2
+ texmf-dist/tex/latex/alg/alg.sty
+catalogue-also algorithms
+catalogue-ctan /macros/latex/contrib/alg
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics pseudocode

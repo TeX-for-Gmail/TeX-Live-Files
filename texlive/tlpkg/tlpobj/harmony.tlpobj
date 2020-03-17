@@ -1,0 +1,17 @@
+name harmony
+category Package
+revision 15878
+shortdesc Typeset harmony symbols, etc., for musicology
+longdesc The package harmony.sty uses the packages ifthen and amssymb
+longdesc from the amsfonts bundle, together with the LaTeX font
+longdesc lcirclew10 and the font musix13 from musixtex.
+containersize 2444
+containerchecksum 25e84addf5ac4c67985e1e433f795f377accfdd4dc56eae0ffb25ddffeb52e0a44278ce1a936406105ff5b7e9541452a103e0bb4ed91b8949facee75ca7c11ae
+doccontainersize 138760
+doccontainerchecksum 3226831df9702b669ba4c269549927563ae321e8e10e0e41c6bd1a8d6522dcdaa4ae6a25a907a84cc1dc324c516a53754c81a0e1296fd8e3afbbb29f0992ead9
+runfiles size=3
+ texmf-dist/tex/latex/harmony/harmony.sty
+catalogue-ctan /macros/latex/contrib/harmony
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics music

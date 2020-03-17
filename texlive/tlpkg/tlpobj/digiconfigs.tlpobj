@@ -1,0 +1,20 @@
+name digiconfigs
+category Package
+revision 15878
+shortdesc Writing "configurations"
+longdesc In Stochastic Geometry and Digital Image Analysis some problems
+longdesc can be solved in terms of so-called "configurations". A
+longdesc configuration is basically a square matrix of \circ and \bullet
+longdesc symbols. This package provides a convenient and compact
+longdesc mechanism for displaying these configurations.
+containersize 2096
+containerchecksum a1d5cf0e93aa2722087a491d49c87c1b6c1dc863a39807f28dca198d4c52d8add42706f992ee91b6a42fdbf379293a2aaf3a21199094526c545f41002e8992d3
+doccontainersize 120640
+doccontainerchecksum 95e948491a51321671b15aab55dddd7c6b8bad78bc67bcc25db0970dc478d1bba898fc2efe44537a18d46f3fcc73bd2af600c4a74af4982e8de8a5fc0345a134
+runfiles size=2
+ texmf-dist/tex/latex/digiconfigs/digiconfigs.sty
+catalogue-ctan /macros/latex/contrib/digiconfigs
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics diagram
+catalogue-version 0.5

@@ -1,0 +1,31 @@
+name udesoftec
+category Package
+revision 47164
+shortdesc Thesis class for the University of Duisburg-Essen
+longdesc The class is designed for typesetting theses in the Research
+longdesc Group for Business Informatics and Software Engineering. (The
+longdesc class may also serve as a template for such theses.) The class
+longdesc is designed for use with pdfLaTeX; input in UTF-8 encoding is
+longdesc assumed.
+containersize 108456
+containerchecksum 668c96da10c6fa73d9739e00e0144d20fcfe1677417f648c205fa0fd49eae7ce9d5460e30f2002c39791a41e7db19d8ac004b4bb0d4c44c230ae1ab1ba884719
+doccontainersize 480316
+doccontainerchecksum fe902d88de4e7e98a5416bfcd67529d860ee85733ad9f76e8ad2112fb2ec071c2fb26d786e88abf8fe8c8f7d7e199a4f0c15f728aa1c117bfff7e32941e677d7
+srccontainersize 45440
+srccontainerchecksum a964bb8d9dc2e10155b73121c062cb101108c94def892aeacf166bd739c64cebbf5132e2b94c5cb8f4e377b94005fb8f90b5a2a4bae4f9c5dee5a6551e821f9d
+runfiles size=74
+ texmf-dist/bibtex/bst/udesoftec/udesoftec.bst
+ texmf-dist/tex/latex/udesoftec/udesoftec-bibcommon.sty
+ texmf-dist/tex/latex/udesoftec/udesoftec-biblatex.sty
+ texmf-dist/tex/latex/udesoftec/udesoftec-bst.sty
+ texmf-dist/tex/latex/udesoftec/udesoftec-cover-uba.pdf
+ texmf-dist/tex/latex/udesoftec/udesoftec-cover-ude-de.pdf
+ texmf-dist/tex/latex/udesoftec/udesoftec-cover-ude-en.pdf
+ texmf-dist/tex/latex/udesoftec/udesoftec-extra.sty
+ texmf-dist/tex/latex/udesoftec/udesoftec.cls
+catalogue-contact-bugs https://github.com/jpmschuler/SOFTEC-Templates/issues
+catalogue-ctan /macros/latex/contrib/udesoftec
+catalogue-date 2018-03-28 12:21:25 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation bus-study class
+catalogue-version 1.6.2

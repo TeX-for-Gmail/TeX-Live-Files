@@ -1,0 +1,29 @@
+name brushscr
+category Package
+revision 28363
+shortdesc A handwriting script font
+longdesc The BrushScript font simulates hand-written characters; it is
+longdesc distributed in Adobe Type 1 format (but is available in italic
+longdesc shape only). The package includes the files needed by LaTeX in
+longdesc order to use that font. The file AAA_readme.tex fully describes
+longdesc the package and sample.tex illustrates its use.
+execute addMap pbsi.map
+containersize 48600
+containerchecksum f8c7107b0e98cc6e402ec8ee6f5e6f9a1b8e0d046dddae9486e4ca68327f370a75a0f90000939828605334b3ad3c5caaf5e541c7933c5545fe3e531066fa650f
+doccontainersize 5120
+doccontainerchecksum 41ad7b1afc7cb0f4bfdf0bcff4c1d85f3d9603c3d48ccb62f94a6fa2258cf3f60f03ee1b4b5756d85a77ba4ff9afddbccaba1c4bd5b69d85ce4fed206aa16b1c
+runfiles size=31
+ texmf-dist/dvips/brushscr/config.pbsi
+ texmf-dist/fonts/afm/public/brushscr/BrushScriptX-Italic.afm
+ texmf-dist/fonts/map/dvips/brushscr/pbsi.map
+ texmf-dist/fonts/tfm/public/brushscr/pbsi.tfm
+ texmf-dist/fonts/tfm/public/brushscr/pbsi8r.tfm
+ texmf-dist/fonts/tfm/public/brushscr/pbsi8t.tfm
+ texmf-dist/fonts/type1/public/brushscr/BrushScriptX-Italic.pfa
+ texmf-dist/fonts/vf/public/brushscr/pbsi8t.vf
+ texmf-dist/tex/latex/brushscr/pbsi.sty
+ texmf-dist/tex/latex/brushscr/t1pbsi.fd
+catalogue-ctan /fonts/brushscr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-calligraphic font-type1

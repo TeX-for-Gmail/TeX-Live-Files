@@ -1,0 +1,23 @@
+name datetime2-estonian
+category Package
+revision 47565
+shortdesc Estonian language module for the datetime2 package
+longdesc This module provides the "estonian" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2492
+containerchecksum 93e8ebc62b48da8f5c159822f53c35aaa2cbd2fb6bc701108cf6452db7eca3df39de3c1ba9b84136683d22d65a975dc138aace0a81960d1c9382309a4cee5f3f
+doccontainersize 81032
+doccontainerchecksum 268b873d870ff19a3151d4244b0329994e559ab61198ab3d76d830b1bdd6a05e8b5a7a7df2fd6eec8d57b9e28626f80af755b1866f4ee90eb0c7e94b85f3c087
+srccontainersize 4740
+srccontainerchecksum 2cccbea84fc47da4668a06154b97116b39e1aa51e31196c7c9a41d517aa5f24924c86474fa8f7f1252e356a85392977553b6a28ad154d246bd5192a7e7f07b4d
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-estonian/datetime2-estonian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-estonian/datetime2-estonian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-estonian/datetime2-estonian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-estonian
+catalogue-date 2018-04-13 13:59:22 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

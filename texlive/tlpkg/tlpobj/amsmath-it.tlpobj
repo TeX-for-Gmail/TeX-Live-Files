@@ -1,0 +1,14 @@
+name amsmath-it
+category Package
+revision 22930
+shortdesc Italian translations of some old amsmath documents
+longdesc The documents are: diffs-m.txt of December 1999, and
+longdesc amsmath.faq of March 2000.
+containersize 428
+containerchecksum 6bc869e3cf11a9521ff883e9b8cd227a267d28291124c0f268556ea576bc0af8ea4eaa145e45d1de84709df08182fc83946d80fd0f116a8656a35d75ca83eef5
+doccontainersize 13716
+doccontainerchecksum 814539a2a82601c930097113a9baca5166fcf68d1b0c4dcf25d8afa8991e667619517879bc415ff114b9e86664b9ff5e25a7bcf1bb04160b9297cbfabb4a639d
+catalogue-ctan /info/translations/amsmath/it
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics docu-pkg italian-doc translation

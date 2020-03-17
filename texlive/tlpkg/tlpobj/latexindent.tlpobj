@@ -1,0 +1,58 @@
+name latexindent
+category Package
+revision 48905
+shortdesc Indent a LaTeX document, highlighting the programming structure
+longdesc The Perl script (also available as a windows executable)
+longdesc processes a LaTeX file, indenting parts so as to highlight the
+longdesc structure for the reader.
+depend latexindent.ARCH
+containersize 52496
+containerchecksum 59a147fb51f268bfcca015a5f745a811240f1e105981644a9859a96a2944bfb0521a628d6e079378479565acedcbf3b6db50be9863eb0d3f62a00e68a6c9a76b
+doccontainersize 766992
+doccontainerchecksum c3e0047fbb8c6e35ba79c484c490e0aa9c552586dd0694c7444c424d23ccfca755bd9ca47dd292145e6a7bb58c2cc181ba93885ba435aa7e361a723dc31a15c9
+runfiles size=111
+ texmf-dist/scripts/latexindent/LatexIndent/AlignmentAtAmpersand.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Arguments.pm
+ texmf-dist/scripts/latexindent/LatexIndent/BackUpFileProcedure.pm
+ texmf-dist/scripts/latexindent/LatexIndent/BlankLines.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Braces.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Command.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Document.pm
+ texmf-dist/scripts/latexindent/LatexIndent/DoubleBackSlash.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Else.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Environment.pm
+ texmf-dist/scripts/latexindent/LatexIndent/FileContents.pm
+ texmf-dist/scripts/latexindent/LatexIndent/FileExtension.pm
+ texmf-dist/scripts/latexindent/LatexIndent/GetYamlSettings.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Heading.pm
+ texmf-dist/scripts/latexindent/LatexIndent/HiddenChildren.pm
+ texmf-dist/scripts/latexindent/LatexIndent/HorizontalWhiteSpace.pm
+ texmf-dist/scripts/latexindent/LatexIndent/IfElseFi.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Indent.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Item.pm
+ texmf-dist/scripts/latexindent/LatexIndent/KeyEqualsValuesBraces.pm
+ texmf-dist/scripts/latexindent/LatexIndent/LogFile.pm
+ texmf-dist/scripts/latexindent/LatexIndent/MandatoryArgument.pm
+ texmf-dist/scripts/latexindent/LatexIndent/ModifyLineBreaks.pm
+ texmf-dist/scripts/latexindent/LatexIndent/NamedGroupingBracesBrackets.pm
+ texmf-dist/scripts/latexindent/LatexIndent/OptionalArgument.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Preamble.pm
+ texmf-dist/scripts/latexindent/LatexIndent/RoundBrackets.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Sentence.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Special.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Switches.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Tokens.pm
+ texmf-dist/scripts/latexindent/LatexIndent/TrailingComments.pm
+ texmf-dist/scripts/latexindent/LatexIndent/UnNamedGroupingBracesBrackets.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Verbatim.pm
+ texmf-dist/scripts/latexindent/LatexIndent/Version.pm
+ texmf-dist/scripts/latexindent/defaultSettings.yaml
+ texmf-dist/scripts/latexindent/latexindent.pl
+catalogue-contact-bugs https://github.com/cmhughes/latexindent.pl/issues
+catalogue-contact-development https://github.com/cmhughes/latexindent.pl/tree/develop
+catalogue-contact-repository https://github.com/cmhughes/latexindent.pl
+catalogue-ctan /support/latexindent
+catalogue-date 2018-10-13 12:21:07 +0200
+catalogue-license gpl3
+catalogue-topics code-layout
+catalogue-version 3.5.3

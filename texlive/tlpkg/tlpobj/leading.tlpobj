@@ -1,0 +1,22 @@
+name leading
+category Package
+revision 15878
+shortdesc Define leading with a length
+longdesc The package defines a command \leading, whose argument is a
+longdesc <length> that specifies the nominal distance between
+longdesc consecutive baselines of typeset text. The command replaces the
+longdesc rather more difficult LaTeX command \linespread{<ratio>}, where
+longdesc the leading is specified by reference to the font size.
+containersize 1140
+containerchecksum c326950e6c4b07782148ee4c9ac5b22f7e42512e0bc6e5e1f75be6ed757ca90ebf2bb6b30b91ceaac32c761d595ba5799f0f40ca15954f150d481ea366f1c72d
+doccontainersize 84128
+doccontainerchecksum 3ede6910ccb0a30c3ae9c78b86cf00cd7e2c5d8905b648861d2113d0af6225b2ffdc30509a72a5f69dd9e1164525c3225cd4ecaa04471ddf5c346a862fe097e4
+srccontainersize 3576
+srccontainerchecksum b42b230efc2508f4b3901de791424251c6e0ff003bb342fa11ea282f46b2dfd5c68a63c95fbb9aee146839944586218a3cec0ef182575a9760d3ed3f5924d78f
+runfiles size=1
+ texmf-dist/tex/latex/leading/leading.sty
+catalogue-ctan /macros/latex/contrib/leading
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics typesetting layout
+catalogue-version 0.3

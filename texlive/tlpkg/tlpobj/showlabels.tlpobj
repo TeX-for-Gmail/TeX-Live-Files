@@ -1,0 +1,23 @@
+name showlabels
+category Package
+revision 41322
+shortdesc Show label commands in the margin
+longdesc This package helps you keep track of all the labels you define,
+longdesc by putting the name of new labels into the margin whenever the
+longdesc \label command is used. The package allows you to do the same
+longdesc thing for other commands. The only one for which this is
+longdesc obviously useful is the \cite command, but it's easy to do it
+longdesc for others, such as the \ref or \begin commands.
+containersize 3180
+containerchecksum 4d805bcd319df51219c956fce18fffe3b91aad3f468f54f5b6fd9ca15f8c24df10e1092252ba6870fd406c024deb054c60d7f64dfef7194c45b92a8a78a9da1d
+doccontainersize 169108
+doccontainerchecksum 0a8cf29e85526e92df738364607e31927223458a969c117d40a0e9cf3470e5c4050107b9fe915ad2a23720a2dd4f5faa1d43d9737b9b7a6f6105de3a36e9888b
+srccontainersize 12656
+srccontainerchecksum eb0dd894327bd6f4591a3a57c52af10e73ae07f7d933ff3310012d46b09d1572adac0eb6a8a22ff03ced5f7832a017b58ef809d5fd914103fb569b42cfb2abfa
+runfiles size=3
+ texmf-dist/tex/latex/showlabels/showlabels.sty
+catalogue-ctan /macros/latex/contrib/showlabels
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics label-ref bibtex-supp macro-supp
+catalogue-version 1.8

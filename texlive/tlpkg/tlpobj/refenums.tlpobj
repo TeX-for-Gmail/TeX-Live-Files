@@ -1,0 +1,23 @@
+name refenums
+category Package
+revision 44131
+shortdesc Define named items and provide back-references with that name
+longdesc The package provides commands to define enumerable items with a
+longdesc number and a long name, which can be referenced later with the
+longdesc name or just the short form. For instance, "Milestone M1:
+longdesc Specification created" can be defined and later on be
+longdesc referenced with 'M1' or 'M1 ("Specification created")'. The
+longdesc text in the references is derived from the definition and also
+longdesc rendered as hyperlink to the definition.
+containersize 2180
+containerchecksum 7113ba67dcaf3ca2a070e42b4fa9660889bdf7803401cc0f8c3f9f62c59e467d9f637c526712bf9aa9fc7ac3df3c550a41f419de9cff375e24e68d102207e8af
+doccontainersize 188004
+doccontainerchecksum 3511419e6507d2c5a7b48679e9220e63643b38f803e8a5d7046a55ea6b6f4827fdfabb74336fe61ba35628868a7f042ad472567e73351d13ab9568c508468a97
+runfiles size=2
+ texmf-dist/tex/latex/refenums/refenums.sty
+catalogue-contact-repository https://github.com/koppor/refenums
+catalogue-ctan /macros/latex/contrib/refenums
+catalogue-date 2018-03-10 14:13:43 +0100
+catalogue-license lppl1.3
+catalogue-topics label-ref
+catalogue-version 1.1.2

@@ -1,0 +1,19 @@
+name ecltree
+category Package
+revision 15878
+shortdesc Trees using epic and eepic macros
+longdesc The package recursively draws trees: each subtree is defined in
+longdesc a 'bundle' environment, with a set of leaves described by
+longdesc \chunk macros. A chunk may have a bundle environment inside it.
+containersize 2136
+containerchecksum 7461fe472dbd2ecb4e692cdbd58d5b801960d160bd7e18fa7d5ebe3e42defd11faba318d5d9134fd17275a4271f4c7761fa2d65fc1f202b4eb7b0fe3968a9fbc
+doccontainersize 32504
+doccontainerchecksum 3dc607ff60f9e738476b1f5c801801e3dc10713d7f5dc4b790b92f454fec1e68e9abe8efa7e4b0464ed6ad854d7971e241987fd63d406ba9deec9c99f8bf229a
+runfiles size=2
+ texmf-dist/tex/latex/ecltree/ecltree.sty
+catalogue-also epic eepic
+catalogue-ctan /macros/latex/contrib/eclbip
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree linguistic
+catalogue-version 1.1a

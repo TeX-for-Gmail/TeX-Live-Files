@@ -1,0 +1,37 @@
+name dtxdescribe
+category Package
+revision 50532
+shortdesc Describe additional object types in dtx source files
+longdesc The doc package includes tools for describing macros and
+longdesc environments in LaTeX source dtx format. The package adds
+longdesc additional tools for describing booleans, lengths, counters,
+longdesc keys, packages, classes, options, files, commands, arguments,
+longdesc and other objects. Each item is given a margin tag similar to
+longdesc \DescribeEnv, and is listed in the index by itself and also by
+longdesc category. Each item may be sorted further by an optional class.
+longdesc All index entries except code lines are hyperlinked. The
+longdesc dtxexample environment is provided for typesetting example code
+longdesc and its results. Contents are displayed verbatim along with a
+longdesc caption and cross-referencing. They are then input and
+longdesc executed, and the result is shown. Environments are also
+longdesc provided for displaying verbatim or formatted source code,
+longdesc user-interface displays, and sidebars with titles. Macros are
+longdesc provided for formatting the names of inline LaTeX objects such
+longdesc as packages and booleans, as well as program and file names,
+longdesc file types, internet objects, the names of certain programs, a
+longdesc number of logos, and inline dashes and slashes.
+containersize 4800
+containerchecksum 4c414ad7156e47d249f65002b37bdf92341b8928b80fcff9f94fdd0222816299423bc1f1e25ee6bc41959881cd91a09d65b246c30761ee382378542728f90512
+doccontainersize 346004
+doccontainerchecksum 98460a6f5a22505a7534bb4e77526fb786e18d1f0742496fd7118b6b386252bcb2fdcde3e724e184836c28d74a546f6c9b688595594f2575ea5f26e7905da618
+srccontainersize 17596
+srccontainerchecksum 52ee1a8c5fba3420577b6da6c0a3c1411a9b7746f7df40856b65aaaf815c673a21fcaf6609a9d4d5d3ccbf65c570096f4743cbd21a1c21c99e6195559d670c56
+runfiles size=5
+ texmf-dist/tex/latex/dtxdescribe/dtxdescribe.sty
+catalogue-also doc
+catalogue-contact-home http://bdtechconcepts.com
+catalogue-ctan /macros/latex/contrib/dtxdescribe
+catalogue-date 2019-03-22 19:35:49 +0100
+catalogue-license lppl1.3
+catalogue-topics doc-supp
+catalogue-version 1.01

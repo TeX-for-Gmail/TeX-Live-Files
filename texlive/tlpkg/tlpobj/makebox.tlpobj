@@ -1,0 +1,20 @@
+name makebox
+category Package
+revision 15878
+shortdesc Defines a \makebox* command
+longdesc Define a \makebox* command that does the same as a \makebox
+longdesc command, except that the width is given by a sample text
+longdesc instead of an explicit length measure.
+containersize 952
+containerchecksum 918052ed5c358e12ac7ca7c93f25a43fcfa8f7ba261fdf652d7ccbbcc27e3e0f822813d8297d3b75450c443687bd97e93416624b51da61572557d6a337638bc7
+doccontainersize 272640
+doccontainerchecksum 807d495fdef601fff666acb79c7f3fa43d1aeebf8aed77bebc02f90dca4fb9c36ae1bc911a9af1009538f3d3e2c4c7f9ceb0111d091dd4c1691a1520e089a697
+srccontainersize 2892
+srccontainerchecksum 04ab9a02882a505f4393288ae8e5d6be374bdd6aa8a4472da1fb7e2c9e3b4bfc58132921a3287a4c8fe4d8d3fb91ddc33496a088431862407988ade1f716ee85
+runfiles size=1
+ texmf-dist/tex/latex/makebox/makebox.sty
+catalogue-ctan /macros/latex/contrib/makebox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics boxing
+catalogue-version 0.1

@@ -1,0 +1,67 @@
+name bguq
+category Package
+revision 27401
+shortdesc Improved quantifier stroke for Begriffsschrift packages
+longdesc The font contains a single character: the Begriffsschrift
+longdesc quantifier (in several sizes), as used to set the
+longdesc Begriffsschrift (concept notation) of Frege. The font is not
+longdesc intended for end users; instead it is expected that it will be
+longdesc used by other packages which implement the Begriffsschrift. An
+longdesc (unofficial) modified version of Josh Parsons' begriff is
+longdesc included as an example of implementation.
+execute addMap bguq.map
+containersize 14868
+containerchecksum 8a795ba517941a07ec1445a16947ce5028cfd61ba2b5c818bc894ffa73d439162271d6269c67c8ee7afd6d13551d4a9bf73763c00b719bf3a9019a8e7d368256
+doccontainersize 118616
+doccontainerchecksum 1bfe38f2d904af63a5a0fd2ab4accd04fbd294083cc462f7d53f79819f40dccf1c3c729ad591d15327eb120bce847ae62c2bc9b9554ea278c1974e3b37296dc5
+srccontainersize 2968
+srccontainerchecksum 108ecf4268a4491904d46f5aebdace10f8aab84a4333fddf94788b677088a584da284fd763a8f0ab19cbc335a3a143489a49836ba059971483faeaf40ecbb0de
+runfiles size=43
+ texmf-dist/fonts/map/dvips/bguq/bguq.map
+ texmf-dist/fonts/source/public/bguq/bguq.mf
+ texmf-dist/fonts/source/public/bguq/bguq10.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t04.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t05.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t06.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t07.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t08.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t09.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t10.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t11.mf
+ texmf-dist/fonts/source/public/bguq/bguq10t12.mf
+ texmf-dist/fonts/tfm/public/bguq/bguq10t04.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t05.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t06.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t07.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t08.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t09.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t10.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t11.tfm
+ texmf-dist/fonts/tfm/public/bguq/bguq10t12.tfm
+ texmf-dist/fonts/type1/public/bguq/bguq10t04.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t05.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t06.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t07.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t08.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t09.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t10.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t11.pfb
+ texmf-dist/fonts/type1/public/bguq/bguq10t12.pfb
+ texmf-dist/tex/latex/bguq/Ubguq04.fd
+ texmf-dist/tex/latex/bguq/Ubguq05.fd
+ texmf-dist/tex/latex/bguq/Ubguq06.fd
+ texmf-dist/tex/latex/bguq/Ubguq07.fd
+ texmf-dist/tex/latex/bguq/Ubguq08.fd
+ texmf-dist/tex/latex/bguq/Ubguq09.fd
+ texmf-dist/tex/latex/bguq/Ubguq10.fd
+ texmf-dist/tex/latex/bguq/Ubguq11.fd
+ texmf-dist/tex/latex/bguq/Ubguq12.fd
+ texmf-dist/tex/latex/bguq/begriff-bguq.sty
+ texmf-dist/tex/latex/bguq/bguq.cfg
+ texmf-dist/tex/latex/bguq/bguq.sty
+catalogue-also begriff frege grundgesetze
+catalogue-ctan /fonts/bguq
+catalogue-date 2017-10-29 14:21:00 +0100
+catalogue-license lppl
+catalogue-topics font font-mf font-specialist font-maths logic
+catalogue-version 0.4

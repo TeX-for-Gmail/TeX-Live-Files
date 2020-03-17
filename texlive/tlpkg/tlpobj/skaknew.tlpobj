@@ -1,0 +1,48 @@
+name skaknew
+category Package
+revision 20031
+shortdesc The skak chess fonts redone in Adobe Type 1
+longdesc This package offers Adobe Type 1 versions of the fonts provided
+longdesc as Metafont source by the skak bundle.
+execute addMap SkakNew.map
+containersize 160064
+containerchecksum 879107f0bb96441082ccc4afb560e4fd0f625e7fb7cab84ebbd642af1ef180bc27540eb9ff26c689039dd6abb11e9b88bcea30d5b1e75b40f0e3499c981ae6e2
+doccontainersize 316212
+doccontainerchecksum 8c26115910f2e9a9ae28e1b6c0933db3308c9f59eb151bb37b23de3f0f790b9726aef895def0826e00928b75753d925c5c9db0a6b91ebf7035fad5a4e473a315
+runfiles size=72
+ texmf-dist/fonts/afm/public/skaknew/AlphaDia.afm
+ texmf-dist/fonts/afm/public/skaknew/SkakNew-Diagram.afm
+ texmf-dist/fonts/afm/public/skaknew/SkakNew-DiagramT.afm
+ texmf-dist/fonts/afm/public/skaknew/SkakNew-Figurine.afm
+ texmf-dist/fonts/afm/public/skaknew/SkakNew-FigurineBold.afm
+ texmf-dist/fonts/map/dvips/skaknew/SkakNew.map
+ texmf-dist/fonts/opentype/public/skaknew/AlphaDia.otf
+ texmf-dist/fonts/opentype/public/skaknew/SkakNew-Diagram.otf
+ texmf-dist/fonts/opentype/public/skaknew/SkakNew-DiagramT.otf
+ texmf-dist/fonts/opentype/public/skaknew/SkakNew-Figurine.otf
+ texmf-dist/fonts/opentype/public/skaknew/SkakNew-FigurineBold.otf
+ texmf-dist/fonts/tfm/public/skaknew/AlphaDia.tfm
+ texmf-dist/fonts/tfm/public/skaknew/SkakNew-Diagram.tfm
+ texmf-dist/fonts/tfm/public/skaknew/SkakNew-DiagramT.tfm
+ texmf-dist/fonts/tfm/public/skaknew/SkakNew-Figurine.tfm
+ texmf-dist/fonts/tfm/public/skaknew/SkakNew-FigurineBold.tfm
+ texmf-dist/fonts/type1/public/skaknew/AlphaDia.inf
+ texmf-dist/fonts/type1/public/skaknew/AlphaDia.pfb
+ texmf-dist/fonts/type1/public/skaknew/AlphaDia.pfm
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Diagram.inf
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Diagram.pfb
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Diagram.pfm
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-DiagramT.inf
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-DiagramT.pfb
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-DiagramT.pfm
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Figurine.inf
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Figurine.pfb
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-Figurine.pfm
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-FigurineBold.inf
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-FigurineBold.pfb
+ texmf-dist/fonts/type1/public/skaknew/SkakNew-FigurineBold.pfm
+catalogue-contact-home http://www.art-satz.de/portfolio/schriften.html
+catalogue-ctan /fonts/chess/skaknew
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-chess games

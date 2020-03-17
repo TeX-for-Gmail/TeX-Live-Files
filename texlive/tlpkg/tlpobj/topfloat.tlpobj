@@ -1,0 +1,14 @@
+name topfloat
+category Package
+revision 19084
+shortdesc Move floats to the top of the page
+containersize 1392
+containerchecksum a4e4031292203a04a1df1dc5e6bd4f6b89c8806599d995707fa0dfc238bcb3dd1ecf185665db33a406302567607da5640f385f12cffb46f482993850b78155a0
+doccontainersize 40340
+doccontainerchecksum 6c37c3b9ad32a121eb03f23049e11fe52b7cf6d49353e94a18eb39aaed3c049bee86ef6c6984440c9700546f20023f7a71975591c1f3750d31e176e8ba4f4c47
+runfiles size=1
+ texmf-dist/tex/latex/topfloat/topfloat.sty
+catalogue-ctan /macros/latex/contrib/topfloat
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license gpl
+catalogue-topics float

@@ -1,0 +1,39 @@
+name pst-func
+category Package
+revision 49413
+shortdesc PSTricks package for plotting mathematical functions
+longdesc The package is built for use with PSTricks. It provides macros
+longdesc for plotting and manipulating various mathematical functions:
+longdesc polynomials and their derivatives
+longdesc f(x)=an*x^n+an-1*x^(n-1)+...+a0 defined by the coefficients a0
+longdesc a1 a2 ... and the derivative order; the Fourier sum f(x) =
+longdesc a0/2+a1cos(omega x)+...+b1sin(omega x)+... defined by the
+longdesc coefficients a0 a1 a2 ... b1 b2 b3 ...; the Bessel function
+longdesc defined by its order; the Gauss function defined by sigma and
+longdesc mu; Bezier curves from order 1 (two control points) to order 9
+longdesc (10 control points); the superellipse function (the Lame
+longdesc curve); Chebyshev polynomials of the first and second kind; the
+longdesc Thomae (or popcorn) function; the Weierstrass function; various
+longdesc integration-derived functions; normal, binomial, poisson,
+longdesc gamma, chi-squared, student's t, F, beta, Cauchy and Weibull
+longdesc distribution functions and the Lorenz curve; the zeroes of a
+longdesc function, or the intermediate point of two functions; the
+longdesc Vasicek function for describing the evolution of interest
+longdesc rates; and implicit functions. The plots may be generated as
+longdesc volumes of rotation about the X-axis, as well.
+containersize 18400
+containerchecksum 7956bfec1336ec96976a9d90e6f7fe2a524910ac7fd566c77a5e720be4c4f4c174b53b4cba5ce2c2dc9ab7dc637474f38e5588bafce2da693f3119e95f6a59f0
+doccontainersize 3448756
+doccontainerchecksum 09dc8866eb957088b94f943f093556a322e5731aa29ca43be183f9446f7092848d2550f010fb0cb8d7eb4a8d68d872010fa6534db88995a12637c726fc66c82b
+runfiles size=24
+ texmf-dist/dvips/pst-func/pst-func.pro
+ texmf-dist/tex/generic/pst-func/pst-func.tex
+ texmf-dist/tex/latex/pst-func/pst-func.sty
+catalogue-contact-home http://pstricks.tug.org
+catalogue-contact-repository http://comedy.dante.de/~herbert/TeXnik/
+catalogue-contact-support http://tug.org/mailman/listinfo/pstricks
+catalogue-ctan /graphics/pstricks/contrib/pst-func
+catalogue-date 2018-12-13 23:22:32 +0100
+catalogue-license lppl
+catalogue-topics maths graphics-plotfn graphics-use pstricks
+catalogue-version 0.92

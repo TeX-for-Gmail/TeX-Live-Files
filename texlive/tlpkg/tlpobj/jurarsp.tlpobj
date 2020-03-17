@@ -1,0 +1,24 @@
+name jurarsp
+category Package
+revision 15878
+shortdesc Citations of judgements and official documents in (German) juridical documents
+longdesc This package should be helpful for people working on (German)
+longdesc law. It (ab)uses BibTeX for citations of judgements and
+longdesc official documents. For this purpose, a special BibTeX-style is
+longdesc provided.
+containersize 9464
+containerchecksum 511130814ed94c7f0829802a0c3e8e613b0c4aae50854f6e06779448f430e78c8712142fe04d3662b799a488d90944072847dd223b01b642de78c1f98649e79a
+doccontainersize 121072
+doccontainerchecksum 1c439e351102ae3f768ae38404cc5d98403028fb6fa6088cd53eea40593ee03c10d20955f3fadef41f41af6d23f139ba356a9b06ed735644b67d3f42a076e0af
+srccontainersize 26216
+srccontainerchecksum 8853060222f8f45e69fd7d3539534ed6a0762cb7f97d4c140dcb4ac59fcf1fe339d7f6cdca6e035d4e9bbcd730746e1311885d837fbedf65e208be2100ec2a90
+runfiles size=17
+ texmf-dist/bibtex/bst/jurarsp/jurarsp.bst
+ texmf-dist/tex/latex/jurarsp/jurarsp.cfg
+ texmf-dist/tex/latex/jurarsp/jurarsp.sty
+catalogue-also juraabbrev
+catalogue-ctan /macros/latex/contrib/jurarsp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-supp legal german
+catalogue-version 0.52

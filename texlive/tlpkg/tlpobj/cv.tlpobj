@@ -1,0 +1,20 @@
+name cv
+category Package
+revision 15878
+shortdesc A package for creating a curriculum vitae
+longdesc The package is distributed with two example files; they (and
+longdesc their formatted output) constitute the only real documentation.
+longdesc Note that cv is just a package: you choose the overall
+longdesc formatting by deciding which class to use, while the package
+longdesc provides the detailed formatting.
+containersize 832
+containerchecksum 624d9bd1578e0d2e40e2ca76cd97d7f44d9da5c71daf737e06e6b6b15c64911af17f0da197afa17b5ff3b145461cf7efb058a5cbcd02e7c21642e660cfa3ca4d
+doccontainersize 52576
+doccontainerchecksum c04b207a635f1b6f76e316284da987b45fd4387961c59b7b1f1b947284937f91f4d95ade824195d1f0db00766fec870e6859a6dd27cf3b6b426d095866f17d6a
+runfiles size=1
+ texmf-dist/tex/latex/cv/CV.sty
+catalogue-also moderncv curve
+catalogue-ctan /macros/latex/contrib/cv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics cv class

@@ -1,0 +1,23 @@
+name autobreak
+category Package
+revision 43337
+shortdesc Simple line breaking of long formulae
+longdesc This package implements a simple mechanism of line/page
+longdesc breaking within the align environment of the amsmath package;
+longdesc new line characters are considered as possible candidates for
+longdesc the breaks and the package tries to put breaks at adequate
+longdesc places. It is suitable for computer-generated long formulae
+longdesc with many terms.
+containersize 2624
+containerchecksum 91cc17692654270bba9536ea9186ffea2e7e9a6e9dbf0ffcd9821c8b3ec470ea3222af2a1df05d85e47d65fc1737cf2dbeba150641355bf826e5ad2da90db059
+doccontainersize 545668
+doccontainerchecksum 0d06f75e6f4fb254463ee2a075d106c14a06c5f7fc25b5047fbeec0e48ca9faf6e136f098312811329db1da5f9fffb6dfd45abe6eea9ecf682f4fe99f0384178
+srccontainersize 9432
+srccontainerchecksum 7120382c7974acccf1a49548ad8e654b945ae2ecfb858b37ca871fb7b5b054d8554c971a86c511d03e2ffa91e5cbc6d61cc743da51b0a9de705f74c0b9c2c7c1
+runfiles size=3
+ texmf-dist/tex/latex/autobreak/autobreak.sty
+catalogue-ctan /macros/latex/contrib/autobreak
+catalogue-date 2017-02-25 06:12:27 +0100
+catalogue-license lppl1.3
+catalogue-topics maths maths-theorem
+catalogue-version 0.3

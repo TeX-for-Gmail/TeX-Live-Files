@@ -1,0 +1,24 @@
+name limecv
+category Package
+revision 45906
+shortdesc A (Xe/Lua)LaTeX document class for curriculum vitae
+longdesc limecv is a (Xe/Lua)LaTeX document class to write curriculum
+longdesc vitae. It is designed with the following design rules: simple,
+longdesc elegant and clean. To this end, it offers several environments
+longdesc and macros for convenience.
+containersize 7568
+containerchecksum 385f144eb64f9ad6ba13f42e75ae9ce5701265c3bb2641523bbeaaed086781e92f7cc03f25a576dea97fe533bb08adf8c24672e6237363d37f7ea598138fb40d
+doccontainersize 528880
+doccontainerchecksum c375f4e700e19fac6334df88100776b93df315000efa11189567d3ae0e6d542c3acf3d21dc29b541f7067d8cfb32fd74197e02569fe5275eb0277fc645e182e9
+srccontainersize 17444
+srccontainerchecksum 22953f4f1dca7a88f1f6aa359056d88944cf86010683b3b5cd1b9e0053b5501c4e98cce2abd66081f5053d75707a43749e78523b640097b9cc219b945665b481
+runfiles size=9
+ texmf-dist/tex/latex/limecv/limecv.cls
+catalogue-contact-bugs https://github.com/opieters/limecv/issues
+catalogue-contact-home https://olivierpieters.be/projects/limecv
+catalogue-contact-repository https://github.com/opieters/limecv
+catalogue-ctan /macros/latex/contrib/limecv
+catalogue-date 2018-01-07 12:02:30 +0100
+catalogue-license lppl1.3c
+catalogue-topics cv
+catalogue-version 0.1.3

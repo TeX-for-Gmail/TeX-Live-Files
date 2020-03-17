@@ -1,0 +1,18 @@
+name uhrzeit
+category Package
+revision 39570
+shortdesc Time printing, in German
+longdesc The primary goal of this package is to facilitate formats and
+longdesc ranges of times as formerly used in Germany. A variety of
+longdesc printing formats are available.
+containersize 2056
+containerchecksum 7b5c732258e25ecc2d429b09349b94cc4f24de77e8db40add018f42bf7658868e9c3730f0fed86312ea96625556fe02a276535eb14416d06fa5fd2cc1eff30c6
+doccontainersize 209100
+doccontainerchecksum 76c7bdb6c74ac05fd9b51366b68b0dae8180da51f506ba1793765d25de29582c8eba51826d6d6c6d3c3c1793f10fda3f6bb75c82d8d454fb19e1339eb98a9eb2
+runfiles size=2
+ texmf-dist/tex/latex/uhrzeit/uhrzeit.sty
+catalogue-ctan /macros/latex/contrib/uhrzeit
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics german date-time
+catalogue-version 0.2c

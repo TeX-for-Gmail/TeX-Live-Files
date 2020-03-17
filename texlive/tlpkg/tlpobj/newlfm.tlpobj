@@ -1,0 +1,27 @@
+name newlfm
+category Package
+revision 15878
+shortdesc Write letters, facsimiles, and memos
+longdesc Integrates the letter class with fancyhdr and geometry to
+longdesc automatically make letterhead stationery. Useful for writing
+longdesc letters, fax, and memos. You can set up an address book using
+longdesc 'wrapper' macros. You put all the information for a person into
+longdesc a wrapper and then put the wrapper in a document. The class
+longdesc handles letterheads automatically. You place the object for the
+longdesc letterhead (picture, information, etc.) in a box and all sizing
+longdesc is set automatically.
+containersize 20156
+containerchecksum 72f7b087ba1002541e3d26d5b41b58380443e30061b92885bbd3bcc017b17cbad9227c14074a53706b98c785117c7b07c6d49639c84c617782066491dc0cabf5
+doccontainersize 342164
+doccontainerchecksum 8391122e13223055582bfe0f9e6d62315c9a48588848ab02cebd5b2d7045be5f1d476145e8ca29392820d4ee018b9f84380408331b3ea56e7e99071024a8c369
+srccontainersize 48828
+srccontainerchecksum fa807aaba787c52d3e769e240a04f5fa23e469908d2eb5a60967e2b08cfb7a694612e85514a56c3138925ce2f3c480bd5b6d0f701031d8ee8e646c3017cd0022
+runfiles size=33
+ texmf-dist/tex/latex/newlfm/addrset.sty
+ texmf-dist/tex/latex/newlfm/newlfm.cls
+ texmf-dist/tex/latex/newlfm/setdim.sty
+catalogue-ctan /macros/latex/contrib/newlfm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics class letter
+catalogue-version 9.4

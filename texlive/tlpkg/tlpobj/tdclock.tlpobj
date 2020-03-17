@@ -1,0 +1,18 @@
+name tdclock
+category Package
+revision 33043
+shortdesc A ticking digital clock package for PDF output
+longdesc A ticking digital clock package to be used in Pdf-LaTeX
+longdesc documents, for example in presentations.
+containersize 3944
+containerchecksum 29e2e50d9fa432b08ea730b8a12228cd2bd3eefe61946e576a262bab06a966c0b28c13d48b1074a838a1a567f9797a943282d17e936db146f15e7631261761fe
+doccontainersize 244100
+doccontainerchecksum 139c82690e2c9b695a10a6f3e6f94a54c3ae4d4a929ddc18763e248114926554206fb4c007ed758695476de3750ffc1dce3db75efdf2598434f27abd1ac84baa
+runfiles size=5
+ texmf-dist/tex/latex/tdclock/tdclock.sty
+catalogue-also analogclock
+catalogue-ctan /macros/latex/contrib/tdclock
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics date-time
+catalogue-version 2.5

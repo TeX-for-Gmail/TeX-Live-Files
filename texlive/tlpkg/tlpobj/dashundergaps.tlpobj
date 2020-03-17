@@ -1,0 +1,25 @@
+name dashundergaps
+category Package
+revision 49198
+shortdesc Produce gaps that are underlined, dotted or dashed
+longdesc The package provides commands (\underline, \dotuline and
+longdesc \dashuline) each of which underlines its argument with one of
+longdesc the styles the package is capable of. A phantom mode is
+longdesc provided, where the underline (of whatever form) can serve for
+longdesc a 'fill-in block' for student evaluation sheets.
+containersize 3340
+containerchecksum 190b4559e568ac1b5281314dc17d8e2b143af0b1f3e0812c02b70eaddb6ece2a33843585dfbf21f10af0112e2f6611338df3708d396997bc63f8f1ca5e9884d7
+doccontainersize 855168
+doccontainerchecksum 262ac83918e07be8fc0d57c416a6d3fc342c75160cc603186147b81c00af2edec662c1822b01d486bc4dc871733dcb235f3f7edcf9f4cfac6688d412cef54744
+srccontainersize 12696
+srccontainerchecksum 22b6d3821c2b9ee3d8fb1ec40a0d5825e98c957028935706d2ec52e8608d413af6a14ebddf02d140882a79b480193b940197afb12d94f4af3daf6c8e67b69c82
+runfiles size=3
+ texmf-dist/tex/latex/dashundergaps/dashundergaps.sty
+catalogue-contact-bugs https://github.com/FrankMittelbach/fmitex/issues
+catalogue-contact-home https://www.latex-project.org
+catalogue-contact-repository https://github.com/FrankMittelbach/fmitex
+catalogue-ctan /macros/latex/contrib/dashundergaps
+catalogue-date 2018-11-18 22:46:59 +0100
+catalogue-license lppl
+catalogue-topics underline line-patt
+catalogue-version 2.0d

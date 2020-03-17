@@ -1,0 +1,25 @@
+name exframe
+category Package
+revision 49784
+shortdesc Framework for exercise problems
+longdesc This LaTeX2e package provides a general purpose framework to
+longdesc describe and typeset exercises and exam questions along with
+longdesc their solutions. The package features mechanisms to hide or
+longdesc postpone solutions, to assign and handle points, to collect
+longdesc problems on exercise sheets, to store and use metadata, and to
+longdesc implement a consistent numbering. It also provides a very
+longdesc flexible interface for configuring and customising the
+longdesc formatting, layout, and representation of the exercise content.
+containersize 8424
+containerchecksum 0f868d1960e1d0acbeab1168f45f31662e1660b39c289978e3e69b6d238b7ad499c78441b612521b6d0527ca50c7b73592c0f768b6c9ea9919c308e1adad79a7
+doccontainersize 337416
+doccontainerchecksum caeca0fd0d447b1564a3240b08fc289a05caa8a763c2b4a9ca07ce473fab6bd9317836aadee241444b84523fa5562792deb43ec0944e9bc272e5a385d48d038d
+srccontainersize 29636
+srccontainerchecksum 3ce211413d5cfb2d0cd11d75ceeccf58c7e0d5b658ca406f6a125e34c3bb27f9f2072385fdfa93e47b405154f3605772d9a5d57ee387ae062eda5afb8cb3cb39
+runfiles size=12
+ texmf-dist/tex/latex/exframe/exframe.sty
+catalogue-ctan /macros/latex/contrib/exframe
+catalogue-date 2019-01-21 18:01:45 +0100
+catalogue-license lppl1.3
+catalogue-topics exam exercise
+catalogue-version 3.1

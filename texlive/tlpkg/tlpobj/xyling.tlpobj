@@ -1,0 +1,22 @@
+name xyling
+category Package
+revision 15878
+shortdesc Draw syntactic trees, etc., for linguistics literature, using xy-pic
+longdesc The macros in this package model the construction of linguistic
+longdesc tree structures as a genuinely graphical problem: they contain
+longdesc two types of objects, BRANCHES and NODE LABELS, and these are
+longdesc positioned relative to a GRID. It is essential that each of
+longdesc these three elements is constructed independent of the other
+longdesc two, and hence they can be modified without unwanted side
+longdesc effects. The macros are based on the xy-pic package.
+containersize 10540
+containerchecksum 5f78d2d61050d9ed84d56136fe59b4674f4e03a536015e3ebc3b9500dd8a08878164ce9fb1aa9ca9a1262a000149061f3fe22f10cfd68941316aa186b81fe923
+doccontainersize 148332
+doccontainerchecksum 7b4ca312ea917329260eb0a19bd504ac2f3ddfb5f066806296b164fc541bfe26e6ed1c03ffac5b52af6b19fb4ba1e77b5228ac4b4db0c2ee8f2394fc0f888d09
+runfiles size=9
+ texmf-dist/tex/latex/xyling/xyling.sty
+catalogue-ctan /macros/latex/contrib/xyling
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics linguistic tree
+catalogue-version 1.1

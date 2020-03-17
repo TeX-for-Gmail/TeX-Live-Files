@@ -1,0 +1,26 @@
+name mhchem
+category Package
+revision 48088
+shortdesc Typeset chemical formulae/equations and Risk and Safety phrases
+longdesc The bundle provides three packages: The mhchem package provides
+longdesc commands for typesetting chemical molecular formulae and
+longdesc equations. The hpstatement package provides commands for the
+longdesc official hazard statements and precautionary statements (H and
+longdesc P statements) that are used to label chemicals. The rsphrase
+longdesc package provides commands for the official Risk and Safety (R
+longdesc and S) Phrases that are used to label chemicals. The package
+longdesc requires the expl3 bundle.
+depend chemgreek
+containersize 51492
+containerchecksum c6ab7b1a02d2b4c510e487d86857ca82b2d9e9b46a786b6067b91a097246ccd40e24aee09b2140ac2b5446f7b12d85614b31ce75d45641d923bbd77411696781
+doccontainersize 285508
+doccontainerchecksum 832897ccbc039a46d0c5e0c3c8dca172ac54451b8d22a5d275acd6fdd30f6119ed13345b0b473c44edff3c8cde47480e6fb3424b795db55957d40bed08a1def1
+runfiles size=109
+ texmf-dist/tex/latex/mhchem/hpstatement.sty
+ texmf-dist/tex/latex/mhchem/mhchem.sty
+ texmf-dist/tex/latex/mhchem/rsphrase.sty
+catalogue-also r-und-s
+catalogue-ctan /macros/latex/contrib/mhchem
+catalogue-date 2018-06-24 22:16:57 +0200
+catalogue-license lppl1.3c
+catalogue-topics safety-notice chemistry

@@ -1,0 +1,37 @@
+name l3packages
+category Package
+revision 50246
+shortdesc High-level LaTeX3 concepts
+longdesc This collection contains implementations for aspects of the
+longdesc LaTeX3 kernel, dealing with higher-level ideas such as the
+longdesc Designer Interface. The packages here are considered broadly
+longdesc stable (The LaTeX3 Project does not expect the interfaces to
+longdesc alter radically). These packages are built on LaTeX2e
+longdesc conventions at the interface level, and so may not migrate in
+longdesc the current form to a stand-alone LaTeX3 format. Packages
+longdesc provided: xparse, which provides a high-level interface for
+longdesc declaring document commands xfp, an expandable IEEE 754 FPU for
+longdesc LaTeX l3keys2e, which makes the facilities of the kernel module
+longdesc l3keys available for use by LaTeX 2e packages xtemplate, which
+longdesc provides a means of defining generic functions using a
+longdesc key-value syntax xfrac, which provides flexible split-level
+longdesc fractions All the files of the bundle are also available in the
+longdesc Subversion (SVN) repository of the LaTeX3 Project.
+containersize 19856
+containerchecksum 492d1583f3a5029fda465f5da280112ae0a8d879e741f9a533fc9a2cbeb9e35b47aa0dc221cb86e2b01176e421f94a4b9211961153877bfd294fd025d7e9da7d
+doccontainersize 1755584
+doccontainerchecksum 0d7cb97662000a24b87a0102a818a4dcb1a7e7d7d635a26ca22de815d1080763cf39b2e47616b8fa9f1efe73329ae1874666b95efb759b2825bc9ddfad52e2b9
+srccontainersize 64524
+srccontainerchecksum 4167abd23044ecb6e611fc660fdac314c6409d3548235f30493321890b2947cebb5963750a9b4095e6247292b96f337a506c1f0325f4488adeb03f00ab10e4f4
+runfiles size=39
+ texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+ texmf-dist/tex/latex/l3packages/xfp/xfp.sty
+ texmf-dist/tex/latex/l3packages/xfrac/xfrac.sty
+ texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+ texmf-dist/tex/latex/l3packages/xtemplate/xtemplate.sty
+catalogue-also l3kernel l3experimental
+catalogue-contact-home http://www.latex-project.org/code.html
+catalogue-ctan /macros/latex/contrib/l3packages
+catalogue-date 2019-03-05 19:24:02 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp latex3 pre-release

@@ -1,0 +1,24 @@
+name staves
+category Package
+revision 15878
+shortdesc Typeset Icelandic staves and runic letters
+longdesc This package contains all the necessary tools to typeset the
+longdesc "magical" Icelandic staves plus the runic letters used in
+longdesc Iceland. Included are a font in Adobe Type 1 format and LaTeX
+longdesc support.
+execute addMap icelandic.map
+containersize 121996
+containerchecksum f6a1aea97a3293ffb514ccc526faa71ea5ea3ab32990da8725cc3ff998d15a2909001976d9705ba13110fbde869001bec2f286e58c05f1fe31f345ecd5882482
+doccontainersize 230488
+doccontainerchecksum b839484325cc6d06a407ea685dd705b3616d1e87f22d4a625c20dbc507647b602417a085328f9ba886766ee0fca2516da397c742198569477bc1009271a4db23
+srccontainersize 3748
+srccontainerchecksum 9dbe40efcd1699cc9267b739bc1b182fc0e5dc23ae52d19ea89c1742b815e4ea9b7612e4fb80aeb83f3d9206ab408cb0ca3fcb99c85883fb86f89f3ac26f0b5d
+runfiles size=34
+ texmf-dist/fonts/map/dvips/staves/icelandic.map
+ texmf-dist/fonts/tfm/public/staves/icelandic.tfm
+ texmf-dist/fonts/type1/public/staves/icelandic.pfb
+ texmf-dist/tex/latex/staves/staves.sty
+catalogue-ctan /language/staves
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-rune icelandic

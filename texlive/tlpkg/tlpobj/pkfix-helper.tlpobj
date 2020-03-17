@@ -1,0 +1,28 @@
+name pkfix-helper
+category Package
+revision 29725
+shortdesc Make PostScript files accessible to pkfix
+longdesc Pkfix is a useful utility for replacing resolution-dependent
+longdesc bitmapped fonts in a dvips-produced PostScript file with the
+longdesc corresponding resolution-independent vector fonts.
+longdesc Unfortunately, pkfix needs to parse certain PostScript comments
+longdesc that appear only in files produced by dvips versions later than
+longdesc 5.58 (ca. 1996); it fails to work on PostScript files produced
+longdesc by older versions of dvips. Pkfix-helper is a program that
+longdesc attempts to insert newer-dvips comments into an older-dvips
+longdesc PostScript file, thereby making the file suitable for
+longdesc processing by pkfix. pkfix-helper can sometimes process
+longdesc documents fully autonomously but does require the user to
+longdesc verify and, if needed, correct its decisions.
+depend pkfix-helper.ARCH
+containersize 16716
+containerchecksum 4828927668f21f465ab672b92e6e3934e81e60bd9b3bc1f28a65b2c4dd26d2ce244258ac1b7d8846c0bfbb653a2fe009875ddfcc0383b34249e775f675497478
+doccontainersize 640356
+doccontainerchecksum 146bc49beeb779c4815737cffe1bad30c28e7e44409a3e7036ab82c58f6f1b7e0ea3498f1a19cfd312390bcbc31c72d9f61a92501d87690a61cdc7c66c2fd2ae
+runfiles size=14
+ texmf-dist/scripts/pkfix-helper/pkfix-helper
+catalogue-ctan /support/pkfix-helper
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-util
+catalogue-version 1.4

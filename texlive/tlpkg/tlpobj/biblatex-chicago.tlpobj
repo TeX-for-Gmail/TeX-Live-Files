@@ -1,0 +1,42 @@
+name biblatex-chicago
+category Package
+revision 46331
+shortdesc Chicago style files for BibLaTeX
+longdesc This is a BibLaTeX style that implements the Chicago
+longdesc 'author-date' and 'notes with bibliography' style
+longdesc specifications given in the Chicago Manual of Style, 16th
+longdesc edition (support for the 15th edition remains, but is 'strongly
+longdesc deprecated'). The style implements entry types for citing
+longdesc audio-visual materials. The package was previously known as
+longdesc biblatex-chicago-notes-df.
+containersize 65676
+containerchecksum 85f50368da0e9497b92c09548c60c7160779fe583a8817a114d625846349dbdb0f9be6813476bd74246016b85badf90733557770094207107fa3d23bdb436783
+doccontainersize 5247144
+doccontainerchecksum aa511c96eed89d10629bf6f47aad832530f1c108a6f5eea64bfdb9c47f377e7b64b69cd55eed2022ab79fb0d93a31574adb9182919b2113976d1ff084898e920
+runfiles size=257
+ texmf-dist/tex/latex/biblatex-chicago/biblatex-chicago.sty
+ texmf-dist/tex/latex/biblatex-chicago/chicago-authordate-trad.bbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-authordate-trad.cbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-authordate.bbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-authordate.cbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-dates-common.cbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-notes.bbx
+ texmf-dist/tex/latex/biblatex-chicago/chicago-notes.cbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-american.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-brazilian.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-british.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-finnish.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-french.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-german.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-icelandic.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-ngerman.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-norsk.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-norwegian.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-nynorsk.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cms-swedish.lbx
+ texmf-dist/tex/latex/biblatex-chicago/cmsdocs.sty
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-chicago
+catalogue-date 2018-01-16 13:19:32 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.0rc5

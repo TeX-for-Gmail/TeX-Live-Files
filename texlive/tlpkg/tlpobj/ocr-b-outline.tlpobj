@@ -1,0 +1,33 @@
+name ocr-b-outline
+category Package
+revision 20969
+shortdesc OCR-B fonts in Type 1 and OpenType
+longdesc The package contains OCR-B fonts in Type1 and OpenType formats.
+longdesc They were generated from the Metafont sources of the OCR-B
+longdesc fonts. The metric files are not included here, so that original
+longdesc ocr-b package should also be installed.
+execute addMap ocrb.map
+containersize 242544
+containerchecksum ac15acebab9c9f81f0e7786cb3222b336aae3fa4a379592d5fa231e145cfcab536e28c9078ac617bf9b8b672f6dd24b30caa998242ba1e3f4633873ae8d54609
+doccontainersize 1124
+doccontainerchecksum 7bafe00b9c5d846f21cac682d9577ffe696eb54a55f4bee9314646451fec37d883eca7531f594a7994fa8038f7bb5c78a55dd8a8264255a6e60ff90929596d00
+srccontainersize 32724
+srccontainerchecksum b2fa5f4561a4fe61c216e800fcb47bf99a09a62d41d62e30669753139484b58b137649248ec152f7631461c54ab4e51873f3c7a42d43ccf2db86d3cd21d3493f
+runfiles size=103
+ texmf-dist/fonts/map/dvips/ocr-b-outline/ocrb.map
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb10.otf
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb5.otf
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb6.otf
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb7.otf
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb8.otf
+ texmf-dist/fonts/opentype/public/ocr-b-outline/ocrb9.otf
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb10.pfb
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb5.pfb
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb6.pfb
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb7.pfb
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb8.pfb
+ texmf-dist/fonts/type1/public/ocr-b-outline/ocrb9.pfb
+catalogue-ctan /fonts/ocr-b-outline
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-specialist font-type1 font-otf

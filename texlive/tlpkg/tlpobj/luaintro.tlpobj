@@ -1,0 +1,16 @@
+name luaintro
+category Package
+revision 35490
+shortdesc Examples from the book "Einfuhrung in LuaTeX und LuaLaTeX"
+longdesc The bundle provides source of all the examples published in the
+longdesc German book "Einfuhrung in LuaTeX und LuaLaTeX", published by
+longdesc Lehmans Media and DANTE, Berlin.
+containersize 468
+containerchecksum 2585639b6a7b93019f8fe4dd353332dabbbfb5663b84b1c92df397e940392a1b3bb2ddcec203bbb1b0f4244ac26b62f9745fdf50cb7512f96e5c12af8c08335b
+doccontainersize 30328
+doccontainerchecksum 47de79cdc637810757b7879956cf758a77cde95e77060ce74829b438d13b58e23cbc8e9b328d0850b44fd8de8da90fa9fda206ff0e206918f1bccdf5d71d2c38
+catalogue-ctan /info/examples/luaintro
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics book-ex
+catalogue-version 0.03

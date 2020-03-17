@@ -1,0 +1,45 @@
+name glossaries-extra
+category Package
+revision 50680
+shortdesc An extension to the glossaries package
+longdesc This package provides improvements and extra features to the
+longdesc glossaries package. Some of the default glossaries.sty
+longdesc behaviour is changed by glossaries-extra.sty. See the user
+longdesc manual glossaries-extra-manual.pdf for further details.
+longdesc glossaries-extra.sty requires the glossaries package and,
+longdesc naturally, all packages required by glossaries.sty.
+containersize 60644
+containerchecksum 994f09d8180aa08ef3eeac817763a99183a78eafb22b2dbea037bb7315c9e8aba96db9882dd47e402eb97c10186fade6da56ad7ce9e908e204e96aee57628d41
+doccontainersize 5124384
+doccontainerchecksum 207110ae8b38683b14d04e36cb00ac02d1b604863d0a675a10452709e8084d303190119344064df71d5652c44124708acc3110f07071fbf02829ff70e9055c95
+srccontainersize 109036
+srccontainerchecksum 25afcc81509516d843614a30bb29cec7370e842f8f6a1b236452cb5cd68b56cb541e16d2f887fc5613afb6e185081c6d0beab52d1978597613a62b710d9c2e58
+runfiles size=154
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-acronym-desc.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-acronym.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-acronyms-lang.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-brief.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-childnoname.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-cite.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-images.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-long.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-multipar.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-parent.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-symbolnames.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-symbols.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-url.bib
+ texmf-dist/bibtex/bib/glossaries-extra/example-glossaries-xr.bib
+ texmf-dist/tex/latex/glossaries-extra/example-glossaries-xr.tex
+ texmf-dist/tex/latex/glossaries-extra/glossaries-extra-bib2gls.sty
+ texmf-dist/tex/latex/glossaries-extra/glossaries-extra-stylemods.sty
+ texmf-dist/tex/latex/glossaries-extra/glossaries-extra.sty
+ texmf-dist/tex/latex/glossaries-extra/glossary-bookindex.sty
+ texmf-dist/tex/latex/glossaries-extra/glossary-longextra.sty
+ texmf-dist/tex/latex/glossaries-extra/glossary-topic.sty
+catalogue-also glossaries
+catalogue-contact-bugs http://www.dickimaw-books.com/cgi-bin/bugtracker.cgi?category=glossaries-extra
+catalogue-ctan /macros/latex/contrib/glossaries-extra
+catalogue-date 2019-03-31 20:22:24 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary acronym
+catalogue-version 1.40

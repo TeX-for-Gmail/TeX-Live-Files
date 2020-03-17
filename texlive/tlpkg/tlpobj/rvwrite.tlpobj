@@ -1,0 +1,23 @@
+name rvwrite
+category Package
+revision 19614
+shortdesc Increase the number of available output streams in LaTeX
+longdesc The package addresses, for LaTeX documents, the severe
+longdesc limitation on the number of output streams that TeX provides.
+longdesc The package uses a single TeX output stream, and writes
+longdesc "marked-up" output to this stream. The user may then
+longdesc post-process the marked-up output file, using LaTeX, and the
+longdesc document's output appears as separate files, according to the
+longdesc calls made to the package. The output to be post-processed uses
+longdesc macros from the widely-available ProTeX package.
+containersize 1540
+containerchecksum c187dcb7e1c72b727cfd0827a55d721c6a094679c1dae27438ed030209042b49c646af20e158900543369ca8ceee9896a9f36de76607f8514004df80e3be15fb
+doccontainersize 80392
+doccontainerchecksum 545e5b96a2bb3646a7b4a6eb31d5192ef85dee9ac0b6859f6b414f26c5235651294f486bd132af112a2c6021d6843e6ffef8a8f79b7389b974227bc1eee16230
+runfiles size=1
+ texmf-dist/tex/latex/rvwrite/rvwrite.sty
+catalogue-ctan /macros/latex/contrib/rvwrite
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.2

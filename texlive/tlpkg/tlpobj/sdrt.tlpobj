@@ -1,0 +1,20 @@
+name sdrt
+category Package
+revision 15878
+shortdesc Macros for Segmented Discourse Representation Theory
+longdesc The package provides macros to produce the 'Box notation' of
+longdesc SDRT (and DRT), to draw trees representing discourse relations,
+longdesc and finally to have an easy access to various mathematical
+longdesc symbols used in that theory, mostly with automatic mathematics
+longdesc mode, so they work the same in formulae and in text.
+containersize 2680
+containerchecksum 6faa9948e5bb4369fefad7d2b1a5f2bf39baf8b98e8ad3b8f61ade2001b431894ddfbd61e2f1ec73ed767b102f79f8357d965a5c3805c082d8d88bda29e10c6b
+doccontainersize 178944
+doccontainerchecksum 570795dd0c4fe0450e628f61e43d05f3e969488890eab2ee1364712e812d839c7b3185c7ddbd27c44c486e234afe36aceb4824e828cb0c9253e8e5479b0b6c15
+runfiles size=3
+ texmf-dist/tex/latex/sdrt/sdrt.sty
+catalogue-ctan /macros/latex/contrib/sdrt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics linguistic
+catalogue-version 1.0

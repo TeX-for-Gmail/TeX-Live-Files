@@ -1,0 +1,15 @@
+name tamethebeast
+category Package
+revision 15878
+shortdesc A manual about bibliographies and especially BibTeX
+longdesc An (as-complete-as-possible) manual about bibliographies in
+longdesc LaTeX, and thus mainly about BibTeX.
+containersize 436
+containerchecksum 75a71590f1d905bd2a78b508d66936975eeacbfa32e850f599e94efa92da2b043edb8b0899b7027268fa131d94283c13432d4c4126afb79d1615bd538af52436
+doccontainersize 811124
+doccontainerchecksum 0df79f434714deefd60b9b9d32dfbd47ac7e560c26ec0d02465538eefbc779f0252aef235ae2e0a2d2d634d618bb52c73b31c229b5245866239776c742ebe69a
+catalogue-ctan /info/bibtex/tamethebeast
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-doc
+catalogue-version 1.4

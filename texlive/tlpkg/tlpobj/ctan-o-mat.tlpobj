@@ -1,0 +1,33 @@
+name ctan-o-mat
+category Package
+revision 46938
+shortdesc Upload or validate a package for CTAN
+longdesc This program can be used to automate the upload of a package to
+longdesc CTAN. The description of the package is contained in a
+longdesc configuration file. The provided information is validated in
+longdesc any case. If the validation succeeds and not only the
+longdesc validation is requested, then the provided archive file will be
+longdesc placed in the incoming area of the CTAN for further processing
+longdesc by the CTAN team. In any case any finding during the validation
+longdesc is reported at the end of the processing. Note that the
+longdesc validation is the default and an official submission has to be
+longdesc requested by an appropriate command line option. ctan-o-mat
+longdesc requires an Internet connection to the CTAN server. Even the
+longdesc validation retrieves the known attributes and the basic
+longdesc constraints from the server.
+depend ctan-o-mat.ARCH
+containersize 6052
+containerchecksum b15624363438e7d2ab0c060a99dd95cad7b062df03a3efc5f270071d19ed3cd32bc3ce27ceb5b98fdf5b96d956f44225aa53e6ad59e984635b18ea410a807d10
+doccontainersize 25752
+doccontainerchecksum 256db0c0908710b1aaaaa8b78506503e8ff1f6e12d039c6604540d1c11c69a1cd2451c59e1797693b024fbedacd5c5de46013eb738ec3e873d6579b4ecee558f
+runfiles size=6
+ texmf-dist/scripts/ctan-o-mat/ctan-o-mat
+ texmf-dist/scripts/ctan-o-mat/ctan-o-mat.pl
+catalogue-contact-bugs https://github.com/ge-ne/ctan-o-mat/issues
+catalogue-contact-home https://github.com/ge-ne/ctan-o-mat
+catalogue-contact-repository https://github.com/ge-ne/ctan-o-mat
+catalogue-ctan /support/ctan-o-mat
+catalogue-date 2017-11-25 09:56:55 +0100
+catalogue-license bsd3
+catalogue-topics ctan
+catalogue-version 1.2

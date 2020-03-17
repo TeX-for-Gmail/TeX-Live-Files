@@ -1,0 +1,28 @@
+name sttools
+category Package
+revision 43684
+shortdesc Various macros
+longdesc A collection of tools and macros, providing: miscellaneous
+longdesc float control, page styles for floats, multipage tabulars, even
+longdesc columns at end of twocolumn region, switching between one- and
+longdesc two-column anywhere, simulating the effect of "midfloats", a
+longdesc package to manipulate numerical lists and arrays.
+containersize 13160
+containerchecksum acc5c6b470d1e5fd96eaebf3792b3c2402a8fe4a07409328878313cfbaa1e0febc758ae75c6d736e9320f6a332c67f7d6898c761b9c5e30f6658e9049df889b3
+doccontainersize 806084
+doccontainerchecksum 15292806d0f8f4a0364076fa225b7d914a4ae88935e08f87a46978f5a561405f6fe4dc2d471c974c85b369e57bcdc00a5a4759d66d296610713d858dcdd4da34
+srccontainersize 21048
+srccontainerchecksum b22286c3e7b1bc31247fd52e0c64a5f3dddf35e69c2af8e2a617530a24f82e9504f9f0db82d3cd1c57bae61aba526d941636aa32f498ccb3b06983e6e5f511fe
+runfiles size=28
+ texmf-dist/tex/latex/sttools/cuted.sty
+ texmf-dist/tex/latex/sttools/floatpag.sty
+ texmf-dist/tex/latex/sttools/flushend.sty
+ texmf-dist/tex/latex/sttools/midfloat.sty
+ texmf-dist/tex/latex/sttools/stabular.sty
+ texmf-dist/tex/latex/sttools/stfloats.sty
+ texmf-dist/tex/latex/sttools/texsort.sty
+catalogue-ctan /macros/latex/contrib/sttools
+catalogue-date 2017-04-03 11:28:06 +0200
+catalogue-license lppl1.3
+catalogue-topics collection
+catalogue-version 2.0

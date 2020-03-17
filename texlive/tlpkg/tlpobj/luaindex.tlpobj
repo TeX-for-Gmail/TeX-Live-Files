@@ -1,0 +1,20 @@
+name luaindex
+category Package
+revision 25882
+shortdesc Create index using LuaLaTeX
+longdesc Luaindex provides (yet another) index processor, written in
+longdesc Lua.
+containersize 4488
+containerchecksum baafe2dbcfcc07293ec04f775becef7b59a2349ed5c98333c5a4e680fb3f8561f8749a6abadc6901cfbeae1b6e9a47cca05e8ae76064372585b7d7f4978dc844
+doccontainersize 160892
+doccontainerchecksum c90deae24da8584170bc2247d5f6ee22ba522c21d3d0e05a6ec2b9594645a022eed1fcf12c3ffbaa03ce0d92a16f75550dc7e0694920ef58b17bdacae02d6fc7
+srccontainersize 13392
+srccontainerchecksum aa97d6618e7af11a7d5aaee332736aa60a8ba5a2cf796296368736c7d12b1e6eeccbd5c807cc2129fd3e4310617dd92e14aeac053753fe7267899b9b3459d8db
+runfiles size=6
+ texmf-dist/scripts/luaindex/luaindex.lua
+ texmf-dist/tex/lualatex/luaindex/luaindex.sty
+catalogue-ctan /macros/luatex/latex/luaindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics index
+catalogue-version 0.1b

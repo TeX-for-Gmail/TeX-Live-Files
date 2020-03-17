@@ -1,0 +1,23 @@
+name faktor
+category Package
+revision 15878
+shortdesc Typeset quotient structures with LaTeX
+longdesc The package provides the means to typeset factor structures, as
+longdesc are used in many areas of algebraic notation. The structure is
+longdesc similar to the 'A/B' that is provided by the nicefrac package
+longdesc (part of the units distribution), and by the xfrac package; the
+longdesc most obvious difference is that the numerator and denominator's
+longdesc sizes do not change in the \faktor command.
+containersize 1420
+containerchecksum 5c598fbb40d7b37ee5b66bc1bfa8b0b2a0b45f7e22c992e6d0c85ed952a79a120803d41f9b4a13bcbbd6424c555c8b9ba6adb4eb79d1056fbf759008f9b741af
+doccontainersize 80952
+doccontainerchecksum 57934606287afaf1471f1207af5d0e97533a504aa83324069154e88e70f10779d2eb19ed2a9e177c5a4b2cce4203b576272fd2513d989d4ee276330305597034
+srccontainersize 4296
+srccontainerchecksum 01f22e60260621a41e4efd6681b6fa226f7461f47348a79dbd75f214d606c6af2fa54d904792e653d1accc22298385d4cd658c204e653e4320e2932d742da28e
+runfiles size=1
+ texmf-dist/tex/latex/faktor/faktor.sty
+catalogue-ctan /macros/latex/contrib/faktor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 0.1b

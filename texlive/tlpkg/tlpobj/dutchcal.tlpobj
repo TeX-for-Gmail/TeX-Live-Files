@@ -1,0 +1,33 @@
+name dutchcal
+category Package
+revision 23448
+shortdesc A reworking of ESSTIX13, adding a bold version
+longdesc This package reworks the mathematical calligraphic font
+longdesc ESSTIX13, adding a bold version. LaTeX support files are
+longdesc included. The new fonts may also be accessed from the most
+longdesc recent version of mathalfa. The fonts themselves are subject to
+longdesc the SIL OPEN FONT LICENSE, version 1.1.
+execute addMap dutchcal.map
+containersize 36200
+containerchecksum 46b90d505661424bcc96d40bae09303193baf5c681338b5b2d526e51ba59cd56fd64a81a01710fb4911727a3cc4263e731754d82a9a2c021bdf73b6ffb15f5b6
+doccontainersize 1044
+doccontainerchecksum adbd2c44d3b2de4149dc647d4e88e46fdb968e6c6898c4de3395d51665bb147d0abb474ab462e75da028265d0cc6935f930f4397558d057171dd56a4999dcb25
+runfiles size=20
+ texmf-dist/fonts/afm/public/dutchcal/DutchCalBold.afm
+ texmf-dist/fonts/afm/public/dutchcal/DutchCalReg.afm
+ texmf-dist/fonts/map/dvips/dutchcal/dutchcal.map
+ texmf-dist/fonts/tfm/public/dutchcal/dutchcal-b.tfm
+ texmf-dist/fonts/tfm/public/dutchcal/dutchcal-r.tfm
+ texmf-dist/fonts/tfm/public/dutchcal/rdutchcalb.tfm
+ texmf-dist/fonts/tfm/public/dutchcal/rdutchcalr.tfm
+ texmf-dist/fonts/type1/public/dutchcal/DutchCalBold.pfb
+ texmf-dist/fonts/type1/public/dutchcal/DutchCalReg.pfb
+ texmf-dist/fonts/vf/public/dutchcal/dutchcal-b.vf
+ texmf-dist/fonts/vf/public/dutchcal/dutchcal-r.vf
+ texmf-dist/tex/latex/dutchcal/dutchcal.sty
+ texmf-dist/tex/latex/dutchcal/udutchcal.fd
+catalogue-ctan /fonts/dutchcal
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-calligraphic font-type1
+catalogue-version 1.0

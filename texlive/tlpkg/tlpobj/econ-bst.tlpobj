@@ -1,0 +1,22 @@
+name econ-bst
+category Package
+revision 49351
+shortdesc BibTeX style for economics papers
+longdesc This is a BibTeX style file for papers in economics. It
+longdesc provides the following features: author-year type citation
+longdesc reference style used in economics papers highly customizable
+longdesc use of "certified random order" as proposed by Ray  Robson
+longdesc (2018)
+containersize 13168
+containerchecksum 8d54d44602d10d09ffa23b289763e439e0613a753039acfce5c6b2ddb3801886bc4c621a3749730488b2ae22cf41f5d0b887dbaf2fb0050afcddee2b32d02eec
+doccontainersize 659812
+doccontainerchecksum fbbb25b129e477d89263e5bdfd9e998378496ed0be0b77ae580cdd3a6bd539827321fc966d08ee7f71babd3911ec4e3aa1eba9f0e0b7b41dbbbd87c61187a891
+runfiles size=20
+ texmf-dist/bibtex/bst/econ-bst/econ.bst
+catalogue-also economic
+catalogue-contact-home https://github.com/ShiroTakeda/econ-bst
+catalogue-ctan /biblio/bibtex/contrib/econ-bst
+catalogue-date 2018-12-19 05:04:41 +0100
+catalogue-license lppl1.3
+catalogue-topics bibtex-sty
+catalogue-version 2.5

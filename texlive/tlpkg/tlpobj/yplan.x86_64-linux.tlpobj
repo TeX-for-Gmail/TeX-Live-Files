@@ -1,0 +1,8 @@
+name yplan.x86_64-linux
+category Package
+revision 34398
+shortdesc x86_64-linux files of yplan
+containersize 336
+containerchecksum 95735da8a462ac781b4a28ef057a7bbc803211e6259735b1eac61bffad175e6c9667f23764ed91ed668d8756d352547df0045dc778489281034a5a91310d4a32
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/yplan

@@ -1,0 +1,21 @@
+name outlines
+category Package
+revision 25192
+shortdesc Produce "outline" lists
+longdesc Defines an outline environment, which allows outline-style
+longdesc indented lists with freely mixed levels up to four levels deep.
+longdesc It replaces the nested begin/end pairs by different item tags
+longdesc \1 to \4 for each nesting level. This is very convenient in
+longdesc cases where nested lists are used a lot, such as for to-do
+longdesc lists or presentation slides.
+containersize 2044
+containerchecksum 1611e4ba3b8fe21db83a542da9d7e0c3431330bc24e3733d28c8c5b3172ce3e4b46ff5b7dda41f95b4edb6502236f6d558608487ac47f8726420a2afafed75db
+doccontainersize 130384
+doccontainerchecksum bdc507a3f3cb966d03df37d9385145811c5750bce6341935231ae987b0a30dd65424a1bbb772920586721e25711caa429cd6d8b8149088f753f36b9dd69ddaac
+runfiles size=2
+ texmf-dist/tex/latex/outlines/outlines.sty
+catalogue-ctan /macros/latex/contrib/outlines
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list
+catalogue-version 1.1

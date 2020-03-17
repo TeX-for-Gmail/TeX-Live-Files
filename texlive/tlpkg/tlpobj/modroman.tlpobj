@@ -1,0 +1,26 @@
+name modroman
+category Package
+revision 29803
+shortdesc Write numbers in lower case roman numerals
+longdesc This package provides only two macros viz. \modromannumeral
+longdesc which writes the number given as argument in lower case roman
+longdesc numeral with a 'j' instead of a 'i' as the final letter of
+longdesc numbers greater than 1 and \modroman{MyCounter} which writes
+longdesc the value of a counter in the same way. You use the first in
+longdesc the same way as the TeX primitive \romannumeral and the second
+longdesc as LaTeX command \roman. The default option is 'vpourv' with
+longdesc which 5 is 'translated' as 'v' and option 'upourv' whith which
+longdesc the same 5 is given as 'u'.
+containersize 2444
+containerchecksum 3314a474cdb88e517fd16943b8f1f1da252608bc5505bd91581e87bca19ea317718d36694abc670d471d0028dcb5fe502a3be1b1294604cecf619de235fe63c8
+doccontainersize 1300104
+doccontainerchecksum 5c6ad1cdad66a5a7285b7c51074f724670880d4417df45cae51e5b3b35bf5cf99f374f7abca73c7ae68d12f626e4b9bf0dddd6b2bc94250c4e6146598d4c5ac6
+srccontainersize 18772
+srccontainerchecksum 21e8a2bf6f1d58800452dee77d7a7dc89bd8c952ced6f485b42a2e0b6300df9c823c23f4ab3327d9a367ef8e8d6ba1bae27d3c9bcf875270053c7fa65bcf9f70
+runfiles size=2
+ texmf-dist/tex/latex/modroman/modroman.sty
+catalogue-ctan /macros/latex/contrib/modroman
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers
+catalogue-version 1

@@ -1,0 +1,30 @@
+name mathastext
+category Package
+revision 48458
+shortdesc Use the text font in maths mode
+longdesc The package uses a text font (usually the document's text font)
+longdesc for the letters of the Latin alphabet needed when typesetting
+longdesc mathematics. (Optionally, other characters in the font may also
+longdesc be used). This facility makes possible (for a document with
+longdesc simple mathematics) a far wider choice of text font, with
+longdesc little worry that no specially designed accompanying maths
+longdesc fonts are available. The package also offers a simple mechanism
+longdesc for using many different choices of (text hence, now, maths)
+longdesc font in the same document. Of course, using one font for two
+longdesc purposes helps produce smaller PDF files. The package, if
+longdesc running under LuaTeX, requires the TeX live 2013 distribution
+longdesc (or later).
+containersize 14936
+containerchecksum b6ad1a9a2c251dc6a90a116bd45d8b0517d0c0950258b04d98ede6c859c05ece3819533a5f1d3517d71050ec71fe5b976c78cff10c5900b9c2d409d303cdafee
+doccontainersize 495868
+doccontainerchecksum 01f033132afe98e838df96d4039ca2c8597932b67a6bef060a04dc2e3ab4b965d01d06094607a611848f32ec1b963ec9ef10e36ec7a5ead0e806d67ab7a5007c
+srccontainersize 86868
+srccontainerchecksum 64697ac3920745da40a8e44c61c299f87ea92cab736b42b53d0062032c53e60bd7fb858449e3c13741360f490eccd38b7c3ababe4cd194efccc8b9d5f7c8ae16
+runfiles size=22
+ texmf-dist/tex/latex/mathastext/mathastext.sty
+catalogue-contact-home http://jf.burnol.free.fr/mathastext.html
+catalogue-ctan /macros/latex/contrib/mathastext
+catalogue-date 2018-08-22 20:22:54 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-maths font-sel
+catalogue-version 1.3t

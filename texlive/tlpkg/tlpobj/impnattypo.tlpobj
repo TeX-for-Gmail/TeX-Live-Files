@@ -1,0 +1,20 @@
+name impnattypo
+category Package
+revision 50227
+shortdesc Support typography of l'Imprimerie Nationale Francaise
+longdesc The package provides useful macros implementing recommendations
+longdesc by the French Imprimerie Nationale.
+containersize 3476
+containerchecksum 7afd6cf1fc2738bda4f390fe7f2f9d5e1bdd33c2e6bd32b4dda5b232005589f38436813d9e5effb6feae6371896be453b608ed61c64b9bf38fd25ec400c4b101
+doccontainersize 148572
+doccontainerchecksum 086b106a965e0f469cbf3560561da7d84e4151d5430d42d87c2c52568243305e20a1bc99ec4b252237f4c61369127683ff7b629013af8c76e9dc8ea6e551e24c
+srccontainersize 9308
+srccontainerchecksum 5bf181ff35a90a1d5c7656f7ae9778305088035370cec3542fa451b055cdad6d3b1ac1cf830fb7ab7ba3d4d89ce7b96a1112575f924fb13f24b1a90fc84e24a9
+runfiles size=4
+ texmf-dist/tex/latex/impnattypo/impnattypo.sty
+catalogue-also e-french
+catalogue-ctan /macros/latex/contrib/impnattypo
+catalogue-date 2019-03-04 12:27:29 +0100
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 1.5

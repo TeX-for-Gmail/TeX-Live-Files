@@ -1,0 +1,21 @@
+name mattens
+category Package
+revision 17582
+shortdesc Matrices/tensor typesetting
+longdesc The mattens package contains the definitions to typeset
+longdesc matrices, vectors and tensors as used in the engineering
+longdesc community for the representation of common vectors and tensors
+longdesc such as forces, velocities, moments of inertia, etc.
+containersize 2844
+containerchecksum 9ae7b4d3e3386a5c9b94a30eafc02d00c9a6376ed356755ba283f7b9b43fc27d3b9dc2994d808360b77d23f39014e230434f404bcf6dc20bc974d9efae97a3dc
+doccontainersize 708948
+doccontainerchecksum d67ce30be2e20c5182460b8e567d955c41b364383acd350cba1c07b52576d78016a865148ed871ce7ef3f937eb045201e64e5d5f52fd5b173fe93cf84def2119
+srccontainersize 14384
+srccontainerchecksum d199c5fe62172d98e7184a2689c3415944128251b75ee45e0629da5200cbb7b954cef1243a165ce2713582afcdac30dcd9f1445ffcaa18a69ece0aa79391d852
+runfiles size=3
+ texmf-dist/tex/latex/mattens/mattens.sty
+catalogue-ctan /macros/latex/contrib/mattens
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths engineering
+catalogue-version 1.3

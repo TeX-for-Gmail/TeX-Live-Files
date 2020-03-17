@@ -1,0 +1,8 @@
+name pdfxup.x86_64-linux
+category Package
+revision 40690
+shortdesc x86_64-linux files of pdfxup
+containersize 336
+containerchecksum 7d3b38006bc107b5b6e232f62fb9996973027d95d3c12ca5d5b6b40e0d618054de262d34c7bf0bfb24c3a73de75da56e63cc7772db3b7ca7666db11a2ea9de36
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pdfxup

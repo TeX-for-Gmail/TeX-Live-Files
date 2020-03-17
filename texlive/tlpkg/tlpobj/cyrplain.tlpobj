@@ -1,0 +1,33 @@
+name cyrplain
+category Package
+revision 45692
+catalogue t2
+shortdesc Support for using T2 encoding
+longdesc The T2 bundle provides a variety of separate support functions
+longdesc for using Cyrillic characters in LaTeX: the mathtext package,
+longdesc for using Cyrillic letters 'transparently' in formulae; the
+longdesc citehack package, for using Cyrillic (or indeed any non-ascii)
+longdesc characters in citation keys; support for Cyrillic in BibTeX;
+longdesc support for Cyrillic in Makeindex; and various items of font
+longdesc support.
+containersize 8724
+containerchecksum 84651aeb63d3e47f208732f3c0d54ba86862d0ff7da7c56b3d8b8d1b49b6b88ed4c5f9abfb4c1c9d8a1ef8a455632aaa69408651e238bdc4aeb4eb7709f62096
+runfiles size=17
+ texmf-dist/tex/plain/cyrplain/README
+ texmf-dist/tex/plain/cyrplain/cyramstx.ini
+ texmf-dist/tex/plain/cyrplain/cyrblue.ini
+ texmf-dist/tex/plain/cyrplain/cyrcmfnt.tex
+ texmf-dist/tex/plain/cyrplain/cyrecfnt.tex
+ texmf-dist/tex/plain/cyrplain/cyrtex.cfg
+ texmf-dist/tex/plain/cyrplain/cyrtex.ini
+ texmf-dist/tex/plain/cyrplain/cyrtex.tex
+ texmf-dist/tex/plain/cyrplain/cyrtxinf.ini
+ texmf-dist/tex/plain/cyrplain/makefmts.bat
+ texmf-dist/tex/plain/cyrplain/makefmts.sh
+ texmf-dist/tex/plain/cyrplain/plainenc.tex
+ texmf-dist/tex/plain/cyrplain/txxdefs.tex
+ texmf-dist/tex/plain/cyrplain/txxextra.tex
+catalogue-ctan /macros/latex/contrib/t2
+catalogue-date 2018-05-08 17:14:58 +0200
+catalogue-license lppl
+catalogue-topics fontenc cyrillic

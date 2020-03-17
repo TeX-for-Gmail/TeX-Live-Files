@@ -1,0 +1,19 @@
+name cclicenses
+category Package
+revision 15878
+shortdesc Typeset Creative Commons licence logos
+longdesc The cclicenses package helps users typesetting Creative Commons
+longdesc logos in LaTeX. It defines some commands useful to quickly
+longdesc write these logos, related to CC licences versions 1.0 and 2.0.
+containersize 1604
+containerchecksum dca388e065610abad24a76f7dc600d9ae659973fbc47f4fc2157958aa2850d9c3bae7811418bf76effaf696386a62584c8a2ff158e98ec7a971bd1dc800424ea
+doccontainersize 81072
+doccontainerchecksum eb710fbac41527da39c26d5d27aaa84faf05e380356e9c3bc1a0c0fcb4d2dd5412f304d323ccf13084dfe8d31243698350fbdbefac07fff6cfabceed9f4d842c
+srccontainersize 4060
+srccontainerchecksum d20b1cce1635b415d7368e49a9a32ee3a61efca8d0807b67c7e92ed59604fda1fd9b9d168ac23d54b90e396d971fd421463eb1ec77009d3e077e474166afed55
+runfiles size=2
+ texmf-dist/tex/latex/cclicenses/cclicenses.sty
+catalogue-ctan /macros/latex/contrib/cclicenses
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics logo

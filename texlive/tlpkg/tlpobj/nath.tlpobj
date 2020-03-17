@@ -1,0 +1,23 @@
+name nath
+category Package
+revision 15878
+shortdesc Natural mathematics notation
+longdesc Nath is a LaTeX (both 2e and 2.09) style to separate
+longdesc presentation and content in mathematical typography. The style
+longdesc delivers a particular context-dependent presentation on the
+longdesc basis of a rather coarse context-independent notation.
+longdesc Highlighted features: depending on the context, the command
+longdesc \frac produces either built-up or case or solidus fractions,
+longdesc with parentheses added whenever required for preservation of
+longdesc the mathematical meaning; delimiters adapt their size to the
+longdesc material enclosed, rendering \left and \right almost obsolete.
+containersize 22156
+containerchecksum 2eed9bc55d9d994df8710703c5acee9fb07d8c9732288740cc3c20740bd8db1e3d22617886818ceffb0346110dcd0dbfafaf192878500b2865523d00c6e02bf0
+doccontainersize 133380
+doccontainerchecksum ea75b3f282f81963484b2f6b29513a99f3153f222931dfa811deca40cc79a814a225a0a79e67237f53e3aabd33f7749095d3c7fb8f374ec802ee054ebca291d4
+runfiles size=21
+ texmf-dist/tex/latex/nath/nath.sty
+catalogue-ctan /macros/latex/contrib/nath
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths

@@ -1,0 +1,98 @@
+name cmtiup
+category Package
+revision 39728
+shortdesc Upright punctuation with CM italic
+longdesc The cmtiup fonts address a problem with the appearance of
+longdesc punctuation in italic text in mathematical documents. To
+longdesc achieve this, all punctuation characters are upright, and
+longdesc kerning between letters and punctuation is adjusted to allow
+longdesc for the italic correction. The fonts are implemented as a set
+longdesc of vf files; a package for support in LaTeX 2e is provided.
+containersize 43612
+containerchecksum 9412576d07ec490fda4dd01445f28e4b966d2664a81e5f44a574019df1eb4de4189b8d06edf7a1a3b57e8ade129b57c0147a96fa9b77337d9a906134e33f2067
+doccontainersize 585536
+doccontainerchecksum aae6105fc9e828715193bc4d251210f23ce6f4c4d703c79c244ff765a377f90055188f8af83e705da062cea8db8bf6b89beecc488cce32d7903fb7fb8c4bcad9
+runfiles size=165
+ texmf-dist/fonts/source/public/cmtiup/cmtiup10.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiup12.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiup7.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiup8.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiup9.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiupgn.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiuplg.mf
+ texmf-dist/fonts/source/public/cmtiup/cmtiupp.mf
+ texmf-dist/fonts/tfm/public/cmtiup/cmbxtiup10.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/cmtiup10.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/cmtiup12.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/cmtiup7.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/cmtiup8.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/cmtiup9.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup0500.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup0600.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup0700.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup0800.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup0900.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup1000.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup1095.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup1200.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup1440.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup1728.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup2074.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup2488.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup2986.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ecbiup3583.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup0500.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup0600.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup0700.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup0800.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup0900.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup1000.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup1095.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup1200.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup1440.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup1728.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup2074.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup2488.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup2986.tfm
+ texmf-dist/fonts/tfm/public/cmtiup/ectiup3583.tfm
+ texmf-dist/fonts/vf/public/cmtiup/cmbxtiup10.vf
+ texmf-dist/fonts/vf/public/cmtiup/cmtiup10.vf
+ texmf-dist/fonts/vf/public/cmtiup/cmtiup12.vf
+ texmf-dist/fonts/vf/public/cmtiup/cmtiup7.vf
+ texmf-dist/fonts/vf/public/cmtiup/cmtiup8.vf
+ texmf-dist/fonts/vf/public/cmtiup/cmtiup9.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup0500.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup0600.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup0700.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup0800.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup0900.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup1000.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup1095.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup1200.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup1440.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup1728.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup2074.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup2488.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup2986.vf
+ texmf-dist/fonts/vf/public/cmtiup/ecbiup3583.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup0500.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup0600.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup0700.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup0800.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup0900.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup1000.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup1095.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup1200.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup1440.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup1728.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup2074.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup2488.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup2986.vf
+ texmf-dist/fonts/vf/public/cmtiup/ectiup3583.vf
+ texmf-dist/tex/latex/cmtiup/cmtiup.sty
+catalogue-also cmslup
+catalogue-ctan /fonts/cm/cmtiup
+catalogue-date 2017-10-29 14:38:38 +0100
+catalogue-license lppl1.3
+catalogue-topics font font-mf font-virtual
+catalogue-version 2.1

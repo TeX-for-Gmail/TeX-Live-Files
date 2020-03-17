@@ -1,0 +1,22 @@
+name tasks
+category Package
+revision 41851
+shortdesc Horizontally columned lists
+longdesc The reason for the creation of the tasks environment was an
+longdesc unwritten agreement in German maths textbooks (exspecially
+longdesc (junior) high school textbooks) to organize exercises in
+longdesc columns counting horizontally rather than vertically. This is
+longdesc what the tasks package helps to achieve.
+containersize 6556
+containerchecksum 90d3d9cb4a7361c0a6b0be4538532c88717fa5d10f6b69637717893ffb0f21dfe4ac5649ffb8fb84d24aac282115ee975a17cd5a6cff576fb570416de52c5130
+doccontainersize 464820
+doccontainerchecksum 5273910145ceea940fafb1f9237be7047747e56c636bb4e2242fb62fa71bf467c99a5e9dc5894e53cb01a2ad571bb55c6fb46ab6909809dce168e0ce067b6696
+runfiles size=8
+ texmf-dist/tex/latex/tasks/tasks.cfg
+ texmf-dist/tex/latex/tasks/tasks.sty
+catalogue-contact-repository https://github.com/cgnieder/tasks/
+catalogue-ctan /macros/latex/contrib/tasks
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics list list-enum expl3
+catalogue-version 0.12

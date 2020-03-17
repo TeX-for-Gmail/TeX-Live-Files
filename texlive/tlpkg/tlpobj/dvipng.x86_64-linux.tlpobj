@@ -1,0 +1,9 @@
+name dvipng.x86_64-linux
+category TLCore
+revision 50853
+shortdesc x86_64-linux files of dvipng
+containersize 470984
+containerchecksum ccd0a8f544e0626f3dc5fa5d6d94cb1151e4489ec15741aa7001b0d6fa023c118d1ea3f2c70389cef4db4b2e6007ab065caaa6bf73e4a4534c182e8b12b57fe8
+binfiles arch=x86_64-linux size=263
+ bin/x86_64-linux/dvigif
+ bin/x86_64-linux/dvipng

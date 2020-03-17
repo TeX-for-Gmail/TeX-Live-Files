@@ -1,0 +1,61 @@
+name europecv
+category Package
+revision 50470
+shortdesc Unofficial class for European curricula vitae
+longdesc The europecv class is an unofficial LaTeX implementation of the
+longdesc standard model for curricula vitae (the "Europass CV") as
+longdesc recommended by the European Commission. Although primarily
+longdesc intended for users in the European Union, the class is flexible
+longdesc enough to be used for any kind of curriculum vitae. The class
+longdesc has localisations for all the official languages of the EU
+longdesc (plus Catalan), as well as options permitting input in UTF-8
+longdesc and koi8-r.
+containersize 38076
+containerchecksum 474af2851e52b5b4b385ca9014bb6868494a6eb06d86d9ba7ad62cb5defca53c094a0bc3a91d62cc8d9af656adf8f8e8efd577fb6f3d940c134842d1c6a172e2
+doccontainersize 741068
+doccontainerchecksum fa6a2a0d208b7e4d87e0927d858719f522dc8ea8ff57e9db391372138b2d20447e5835662712bd81520868a0155c5209f6336a7ab3a14ff811b3da04ce11662b
+runfiles size=64
+ texmf-dist/tex/latex/europecv/EuropeFlagBW.eps
+ texmf-dist/tex/latex/europecv/EuropeFlagBW.pdf
+ texmf-dist/tex/latex/europecv/EuropeFlagBlueCMYK.eps
+ texmf-dist/tex/latex/europecv/EuropeFlagBlueCMYK.pdf
+ texmf-dist/tex/latex/europecv/EuropeFlagCMYK.eps
+ texmf-dist/tex/latex/europecv/EuropeFlagCMYK.pdf
+ texmf-dist/tex/latex/europecv/EuropeFlagWB.eps
+ texmf-dist/tex/latex/europecv/EuropeFlagWB.pdf
+ texmf-dist/tex/latex/europecv/ecvbg.def
+ texmf-dist/tex/latex/europecv/ecvca.def
+ texmf-dist/tex/latex/europecv/ecvcs.def
+ texmf-dist/tex/latex/europecv/ecvda.def
+ texmf-dist/tex/latex/europecv/ecvde.def
+ texmf-dist/tex/latex/europecv/ecven.def
+ texmf-dist/tex/latex/europecv/ecves.def
+ texmf-dist/tex/latex/europecv/ecvet.def
+ texmf-dist/tex/latex/europecv/ecvfi.def
+ texmf-dist/tex/latex/europecv/ecvfr.def
+ texmf-dist/tex/latex/europecv/ecvgl.def
+ texmf-dist/tex/latex/europecv/ecvgr.def
+ texmf-dist/tex/latex/europecv/ecvhu.def
+ texmf-dist/tex/latex/europecv/ecvis.def
+ texmf-dist/tex/latex/europecv/ecvit.def
+ texmf-dist/tex/latex/europecv/ecvlt.def
+ texmf-dist/tex/latex/europecv/ecvlv.def
+ texmf-dist/tex/latex/europecv/ecvmt.def
+ texmf-dist/tex/latex/europecv/ecvnl.def
+ texmf-dist/tex/latex/europecv/ecvno.def
+ texmf-dist/tex/latex/europecv/ecvpl.def
+ texmf-dist/tex/latex/europecv/ecvpt.def
+ texmf-dist/tex/latex/europecv/ecvro.def
+ texmf-dist/tex/latex/europecv/ecvsk.def
+ texmf-dist/tex/latex/europecv/ecvsl.def
+ texmf-dist/tex/latex/europecv/ecvsr.def
+ texmf-dist/tex/latex/europecv/ecvsv.def
+ texmf-dist/tex/latex/europecv/europasslogo.eps
+ texmf-dist/tex/latex/europecv/europasslogo.pdf
+ texmf-dist/tex/latex/europecv/europecv.cls
+catalogue-also europasscv curve currvita cv esieecv vita
+catalogue-contact-repository https://github.com/gsilano/EuropeCV
+catalogue-ctan /macros/latex/contrib/europecv
+catalogue-date 2019-03-19 16:08:26 +0100
+catalogue-license lppl
+catalogue-topics cv class

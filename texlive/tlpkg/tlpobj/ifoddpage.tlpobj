@@ -1,0 +1,24 @@
+name ifoddpage
+category Package
+revision 40726
+shortdesc Determine if the current page is odd or even
+longdesc The package provides an \ifoddpage conditional to determine if
+longdesc the current page is odd or even. The macro \checkoddpage must
+longdesc be used direct before to check the page number using a label.
+longdesc Two compiler runs are therefore required to achieve correct
+longdesc results. In addition, the conditional \ifoddpageoronside is
+longdesc provided which is also true in oneside mode where all pages use
+longdesc the odd page layout.
+containersize 1412
+containerchecksum f6ab9abdef81cbcca8728bac7e1f94e2b72e5db6a8e17ab13c8d56477e98fcf7fb20f006012c3a3cf815378d8bc9c5cc4d39e2767b7d634d1ad99bc24dc1d1d3
+doccontainersize 134588
+doccontainerchecksum 80f1431a4da340b0b2ba6f396c618e2923457e95b5de01018ef7f95937e55814e3c3e96b2f45f18e971fddd29021a16852b57bafd0b1ba50cf2626b4b784541e
+srccontainersize 4176
+srccontainerchecksum dabf25b7588f3fe4dc92c4a4e20f2293ef62878d60f1ffa01e1e9efe564b930d7cdfeada5f0e6765a88c46d55aacbbd1dc692ca26168c86690db6c229b79836e
+runfiles size=1
+ texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+catalogue-ctan /macros/latex/contrib/ifoddpage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting macro-supp
+catalogue-version 1.1

@@ -1,0 +1,33 @@
+name disser
+category Package
+revision 43417
+shortdesc Class and templates for typesetting dissertations in Russian
+longdesc Disser comprises a document class and set of templates for
+longdesc typesetting dissertations in Russian. One of its primary
+longdesc advantages is a simplicity of format specification for
+longdesc titlepage, headers and elements of automatically generated
+longdesc lists (table of contents, list of figures, etc). Bibliography
+longdesc styles, that conform to the requirements of the Russian
+longdesc standard GOST R 7.0.11-2011, are provided.
+containersize 13032
+containerchecksum 98c497bd8d422cacf639cb38ff3a489b5fcda3f92cb5a734287fc930666867eb0e9e6f6014ad42df527d3999eb5a87da28d7178b47cc53eb44a338567f952ca4
+doccontainersize 41680
+doccontainerchecksum ed0c04c0afccd7f9f68bb8f65a6497b9cbfb2bbcb5333852da7b790083e71ceec8348f6893f1e0f16bef7e4b5ca0b9d1a58ca46898dc58a02f0324a62971b916
+srccontainersize 25344
+srccontainerchecksum 9a9770eea5ab44b2265cb191bd113be4e98038a0ba8f3c92ffb837791cf59447c82caf63d50af6bace698a3b5b8a2bc25f427add6cefb436a6377df4816524b2
+runfiles size=21
+ texmf-dist/makeindex/disser/dtx.ist
+ texmf-dist/tex/latex/disser/autoref.rtx
+ texmf-dist/tex/latex/disser/bachelor.rtx
+ texmf-dist/tex/latex/disser/candidate.rtx
+ texmf-dist/tex/latex/disser/disser.cls
+ texmf-dist/tex/latex/disser/doctor.rtx
+ texmf-dist/tex/latex/disser/gost732.cls
+ texmf-dist/tex/latex/disser/master.rtx
+ texmf-dist/tex/latex/disser/specialist.rtx
+ texmf-dist/tex/latex/disser/titledefs.rtx
+catalogue-ctan /macros/latex/contrib/disser
+catalogue-date 2017-03-06 17:15:59 +0100
+catalogue-license lppl1.3
+catalogue-topics dissertation class
+catalogue-version 1.5.0

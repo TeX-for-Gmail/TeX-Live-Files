@@ -1,0 +1,17 @@
+name ptex-manual
+category Package
+revision 50733
+shortdesc Japanese pTeX manual
+longdesc This package contains the Japanese pTeX manual. Feedback is
+longdesc welcome!
+containersize 416
+containerchecksum a09a78d9c412cf812ddcb8c553650ed474516a97c7818fce68bb2222047d116cc4eae184b551f89b45eae49d0d91e902fae1025a353520dd56cb8280cdeda316
+doccontainersize 2380456
+doccontainerchecksum 539133b6f91ee252f62862760c502425b0387815c091d0a0e425bcfeda4939d44b83661b6e94de13086d7a5bb83c332b4ad998d5c23377f72d6a57f88e018488
+srccontainersize 876
+srccontainerchecksum 259963273db22746370d950e307e7cc965963a4e059d129a4bc81136069ae4137b1e2c70a621d694fa2665a05da7c937e33922983bbd6d8c6c9e8e691f7ab2c1
+catalogue-contact-repository https://github.com/texjporg/ptex-manual
+catalogue-ctan /info/ptex-manual
+catalogue-date 2019-04-03 15:24:53 +0200
+catalogue-license bsd3
+catalogue-topics japanese-doc

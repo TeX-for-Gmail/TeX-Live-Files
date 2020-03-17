@@ -1,0 +1,22 @@
+name SIstyle
+category Package
+revision 15878
+shortdesc Package to typeset SI units, numbers and angles
+longdesc This package typesets SI units, numbers and angles according to
+longdesc the ISO requirements. Care is taken with font setup and
+longdesc requirements, and language customisation is available. Note
+longdesc that this package is (in principle) superseded by siunitx;
+longdesc sistyle has maintenance-only support, now.
+containersize 3568
+containerchecksum 9473f7ef772f10ae4b70ea9d3074cbf7220ab1672076064aae9e54cf72d5007fa7e7f73c66082c53098c772a43d88af3ca1073e875c31c2821e528f8da836fd2
+doccontainersize 323440
+doccontainerchecksum 553357a037de0494641969db5a434a77984224f7fee3f64a2e153304eed6ae38548a1cf0330bb5e6cfc4f4dfdc21ceb8cd2b0659b0e27aa79a7379a82441451f
+srccontainersize 18204
+srccontainerchecksum 3d2840beed83bb3843b89b08e3a2d111bc346e221335288ae35c19f7b5a843b668a5cd0b9f60a5df270a0c0f8953cb575d27a17f534a7b7808a37ee58aa1007d
+runfiles size=3
+ texmf-dist/tex/latex/SIstyle/sistyle.sty
+catalogue-ctan /macros/latex/contrib/SIstyle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics typesetting scientific-docs
+catalogue-version 2.3a

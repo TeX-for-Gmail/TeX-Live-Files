@@ -1,0 +1,20 @@
+name cstypo
+category Package
+revision 41986
+shortdesc Czech typography rules enforced through LuaTeX hooks
+longdesc This package provides macros that enforce basic Czech
+longdesc typography rules through Lua hooks available in LuaTeX.
+containersize 2064
+containerchecksum ecc9054a0866e4926277bf5f52faf97b0b07f0ea660b7c4d089a552ab57d3a900cd1d688981770df9b3a4285c3d451fb23f1b69757381f3cbdf88cf0c88cf61c
+doccontainersize 104240
+doccontainerchecksum 1ac42bcd1cadde9165f8edceadb438c4c2e91d6a89486e56e31623cf1ffdd5f38ec800d836dc90a5a6a0bc48dfac4a8ec90192319f8f046665c77e91fc51b91d
+runfiles size=4
+ texmf-dist/tex/lualatex/cstypo/cstypo.sty
+ texmf-dist/tex/luatex/cstypo/cstypo-tex.tex
+ texmf-dist/tex/luatex/cstypo/cstypo.lua
+catalogue-contact-repository https://github.com/wilx/cstypo
+catalogue-ctan /macros/luatex/generic/cstypo
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license mit
+catalogue-topics luatex czech
+catalogue-version 0.03

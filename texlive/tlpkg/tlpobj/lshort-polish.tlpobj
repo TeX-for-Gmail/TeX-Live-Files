@@ -1,0 +1,14 @@
+name lshort-polish
+category Package
+revision 15878
+shortdesc Introduction to LaTeX in Polish
+longdesc This is the Polish translation of A Short Introduction to
+longdesc LaTeX2e.
+containersize 400
+containerchecksum 13c52981d80ae9f9da34dbd14abedc166bb0abfe3dd31ba11f684b5912869be62e61a28d57d93dd81fe46f4d694429b3406bef774fa8b18b9918989fb839bf31
+doccontainersize 1116836
+doccontainerchecksum a284230f6599cef5fadacad2a3cac07f829cc8ba35a64b798fc76839b57a8867f745ecebf75d41a0c3bce05b3b868451ee141c65fe0dd8365d1807a38b8dc237
+catalogue-ctan /info/lshort/polish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics polish-doc tut-latex

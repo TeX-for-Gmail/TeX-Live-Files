@@ -1,0 +1,21 @@
+name classpack
+category Package
+revision 33101
+shortdesc XML mastering for LaTeX classes and packages
+longdesc The package provides an experiment in using XML (specifically
+longdesc DocBook 5) to mark up and maintain LaTeX classes and packages.
+longdesc XSLT 2 styleheets generate the .dtx and .ins distribution files
+longdesc expected by end users.
+containersize 1340
+containerchecksum ac5e26d91107bb0166040c990e586b6504eccad7da3ec084a49b141a1e0fee2725939f10deef5af1c4fe89396bc8fdef86f3bd2e8de9099cbed9700867700e8a
+doccontainersize 355320
+doccontainerchecksum 6a22b10f5630a52ba85d113ddab8dacae0ab8148f62d4f9958bf3619c2d88f9a1f3c9778e41773d7b9d392ddc4d6a30dc3cb995a24072cc60b446896ca48707c
+srccontainersize 34876
+srccontainerchecksum 48762603b928b53cd9391908f2b0497e766ab516033a246aeeed014a99cd09a6e18f1feecd107067f58e3ecdad5ca37b4004890c4ec2e4bcce7e5f67e6d03724
+runfiles size=1
+ texmf-dist/tex/latex/classpack/classpack.sty
+catalogue-ctan /support/classpack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics class-supp
+catalogue-version 0.77

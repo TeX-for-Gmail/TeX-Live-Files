@@ -1,0 +1,19 @@
+name trfsigns
+category Package
+revision 15878
+shortdesc Typeset transform signs
+longdesc A package for typesetting various transformation signs for
+longdesc Laplace transforms, Fourier transforms and others.
+containersize 1476
+containerchecksum 3607b6371c2dbbd93524f0811dbf14cd93cb2556fc217899ef3a273c27158771f743bafff0fc90a582d65da431efd7ccc1f07bf92a6600a7bc301b5b6a308325
+doccontainersize 202928
+doccontainerchecksum 9bac4f4deafd62a8b113107ce47bb5ea3afe05078a3c5083b1ed790ed690bc3d73066e0abadc5cb1a3d45246f759941d6e2389105632bb6592c32a08e7b7671b
+srccontainersize 5068
+srccontainerchecksum 71aaa336a9f66af6f682cadc72b2ae100c606be7d95d76c2631dbb03ff617718c1c322288c769bb1b9b19116a29baa208fa085e2868e67ce3f7a5552d823e6e0
+runfiles size=2
+ texmf-dist/tex/latex/trfsigns/trfsigns.sty
+catalogue-ctan /macros/latex/contrib/trfsigns
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths-symbol
+catalogue-version 1.01

@@ -1,0 +1,21 @@
+name glossaries-finnish
+category Package
+revision 45604
+shortdesc Finnish language module for glossaries package
+longdesc Finnish language module for glossariesr package.
+containersize 1860
+containerchecksum f4008f165ed34678a9f9d1cc2fbf2f2dedfa66d31acb5449da6f93a8b19a7ea6b7a7a584ff7c744e92637cfa4a7c98a478b096be73a3abcbeadf7d2af00a607f
+doccontainersize 139712
+doccontainerchecksum 46ffa9e86596919c6ee001bfd425fbe0c58e890e8af3131ad89b4e5ae8ce20c8f3266f2ffae6ce039908a137180c0552b9c9f2a729bb55094f999a0bdc3443a7
+srccontainersize 2376
+srccontainerchecksum e21f3dd39d6c5adaf829657c75badfb9bfe71f57331a89ba196e34a042a03f308206f2c3cdf7e1bf5dd82ac230c0aa5c48fe982e017ea7bebf2a40bb2e664511
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-finnish/glossaries-finnish-ascii.ldf
+ texmf-dist/tex/latex/glossaries-finnish/glossaries-finnish-utf8.ldf
+ texmf-dist/tex/latex/glossaries-finnish/glossaries-finnish.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-finnish
+catalogue-date 2017-10-29 05:37:01 +0100
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

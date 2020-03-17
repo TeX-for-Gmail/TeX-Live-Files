@@ -1,0 +1,23 @@
+name guitar
+category Package
+revision 32258
+shortdesc Guitar chords and song texts
+longdesc (La)TeX macros for typesetting guitar chords over song texts.
+longdesc The toolbox package is required. Note that this package only
+longdesc places arbitrary TeX code over the lyrics. To typeset the
+longdesc chords graphically (and not only by name), the author
+longdesc recommends use of an additional package such as gchords by K.
+longdesc Peeters.
+containersize 2388
+containerchecksum fed7be24d0bff6d2a0022374e4cbb60cda508b0f99a5a96d59060247aad561c1124728f00a6d0a51b3b22f4490c6153df740a5e9d8106da23c85bb18db385195
+doccontainersize 90368
+doccontainerchecksum 4a2012e693257c2bdb4daf46a2402882caf0c8efbc65bd6679c9eb11440ae75f09d31369839f84312bd1028207d8aa23a745847be1e762dea977ecd7f73b4a87
+srccontainersize 12096
+srccontainerchecksum 26b552a91240900b54a3266f26e9f439c46315bb9558d95ae5b27f518a7f5ffdcc1990a4ef676e9186b5492d4a66826754c4d34e13e82b9bd912ff74d14cd185
+runfiles size=2
+ texmf-dist/tex/latex/guitar/guitar.sty
+catalogue-ctan /macros/latex/contrib/guitar
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics music chords
+catalogue-version 1.6

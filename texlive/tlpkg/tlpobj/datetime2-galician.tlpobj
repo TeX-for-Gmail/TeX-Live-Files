@@ -1,0 +1,23 @@
+name datetime2-galician
+category Package
+revision 47631
+shortdesc Galician language module for the datetime2 package
+longdesc This module provides the "galician" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2508
+containerchecksum 050dd3e5db5aaae106804a315e679cdee0a4e9fc2d10481f21059c410a73492d6e41d9db070bbe5112377a4f1dbec3345bc5f87efba998130cb20e31a443bf34
+doccontainersize 81096
+doccontainerchecksum 881250aaf53eba33ee223e5d87f0d8d4081785ea723d5f2e605d04767aed63b2fd8a592eabddd4343c489f1abd809218c600aa5df2447b24bf0465e7a31c8ff5
+srccontainersize 4700
+srccontainerchecksum 671230a9b4da0cfec5c1afd50db2ec103c1712006c70be0c9d6d1eec637461005673c73dd1c457561e54af1409072fab111e7d93e785a91ccc6dd0cbbb497127
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-galician/datetime2-galician-ascii.ldf
+ texmf-dist/tex/latex/datetime2-galician/datetime2-galician-utf8.ldf
+ texmf-dist/tex/latex/datetime2-galician/datetime2-galician.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-galician
+catalogue-date 2018-01-07 11:37:20 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.0

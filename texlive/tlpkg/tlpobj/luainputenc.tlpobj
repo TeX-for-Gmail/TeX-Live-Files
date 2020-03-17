@@ -1,0 +1,28 @@
+name luainputenc
+category Package
+revision 20491
+shortdesc Replacing inputenc for use in LuaTeX
+longdesc LuaTeX operates by default in UTF-8 input; thus LaTeX documents
+longdesc that need 8-bit character-sets need special treatment. (In
+longdesc fact, LaTeX documents using UTF-8 with "traditional" --
+longdesc 256-glyph -- fonts also need support from this package.) The
+longdesc package, therefore, replaces the LaTeX standard inputenc for
+longdesc use under LuaTeX. With a current LuaTeX,the package has the
+longdesc same behaviour with LuaTeX as inputenc has under pdfTeX.
+containersize 5036
+containerchecksum bc3f05260800cc537436377c1f9fbcfc6a1a60a7fd892af23ab323171208b083c08c8bb2a5d299e4ce09468f66197d43f68717a57e649c50caf74b736cdb06db
+doccontainersize 405692
+doccontainerchecksum 7c6093b3fa622007aa7e6cc852076090e1bcc64e9b890d1ff0cf6ae552a21e930e791d32cdc2238a0f60c605c92a2192dad7e9d423a2d6e013582926957da58f
+srccontainersize 12408
+srccontainerchecksum a9ae3dcacf7ed85f5ff63e32c9fd66ad6860e149c3d2737bcfad870137b242797b8a3f62e90f290931e6884c74f70a0716c72f2e5414cb8406e5ec0141f13831
+runfiles size=8
+ texmf-dist/tex/lualatex/luainputenc/luainputenc.lua
+ texmf-dist/tex/lualatex/luainputenc/luainputenc.sty
+ texmf-dist/tex/lualatex/luainputenc/lutf8.def
+ texmf-dist/tex/lualatex/luainputenc/lutf8x.def
+catalogue-contact-repository https://github.com/lualatex/luainputenc
+catalogue-ctan /macros/luatex/latex/luainputenc
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license pd
+catalogue-topics inputenc luatex
+catalogue-version 0.973

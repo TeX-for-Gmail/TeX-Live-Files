@@ -1,0 +1,20 @@
+name biblatex-anonymous
+category Package
+revision 48548
+shortdesc A tool to manage anonymous work with BibLaTeX
+longdesc The package provides tools to help manage anonymous work with
+longdesc BibLaTeX. It will be useful, for example, in history or
+longdesc classical philology.
+containersize 1608
+containerchecksum 3a3cc037e3ce718c219e4bd4e380075d4a92d85cd1f490b8ffee10c5b80bb9e515f1f170b53eae033ea064cac2ddb3bb285655482e5cd65801403584fb9e215e
+doccontainersize 62380
+doccontainerchecksum 11b4a4f281068004c2bb11028200bf7f8b1461b4b40d0b52b60d60f145b3e9ea38fb672ae532d8430b0ed889df631b1dbeabcef5e9373b720d4a3c3354254789
+runfiles size=1
+ texmf-dist/tex/latex/biblatex-anonymous/biblatex-anonymous.sty
+catalogue-contact-bugs https://github.com/maieul/biblatex-anonymous/issues
+catalogue-contact-repository https://github.com/maieul/biblatex-anonymous
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-anonymous
+catalogue-date 2018-09-02 14:32:32 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 2.6.2

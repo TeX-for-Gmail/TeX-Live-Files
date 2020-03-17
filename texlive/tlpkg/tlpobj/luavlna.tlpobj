@@ -1,0 +1,39 @@
+name luavlna
+category Package
+revision 47892
+shortdesc Prevent line breaks after single letter words, units, or adademic titles
+longdesc In some languages, like Czech or Polish, there should be no
+longdesc single letter words at the end of a line, according to
+longdesc typographical norms. This package handles such situations using
+longdesc LuaTeX's callback mechanism. In doing this, the package can
+longdesc detect languages used in the text and insert spaces only in
+longdesc parts of the document where languages requiring this feature
+longdesc are used. Another feature of this package is the inclusion of
+longdesc non-breakable space after initials (like in personal names),
+longdesc after or before academic degrees, and between numbers and
+longdesc units. The package supports both plain LuaTeX and LuaLaTeX.
+longdesc BTW: "vlna" is the Czech word for "wave" or "curl" and also
+longdesc denotes the tilde which, in TeX, is used for "unbreakable
+longdesc spaces".
+containersize 5984
+containerchecksum 1dba9aa8285beb7091b0b4d7d6e19ffceffa4cc7dfaeba4954ce9f6af31ade813bd42414f9c836149e75f24cdb589c5ec930629261629d3285a087a004a295a0
+doccontainersize 90728
+doccontainerchecksum 8c964c659d9a7e55496b03c6b402dd33d25fa11312980502a1e92006e2290975d59e24883d4126e67723fcabe110c1b2803e00cb10fa1d16c5776e2f1c2503d6
+runfiles size=11
+ texmf-dist/tex/luatex/luavlna/luavlna-csplain-langs.lua
+ texmf-dist/tex/luatex/luavlna/luavlna-langno.lua
+ texmf-dist/tex/luatex/luavlna/luavlna-predegrees.lua
+ texmf-dist/tex/luatex/luavlna/luavlna-presi.lua
+ texmf-dist/tex/luatex/luavlna/luavlna-si.lua
+ texmf-dist/tex/luatex/luavlna/luavlna-sufdegrees.lua
+ texmf-dist/tex/luatex/luavlna/luavlna.4ht
+ texmf-dist/tex/luatex/luavlna/luavlna.lua
+ texmf-dist/tex/luatex/luavlna/luavlna.sty
+catalogue-also encxvlna xevlna
+catalogue-contact-bugs https://github.com/michal-h21/luavlna/issues
+catalogue-contact-repository https://github.com/michal-h21/luavlna
+catalogue-ctan /macros/luatex/generic/luavlna
+catalogue-date 2018-06-01 05:09:44 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting czech slovak polish luatex
+catalogue-version 0.1b

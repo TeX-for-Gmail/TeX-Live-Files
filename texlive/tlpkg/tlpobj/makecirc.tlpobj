@@ -1,0 +1,22 @@
+name makecirc
+category Package
+revision 15878
+shortdesc A MetaPost library for drawing electrical circuit diagrams
+longdesc MakeCirc is a MetaPost library that contains diverse symbols
+longdesc for use in circuit diagrams. MakeCirc offers a high quality
+longdesc tool, with a simple syntax. MakeCirc is completely integrated
+longdesc with LaTeX documents and with other MetaPost drawing/graphic.
+longdesc Its output is a PostScript file. MakeCirc only requires (La)TeX
+longdesc and MetaPost to work.
+containersize 12296
+containerchecksum 9bba91e5139b90201e232aa3fa21254c5bf8d989aedaec8310209ae6b772d24d7b8c3be379909f04c2c7ff079cca10f43a1f74091a77bb1b8ca637a0743a2ef2
+doccontainersize 473276
+doccontainerchecksum 25190b3a5d911de1d02fa596f604527006f3adf7512afae397e5ba15ab62d6471ab834f92437d35a9f37ed83c8b84990d79ef0fd9ce2b0edfffdfaa2ec97a345
+runfiles size=15
+ texmf-dist/metapost/makecirc/ejemplos.mp
+ texmf-dist/metapost/makecirc/latex.mp
+ texmf-dist/metapost/makecirc/makecirc.mp
+catalogue-ctan /graphics/metapost/contrib/macros/makecirc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics diagram-circ

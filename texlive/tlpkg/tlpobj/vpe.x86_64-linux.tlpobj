@@ -1,0 +1,8 @@
+name vpe.x86_64-linux
+category Package
+revision 8601
+shortdesc x86_64-linux files of vpe
+containersize 336
+containerchecksum b94502124ec1649e80f2acb7ccc5c517a294558997938f1c1589cea13245eda9e412cf1cade5fded461f50c09e84d2844abf710ce0833e211edf71e6929f9c6f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/vpe

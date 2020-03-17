@@ -1,0 +1,22 @@
+name ycbook
+category Package
+revision 46201
+shortdesc A versatile book class
+longdesc This class is intended to be an interpretation of the mwbk
+longdesc class which is a part of the mwcls package. The mwcls classes
+longdesc are simple, yet powerful and customizable classes that allow
+longdesc the end-user to customize the layout of headers, headings etc.
+longdesc They also have the benefit of being more economic in space than
+longdesc the most common LaTeX classes, while keeping a clear appearance
+longdesc and a smooth flow.
+containersize 4708
+containerchecksum 8b98cd81e5f1252063da8dc297eb5580d06020a343638f7c8a1090a7f056a788eb4322e286f12d821be79fc7de94262a4ff15c14a1c787be0de89ddc87541452
+doccontainersize 124828
+doccontainerchecksum 45ee725849230549b4b2f200e0b140c1fc99a60d91730a42d2e3df63e828eb6053845a2eb84ff25bf916341df46a3f3c01166848afb291d322dfb21426903644
+runfiles size=5
+ texmf-dist/tex/latex/ycbook/ycbook.cls
+catalogue-also mwcls
+catalogue-ctan /macros/latex/contrib/ycbook
+catalogue-date 2018-01-02 23:40:15 +0100
+catalogue-license lppl1.3c
+catalogue-topics book-pub class

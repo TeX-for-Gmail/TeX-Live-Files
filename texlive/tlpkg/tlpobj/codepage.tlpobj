@@ -1,0 +1,26 @@
+name codepage
+category Package
+revision 21126
+shortdesc Support for variant code pages
+longdesc The package provides a mechanism for inputting non-ASCII text.
+longdesc Nowadays, the job is mostly done by the inputenc package in the
+longdesc LaTeX distribution.
+containersize 10948
+containerchecksum cf402a9b00c08f030e108663ef6737f4db63407f576b3088ab336fde3d95aaa49a7c672c112d19ccaf7f6920657f6192e29945cfa76e78b2d16b266c542901b4
+doccontainersize 257732
+doccontainerchecksum d46cea964ebb8399d1a868de3cc8e535fb8ee09557329334129fba67cfe5e73975d651774b3a8bed48dd623d355ed1c8c8518da8c78b0ac5af3c82ec4a0e11a8
+srccontainersize 24136
+srccontainerchecksum b3f850cc771dce7720d2b0bae922555b9b83a74104313e5e3bdb9591003ae81302041dd94737809d0145168e07a5182769d0863b67056a993def42e3dd061e40
+runfiles size=26
+ texmf-dist/tex/latex/codepage/code437.tex
+ texmf-dist/tex/latex/codepage/code850.tex
+ texmf-dist/tex/latex/codepage/codeiso1.tex
+ texmf-dist/tex/latex/codepage/codemac.tex
+ texmf-dist/tex/latex/codepage/codepage.sty
+ texmf-dist/tex/latex/codepage/initcar.tex
+ texmf-dist/tex/latex/codepage/shapecm.tex
+ texmf-dist/tex/latex/codepage/shapedc.tex
+catalogue-ctan /macros/latex/contrib/codepage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics inputenc

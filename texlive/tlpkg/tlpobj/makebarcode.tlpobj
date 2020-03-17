@@ -1,0 +1,22 @@
+name makebarcode
+category Package
+revision 15878
+shortdesc Print various kinds 2/5 and Code 39 bar codes
+longdesc The package contains macros for printing various 2/5 bar codes
+longdesc and Code 39 bar codes. The macros do not use fonts but create
+longdesc the bar codes directly using vertical rules. It is therefore
+longdesc possible to vary width to height ratio, ratio of thin and thick
+longdesc bars. The package is therefore convenient for printing ITF bar
+longdesc codes as well as bar codes for identification labels for HP
+longdesc storage media.
+containersize 4928
+containerchecksum a19268b5e63e577b4df9255e4c0eac640c73ac9e08f6d4b4baaff7920f714b7dd961f8143587b59478df2d854dc2f363312833c7636d08c2aab644a25b54bb40
+doccontainersize 272060
+doccontainerchecksum ecd0121f679d7e4ffb162c151dc4b60acc78f9297d3bf0003882b914f0b1a10a52b43e844c5bb085d73ac08f9f0aa2e768ec4fe7374067ae2fcf304e842a29e3
+runfiles size=5
+ texmf-dist/tex/latex/makebarcode/makebarcode.sty
+catalogue-ctan /macros/latex/contrib/makebarcode
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics barcode
+catalogue-version 1.0

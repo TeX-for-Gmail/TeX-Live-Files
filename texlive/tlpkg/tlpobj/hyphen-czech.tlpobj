@@ -1,0 +1,20 @@
+name hyphen-czech
+category TLCore
+revision 50792
+shortdesc Czech hyphenation patterns.
+longdesc Hyphenation patterns for Czech in T1/EC and UTF-8 encodings.
+longdesc Original patterns 'czhyphen' are still distributed in the
+longdesc 'csplain' package and loaded with ISO Latin 2 encoding (IL2).
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=czech 	lefthyphenmin=2 	righthyphenmin=3 	file=loadhyph-cs.tex 	file_patterns=hyph-cs.pat.txt 	file_exceptions=hyph-cs.hyp.txt
+containersize 15908
+containerchecksum 9c49567abdb93298c58dc914a7d68c4b305947a4863a0fd06758d4516427596458d95e031f7264297278d5fb242205781bda244121eed135967a5a9cd2e6836a
+runfiles size=23
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-cs.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-cs.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-cs.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cs.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cs.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cs.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-cs.pat.txt

@@ -1,0 +1,23 @@
+name titlecaps
+category Package
+revision 36170
+shortdesc Setting rich-text input into Titling Caps
+longdesc The package is intended for setting rich text into titling
+longdesc capitals (in which the first character of words are
+longdesc capitalized). It automatically accounts for diacritical marks
+longdesc (like umlauts), national symbols (like "ae"), punctuation, and
+longdesc font changing commands that alter the appearance or size of the
+longdesc text. It allows a list of predesignated words to be protected
+longdesc as lower-cased, and also allows for titling exceptions of
+longdesc various sorts.
+containersize 4148
+containerchecksum 683240554b79bbf4f7e4f31653c5c633e93c74d71dd26232587de4d0d8ea012d350d0d43d508e9e9d8be4369d4ea9df996283c818583e573d4bc5fc379e4da4c
+doccontainersize 261184
+doccontainerchecksum 7025b5f9d53b65e228520a5e79fcbbf928ddc2f0fe071016a8c3726dca3e9b428b80749bce53438eb7a882a4660c2a10a4ee85e24ae5a26522b78d6a1dde4584
+runfiles size=4
+ texmf-dist/tex/latex/titlecaps/titlecaps.sty
+catalogue-ctan /macros/latex/contrib/titlecaps
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 1.2

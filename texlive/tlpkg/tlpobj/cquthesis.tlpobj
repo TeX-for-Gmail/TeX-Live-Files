@@ -1,0 +1,28 @@
+name cquthesis
+category Package
+revision 46863
+shortdesc LaTeX Thesis Template for Chongqing University
+longdesc CQUThesis stands for Chongqing University Thesis Template for
+longdesc LaTeX, bearing the ability to support bachelor, master, doctor
+longdesc dissertations with grace and speed.
+containersize 16112
+containerchecksum 25ef18dcaf17fdab6708bc9cb66b13aac4bd62bda6ff571814a2d72ab957f12b24823d6931c81aa7100bbfd88b870da0d483ba1552b75886363fadb068cb887c
+doccontainersize 1091424
+doccontainerchecksum e6e1789d8f60b3ae13be99d44d7c74af8c5d16a442ebcccaa17ff40f088e32834b810a986e35283b027e697d036ce68840965fe420bc7d5e894abe7979a20664
+srccontainersize 30292
+srccontainerchecksum be97186b73fca976b38a4d05a3542bc8db9a36bb587851057a13b8d9bd6cf79b9d2017ce03b1b5afe1a5db61c795b36cb2e419b9ca6cd0e532e6450c2449bbfb
+runfiles size=18
+ texmf-dist/bibtex/bst/cquthesis/cqunumerical.bst
+ texmf-dist/tex/latex/cquthesis/cquthesis.cfg
+ texmf-dist/tex/latex/cquthesis/cquthesis.cls
+ texmf-dist/tex/latex/cquthesis/cquthesis.sty
+catalogue-also cqubeamer
+catalogue-contact-announce https://github.com/nanmu42/CQUThesis/releases
+catalogue-contact-bugs https://github.com/nanmu42/CQUThesis/issues
+catalogue-contact-development https://github.com/nanmu42/CQUThesis/blob/master/CONTRIBUTORS.md
+catalogue-contact-repository https://github.com/nanmu42/CQUThesis
+catalogue-ctan /macros/latex/contrib/cquthesis
+catalogue-date 2018-05-06 17:51:43 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation class chinese
+catalogue-version 1.30

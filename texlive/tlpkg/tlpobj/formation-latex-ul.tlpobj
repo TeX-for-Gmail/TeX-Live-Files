@@ -1,0 +1,20 @@
+name formation-latex-ul
+category Package
+revision 50205
+shortdesc Introductory LaTeX course in French
+longdesc This package contains the supporting documentation, slides,
+longdesc exercise files, and templates for an introductory LaTeX course
+longdesc (in French) prepared for Universite Laval, Quebec, Canada.
+containersize 552
+containerchecksum d705a402a4ba61f232e559e6a610646180f22f47df251d2731cf8f62a9edd26d60be53ad969ae0bb8d02a767b302df18b88c048ed1536b3677b7199d347e35d8
+doccontainersize 2882728
+doccontainerchecksum 5bf8c412d061a5ce30ea3af713af400eded6a0f75ee019fc9f6e40623c3203839f718eb4b630282ec700871cf4b0cfe68ff38d43cb50f53560184d7d44d528e2
+srccontainersize 2277760
+srccontainerchecksum 51a77394f3471dd2fe6b29717c89cc8d2f6f0a126ad84d5973bb1d3a8600539148be0450b1e5f5cde7070224ea02b09ed9b871f743ec82c78640b9ab54ae602d
+catalogue-contact-home https://vigou3.github.io/formation-latex-ul
+catalogue-contact-repository https://gitlab.com/vigou3/formation-latex-ul
+catalogue-ctan /info/formation-latex-ul
+catalogue-date 2019-03-02 08:51:04 +0100
+catalogue-license cc-by-4
+catalogue-topics course-material tut-latex french-doc
+catalogue-version 2019.03

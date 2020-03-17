@@ -1,0 +1,36 @@
+name sansmathaccent
+category Package
+revision 30187
+shortdesc Correct placement of accents in sans-serif maths
+longdesc Sans serif maths (produced by the beamer class or the sfmath
+longdesc package) often has accents positioned incorrectly. The package
+longdesc fixes the positioning of such accents when the default font
+longdesc (cmssi) is used for sans serif maths.
+execute addMap sansmathaccent.map
+containersize 10580
+containerchecksum cbd8d7cdae74d34afc00da3e300cfe6e40b2217b6060732df0ff76a6484ab8dfc8c8921e3552a4cb06a1acd05de07d490a956464df3de97bc987a8a11cca32f0
+doccontainersize 157400
+doccontainerchecksum 38cee91050b9b38cd5ad84b755782177854f9208e73205d51cc419feab34461a37a557660920412b936c8e7a9f9e1554574a1bd61a36c000f2422c709043666f
+runfiles size=19
+ texmf-dist/fonts/map/dvips/sansmathaccent/sansmathaccent.map
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi10.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi12.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi17.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi8.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssi9.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssxi10.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssxi12.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssxi17.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssxi8.tfm
+ texmf-dist/fonts/tfm/public/sansmathaccent/mathkerncmssxi9.tfm
+ texmf-dist/fonts/vf/public/sansmathaccent/mathkerncmssxi10.vf
+ texmf-dist/fonts/vf/public/sansmathaccent/mathkerncmssxi12.vf
+ texmf-dist/fonts/vf/public/sansmathaccent/mathkerncmssxi17.vf
+ texmf-dist/fonts/vf/public/sansmathaccent/mathkerncmssxi8.vf
+ texmf-dist/fonts/vf/public/sansmathaccent/mathkerncmssxi9.vf
+ texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+ texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+catalogue-ctan /fonts/sansmathaccent
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-virtual font-supp-maths

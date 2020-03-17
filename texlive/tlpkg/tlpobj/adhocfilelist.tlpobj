@@ -1,0 +1,25 @@
+name adhocfilelist
+category Package
+revision 29349
+shortdesc '\listfiles' entries from the command line
+longdesc The package provides a Unix shell script to display a list of
+longdesc LaTeX \Provides...-command contexts on screen. Provision is
+longdesc made for controlling the searches that the package does. The
+longdesc package was developed on a Unix-like system, using (among other
+longdesc things) the gnu variant of the find command.
+depend adhocfilelist.ARCH
+containersize 3600
+containerchecksum 57436dae1489c0f614c4b002f83d34a711398a762ac532b44b1d91a51d068462aaedb5b034923629f7630f039988452eb833d1e98af389c788091517bbee8954
+doccontainersize 9876
+doccontainerchecksum 14bde143bf3ffa3f2b972f93544089e4c0314c7696e1d711719549b7e831278c66fee0676665fe6eaaac744689d613dce159e4eee2e3f9c24dbbe602794fc62e
+srccontainersize 16408
+srccontainerchecksum 15e7f652408c5975ba47131109e0d18bcb1d270e0ea630a9a3ff385e499cf3607a366e708a5ec9559d7ccc2a5e0b2d3d0f5f615142978a918b0bd1bd0218a30d
+runfiles size=5
+ texmf-dist/scripts/adhocfilelist/adhocfilelist.sh
+ texmf-dist/scripts/adhocfilelist/herelist.sh
+ texmf-dist/tex/support/adhocfilelist/adhocfilelist.RLS
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /support/adhocfilelist
+catalogue-date 2017-05-05 20:18:45 +0200
+catalogue-license lppl
+catalogue-topics doc-debug

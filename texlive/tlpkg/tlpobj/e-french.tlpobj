@@ -1,0 +1,57 @@
+name e-french
+category Package
+revision 50292
+shortdesc Comprehensive LaTeX support for French-language typesetting
+longdesc E-french is a distribution that keeps alive the work of Bernard
+longdesc Gaulle (now deceased), under a free licence. It replaces the
+longdesc old "full" frenchpro (the "professional" distribution) and the
+longdesc light-weight frenchle packages.
+containersize 50148
+containerchecksum a60602d8013a6b0510b4289f926daaa7bdbc90e39420e3c97d2e0be675a3f6cf4125ac482d8875037d6879a4fb943e681af00b0f8cbb6ff8b4024f700df36a07
+doccontainersize 2730936
+doccontainerchecksum a03b05e9db7be54d93c87d1ce03211c57ac8557dd103a940497ef93c1628b5dcf46bc50e929badd9cd5149fc36071dabe8732811c7bf7228b0214d300cfd8a52
+runfiles size=102
+ texmf-dist/makeindex/e-french/fridx1.ist
+ texmf-dist/makeindex/e-french/fridx2.ist
+ texmf-dist/makeindex/e-french/fridx3.ist
+ texmf-dist/makeindex/e-french/fridx4.ist
+ texmf-dist/tex/generic/e-french/deutschx.mlp
+ texmf-dist/tex/generic/e-french/efrench.sty
+ texmf-dist/tex/generic/e-french/efrenchu.tex
+ texmf-dist/tex/generic/e-french/epreuve.sty
+ texmf-dist/tex/generic/e-french/fenglish.sty
+ texmf-dist/tex/generic/e-french/frabbrev-u8.tex
+ texmf-dist/tex/generic/e-french/frabbrev.tex
+ texmf-dist/tex/generic/e-french/francais.mlp
+ texmf-dist/tex/generic/e-french/french-msg.tex
+ texmf-dist/tex/generic/e-french/french.all
+ texmf-dist/tex/generic/e-french/french.cfg
+ texmf-dist/tex/generic/e-french/french.chk
+ texmf-dist/tex/generic/e-french/french.cmd
+ texmf-dist/tex/generic/e-french/french.dmy
+ texmf-dist/tex/generic/e-french/french.sty
+ texmf-dist/tex/generic/e-french/french_french-msg.tex
+ texmf-dist/tex/generic/e-french/frenchle.cfg
+ texmf-dist/tex/generic/e-french/frenchle.sty
+ texmf-dist/tex/generic/e-french/frenchpro.sty
+ texmf-dist/tex/generic/e-french/frhyphex.tex
+ texmf-dist/tex/generic/e-french/fxabbrev.tex
+ texmf-dist/tex/generic/e-french/german_french-msg.tex
+ texmf-dist/tex/generic/e-french/internat.mlp
+ texmf-dist/tex/generic/e-french/mlp-01.sty
+ texmf-dist/tex/generic/e-french/mlp-33.sty
+ texmf-dist/tex/generic/e-french/mlp-49.sty
+ texmf-dist/tex/generic/e-french/mlp-49n.sty
+ texmf-dist/tex/generic/e-french/mlp-opts.sty
+ texmf-dist/tex/generic/e-french/mlp.sty
+ texmf-dist/tex/generic/e-french/ndeutsch.mlp
+ texmf-dist/tex/generic/e-french/noesterr.mlp
+ texmf-dist/tex/generic/e-french/oesterre.mlp
+ texmf-dist/tex/generic/e-french/pmfrench.sty
+catalogue-contact-home http://www.efrench.org/
+catalogue-contact-repository https://svn.tuxfamily.org/viewvc.cgi/efrench_efrenchsources/trunk/
+catalogue-ctan /language/french/e-french
+catalogue-date 2019-03-08 11:23:56 +0100
+catalogue-license lppl1.3
+catalogue-topics french
+catalogue-version 6.1

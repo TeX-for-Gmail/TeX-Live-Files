@@ -1,0 +1,30 @@
+name stix2-otf
+category Package
+revision 47549
+shortdesc OpenType Unicode text and maths fonts
+longdesc The Scientific and Technical Information eXchange (STIX) fonts
+longdesc are intended to satisfy the demanding needs of authors,
+longdesc publishers, printers, and others working in the scientific,
+longdesc medical, and technical fields. They combine a comprehensive
+longdesc Unicode-based collection of mathematical symbols and alphabets
+longdesc with a set of text faces suitable for professional publishing.
+longdesc The fonts are available royalty-free under the SIL Open Font
+longdesc License.
+containersize 712924
+containerchecksum e6601feee43cec80ce65ac29f3b02109dcafb11558caad46701b5e5e694cd9472ad50bb64c591aa8afa36c1937c0c262419210f2f49d2bbdc8096feac04e70a1
+doccontainersize 581144
+doccontainerchecksum 92c11500c74ce84a1840e0ae51efa0d81109d0460448d37dc6b00eaf90cde38d1c9fa5ea9d7345e5e22d276bf13c35b885f4842713efb195ea7d10ae364a9d4c
+runfiles size=586
+ texmf-dist/fonts/opentype/public/stix2-otf/STIX2Math.otf
+ texmf-dist/fonts/opentype/public/stix2-otf/STIX2Text-Bold.otf
+ texmf-dist/fonts/opentype/public/stix2-otf/STIX2Text-BoldItalic.otf
+ texmf-dist/fonts/opentype/public/stix2-otf/STIX2Text-Italic.otf
+ texmf-dist/fonts/opentype/public/stix2-otf/STIX2Text-Regular.otf
+catalogue-contact-bugs https://github.com/stipub/stixfonts/issues
+catalogue-contact-home http://www.stixfonts.org/
+catalogue-contact-repository https://github.com/stipub/stixfonts
+catalogue-ctan /fonts/stix2-otf
+catalogue-date 2018-05-02 06:34:24 +0200
+catalogue-license ofl
+catalogue-topics font font-otf font-maths font-symbol font-symbol-maths font-body font-collection font-nonroman font-serif
+catalogue-version 2.0.0

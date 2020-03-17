@@ -1,0 +1,21 @@
+name constants
+category Package
+revision 15878
+shortdesc Automatic numbering of constants
+longdesc The package provides a way to number constants in a
+longdesc mathematical proof automatically, with a system for
+longdesc labelling/referencing. In addition, several families of
+longdesc constants (with different symbols) may be defined.
+containersize 2196
+containerchecksum c4f807315c7f95fe7945e937e750ea18c346a8ecabb80a39922a9b861e3cce3956db31c55e68a0d3417406284d7187fd3b1d1c336c0a130eabb07e4bb60503ca
+doccontainersize 91104
+doccontainerchecksum 2712e46552a8391b0f2a95991368882a393007788cebabe7ed6c5a604eb2085b4bf00749c6fde3c88028904b7117cd4865b964d11eb443c6939e734495d4df2b
+srccontainersize 7084
+srccontainerchecksum 6ea97687aa1f8f1772ba82a09b251c557b3cbacd056a27fc45412c9d72161d04814c9478bc495ca78ba2f8796ba44b3c29ff70f94382cf173b3e6ea2eb7dead3
+runfiles size=2
+ texmf-dist/tex/latex/constants/constants.sty
+catalogue-ctan /macros/latex/contrib/constants
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 1.0

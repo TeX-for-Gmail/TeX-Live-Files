@@ -1,0 +1,21 @@
+name logbox
+category Package
+revision 24499
+shortdesc e-TeX showbox facilities for exploration purposes
+longdesc The command \logbox does \showbox without stopping the
+longdesc compilation. The package's main command is \viewbox*: the box
+longdesc is typeset (copied) with its dimensions, and its contents are
+longdesc logged in the .log file.
+containersize 1444
+containerchecksum 0c6f9d401c81344465d6eaa6eb6e655443c4af1622bfb6751db508638e2625aba7b5e77780fbb6453eee40b8a7ddba84d70ceca8882049779db61f83e7a15aee
+doccontainersize 588824
+doccontainerchecksum 21f379c88638ee8499e7e47abb0850822a08d520aabb352e0f85ed0c38950aa71b4f9b3d430c31193de5640a915d0c84dc28fba71443d3f2e461a2dac53e2b9a
+srccontainersize 7324
+srccontainerchecksum 3123ed1fef39d4a252159c65e0cf938933f2ab4c693d8f7364f20e60accb20e32fcd9da8828019a8cefae1fb874605ffbcf88dd7123fff91871858cb5694a985
+runfiles size=1
+ texmf-dist/tex/latex/logbox/logbox.sty
+catalogue-ctan /macros/latex/contrib/logbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.0

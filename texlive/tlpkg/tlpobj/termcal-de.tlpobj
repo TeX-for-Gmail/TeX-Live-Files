@@ -1,0 +1,24 @@
+name termcal-de
+category Package
+revision 47111
+shortdesc German localization for termcal
+longdesc This package provides a German localization to the termcal
+longdesc package written by Bill Mitchell, which is intended to print a
+longdesc term calendar for use in planning a class. termcal-de depends
+longdesc on the following other packages: termcal, pgfkeys, pgfopts,
+longdesc datetime2, and datetime2-german.
+containersize 2164
+containerchecksum 9d4d0be3e26dc69fa3986fbe41099330e97cdd4d3aa0b12a180657577ef839878aea9e546a5651cdd0ea45e7af3968c5b83b509ad5bb3ef210d42af5c00fd91b
+doccontainersize 107488
+doccontainerchecksum 48f0ec01526f75e9e2b8369f8b30bbd8e4f093cc91fd5b485a36e225de35fa0afc750508b6533f2ec82ef123805788e40e98d5459dc85a73bef675162e682fa7
+srccontainersize 9640
+srccontainerchecksum 51d257533f7897d6b605a2ac26f323e3c241cb6920b329387f1be3bfc8444e98570f2dc4f86e78e81f5838204a90a7f79074989737005f035e076c41be74f4a3
+runfiles size=2
+ texmf-dist/tex/latex/termcal-de/termcal-de.sty
+catalogue-contact-bugs https://github.com/SFr682k/termcal-de/issues
+catalogue-contact-repository https://github.com/SFr682k/termcal-de
+catalogue-ctan /macros/latex/contrib/termcal-de
+catalogue-date 2018-03-24 09:28:30 +0100
+catalogue-license lppl1.3c
+catalogue-topics calendar german
+catalogue-version 2.0

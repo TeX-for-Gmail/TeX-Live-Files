@@ -1,0 +1,18 @@
+name gene-logic
+category Package
+revision 15878
+shortdesc Typeset logic formulae, etc
+longdesc The package provides a facility to typeset certain logic
+longdesc formulae. It provides an environment like eqnarray, a
+longdesc newtheorem-like environment (NewTheorem), and several macros.
+containersize 2004
+containerchecksum b7cdc0d653aa8e25d763ca4115fa6fc857ddae35ed835aee6b6a204ba83d01ab91928b00248c40677ba132ef113276912a6b85dfd456d937114a3263a1ef4c7f
+doccontainersize 66856
+doccontainerchecksum db358777af18e7d2e93dc23084bec0f47270b4cb6c6078382a1eb9ce288aed06a6f55fc30ce728b1312d06f871458fc6b5b697b1073316e8f727b5ee80f99468
+runfiles size=2
+ texmf-dist/tex/latex/gene-logic/gn-logic14.sty
+catalogue-ctan /macros/latex/contrib/gene/logic
+catalogue-date 2016-07-17 13:14:32 +0200
+catalogue-license other-free
+catalogue-topics maths
+catalogue-version 1.4

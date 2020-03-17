@@ -1,0 +1,18 @@
+name syntax
+category Package
+revision 15878
+catalogue syntax2
+shortdesc Creation of syntax diagrams
+longdesc Create syntax diagrams using special environments and commands
+longdesc to represent the diagram structure.
+containersize 2632
+containerchecksum be1e049a98cd7e45cec9675e707575107af9c613028012b8fbfa658c6c9cbbac5782d3a7111f37edc719fb90e7c168c9a98a3d30a4c997b6ac4ed0691fc7fdc3
+doccontainersize 104576
+doccontainerchecksum 7d0754c08081abc9867d0d40fc910ae5f8b34518004bf698dddc184f0b514d75a7feb3085870cf8322b3d6f3bc4c32ab50acdaeb56b574bf41604a18c23a6656
+runfiles size=3
+ texmf-dist/tex/latex/syntax/syntax.tex
+catalogue-also syntax-mdw
+catalogue-ctan /macros/latex/contrib/syntax
+catalogue-date 2016-07-19 09:53:55 +0200
+catalogue-license gpl
+catalogue-topics syntax diagram

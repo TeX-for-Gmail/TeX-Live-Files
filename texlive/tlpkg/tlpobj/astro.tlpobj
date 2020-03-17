@@ -1,0 +1,25 @@
+name astro
+category Package
+revision 15878
+shortdesc Astronomical (planetary) symbols
+longdesc Astrosym is a font containing astronomical symbols, including
+longdesc those used for the planets, four planetoids, the phases of the
+longdesc moon, the signs of the zodiac, and some additional symbols. The
+longdesc font is distributed as Metafont source.
+containersize 12824
+containerchecksum 8cf59f7de3ea5add30166fcd4284279582cbe6199bcb1ebd540688d03c03ccf03aa740602cfad11af9380d970ed7009e6bfb4e96c56d26036f872e82c02739b6
+doccontainersize 4220
+doccontainerchecksum df4a06e10e9a438393c7e22f746618c5d760a6095e285acd0b2918f58e234a1eeca9b49597d381a113cdcbff0f13e4c7108b9b400afc81e81757f4400ea484f9
+runfiles size=21
+ texmf-dist/fonts/source/public/astro/astrosym.cal
+ texmf-dist/fonts/source/public/astro/astrosym.cmn
+ texmf-dist/fonts/source/public/astro/astrosym.mac
+ texmf-dist/fonts/source/public/astro/astrosym.mf
+ texmf-dist/fonts/source/public/astro/astrosym.uni
+ texmf-dist/fonts/source/public/astro/astrosym.xtr
+ texmf-dist/fonts/tfm/public/astro/astrosym.tfm
+catalogue-ctan /fonts/astro
+catalogue-date 2017-10-29 14:17:15 +0100
+catalogue-license lppl
+catalogue-topics astronomy font font-mf
+catalogue-version 2.20

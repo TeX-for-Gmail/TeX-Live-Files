@@ -1,0 +1,20 @@
+name aastex
+category Package
+revision 47692
+shortdesc Macros for Manuscript Preparation for AAS Journals
+longdesc The bundle provides a document class for preparing papers for
+longdesc American Astronomical Society publications. Authors who wish to
+longdesc submit papers to AAS journals are strongly urged to use this
+longdesc class in preference to any of the alternatives available.
+containersize 44248
+containerchecksum 931403fe630ad671b6ce252ef94e3ad9c7696a61f8da7f2970a8e3123e3d168110bb765b542093087426116f11db68220067a3581458b941a1901791c183d028
+doccontainersize 697036
+doccontainerchecksum a83c10d28be386fdfcd937858ce17cf6577b73a6c0ec9fb435d888a68c4c22d4b752a680e9a8e00e4c06e9efc47af19a002540929265b9f2f1e56262914a1905
+runfiles size=59
+ texmf-dist/bibtex/bst/aastex/aasjournal.bst
+ texmf-dist/tex/latex/aastex/aastex62.cls
+catalogue-ctan /macros/latex/contrib/aastex
+catalogue-date 2018-05-11 21:32:57 +0200
+catalogue-license lppl
+catalogue-topics astronomy journalpub class
+catalogue-version 6.2

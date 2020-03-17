@@ -1,0 +1,45 @@
+name logicpuzzle
+category Package
+revision 34491
+shortdesc Typeset (grid-based) logic puzzles
+longdesc The package allows the user to typeset various logic puzzles.
+longdesc At the moment the following puzzles are supported: 2D-Sudoku
+longdesc (aka Magiequadrat, Diagon, ...), Battleship (aka Bimaru,
+longdesc Marinespiel, Batalla Naval, ...), Bokkusu (aka Kakurasu,
+longdesc Feldersummenratsel, ...), Bridges (akak Bruckenbau, Hashi,
+longdesc ...), Chaos Sudoku, Four Winds (aka Eminent Domain,
+longdesc Lichtstrahl, ...), Hakyuu (aka Seismic, Ripple Effect, ...),
+longdesc Hitori, Kakuro, Kendoku (aka Mathdoku, Calcudoku, Basic,
+longdesc MiniPlu, Ken Ken, Square Wisdom, Sukendo, Caldoku, ..., Killer
+longdesc Sudoku (aka Samunapure, Sum Number Place, Sumdoku,
+longdesc Gebietssummen, ...), Laser Beam (aka Laserstrahl, ...), Magic
+longdesc Labyrinth (aka Magic Spiral, Magisches Labyrinth, ...), Magnets
+longdesc (aka Magnetplatte, Magnetfeld, ...), Masyu (aka Mashi,
+longdesc {White|Black} Pearls, ...), Minesweeper (aka Minensuche, ...),
+longdesc Nonogram (aka Griddlers, Hanjie, Tsunami, Logic Art, Logimage,
+longdesc ...), Number Link (aka Alphabet Link, Arukone, Buchstabenbund,
+longdesc ...), Resuko, Schatzsuche, Skyline (aka Skycrapers,
+longdesc Wolkenkratzer, Hochhauser, ...), including Skyline Sudoku and
+longdesc Skyline Sudoku (N*N) variants, Slitherlink (aka Fences, Number
+longdesc Line, Dotty Dilemma, Sli-Lin, Takegaki, Great Wall of China,
+longdesc Loop the Loop, Rundweg, Gartenzaun, ...), Star Battle (aka
+longdesc Sternenschlacht, ...), Stars and Arrows (aka Sternenhimmel,
+longdesc ...), Sudoku, Sun and Moon (aka Sternenhaufen, Munraito, ...),
+longdesc Tents and Trees (aka Zeltlager, Zeltplatz, Camping, ...), and
+longdesc Tunnel.
+containersize 15228
+containerchecksum 2c642c7aa6d6f12e51228432f8bd9fab906ff4dd3354a49f636582a065bff0f534222161ce11306ff6bf3e354a9ca6f6394cf9826b321ac94e9ef5ee8c0621ff
+doccontainersize 810144
+doccontainerchecksum 872a72ed13f7dcb43df3bd2f2b7bd504e3e430030115faadf0a130d2fd94331a335c4853e37c78e4b8aa7c59a44bfd87ad2a484b1b836c2a7526b97ef26ddd56
+runfiles size=32
+ texmf-dist/scripts/logicpuzzle/createlpsudoku
+ texmf-dist/scripts/logicpuzzle/lpsmag
+ texmf-dist/scripts/logicpuzzle/simple.smc
+ texmf-dist/tex/latex/logicpuzzle/logicpuzzle.sty
+ texmf-dist/tex/latex/logicpuzzle/lpenv.sty
+catalogue-contact-repository https://bitbucket.org/kleberj/logicpuzzle/
+catalogue-ctan /graphics/pgf/contrib/logicpuzzle
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics pgf-tikz games
+catalogue-version 2.5

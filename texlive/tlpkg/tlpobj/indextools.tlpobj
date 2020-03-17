@@ -1,0 +1,26 @@
+name indextools
+category Package
+revision 38931
+shortdesc Producing multiple indices
+longdesc This package enables the user to produce and typeset one or
+longdesc more indices simultaneously. The package is known to work in
+longdesc LaTeX documents processed with pdfLaTeX, XeLaTeX and LuaLaTeX.
+longdesc If makeindex is used for processing the index entries, no
+longdesc particular setup is needed when TeX Live is used. Using xindy
+longdesc or other programs, it is necessary to enable shell escape.
+longdesc Shell escape is also needed if splitindex is used. This is a
+longdesc fork of imakeidx, with new features and fixed bugs.
+containersize 4560
+containerchecksum 69bb7007041b46a25e9f6bb12d8212a4dd4eaa9dfd00fc033edd94de153e8941cc4de8a06d74516220ade56f2f5800f83a96ea2c02d766939cf70aa3822da63b
+doccontainersize 611172
+doccontainerchecksum 9290dc53a68dcc191d39bc0d1e760bd4cb8db50d7cf70771e60686ba2b1a7923b408f21e777453a6f2ec9ec372ac30faa3ffa2cc6bf7d2bc82b2526327d732a7
+srccontainersize 21688
+srccontainerchecksum 2d6d1a6009351911a3dfe204ab81ce8b54abfba885525a98557f56ad22ba6a319d35d36ea6f868d3abe9d788628d9f635dec8a657827ae3b772dae972a11c53c
+runfiles size=4
+ texmf-dist/tex/latex/indextools/indextools.sty
+catalogue-also imakeidx
+catalogue-ctan /macros/latex/contrib/indextools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics index
+catalogue-version 1.5.1

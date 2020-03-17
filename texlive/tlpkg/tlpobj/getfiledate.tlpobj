@@ -1,0 +1,19 @@
+name getfiledate
+category Package
+revision 16189
+shortdesc Find the date of last modification of a file
+longdesc The package fetches from the system the date of last
+longdesc modification or opening of an existing file, using the function
+longdesc \pdffilemoddate (present in recent versions of pdfTeX); the
+longdesc user may specify how the date is to be presented.
+containersize 2224
+containerchecksum 017b3ad95801da2788f2c5040225c6a8a2ac6d005c1d68d9eba0be061dfc9fa6f088a0279a75d25bea8ba380e4a92cfbd9b6a6b812d08cd2f86de097f7974fb7
+doccontainersize 104636
+doccontainerchecksum 490daffa0b0b28c9c02d745d8de50f22395f6ae773e07f6e826a8ddaff0d38f9ee48e822953e9642e46be26084ec2919bcac76c388cb3f42965f1b662e4e43a0
+runfiles size=2
+ texmf-dist/tex/latex/getfiledate/getfiledate.sty
+catalogue-ctan /macros/latex/contrib/getfiledate
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics file-mgmt
+catalogue-version 1.2

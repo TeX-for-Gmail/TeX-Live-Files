@@ -1,0 +1,20 @@
+name lgreek
+category Package
+revision 21818
+shortdesc LaTeX macros for using Silvio Levy's Greek fonts
+longdesc A conversion of Silvio Levy's Plain TeX macros for use with
+longdesc LaTeX.
+containersize 1724
+containerchecksum f0b5cc9b7267aa07dc0b0f8c6d23a164bc239591fd13b5d77c5c840d33e131546c63c63a3bbbee2851000bda2e8593e7617f8a7ae381e7cd0561302a667acac1
+doccontainersize 203112
+doccontainerchecksum 915df985f4766f492a70a35342e086567d17c155ea0dfce5514c6edebaf1dacb78998dc4bf5cc44415fef580a7779083bc2261a22dfd668e8f2023f1f15bff35
+runfiles size=4
+ texmf-dist/tex/latex/lgreek/LGcmr.fd
+ texmf-dist/tex/latex/lgreek/LGcmtt.fd
+ texmf-dist/tex/latex/lgreek/LGenc.def
+ texmf-dist/tex/latex/lgreek/lgreek.sty
+catalogue-also levy-latex
+catalogue-ctan /macros/latex/contrib/lgreek
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics font-use greek

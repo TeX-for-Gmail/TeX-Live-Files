@@ -1,0 +1,21 @@
+name biblatex-realauthor
+category Package
+revision 45865
+shortdesc Indicate the real author of a work
+longdesc This package allows to use a new field "realauthor", which
+longdesc indicates the real author of a work, when published in a
+longdesc pseudepigraphic name.
+containersize 2484
+containerchecksum dec592d3f16a431286f7887af863664d777e09e5784a53e9b99247e3bae86c7928907135980d27614e52ab6bd1f1f59a3e8633ecde05d3f9b84b97c84ccefa23
+doccontainersize 93700
+doccontainerchecksum bf0ed482905bfcf9bf5a8eda61f609037316012aa2992796c57d48b5f5ccac496dd372ef5e8c88262c8bc5b2d543cbf5f6aba8ff1833a99db6929dfbf379d2cc
+runfiles size=4
+ texmf-dist/tex/latex/biblatex-realauthor/realauthor.bbx
+ texmf-dist/tex/latex/biblatex-realauthor/realauthor.dbx
+catalogue-contact-bugs https://github.com/maieul/biblatex-realauthor/issues
+catalogue-contact-repository https://github.com/maieul/biblatex-realauthor
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-realauthor
+catalogue-date 2017-11-20 18:21:46 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 2.7.1a

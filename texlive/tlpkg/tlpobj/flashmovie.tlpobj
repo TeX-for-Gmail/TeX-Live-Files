@@ -1,0 +1,25 @@
+name flashmovie
+category Package
+revision 25768
+shortdesc Directly embed flash movies into PDF files
+longdesc The package allows direct embedding of flash movies into PDF
+longdesc files. It is designed for use with pdfLaTeX. The package takes
+longdesc advantage of the embedded Adobe Flash player in Adobe Reader 9;
+longdesc the reader is invoked with the 'rich media annotation' feature,
+longdesc described in "Adobe Supplement to the ISO 32000 BaseVersion:
+longdesc 1.7 ExtensionLevel: 3". This method of embedding movies is
+longdesc attractive since it removes all platform dependencies; however,
+longdesc the user is required to use Acrobat 9.
+containersize 19612
+containerchecksum 99ae914e1fa627f462be84f7bed923c638bf493ca183f010bdeb5d607ab00abaff7a1fe3d0f8613e6fb9df7cd5047b99e99a5da18470df25e7507259a441e188
+doccontainersize 1323548
+doccontainerchecksum 016331e7328732f5549487f8b2edbeabc9548eb81201584d3d3f7e0ff41a9a962761a8af867dbee8951bf4e99ea4eeecec7e9230868c23abc95260f288ca7958
+runfiles size=12
+ texmf-dist/tex/latex/flashmovie/flashmovie.sty
+ texmf-dist/tex/latex/flashmovie/player_flv_maxi.swf
+catalogue-also movie15
+catalogue-ctan /macros/latex/contrib/flashmovie
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-motion
+catalogue-version 0.4

@@ -1,0 +1,22 @@
+name lpform
+category Package
+revision 36918
+shortdesc Typesetting linear programming formulations and sets of equations
+longdesc The package is designed to aid the author writing linear
+longdesc programming formulations, one restriction at a time. With the
+longdesc package, one can easily label equations, formulations can span
+longdesc multiple pages and several elements of the layout (such as
+longdesc spacing, texts and equation tags) are also customizable.
+longdesc Besides linear programming formulations, this package can also
+longdesc be used to display any series of aligned equations with easy
+longdesc labeling/referencing and other customization options.
+containersize 1564
+containerchecksum 91d5748629ad72ca421834ffc61c13f71240bbcaedf9f0e4279bc6aa0bbdc817f093c24cf5a9c50d5a4a132208969bd356642fc5704ebd5c4ef2b7eef23f27ac
+doccontainersize 269288
+doccontainerchecksum 92ddf3b473e13fe8b77ad955d55acbe7a6da34381bfaac78184342a900f2c9bb1e0981d5ebdb440cf0f44affe2eb0dd862f9b51d2a40c9abd90f1dbe81584c9d
+runfiles size=2
+ texmf-dist/tex/generic/lpform/lpform.sty
+catalogue-ctan /macros/generic/lpform
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths

@@ -1,0 +1,26 @@
+name pst-barcode
+category Package
+revision 45096
+shortdesc Print barcodes using PostScript
+longdesc The pst-barcode package allows printing of barcodes, in a huge
+longdesc variety of formats, including quick-response (qr) codes (see
+longdesc documentation for details). As a PSTricks package, the package
+longdesc requires pstricks. The package uses PostScript for calculating
+longdesc the bars. For PDF output use a multi-pass mechansism such as
+longdesc pst-pdf.
+containersize 99120
+containerchecksum 6c4799d7410da7f13225acd9cb5628d65bdbbb525e2bcb114d7f660d4c752122f8e9028763d3ecbca04c3c9da36b7910d64c981e8593b2c5df6b4cb372103785
+doccontainersize 1110916
+doccontainerchecksum 918891da185bcbd26051a4715cf585fd8539e6ac534ada4a2524bfabec328f87cc998cbd65b7fae8a2fbe4de029403811214c0196e59125a77f8af715b3ed3f0
+runfiles size=212
+ texmf-dist/dvips/pst-barcode/pst-barcode.pro
+ texmf-dist/tex/generic/pst-barcode/pst-barcode.tex
+ texmf-dist/tex/latex/pst-barcode/pst-barcode.sty
+catalogue-also barcodes barcodes-vulis ean kix qrcode
+catalogue-contact-home http://tug.org/PSTricks
+catalogue-contact-support http://tug.org/mailman/listinfo/pstricks
+catalogue-ctan /graphics/pstricks/contrib/pst-barcode
+catalogue-date 2017-08-22 10:58:40 +0200
+catalogue-license lppl
+catalogue-topics barcode qrcode pstricks
+catalogue-version 0.18

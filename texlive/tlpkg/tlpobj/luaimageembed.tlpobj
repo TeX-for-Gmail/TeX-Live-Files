@@ -1,0 +1,23 @@
+name luaimageembed
+category Package
+revision 50788
+shortdesc Embed images as base64-encoded strings
+longdesc This package allows to embed images directly as base64-encoded
+longdesc strings into an LuaLaTeX document. This can be useful, e. g. to
+longdesc package a document with images into a single TeX file, or with
+longdesc automatically generated graphics.
+containersize 1416
+containerchecksum c0ba8a3164f1a87cd12a5699e9caa23ff7a85debed9881798502436bbb594d48a2e15a135e3a18efb9f3d825af98303a46495148142c810e4601641fdf925654
+doccontainersize 1524
+doccontainerchecksum 188049c30c2c845d18e1a20af3d5ee009eab6064321b1f09aee4b77c3111317755e698e28876561440695c910cbfea6f67e41a5195a5f7b50d45831d7b78d76b
+runfiles size=1
+ texmf-dist/tex/lualatex/luaimageembed/luaimageembed.sty
+catalogue-also inline-images
+catalogue-contact-announce https://github.com/csachs/luaimageembed/releases
+catalogue-contact-bugs https://github.com/csachs/luaimageembed/issues
+catalogue-contact-home https://github.com/csachs/luaimageembed
+catalogue-ctan /macros/luatex/latex/luaimageembed
+catalogue-date 2019-04-05 15:52:51 +0200
+catalogue-license mit
+catalogue-topics image-supp lua-supp
+catalogue-version 0.1

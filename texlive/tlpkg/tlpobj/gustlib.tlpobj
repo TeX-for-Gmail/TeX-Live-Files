@@ -1,0 +1,42 @@
+name gustlib
+category Package
+revision 45712
+shortdesc plain macros for much core and extra functionality, from GUST
+longdesc Includes bibliography support, token manipulation,
+longdesc cross-references, verbatim, determining length of a paragraph's
+longdesc last line, multicolumn output, Polish bibliography and index
+longdesc styles, prepress and color separation, graphics manipulation,
+longdesc tables.
+containersize 40536
+containerchecksum cb91f48e66063c784addd1a208946343cdaece3ae0d28d3eb697add3bf16d82b7d01535018984434a882aa5d1901cd05ac68e0966554b77f4a2feeba933ca880
+doccontainersize 4296
+doccontainerchecksum 0a472bcba101b759b0864c09fbb28fd7473e8382e73cb5c2cfa8fe97f075a9a0ccba1603e0b08bb17fc10faa53907e52d78efb7ab09a7d5cd06bf1e17d82a1be
+runfiles size=73
+ texmf-dist/bibtex/bib/gustlib/plbib.bib
+ texmf-dist/bibtex/bst/gustlib/plabbrv.bst
+ texmf-dist/bibtex/bst/gustlib/plalpha.bst
+ texmf-dist/bibtex/bst/gustlib/plplain.bst
+ texmf-dist/bibtex/bst/gustlib/plunsrt.bst
+ texmf-dist/tex/plain/gustlib/biblotex/biblotex.tex
+ texmf-dist/tex/plain/gustlib/infr-ex.tex
+ texmf-dist/tex/plain/gustlib/infram.tex
+ texmf-dist/tex/plain/gustlib/licz/licz-tst.mex
+ texmf-dist/tex/plain/gustlib/licz/licz.mex
+ texmf-dist/tex/plain/gustlib/map/map.tex
+ texmf-dist/tex/plain/gustlib/map/split.tex
+ texmf-dist/tex/plain/gustlib/map/tsp-tst.mex
+ texmf-dist/tex/plain/gustlib/map/tsp.tex
+ texmf-dist/tex/plain/gustlib/map/tun-test.mex
+ texmf-dist/tex/plain/gustlib/map/tun.tex
+ texmf-dist/tex/plain/gustlib/mcol-ex.tex
+ texmf-dist/tex/plain/gustlib/meashor.tex
+ texmf-dist/tex/plain/gustlib/mimulcol.tex
+ texmf-dist/tex/plain/gustlib/plbtx993/plbtxbst.doc
+ texmf-dist/tex/plain/gustlib/plbtx993/test.mex
+ texmf-dist/tex/plain/gustlib/plmac218/plidxmac.tex
+ texmf-dist/tex/plain/gustlib/plmac218/plind.bat
+ texmf-dist/tex/plain/gustlib/plmac218/przyklad.tex
+ texmf-dist/tex/plain/gustlib/rbox-ex.tex
+ texmf-dist/tex/plain/gustlib/roundbox.tex
+ texmf-dist/tex/plain/gustlib/tp-crf.tex
+ texmf-dist/tex/plain/gustlib/verbatim-dek.tex

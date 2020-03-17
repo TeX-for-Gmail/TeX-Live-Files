@@ -1,0 +1,16 @@
+name dvidvi
+category TLCore
+revision 50602
+shortdesc Convert one DVI file into another
+longdesc The output DVI file's contents are specified by page selection
+longdesc commands; series of pages and page number ranges may be
+longdesc specified, as well as inclusions and exclusions.
+depend dvidvi.ARCH
+containersize 464
+containerchecksum 0b21ec8ae0741fe0b9cbe53fd97c4ef20cd4330bae769424b2fbd2998293b05419008ebcc7ab74bc17f166a30a66cad980f5692ab32aa1621ad4a771d20d720a
+doccontainersize 19336
+doccontainerchecksum 831daec5b770f866c15440a384d1352824ead05faaacb8ae991e2d9bc1b115d599e5260cc9d7db6f0752ca7a16f21b0c52b5fff58ed1b23f30ffbfae59387c13
+catalogue-ctan /dviware/dvidvi
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics dvi-proc

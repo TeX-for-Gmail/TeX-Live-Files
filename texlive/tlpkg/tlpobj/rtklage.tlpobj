@@ -1,0 +1,18 @@
+name rtklage
+category Package
+revision 15878
+catalogue ratex
+shortdesc A package for German lawyers
+longdesc RATeX is a newly developed bundle of packages and classes
+longdesc provided for German lawyers. Now in the early beginning it only
+longdesc contains rtklage, a class to make lawsuits.
+containersize 1464
+containerchecksum 6e39e34a7c293f503949da66f1d5ebc65ae0388dc56e87992e9fc4daff1a250196afe68150be14ee2ec3242393ce9e5ea7b681cba31b7ed1c2d58526f6506554
+doccontainersize 62656
+doccontainerchecksum 550c21bcd8af04041f1fac11f2be3ae2a1f01265ad6bf31243569820c7b8d83f32ccd0cdbcc4d5a7a5905ae9aa0512a449a1b2d6923affceb344152e6c12d72d
+runfiles size=1
+ texmf-dist/tex/latex/rtklage/rtklage.cls
+catalogue-ctan /macros/latex/contrib/rtklage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics german legal

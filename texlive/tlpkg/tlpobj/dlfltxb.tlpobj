@@ -1,0 +1,33 @@
+name dlfltxb
+category Package
+revision 17337
+shortdesc Macros related to "Introdktion til LaTeX"
+longdesc The bundle contains various macros either used for creating the
+longdesc author's book "Introduktion til LaTeX" (in Danish), or
+longdesc presented in the book as code tips. The bundle comprises:
+longdesc dlfltxbcodetips: various macros helpful in typesetting
+longdesc mathematics; dlfltxbmarkup: provides macros used throughout,
+longdesc for registering macro names, packages etc. in the text, in the
+longdesc margin and in the index, all by using categorised keys (note, a
+longdesc configuration file may be used; a sample is included in the
+longdesc distribution); dlfltxbtocconfig: macros for the two tables of
+longdesc contents that the book has; dlfltxbmisc: various macros for
+longdesc typesetting LaTeX arguments, and the macro used in the
+longdesc bibliography that can wrap a URL up into a BibTeX entry.
+longdesc Interested parties may review the book itself on the web at the
+longdesc author's institution (it is written in Danish).
+containersize 21700
+containerchecksum d1d7bd6a855d131324fee30bcb920e0dfa6ba733a1d52f94c59e8f328b533d63444b5ce7e5fca9dcc7f21833a9cef84460106aab0a578fd17974c0e348f1ee07
+doccontainersize 694612
+doccontainerchecksum 171d6661ca71533fb869832be2bf6f7d26244bb5735fb884b5b1ce7c27d291b3e9518a902d6c7565d94d2c55c37b00564184bc5851824a00b5a71963a577128f
+runfiles size=26
+ texmf-dist/bibtex/bst/dlfltxb/dlfltxbbibtex.bst
+ texmf-dist/tex/latex/dlfltxb/dlfltxbcodetips.sty
+ texmf-dist/tex/latex/dlfltxb/dlfltxbmarkup.sty
+ texmf-dist/tex/latex/dlfltxb/dlfltxbmarkupbookkeys.sty
+ texmf-dist/tex/latex/dlfltxb/dlfltxbmisc.sty
+ texmf-dist/tex/latex/dlfltxb/dlfltxbtocconfig.sty
+catalogue-ctan /macros/latex/contrib/dlfltxb
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex danish

@@ -1,0 +1,9 @@
+name glossaries.x86_64-linux
+category Package
+revision 37813
+shortdesc x86_64-linux files of glossaries
+containersize 368
+containerchecksum e7aae352f3ccb5acb679932b2df221381084808fdc583050efd3ad8527bccc356ca2b11ba88945524f71a42f547a536fa4e1c273a0f28ea2f0e6c1c84e8bb17c
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/makeglossaries
+ bin/x86_64-linux/makeglossaries-lite

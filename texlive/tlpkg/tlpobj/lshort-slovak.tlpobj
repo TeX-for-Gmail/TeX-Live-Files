@@ -1,0 +1,13 @@
+name lshort-slovak
+category Package
+revision 15878
+shortdesc Slovak introduction to LaTeX
+longdesc A Slovak translation of Oetiker's (not so) short introduction.
+containersize 392
+containerchecksum bf3821d0846701c2e45d89578625f517567d401d613f5aa7aaa4cdfdf8c4c4f87abec22d6fccac21b274afdba9c29c21a6918fabef77f4cca506071341b7cdbe
+doccontainersize 708848
+doccontainerchecksum 8ee79c17e5ccc9dbb9f833b4f8927b22e7ce368f49f4d016fb936d2a5ec964791d9473b679a037d704efb269dc6caa1344168927a90a8e859527c64b0410996b
+catalogue-ctan /info/lshort/slovak
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics slovak tut-latex

@@ -1,0 +1,20 @@
+name refcheck
+category Package
+revision 29128
+shortdesc Check references (in figures, table, equations, etc)
+longdesc The package checks references in a document, looking for
+longdesc numbered but unlabelled equations, for labels which are not
+longdesc used in the text, for unused bibliography references. It can
+longdesc also display label names in text near corresponding numbers of
+longdesc equations and/or bibliography references.
+containersize 3616
+containerchecksum 46dde83ed04d4586eb6a2af393ab925aa7238a30c23f49ea33f0da331e2a5071447c5df22b31c2cd9b10bd37458794fe15e53e0e79f002bbcf95b0471d6a7d02
+doccontainersize 43356
+doccontainerchecksum a87b6ab25848571770bc8a7ac1f47e139c7a2abebf36b9c72b65bc66e02c14b23f7b0d2246c7160b7669460f52afd29063449c6659336f01f3e99df53cbb4428
+runfiles size=3
+ texmf-dist/tex/latex/refcheck/refcheck.sty
+catalogue-ctan /macros/latex/contrib/refcheck
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics label-ref debug-supp
+catalogue-version 1.9.1

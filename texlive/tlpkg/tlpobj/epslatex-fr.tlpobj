@@ -1,0 +1,15 @@
+name epslatex-fr
+category Package
+revision 19440
+catalogue fepslatex
+shortdesc French version of "graphics in LaTeX"
+longdesc This is the French translation of epslatex, and describes how
+longdesc to use imported graphics in LaTeX(2e) documents.
+containersize 432
+containerchecksum f3e90ecb487259301c20ab4c4c28702b9cadfa844a49361fee0881a26f827ae602f954e4a3e824e910d2e098097c387aa5311c5f32cb58df5a0a1e2fcd9d2364
+doccontainersize 1036360
+doccontainerchecksum 7965e6094535d22b04193619842bc0bd090c2b47139e65498dcdf428f4ce2ec54e7da5edbdf9015c9d8f2013642d11347373e625a3884c629d9d807af2a9880a
+catalogue-ctan /info/epslatex/french
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics graphics french-doc translation

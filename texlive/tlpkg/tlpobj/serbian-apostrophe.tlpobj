@@ -1,0 +1,17 @@
+name serbian-apostrophe
+category Package
+revision 23799
+shortdesc Commands for Serbian words with apostrophes
+longdesc The package provides a collection of commands (whose names are
+longdesc Serbian words) whose expansion is the Serbian word with
+longdesc appropriate apostrophes.
+containersize 10988
+containerchecksum 4e3998b6c3f5578929204c0b5f131b0ad4526057b50811253b6a90367327c63af5bec386aef54ae6c80be7a1ecdcc6875bbdca532fab864e61837cf16855750f
+doccontainersize 462196
+doccontainerchecksum 38c8ac74b304ac992bad807f2727a3e75a727a77c5bfe5042e24a39ad305162e828ca0333963a3f91c5f26ca0324e7feea97dc6ab84c1cfdb6c26b05ed5f4fd5
+runfiles size=18
+ texmf-dist/tex/latex/serbian-apostrophe/serbian-apostrophe.sty
+catalogue-ctan /language/serbian/filipovic/serbian-apostrophe
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics serbian

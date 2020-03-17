@@ -1,0 +1,24 @@
+name acro
+category Package
+revision 50045
+shortdesc Typeset acronyms
+longdesc The package enables the author to create acronyms in a simple
+longdesc way, and provides means to add them to different 'classes' of
+longdesc acronyms. Lists can be created of separate acronym classes. The
+longdesc package option 'single' instructs the package to ignore
+longdesc acronyms that are used only once in the whole document. As an
+longdesc experimental feature the package also offers the option 'sort'
+longdesc which automatically sorts the list created by \printacronyms.
+containersize 24456
+containerchecksum 1c17f217af097604aecde0de092b8df4a763cd9937c1d304b7d41129437202bd1eb0b81fc1f811b58e5b269c3edcc3b73e51940ef0f6ad2a3652b5e93a27eb7e
+doccontainersize 587304
+doccontainerchecksum c401ebcfb37e36719d32663fd45060f4e7669d71661d1777e225ff0400cbc2d757585fabab126b4c6e30f5f925ffb4d7302197fb31e50caec75f4e88a59e94fd
+runfiles size=38
+ texmf-dist/tex/latex/acro/acro.sty
+catalogue-contact-bugs https://bitbucket.org/cgnieder/acro/issues
+catalogue-contact-repository https://bitbucket.org/cgnieder/acro/
+catalogue-ctan /macros/latex/contrib/acro
+catalogue-date 2019-02-17 16:20:35 +0100
+catalogue-license lppl1.3
+catalogue-topics acronym expl3
+catalogue-version 2.9

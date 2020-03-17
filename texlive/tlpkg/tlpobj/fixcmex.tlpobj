@@ -1,0 +1,25 @@
+name fixcmex
+category Package
+revision 38816
+shortdesc Fully scalable version of Computer Modern Math Extension font
+longdesc This package provides a fully scalable version of the Computer
+longdesc Modern Math Extension font for curing sizing problems mainly
+longdesc with lmodern. It can be used when the main font of the document
+longdesc is Computer Modern (or European Modern, if T1 encoding is
+longdesc selected), or Latin Modern. It redefines the math extension
+longdesc font so that it becomes arbitrarily scalable, using the optical
+longdesc size fonts provided by the AMS together with the original
+longdesc cmex10 font.
+containersize 1380
+containerchecksum 654059292fe28a6cd678291c87e34da51d55fe158dfdf57d3e68db61754feb01099b214f076e68225f548ffa86fe1fd928ea5962a2494b63dfeb377503a37752
+doccontainersize 200156
+doccontainerchecksum 747b7b3e01a170ca1f36cdce5ac7247dacc62e945f40ce8cbd722e488b7917bad58e19d071439cd45f444855e6e2e0217a9f674fc0044e3ba286547d174b0b65
+srccontainersize 2800
+srccontainerchecksum e637bdd26b1526f5d498a2652fd795c015fdde607e003c51dd029c1b329b2059f1f36a13863f5f36a0c790c495966b7747571155418b526c8960810f7f12da26
+runfiles size=1
+ texmf-dist/tex/latex/fixcmex/fixcmex.sty
+catalogue-ctan /macros/latex/contrib/fixcmex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp-maths
+catalogue-version 1.0

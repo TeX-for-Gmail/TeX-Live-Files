@@ -1,0 +1,21 @@
+name omegaware
+category TLCore
+revision 50602
+catalogue omega
+shortdesc A wide-character-set extension of TeX
+longdesc A development of TeX, which deals in multi-octet Unicode
+longdesc characters, to enable native treatment of a wide range of
+longdesc languages without changing character-set. Work on Omega has
+longdesc ceased (the TeX Live package contains only support files); its
+longdesc compatible successor is aleph, which is itself also in major
+longdesc maintenance mode only. Ongoing projects developing Omega (and
+longdesc Aleph) ideas include Omega-2 and LuaTeX.
+depend omegaware.ARCH
+containersize 628
+containerchecksum da2ea42b840a49e8213bc4b1cbf30d042ec718a916fbc58a6a5db4bb352cba8a669a788530e54bc50c4918a5f106dea69f791c6f30adfb570fec8f8ae80096a0
+doccontainersize 148980
+doccontainerchecksum 5eef2e7061a6b44086cb8c9a2e4230db2abbf7b1d9cea678264900f9b2c8da056dda07db004b26031ec6d79192b11ce0cb139a3080dd84421bd527cb92f144a3
+catalogue-ctan /obsolete/systems/omega
+catalogue-date 2017-04-24 05:22:45 +0200
+catalogue-license gpl
+catalogue-topics engine omega obsolete

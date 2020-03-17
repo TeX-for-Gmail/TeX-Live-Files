@@ -1,0 +1,19 @@
+name aeguill
+category Package
+revision 15878
+shortdesc Add several kinds of guillemets to the ae fonts
+longdesc The package enables the user to add guillemets from several
+longdesc source (Polish cmr, Cyrillic cmr, lasy and ec) to the ae fonts.
+longdesc This was useful when the ae fonts were used to produce PDF
+longdesc files, since the additional guillemets exist in fonts available
+longdesc in Adobe Type 1 format.
+containersize 2388
+containerchecksum b75f41c1d179b63d1807ebfa81e9e656bb43433a3291b9e29d5f0f76667868d26840dc6ce7f61f0f959cef724f0b5738b96af2a371f949daefc4179de1f861e8
+doccontainersize 26984
+doccontainerchecksum 8361fc02999b080f19beb793fb0d1d802203114c1e1581c312a21e3a682191470b93e373fc269f8aea0e2643a69c8caf80855597ff6a71aadb6bfc869f4370da
+runfiles size=2
+ texmf-dist/tex/latex/aeguill/aeguill.sty
+catalogue-ctan /macros/latex/contrib/aeguill
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-virtual font-t1enc

@@ -1,0 +1,29 @@
+name exsol
+category Package
+revision 48977
+shortdesc Exercises and solutions from the same source, into a book
+longdesc This package provides macros to allow for embedding exercises
+longdesc and solutions in the LaTeX source of an instructional text
+longdesc (e.g., a book or a course text) while generating the following
+longdesc separate documents: your original text that only contains the
+longdesc exercises, and a solution book that contains only the solutions
+longdesc to the exercises (optionally, the exercises themselves can also
+longdesc be copied to the solution book). The exercise data are
+longdesc generated when running LaTeX on your document; the first run
+longdesc also writes the solutions to a secondary file that may be
+longdesc included in a simple document harness, may be processed by
+longdesc LaTeX, to generate a nice solution book. The code of the
+longdesc package was derived (in large part) from fancyvrb.
+containersize 3472
+containerchecksum ef7e031334a27a522f54c5ba5adee0fbfdb4cfefca6e8c1d4f67c8bc542c82bab6ee89d35f8ba8e65ed0b17107fd164c00ed416c64160991b59693f5b567b502
+doccontainersize 600428
+doccontainerchecksum b6c5dd47fba5d14560a2d2341f1d17b17eda0ce16a6198ec589f47143ab46fa71808aa6a40a43613cf906542ed9df7d164fb2c7fe5785bf414076934932c63b5
+srccontainersize 12552
+srccontainerchecksum 1fa45d6d526e94e0574d15396a6d191d6b00bba30ef996aa999bf2b77a5426263f1e0a94303c07ff139bf44b0a07f419c19ac1c854c32b02e4c43c397c8a85a3
+runfiles size=4
+ texmf-dist/tex/latex/exsol/exsol.sty
+catalogue-ctan /macros/latex/contrib/exsol
+catalogue-date 2018-10-23 09:24:04 +0200
+catalogue-license lppl1.3
+catalogue-topics exercise
+catalogue-version 1.4

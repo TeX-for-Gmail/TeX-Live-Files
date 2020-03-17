@@ -1,0 +1,26 @@
+name issuulinks
+category Package
+revision 25742
+shortdesc Produce external links instead of internal ones
+longdesc The PDF visualizer http://issuu.com/ISSUU is a popular service
+longdesc which shows PDF documents "a page a time". Due to the way it is
+longdesc implemented, internal links in these documents are not allowed.
+longdesc Instead, they must be converted to external ones in the form
+longdesc http://issuu.com/action/page?page=PAGENUMBER. The package
+longdesc patches hyperref to produce external links in the required form
+longdesc instead of internal links created by \ref, \cite and other
+longdesc commands. Since the package redefines the internals of
+longdesc hyperref, it must be loaded it AFTER hyperref.
+containersize 2104
+containerchecksum 2ac24eb0e19b92e29fa898fcb8cca7e2f64cf87fac408aa0c834f6afc0ef262560a512637b30dcbee2ec06e9f0fc32f344258bab983b1b1d6fd4da85c821c056
+doccontainersize 377392
+doccontainerchecksum 2605ffe2f42560b04fe781efe3c1972ad76f6cbddc7ef68bdb0ece9b0573b8cec785c2bf4befdf339935730a728bf19b83f3597119d3f9705f571350e963801d
+srccontainersize 4112
+srccontainerchecksum c66f332f9dea7a03a0ecc7844d99375fbb91ca262aa50faac13b9b396db0991411b33616aec6c1af22e915e3643e7340e0083635fb40b6e693a4e487e1e45fed
+runfiles size=1
+ texmf-dist/tex/latex/issuulinks/issuulinks.sty
+catalogue-ctan /macros/latex/contrib/issuulinks
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref hyper
+catalogue-version 1.1

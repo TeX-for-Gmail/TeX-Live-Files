@@ -1,0 +1,33 @@
+name crossrefware
+category Package
+revision 47861
+shortdesc Scripts for working with crossref.org
+longdesc This bundle contains the following scripts: bibdoiadd.pl: add
+longdesc DOI numbers to papers in a given bib file, bibzbladd.pl: add
+longdesc Zbl numbers to papers in a given bib file, bibmradd.pl: add MR
+longdesc numbers to papers in a given bib file, bbl2bib.pl: convert
+longdesc thebibliography environment to a bib file, biburl2doi.pl:
+longdesc convert urls pointing to doi.org to dois ltx2crossrefxml.pl: a
+longdesc tool for the creation of XML files for submitting to
+longdesc crossref.org. The scripts use bibtexperllibs.
+depend crossrefware.ARCH
+containersize 8984
+containerchecksum 351f123bab2b83614b660959e86573845e32b6ac894ddabf24484cc3bbb68d71fef1e543b4d14a3684804f8b4b8e4a5123c8acc46fd813048320ab50f245475a
+doccontainersize 231232
+doccontainerchecksum cef9694f4e984ee077902852143e2c88bb533739c6b53c010eae74c32b486faf7806010beecee49bfce07d5f35270bd312852f6d5701860073854a5fec949125
+runfiles size=14
+ texmf-dist/scripts/crossrefware/bbl2bib.pl
+ texmf-dist/scripts/crossrefware/bibdoiadd.pl
+ texmf-dist/scripts/crossrefware/bibmradd.pl
+ texmf-dist/scripts/crossrefware/biburl2doi.pl
+ texmf-dist/scripts/crossrefware/bibzbladd.pl
+ texmf-dist/scripts/crossrefware/ltx2crossrefxml.pl
+ texmf-dist/tex/latex/crossrefware/bibdoiadd.cfg
+ texmf-dist/tex/latex/crossrefware/ltx2crossrefxml.cfg
+catalogue-contact-bugs https://github.com/borisveytsman/crossrefware/issues
+catalogue-contact-development https://github.com/borisveytsman/crossrefware/pulls
+catalogue-contact-repository https://github.com/borisveytsman/crossrefware
+catalogue-ctan /support/crossrefware
+catalogue-date 2018-05-28 08:15:25 +0200
+catalogue-license gpl
+catalogue-topics bibtex-util

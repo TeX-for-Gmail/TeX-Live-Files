@@ -1,0 +1,22 @@
+name scalebar
+category Package
+revision 15878
+shortdesc Create scalebars for maps, diagrams or photos
+longdesc This is a small package to create scalebars for maps, diagrams
+longdesc or photos. It was designed for use with cave maps but can be
+longdesc used for anything from showing a scalebar in kilometres for
+longdesc topographic maps to a scalebar in micrometres for an electron
+longdesc microscope image.
+containersize 1560
+containerchecksum 1e367f025943a56b6592238e2961f967beb1d5ff5b68ee83565b3926a392214557237e482ba0b174ddb2e6861e4690e636edef1a5fe0473c465a0deaa1e1bd0a
+doccontainersize 49036
+doccontainerchecksum cada3793771a28c3ce30439c782d245b6b21cfa426d2268e7e072a8559a81692b6c4e9e26a8bd452fe5882f39e55fd061a1af4e9be362bdcdb1f6ff6bba781e2
+srccontainersize 6640
+srccontainerchecksum f6f3e8d007ab3efd6bf1d45b9e3af1fa846637a8b66226f9ae24d64b3be9938b547bc3879a33f44d465f8f62494d1f55141c713b18161ec4006ed76eaa52169e
+runfiles size=1
+ texmf-dist/tex/latex/scalebar/scalebar.sty
+catalogue-ctan /macros/latex/contrib/scalebar
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics misc-support
+catalogue-version 1.0

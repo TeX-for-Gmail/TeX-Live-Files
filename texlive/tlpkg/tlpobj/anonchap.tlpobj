@@ -1,0 +1,20 @@
+name anonchap
+category Package
+revision 17049
+shortdesc Make chapters be typeset like sections
+longdesc The command \simplechapter sets up the \chapter command not to
+longdesc number chapters, though they may possibly have a prefix, and a
+longdesc suffix (the \simplechapterdelim command, which the user may
+longdesc alter). The \restorechapter command restores the status quo
+longdesc ante.
+containersize 1464
+containerchecksum 4b84d5260c0986191fb4f2b560c386a806c8f93c76360a8d93aa7f9b55dcf089d7d03ca946143b52923130ee751fd47f1ff59908314297fd752ff5fbb17ec0cf
+doccontainersize 187292
+doccontainerchecksum 087db509e1d9649176614296f84fefe9b726dceb3ac8cb6eeecdd8a6fdb03dc97433c31478638eeb6f5f7cde85b8a8a693fce55ed0b3f5aae35a075a43e5652c
+runfiles size=1
+ texmf-dist/tex/latex/anonchap/anonchap.sty
+catalogue-ctan /macros/latex/contrib/anonchap
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics headings
+catalogue-version 1.1a

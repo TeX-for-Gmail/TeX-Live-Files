@@ -1,0 +1,21 @@
+name bredzenie
+category Package
+revision 44371
+shortdesc A Polish version of "lorem ipsum..." in the form of a LaTeX package
+longdesc This is a polish version of the classic pseudo-Latin "lorem
+longdesc ipsum dolor sit amet...". It provides access to several
+longdesc paragraphs of pseudo-Polish generated with Hidden Markov Models
+longdesc and Recurrent Neural Networks trained on a corpus of Polish.
+containersize 49840
+containerchecksum 1e5629a2e6e6099a319d8b8a1efec83262780c70a57c482f66a33a48722bcdb18fb891a96b6b6f29c54d71ce581dd1c82decdd22ad74d6ef61765fec3f8c3614
+doccontainersize 169444
+doccontainerchecksum 29fba5bb48aeb2353616cfe9a8dd4fff90c164c10779b8115958733470fd47dc40a567212c62315110a5a7a51363c9f917c4984583d40177037d6b0803ce66fe
+runfiles size=35
+ texmf-dist/tex/latex/bredzenie/bredzenie.sty
+catalogue-alias polishlipsum
+catalogue-also lipsum
+catalogue-ctan /macros/latex/contrib/bredzenie
+catalogue-date 2018-05-01 19:00:24 +0200
+catalogue-license lppl1.3c
+catalogue-topics dummy-gen
+catalogue-version 1.0

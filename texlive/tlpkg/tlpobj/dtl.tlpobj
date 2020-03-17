@@ -1,0 +1,20 @@
+name dtl
+category TLCore
+revision 50602
+shortdesc Tools to dis-assemble and re-assemble DVI files
+longdesc DTL (DVI Text Language) is a means of expressing the content of
+longdesc a DVI file, which is readily readable by humans. The DTL bundle
+longdesc contains an assembler dt2dv (which produces DVI files from DTL
+longdesc files) and a disassembler dv2dt (which produces DTL files from
+longdesc DVI files). The DTL bundle was developed so as to avoid some
+longdesc infelicities of dvitype (among other pressing reasons).
+depend dtl.ARCH
+containersize 580
+containerchecksum 796f01b568969124edc40662db5d8699a815b72d9eafea640c9499b7cd907e4cd36ab42c87ade466c51fcb18a47de3363f5c6068f4c678243c7633343705f35d
+doccontainersize 52488
+doccontainerchecksum b0e1d2c3728b859bc010efc5d31c50b10c7f9a045530f99278228fd4a4bae5563d58852dc995e9f4430d64512f7b0ec0c868c6f86259127bdf524c6f66bbec86
+catalogue-ctan /dviware/dtl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics dvi-struc
+catalogue-version 0.6.1

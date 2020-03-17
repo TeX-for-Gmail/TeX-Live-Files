@@ -1,0 +1,25 @@
+name elsarticle
+category Package
+revision 50786
+shortdesc Class for articles for submission to Elsevier journals
+longdesc This class for typesetting journal articles is accepted for
+longdesc submitted articles both in Elsevier's electronic submission
+longdesc system and elsewhere. Please note that this webpage is meant
+longdesc for uploading updates to the elsarticle software itself, not
+longdesc for submitting articles using it .
+containersize 17320
+containerchecksum 17770bd130aa601a8208e996c1bcf192459d6c6ffd4ca170a303c3a548c7481e7e3a136c64865999ab7ab38ab56b09fc2021555fab60e344a7fa23d8cd62943f
+doccontainersize 805304
+doccontainerchecksum 28c78ca516aee82dfe3be32683ae404cdb7be9d2d248fb747079e2d9cca9da44aec40145d095d2e3f0bb2f3d600712fb75a987c8d1aa1ded3f738e58350c44f6
+srccontainersize 9272
+srccontainerchecksum 55755e1a228bb834820f74580935b7e8a5bb162a675ffeb617bb1c0f7a1b5d99422c53ed7ae6b0302fc51112d5dc3cf63bfa9268c49aeb66cc194529c9d36b85
+runfiles size=33
+ texmf-dist/bibtex/bst/elsarticle/elsarticle-harv.bst
+ texmf-dist/bibtex/bst/elsarticle/elsarticle-num-names.bst
+ texmf-dist/bibtex/bst/elsarticle/elsarticle-num.bst
+ texmf-dist/tex/latex/elsarticle/elsarticle.cls
+catalogue-ctan /macros/latex/contrib/elsarticle
+catalogue-date 2019-04-05 20:33:17 +0200
+catalogue-license lppl1.2
+catalogue-topics journalpub class
+catalogue-version 3.2

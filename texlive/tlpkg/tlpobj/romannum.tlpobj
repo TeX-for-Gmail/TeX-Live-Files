@@ -1,0 +1,21 @@
+name romannum
+category Package
+revision 15878
+shortdesc Generate roman numerals instead of arabic digits
+longdesc The romannum package changes LaTeX generated numbers to be
+longdesc printed with roman numerals instead of arabic digits. It
+longdesc requires the stdclsdv package. Users of the bookhands fonts may
+longdesc find this package useful.
+containersize 1684
+containerchecksum 06fb28ffcf6c8212ba3bea5e3fd93fe4a5394ce1cd3977556bdebb982888c2c0f7e45dc751f94b1ecf921c701fe6783166e73a595d5da55e874359b7a4065182
+doccontainersize 126676
+doccontainerchecksum 60caceb87b6d866c905685cd180f0deb73f400b33007e0589e1aa5a0b42ed948d88c672a620ebdd4d78bbf92aa81c1094e4d4d6afcb981747e65596711e112be
+srccontainersize 5784
+srccontainerchecksum dd1a19bdb63aad8f3c3458bc000933b9c0d04a3b331c37d84a9e7de4a7027b6cbed113038129a789f43d1049dd72acc432e6cebbce365277026d5e6b5cde328b
+runfiles size=2
+ texmf-dist/tex/latex/romannum/romannum.sty
+catalogue-ctan /macros/latex/contrib/romannum
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers
+catalogue-version 1.0b

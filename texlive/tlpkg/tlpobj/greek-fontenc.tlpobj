@@ -1,0 +1,25 @@
+name greek-fontenc
+category Package
+revision 39606
+shortdesc LICR macros and encoding definition files for Greek
+longdesc The package provides Greek LICR macro definitions and encoding
+longdesc definition files for Greek text font encodings for use with
+longdesc fontenc.
+containersize 25080
+containerchecksum fcc0956923810ab12cfe6032ecf44fcf8409e3bed7a83fef62c97987353663cb02d3e9fa77f2cc6aa71f6bb1c7ee95557ab809266ae33c59b645cb1fb48450b6
+doccontainersize 1755196
+doccontainerchecksum 23cba978fb1e4981aaad6833fd24031324e2e93fb4a3aed052c1ede99bd122c7f674503f13d8043d37c782d44d68505b5ab72fac2777c1b9ee2bc0a1ddfc897c
+runfiles size=44
+ texmf-dist/tex/latex/greek-fontenc/alphabeta-euenc.def
+ texmf-dist/tex/latex/greek-fontenc/alphabeta-lgr.def
+ texmf-dist/tex/latex/greek-fontenc/alphabeta.sty
+ texmf-dist/tex/latex/greek-fontenc/greek-euenc.def
+ texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+ texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+ texmf-dist/tex/latex/greek-fontenc/textalpha.sty
+catalogue-also lgrx
+catalogue-ctan /language/greek/greek-fontenc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics greek inputenc
+catalogue-version 0.13.2

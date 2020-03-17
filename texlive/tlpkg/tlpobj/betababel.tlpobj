@@ -1,0 +1,22 @@
+name betababel
+category Package
+revision 15878
+shortdesc Insert ancient greek text coded in Beta Code
+longdesc The betababel package extends the babel polutonikogreek option
+longdesc to provide a simple way to insert ancient Greek texts with
+longdesc diacritical characters into your document using the commonly
+longdesc used Beta Code transliteration. You can directly insert Beta
+longdesc Code texts -- as they can be found at the Perseus project, for
+longdesc example -- without modification.
+containersize 3344
+containerchecksum db2a590e8ed5e946652cc54d5c01bd540b87f77253278f9211c8720229992275f80edc26d0c94b4f68237d84a5bf7b56bd93a40e2a0ce8df5ffdeb124c81d219
+doccontainersize 151916
+doccontainerchecksum 209f8fc6123f8403bf6a30731773aeea82c5c6de123e24755e9a22ca6f3ea170015feeb541242a772c3244e7b74f1a766e95886e4f773f21c48b353f22d6adce
+runfiles size=3
+ texmf-dist/tex/latex/betababel/betababel.sty
+catalogue-contact-home http://www.tlg.uci.edu/
+catalogue-ctan /macros/latex/contrib/betababel
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics greek multilingual-addon
+catalogue-version 0.5

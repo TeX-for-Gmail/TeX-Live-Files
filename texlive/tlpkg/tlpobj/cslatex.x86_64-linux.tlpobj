@@ -1,0 +1,9 @@
+name cslatex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of cslatex
+containersize 340
+containerchecksum 421620207df5bb34cbf14280889fd0bf999a2ed59bc324b96adc87d37aa2bb1c03ee58fc06c5a58de99171ac102ddd01759520425d8a22727b02660c4ed6861b
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/cslatex
+ bin/x86_64-linux/pdfcslatex

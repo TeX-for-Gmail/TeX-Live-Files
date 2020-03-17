@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_x3gkbo3bcwtkvw3tklzsh4pjsd
+% Encoding created by otftotfm on Mon Sep  3 07:43:20 2018
+% Command line follows encoding
+/AutoEnc_x3gkbo3bcwtkvw3tklzsh4pjsd [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /uni207D /uni207E /asterisk /uni207A /comma /hyphen /period /slash
+%30
+  /uni2070 /uni00B9 /uni00B2 /uni00B3 /uni2074 /uni2075 /uni2076 /uni2077
+  /uni2078 /uni2079 /colon /semicolon /exclamdown /uni207C /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /a.superior /b.superior /c.superior /d.superior /e.superior /f.superior /g.superior
+  /uni02B0 /uni2071 /uni02B2 /k.superior /uni02E1 /m.superior /uni207F /o.superior
+%70
+  /p.superior /q.superior /uni02B3 /uni02E2 /t.superior /u.superior /v.superior /uni02B7
+  /uni02E3 /uni02B8 /z.superior /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf-tmp/fonts/tfm/public/libertinus-type1
+% --vf-directory=texmf-tmp/fonts/vf/public/libertinus-type1
+% --type1-directory=texmf-tmp/fonts/type1/public/libertinus-type1
+% --truetype-directory=texmf-tmp/fonts/truetype/public/libertinus-type1
+% --encoding-directory=texmf-tmp/fonts/enc/dvips/libertinus-type1
+% --map-file=texmf-tmp/fonts/map/dvips/libertinus-type1/LibertinusSans.map
+% --no-updmap --coding-scheme=TEX TEXT --feature=kern --feature=liga
+% --feature=sups --ligkern=* {KL} * libertinussans-bolditalic.otf
+% LibertinusSans-BoldItalic-sup-ot1'

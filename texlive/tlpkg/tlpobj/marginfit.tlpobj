@@ -1,0 +1,22 @@
+name marginfit
+category Package
+revision 48281
+shortdesc Improved margin notes
+longdesc This package fixes various bugs with the margin paragraph
+longdesc implementation of LaTeX. Those bugs include margin notes that
+longdesc are attached to the wrong side as well as those that stick out
+longdesc of the bottom of the page. This package provides a drop-in
+longdesc replacement solution.
+containersize 1888
+containerchecksum dafe223cc6120beac7ce419c5f5eb72ece9be2a21992e829a8015f7e05ca22c40d5196d26d21d8febf3459bfa58c7defc797ce7bd4ee1e3dda28761594240b3e
+doccontainersize 215180
+doccontainerchecksum fba2ff6febb4acd0dad443221c6146fc2b3818c4948827b827fe2ff2df82f4e2843520f1f4cd41fd64900012d64d973d9b649e65b1c5ee4e74757344ab423dc0
+srccontainersize 5788
+srccontainerchecksum 89892d83570cad7c46b5fafcf8a7d87b660d898afde97c2fed03f82d3cbdcea9bd11baecd19d3aa958305cac0d9f7163e00fe262a0738e7f89b62f7d1bdf0df8
+runfiles size=2
+ texmf-dist/tex/latex/marginfit/marginfit.sty
+catalogue-ctan /macros/latex/contrib/marginfit
+catalogue-date 2018-07-26 18:47:07 +0200
+catalogue-license lppl1.3
+catalogue-topics marginal
+catalogue-version 1.1

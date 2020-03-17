@@ -1,0 +1,19 @@
+name elteikthesis
+category Package
+revision 22513
+shortdesc Thesis class for ELTE University Informatics wing
+longdesc This is not an official University class, and has not been
+longdesc approved by the University.
+containersize 1552
+containerchecksum e4e4eb999e46b47e2cfdac34e1f36d49354104cd3bd0e13a78ccd63acc8a36997e3f075f40785e1eef059b79c0ff154b156bbc2e7ad039d79db778819de6ecce
+doccontainersize 2472988
+doccontainerchecksum 3d409ba033132d5c4ccb14e4e987cabda0f62e01d79f3c45b8fcf3ebc571fc9a5f94bdb0f2d66daa8d746de573069d9c3e7af0c998925a1176580bac3eaaafb1
+srccontainersize 5584
+srccontainerchecksum a37110177743fedfae82f6b84c081661b29d29dacd4e54f810f2c69ee6e288836ccd6c5428a53350d422eb2f1d1c503e50ea1ee0861d33fc80e93f63eba89586
+runfiles size=1
+ texmf-dist/tex/latex/elteikthesis/elteikthesis.cls
+catalogue-ctan /macros/latex/contrib/elteikthesis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics dissertation hungarian class
+catalogue-version 1.2

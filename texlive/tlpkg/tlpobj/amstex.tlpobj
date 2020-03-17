@@ -1,0 +1,47 @@
+name amstex
+category Package
+revision 50602
+shortdesc American Mathematical Society plain TeX macros
+longdesc AMS-TeX is a TeX macro package, originally written by Michael
+longdesc Spivak for the American Mathematical Society (AMS) during
+longdesc 1983-1985 and is described in the book 'The Joy of TeX'. It is
+longdesc based on Plain TeX, and provides many features for producing
+longdesc more professional-looking maths formulas with less burden on
+longdesc authors. This is the final archival distribution of AMS-TeX.
+longdesc AMS-TeX is no longer supported by the AMS, nor is it used by
+longdesc the AMS publishing program. The AMS does not recommend creating
+longdesc any new documents using AMS-TeX; this distribution will be left
+longdesc on CTAN to facilitate processing of legacy documents and as a
+longdesc historical record of a pioneering TeX macro collection that
+longdesc played a key role in popularizing TeX and revolutionizing
+longdesc mathematics publishing. In addition to the "User's Guide to
+longdesc AMS-TeX", the AMS has also made the full text of the most
+longdesc recent reprint of the second edition of "The Joy of TeX" by
+longdesc Michael Spivak available as a pdf file. AMS-TeX is the
+longdesc historical basis of amslatex, which should now be used to
+longdesc prepare submissions for the AMS.
+depend tex
+depend amsfonts
+depend cm
+depend hyphen-base
+depend knuth-lib
+depend plain
+depend amstex.ARCH
+execute AddFormat name=amstex engine=pdftex           options="-translate-file=cp227.tcx *amstex.ini"           fmttriggers=amsfonts,cm,hyphen-base,knuth-lib,plain
+containersize 38380
+containerchecksum 0be8ae28c39851cb48882041016146d88507109945b6e474fc7758254b7c3a5c1861093861e69f82c4646f7bef369c2b4d212e3bea9e3175cc687032d1476782
+doccontainersize 410596
+doccontainerchecksum 59a785a7e23e5530b40f45676dc5a0d75fde350d31bb5e6398015e7c9db2a672576d3a91dcb1c928103ce85dd6538f81ce86d8d78dfb2be196f044397a892296
+runfiles size=44
+ texmf-dist/tex/amstex/base/amsppt.sti
+ texmf-dist/tex/amstex/base/amsppt.sty
+ texmf-dist/tex/amstex/base/amsppt1.tex
+ texmf-dist/tex/amstex/base/amstex.bug
+ texmf-dist/tex/amstex/base/amstex.tex
+ texmf-dist/tex/amstex/config/amstex.ini
+catalogue-also joy-of-tex
+catalogue-contact-home http://www.ams.org/tex/amstex.html
+catalogue-ctan /macros/amstex
+catalogue-date 2019-01-29 20:02:48 +0100
+catalogue-license lppl
+catalogue-topics maths

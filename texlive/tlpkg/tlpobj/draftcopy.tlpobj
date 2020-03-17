@@ -1,0 +1,23 @@
+name draftcopy
+category Package
+revision 15878
+shortdesc Identify draft copies
+longdesc Places the word DRAFT (or other words) in light grey diagonally
+longdesc across the background (or at the bottom) of each (or selected)
+longdesc pages of the document. The package uses PostScript \special
+longdesc commands, and may not therefore be used with pdfLaTeX. For that
+longdesc usage, consider the wallpaper or draftwatermark packages.
+containersize 4252
+containerchecksum f1f2ac803e1858ffab880c7427ed2dfeaeb435255e83ed795e0d5b4262fce1fbf7593653035af2e45d4731107c8f886938015ee1a7fd0018001c0e39e9f1018d
+doccontainersize 122724
+doccontainerchecksum f7a4941c26c92223a9dde51e288380efe3b701d847051c13345e97f5a082cb3cd9e5d5421dfb2b1f1cdc12214df1ce6970a8ca6fe7463faad73af1a12c3542e7
+srccontainersize 3072
+srccontainerchecksum 9320e076a200fa5d7fa297c7d3228ce77ad9a9a56f57e4ef250a21320e9f2e429004ab716747499a264108ece97ae03388df084c24e2a370f57ee22b80628cba
+runfiles size=5
+ texmf-dist/tex/latex/draftcopy/draftcopy.cfg
+ texmf-dist/tex/latex/draftcopy/draftcopy.sty
+catalogue-ctan /macros/latex/contrib/draftcopy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics editorial
+catalogue-version 2.16

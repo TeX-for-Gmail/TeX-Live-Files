@@ -1,0 +1,25 @@
+name biblatex-caspervector
+category Package
+revision 48122
+shortdesc A simple citation style for Chinese users
+longdesc The package provides a simple and easily extensible
+longdesc biblography/citation style for Chinese LaTeX users, using
+longdesc BibLaTeX.
+containersize 4144
+containerchecksum f309df056d2fa0d58f46568e64b188d21414d4640106ca11ac51cc1de779b3e7a76d2633b1adb38412131c682808dfb2397093969e69b765c3d79099f421b9e7
+doccontainersize 591984
+doccontainerchecksum 78de4d815a69d965c08cd789c4c42aa16342f43dd9e485dd4af2ed10f688c32d69bad9fc9678947e8c3cffb4c6baa4cf84e4d6f90d21f1f99acbd9c3e5b11153
+runfiles size=10
+ texmf-dist/tex/latex/biblatex-caspervector/blx-caspervector-base.def
+ texmf-dist/tex/latex/biblatex-caspervector/blx-caspervector-gbk.def
+ texmf-dist/tex/latex/biblatex-caspervector/blx-caspervector-utf8.def
+ texmf-dist/tex/latex/biblatex-caspervector/caspervector-ay.bbx
+ texmf-dist/tex/latex/biblatex-caspervector/caspervector-ay.cbx
+ texmf-dist/tex/latex/biblatex-caspervector/caspervector.bbx
+ texmf-dist/tex/latex/biblatex-caspervector/caspervector.cbx
+catalogue-contact-repository https://gitlab.com/CasperVector/biblatex-caspervector
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-caspervector
+catalogue-date 2018-07-02 05:37:57 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex chinese
+catalogue-version 0.3.3

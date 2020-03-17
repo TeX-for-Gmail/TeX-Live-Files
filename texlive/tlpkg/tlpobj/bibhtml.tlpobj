@@ -1,0 +1,31 @@
+name bibhtml
+category Package
+revision 31607
+shortdesc BibTeX support for HTML files
+longdesc Bibhtml consists of a Perl script and a set of BibTeX style
+longdesc files, which together allow you to output a bibliography as a
+longdesc collection of HTML files. The references in the text are linked
+longdesc directly to the corresponding bibliography entry, and if a URL
+longdesc is defined in the entry within the BibTeX database file, then
+longdesc the generated bibliography entry is linked to this. The package
+longdesc provides three different style files derived from each of the
+longdesc standard plain.bst and alpha.bst, as well as two style files
+longdesc derived from abbrv.bst and unsrt.bst (i.e., eight in total).
+containersize 11448
+containerchecksum c7245cce245740f0d930518cfee66dc513bd4b43c8b5804e1012fb95f401dbca2321be44ba6251de573723ec2e6da85fc77b9a9192004ac2144bfbeb3225d27c
+doccontainersize 23716
+doccontainerchecksum cf01a0853d87180205651768b639ee4cf7ed1b6bb4869880489f57e37ed8fbff3e8406fbcae1d0c652b3d410f77af9b4d1932ee154c60cc79e2876014abf7b80
+runfiles size=57
+ texmf-dist/bibtex/bst/bibhtml/abbrvhtml.bst
+ texmf-dist/bibtex/bst/bibhtml/alphahtml.bst
+ texmf-dist/bibtex/bst/bibhtml/alphahtmldate.bst
+ texmf-dist/bibtex/bst/bibhtml/alphahtmldater.bst
+ texmf-dist/bibtex/bst/bibhtml/plainhtml.bst
+ texmf-dist/bibtex/bst/bibhtml/plainhtmldate.bst
+ texmf-dist/bibtex/bst/bibhtml/plainhtmldater.bst
+ texmf-dist/bibtex/bst/bibhtml/unsrthtml.bst
+catalogue-ctan /biblio/bibtex/contrib/bibhtml
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-util cvt-html
+catalogue-version 2.0.2

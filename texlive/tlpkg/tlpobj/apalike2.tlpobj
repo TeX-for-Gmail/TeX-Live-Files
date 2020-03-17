@@ -1,0 +1,14 @@
+name apalike2
+category Package
+revision 15878
+shortdesc Bibliography style that approaches APA requirements
+longdesc Described as a "local adaptation" of apalike (which is part of
+longdesc the base BibTeX distribution).
+containersize 6328
+containerchecksum ff569f69538cf82afd19d9dd8f798ac36994791d4c5cdaf8998267883432ee0230485de6b0aa9e9babcb285f1121936e911fe69700762010bcfbdfac6cdf5be6
+runfiles size=7
+ texmf-dist/bibtex/bst/apalike2/apalike2.bst
+catalogue-ctan /biblio/bibtex/contrib/apalike2
+catalogue-date 2016-11-03 05:37:55 +0100
+catalogue-license knuth
+catalogue-topics psychology journalpub bibtex-sty

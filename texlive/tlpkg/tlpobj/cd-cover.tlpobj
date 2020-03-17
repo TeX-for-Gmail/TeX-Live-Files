@@ -1,0 +1,22 @@
+name cd-cover
+category Package
+revision 17121
+catalogue cdcover
+shortdesc Typeset CD covers
+longdesc The CD-cover class will typeset front and back cover sheets for
+longdesc CD jewel cases, or an entire paper cover, or a label for a
+longdesc plastic slip-cover.
+containersize 3864
+containerchecksum 345b001cd40137d9739a97c3c06549c3c7b761f56f61109dd4908c767151515081defd6c432232ec7a9fdeb8e85e95258ded345facdef0cf6bffa82bb5c39fbe
+doccontainersize 303956
+doccontainerchecksum f22c8eccbecb35d4c3c01788c0eb8ca793fbaf7b97e2bd54ec79e78ba10c13a4eef46c5eee70f1550cc7c378bb01926e8eecc6d41916df22a6e615aacd2b1e75
+srccontainersize 12956
+srccontainerchecksum d8ecc73c18376678b2ee97b8bc81aebae7860e40451427e03f382aedbacdbc17a7761e8a78e275470c36927b3461c422bc62462163c6d92c509eb50cfa75598c
+runfiles size=4
+ texmf-dist/tex/latex/cd-cover/cd-cover.cls
+catalogue-also cd
+catalogue-ctan /macros/latex/contrib/cd-cover
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics covers
+catalogue-version 1.0

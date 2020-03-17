@@ -1,0 +1,18 @@
+name hyphen-bulgarian
+category TLCore
+revision 50792
+shortdesc Bulgarian hyphenation patterns.
+longdesc Hyphenation patterns for Bulgarian in T2A and UTF-8 encodings.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=bulgarian 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-bg.tex 	file_patterns=hyph-bg.pat.txt 	file_exceptions=
+containersize 28360
+containerchecksum 9719c6a1eb929c8c692e3854f8ce2fc09f14f2f070760c34c7c0557d71560258ed8ab40ca8a95828810a2b422f373f22f41be3c52c58ac175f4191989559cb9f
+runfiles size=81
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-bg.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-bg.t2a.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-bg.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bg.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bg.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bg.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-bg.pat.txt

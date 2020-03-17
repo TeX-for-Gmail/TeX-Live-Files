@@ -1,0 +1,45 @@
+name cfr-initials
+category Package
+revision 36728
+shortdesc LaTeX packages for use of initials
+longdesc This is a set of 23 tiny packages designed to make it easier to
+longdesc use fonts from the initials package in LaTeX, e.g. with the
+longdesc lettrine package. It is a response to comments on an answer at
+longdesc TeX Stack Exchange (http://tex.stackexchange.com/a/236410/)
+longdesc requesting sample package files for others to copy. I had
+longdesc previously assumed these were too trivial to be of interest,
+longdesc but if they would be useful, then I would prefer them to be
+longdesc generally available via CTAN.
+containersize 2332
+containerchecksum d67830168afffe72ef37784db45176528065210d4956b4aef2a166d41c886f5b3874e0878da9c56302412cf5939291451e1e20ba3e676429c598342982b64083
+doccontainersize 687232
+doccontainerchecksum 0d628f9134254a92c7b88d0744b588bb197c6850d7d5e44a90e91c1ed128625c7add731916b727c2d3b532ade017daaf17f45e446e4bc6f0e447bb5fdb770066
+runfiles size=23
+ texmf-dist/tex/latex/cfr-initials/Acorn.sty
+ texmf-dist/tex/latex/cfr-initials/AnnSton.sty
+ texmf-dist/tex/latex/cfr-initials/ArtNouv.sty
+ texmf-dist/tex/latex/cfr-initials/ArtNouvc.sty
+ texmf-dist/tex/latex/cfr-initials/Carrickc.sty
+ texmf-dist/tex/latex/cfr-initials/Eichenla.sty
+ texmf-dist/tex/latex/cfr-initials/Eileen.sty
+ texmf-dist/tex/latex/cfr-initials/EileenBl.sty
+ texmf-dist/tex/latex/cfr-initials/Elzevier.sty
+ texmf-dist/tex/latex/cfr-initials/GotIn.sty
+ texmf-dist/tex/latex/cfr-initials/GoudyIn.sty
+ texmf-dist/tex/latex/cfr-initials/Kinigcap.sty
+ texmf-dist/tex/latex/cfr-initials/Konanur.sty
+ texmf-dist/tex/latex/cfr-initials/Kramer.sty
+ texmf-dist/tex/latex/cfr-initials/MorrisIn.sty
+ texmf-dist/tex/latex/cfr-initials/Nouveaud.sty
+ texmf-dist/tex/latex/cfr-initials/Romantik.sty
+ texmf-dist/tex/latex/cfr-initials/Rothdn.sty
+ texmf-dist/tex/latex/cfr-initials/Royal.sty
+ texmf-dist/tex/latex/cfr-initials/Sanremo.sty
+ texmf-dist/tex/latex/cfr-initials/Starburst.sty
+ texmf-dist/tex/latex/cfr-initials/Typocaps.sty
+ texmf-dist/tex/latex/cfr-initials/Zallman.sty
+catalogue-ctan /macros/latex/contrib/cfr-initials
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp font-decor
+catalogue-version 1.01

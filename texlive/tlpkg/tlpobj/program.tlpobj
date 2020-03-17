@@ -1,0 +1,19 @@
+name program
+category Package
+revision 44214
+shortdesc Typesetting programs and algorithms
+longdesc The main offering is a program environment; a programbox
+longdesc environment is available for fragments that must not break with
+longdesc the pages.
+containersize 11780
+containerchecksum a9ef7d68ad86b42657681e2b798899b5c7c472c5e272a9098a1424a35a109dc4a946be54c4007db73edb861cb475f293e404cee9fa0dca8cdf086eb6c4790319
+doccontainersize 49880
+doccontainerchecksum 4213b5bc9cd6b2604bf1c667dd123729c0674d1c74338ebeb86b1551af14be3e24c4e94b4e5cc2c06a25ebf934d56eb6d3b5ce80e452798ea02fbb0ac6533580
+runfiles size=9
+ texmf-dist/tex/latex/program/program.sty
+catalogue-contact-home http://www.gkc.org.uk
+catalogue-ctan /macros/latex/contrib/program
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl3
+catalogue-topics listing pseudocode
+catalogue-version 3.3.14

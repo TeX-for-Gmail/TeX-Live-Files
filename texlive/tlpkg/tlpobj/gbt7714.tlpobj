@@ -1,0 +1,29 @@
+name gbt7714
+category Package
+revision 50504
+shortdesc BibTeX implementation of China's bibliography style standard GB/T 7714-2015
+longdesc The package provides a BibTeX implementation for the Chinese
+longdesc national bibliography style standard GB/T 7714-2015. It
+longdesc consists of two bst files for numerical and author-year styles
+longdesc and a LaTeX package which provides the citation style defined
+longdesc in the standard. It also support automatic language
+longdesc recognization (Chinese and English) for each biblilography
+longdesc entry and is designed to be fully compatible with natbib.
+containersize 8588
+containerchecksum 20d7691ca964b30f89560a250d73ac35fb01e2da40026d5e03d1367a12c0466b94d19592694950daadc41d76b3dc15420b0fc257579a6be0a4cff06011b0f39f
+doccontainersize 334328
+doccontainerchecksum 4c251b0ad2d13581b0085847eadb6a376c6cc64218c08439f4851cd3210671275d692d49a57f115c3a5764667f0558056ecce99fd51cccf169a5e61d80af84f5
+srccontainersize 24324
+srccontainerchecksum 8949ed61bf30ad172217bf50943c805edad7de98baf01e3e07bf411dbc95b56f8268b0c143156c153fcaac7326134282c1a7d797b03989ddd14ecc4eac810201
+runfiles size=21
+ texmf-dist/bibtex/bst/gbt7714/gbt7714-plain.bst
+ texmf-dist/bibtex/bst/gbt7714/gbt7714-unsrt.bst
+ texmf-dist/tex/latex/gbt7714/gbt7714.sty
+catalogue-contact-announce https://github.com/zepinglee/gbt7714-bibtex-style/releases
+catalogue-contact-bugs https://github.com/zepinglee/gbt7714-bibtex-style/issues
+catalogue-contact-repository https://github.com/zepinglee/gbt7714-bibtex-style
+catalogue-ctan /biblio/bibtex/contrib/gbt7714
+catalogue-date 2019-03-21 15:00:31 +0100
+catalogue-license lppl1.3c
+catalogue-topics bibtex-supp chinese
+catalogue-version 1.1.1

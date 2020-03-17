@@ -1,0 +1,20 @@
+name simplewick
+category Package
+revision 15878
+shortdesc Simple Wick contractions
+longdesc The package provides a simple means of drawing Wick
+longdesc contractions above and below expressions.
+containersize 2348
+containerchecksum 86aab23f8d19e9fa5a6251f8f725ada87b66a71a3024253d8b56f3edcc20f26695b2194b710f691ff9ed0713c993a8652447674ec84d4084c3354791244a6f10
+doccontainersize 71624
+doccontainerchecksum bf0c3b8724ed8cc41635f45001fa04f655a7b37792c5b0e632578b066649c3bde1f894c3ab739ea2bb49f6e4f65e63fd7cd7d515ea15b53ab5894778a7918d13
+srccontainersize 4412
+srccontainerchecksum 45d26e7044fe0928eb8e572f0333bee64c008c2e4d1536a0145939ce0f3392961e72bd7fc70c35b2607b2a241249d13e44e433b373b57898193185a808f128d4
+runfiles size=2
+ texmf-dist/tex/latex/simplewick/simplewick.sty
+catalogue-also simpler-wick
+catalogue-ctan /macros/latex/contrib/simplewick
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics physics
+catalogue-version 1.2a

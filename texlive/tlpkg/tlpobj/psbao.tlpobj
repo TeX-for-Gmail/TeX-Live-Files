@@ -1,0 +1,17 @@
+name psbao
+category Package
+revision 15878
+shortdesc Draw Bao diagrams
+longdesc The package draws Bao diagrams in LaTeX. The package is a
+longdesc development of psgo, and uses PSTricks to draw the diagrams.
+containersize 4336
+containerchecksum cec6c6079d7a8757c9c01315f3b035fce1eba2dda487e3a9da21a2bcfe6c7f7fe5f82171ac5b850fb7f673b56258f7b39c2e0b74c421e324475b02ec13671b32
+doccontainersize 92976
+doccontainerchecksum 1a9d1a0250bfd82d76ff1a3feed17c016f46e5ef199038bb569708989f7a243682a9584c1d293807cce09394a70a25a2f8b31189d81aae89336306f3f146dc9e
+runfiles size=5
+ texmf-dist/tex/latex/psbao/psbao.sty
+catalogue-ctan /graphics/pstricks/contrib/psbao
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 0.17

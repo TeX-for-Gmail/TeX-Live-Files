@@ -1,0 +1,22 @@
+name njurepo
+category Package
+revision 50492
+shortdesc Reports for Nanjing University
+longdesc This LaTeX document class provides a thesis template for
+longdesc Nanjing University in order to make it easy to write experiment
+longdesc reports and homework for the bachelor's curriculum. NJUrepo
+longdesc stands for Nanjing University versatile Report.
+containersize 10944
+containerchecksum a62efcf4630d7c26bbedb19e0c4405e730733b71361cbec9abed7a06a377c230bee561d8b48427104bef8dbd4e0bd56b0eaf9f0f7bbcdc8b289c726cd7b6cef7
+doccontainersize 1088508
+doccontainerchecksum 61f32efbea3b94749fa0cfc3ef2a3b3a34ccfb4ed3b6b09afa74e4f6dbd2540c1a263c81ca6406288f015303250f51acab0b6a4a4d51c95a2f9bbf1f3360f8e9
+srccontainersize 21544
+srccontainerchecksum 6a790ae4e533c8e040ede3355967ee030e136d42afbe222a8fc4b7c3810817901aaca1625199d88443c8dd64d3d6b52ef9364d706fd1cfd5a6dd8a7916890df8
+runfiles size=10
+ texmf-dist/tex/latex/njurepo/njurepo.cls
+catalogue-also seuthesix
+catalogue-ctan /macros/latex/contrib/njurepo
+catalogue-date 2019-03-20 20:58:45 +0100
+catalogue-license lppl1.3c
+catalogue-topics dissertation class
+catalogue-version 1.1.2

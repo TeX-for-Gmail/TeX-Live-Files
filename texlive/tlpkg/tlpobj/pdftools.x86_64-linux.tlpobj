@@ -1,0 +1,12 @@
+name pdftools.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of pdftools
+containersize 384244
+containerchecksum b16554b47a3c01f4c0191468f6f567c5c2d44e02f6b1ff4c9e83aba89220a0387baa092f67b79054c1ec1acfbf5ca9df820c4466fe7033370f0267610f4f0cd1
+binfiles arch=x86_64-linux size=305
+ bin/x86_64-linux/e2pall
+ bin/x86_64-linux/pdfatfi
+ bin/x86_64-linux/pdfclose
+ bin/x86_64-linux/pdfopen
+ bin/x86_64-linux/pdftosrc

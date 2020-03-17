@@ -1,0 +1,25 @@
+name mkjobtexmf
+category Package
+revision 29725
+shortdesc Generate a texmf tree for a particular job
+longdesc The package provides a Perl script, which runs a program and
+longdesc tries to find the names of file used. Two methods are
+longdesc available, option -recorder of (Web2C) TeX and the program
+longdesc strace. Then it generates a directory with a texmf tree. It
+longdesc checks the found files and tries sort them in this texmf tree.
+longdesc The script may be used for archiving purposes or to speed up
+longdesc later TeX runs.
+depend mkjobtexmf.ARCH
+containersize 7444
+containerchecksum c0dffdb276141b78bd2c47e6d2bfddcd13c1800d3a0806a05ca1fba72a91621364b827801430bc757601e07f2a5130366ade49d7ac1df27901fbec29827739c3
+doccontainersize 80276
+doccontainerchecksum 3ef5c333cedd5104b63c1457fff2eee40aea7d1f1b187d34ce4cfccd5b6bd38809b7686dc7b41a147fbee2ae0e951470f3ae574bd3c10a5f9b6fb76b686ce4f5
+srccontainersize 19828
+srccontainerchecksum 7f9de9bafb890d12ef2f07d3b8596dc31c4bb97079f826c9efd4f318383f64d8250099a937d8d692fecf703e626b42f942962f4d906e705cf4b0155e354bff0f
+runfiles size=6
+ texmf-dist/scripts/mkjobtexmf/mkjobtexmf.pl
+catalogue-ctan /support/mkjobtexmf
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license artistic
+catalogue-topics archival
+catalogue-version 0.8

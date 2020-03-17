@@ -1,0 +1,22 @@
+name basque-date
+category Package
+revision 26477
+shortdesc Print the date in Basque
+longdesc The package provides two LaTeX commands to print the current
+longdesc date in Basque according to the correct forms ruled by The
+longdesc Basque Language Academy (Euskaltzaindia). The commands
+longdesc automatically solve the complex declination issues of numbers
+longdesc in Basque.
+containersize 1696
+containerchecksum 2f0cdfa78c3b75dddc5ab9ed15f651308dad4e598f9623eea50929c48d6f15318f768b95d55ba124eb048129447ce1e629febbb3fa6925677b2a46ac94d82654
+doccontainersize 194976
+doccontainerchecksum 249bfaabe93c4306c32c698eede8835cac334a27802253dc6ce1f380eaafa5c79fc3b86ee34ddd7b98df043cc0ccec137ae3d342cd3904f39203b0ffba2fc9b7
+srccontainersize 3180
+srccontainerchecksum f38091d9c38f86efa401f11759c536dc3ec041688ef9b1909dbdb5661ea096b7e4d69ee78a5beb194e1cdb24afc8ea07e26f2c9c45777aae517351fd4f3a2b86
+runfiles size=2
+ texmf-dist/tex/latex/basque-date/basque-date.sty
+catalogue-ctan /macros/latex/contrib/basque-date
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics basque date-time
+catalogue-version 1.05

@@ -1,0 +1,18 @@
+name apalike-german
+category Package
+revision 47002
+shortdesc A copy of apalike.bst with German localization
+longdesc A copy of apalike.bst (which is part of the base BibTeX
+longdesc distribution) with German localization.
+containersize 5860
+containerchecksum 37dec37d8e08a2f124c3874eeb9934e7da3cc9cc8fb1ce82705a461e060e4a59dbd82c779ce89c4d53f1ea909b4b9abfd57e1f9362ed432693dbee7b1ce615b9
+doccontainersize 13300
+doccontainerchecksum 91899056f7c71a20e08e4f5e1a2cab83282f9436409cf28b120b92a3633ec5287ae2b6d7fec2c20ee28299589150408ef2e9760028231523e4c378351a88432f
+runfiles size=7
+ texmf-dist/bibtex/bst/apalike-german/apalike-german.bst
+catalogue-contact-home https://ingram-braun.net/public/programming/tex/apalike-german-bst-bibtex-bibliography-author-date-style/
+catalogue-contact-repository https://github.com/CarlOrff/apalike-german
+catalogue-ctan /biblio/bibtex/contrib/apalike-german
+catalogue-date 2018-03-17 14:53:38 +0100
+catalogue-license lppl1.3c
+catalogue-topics bibtex-sty german

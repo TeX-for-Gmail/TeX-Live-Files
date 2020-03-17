@@ -1,0 +1,30 @@
+name kalendarium
+category Package
+revision 48744
+shortdesc Print dates according to the classical Latin calendar
+longdesc kalendarium is a LaTeX3 package that provides several macros
+longdesc with which to print dates in classical Latin given days on the
+longdesc Julian or Gregorian calendars, using the same syntax used by
+longdesc ancient Roman authors. The format of these dates may be
+longdesc customised either in the package options or on a per-command
+longdesc basis; these options also allow for the generation of date
+longdesc strings according to different eras of the Classical period.
+containersize 3540
+containerchecksum fea39ce08f6028f078e2d87ec73aeeb56d72006d24d316f8e257b3c71604efe2b4ea2fa698f79798ec5c9b3d271d758d4c0699ffce1bf380a74d21158224eabb
+doccontainersize 365480
+doccontainerchecksum 60a1dcbaa92fcb4438f4a2416dc4784fc30af34c6e1511533b8827a266b61a62a6c0e66f51b27ce81dd879d774e9fee6b155a048ddb9f68e1f991294791739e1
+srccontainersize 16432
+srccontainerchecksum a1668bd43e489002ff365f5f90c6f9f8d6acb752256159f223a444b41ac1398e8d0bde50a63deac11f8d3a22f792278891cb05109b5af4c2efc1e8c278f01a76
+runfiles size=4
+ texmf-dist/tex/latex/kalendarium/kalendarium.sty
+catalogue-contact-announce https://github.com/Andrew-William-Smith/kalendarium/commits/master
+catalogue-contact-bugs https://github.com/Andrew-William-Smith/kalendarium/issues
+catalogue-contact-development https://github.com/Andrew-William-Smith/kalendarium
+catalogue-contact-home https://github.com/Andrew-William-Smith/kalendarium
+catalogue-contact-repository https://github.com/Andrew-William-Smith/kalendarium
+catalogue-contact-support https://github.com/Andrew-William-Smith/kalendarium/issues
+catalogue-ctan /macros/latex/contrib/kalendarium
+catalogue-date 2018-09-26 16:01:35 +0200
+catalogue-license lppl1.3c
+catalogue-topics calendar latex3
+catalogue-version 1.0

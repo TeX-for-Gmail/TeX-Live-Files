@@ -1,0 +1,34 @@
+name ydoc
+category Package
+revision 26202
+shortdesc Macros for documentation of LaTeX classes and packages
+longdesc The package provides macros and environments to document LaTeX
+longdesc packages and classes. It is an (as yet unfinished) alternative
+longdesc to the ltxdoc class and the doc or xdoc packages. The aim is to
+longdesc provide a different layout and more modern styles (using the
+longdesc xcolor, hyperref packages, etc.) This is an alpha release, and
+longdesc should probably not (yet) be used with other packages, since
+longdesc the implementation might change. Nevertheless, the author uses
+longdesc it to document his own packages.
+containersize 9152
+containerchecksum 4e4292e4e6e6b4f5db8ff0721eacb582960932f48a221835c3e07841168b1f81227fcaaa41ed619430c5455edaef38dc073a8cf6c584ac759e88b9f40710caa3
+doccontainersize 321388
+doccontainerchecksum c5257e669d802563c6ecec45a53645a69bc4c7980c95dc0a98164c950c1e5b12b5b4d012bd8a97164fa9b055eb84184c4df520b08949f68283d2ef2e33658838
+srccontainersize 17476
+srccontainerchecksum a7bfd7160ce16a03505347e158b629c98519f2114f057529a52caf24f818d1553e76714936a9f92b0020b9d16826b5fd259a12d68fe63037cb04f89ef11657a4
+runfiles size=14
+ texmf-dist/tex/generic/ydoc/ydocincl.tex
+ texmf-dist/tex/generic/ydoc/ydocstrip.tex
+ texmf-dist/tex/latex/ydoc/ydoc-code.sty
+ texmf-dist/tex/latex/ydoc/ydoc-desc.sty
+ texmf-dist/tex/latex/ydoc/ydoc-doc.sty
+ texmf-dist/tex/latex/ydoc/ydoc-expl.sty
+ texmf-dist/tex/latex/ydoc/ydoc.cfg
+ texmf-dist/tex/latex/ydoc/ydoc.cls
+ texmf-dist/tex/latex/ydoc/ydoc.sty
+catalogue-also ltxdoc doc xdoc gmdoc codedoc nicetext showexpl
+catalogue-ctan /macros/latex/contrib/ydoc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-supp class
+catalogue-version 0.6alpha

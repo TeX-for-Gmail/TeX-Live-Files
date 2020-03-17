@@ -1,0 +1,29 @@
+name xpiano
+category Package
+revision 37604
+shortdesc An extension of the piano package
+longdesc This package provides macros for typesetting virtual keyboards
+longdesc limited to two octaves for showing notes represented by a
+longdesc colored circle. Optionally, the number used for pitch analysis
+longdesc can be shown. It is an extension of piano.sty by Emile
+longdesc Daneault, written in expl3 in answer to a couple of questions
+longdesc on TeX.StackExchange:
+longdesc http://tex.stackexchange.com/questions/162184/
+longdesc http://tex.stackexchange.com/questions/246276/. It features
+longdesc extended syntax and several options, like setting the color,
+longdesc adding numbers for pitch analysis, one or two octaves, and
+longdesc others.
+containersize 2812
+containerchecksum 3554bd514e1108649bc98d38dc84951edf17533758325d46726f55d9909d1a3747024aeff62842dc6eb1b5fc760c41a452e207b156bdee06468e9d7732e223b6
+doccontainersize 556172
+doccontainerchecksum 257c484983eed03adc77b1776c9207ff89b4152b817aa09fb57cb41d8f6494af0db191c61b954a7f2a605cb8695fdd0562cbab1e0c48f85329c3ad61fef0e62d
+srccontainersize 6324
+srccontainerchecksum b52814268736b61fe3f417f410e4b29f778b6492f838d16894d33db85645799d52d3d744f10b429e68e315a142964b2f5ff57f15e9c4ee7e93a58dbd4b0fa2e2
+runfiles size=3
+ texmf-dist/tex/latex/xpiano/xpiano.sty
+catalogue-also piano
+catalogue-ctan /macros/latex/contrib/xpiano
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics music
+catalogue-version 1.0

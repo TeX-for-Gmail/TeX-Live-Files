@@ -1,0 +1,15 @@
+name tex-overview
+category Package
+revision 41403
+shortdesc An overview of the development of TeX
+longdesc The document gives a short overview of TeX and its children, as
+longdesc well as the macro packages LaTeX and ConTeXt.
+containersize 432
+containerchecksum 1217aeba55d723dad2843509ad3adf205090298f2362ba4ce23d73ec581e439c344f055281a95f82bd8cec298c77da012cf892e60369562238bba7f8b8d258a1
+doccontainersize 260424
+doccontainerchecksum 0cd9941afc0e50d3d936f5ba1f9d2c7f16244899982ff7eaa44bb019653b5e4e142edc1ee608ca1664636c77178dd8a02f4625a2216a019e770651a718f0a27b
+catalogue-ctan /info/tex-overview
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics documentation
+catalogue-version 0.2

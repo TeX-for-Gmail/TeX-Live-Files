@@ -1,0 +1,21 @@
+name pagenote
+category Package
+revision 15878
+shortdesc Notes at end of document
+longdesc The pagenote package provides tagged notes on a separate page
+longdesc (also known as 'end notes'). Unless the memoir class is used,
+longdesc the package requires the ifmtarg package.
+containersize 2020
+containerchecksum f1db9829d909add12458cd17771136ef642b5655b03779c8b2fa46cf25afcb8843d91de331737f8f6537e7afc5f2dfd275926e6f4502c8022b0472d61b433b1e
+doccontainersize 138600
+doccontainerchecksum b57cbcef6a6ecec75b351f6a3dc09f0422873155a8f90819dc4dd2caf60cd562a21de7ce62b241259c2f0dc3889c0deceb25c00f7f3d8764a90f5861c8e8c1ee
+srccontainersize 7888
+srccontainerchecksum 3a7f4cdfa5839de85f476c3f059847ba05f7e5eb10ef4f5d951ac4e07a33091c4ccda5570dea1bf47fbc7f15272ca411afd68197fba56c9ec133d163671483db
+runfiles size=2
+ texmf-dist/tex/latex/pagenote/pagenote.sty
+catalogue-also endnote
+catalogue-ctan /macros/latex/contrib/pagenote
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics notes
+catalogue-version 1.1a

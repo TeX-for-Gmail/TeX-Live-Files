@@ -1,0 +1,21 @@
+name octave
+category Package
+revision 45674
+shortdesc Typeset musical pitches with octave designations
+longdesc This package package typesets musical pitch names with
+longdesc designation for the octave in either the Helmholtz system (with
+longdesc octave numbers), or the traditional system (with prime
+longdesc symbols). Authors can just write \pitch{C}{4} and the pitches
+longdesc will be rendered correctly depending on which package option
+longdesc was selected. The system can also be changed mid-document.
+containersize 2332
+containerchecksum f7063b207152ebdbd29da1e93db1b65796dabcc1eee1fcf36a470c6074b7abf239c87f5e4e765f08ec70d8ff7f2ebc8fa29a5590fa9a9d6740a5e74c0e3d719a
+doccontainersize 256924
+doccontainerchecksum 0fc6b228fff15a4dc90973339f2b155ede7051ce69066e24d7dcdb9c9d5ee162c8d684298c8ef7fae64274dfc4f101dbca8fc38ca68200c36cf901153fc461f9
+runfiles size=2
+ texmf-dist/tex/latex/octave/octave.sty
+catalogue-contact-repository https://bitbucket.org/andrewacashner/octave
+catalogue-ctan /macros/latex/contrib/octave
+catalogue-date 2017-10-31 23:20:06 +0100
+catalogue-license lppl1.3
+catalogue-topics music

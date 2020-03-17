@@ -1,0 +1,23 @@
+name datetime2-czech
+category Package
+revision 47033
+shortdesc Czech language module for the datetime2 package
+longdesc This module provides the "czech" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2568
+containerchecksum 048ffe6258ce1d4bf9d098e7623d3c5e25ef8215a538e33806c4d35d6368fda81941ff9adbb394085c9b4f058fe9a3b02cbeeaae8cb1f7b2bb55aaa35c743d61
+doccontainersize 81720
+doccontainerchecksum 976e98000a80e15a4ea5204f15a5288781ab35089bcd9427b62fb445f28a25ba0c03af4e64a3de688a51c5c94788732fa199705a68de3e9925f1db4ec7dcead7
+srccontainersize 4748
+srccontainerchecksum 9ef924462b97d29d6102cb691d1845f68ec50054a71d93222b61af91f510211016fdaa4861433a65c589263af11a62cb23d64a79f5bb26624395589dfa812515
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-czech/datetime2-czech-ascii.ldf
+ texmf-dist/tex/latex/datetime2-czech/datetime2-czech-utf8.ldf
+ texmf-dist/tex/latex/datetime2-czech/datetime2-czech.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-czech
+catalogue-date 2018-03-19 17:42:42 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

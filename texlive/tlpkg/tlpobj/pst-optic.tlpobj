@@ -1,0 +1,19 @@
+name pst-optic
+category Package
+revision 41999
+shortdesc Drawing optics diagrams
+longdesc A package for drawing both reflective and refractive optics
+longdesc diagrams. The package requires pstricks later than version
+longdesc 1.10.
+containersize 14660
+containerchecksum c9e0231301824a612c755adbf2789f9cc428bbc6133a5669d173ff1426663f704aa978c506add7e4a0c786b51ed61df355f59e7b6392f355ac6913c6f9336f46
+doccontainersize 308860
+doccontainerchecksum cba9465a3e81060bae7ab4b8d7c8a1ef804415a3f85c0a89c98d57c6a3e8ff2c58a40b91e9c6281ac520be5b03f13d1890d8cce063a892a84d6eee5f6beeb625
+runfiles size=20
+ texmf-dist/tex/generic/pst-optic/pst-optic.tex
+ texmf-dist/tex/latex/pst-optic/pst-optic.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-optic
+catalogue-date 2018-09-15 12:57:29 +0200
+catalogue-license lppl
+catalogue-topics physics diagram pstricks
+catalogue-version 1.02

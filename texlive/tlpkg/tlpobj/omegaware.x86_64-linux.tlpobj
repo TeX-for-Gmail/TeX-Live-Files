@@ -1,0 +1,20 @@
+name omegaware.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of omegaware
+containersize 255964
+containerchecksum 64e2b21b7749e5ce8bd697c5665c8e77be322a2c8c9489dedb0c93e2203f76d8ed288bdacfa77cd8f8550123d4206a443049b8b565caf5102346e22dc848a05e
+binfiles arch=x86_64-linux size=268
+ bin/x86_64-linux/odvicopy
+ bin/x86_64-linux/odvitype
+ bin/x86_64-linux/ofm2opl
+ bin/x86_64-linux/omfonts
+ bin/x86_64-linux/opl2ofm
+ bin/x86_64-linux/otangle
+ bin/x86_64-linux/otp2ocp
+ bin/x86_64-linux/outocp
+ bin/x86_64-linux/ovf2ovp
+ bin/x86_64-linux/ovp2ovf
+ bin/x86_64-linux/wofm2opl
+ bin/x86_64-linux/wopl2ofm
+ bin/x86_64-linux/wovf2ovp

@@ -1,0 +1,27 @@
+name gentombow
+category Package
+revision 48512
+shortdesc Generate Japanese-style crop marks
+longdesc This bundle provides a LaTeX package for generating
+longdesc Japanese-style crop marks (called 'tombow' in Japanese) for
+longdesc practical use in self-publishing. The bundle contains the
+longdesc following packages: gentombow.sty: Generate crop marks (called
+longdesc 'tombow' in Japanese) for practical use in self-publishing. It
+longdesc provides the core 'tombow' feature if not available.
+longdesc pxgentombow.sty: Superseded by gentombow.sty; kept for
+longdesc compatibility only. bounddvi.sty: Set papersize special to DVI
+longdesc file. Can be used on LaTeX/pLaTeX/upLaTeX (with DVI output
+longdesc mode) with dvips or dvipdfmx drivers.
+containersize 8064
+containerchecksum 16551ea615a0986d92473b3c2ea17a9c455258c32e0fafac269d58819025f3ead2f67b960dedadb8748caa9ad4c0551557ae19f7c7050eafa042d5ecf23ec955
+doccontainersize 545656
+doccontainerchecksum 56c7bb21fac2c4118a75978b8cecaa2301ac6a94bc14371796008eb230038a819f42bfec62f1a482e354fab3ace553c9f9ae51f398a12d0eff58f47210881315
+runfiles size=9
+ texmf-dist/tex/latex/gentombow/bounddvi.sty
+ texmf-dist/tex/latex/gentombow/gentombow.sty
+ texmf-dist/tex/latex/gentombow/pxgentombow.sty
+catalogue-contact-repository https://github.com/aminophen/gentombow
+catalogue-ctan /macros/latex/contrib/gentombow
+catalogue-date 2018-08-30 14:36:31 +0200
+catalogue-license bsd3
+catalogue-topics japanese layout-page page-control

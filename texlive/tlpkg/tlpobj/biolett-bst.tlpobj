@@ -1,0 +1,19 @@
+name biolett-bst
+category Package
+revision 42217
+shortdesc A BibTeX style for the journal "Biology Letters"
+longdesc This package provides a BibTeX style (.bst) file for the
+longdesc journal "Biology Letters" published by the Royal Society. This
+longdesc style was produced independently and hence has no formal
+longdesc approval from the Royal Society.
+containersize 5696
+containerchecksum e593f073daea4a8326d0a472999c128f511becde100c5dbedd540fd6ea116c5585b2d3673165ed39abf1942fb66c8372ca1961cef90501244f5320119117af05
+doccontainersize 960
+doccontainerchecksum 7b3f9666225849463683a38a3ccb4e5bc9c0869312d31173f48776c2b209eb269309699b2173c2eb5fc9163baabefd1bf6cf288ca683142285dda6f0c6d95b61
+runfiles size=7
+ texmf-dist/bibtex/bst/biolett-bst/biolett.bst
+catalogue-contact-home http://www.isoptera.ufv.br/
+catalogue-ctan /biblio/bibtex/contrib/biolett-bst
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1
+catalogue-topics bibtex-sty journalpub biology

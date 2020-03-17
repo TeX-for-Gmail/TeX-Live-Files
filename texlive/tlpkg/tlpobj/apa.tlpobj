@@ -1,0 +1,29 @@
+name apa
+category Package
+revision 42428
+shortdesc American Psychological Association format
+longdesc A LaTeX class to format text according to the American
+longdesc Psychological Association Publication Manual (5th ed.)
+longdesc specifications for manuscripts or to the APA journal look found
+longdesc in journals like the Journal of Experimental Psychology etc. In
+longdesc addition, it provides regular LaTeX-like output with a few
+longdesc enhancements and APA-motivated changes. Note that the apa6
+longdesc (covering the 6th edition of the manual) is now commonly in
+longdesc use. Apacite, which used to work with this class, has now been
+longdesc updated for use with apa6.
+containersize 12892
+containerchecksum 53d30a8458538f1852113370a63d49e8c0926437752c9d03299374fcf8adcd79c1c353bf420ac33a364e6ca296079ff385609bf2afbcb95dcf54465715790703
+doccontainersize 26964
+doccontainerchecksum df97c4fd9187772847f29950e899fae480cf5fd82d7f6bc3fcd1de93a1535fac7481436c789ae2c04e998f521f23e5b5219b38904afe1394cebb6c68e55d780e
+runfiles size=18
+ texmf-dist/tex/latex/apa/apa.cls
+ texmf-dist/tex/latex/apa/dutch.apa
+ texmf-dist/tex/latex/apa/english.apa
+ texmf-dist/tex/latex/apa/greek.apa
+catalogue-also mslapa
+catalogue-contact-home http://users.uoa.gr/~aprotopapas/CV/apacls.html
+catalogue-ctan /macros/latex/contrib/apa
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics psychology journalpub
+catalogue-version 1.3.4

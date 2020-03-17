@@ -1,0 +1,15 @@
+name visualpstricks
+category Package
+revision 39799
+shortdesc Visual help for PSTricks based on images with minimum text
+longdesc Visual help for PSTricks based on images with minimum text. One
+longdesc image per command or per parameter.
+containersize 432
+containerchecksum fa501a3ed6506fe52d3d31515f453db5378c7d01415ed05c0870ea15051d34dc5a564ab8ef2ef4608f616b657ecf29f5b18a8920bdf1606f78928fc505cfb0d1
+doccontainersize 13043468
+doccontainerchecksum 3d2dfea937b2b99e148fb0220067b9a777126854d82cd1e591f84a1d13e1090755660509814e4690dad20d2568286ce05653d3b5c7c6653df61d27229c9cd5e2
+catalogue-ctan /info/visualpstricks
+catalogue-date 2016-10-27 20:26:18 +0200
+catalogue-license gpl
+catalogue-topics pstricks graphics-in-tex graphics-doc french-doc
+catalogue-version 2.3

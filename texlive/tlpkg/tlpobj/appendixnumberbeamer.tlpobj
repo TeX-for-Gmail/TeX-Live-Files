@@ -1,0 +1,25 @@
+name appendixnumberbeamer
+category Package
+revision 46317
+shortdesc Manage frame numbering in appendixes in beamer
+longdesc This package fixes the frame numbering in beamer when using an
+longdesc appendix such that the slides from the appendix are not counted
+longdesc in the total frame number of the main part of the document. The
+longdesc total frame number counter is reset to 0 when entering the
+longdesc appendix. The standard usage is to include
+longdesc \usepackage{appendixnumberbeamer} in the preamble and then
+longdesc declare the beginning of the appendix as usual using the
+longdesc \appendix command.
+containersize 1596
+containerchecksum d5f4573a0f6c31be7e910512d86ee0443e713abea11e71694b58f1d1d65f4249f967aa5b873941e1d8b7686d408f411aad1a76009a3bbcb528693ae14dc60e63
+doccontainersize 676
+doccontainerchecksum 58b32eacfbcd8e024a4cf3dcea0c1d057010dd454c1e54b6752b970a3fa1a9e10eb15d8cee9dbb9ae032aaa8b6c070079b112f5a91b1c9617df40877a4a3454b
+runfiles size=1
+ texmf-dist/tex/latex/appendixnumberbeamer/appendixnumberbeamer.sty
+catalogue-contact-bugs https://github.com/jlelong/appendixnumberbeamer/issues
+catalogue-contact-home https://github.com/jlelong/appendixnumberbeamer
+catalogue-ctan /macros/latex/contrib/beamer-contrib/appendixnumberbeamer
+catalogue-date 2018-01-15 14:36:54 +0100
+catalogue-license gpl3
+catalogue-topics presentation
+catalogue-version 1.2

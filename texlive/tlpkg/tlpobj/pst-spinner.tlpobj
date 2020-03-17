@@ -1,0 +1,26 @@
+name pst-spinner
+category Package
+revision 44507
+shortdesc Drawing a fidget spinner
+longdesc This package aims to propose a model of the fidget spinner
+longdesc gadget. It exists under different forms with 2, 3 poles and
+longdesc even more. We chose the most popular model: the triple Fidget
+longdesc Spinner. You can run the PSTricks related documents with
+longdesc XeLaTeX.
+containersize 2820
+containerchecksum 7014c371182a354d11bc76c60bab01321d60af9559098a353c3e7a5a88d2e251f9362a24872b60d2214450ad3d423f3868d219bf109f0524a6431db17ce1c881
+doccontainersize 1383000
+doccontainerchecksum 90ac8da08b1be6dbf3bf126ed49279fd0f593a586a3bb7e58b89f9b9da361637ab4c9aa133ee2f798b7d49c420a4765cf2fd9936410d37ac955d661196f1dffe
+runfiles size=3
+ texmf-dist/dvips/pst-spinner/pst-spinner.pro
+ texmf-dist/tex/generic/pst-spinner/pst-spinner.tex
+ texmf-dist/tex/latex/pst-spinner/pst-spinner.sty
+catalogue-contact-announce http://tug.org/PSTricks/
+catalogue-contact-home http://tug.org/PSTricks/
+catalogue-contact-repository http://comedy.dante.de/~herbert/texnik/
+catalogue-contact-support http://tug.org/mailman/listinfo/pstricks
+catalogue-ctan /graphics/pstricks/contrib/pst-spinner
+catalogue-date 2017-06-06 19:56:03 +0200
+catalogue-license lppl
+catalogue-topics graphics pstricks
+catalogue-version 1.02

@@ -1,0 +1,24 @@
+name wordcount
+category Package
+revision 46165
+shortdesc Estimate the number of words in a LaTeX document
+longdesc The package provides a relatively easy way of estimating the
+longdesc number of words in a LaTeX document that does not require
+longdesc dvitty or other DVI converters. It does however require
+longdesc something like Unix grep -c that can search a file for a
+longdesc particular string and report the number of matching lines. An
+longdesc accompanying shell script wordcount.sh contains more
+longdesc information in its comments.
+depend wordcount.ARCH
+containersize 5036
+containerchecksum 3c26b3bcb4c3edce8cf9d6628cf6b89103aa1ae454b07c1e963ca90693c18fb851772a52082a23efbefb51235005e558fd553afc891a472eb39cd430c97f861a
+doccontainersize 776
+doccontainerchecksum a86b034ebff42c89f07015b01f86756a83ff2c69ed911ecde185ff719b09e3db47f284fe778c9dfd16442d1513edc9ddbb4944cc242328c17bd3fc18a0aa098f
+runfiles size=3
+ texmf-dist/scripts/wordcount/wordcount.sh
+ texmf-dist/tex/latex/wordcount/wordcount.tex
+catalogue-ctan /macros/latex/contrib/wordcount
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics word-count
+catalogue-version 1.7

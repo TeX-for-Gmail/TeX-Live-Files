@@ -1,0 +1,28 @@
+name graphics-pln
+category Package
+revision 46363
+shortdesc LaTeX-style graphics for Plain TeX users
+longdesc The Plain TeX graphics package is mostly a thin shell around
+longdesc the LaTeX graphicx and color packages, with support of the
+longdesc LaTeX-isms in those packages provided by miniltx (which is the
+longdesc largest part of the bundle). The bundle also contains a file
+longdesc "picture.tex", which is a wrapper around the autopict.sty, and
+longdesc provides the LaTeX picture mode to Plain TeX users.
+containersize 8476
+containerchecksum fa45e825390e1a7db1bde443e24a73fd84ae45c1403391bd2d4c944820a3bedddf388a29998f92af7c3c22c895fc2580f827808e84ca1ba334bf5bdce38f37ff
+doccontainersize 2088
+doccontainerchecksum 8df46cfbb8fd1a6c2b921030645f70795923fa21046dc209414fe3302f0c920cd47b432df22e0bd77574834dc67ee68fe4f307d79ccfdb95c1f8bcf0c6d5691c
+runfiles size=12
+ texmf-dist/tex/plain/graphics-pln/autopict.sty
+ texmf-dist/tex/plain/graphics-pln/color.tex
+ texmf-dist/tex/plain/graphics-pln/graphicx.tex
+ texmf-dist/tex/plain/graphics-pln/miniltx.tex
+ texmf-dist/tex/plain/graphics-pln/picture.tex
+ texmf-dist/tex/plain/graphics-pln/psfrag.tex
+catalogue-contact-bugs https://github.com/davidcarlisle/dpctex/issues
+catalogue-contact-home https://github.com/davidcarlisle/dpctex/
+catalogue-contact-repository https://github.com/davidcarlisle/dpctex/tree/master/graphics-pln
+catalogue-ctan /macros/plain/graphics
+catalogue-date 2018-01-17 16:05:35 +0100
+catalogue-license lppl1
+catalogue-topics graphics-incl plain-ext

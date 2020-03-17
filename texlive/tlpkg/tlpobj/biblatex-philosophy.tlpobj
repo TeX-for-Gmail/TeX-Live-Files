@@ -1,0 +1,36 @@
+name biblatex-philosophy
+category Package
+revision 47283
+shortdesc Styles for using BibLaTeX for work in philosophy
+longdesc The bundle offers two styles - philosophy-classic and
+longdesc philosophy-modern - that facilitate the production of two
+longdesc different kinds of bibliography, based on the authoryear style,
+longdesc with options and features to manage the information about the
+longdesc translation of foreign texts or their reprints. Though the
+longdesc package's default settings are based on the conventions used in
+longdesc Italian publications, these styles can be used with every
+longdesc language recognized by babel, possibly with some simple
+longdesc redefinitions.
+containersize 12572
+containerchecksum faf78d9a7a551c2a161bf69c1a9146dd7846cb4ff1c3f6332806f955357a8f3af66b9ddc7d9732246982b9bba60730071390a0cf240a241d50db03655414174d
+doccontainersize 883940
+doccontainerchecksum 1e68948403c72e93f94b758786a0c632827d5e5bdf0a8db2066e52868b2ee339bbf0948ed381d78db733482cfca075d9d5c26624df9f2f85d4ded232ece45ed8
+srccontainersize 39380
+srccontainerchecksum e170fb71a9c429204fab059f266e90c4b67a2ecc24f504ef68f70c5ffdb8cc619a2a1963febc0ae308b27f75aa19f0d2e90445ef9e6f3bc81b2fc212c9cf4835
+runfiles size=32
+ texmf-dist/tex/latex/biblatex-philosophy/english-philosophy.lbx
+ texmf-dist/tex/latex/biblatex-philosophy/french-philosophy.lbx
+ texmf-dist/tex/latex/biblatex-philosophy/italian-philosophy.lbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-classic.bbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-classic.cbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-modern.bbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-modern.cbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-standard.bbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-verbose.bbx
+ texmf-dist/tex/latex/biblatex-philosophy/philosophy-verbose.cbx
+ texmf-dist/tex/latex/biblatex-philosophy/spanish-philosophy.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-philosophy
+catalogue-date 2018-03-28 22:28:16 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities philosophy biblatex
+catalogue-version 1.9.8a

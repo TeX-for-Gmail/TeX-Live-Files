@@ -1,0 +1,16 @@
+name fundus-cyr
+category Package
+revision 26019
+shortdesc Support for Washington University Cyrillic fonts
+longdesc The package supports the use of the Washington Cyrillic fonts
+longdesc with LaTeX (Note that standard LaTeX has support, too, as
+longdesc encoding OT2). The package is distributed as part of the fundus
+longdesc bundle.
+containersize 1404
+containerchecksum de84ebbe6e70f61bf9765b9368df95fa5ae607a8d6e1c5535240e8665bb097c6958956d1b19ccf12a2a510672675c7ffa08ab98bd80b6ae2973fbe65d0e8d343
+runfiles size=1
+ texmf-dist/tex/latex/fundus-cyr/cyr.sty
+catalogue-ctan /macros/latex/contrib/fundus/cyr/cyr.sty
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp

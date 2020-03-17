@@ -1,0 +1,30 @@
+name bibtexperllibs
+category Package
+revision 47520
+shortdesc BibTeX Perl Libraries
+longdesc This package provides BibTeX related Perl libraries by Gerhard
+longdesc Gossen, repacked by Boris Veytsman, for TeX Live and other
+longdesc TDS-compliant distributions. The libraries are written in pure
+longdesc Perl, so should work out of the box on any architecture. They
+longdesc have been packaged here mostly for Boris Veytsman's BibTeX
+longdesc suite, but can be used in any other Perl script.
+containersize 10944
+containerchecksum 157db9c0bd7d44fea67844046996b5323f2d26828a8a4031712fe006ef0cdbb0992348d4a8e53c2a52ef0f8a1bd8cd108946baba46783d83d27e05b370bbc6c6
+doccontainersize 5588
+doccontainerchecksum 59f0d671efc182550ca926b1a208c31569e76bacd96e6444437d8ddfae3ad7fcfba60fcb292fcebacfeed1dc225a3e973b41e852ed77eab11308848e532a2c31
+srccontainersize 136052
+srccontainerchecksum 59b5717b5762643e135ac5540d86e841ab6694539723f808e64c1533aa93c62dbcb1a4fe86e0b649abcf60c86efc94b696834614dc0e3c8b9418dfcc86cd36b0
+runfiles size=14
+ texmf-dist/scripts/bibtexperllibs/BibTeX/Parser.pm
+ texmf-dist/scripts/bibtexperllibs/BibTeX/Parser/Author.pm
+ texmf-dist/scripts/bibtexperllibs/BibTeX/Parser/Entry.pm
+ texmf-dist/scripts/bibtexperllibs/LaTeX/ToUnicode.pm
+ texmf-dist/scripts/bibtexperllibs/LaTeX/ToUnicode/Tables.pm
+catalogue-contact-bugs https://github.com/borisveytsman/BibTeXPerlLibs/issues
+catalogue-contact-development https://github.com/borisveytsman/BibTeXPerlLibs/pulls
+catalogue-contact-repository https://github.com/borisveytsman/BibTeXPerlLibs
+catalogue-ctan /support/bibtexperllibs
+catalogue-date 2018-04-29 23:05:58 +0200
+catalogue-license gpl1artisticpd
+catalogue-topics bibtex-supp
+catalogue-version 1.5

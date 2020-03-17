@@ -1,0 +1,18 @@
+name lewis
+category Package
+revision 15878
+shortdesc Draw Lewis structures
+longdesc The package provides rudimentary support for drawing Lewis
+longdesc Structures. Support is limited to elements that support the
+longdesc octet rule.
+containersize 1028
+containerchecksum 7dbe24061df0d0bb4762e7d308c895c99d8f9a9105137bce8c4e589c7fdc80f989aa8c3ebbe40708a8b6fa2a2df5542ce25fb16f528344ca46d50c47724e006a
+doccontainersize 40844
+doccontainerchecksum b267e3c79dfacdd7ed8c931a0e5954c9fd2ea0cfc12beceef3b40bbbed30bbb421d29afd263a25a5b0b5b77a6bc74ddf38e609262485eecae065d65e23200bff
+runfiles size=1
+ texmf-dist/tex/latex/lewis/lewis.sty
+catalogue-ctan /macros/latex/contrib/lewis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics chemistry
+catalogue-version 0.1

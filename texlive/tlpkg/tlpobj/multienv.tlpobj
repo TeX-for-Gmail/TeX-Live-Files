@@ -1,0 +1,21 @@
+name multienv
+category Package
+revision 26544
+shortdesc Multiple environments using a "key=value" syntax
+longdesc The package provides a multienv environment which permits easy
+longdesc addition of multiple environments using a key=value syntax.
+longdesc Macros to define environments using this syntax are also
+longdesc provided.
+containersize 1852
+containerchecksum b387532d90db9f46cb18518b27eb8853dd52366434c69693fd08d36942564c43a45605694a55783fe244690f4cb64b94f3082235e465336cb7536543b00b6f20
+doccontainersize 208908
+doccontainerchecksum 1ad0cbfb0c6029b77f2dfd71100ac43cf3c7512df88837c6da5c26fa9a520f4dacd970e331083a56ddf3d9cd19fd9934e863e4bea9e62c7a0b1cdd1ac6eb2a15
+srccontainersize 4584
+srccontainerchecksum 5d22dae7cf44eef6e63cbda2e9421903f56a939c0393d3b91e9d009b29cf0b748215b455dd9143cd7e13b2ad81c08d7dbe447268d7d01ba495bbb307cfc8999d
+runfiles size=2
+ texmf-dist/tex/latex/multienv/multienv.sty
+catalogue-ctan /macros/latex/contrib/multienv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.0

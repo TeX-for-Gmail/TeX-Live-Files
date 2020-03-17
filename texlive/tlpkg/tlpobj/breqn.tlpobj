@@ -1,0 +1,39 @@
+name breqn
+category Package
+revision 48679
+shortdesc Automatic line breaking of displayed equations
+longdesc The package provides solutions to a number of common
+longdesc difficulties in writing displayed equations and getting
+longdesc high-quality output. For example, it is a well-known
+longdesc inconvenience that if an equation must be broken into more than
+longdesc one line, 'left...right' constructs cannot span lines. The
+longdesc breqn package makes them work as one would expect whether or
+longdesc not there is an intervening line break. The single most
+longdesc ambitious goal of the package, however, is to support automatic
+longdesc linebreaking of displayed equations. Such linebreaking cannot
+longdesc be done without substantial changes under the hood in the way
+longdesc formulae are processed; the code must be watched carefully,
+longdesc keeping an eye on possible glitches. The bundle also contains
+longdesc the flexisym and mathstyle packages, which are both designated
+longdesc as support for breqn.
+containersize 24456
+containerchecksum 3994e43a64d859798c386574af1d565b0a96cf345f6ea8de8b55a08a129c10c34940e8de56cb7e2571ea18ebe11c4327da579c266d8df8dc6f56053528f33fa0
+doccontainersize 1077028
+doccontainerchecksum c67520aad0820b13f30686bd1e16bd0950cb1f71829f1a5bcd42abd7c6cbd6a06fdfa9faa871ff5c8f66ea2f714e29ae8f6df0842166a93aba0affe523e44222
+srccontainersize 80660
+srccontainerchecksum c8a1a337e20184d2331c1c09ed8c5438a61666ba353df009e3b52c03668ea5fd32ebd35a289477c4621b140cce4850a9e2c462d69dcd302eb25d464b4ffccf7f
+runfiles size=42
+ texmf-dist/tex/latex/breqn/breqn.sty
+ texmf-dist/tex/latex/breqn/cmbase.sym
+ texmf-dist/tex/latex/breqn/flexisym.sty
+ texmf-dist/tex/latex/breqn/mathpazo.sym
+ texmf-dist/tex/latex/breqn/mathptmx.sym
+ texmf-dist/tex/latex/breqn/mathstyle.sty
+ texmf-dist/tex/latex/breqn/msabm.sym
+catalogue-contact-home http://wspr.io/breqn/
+catalogue-contact-repository https://github.com/wspr/breqn
+catalogue-ctan /macros/latex/contrib/breqn
+catalogue-date 2018-09-16 19:02:30 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.98f

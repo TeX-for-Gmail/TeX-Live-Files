@@ -1,0 +1,17 @@
+name engtlc
+category Package
+revision 28571
+shortdesc Support for users in Telecommunications Engineering
+longdesc The package provides a wide range of abbreviations for terms
+longdesc used in Telecommunications Engineering.
+containersize 3740
+containerchecksum c1ad2ed5337168c70bcfddd35c72b83b19a1596bc7d9c71298eb82ad8637c984253c79216606060753d1cc5ad4f961095eed8be2381b786b12202f5b0bc748f1
+doccontainersize 599048
+doccontainerchecksum 4c6cbcf337eca115a856eda24924588208ed9e7491936640c8875d49d649d6012279e4eadfa7cdb6544e08fa283c341754d896c921402a2b1180764e8a8ff233
+runfiles size=4
+ texmf-dist/tex/latex/engtlc/engtlc.sty
+catalogue-ctan /macros/latex/contrib/engtlc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics engineering
+catalogue-version 3.2

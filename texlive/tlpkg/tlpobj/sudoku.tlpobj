@@ -1,0 +1,26 @@
+name sudoku
+category Package
+revision 15878
+shortdesc Create sudoku grids
+longdesc The sudoku package provides an environment for typesetting
+longdesc sudoku grids. A sudoku puzzle is a 9x9 grid where some of the
+longdesc squares in the grid contain numbers. The rules are simple:
+longdesc every column can only contain the digits 1 to 9, every row can
+longdesc only contain the digits 1 to 9 and every 3x3 box can only
+longdesc contain the digits 1 to 9. More information, including help and
+longdesc example puzzles, can be found at sudoku.org.uk. This site also
+longdesc has blank sudoku grids (or worksheets), but you will not need
+longdesc to print them from there if you have this package installed.
+containersize 1864
+containerchecksum a5a9ed2ec9a5eb2cfe973094c6bfca609923ee14ec51916051985bcb2533d1f6670776877252f50a2f16fb54e3318adb15fde907182da215d1db81327fee313b
+doccontainersize 54904
+doccontainerchecksum 7e1fc099e6f84e0e22f6e479bfc611ebb8668fd1391c07f877abf4455579248b99108c9b6224da3a0abec4e0853ac8ba8f817e80832629a1d3b624b16394c29f
+srccontainersize 4356
+srccontainerchecksum 05e89ce1f640ed336d8d7447681517b6fb827fed72e8245998c0b11f7f767b8f20e9688f3740223213fed0e860c9304748a11fe94b1a8244697c79a0db54d441
+runfiles size=1
+ texmf-dist/tex/latex/sudoku/sudoku.sty
+catalogue-ctan /macros/latex/contrib/sudoku
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.0

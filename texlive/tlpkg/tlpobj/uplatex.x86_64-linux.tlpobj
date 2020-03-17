@@ -1,0 +1,8 @@
+name uplatex.x86_64-linux
+category Package
+revision 26326
+shortdesc x86_64-linux files of uplatex
+containersize 320
+containerchecksum a8816e979bec26f408e73f298ce7ea48d79f35d128732a672d4c77fd1bbe7475ec3728de991b7b22d1853d90040c1930ec7330d88d90a9b1ead6eb9bd5dee24f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/uplatex

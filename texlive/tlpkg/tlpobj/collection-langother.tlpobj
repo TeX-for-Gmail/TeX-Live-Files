@@ -1,0 +1,61 @@
+name collection-langother
+category Collection
+revision 46722
+shortdesc Other languages
+longdesc Support for languages not otherwise listed, including Indic,
+longdesc Thai, Vietnamese, Hebrew, Indonesian, African languages, and
+longdesc plenty more.  The split is made simply on the basis of the size
+longdesc of the support, to keep both collection sizes and the number of
+longdesc collections reasonable.
+depend collection-basic
+depend amsldoc-vn
+depend aramaic-serto
+depend hyphen-armenian
+depend babel-azerbaijani
+depend babel-esperanto
+depend babel-georgian
+depend babel-hebrew
+depend babel-indonesian
+depend babel-interlingua
+depend babel-malay
+depend babel-sorbian
+depend babel-thai
+depend babel-vietnamese
+depend bangtex
+depend bengali
+depend burmese
+depend cjhebrew
+depend ctib
+depend ebong
+depend ethiop
+depend ethiop-t1
+depend fc
+depend fonts-tlwg
+depend hyphen-afrikaans
+depend hyphen-coptic
+depend hyphen-esperanto
+depend hyphen-ethiopic
+depend hyphen-georgian
+depend hyphen-indic
+depend hyphen-indonesian
+depend hyphen-interlingua
+depend hyphen-sanskrit
+depend hyphen-thai
+depend hyphen-turkmen
+depend latex-mr
+depend latexbangla
+depend lshort-thai
+depend lshort-vietnamese
+depend ntheorem-vn
+depend padauk
+depend sanskrit
+depend sanskrit-t1
+depend thaienum
+depend thaispec
+depend velthuis
+depend vntex
+depend wnri
+depend wnri-latex
+depend xetex-devanagari
+containersize 740
+containerchecksum 3edad4496a8e0275054009c0059c7b1633ffde1bb46b2923aa698e4ac022f1ba7d1781c5fe36aa2d8f4f5c3418d1ff18f3bbb3a41c2e6c9b0f599489d3229406

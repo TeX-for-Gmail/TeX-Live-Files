@@ -1,0 +1,21 @@
+name begingreek
+category Package
+revision 36294
+shortdesc Greek environment to be used with pdfLaTeX only
+longdesc This simple package defines a greek environment to be used with
+longdesc pdfLaTeX only, that accepts an optional Greek font family name
+longdesc to type its contents with. A similar \greektxt command does a
+longdesc similar action for shorter texts.
+containersize 1664
+containerchecksum 88b3bd66f458eacdb1c4da1cf4a44de333ab45f3d498eecc1a1d4b688c955b3a759a620642e3cf94268136989817f97d783475740a0c16d3b5578b670d967719
+doccontainersize 709916
+doccontainerchecksum 3792be7b825db6ffa7194a0cad8d8ba0c2ab3ef64f87abeb607870702612a22c798a61e8b07d61f21e1a0db30c4645c3ebe03bc0ac7c297fbec163d9cb91f22b
+srccontainersize 7448
+srccontainerchecksum 605588a60e9cb2d6a3be3d8dfada6468dfee100eb7739c7ce3d264af38d305be103a62b267b8f05d8a57d9bae273f930b2e4dcc5f3352ddfb8c1e50ac81ae7d4
+runfiles size=1
+ texmf-dist/tex/latex/begingreek/begingreek.sty
+catalogue-ctan /macros/latex/contrib/begingreek
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics greek
+catalogue-version 1.5

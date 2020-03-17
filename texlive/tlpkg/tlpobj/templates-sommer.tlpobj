@@ -1,0 +1,16 @@
+name templates-sommer
+category Package
+revision 15878
+shortdesc Templates for TeX usage
+longdesc A set of templates for using LaTeX packages that the author
+longdesc uses, comprising: - Hausarbeit.tex: for students of the
+longdesc Lehrstuhl Volkskunde an der Friedrich-Schiller-Universitat
+longdesc Jena; - Psycho-Dipl.tex: for diploma theses in psychology.
+containersize 508
+containerchecksum 55b47c4718786fd4910d099878d5808288e83714567adbdbceea32a76e92f7e36c3f850d8597b297445a6ff428d1d0dbaf9209a387485eca0fb1a85f4909ed59
+doccontainersize 14424
+doccontainerchecksum 543b5cce4842dc6b084d90f9bf4e3c19c18a690ebe85379d9d93a5998fed06272bcac4cb3ae44f965614962827b9926fec3439322e38a720c134133a88cd94f0
+catalogue-ctan /info/templates/sommer
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-templ

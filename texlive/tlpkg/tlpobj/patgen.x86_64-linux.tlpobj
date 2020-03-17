@@ -1,0 +1,8 @@
+name patgen.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of patgen
+containersize 17788
+containerchecksum ad859c0e37fa7def89d0ec9a95b8033fdb503025b3c948a556af58fe5a402ed397b50552e8a2b111d07ed2bb7974cf1a24dda7078f9a329afd7e742b570835c4
+binfiles arch=x86_64-linux size=10
+ bin/x86_64-linux/patgen

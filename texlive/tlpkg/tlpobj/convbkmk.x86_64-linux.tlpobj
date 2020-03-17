@@ -1,0 +1,8 @@
+name convbkmk.x86_64-linux
+category Package
+revision 30408
+shortdesc x86_64-linux files of convbkmk
+containersize 340
+containerchecksum 34b6d4a0f85c6683a2ec0f999c82504de73e5499af3135104f6fc9fa796134c2d59ace8cd8672322d16f8542f40c3224b0de3670d920a1631354aff9b206bc67
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/convbkmk

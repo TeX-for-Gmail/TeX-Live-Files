@@ -1,0 +1,18 @@
+name physics
+category Package
+revision 28590
+shortdesc Macros supporting the Mathematics of Physics
+longdesc The package defines simple and flexible macros for typesetting
+longdesc equations in the languages of vector calculus and linear
+longdesc algebra, using Dirac notation.
+containersize 5912
+containerchecksum e394a7f8eda4583cf196dccbd9d52122d0ee630a411630f11d432018c5e9696a9b3feacfa2f881d82090df165a73ee0fa610ad86422123a9e1502ccf4b695be0
+doccontainersize 232876
+doccontainerchecksum 40a85407502116954024d51361dcbfdf36cac07aae382ada1f96d413f9b838ea5a11d7014722b5641a75b6c9bb8a5c6c134c8c0d424788f47f45fc80b277b3ca
+runfiles size=8
+ texmf-dist/tex/latex/physics/physics.sty
+catalogue-ctan /macros/latex/contrib/physics
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics maths
+catalogue-version 1.3

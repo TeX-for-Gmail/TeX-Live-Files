@@ -1,0 +1,23 @@
+name changebar
+category Package
+revision 46919
+shortdesc Generate changebars in LaTeX documents
+longdesc Identify areas of text to be marked with changebars with the
+longdesc \cbstart and \cbend commands; the bars may be coloured. The
+longdesc package uses 'drivers' to place the bars; the available drivers
+longdesc can work with dvitoln03, dvitops, dvips, the emTeX and TeXtures
+longdesc DVI drivers, and VTeX and pdfTeX.
+containersize 7032
+containerchecksum fa75f75aead49adb949e0bb5b5c116387e14b5fcf804502e12b7214a2638ec2032699125adc6ba8c528445c9f5c552ec744007530d1e5a69159f1041d2b7bceb
+doccontainersize 636464
+doccontainerchecksum f25c8bd3cb493bfe8446d98f3c599ec002f818daecac76ec4f08d19bfd15581bf8bf8970fd145886a42c51cd40a53df7bfc2e10641df2f4c2cdcd8aa02bf6c30
+srccontainersize 27104
+srccontainerchecksum a7e2519d4dfd4b0b12a9cd8ea59ce32a37e4d0cb6e637b659e93ea5b296bed21298f8dfa13a13798eb87ce0ea0719546f721875a4115c62cf0ea6110d9ac8f76
+runfiles size=9
+ texmf-dist/tex/latex/changebar/changebar.sty
+catalogue-also chbar xechangebar backgrnd
+catalogue-ctan /macros/latex/contrib/changebar
+catalogue-date 2018-03-11 17:41:18 +0100
+catalogue-license lppl1.3
+catalogue-topics editorial
+catalogue-version 3.6c

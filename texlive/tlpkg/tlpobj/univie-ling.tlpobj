@@ -1,0 +1,34 @@
+name univie-ling
+category Package
+revision 49785
+shortdesc Papers, theses and research proposals in (Applied) Linguistics at Vienna University
+longdesc This bundle provides LaTeX2e classes suitable for student
+longdesc papers, PhD research proposals (Exposes), and theses in
+longdesc (Applied) Linguistics at the University of Vienna. The classes
+longdesc implement some standards for these types of text, such as
+longdesc suitable title pages. They are particularly suited for the
+longdesc field of (Applied) Linguistics and pre-load some packages that
+longdesc are considered useful in this context. The classes can also be
+longdesc used for General and Historical Linguistics as well as for
+longdesc other fields of study at Vienna University. In this case,
+longdesc however, some settings may have to be adjusted.
+containersize 131168
+containerchecksum 33cb5fbb0b8cf2a5a49bfab100c584155a965bd1304a8f16e78ea3c5e5007e43580f3839367cfed28e6f20e8e6f653e1fb9c7aa357e31e41e8f688d74a9f8800
+doccontainersize 2101932
+doccontainerchecksum 52889934cb166ecfc6d5dc4433a9e1c4df927007584b6513d5a254734fd9b82c77af4fa535ddad34494fb207a41167080828500cce02b34f2f88787b8ec783d5
+runfiles size=61
+ texmf-dist/tex/latex/univie-ling/univie-ling-expose.cls
+ texmf-dist/tex/latex/univie-ling/univie-ling-paper.cls
+ texmf-dist/tex/latex/univie-ling/univie-ling-thesis.cls
+ texmf-dist/tex/latex/univie-ling/univie-ling-wlg-logo.pdf
+ texmf-dist/tex/latex/univie-ling/univie-ling-wlg.cls
+ texmf-dist/tex/latex/univie-ling/univie-ling.bbx
+ texmf-dist/tex/latex/univie-ling/univie-ling.cbx
+ texmf-dist/tex/latex/univie-ling/univielogo-sw.pdf
+catalogue-contact-bugs https://github.com/jspitz/univie-ling/issues
+catalogue-contact-repository https://github.com/jspitz/univie-ling
+catalogue-ctan /macros/latex/contrib/univie-ling
+catalogue-date 2019-01-21 18:42:51 +0100
+catalogue-license lppl1.3
+catalogue-topics linguistic class dissertation article-like misc-paper
+catalogue-version 1.9

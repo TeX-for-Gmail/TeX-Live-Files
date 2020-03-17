@@ -1,0 +1,24 @@
+name hyphen-icelandic
+category TLCore
+revision 50792
+catalogue icehyph
+shortdesc Icelandic hyphenation patterns.
+longdesc Hyphenation patterns for Icelandic in T1/EC and UTF-8
+longdesc encodings.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=icelandic 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-is.tex 	file_patterns=hyph-is.pat.txt 	file_exceptions=
+containersize 19544
+containerchecksum 016d62ef1b0d64b80fe60639ef6581a91623c6fc70dc885a433034e2899a8a6ba45964f505a4ba157c3ed9e0cfa7cd234f0683137063c68a52329d879409c639
+runfiles size=25
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-is.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-is.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-is.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-is.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-is.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-is.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-is.pat.txt
+catalogue-ctan /language/hyphenation/icehyph.tex
+catalogue-date 2016-11-05 05:59:04 +0100
+catalogue-license lppl
+catalogue-topics hyphenation icelandic

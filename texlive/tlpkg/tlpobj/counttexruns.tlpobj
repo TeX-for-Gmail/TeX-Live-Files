@@ -1,0 +1,20 @@
+name counttexruns
+category Package
+revision 27576
+shortdesc Count compilations of a document
+longdesc The package counts how often a LaTeX document is compiled,
+longdesc keeping the data in an external file. To print the count, can
+longdesc use the macro \thecounttexruns.
+containersize 908
+containerchecksum 569393d76512308751bff3c5cb22bc11ecee420bb16b5f7d35d6b10beaa02f9c99a4d440e7f3a35bda4e6821405e5f8d621af5af176821549a0e0f0660f998bd
+doccontainersize 232164
+doccontainerchecksum 4a67cac01589ae5d3eb61c5c6c66bb38ede138c9c2b56fcb6359c8f851bf55ce3cf2e5662cd7751d6708c86644cb5f607318612b01b60f769858d594c2b24218
+srccontainersize 3280
+srccontainerchecksum ed482becf766081e5cb05affc10c64979e43f9f655074366063b95943229dc9043943422e1063ecf69e5d44659566fb1d0ffddcc27d33eebff9de69f4aa8c7f5
+runfiles size=1
+ texmf-dist/tex/latex/counttexruns/counttexruns.sty
+catalogue-ctan /macros/latex/contrib/counttexruns
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics compilation
+catalogue-version 1.00a

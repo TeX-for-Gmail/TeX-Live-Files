@@ -1,0 +1,8 @@
+name pygmentex.x86_64-linux
+category Package
+revision 34996
+shortdesc x86_64-linux files of pygmentex
+containersize 340
+containerchecksum 079a17aec410560ea86d99970f285d5a137da3cdf452d1a55cd461617960c4027e4f08793dc940c021dbf2cb810c407f913230de5217031d8d5c2ac63ca97242
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pygmentex

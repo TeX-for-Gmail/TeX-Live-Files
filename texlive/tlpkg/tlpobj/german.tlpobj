@@ -1,0 +1,20 @@
+name german
+category Package
+revision 42428
+shortdesc Support for German typography
+longdesc Supports the old German orthography (alte deutsche
+longdesc Rechtschreibung).
+containersize 6760
+containerchecksum 6cc469012ca6cb76baf2bbea00d198b97c2694d9388e90d2ded6b27da30f8d56aa2e6742ecabbdd335b7299c0c7476cc5479b59fa94468c9354f35ce18b59732
+doccontainersize 193600
+doccontainerchecksum b9795ae418790119ca923079221114b9bf608ce2460b810cb39575910c0b173ff445c428a2ce6260bf90a993fb354d2b5c300ba58344d907965b65bb6f2d4ee3
+srccontainersize 27208
+srccontainerchecksum 9064ca69c304f86eaaf2530bafe353902de078530f57f39cfcc0a9dc0d5a04ba5329ac9d0e7e10e3ddbbbd380c14b4efd8a5b7a6b0099f2c504563af74469c42
+runfiles size=14
+ texmf-dist/tex/generic/german/german.sty
+ texmf-dist/tex/generic/german/ngerman.sty
+catalogue-ctan /language/german
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics german
+catalogue-version 2.5e

@@ -1,0 +1,15 @@
+name envbig
+category Package
+revision 15878
+shortdesc Printing addresses on envelopes
+longdesc A simple package, that prints both 'from' and 'to' addresses.
+containersize 1368
+containerchecksum e39ce40decbb52360cfe465d8a5147f9eb5bfae8dd42b86a868a46f1d3c2544d14035d6c307e116c0d08e6ecb62ba5943de803ee9d40a0a8cdf94a88aec8f808
+doccontainersize 404
+doccontainerchecksum cd8c32d4694252449e78736be1697f9a8da01079a8aeafb774d92ded858de9ee7ae163b3758710df466dd0f75fb8b325e86e575457b66c8107f3c580fe0fc737
+runfiles size=1
+ texmf-dist/tex/latex/envbig/envbig.sty
+catalogue-ctan /macros/latex/contrib/envbig
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter

@@ -1,0 +1,12 @@
+name cweb.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of cweb
+containersize 114232
+containerchecksum b2db6ec574dd84b64793d43c0b15fd397ee6d2b730833d7265d93dd23251ad2e043bf9649afe12d64a5ad2f755db722534b8c839fd35e2bd85c9bcf0d81adf0d
+binfiles arch=x86_64-linux size=106
+ bin/x86_64-linux/ctangle
+ bin/x86_64-linux/ctwill
+ bin/x86_64-linux/ctwill-refsort
+ bin/x86_64-linux/ctwill-twinx
+ bin/x86_64-linux/cweave

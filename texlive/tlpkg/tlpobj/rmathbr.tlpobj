@@ -1,0 +1,24 @@
+name rmathbr
+category Package
+revision 40415
+shortdesc Repeating of math operator at the broken line and the new line in inline equations
+longdesc Repeating of math operators at the broken line and the new line
+longdesc in inline equations is used in Cyrillic mathematical typography
+longdesc (Russian for example), but unfortunately LaTeX does not provide
+longdesc such an option. This package solves the problem by extending
+longdesc ideas described in M. I. Grinchuk "TeX and Russian Traditions
+longdesc of Typesetting", TUGboat 17(4) (1996) 385 and supports most of
+longdesc LaTeX mathematical packages. See the documentation for details.
+containersize 6732
+containerchecksum 71ad547496a4159f2ac609bd695bd3a38879dad118cc18bc58d8fc4c5a8da3d77abc609a0638584495dbb77bdf2078a30ac82f2534bfdf5b620d056b20aa7a8b
+doccontainersize 213424
+doccontainerchecksum ab1b89d94e5fe92023ccfad1264aa38dac9be485d2717b4afb82a441e6bd8eb5813892c20c33a65741f62e6a8c4bbd3e3c778fe86f7d0da72080d51476f49a38
+srccontainersize 10080
+srccontainerchecksum 255ef1cae8a42e34e11e1cc4b8599afe1f166208bef00372d89ab34baa55d3fcba298e01bc2d639568135c66e77e7fe62e558a6e3ba38485dde387ad76e0da4c
+runfiles size=12
+ texmf-dist/tex/latex/rmathbr/rmathbr.sty
+catalogue-ctan /macros/latex/contrib/rmathbr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 1.0.3

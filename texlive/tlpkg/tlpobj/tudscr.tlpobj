@@ -1,0 +1,99 @@
+name tudscr
+category Package
+revision 44480
+shortdesc Corporate Design of Technische Universitat Dresden
+longdesc The TUD-Script bundle provides both classes and packages in
+longdesc order to create LaTeX documents in the corporate design of the
+longdesc Technische Universitat Dresden. It bases on the KOMA-Script
+longdesc bundle, which must necessarily be present. In addition, the
+longdesc PostScript font families Univers and DIN-Bold should be
+longdesc installed. Otherwise, the document classes can admittedly be
+longdesc used, but in this case, the created documents do not correspond
+longdesc to the originally thought style. Employees and students of the
+longdesc Technische Universitat Dresden can request these fonts via
+longdesc https://tu-dresden.de/service/publizieren/cd/4_latex from the
+longdesc university marketing university marketing with regard to the
+longdesc use of LaTeX. To install the PostScript fonts, please refer to
+longdesc the corresponding release under
+longdesc https://github.com/tud-cd/tudscr/releases/tag/fonts and the
+longdesc LaTeX forum of the Technische Universitat Dresden:
+longdesc http://latex.wcms-file3.tu-dresden.de/phpBB3/. The bundle
+longdesc offers: the three document classes tudscrartcl, tudscrreprt and
+longdesc tudscrbook which serve as wrapper classes for scrartcl,
+longdesc scrreprt and scrbook, the class tudscrposter for creating
+longdesc posters, the package tudscrsupervisor providing environments
+longdesc and macros to create tasks, evaluations and notices for
+longdesc scientific theses, the package tudscrfonts, which makes the
+longdesc corporate design fonts of the Technische Universitat Dresden
+longdesc available for LaTeX standard classes and KOMA-Script classes,
+longdesc the package fix-tudscrfonts, which provides the same fonts to
+longdesc additional corporate design classes not related to TUD-Script
+longdesc the package tudscrcomp, which simplifies the switch to
+longdesc TUD-Script from external corporate design classes, the package
+longdesc mathswap for swapping math delimiters within numbers (similar
+longdesc to ionumbers), the package twocolfix for fixing the positioning
+longdesc bug of headings in twocolumn layout and an comprehensive user
+longdesc documentation as well as several tutorials.
+containersize 153748
+containerchecksum 0daa38ad05e503edd91efa1d71a8d01c5e65bd9db5bc27be1012640db58183b2a3f0647dbacf9ff6db8cedb9a4919ba6fd0aade41b3e73d270172f604befc54d
+doccontainersize 3729592
+doccontainerchecksum 95f98c67cf04972665d0089278112e3dba5dafd56f3048cafdb6295b30439c3bad271f9a33b57b820301854ce586540eea0ed2ff2725709013ea8aa2163c2aa0
+srccontainersize 299600
+srccontainerchecksum 9134562bcbf351ee2ae2cd758b52abc152422a044327a5bbca665b42c0a3f0da602378de52597e4f8ae8da79d04e3ac8c36ef692ccd24a68f06f1c8fc34b0d0b
+runfiles size=442
+ texmf-dist/tex/latex/tudscr/fix-tudscrfonts.sty
+ texmf-dist/tex/latex/tudscr/logo/DDC-01.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-01.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-03.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-03.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-07.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-07.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-09.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-09.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-19.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-19.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-21.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-21.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-22.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-22.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-24.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-24.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-25.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-25.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-27.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-27.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-28.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-28.pdf
+ texmf-dist/tex/latex/tudscr/logo/DDC-30.eps
+ texmf-dist/tex/latex/tudscr/logo/DDC-30.pdf
+ texmf-dist/tex/latex/tudscr/logo/TUD-black.eps
+ texmf-dist/tex/latex/tudscr/logo/TUD-black.pdf
+ texmf-dist/tex/latex/tudscr/logo/TUD-blue.eps
+ texmf-dist/tex/latex/tudscr/logo/TUD-blue.pdf
+ texmf-dist/tex/latex/tudscr/logo/TUD-white.eps
+ texmf-dist/tex/latex/tudscr/logo/TUD-white.pdf
+ texmf-dist/tex/latex/tudscr/mathswap.sty
+ texmf-dist/tex/latex/tudscr/tudscrartcl.cls
+ texmf-dist/tex/latex/tudscr/tudscrbase.sty
+ texmf-dist/tex/latex/tudscr/tudscrbook.cls
+ texmf-dist/tex/latex/tudscr/tudscrcolor.sty
+ texmf-dist/tex/latex/tudscr/tudscrcomp-book.sty
+ texmf-dist/tex/latex/tudscr/tudscrcomp-poster.sty
+ texmf-dist/tex/latex/tudscr/tudscrcomp.sty
+ texmf-dist/tex/latex/tudscr/tudscrdoc.cls
+ texmf-dist/tex/latex/tudscr/tudscrfonts.sty
+ texmf-dist/tex/latex/tudscr/tudscrmanual.cls
+ texmf-dist/tex/latex/tudscr/tudscrposter.cls
+ texmf-dist/tex/latex/tudscr/tudscrreprt.cls
+ texmf-dist/tex/latex/tudscr/tudscrsupervisor.sty
+ texmf-dist/tex/latex/tudscr/tudscrtutorial.sty
+ texmf-dist/tex/latex/tudscr/twocolfix.sty
+catalogue-contact-bugs https://github.com/tud-cd/tudscr/issues
+catalogue-contact-home https://github.com/tud-cd/tudscr
+catalogue-contact-repository https://github.com/tud-cd/tudscr
+catalogue-contact-support https://latex.wcms-file3.tu-dresden.de/phpBB3/index.php
+catalogue-ctan /macros/latex/contrib/tudscr
+catalogue-date 2017-05-30 22:36:11 +0200
+catalogue-license lppl1.3c
+catalogue-topics dissertation class
+catalogue-version 2.05m

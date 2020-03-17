@@ -1,0 +1,24 @@
+name labelschanged
+category Package
+revision 46040
+shortdesc Identify labels which cause endless "may have changed" warnings
+longdesc Several conditions can cause LaTeX labels to keep changing, no
+longdesc matter how many times a document is recompiled. This package
+longdesc helps diagnose the cause of repeated "Label(s) may have
+longdesc changed" warnings. The names and before/after definitions of
+longdesc changing labels are printed at the end of each compile.
+longdesc Multiply-defined labels are printed as well.
+containersize 1060
+containerchecksum e9cbb45a636fa75c9b9c8d8400fd9a0cf0ef2a46f998d650631e9874907daa7b4deeb4c99d1610eefc343436d164ace717b32cb1d0c45e860e64d69e4c827a07
+doccontainersize 195592
+doccontainerchecksum 130c0e5f27f0de161949fca202f73bce3486e9346a48584ce1b8636c16367eb3398b36f0145e37531d64933698c201132ba90ca3b5d5b011978d0fad0cc5ad63
+srccontainersize 4164
+srccontainerchecksum 59c1cd3371e97542f6f1cd8fcd14b3cadfabffbecad635bcea33eb535e45ba8b174e9e392e135c799afec08c195b867477255d1336c281a1e9dffe7c1c457cd3
+runfiles size=1
+ texmf-dist/tex/latex/labelschanged/labelschanged.sty
+catalogue-contact-home http://bdtechconcepts.com/
+catalogue-ctan /macros/latex/contrib/labelschanged
+catalogue-date 2017-12-13 18:27:49 +0100
+catalogue-license pd
+catalogue-topics misc-support label-ref
+catalogue-version 1.0

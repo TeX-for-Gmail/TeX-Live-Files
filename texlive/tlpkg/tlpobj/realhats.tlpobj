@@ -1,0 +1,29 @@
+name realhats
+category Package
+revision 50134
+shortdesc Put real hats on symbols instead of ^
+longdesc This package makes \hat put real hats on symbols.
+containersize 3933480
+containerchecksum bce709d2a41bd3c59bfc18a4d618b16b9c5ea3f8c06e128c6efbbe8d2877e53b9af4de3c7c0e26ee83e0916b137d53130b3f0be5901c04b93048a9fa1d491714
+doccontainersize 3873616
+doccontainerchecksum 7a483a1227548e274486e45bcaec2365654f52637a749639f65d318ed1883e69410e82a6f2779d597577bf09651dd4a92864e848096e3878c41c5ca2e4ab8ca7
+srccontainersize 2116
+srccontainerchecksum 27f27efb79d5e264a6841f78a30dda765e1ba66a0e5d05ee13e193a408945bb21e5e21b696e960ada5ccdf4a5036b94b7451735496e4f3c94c61470ff5954d11
+runfiles size=973
+ texmf-dist/tex/latex/realhats/hats/realhats-beret.png
+ texmf-dist/tex/latex/realhats/hats/realhats-cowboy.png
+ texmf-dist/tex/latex/realhats/hats/realhats-fez.png
+ texmf-dist/tex/latex/realhats/hats/realhats-makelatexgreatagain.png
+ texmf-dist/tex/latex/realhats/hats/realhats-santa.png
+ texmf-dist/tex/latex/realhats/hats/realhats-scottish.png
+ texmf-dist/tex/latex/realhats/hats/realhats-sombrero.png
+ texmf-dist/tex/latex/realhats/hats/realhats-tophat.png
+ texmf-dist/tex/latex/realhats/hats/realhats-witch.png
+ texmf-dist/tex/latex/realhats/realhats.sty
+catalogue-contact-bugs https://github.com/mscroggs/realhats/issues
+catalogue-contact-home https://github.com/mscroggs/realhats
+catalogue-ctan /graphics/pgf/contrib/realhats
+catalogue-date 2019-02-27 05:05:57 +0100
+catalogue-license mit
+catalogue-topics pgf-tikz
+catalogue-version 2.0

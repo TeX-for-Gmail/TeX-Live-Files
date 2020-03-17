@@ -1,0 +1,27 @@
+name pxbase
+category Package
+revision 44756
+shortdesc Tools for use with (u)pLaTeX
+longdesc The main purpose of this package is to provide auxiliary
+longdesc functions which are utilized by other packages created by the
+longdesc same author. It also provides a few user commands to assist in
+longdesc creating Japanese documents using (u)pLaTeX.
+containersize 11640
+containerchecksum e567378515039b55eab0a12ca645ba5ff17c2dbaf56309c3273beb0d05c7e6e2dcf3d7d22091907df5636451df8e91d09673607918dd9ac091908cb6ef1e4de1
+doccontainersize 160380
+doccontainerchecksum d6d87123dce0a2afe3380cf32fffc8954e30d22e9822d0ff89500bea6a455c70a6699576265cebad29ba33c0fa5e7b63a40f26f7579d1fe9dc0cbcb528c45d00
+runfiles size=16
+ texmf-dist/tex/platex/pxbase/pxbabel.sty
+ texmf-dist/tex/platex/pxbase/pxbase.def
+ texmf-dist/tex/platex/pxbase/pxbase.sty
+ texmf-dist/tex/platex/pxbase/pxbasenc.def
+ texmf-dist/tex/platex/pxbase/pxbsjc.def
+ texmf-dist/tex/platex/pxbase/pxbsjc1.def
+ texmf-dist/tex/platex/pxbase/pxjsfenc.def
+ texmf-dist/tex/platex/pxbase/upkcat.sty
+catalogue-contact-home https://github.com/zr-tex8r/PXbase
+catalogue-ctan /language/japanese/pxbase
+catalogue-date 2017-07-06 10:05:14 +0200
+catalogue-license mit
+catalogue-topics japanese
+catalogue-version 1.1b

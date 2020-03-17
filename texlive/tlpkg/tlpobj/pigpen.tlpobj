@@ -1,0 +1,26 @@
+name pigpen
+category Package
+revision 15878
+shortdesc A font for the pigpen (or masonic) cipher
+longdesc The Pigpen cipher package provides the font and the necessary
+longdesc wrappers (style file, etc.) in order to write Pigpen ciphers, a
+longdesc simple substitution cipher. The package provides a font
+longdesc (available both as Metafont source, and as an Adobe Type 1
+longdesc file), and macros for its use.
+execute addMixedMap pigpen.map
+containersize 6824
+containerchecksum 107700bb0c2afd35755589551ca6bbd9a95ee6bec39e51868ea1b5fde4855a0ea2eb92b50105eb6a3490f82ed6f55c33cac25bbd58eeecb57fb80380095b7285
+doccontainersize 49144
+doccontainerchecksum 48c6c4c26e7518f06233ce0da8898c1c722829adfad042c12b8820bb1bde43f25410c41f76c51f4d01035c9d654bf3ae8fc7bb44a4d2c23c52f3336ec7e7d128
+runfiles size=9
+ texmf-dist/fonts/map/dvips/pigpen/pigpen.map
+ texmf-dist/fonts/source/public/pigpen/pigpen.mf
+ texmf-dist/fonts/tfm/public/pigpen/pigpen.tfm
+ texmf-dist/fonts/type1/public/pigpen/pigpen.pfa
+ texmf-dist/tex/latex/pigpen/pigpen.sty
+ texmf-dist/tex/latex/pigpen/pigpen.tex
+catalogue-ctan /fonts/pigpen
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-type1
+catalogue-version 0.2

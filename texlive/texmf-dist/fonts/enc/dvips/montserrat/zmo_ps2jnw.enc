@@ -1,0 +1,66 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_ps2jnwlhji2nbu3gbm2fqpuhtc
+% Encoding created by otftotfm on Mon Jan 23 17:36:07 2017
+% Command line follows encoding
+/AutoEnc_ps2jnwlhji2nbu3gbm2fqpuhtc [
+%00
+  /.notdef /uni0394 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /uni03A9 /.notdef /fi /fl /.notdef /.notdef
+%10
+  /dotlessi /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /germandbls /ae /oe /oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft.case /parenright.case /asterisk /plus /comma /hyphen.case /period /slash.case
+%30
+  /zero /one /two /three /four /five /six /seven
+  /eight /nine /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at.case /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft.case /quotedblleft /bracketright.case /circumflex /dotaccent
+%60
+  /quoteleft /a /b /c /d /e /f /g
+  /h /i /j /k /l /m /n /o
+%70
+  /p /q /r /s /t /u /v /w
+  /x /y /z /endash.case /emdash.case /hungarumlaut /tilde /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/public/montserrat
+% --vf-directory=texmf/fonts/vf/public/montserrat
+% --type1-directory=texmf/fonts/type1/public/montserrat
+% --truetype-directory=texmf/fonts/truetype/public/montserrat
+% --encoding-directory=texmf/fonts/enc/dvips/montserrat
+% --map-file=texmf/fonts/map/dvips/montserrat/MontserratAlternates.map
+% --no-updmap --coding-scheme=TEX TEXT --feature=case --feature=kern
+% --feature=liga --feature=lnum --feature=pnum --xheight=x
+% MontserratAlternates-BlackItalic.otf
+% MontserratAlternates-BlackItalic-lf-titling-ot1'

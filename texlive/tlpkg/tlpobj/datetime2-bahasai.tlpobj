@@ -1,0 +1,21 @@
+name datetime2-bahasai
+category Package
+revision 46287
+shortdesc Bahasai language module for the datetime2 package
+longdesc This module provides the "bahasai" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2208
+containerchecksum 6bc05fa0f1cfbf05008de715f9b278948272cf7894e8c29b52b6ee4ba436e01e5588356fa020fd5453ed2e9bee185cb46c54ee3e808417782587c9509bab17fc
+doccontainersize 272028
+doccontainerchecksum d9542fe7057b9972c6e0b9ebc1360c2fde8f9b3538e70efd7249f0bb344f2d5c2845acac9ce39fec6f9f7197b47e65496ffc662b9f3a3044829e4709d6202995
+srccontainersize 4124
+srccontainerchecksum 7edf39f7e2c5b44923e66cf3dee57e7681c549b7ae944ba2f4593e4643e9d50b686b8c1cb6905326899b6974ec5c0587ec7a5f4f880b5b1e81c94667240c601c
+runfiles size=2
+ texmf-dist/tex/latex/datetime2-bahasai/datetime2-bahasai.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-bahasai
+catalogue-date 2018-01-10 22:14:01 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.01

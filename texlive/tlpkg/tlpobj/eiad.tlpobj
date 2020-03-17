@@ -1,0 +1,90 @@
+name eiad
+category Package
+revision 15878
+shortdesc Traditional style Irish fonts
+longdesc In both lower and upper case 32 letters are defined (18 'plain'
+longdesc ones, 5 long vowels and 9 aspirated consonants). The ligature
+longdesc 'agus' is also made available. The remaining characters
+longdesc (digits, punctuation and accents) are inherited from the
+longdesc Computer Modern family of fonts. The font definitions use code
+longdesc from the sauter fonts, so those fonts have to be installed
+longdesc before using eiad. OT1*.fd files are provided for use with
+longdesc LaTeX.
+containersize 25636
+containerchecksum 3123d601a5f5c34c45bff20eb052a0934a2bba9d693e460fdb84908ed327eff8b3a022a5c617c8818bd48b1fe72b9b0c48443e0cb290f15e94334152f1f5e5cc
+doccontainersize 117692
+doccontainerchecksum 546bbad79f9f13e420b05b318010f078ea8844a02cedf11faa506d41073e2e0668356291a4e12758e5a37586e4aa9c79c17c8135f244756c39b61076038fb8e6
+runfiles size=86
+ texmf-dist/fonts/source/public/eiad/eiadb10.mf
+ texmf-dist/fonts/source/public/eiad/eiadbx10.mf
+ texmf-dist/fonts/source/public/eiad/eiadbxi10.mf
+ texmf-dist/fonts/source/public/eiad/eiadbxsl10.mf
+ texmf-dist/fonts/source/public/eiad/eiadccsc10.mf
+ texmf-dist/fonts/source/public/eiad/eiadci10.mf
+ texmf-dist/fonts/source/public/eiad/eiadcr10.mf
+ texmf-dist/fonts/source/public/eiad/eiadcsc10.mf
+ texmf-dist/fonts/source/public/eiad/eiadcsl10.mf
+ texmf-dist/fonts/source/public/eiad/eiadcslc9.mf
+ texmf-dist/fonts/source/public/eiad/eiaddunh10.mf
+ texmf-dist/fonts/source/public/eiad/eiadff10.mf
+ texmf-dist/fonts/source/public/eiad/eiadfi10.mf
+ texmf-dist/fonts/source/public/eiad/eiadfib8.mf
+ texmf-dist/fonts/source/public/eiad/eiadi10.mf
+ texmf-dist/fonts/source/public/eiad/eiaditt10.mf
+ texmf-dist/fonts/source/public/eiad/eiadr10.mf
+ texmf-dist/fonts/source/public/eiad/eiadr12.mf
+ texmf-dist/fonts/source/public/eiad/eiadr17.mf
+ texmf-dist/fonts/source/public/eiad/eiadsl10.mf
+ texmf-dist/fonts/source/public/eiad/eiadsltt10.mf
+ texmf-dist/fonts/source/public/eiad/eiadss10.mf
+ texmf-dist/fonts/source/public/eiad/eiadssbx10.mf
+ texmf-dist/fonts/source/public/eiad/eiadssdc10.mf
+ texmf-dist/fonts/source/public/eiad/eiadssi10.mf
+ texmf-dist/fonts/source/public/eiad/eiadssq8.mf
+ texmf-dist/fonts/source/public/eiad/eiadssqi8.mf
+ texmf-dist/fonts/source/public/eiad/eiadtcsc10.mf
+ texmf-dist/fonts/source/public/eiad/eiadtt10.mf
+ texmf-dist/fonts/source/public/eiad/eiadvtt10.mf
+ texmf-dist/fonts/source/public/eiad/eira.mf
+ texmf-dist/fonts/source/public/eiad/eirl.mf
+ texmf-dist/fonts/source/public/eiad/eiru.mf
+ texmf-dist/fonts/source/public/eiad/gaec7cb.mf
+ texmf-dist/fonts/source/public/eiad/gaelach.mf
+ texmf-dist/fonts/tfm/public/eiad/eiadb10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadbx10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadbxi10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadbxsl10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadccsc10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadci10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadcr10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadcsc10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadcsl10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadcslc9.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiaddunh10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadff10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadfi10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadfib8.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadi10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiaditt10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadr10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadr12.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadr17.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadsl10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadsltt10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadss10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadssbx10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadssdc10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadssi10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadssq8.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadssqi8.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadtcsc10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadtt10.tfm
+ texmf-dist/fonts/tfm/public/eiad/eiadvtt10.tfm
+ texmf-dist/tex/latex/eiad/OT1eiad.fd
+ texmf-dist/tex/latex/eiad/OT1eiadcc.fd
+ texmf-dist/tex/latex/eiad/OT1eiadss.fd
+ texmf-dist/tex/latex/eiad/OT1eiadtt.fd
+catalogue-ctan /fonts/eiad
+catalogue-date 2017-10-29 14:41:24 +0100
+catalogue-license pd
+catalogue-topics font font-mf irish-gaelic

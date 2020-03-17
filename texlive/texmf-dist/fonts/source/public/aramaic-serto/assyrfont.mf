@@ -1,0 +1,2015 @@
+% Taken from `assy.mf' by TONY KHOSHABA, May 1995.  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+dwidth#:=2boxx#;
+dheight#:=5boxx#;
+ddepth#:=2boxx#;
+dleft#:=1/4*boxx#;
+
+%beginchar("D",dwidth#+dleft#,12vuassyr#,4vuassyr#); 
+beginchar("D",9huassyr#,12vuassyr#,4vuassyr#); 
+"The letter Dallat";
+z1=(1huassyr,0);
+z2=(8huassyr,0);
+z3=(9huassyr,1vuassyr);
+z5=(9huassyr,4vuassyr);
+z6=(8huassyr,10vuassyr);
+z7=(5huassyr,12vuassyr);
+z9=(2huassyr,11vuassyr);
+z10=(2huassyr,7vuassyr);
+z11=(2.02huassyr,7vuassyr);
+z15=(4huassyr,8vuassyr);
+z17=(6huassyr,4vuassyr);
+z18=(2huassyr,4vuassyr);
+
+z19=(3huassyr,-1vuassyr);
+z21=(6huassyr,-1vuassyr);
+z23=(6huassyr,-4vuassyr);
+z25=(3huassyr,-4vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z6..{left}z7{left}..z9
+--z10{right}..z11..{right}z15{right}..{down}z17--z18--cycle;
+fill z19--z21--z23--z25--cycle;
+labels(range 1 thru 25);
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+rwidth#:=2boxx#;
+rheight#:=5boxx#;
+rdepth#:=2boxx#;
+rleft#:=1/4*boxx#;
+
+beginchar("R",9huassyr#,16vuassyr#,0);"The letter Resh";
+z1=(1huassyr,0);
+z2=(8huassyr,0);
+z3=(9huassyr,1vuassyr);
+z5=(9huassyr,4vuassyr);
+z6=(8huassyr,10vuassyr);
+z7=(5huassyr,12vuassyr);
+z9=(2huassyr,11vuassyr);
+z10=(2huassyr,7vuassyr);
+z11=(2.02huassyr,7vuassyr);
+z15=(4huassyr,8vuassyr);
+z17=(6huassyr,4vuassyr);
+z18=(2huassyr,4vuassyr);
+
+z19=(3huassyr,13vuassyr);
+z21=(6huassyr,13vuassyr);
+z23=(6huassyr,16vuassyr);
+z25=(3huassyr,16vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z6..{left}z7{left}..z9
+--z10{right}..z11..{right}z15{right}..{down}z17--z18--cycle;
+fill z19--z21--z23--z25--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("r",9huassyr#,16vuassyr#,0);"The letter Resh with siami";
+z1=(1huassyr,0);
+z2=(8huassyr,0);
+z3=(9huassyr,1vuassyr);
+z5=(9huassyr,4vuassyr);
+z6=(8huassyr,10vuassyr);
+z7=(5huassyr,12vuassyr);
+z9=(2huassyr,11vuassyr);
+z10=(2huassyr,7vuassyr);
+z11=(2.02huassyr,7vuassyr);
+z15=(4huassyr,8vuassyr);
+z17=(6huassyr,4vuassyr);
+z18=(2huassyr,4vuassyr);
+
+z19=(2huassyr,13vuassyr);
+z21=(5huassyr,13vuassyr);
+z23=(5huassyr,16vuassyr);
+z25=(2huassyr,16vuassyr);
+
+z29=(6huassyr,13vuassyr);
+z31=(9huassyr,13vuassyr);
+z33=(9huassyr,16vuassyr);
+z35=(6huassyr,16vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z6..{left}z7{left}..z9
+--z10{right}..z11..{right}z15{right}..{down}z17--z18--cycle;
+fill z19--z21--z23--z25--cycle;
+fill z29--z31--z33--z35--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("d",9huassyr#,20vuassyr#,0);"The letter Resh with siami and talghana";
+z1=(1huassyr,0);
+z2=(8huassyr,0);
+z3=(9huassyr,1vuassyr);
+z5=(9huassyr,4vuassyr);
+z6=(8huassyr,10vuassyr);
+z7=(5huassyr,12vuassyr);
+z9=(2huassyr,11vuassyr);
+z10=(2huassyr,7vuassyr);
+z11=(2.02huassyr,7vuassyr);
+z15=(4huassyr,8vuassyr);
+z17=(6huassyr,4vuassyr);
+z18=(2huassyr,4vuassyr);
+
+z19=(2huassyr,13vuassyr);
+z21=(5huassyr,13vuassyr);
+z23=(5huassyr,16vuassyr);
+z25=(2huassyr,16vuassyr);
+
+z29=(6huassyr,13vuassyr);
+z31=(9huassyr,13vuassyr);
+z33=(9huassyr,16vuassyr);
+z35=(6huassyr,16vuassyr);
+
+z39=(4huassyr,16.9vuassyr);
+z41=(9huassyr,18.9vuassyr);
+z43=(9huassyr,19.9vuassyr);
+z45=(4huassyr,17.9vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z6..{left}z7{left}..z9
+--z10{right}..z11..{right}z15{right}..{down}z17--z18--cycle;
+fill z19--z21--z23--z25--cycle;
+fill z29--z31--z33--z35--cycle;
+fill z39--z41--z43--z45--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+rwidth#:=2.5boxx#;
+rheight#:=5boxx#;
+rdepth#:=2boxx#;
+rleft#:=0#;
+
+beginchar("-",10huassyr#,4vuassyr#,0);"Big Dash";
+z1=(0,0);
+z2=(9huassyr,0);
+z3=(10huassyr,1vuassyr);
+z5=(10huassyr,4vuassyr);
+z6=(0,4vuassyr);
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5{up}--z6--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+rwidth#:=2boxx#;
+rheight#:=5boxx#;
+rdepth#:=2boxx#;
+rleft#:=0#;
+
+beginchar("=",8huassyr#,12vuassyr#,0);"Siami";
+z1=(0,0);
+z2=(7huassyr,0);
+z3=(8huassyr,1vuassyr);
+z5=(8huassyr,4vuassyr);
+z6=(0,4vuassyr);
+
+z7=(1huassyr,9vuassyr);
+z8=(4huassyr,9vuassyr);
+z9=(4huassyr,12vuassyr);
+z10=(1huassyr,12vuassyr);
+
+z11=(5huassyr,9vuassyr);
+z12=(8huassyr,9vuassyr);
+z13=(8huassyr,12vuassyr);
+z14=(5huassyr,12vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5{up}--z6--cycle;
+fill z7--z8--z9--z10--cycle;
+fill z11--z12--z13--z14--cycle;
+
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+rwidth#:=2boxx#;
+rheight#:=5boxx#;
+rdepth#:=2boxx#;
+rleft#:=0#;
+
+beginchar("N",8huassyr#,12vuassyr#,0);"Non";
+z1=(0,0);
+z2=(7huassyr,0);
+z3=(8huassyr,1vuassyr);
+z4=(8huassyr,3vuassyr);
+z5=(8huassyr,4vuassyr);
+z6=(6.6huassyr,9vuassyr);
+
+z7=(7huassyr,11.8vuassyr);
+z8=(6.9huassyr,12vuassyr);
+z9=(5.2huassyr,11vuassyr);
+z10=(3.1huassyr,11vuassyr);
+
+z11=(2.4huassyr,10vuassyr);
+z12=(2huassyr,7.4vuassyr);
+z13=(3.5huassyr,6vuassyr);
+z14=(4.8huassyr,4vuassyr);
+z15=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z4{up}..z5..{up}z6..{up}z7..{left}z8..{left}z9..{left}z10..
+z11..{down}z12..z13..{down}z14--z15--cycle;
+
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+rwidth#:=boxx#;
+rheight#:=5boxx#;
+rdepth#:=2boxx#;
+rleft#:=1/4boxx#;
+
+beginchar("|",5huassyr#,8vuassyr#,0);"Tail";
+z1=(5huassyr,0);
+z2=(5huassyr,4vuassyr);
+z3=(1.8huassyr,7vuassyr);
+z5=(1.8huassyr,7.3vuassyr);
+z6=(1.4huassyr,8vuassyr);
+z8=(1huassyr,7.3vuassyr);
+z9=(1huassyr,3vuassyr);
+z10=(4huassyr,0);
+pickup logo_pen;
+fill z1--z2{left}..z3..{up}z5{up}..{left}z6{left}..{down}z8{down}..
+{down}z9{down}..{right}z10--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("K",12huassyr#,12vuassyr#,0);"The letter Kap";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(8.7huassyr,10vuassyr);
+z11=(5.5huassyr,12vuassyr);
+z13=(3huassyr,10.2vuassyr);
+z15=(2huassyr,7vuassyr);
+z17=(2.6huassyr,7.3vuassyr);
+z19=(4.5huassyr,8vuassyr);
+z21=(7huassyr,6.5vuassyr);
+z23=(8.5huassyr,4vuassyr);
+z25=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5..z7..{left}z11{left}..z13
+..{down}z15{right}..z17..{right}z19{right}..z21..z23--z25--cycle;
+endchar;
+
+beginchar("X",12huassyr#,12vuassyr#,4.3vuassyr#);"The letter Khap";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(8.7huassyr,10vuassyr);
+z11=(5.5huassyr,12vuassyr);
+z13=(3huassyr,10.2vuassyr);
+z15=(2huassyr,7vuassyr);
+z17=(2.6huassyr,7.3vuassyr);
+z19=(4.5huassyr,8vuassyr);
+z21=(7huassyr,6.5vuassyr);
+z23=(8.5huassyr,4vuassyr);
+z25=(0,4vuassyr);
+
+z27=(6huassyr, -1.2vuassyr);
+z29=(6.3huassyr, -1.5vuassyr);
+z31=(6.5huassyr, -2.5vuassyr);
+z33=(6.3huassyr, -4vuassyr);
+z35=(6huassyr, -4.3vuassyr);
+z37=(5.7huassyr, -4vuassyr);
+z39=(5.5huassyr, -2.5vuassyr);
+z41=(5.7huassyr, -1.5vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5..z7..{left}z11{left}..z13
+..{down}z15{right}..z17..{right}z19{right}..z21..z23--z25--cycle;
+
+fill z27{right}..z29..{down}z31{down}..z33..{left}z35{left}..z37..
+{up}z39{up}..z41..{right}cycle;
+endchar;
+
+beginchar("Y",12huassyr#,12vuassyr#,3vuassyr#);"The letter Chap";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(8.7huassyr,10vuassyr);
+z11=(5.5huassyr,12vuassyr);
+z13=(3huassyr,10.2vuassyr);
+z15=(2huassyr,7vuassyr);
+z17=(2.6huassyr,7.3vuassyr);
+z19=(4.5huassyr,8vuassyr);
+z21=(7huassyr,6.5vuassyr);
+z23=(8.5huassyr,4vuassyr);
+z25=(0,4vuassyr);
+
+z27=(4.2huassyr, -3.4vuassyr);
+z29=(5huassyr, -2.6vuassyr);
+z31=(6.3huassyr, -3.2vuassyr);
+z33=(7huassyr, -2vuassyr);
+z35=(6.8huassyr, -1.4vuassyr);
+z37=(6huassyr, -2.3vuassyr);
+z39=(4.6huassyr, -1.8vuassyr);
+z41=(4huassyr, -2.8vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5..z7..{left}z11{left}..z13
+..{down}z15{right}..z17..{right}z19{right}..z21..z23--z25--cycle;
+
+fill z27{right}..{right}z29{right}..{right}z31{right}..{up}z33{up}..{left}z35{left}
+..{left}z37{left}..{left}z39{left}..{down}z41{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+swidth#:=3.5boxx#;
+sheight#:=5boxx#;
+sdepth#:=2boxx#;
+sleft#:=0#;
+
+beginchar("S",14huassyr#,12vuassyr#,0);"The letter Simkat";
+z1=(0,0);
+z2=(5.5huassyr,0);
+z3=(5.5huassyr,1vuassyr);
+z5=(7huassyr,0.3vuassyr);
+z7=(8huassyr,0);
+z11=(13huassyr,0);
+z13=(14huassyr,1vuassyr);
+z15=(14huassyr,4vuassyr);
+z17=(12huassyr,10.6vuassyr);
+z19=(11huassyr,11vuassyr);
+z21=(9huassyr,10vuassyr);
+z22=(8.52huassyr,9.32vuassyr);
+z23=(8.5huassyr,9.3vuassyr);
+z24=(8.48huassyr,9.32vuassyr);
+z25=(6huassyr,11.7vuassyr);
+
+z27=(5huassyr,12vuassyr);
+%z29=(3huassyr,10.3vuassyr);
+z31=(2huassyr,7vuassyr);
+z33=(2.8huassyr,4vuassyr);
+z35=(0,4vuassyr);
+
+z37=(7.8huassyr,4vuassyr);
+z39=(11huassyr,4vuassyr);
+z41=(11huassyr,6vuassyr);
+z43=(10huassyr,7vuassyr);
+z45=(8.7huassyr,6vuassyr);
+z46=(7.82huassyr,4.02vuassyr);
+
+z47=(7huassyr,4vuassyr);
+z49=(6huassyr,7.7vuassyr);
+z51=(5huassyr,8vuassyr);
+z53=(4.3huassyr,7vuassyr);
+z55=(6huassyr,4.5vuassyr);
+z57=(6.98huassyr,4.02vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11{right}..{up}z13{up}
+..z15{up}..z17..{left}z19..z21..z22--z23--z24..z25..{left}z27{left}..{down}z31{down}..z33--z35--cycle;
+
+unfill z37{right}..{right}z39{up}..{up}z41{up}..{left}z43{left}..z45..z46--cycle;
+unfill z47{up}..z49..{left}z51{left}..{down}z53{down}..z55..z57--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("L",12huassyr#,20vuassyr#,0);"The letter Lammad";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(6.6huassyr,14.9vuassyr);
+z11=(5.7huassyr,18vuassyr);
+
+z13=(5.7huassyr,19.6vuassyr);
+z15=(5.6huassyr,19.8vuassyr);
+z17=(5.5huassyr,19.76vuassyr);
+z18=(2.3huassyr,16.5vuassyr);
+z19=(2huassyr,16vuassyr);
+z20=(2.3huassyr,15vuassyr);
+z21=(4huassyr,12vuassyr);
+z23=(8.4huassyr,4vuassyr);
+z25=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5--z7..z11{up}..{up}z13{up}
+..{left}z15{left}..z17--z18..{down}z19{down}..z20--z23--z25--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+unit_width#:=2boxx#;
+unit_height#:=5boxx#;
+unit_depth#:=boxx#;
+extra_left#:=1/4*boxx#;
+
+beginchar("A",9huassyr#,16vuassyr#,0);"The letter Allab end";
+z1=(1huassyr,0);
+z2=(3huassyr,-1.1vuassyr);
+z3=(3.9huassyr,-2.4vuassyr);
+z5=(3.9huassyr,-2.6vuassyr);
+z6=(4.3huassyr,-1.5vuassyr);
+z7=(3.9huassyr,0);
+z8=(8huassyr,0);
+z9=(9huassyr,1vuassyr);
+z10=(9huassyr,4vuassyr);
+z11=(5.8huassyr,4vuassyr);
+z15=(7huassyr,12vuassyr);
+z17=(5huassyr,16vuassyr);
+z18=(3huassyr,13.2vuassyr);
+z19=(4.5huassyr,12vuassyr);
+z21=(5.8huassyr,11.8vuassyr);
+z23=(6huassyr,11vuassyr);
+z25=(1huassyr,4vuassyr);
+pickup logo_pen;
+fill z1..z2..z3{down}..z5..{up}z6{up}..z7--z8{right}..{up}z9--z10--
+z11..{up}z15{up}..{left}z17{left}..{down}z18{down}..{right}z19{right}..z21..{down}z23{down}..z25--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("a",9huassyr#,16vuassyr#,0);"The letter Allab start";
+z1=(1huassyr,0);
+z8=(8huassyr,0);
+z9=(9huassyr,1vuassyr);
+z10=(9huassyr,4vuassyr);
+z11=(5.8huassyr,4vuassyr);
+z15=(7huassyr,12vuassyr);
+z17=(5huassyr,16vuassyr);
+z18=(3huassyr,13.2vuassyr);
+z19=(4.5huassyr,12vuassyr);
+z21=(5.8huassyr,11.8vuassyr);
+z23=(6huassyr,11vuassyr);
+z25=(1huassyr,4vuassyr);
+pickup logo_pen;
+fill z1--z8{right}..{up}z9--z10--
+z11..{up}z15{up}..{left}z17{left}..{down}z18{down}..{right}z19{right}..z21..{down}z23{down}..z25--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+bwidth#:=3.5boxx#;
+%bheight#:=5boxx#;
+bdepth#:=2boxx#;
+bleft#:=0#;
+
+beginchar("B",14huassyr#,12vuassyr#,0);"The letter Bit";
+z1=(0,0);
+z2=(13huassyr,0);
+z3=(14huassyr,1vuassyr);
+z4=(14huassyr,3vuassyr);
+z5=(14huassyr,4vuassyr);
+z7=(13huassyr,9vuassyr);
+z8=(13huassyr,11.5vuassyr);
+z9=(13huassyr,11.95vuassyr);
+z11=(13huassyr,12vuassyr);
+z13=(11huassyr,11vuassyr);
+z15=(4.5huassyr,11vuassyr);
+z17=(2huassyr,12vuassyr);
+z19=(2huassyr,11vuassyr);
+z21=(2huassyr,9.5vuassyr);
+z23=(5huassyr,7vuassyr);
+z25=(10huassyr,7vuassyr);
+z27=(10huassyr,4vuassyr);
+z29=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z4{up}..z5..z7{up}..z8{up}..z9..{up}z11{left}..{left}z13{left}
+..{left}z15{left}..z17--z19..{down}z21{down}..{right}z23{right}..{right}z25--z27--z29--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("b",14huassyr#,12vuassyr#,4.5vuassyr#);"The letter vit";
+z1=(0,0);
+z2=(13huassyr,0);
+z3=(14huassyr,1vuassyr);
+z4=(14huassyr,3vuassyr);
+z5=(14huassyr,4vuassyr);
+z7=(13huassyr,9vuassyr);
+z8=(13huassyr,11.5vuassyr);
+z9=(13huassyr,11.95vuassyr);
+z11=(13huassyr,12vuassyr);
+z13=(11huassyr,11vuassyr);
+z15=(4.5huassyr,11vuassyr);
+z17=(2huassyr,12vuassyr);
+z19=(2huassyr,11vuassyr);
+z21=(2huassyr,9.5vuassyr);
+z23=(5huassyr,7vuassyr);
+z25=(10huassyr,7vuassyr);
+z27=(10huassyr,4vuassyr);
+z29=(0,4vuassyr);
+
+z47=(8.1huassyr,-1.1vuassyr);
+z49=(8.4huassyr,-1.4vuassyr);
+z51=(8.6huassyr,-2.8vuassyr);
+z53=(8.4huassyr,-4.1vuassyr);
+z55=(8.1huassyr,-4.4vuassyr);
+z57=(7.8huassyr,-4.1vuassyr);
+z59=(7.6huassyr,-2.8vuassyr);
+z61=(7.8huassyr,-1.4vuassyr);
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z4{up}..z5..z7{up}..z8{up}..z9..{up}z11{left}..{left}z13{left}
+..{left}z15{left}..z17--z19..{down}z21{down}..{right}z23{right}..{right}z25--z27--z29--cycle;
+
+fill z47{right}..z49..{down}z51{down}..z53..{left}z55{left}..z57..
+{up}z59{up}..z61..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar("H",13huassyr#,12vuassyr#,0);"The letter Hi";
+z1=(12huassyr,0);
+z2=(13huassyr,1vuassyr);
+z3=(13huassyr,12vuassyr);
+z5=(11huassyr,11vuassyr);
+z6=(7huassyr,11vuassyr);
+z7=(1huassyr,5.5vuassyr);
+z9=(5.5huassyr,0);
+z11=(9huassyr,4vuassyr);
+z13=(9huassyr,7vuassyr);
+z15=(12huassyr,7vuassyr);
+
+z17=(8huassyr,7vuassyr);
+z19=(6huassyr,7vuassyr);
+z21=(4huassyr,5.5vuassyr);
+z23=(6huassyr,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3{left}..{left}z5..z6{left}..z7{down}..z9{right}..{up}z11
+--z13--z15--cycle;
+unfill z17{left}..z19{left}..{down}z21..{right}z23..{up}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("h",13huassyr#,15vuassyr#,0);"The letter Hi with dot";
+z1=(12huassyr,0);
+z2=(13huassyr,1vuassyr);
+z3=(13huassyr,12vuassyr);
+z5=(11huassyr,11vuassyr);
+z6=(7huassyr,11vuassyr);
+z7=(1huassyr,5.5vuassyr);
+z9=(5.5huassyr,0);
+z11=(9huassyr,4vuassyr);
+z13=(9huassyr,7vuassyr);
+z15=(12huassyr,7vuassyr);
+
+z17=(8huassyr,7vuassyr);
+z19=(6huassyr,7vuassyr);
+z21=(4huassyr,5.5vuassyr);
+z23=(6huassyr,4vuassyr);
+
+z27=(6huassyr,13vuassyr);
+z29=(8huassyr,13vuassyr);
+z31=(8huassyr,15vuassyr);
+z33=(6huassyr,15vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3{left}..{left}z5..z6{left}..z7{down}..z9{right}..{up}z11
+--z13--z15--cycle;
+unfill z17{left}..z19{left}..{down}z21..{right}z23..{up}cycle;
+fill z27--z29--z31--z33--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("o",13huassyr#,16vuassyr#,0);"The letter Hi with dot";
+z1=(12huassyr,0);
+z2=(13huassyr,1vuassyr);
+z3=(13huassyr,12vuassyr);
+z5=(11huassyr,11vuassyr);
+z6=(7huassyr,11vuassyr);
+z7=(1huassyr,5.5vuassyr);
+z9=(5.5huassyr,0);
+z11=(9huassyr,4vuassyr);
+z13=(9huassyr,7vuassyr);
+z15=(12huassyr,7vuassyr);
+
+z17=(8huassyr,7vuassyr);
+z19=(6huassyr,7vuassyr);
+z21=(4huassyr,5.5vuassyr);
+z23=(6huassyr,4vuassyr);
+
+z27=(5huassyr,12.2vuassyr);
+z29=(9huassyr,15vuassyr);
+z31=(9huassyr,16vuassyr);
+z33=(5huassyr,13.2vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3{left}..{left}z5..z6{left}..z7{down}..z9{right}..{up}z11
+--z13--z15--cycle;
+unfill z17{left}..z19{left}..{down}z21..{right}z23..{up}cycle;
+fill z27--z29--z31--z33--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+owidth#:=2.5boxx#;
+oheight#:=5boxx#;
+odepth#:=2boxx#;
+oleft#:=1/4*boxx#;
+
+beginchar("O",11huassyr#,12vuassyr#,0);"The letter vav";
+z1=(4huassyr,0);
+z2=(10huassyr,0);
+z3=(11huassyr,1vuassyr);
+z5=(11huassyr,4vuassyr);
+z6=(10huassyr,8.5vuassyr);
+z7=(6huassyr,12vuassyr);
+z11=(2huassyr,8.5vuassyr);
+z13=(1huassyr,4.5vuassyr);
+z15=(1.5huassyr,1vuassyr);
+
+z17=(7.9huassyr,4vuassyr);
+z19=(7.2huassyr,7.2vuassyr);
+z21=(5.5huassyr,8vuassyr);
+z25=(3.6huassyr,5.5vuassyr);
+z27=(5huassyr,4vuassyr);
+
+pickup logo_pen;
+fill z1{right}..z2{right}..z3{up}..z5{up}..z6..z7{left}..z11
+..z13{down}..z15..{right}cycle;
+unfill z17{up}..z19..{left}z21..z25{down}..{right}z27..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+zwidth#:=1.5boxx#;
+zheight#:=5boxx#;
+zdepth#:=2boxx#;
+zleft#:=1/4*boxx#;
+
+beginchar("Z",7huassyr#,12vuassyr#,1vuassyr#);"The letter zen";
+z1=(4huassyr,-1vuassyr);
+z2=(6.3huassyr,3vuassyr);
+z3=(7huassyr,7vuassyr);
+z5=(4huassyr,12vuassyr);
+z6=(1huassyr,8vuassyr);
+z7=(3huassyr,4vuassyr);
+z11=(4huassyr,1.5vuassyr);
+z13=(3huassyr,-1vuassyr);
+
+pickup logo_pen;
+fill z1..z2..z3{up}..z5{left}..z6{down}..z7..z11{down}
+..z13--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("z",7huassyr#,16vuassyr#,1vuassyr#);"The letter zen with dot above";
+z1=(4huassyr,-1vuassyr);
+z2=(6.3huassyr,3vuassyr);
+z3=(7huassyr,7vuassyr);
+z5=(4huassyr,12vuassyr);
+z6=(1huassyr,8vuassyr);
+z7=(3huassyr,4vuassyr);
+z11=(4huassyr,1.5vuassyr);
+z13=(3huassyr,-1vuassyr);
+
+z27=(2.8huassyr, 13.4vuassyr);
+z29=(3.6huassyr, 14.2vuassyr);
+z31=(4.9huassyr, 13.6vuassyr);
+z33=(5.6huassyr, 14.8vuassyr);
+z35=(5.4huassyr, 15.4vuassyr);
+z37=(4.6huassyr, 14.5vuassyr);
+z39=(3.2huassyr, 15vuassyr);
+z41=(2.6huassyr, 14vuassyr);
+
+pickup logo_pen;
+fill z1..z2..z3{up}..z5{left}..z6{down}..z7..z11{down}
+..z13--cycle;
+fill z27{right}..{right}z29{right}..{right}z31{right}..{up}z33{up}..{left}z35{left}
+..{left}z37{left}..{left}z39{left}..{down}z41{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("P",12huassyr#,16vuassyr#,0);"The letter Pi";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(11huassyr,7.5vuassyr);
+z11=(10.2huassyr,13vuassyr);
+z13=(10.8huassyr,16vuassyr);
+z15=(10.75huassyr,15.95vuassyr);
+z17=(9huassyr,14.2vuassyr);
+z19=(8.95huassyr,14.25vuassyr);
+z21=(6huassyr,15vuassyr);
+z23=(2huassyr,11vuassyr);
+z25=(5huassyr,6vuassyr);
+z27=(8.6huassyr,4.7vuassyr);
+z29=(8.7huassyr,4vuassyr);
+z31=(0,4vuassyr);
+
+z49=(8.4huassyr,5.7vuassyr);
+z51=(8.32huassyr,5.72vuassyr);
+z52=(8huassyr,8.5vuassyr);
+z53=(7.6huassyr,10vuassyr);
+z55=(5.7huassyr,11.1vuassyr);
+z57=(4.3huassyr,9.7vuassyr);
+z59=(6huassyr,6.8vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z7..{up}z11{up}..z13
+..z15..z17--z19..{left}z21{left}..{down}z23{down}..z25..z27--z29--z31--cycle;
+
+unfill z49--z51..z52..z53..{left}z55{left}..{down}z57{down}..z59..cycle;
+endchar;
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("p",12huassyr#,16vuassyr#,3vuassyr#);"The letter Pi";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(11huassyr,7.5vuassyr);
+z11=(10.2huassyr,13vuassyr);
+z13=(10.8huassyr,16vuassyr);
+z15=(10.75huassyr,15.95vuassyr);
+z17=(9huassyr,14.2vuassyr);
+z19=(8.95huassyr,14.25vuassyr);
+z21=(6huassyr,15vuassyr);
+z23=(2huassyr,11vuassyr);
+z25=(5huassyr,6vuassyr);
+z27=(8.6huassyr,4.7vuassyr);
+z29=(8.7huassyr,4vuassyr);
+z31=(0,4vuassyr);
+
+z49=(8.4huassyr,5.7vuassyr);
+z51=(8.32huassyr,5.72vuassyr);
+z52=(8huassyr,8.5vuassyr);
+z53=(7.6huassyr,10vuassyr);
+z55=(5.7huassyr,11.1vuassyr);
+z57=(4.3huassyr,9.7vuassyr);
+z59=(6huassyr,6.8vuassyr);
+
+z33=(6huassyr,-2vuassyr);
+z35=(7huassyr,-1.6vuassyr);
+z37=(7.8huassyr,-1vuassyr);
+z39=(8huassyr,-1.2vuassyr);
+z41=(6huassyr,-3vuassyr);
+z43=(4huassyr,-1.2vuassyr);
+z45=(4.2huassyr,-1vuassyr);
+z47=(5huassyr,-1.6vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5{up}..z7..{up}z11{up}..z13
+..z15..z17--z19..{left}z21{left}..{down}z23{down}..z25..z27--z29--z31--cycle;
+
+fill z33{right}..z35..{right}z37{right}..{down}z39{down}..{left}z41{left}..{up}z43{up}..
+{right}z45{right}..z47..{right}cycle;
+
+unfill z49--z51..z52..z53..{left}z55{left}..{down}z57{down}..z59..cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+owidth#:=2.5boxx#;
+oheight#:=5boxx#;
+odepth#:=2boxx#;
+oleft#:=1/4*boxx#;
+
+beginchar("s",11huassyr#,7vuassyr#,odepth#);"The letter Cad";
+z1=(4huassyr,0);
+z2=(8huassyr,0);
+z3=(8huassyr,1vuassyr);
+%z5=(9huassyr,0.5vuassyr);
+z6=(10huassyr,0);
+z7=(11huassyr,1vuassyr);
+z11=(11huassyr,4vuassyr);
+z13=(9huassyr,6vuassyr);
+z15=(8.3huassyr,7vuassyr);
+z16=(8.1huassyr,6.9vuassyr);
+z17=(8huassyr,6vuassyr);
+z19=(6.5huassyr,4vuassyr);
+z21=(5huassyr,4vuassyr);
+z25=(2.5huassyr,6.5vuassyr);
+z27=(2huassyr,7vuassyr);
+z28=(1.6huassyr,6.5vuassyr);
+z29=(1.1huassyr,4vuassyr);
+z30=(1huassyr,2vuassyr);
+z31=(2huassyr,-2vuassyr);
+z35=(6.9huassyr,-5.9vuassyr);
+z37=(6.82huassyr,-5.92vuassyr);
+z39=(3huassyr,-6.7vuassyr);
+z41=(1huassyr,-7vuassyr);
+z45=(1huassyr,-7.9vuassyr);
+z47=(11huassyr,-7.9vuassyr);
+z49=(11huassyr,-4vuassyr);
+z51=(5.5huassyr,-2vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..{right}z6{right}..{up}z7--z11{left}
+..z13..{left}z15{left}..z16..{down}z17{down}..{left}z19{left}..{left}z21{left}..z25..
+{left}z27..z28..z29..{down}z30{down}..z31..z35--z37..z39..z41--z45--z47--z49{left}..z51..cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar(">",13huassyr#,6vuassyr#,hdepth#);"The letter end separate Non";
+
+z23=(3.5huassyr,0.1vuassyr);
+z22=(5huassyr,1vuassyr);
+z2=(5.6huassyr,1.1vuassyr);
+z3=(7.1huassyr,0);
+z4=(9huassyr,-3vuassyr);
+z5=(12huassyr,-7.9vuassyr);
+z6=(13huassyr,-7.9vuassyr);
+z77=(5huassyr,5.1vuassyr);
+z8=(4.3huassyr,5.5vuassyr);
+z88=(4huassyr,5.4vuassyr);
+z9=(1.2huassyr,3.8vuassyr);
+z11=(1huassyr,3.4vuassyr);
+z12=(1.1huassyr,3vuassyr);
+z13=(2.1huassyr,1.6vuassyr);
+z15=(2.85huassyr,0.2vuassyr);
+z17=(3.15huassyr,0);
+
+pickup logo_pen;
+fill z23--z22..{right}z2{right}..z3..z4..z5--z6--z77..{left}z8{left}..z88--z9..
+{down}z11{down}..z12--z15..{right}z17{right}..cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+%beginchar("/",huassyr#,hheight#,hdepth#);"Blank";
+%z1=(0,0);
+%z2=(w,0);
+%z3=(w,h);
+%z4=(0,h);
+%pickup logo_pen;
+
+%fill z1--z2--z3-z4--cycle;
+%unfill z1--z2--z3-z4--cycle;
+%endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=1.5boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar("n",7huassyr#,8vuassyr#,hdepth#);"The letter end not separate Non";
+
+z1=(4huassyr,0);
+z3=(6huassyr,0);
+z5=(7huassyr,1vuassyr);
+z7=(7huassyr,4vuassyr);
+z9=(3.5huassyr,6vuassyr);
+z11=(2.2huassyr,7.8vuassyr);
+z13=(2huassyr,8vuassyr);
+z15=(1.8huassyr,7.8vuassyr);
+z17=(1huassyr,4vuassyr);
+z19=(3huassyr,-3vuassyr);
+z21=(6huassyr,-7.9vuassyr);
+z23=(7huassyr,-7.9vuassyr);
+z25=(4.5huassyr,-3vuassyr);
+
+pickup logo_pen;
+fill z1--z3{right}..{up}z5--z7{left}..z9..z11..{left}z13{left}..z15..{down}z17{down}..z19..
+z21--z23..z25..{up}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=4boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=0#;
+
+beginchar("W",16huassyr#,16vuassyr#,6vuassyr#);"The letter Dtet";
+
+z1=(0,0);
+z3=(8.2huassyr,0);
+z5=(10.9huassyr,-5.9vuassyr);
+z7=(11.1huassyr,-6vuassyr);
+z9=(11.3huassyr,-5.9vuassyr);
+z11=(16huassyr,0);
+z13=(16huassyr,4vuassyr);
+z15=(9.8huassyr,4vuassyr);
+z17=(6.2huassyr,12vuassyr);
+z19=(6huassyr,12.5vuassyr);
+z21=(6huassyr,15.9vuassyr);
+z23=(5.9huassyr,16vuassyr);
+z25=(5.5huassyr,15.8vuassyr);
+z26=(2.5huassyr,13vuassyr);
+z27=(2.1huassyr,12.2vuassyr);
+z29=(2.3huassyr,11.7vuassyr);
+z30=(3.15huassyr,10.1vuassyr);
+z31=(6.3huassyr,4vuassyr);
+z33=(0,4vuassyr);
+
+z35=(15.1huassyr,0);
+z37=(11.7huassyr,0);
+z39=(12.9huassyr,-2.7vuassyr);
+
+pickup logo_pen;
+fill z1--z3--z5..{right}z7{right}..z9--z11--z13--z15--z17..z19..{up}z21{up}..
+{left}z23{left}..z25..z26..{down}z27{down}..z29..z30--z31--z33--cycle;
+unfill z35--z37--z39--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=4boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=0#;
+
+beginchar("M",16huassyr#,12vuassyr#,0);"The letter Mim";
+
+z1=(0,0);
+z3=(8huassyr,0);
+z5=(8huassyr,1vuassyr);
+z7=(9huassyr,0.4vuassyr);
+z9=(10huassyr,0);
+z11=(15huassyr,0);
+z13=(16huassyr,1vuassyr);
+z15=(16huassyr,4vuassyr);
+z16=(14huassyr,11vuassyr);
+z17=(11.5huassyr,12vuassyr);
+z19=(9huassyr,11vuassyr);
+z21=(7.6huassyr,8vuassyr);
+z23=(7.58huassyr,8.02vuassyr);
+
+z25=(5huassyr,10vuassyr);
+z26=(3.9huassyr,11.8vuassyr);
+z27=(3.7huassyr,12vuassyr);
+z29=(3.5huassyr,11.8vuassyr);
+z30=(2huassyr,8vuassyr);
+z100=(2.5huassyr,7vuassyr);
+z31=(4huassyr,6vuassyr);
+z33=(6.5huassyr,4.5vuassyr);
+z35=(6.8huassyr,4vuassyr);
+z37=(0,4vuassyr);
+
+z39=(13huassyr,4vuassyr);
+z40=(13huassyr,5vuassyr);
+z41=(11huassyr,8vuassyr);
+z43=(9huassyr,5.6vuassyr);
+z45=(10huassyr,4vuassyr);
+
+pickup logo_pen;
+fill z1--z3--z5..z7..{right}z9--z11{right}..{up}z13..{up}z15
+..z16..{left}z17..z19..
+{down}z21--z23..z25..z26..{left}z27..z29..{down}z30..z100..z31..z33..{down}z35--z37--cycle;
+unfill z39{up}..{up}z40..{left}z41{left}..{down}z43{down}..{right}z45--cycle;
+endchar;
+beginchar("$",16huassyr#,12vuassyr#,4vuassyr#);"The letter Mim dot under";
+
+z1=(0,0);
+z3=(8huassyr,0);
+z5=(8huassyr,1vuassyr);
+z7=(9huassyr,0.4vuassyr);
+z9=(10huassyr,0);
+z11=(15huassyr,0);
+z13=(16huassyr,1vuassyr);
+z15=(16huassyr,4vuassyr);
+z16=(14huassyr,11vuassyr);
+z17=(11.5huassyr,12vuassyr);
+z19=(9huassyr,11vuassyr);
+z21=(7.6huassyr,8vuassyr);
+z23=(7.58huassyr,8.02vuassyr);
+
+z25=(5huassyr,10vuassyr);
+z26=(3.9huassyr,11.8vuassyr);
+z27=(3.7huassyr,12vuassyr);
+z29=(3.5huassyr,11.8vuassyr);
+z30=(2huassyr,8vuassyr);
+z100=(2.5huassyr,7vuassyr);
+z31=(4huassyr,6vuassyr);
+z33=(6.5huassyr,4.5vuassyr);
+z35=(6.8huassyr,4vuassyr);
+z37=(0,4vuassyr);
+
+z39=(13huassyr,4vuassyr);
+z40=(13huassyr,5vuassyr);
+z41=(11huassyr,8vuassyr);
+z43=(9huassyr,5.6vuassyr);
+z45=(10huassyr,4vuassyr);
+
+z47=(10huassyr,-2vuassyr);
+z49=(12huassyr,-2vuassyr);
+z50=(12huassyr,-4vuassyr);
+z51=(10huassyr,-4vuassyr);
+
+pickup logo_pen;
+fill z1--z3--z5..z7..{right}z9--z11{right}..{up}z13..{up}z15
+..z16..{left}z17..z19..
+{down}z21--z23..z25..z26..{left}z27..z29..{down}z30..z100..z31..z33..{down}z35--z37--cycle;
+unfill z39{up}..{up}z40..{left}z41{left}..{down}z43{down}..{right}z45--cycle;
+fill z47--z49--z50--z51--cycle;
+endchar;
+beginchar("*",16huassyr#,16vuassyr#,0);"The letter Mim dot up";
+
+z1=(0,0);
+z3=(8huassyr,0);
+z5=(8huassyr,1vuassyr);
+z7=(9huassyr,0.4vuassyr);
+z9=(10huassyr,0);
+z11=(15huassyr,0);
+z13=(16huassyr,1vuassyr);
+z15=(16huassyr,4vuassyr);
+z16=(14huassyr,11vuassyr);
+z17=(11.5huassyr,12vuassyr);
+z19=(9huassyr,11vuassyr);
+z21=(7.6huassyr,8vuassyr);
+z23=(7.58huassyr,8.02vuassyr);
+
+z25=(5huassyr,10vuassyr);
+z26=(3.9huassyr,11.8vuassyr);
+z27=(3.7huassyr,12vuassyr);
+z29=(3.5huassyr,11.8vuassyr);
+z30=(2huassyr,8vuassyr);
+z100=(2.5huassyr,7vuassyr);
+z31=(4huassyr,6vuassyr);
+z33=(6.5huassyr,4.5vuassyr);
+z35=(6.8huassyr,4vuassyr);
+z37=(0,4vuassyr);
+
+z39=(13huassyr,4vuassyr);
+z40=(13huassyr,5vuassyr);
+z41=(11huassyr,8vuassyr);
+z43=(9huassyr,5.6vuassyr);
+z45=(10huassyr,4vuassyr);
+
+z47=(10huassyr,14vuassyr);
+z49=(12huassyr,14vuassyr);
+z50=(12huassyr,16vuassyr);
+z51=(10huassyr,16vuassyr);
+pickup logo_pen;
+fill z1--z3--z5..z7..{right}z9--z11{right}..{up}z13..{up}z15
+..z16..{left}z17..z19..
+{down}z21--z23..z25..z26..{left}z27..z29..{down}z30..z100..z31..z33..{down}z35--z37--cycle;
+unfill z39{up}..{up}z40..{left}z41{left}..{down}z43{down}..{right}z45--cycle;
+fill z47--z49--z50--z51--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar("T",13huassyr#,12vuassyr#,0);"The letter Tau";
+z1=(11huassyr,0);
+z2=(12huassyr,0);
+z3=(13huassyr,1vuassyr);
+z5=(13huassyr,4vuassyr);
+z6=(6huassyr,11.5vuassyr);
+z66=(5.9huassyr,11.6vuassyr);
+z7=(5.4huassyr,12vuassyr);
+z77=(5.1huassyr,11.7vuassyr);
+z9=(5huassyr,11.5vuassyr);
+z11=(1.3huassyr,3vuassyr);
+z13=(1.1huassyr,1.9vuassyr);
+z15=(3huassyr,0);
+z17=(5.7huassyr,1vuassyr);
+z19=(7.7huassyr,0.2vuassyr);
+z21=(8huassyr,0);
+z23=(8.3huassyr,0.2vuassyr);
+z24=(8huassyr,1vuassyr);
+z25=(3.5huassyr,4.2vuassyr);
+z27=(2.4huassyr,4vuassyr);
+z29=(4.2huassyr,8vuassyr);
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5--z6..z66..{left}z7{left}..z77..z9--z11
+..{down}z13{down}..{right}z15{right}..{right}z17{right}..z19..{right}z21..{up}z23{up}
+..z24..{left}z25{left}..z27--z29--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("m",13huassyr#,12vuassyr#,0);"The letter mim end";
+z1=(1.6huassyr,-1vuassyr);
+z2=(2.6huassyr,-1vuassyr);
+z3=(3.3huassyr,0);
+z5=(12huassyr,0);
+z6=(13huassyr,1vuassyr);
+z66=(13huassyr,3vuassyr);
+z67=(13huassyr,4vuassyr);
+z7=(12huassyr,10vuassyr);
+z77=(12huassyr,11.8vuassyr);
+z9=(11.8huassyr,12vuassyr);
+z10=(11.6huassyr,11.9vuassyr);
+z11=(10huassyr,11vuassyr);
+z13=(3huassyr,11vuassyr);
+z14=(1.4huassyr,11.9vuassyr);
+z15=(1.2huassyr,12vuassyr);
+z17=(1huassyr,11.8vuassyr);
+z19=(1huassyr,9vuassyr);
+z21=(3huassyr,7vuassyr);
+z23=(7huassyr,7vuassyr);
+
+z24=(8huassyr,7vuassyr);
+z25=(10huassyr,7vuassyr);
+z27=(10huassyr,4vuassyr);
+z29=(6huassyr,4vuassyr);
+pickup logo_pen;
+fill z1--z2--z3--z5{right}..{up}z6..{up}z66..z67..{up}z7{up}..{up}z77..{left}z9{left}..z10..{left}z11{left}
+..{left}z13{left}..z14..{left}z15{left}..{down}z17{down}..{down}z19..{right}z21--z23--cycle;
+unfill z24--z25--z27--z29--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3.5boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4boxx#;
+
+beginchar("t",15huassyr#,20vuassyr#,0);"The letter end Tau";
+
+z1=(5huassyr,0);
+z3=(9huassyr,0);
+z5=(9huassyr,4vuassyr);
+z7=(8huassyr,4vuassyr);
+z8=(8huassyr,6vuassyr);
+z9=(9.5huassyr,8vuassyr);
+z11=(11huassyr,6vuassyr);
+z13=(11huassyr,0);
+z15=(14huassyr,0);
+z17=(15huassyr,1vuassyr);
+z19=(15huassyr,4vuassyr);
+z21=(14huassyr,4vuassyr);
+z23=(14huassyr,7vuassyr);
+z25=(10.5huassyr,12vuassyr);
+z26=(7.6huassyr,11vuassyr);
+z27=(7.5huassyr,10.9vuassyr);
+z29=(7.4huassyr,11vuassyr);
+z30=(6huassyr,14vuassyr);
+z31=(4.8huassyr,18vuassyr);
+z33=(5huassyr,19.7vuassyr);
+z35=(4.8huassyr,19.9vuassyr);
+z36=(4.3huassyr,19.7vuassyr);
+z37=(2huassyr,17.7vuassyr);
+z39=(1huassyr,16vuassyr);
+z40=(1.4huassyr,15vuassyr);
+z41=(5huassyr,10vuassyr);
+z43=(6huassyr,7vuassyr);
+z45=(6huassyr,4vuassyr);
+z47=(5huassyr,4vuassyr);
+
+pickup logo_pen;
+fill z1--z3--z5--z7--z8{up}..{right}z9{right}..{down}z11--z13..z15{right}..{up}z17--z19--z21{up}..
+{up}z23{up}..{left}z25{left}..z27--z29..z30..z31{up}..z33{up}..{left}z35{left}..z36..z37..{down}z39{down}
+..z40..z41..{down}z43{down}..z45--z47--cycle;
+
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar("@",13huassyr#,16vuassyr#,4vuassyr#);"The letter Tau Alap";
+z1=(12huassyr,0);
+z3=(13huassyr,1vuassyr);
+z5=(13huassyr,4vuassyr);
+z7=(9huassyr,6.4vuassyr);
+z9=(7.8huassyr,8.5vuassyr);
+z11=(8huassyr,9.8vuassyr);
+z13=(7.8huassyr,10vuassyr);
+z15=(6.9huassyr,9vuassyr);
+z17=(6huassyr,5.5vuassyr);
+z18=(6.7huassyr,4vuassyr);
+z19=(7.8huassyr,2.8vuassyr);
+%z21=(7.75huassyr,2.75vuassyr);
+z23=(7huassyr,1vuassyr);
+%z25=(6.95huassyr,1.25vuassyr);
+z27=(5.7huassyr,3vuassyr);
+z29=(4.1huassyr,4.5vuassyr);
+z31=(4.12huassyr,4.52vuassyr);
+z33=(5huassyr,7vuassyr);
+z35=(6huassyr,13vuassyr);
+z37=(4huassyr,16vuassyr);
+z39=(2.5huassyr,15vuassyr);
+z41=(2huassyr,13vuassyr);
+z43=(3huassyr,12vuassyr);
+z45=(4huassyr,12vuassyr);
+z47=(5.1huassyr,11vuassyr);
+z49=(4huassyr,6vuassyr);
+z51=(1.5huassyr,1vuassyr);
+z53=(1.3huassyr,0.4vuassyr);
+z55=(1.5huassyr,0);
+z57=(2huassyr,0.4vuassyr);
+z59=(2.6huassyr,1.2vuassyr);
+z61=(2.62huassyr,1.12vuassyr);
+z63=(4huassyr,0);
+z65=(6.6huassyr,-3.8vuassyr);
+z67=(6.8huassyr,-4vuassyr);
+z69=(7huassyr,-3.8vuassyr);
+z70=(7.1huassyr,-3vuassyr);
+z71=(8huassyr,0);
+z73=(9.3huassyr,1.4vuassyr);
+z75=(9.32huassyr,1.42vuassyr);
+z77=(11huassyr,0.4vuassyr);
+
+pickup logo_pen;
+fill z1{right}..{up}z3--z5{left}..z7..{up}z9{up}..{up}z11{up}..{left}z13{left}..z15..
+{down}z17{down}..z18..z19--
+z23..z27..z29--z31
+..z33..{up}z35{up}..{left}z37{left}..z39..{down}z41{down}..{right}z43{right}..{right}z45{right}..
+{down}z47{down}..z49..z51..{down}z53{down}..{right}z55{right}..z57..z59--z61..z63..z65..{right}z67{right}..
+z69..z70..z71..z73--z75..z77..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=4boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4boxx#;
+
+beginchar("&",17huassyr#,20vuassyr#,0);"The letter end Tau Alap";
+
+z1=(1huassyr,0);
+z3=(11huassyr,0);
+z5=(11huassyr,4vuassyr);
+z7=(10huassyr,4vuassyr);
+z8=(10huassyr,6vuassyr);
+z9=(11.5huassyr,8vuassyr);
+z11=(13huassyr,6vuassyr);
+z13=(13huassyr,0);
+z15=(16huassyr,0);
+z17=(17huassyr,1vuassyr);
+z19=(17huassyr,4vuassyr);
+z21=(16huassyr,4vuassyr);
+z23=(16huassyr,8vuassyr);
+z25=(12.5huassyr,12vuassyr);
+z26=(10.1huassyr,11vuassyr);
+z27=(9.7huassyr,11.5vuassyr);
+z29=(12huassyr,14.7vuassyr);
+z30=(13huassyr,17.5vuassyr);
+z31=(10.7huassyr,19.9vuassyr);
+z33=(9.1huassyr,18vuassyr);
+z35=(9huassyr,17vuassyr);
+z36=(10huassyr,16vuassyr);
+z37=(11.3huassyr,15.4vuassyr);
+z100=(11huassyr,14.5vuassyr);
+z38=(9.4huassyr,12.1vuassyr);
+z39=(9.3huassyr,12vuassyr);
+z40=(7.6huassyr,18vuassyr);
+z41=(8huassyr,19.7vuassyr);
+z43=(7.8huassyr,19.8vuassyr);
+z44=(7.5huassyr,19.7vuassyr);
+z45=(5huassyr,18vuassyr);
+z47=(4huassyr,16.3vuassyr);
+z48=(4.3huassyr,15vuassyr);
+z49=(6huassyr,12vuassyr);
+z51=(7.6huassyr,9.6vuassyr);
+
+z53=(4.4huassyr,4vuassyr);
+z55=(8huassyr,4vuassyr);
+z57=(8huassyr,8vuassyr);
+z59=(7.8huassyr,8.9vuassyr);
+
+pickup logo_pen;
+fill z1--z3--z5--z7--z8{up}..{right}z9{right}..{down}z11--z13..z15{right}..{up}z17--z19--z21--z23{up}..
+{left}z25{left}..z26--z27--z29..{up}z30{up}..{left}z31{left}..z33..{down}z35{down}..{right}z36{right}..
+{down}z37{down}..z100..z38--z39..{up}z40{up}..{up}z41{up}..{left}z43{left}..z44..
+z45..{down}z47{down}..z48..z49..z51--cycle;
+
+unfill z53--z55{up}..{up}z57..z59--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+hwidth#:=3boxx#;
+hheight#:=5boxx#;
+hdepth#:=2boxx#;
+hleft#:=1/4*boxx#;
+
+beginchar("k",13huassyr#,12vuassyr#,hdepth#);"The letter not separate end Kap";
+
+z1=(10huassyr,0);
+z3=(12huassyr,0);
+z5=(13huassyr,1vuassyr);
+z7=(13huassyr,4vuassyr);
+z8=(12huassyr,4vuassyr);
+z9=(10huassyr,6.5vuassyr);
+z11=(10huassyr,11.8vuassyr);
+z13=(9.8huassyr,12vuassyr);
+z15=(9.6huassyr,11.8vuassyr);
+z17=(8huassyr,11vuassyr);
+z19=(3huassyr,11vuassyr);
+z21=(2huassyr,10vuassyr);
+z23=(2huassyr,7.5vuassyr);
+z25=(1huassyr,4vuassyr);
+z29=(8.9huassyr,-6.9vuassyr);
+z31=(10.6huassyr,-7.9vuassyr);
+z33=(12.3huassyr,-7vuassyr);
+z34=(13huassyr,-4vuassyr);
+z35=(12.9huassyr,-3.4vuassyr);
+z37=(12.8huassyr,-3.3vuassyr);
+z39=(12.7huassyr,-3.4vuassyr);
+z41=(12huassyr,-4vuassyr);
+z43=(11.2huassyr,-3.6vuassyr);
+z45=(4.6huassyr,5vuassyr);
+z47=(4.65huassyr,5.1vuassyr);
+z49=(5huassyr,7vuassyr);
+z51=(8huassyr,7vuassyr);
+z53=(8huassyr,3vuassyr);
+
+pickup logo_pen;
+fill z1--z3{right}..{up}z5--z7--z8{left}..{up}z9--z11{up}..z13{left}..z15..{left}z17--z19{left}..{down}z21{down}..
+{down}z23{down}..z25--z29..z31{right}..z33..z34{up}..z35..{left}z37{left}..z39..{left}z41..
+z43--z45--z47..{up}z49--z51--z53{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("x",13huassyr#,12vuassyr#,hdepth#);"The letter not separate end Khap";
+
+z1=(10huassyr,0);
+z3=(12huassyr,0);
+z5=(13huassyr,1vuassyr);
+z7=(13huassyr,4vuassyr);
+z8=(12huassyr,4vuassyr);
+z9=(10huassyr,6.5vuassyr);
+z11=(10huassyr,11.8vuassyr);
+z13=(9.8huassyr,12vuassyr);
+z15=(9.6huassyr,11.8vuassyr);
+z17=(8huassyr,11vuassyr);
+z19=(3huassyr,11vuassyr);
+z21=(2huassyr,10vuassyr);
+z23=(2huassyr,7.5vuassyr);
+z25=(1huassyr,4vuassyr);
+z29=(8.9huassyr,-6.9vuassyr);
+z31=(10.6huassyr,-7.9vuassyr);
+z33=(12.3huassyr,-7vuassyr);
+z34=(13huassyr,-4vuassyr);
+z35=(12.9huassyr,-3.4vuassyr);
+z37=(12.8huassyr,-3.3vuassyr);
+z39=(12.7huassyr,-3.4vuassyr);
+z41=(12huassyr,-4vuassyr);
+z43=(11.2huassyr,-3.6vuassyr);
+z45=(4.6huassyr,5vuassyr);
+z47=(4.65huassyr,5.1vuassyr);
+z49=(5huassyr,7vuassyr);
+z51=(8huassyr,7vuassyr);
+z53=(8huassyr,3vuassyr);
+
+z57=(2.5huassyr,-1vuassyr);
+z59=(2.8huassyr,-1.3vuassyr);
+z61=(3huassyr,-2.5vuassyr);
+z63=(2.8huassyr,-3.7vuassyr);
+z65=(2.5huassyr,-4vuassyr);
+z67=(2.2huassyr,-3.7vuassyr);
+z69=(2huassyr,-2.5vuassyr);
+z71=(2.2huassyr,-1.3vuassyr);
+
+pickup logo_pen;
+fill z1--z3{right}..{up}z5--z7--z8{left}..{up}z9--z11{up}..z13{left}..z15..{left}z17--z19{left}..{down}z21{down}..
+{down}z23{down}..z25--z29..z31{right}..z33..z34{up}..z35..{left}z37{left}..z39..{left}z41..
+z43--z45--z47..{up}z49--z51--z53{down}..{right}cycle;
+
+fill z57{right}..z59..{down}z61{down}..z63..{left}z65{left}..z67..
+{up}z69{up}..z71..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("y",13huassyr#,12vuassyr#,hdepth#);"The letter not separate end Chap";
+
+z1=(10huassyr,0);
+z3=(12huassyr,0);
+z5=(13huassyr,1vuassyr);
+z7=(13huassyr,4vuassyr);
+z8=(12huassyr,4vuassyr);
+z9=(10huassyr,6.5vuassyr);
+z11=(10huassyr,11.8vuassyr);
+z13=(9.8huassyr,12vuassyr);
+z15=(9.6huassyr,11.8vuassyr);
+z17=(8huassyr,11vuassyr);
+z19=(3huassyr,11vuassyr);
+z21=(2huassyr,10vuassyr);
+z23=(2huassyr,7.5vuassyr);
+z25=(1huassyr,4vuassyr);
+z29=(8.9huassyr,-6.9vuassyr);
+z31=(10.6huassyr,-7.9vuassyr);
+z33=(12.3huassyr,-7vuassyr);
+z34=(13huassyr,-4vuassyr);
+z35=(12.9huassyr,-3.4vuassyr);
+z37=(12.8huassyr,-3.3vuassyr);
+z39=(12.7huassyr,-3.4vuassyr);
+z41=(12huassyr,-4vuassyr);
+z43=(11.2huassyr,-3.6vuassyr);
+z45=(4.6huassyr,5vuassyr);
+z47=(4.65huassyr,5.1vuassyr);
+z49=(5huassyr,7vuassyr);
+z51=(8huassyr,7vuassyr);
+z53=(8huassyr,3vuassyr);
+
+z67=(5.3huassyr,12.5vuassyr);
+z69=(6.1huassyr,13.3vuassyr);
+z71=(7.4huassyr,12.7vuassyr);
+z73=(8.1huassyr,13.9vuassyr);
+z75=(7.9huassyr,14.5vuassyr);
+z77=(7.1huassyr,13.6vuassyr);
+z79=(5.7huassyr,14.1vuassyr);
+z81=(5.1huassyr,13.1vuassyr);
+
+pickup logo_pen;
+fill z1--z3{right}..{up}z5--z7--z8{left}..{up}z9--z11{up}..z13{left}..z15..{left}z17--z19{left}..{down}z21{down}..
+{down}z23{down}..z25--z29..z31{right}..z33..z34{up}..z35..{left}z37{left}..z39..{left}z41..
+z43--z45--z47..{up}z49--z51--z53{down}..{right}cycle;
+fill z67{right}..{right}z69{right}..{right}z71{right}..{up}z73{up}..{left}z75{left}..{left}z77{left}..
+{left}z79{left}..{down}z81{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+owidth#:=2.5boxx#;
+oheight#:=5boxx#;
+odepth#:=2boxx#;
+oleft#:=1/4*boxx#;
+
+beginchar("Q",11huassyr#,12vuassyr#,odepth#);"The letter separate end Kap";
+z1=(4.7huassyr,7vuassyr);
+z2=(7huassyr, 7vuassyr);
+z3=(10huassyr,10vuassyr);
+z5=(10huassyr,11.8vuassyr);
+z6=(9.8huassyr,12vuassyr);
+z7=(9.6huassyr,11.8vuassyr);
+z11=(7huassyr,11vuassyr);
+z13=(3huassyr,11vuassyr);
+z15=(2huassyr,9vuassyr);
+z16=(2huassyr,8vuassyr);
+z17=(1huassyr,5vuassyr);
+z19=(0.9huassyr,4.8vuassyr);
+z21=(1huassyr,4.6vuassyr);
+
+z25=(3huassyr,1vuassyr);
+z27=(3.9huassyr,-1.5vuassyr);
+z28=(4huassyr,-1.6vuassyr);
+z29=(4.1huassyr,-1.5vuassyr);
+z30=(5.3huassyr,1vuassyr);
+z31=(6.8huassyr,2vuassyr);
+z35=(8huassyr,0.5vuassyr);
+z37=(7.6huassyr,-1vuassyr);
+z38=(3.5huassyr,-5vuassyr);
+z39=(1huassyr,-6.9vuassyr);
+z41=(1huassyr,-7.9vuassyr);
+z43=(6huassyr,-4.1vuassyr);
+z45=(10huassyr,-0.3vuassyr);
+z47=(11huassyr,2vuassyr);
+z48=(11huassyr,3.5vuassyr);
+z49=(8.5huassyr,6vuassyr);
+z50=(6huassyr,4.6vuassyr);
+z51=(4.8huassyr,3.3vuassyr);
+z53=(4.79huassyr,3.32vuassyr);
+z55=(4.5huassyr,4vuassyr);
+z57=(4huassyr,5vuassyr);
+z59=(4.02huassyr,5.02vuassyr);
+z61=(4.4huassyr,6vuassyr);
+
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5{up}..{left}z6{left}..z7..{left}z11{left}..{left}z13{left}..z15..
+z16..z17..{down}z19{down}..z21
+..z27..{right}z28{right}..z29..z30..{right}z31{right}..
+{down}z35{down}..z37..z38..z39--z41..z43..z45..z47..
+z48..{left}z49{left}..z50..z51--z53..z55..z57--z59..z61..cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+beginchar("q",11huassyr#,12vuassyr#,odepth#);"The letter separate end Khap";
+z1=(4.7huassyr,7vuassyr);
+z2=(7huassyr, 7vuassyr);
+z3=(10huassyr,10vuassyr);
+z5=(10huassyr,11.8vuassyr);
+z6=(9.8huassyr,12vuassyr);
+z7=(9.6huassyr,11.8vuassyr);
+z11=(7huassyr,11vuassyr);
+z13=(3huassyr,11vuassyr);
+z15=(2huassyr,9vuassyr);
+z16=(2huassyr,8vuassyr);
+z17=(1huassyr,5vuassyr);
+z19=(0.9huassyr,4.8vuassyr);
+z21=(1huassyr,4.6vuassyr);
+
+z25=(3huassyr,1vuassyr);
+z27=(3.9huassyr,-1.5vuassyr);
+z28=(4huassyr,-1.6vuassyr);
+z29=(4.1huassyr,-1.5vuassyr);
+z30=(5.3huassyr,1vuassyr);
+z31=(6.8huassyr,2vuassyr);
+z35=(8huassyr,0.5vuassyr);
+z37=(7.6huassyr,-1vuassyr);
+z38=(3.5huassyr,-5vuassyr);
+z39=(1huassyr,-6.9vuassyr);
+z41=(1huassyr,-7.9vuassyr);
+z43=(6huassyr,-4.1vuassyr);
+z45=(10huassyr,-0.3vuassyr);
+z47=(11huassyr,2vuassyr);
+z48=(11huassyr,3.5vuassyr);
+z49=(8.5huassyr,6vuassyr);
+z50=(6huassyr,4.6vuassyr);
+z51=(4.8huassyr,3.3vuassyr);
+z53=(4.79huassyr,3.32vuassyr);
+z55=(4.5huassyr,4vuassyr);
+z57=(4huassyr,5vuassyr);
+z59=(4.02huassyr,5.02vuassyr);
+z61=(4.4huassyr,6vuassyr);
+
+z67=(1.5huassyr,1vuassyr);
+z69=(1.8huassyr,0.7vuassyr);
+z71=(2huassyr,-0.5vuassyr);
+z73=(1.8huassyr,-1.7vuassyr);
+z75=(1.5huassyr,-2vuassyr);
+z77=(1.2huassyr,-1.7vuassyr);
+z79=(1huassyr,-0.5vuassyr);
+z81=(1.2huassyr,0.7vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5{up}..{left}z6{left}..z7..{left}z11{left}..{left}z13{left}..z15..
+z16..z17..{down}z19{down}..z21
+..z27..{right}z28{right}..z29..z30..{right}z31{right}..
+{down}z35{down}..z37..z38..z39--z41..z43..z45..z47..
+z48..{left}z49{left}..z50..z51--z53..z55..z57--z59..z61..cycle;
+fill z67{right}..z69..{down}z71{down}..z73..{left}z75{left}..z77..
+{up}z79{up}..z81..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("<",11huassyr#,12vuassyr#,odepth#);"The letter separate end Chap";
+z1=(4.7huassyr,7vuassyr);
+z2=(7huassyr, 7vuassyr);
+z3=(10huassyr,10vuassyr);
+z5=(10huassyr,11.8vuassyr);
+z6=(9.8huassyr,12vuassyr);
+z7=(9.6huassyr,11.8vuassyr);
+z11=(7huassyr,11vuassyr);
+z13=(3huassyr,11vuassyr);
+z15=(2huassyr,9vuassyr);
+z16=(2huassyr,8vuassyr);
+z17=(1huassyr,5vuassyr);
+z19=(0.9huassyr,4.8vuassyr);
+z21=(1huassyr,4.6vuassyr);
+
+z25=(3huassyr,1vuassyr);
+z27=(3.9huassyr,-1.5vuassyr);
+z28=(4huassyr,-1.6vuassyr);
+z29=(4.1huassyr,-1.5vuassyr);
+z30=(5.3huassyr,1vuassyr);
+z31=(6.8huassyr,2vuassyr);
+z35=(8huassyr,0.5vuassyr);
+z37=(7.6huassyr,-1vuassyr);
+z38=(3.5huassyr,-5vuassyr);
+z39=(1huassyr,-6.9vuassyr);
+z41=(1huassyr,-7.9vuassyr);
+z43=(6huassyr,-4.1vuassyr);
+z45=(10huassyr,-0.3vuassyr);
+z47=(11huassyr,2vuassyr);
+z48=(11huassyr,3.5vuassyr);
+z49=(8.5huassyr,6vuassyr);
+z50=(6huassyr,4.6vuassyr);
+z51=(4.8huassyr,3.3vuassyr);
+z53=(4.79huassyr,3.32vuassyr);
+z55=(4.5huassyr,4vuassyr);
+z57=(4huassyr,5vuassyr);
+z59=(4.02huassyr,5.02vuassyr);
+z61=(4.4huassyr,6vuassyr);
+
+z67=(4.7huassyr,12.5vuassyr);
+z69=(5.5huassyr,13.3vuassyr);
+z71=(6.7huassyr,12.7vuassyr);
+z73=(7.4huassyr,13.9vuassyr);
+z75=(7.2huassyr,14.5vuassyr);
+z77=(6.4huassyr,13.6vuassyr);
+z79=(5huassyr,14.1vuassyr);
+z81=(4.4huassyr,13.1vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5{up}..{left}z6{left}..z7..{left}z11{left}..{left}z13{left}..z15..
+z16..z17..{down}z19{down}..z21
+..z27..{right}z28{right}..z29..z30..{right}z31{right}..
+{down}z35{down}..z37..z38..z39--z41..z43..z45..z47..
+z48..{left}z49{left}..z50..z51--z53..z55..z57--z59..z61..cycle;
+fill z67{right}..{right}z69{right}..{right}z71{right}..{up}z73{up}..{left}z75{left}..{left}z77{left}..
+{left}z79{left}..{down}z81{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("V",12huassyr#,12vuassyr#,0);"The letter Ghop";
+z1=(0,0);
+z2=(3huassyr,0);
+z3=(3huassyr,1vuassyr);
+z5=(4huassyr,0.4vuassyr);
+z7=(5huassyr,0);
+z11=(11huassyr,0);
+z13=(12huassyr,1vuassyr);
+z15=(12huassyr,4vuassyr);
+z17=(11huassyr,8.5vuassyr);
+z19=(11huassyr,11.9vuassyr);
+z21=(10.8huassyr,12vuassyr);
+z22=(10.6huassyr,11.9vuassyr);
+z23=(9huassyr,11vuassyr);
+z25=(4huassyr,11vuassyr);
+z26=(2.4huassyr,11.9vuassyr);
+z27=(2.2huassyr,12vuassyr);
+z29=(2huassyr,11.9vuassyr);
+z31=(2huassyr,4vuassyr);
+z33=(0,4vuassyr);
+
+z35=(8.5huassyr,4vuassyr);
+z37=(8.5huassyr,7vuassyr);
+z39=(4.5huassyr,7vuassyr);
+z40=(4.5huassyr,6vuassyr);
+z41=(6.5huassyr,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7..z11{right}..{up}z13--
+z15..z17{up}..{up}z19..{left}z21..z22..{left}z23--z25{left}..z26..{left}z27..{down}z29..{down}z31--z33--cycle;
+unfill z35--z37--z39--z40{down}..{right}z41--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("v",12huassyr#,12vuassyr#,0);"The letter Shin";
+z1=(0,0);
+z2=(6huassyr,0);
+z3=(6huassyr,1vuassyr);
+z5=(7huassyr,0.4vuassyr);
+z7=(8huassyr,0);
+z11=(11huassyr,0);
+z13=(12huassyr,1vuassyr);
+z15=(12huassyr,4vuassyr);
+z17=(10huassyr,4vuassyr);
+z21=(8.4huassyr,7vuassyr);
+z22=(10huassyr,7vuassyr);
+z23=(12huassyr,9vuassyr);
+z25=(12huassyr,11.8vuassyr);
+z26=(11.8huassyr,12vuassyr);
+z27=(11.6huassyr,11.9vuassyr);
+z29=(10huassyr,11vuassyr);
+z31=(4huassyr,11vuassyr);
+z33=(2.4huassyr,11.9vuassyr);
+
+z35=(2.2huassyr,12vuassyr);
+z37=(2huassyr,11.8vuassyr);
+z39=(2huassyr,9vuassyr);
+z40=(4huassyr,7vuassyr);
+z41=(5.5huassyr,7vuassyr);
+z43=(5.5huassyr,4vuassyr);
+z45=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11{right}..{up}z13--
+z15--z17{left}..{up}z21--z22{right}..{up}z23{up}..{up}z25..{left}z26{left}..z27..{left}z29..
+{left}z31..z33..{left}z35{left}..{down}z37{down}..{down}z39{down}..{right}z40--z41--z43--z45--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=5boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("G",20huassyr#,16vuassyr#,6vuassyr#);"The letter Gammal first";
+z1=(0,0);
+z2=(14.1huassyr,0);
+z3=(15huassyr,-1vuassyr);
+z5=(16.4huassyr,-3.7vuassyr);
+z7=(16huassyr,-6vuassyr);
+z11=(18huassyr,-7.8vuassyr);
+z13=(19.8huassyr,-6.2vuassyr);
+z14=(19.3huassyr,-5vuassyr);
+z15=(18huassyr,-3.4vuassyr);
+z17=(6.4huassyr,11.6vuassyr);
+z19=(5.6huassyr,14vuassyr);
+z21=(5.6huassyr,15.8vuassyr);
+z22=(5.5huassyr,16vuassyr);
+z23=(5.35huassyr,15.9vuassyr);
+z24=(2.1huassyr,12vuassyr);
+z25=(2huassyr,11.6vuassyr);
+z50=(2.5huassyr,10.6vuassyr);
+z51=(3huassyr,10vuassyr);
+z27=(8huassyr,4vuassyr);
+z29=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..{up}z19{up}..{up}z21..{left}z22{left}..z23--z24..z25{down}..z50..z51--z27--z29--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("J",20huassyr#,16vuassyr#,6vuassyr#);"The letter Jammal first";
+z1=(0,0);
+z2=(14.1huassyr,0);
+z3=(15huassyr,-1vuassyr);
+z5=(16.4huassyr,-3.7vuassyr);
+z7=(16huassyr,-6vuassyr);
+z11=(18huassyr,-7.8vuassyr);
+z13=(19.8huassyr,-6.2vuassyr);
+z14=(19.3huassyr,-5vuassyr);
+z15=(18huassyr,-3.4vuassyr);
+z17=(6.4huassyr,11.6vuassyr);
+z19=(5.6huassyr,14vuassyr);
+z21=(5.6huassyr,15.8vuassyr);
+z22=(5.5huassyr,16vuassyr);
+z23=(5.35huassyr,15.9vuassyr);
+z24=(2.1huassyr,12vuassyr);
+z25=(2huassyr,11.6vuassyr);
+z50=(2.5huassyr,10.6vuassyr);
+z51=(3huassyr,10vuassyr);
+z27=(8huassyr,4vuassyr);
+z29=(0,4vuassyr);
+
+z67=(9.9huassyr,-3.8vuassyr);
+z69=(10.7huassyr,-3vuassyr);
+z71=(12huassyr,-3.6vuassyr);
+z73=(12.7huassyr,-2.4vuassyr);
+z75=(12.5huassyr,-1.8vuassyr);
+z77=(11.7huassyr,-2.7vuassyr);
+z79=(10.3huassyr,-2.2vuassyr);
+z81=(9.7huassyr,-3.2vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..{up}z19{up}..{up}z21..{left}z22{left}..z23--z24..z25{down}..z50..z51--z27--z29--cycle;
+fill z67{right}..{right}z69{right}..{right}z71{right}..{up}z73{up}..{left}z75{left}..{left}z77{left}..
+{left}z79{left}..{down}z81{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("U",20huassyr#,16vuassyr#,6vuassyr#);"The letter Gammal first with dot";
+z1=(0,0);
+z2=(14.1huassyr,0);
+z3=(15huassyr,-1vuassyr);
+z5=(16.4huassyr,-3.7vuassyr);
+z7=(16huassyr,-6vuassyr);
+z11=(18huassyr,-7.8vuassyr);
+z13=(19.8huassyr,-6.2vuassyr);
+z14=(19.3huassyr,-5vuassyr);
+z15=(18huassyr,-3.4vuassyr);
+z17=(6.4huassyr,11.6vuassyr);
+z19=(5.6huassyr,14vuassyr);
+z21=(5.6huassyr,15.8vuassyr);
+z22=(5.5huassyr,16vuassyr);
+z23=(5.35huassyr,15.9vuassyr);
+z24=(2.1huassyr,12vuassyr);
+z25=(2huassyr,11.6vuassyr);
+z50=(2.5huassyr,10.6vuassyr);
+z51=(3huassyr,10vuassyr);
+z27=(8huassyr,4vuassyr);
+z29=(0,4vuassyr);
+
+z67=(10.9huassyr,-2.8vuassyr);
+z69=(11.2huassyr,-3.1vuassyr);
+z71=(11.4huassyr,-4.5vuassyr);
+z73=(11.2huassyr,-5.5vuassyr);
+z75=(10.9huassyr,-5.8vuassyr);
+z77=(10.6huassyr,-5.5vuassyr);
+z79=(10.4huassyr,-4.5vuassyr);
+z81=(10.6huassyr,-3.1vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..{up}z19{up}..{up}z21..{left}z22{left}..z23--z24..z25{down}..z50..z51--z27--z29--cycle;
+fill z67{right}..z69..{down}z71{down}..z73..{left}z75{left}..z77..
+{up}z79{up}..z81..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=4boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("g",16huassyr#,16vuassyr#,6vuassyr#);"The letter Gammal middle";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,-1.1vuassyr);
+z5=(12.6huassyr,-2.5vuassyr);
+z7=(12huassyr,-6vuassyr);
+z11=(13.8huassyr,-7.8vuassyr);
+z13=(15.9huassyr,-5.5vuassyr);
+z14=(14.7huassyr,-3vuassyr);
+z15=(12huassyr,0);
+z17=(12huassyr,1vuassyr);
+z19=(13huassyr,0.4vuassyr);
+z21=(14huassyr,0);
+z22=(15huassyr,0);
+z23=(16huassyr,1vuassyr);
+z24=(16huassyr,4vuassyr);
+z25=(13huassyr,4vuassyr);
+z50=(12huassyr,4.6vuassyr);
+z51=(6.5huassyr,12vuassyr);
+z27=(5.6huassyr,14.5vuassyr);
+z29=(5.6huassyr,15.9vuassyr);
+z31=(5.5huassyr,16vuassyr);
+z33=(5.3huassyr,15.9vuassyr);
+z35=(2.2huassyr,12vuassyr);
+z37=(2huassyr,11.4vuassyr);
+z39=(2.2huassyr,11vuassyr);
+z41=(3huassyr,10vuassyr);
+z43=(8.4huassyr,4vuassyr);
+z45=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..z19..{right}z21--z22{right}..{up}z23--z24--z25{left}..z50--z51..{up}z27{up}..{up}z29{up}..
+{left}z31{left}..z33--z35..{down}z37{down}..z39..z41--z43--z45--cycle;
+
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("u",16huassyr#,16vuassyr#,6vuassyr#);"The letter Gammal middle with dot";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,-1.1vuassyr);
+z5=(12.6huassyr,-2.5vuassyr);
+z7=(12huassyr,-6vuassyr);
+z11=(13.8huassyr,-7.8vuassyr);
+z13=(15.9huassyr,-5.5vuassyr);
+z14=(14.7huassyr,-3vuassyr);
+z15=(12huassyr,0);
+z17=(12huassyr,1vuassyr);
+z19=(13huassyr,0.4vuassyr);
+z21=(14huassyr,0);
+z22=(15huassyr,0);
+z23=(16huassyr,1vuassyr);
+z24=(16huassyr,4vuassyr);
+z25=(13huassyr,4vuassyr);
+z50=(12huassyr,4.6vuassyr);
+z51=(6.5huassyr,12vuassyr);
+z27=(5.6huassyr,14.5vuassyr);
+z29=(5.6huassyr,15.9vuassyr);
+z31=(5.5huassyr,16vuassyr);
+z33=(5.3huassyr,15.9vuassyr);
+z35=(2.2huassyr,12vuassyr);
+z37=(2huassyr,11.4vuassyr);
+z39=(2.2huassyr,11vuassyr);
+z41=(3huassyr,10vuassyr);
+z43=(8.4huassyr,4vuassyr);
+z45=(0,4vuassyr);
+
+
+z67=(7.9huassyr,-1.5vuassyr);
+z69=(8.2huassyr,-1.8vuassyr);
+z71=(8.4huassyr,-3vuassyr);
+z73=(8.2huassyr,-4.2vuassyr);
+z75=(7.9huassyr,-4.5vuassyr);
+z77=(7.6huassyr,-4.2vuassyr);
+z79=(7.4huassyr,-3vuassyr);
+z81=(7.6huassyr,-1.8vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..z19..{right}z21--z22{right}..{up}z23--z24--z25{left}..z50--z51..{up}z27{up}..{up}z29{up}..
+{left}z31{left}..z33--z35..{down}z37{down}..z39..z41--z43--z45--cycle;
+fill z67{right}..z69..{down}z71{down}..z73..{left}z75{left}..z77..
+{up}z79{up}..z81..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+beginchar("j",16huassyr#,16vuassyr#,6vuassyr#);"The letter jammal middle";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,-1.1vuassyr);
+z5=(12.6huassyr,-2.5vuassyr);
+z7=(12huassyr,-6vuassyr);
+z11=(13.8huassyr,-7.8vuassyr);
+z13=(15.9huassyr,-5.5vuassyr);
+z14=(14.7huassyr,-3vuassyr);
+z15=(12huassyr,0);
+z17=(12huassyr,1vuassyr);
+z19=(13huassyr,0.4vuassyr);
+z21=(14huassyr,0);
+z22=(15huassyr,0);
+z23=(16huassyr,1vuassyr);
+z24=(16huassyr,4vuassyr);
+z25=(13huassyr,4vuassyr);
+z50=(12huassyr,4.6vuassyr);
+z51=(6.5huassyr,12vuassyr);
+z27=(5.6huassyr,14.5vuassyr);
+z29=(5.6huassyr,15.9vuassyr);
+z31=(5.5huassyr,16vuassyr);
+z33=(5.3huassyr,15.9vuassyr);
+z35=(2.2huassyr,12vuassyr);
+z37=(2huassyr,11.4vuassyr);
+z39=(2.2huassyr,11vuassyr);
+z41=(3huassyr,10vuassyr);
+z43=(8.4huassyr,4vuassyr);
+z45=(0,4vuassyr);
+
+z67=(6.9huassyr,-3.8vuassyr);
+z69=(7.7huassyr,-3vuassyr);
+z71=(9huassyr,-3.6vuassyr);
+z73=(9.7huassyr,-2.4vuassyr);
+z75=(9.5huassyr,-1.8vuassyr);
+z77=(8.7huassyr,-2.7vuassyr);
+z79=(7.3huassyr,-2.2vuassyr);
+z81=(6.7huassyr,-3.2vuassyr);
+
+pickup logo_pen;
+fill z1--z2..z3..{down}z5{down}..{down}z7{down}..{right}z11{right}..{up}z13{up}..
+z14..z15--z17..z19..{right}z21--z22{right}..{up}z23--z24--z25{left}..z50--z51..{up}z27{up}..{up}z29{up}..
+{left}z31{left}..z33--z35..{down}z37{down}..z39..z41--z43--z45--cycle;
+fill z67{right}..{right}z69{right}..{right}z71{right}..{up}z73{up}..{left}z75{left}..{left}z77{left}..
+{left}z79{left}..{down}z81{down}..{right}cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+kwidth#:=1.5boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("I",6huassyr#,8vuassyr#,0);"The letter Ioot first";
+z1=(0,0);
+z2=(2huassyr,0);
+z3=(2huassyr,1vuassyr);
+z5=(3huassyr,0.4vuassyr);
+z7=(4huassyr,0);
+z11=(5huassyr,0);
+z13=(6huassyr,1vuassyr);
+z14=(6huassyr,4vuassyr);
+z15=(2.8huassyr,7.5vuassyr);
+z17=(2.3huassyr,8vuassyr);
+z19=(2huassyr,7vuassyr);
+z21=(1huassyr,4vuassyr);
+z22=(0,4vuassyr);
+pickup logo_pen;
+fill z1--z2--z3..z5..z7{right}..z11{right}..{up}z13--
+z14{left}..z15..{left}z17..{down}z19{down}..{left}z21..{left}z22--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("i",12huassyr#,8vuassyr#,0);"The letter Khet first";
+z1=(0,0);
+z2=(2huassyr,0);
+z3=(2huassyr,1vuassyr);
+z5=(3huassyr,0.4vuassyr);
+z7=(4huassyr,0);
+z11=(8huassyr,0);
+z13=(8huassyr,1vuassyr);
+z14=(9huassyr,0.4vuassyr);
+z15=(10huassyr,0);
+z17=(11huassyr,0);
+z19=(12huassyr,1vuassyr);
+z21=(12huassyr,4vuassyr);
+z22=(8.8huassyr,7.5vuassyr);
+
+z23=(8.3huassyr,8vuassyr);
+z25=(8huassyr,7vuassyr);
+z27=(7huassyr,4vuassyr);
+z29=(6huassyr,4vuassyr);
+z31=(2.8huassyr,7.5vuassyr);
+z33=(2.3huassyr,8vuassyr);
+z35=(2huassyr,7vuassyr);
+z37=(1huassyr,4vuassyr);
+z39=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11--z13..
+z14..{right}z15--z17{right}..{up}z19--z21{left}..z22..{left}z23..{down}z25{down}..
+{left}z27..{left}z29..z31..{left}z33..{down}z35{down}..{left}z37..{left}z39--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3.5boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("E",14huassyr#,16vuassyr#,0);"The letter Ee first";
+z1=(0,0);
+z2=(10huassyr,0);
+z3=(10huassyr,1vuassyr);
+z5=(11huassyr,0.4vuassyr);
+z7=(12huassyr,0);
+z11=(12.5huassyr,0);
+z13=(14huassyr,2.5vuassyr);
+z14=(14huassyr,5.2vuassyr);
+z15=(13.8huassyr,5.4vuassyr);
+z17=(13.6huassyr,5.2vuassyr);
+z19=(12.5huassyr,4vuassyr);
+z21=(11huassyr,4.9vuassyr);
+z22=(10huassyr,6vuassyr);
+
+z23=(6huassyr,12.1vuassyr);
+z25=(5huassyr,15vuassyr);
+z27=(5huassyr,15.8vuassyr);
+z29=(4.9huassyr,16vuassyr);
+z31=(4.7huassyr,15.85vuassyr);
+z33=(2.3huassyr,13vuassyr);
+z35=(2huassyr,12.2vuassyr);
+z37=(2.5huassyr,11vuassyr);
+z39=(7.4huassyr,4vuassyr);
+z41=(0,4vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11{right}..{up}z13{up}..
+{up}z14{up}..{left}z15..z17..{left}z19{left}..z21..z22--z23..{up}z25{up}..
+{up}z27{up}..{left}z29..z31--z33..{down}z35{down}..z37--z39--z41--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+kwidth#:=3boxx#;
+kheight#:=5boxx#;
+kdepth#:=2boxx#;
+kleft#:=0#;
+
+beginchar("e",12huassyr#,16vuassyr#,0);"The letter Ee middle";
+z1=(0,0);
+z2=(10huassyr,0);
+z3=(10huassyr,1vuassyr);
+z5=(11huassyr,0.4vuassyr);
+z7=(12huassyr,0);
+z11=(12huassyr,4vuassyr);
+z12=(11huassyr,4.4vuassyr);
+z101=(10huassyr,5.5vuassyr);
+z100=(9.6huassyr,6vuassyr);
+z13=(5.9huassyr,12vuassyr);
+z14=(5.1huassyr,15vuassyr);
+z15=(5.1huassyr,15.8vuassyr);
+z17=(5huassyr,16vuassyr);
+z19=(4.8huassyr,15.85vuassyr);
+z21=(2.25huassyr,12.5vuassyr);
+z22=(2huassyr,11.85vuassyr);
+
+z23=(2.4huassyr,10.9vuassyr);
+z25=(7.2huassyr,4vuassyr);
+z27=(0,4vuassyr);
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11{left}..z12..z101..z100--z13..
+z14{up}..{up}z15..{left}z17..z19--z21..{down}z22..z23--z25--z27--cycle;
+endchar;
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

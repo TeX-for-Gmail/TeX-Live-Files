@@ -1,0 +1,19 @@
+name fancytabs
+category Package
+revision 41549
+shortdesc Fancy page border tabs
+longdesc The package can typeset tabs on the side of a page. It requires
+longdesc TikZ from the pgf bundle.
+containersize 1600
+containerchecksum 0cd45edda0062f4a0fbc26a0516d7f5b35cb4f8dfd4072830da880369d71d8a4aea6a7d5dd95a0b479ec3128170108f114aa00ef4b0c8324c60ddd214568f5cf
+doccontainersize 184668
+doccontainerchecksum 0113da627d27fe88c4faa87e1564851344dac2efb75c78facc4da49a8937e2bda8e1f22997a2018b368001c24e721cbf623fc199d03673701a55c7ca45404770
+srccontainersize 3964
+srccontainerchecksum 4a7c92f30414a595cc8c928b181565e3d50614fb4e5a128197bb4a8f90a50cbd9c75ca447bf37c41e9fe3c05d4422d6e3618da63edc51f240dc3e8d55c8d61dd
+runfiles size=1
+ texmf-dist/tex/latex/fancytabs/fancytabs.sty
+catalogue-ctan /macros/latex/contrib/fancytabs
+catalogue-date 2016-06-27 10:08:39 +0200
+catalogue-license lppl1.3
+catalogue-topics decoration
+catalogue-version 1.9

@@ -1,0 +1,21 @@
+name pecha
+category Package
+revision 15878
+shortdesc Print Tibetan text in the classic pecha layout style
+longdesc The pecha class provides an environment for writing Tibetan on
+longdesc LaTeX2e in the traditional Tibetan Pecha layout used for
+longdesc spiritual or philosophical texts, using the cTib4TeX package by
+longdesc Oliver Corff. It provides features like headers in different
+longdesc languages, page numbering in Tibetan and more.
+containersize 10064
+containerchecksum 12092c82c52e34259fb0894b8375c45fd94b9aead121085736a0f7bac90b7e156906a22d233c596c79880aa0b858f7213f37b2059cecbb4627ce2e4163f22335
+doccontainersize 73072
+doccontainerchecksum 3d0d9184aa0009ab67f299a87b3840513229a93ec08e33208fc7b3c1a69fe043b02844ccf7569d14c5d5cdf0546224b320970caa080458c92cc299853b021c98
+runfiles size=11
+ texmf-dist/tex/latex/pecha/ctibmantra.sty
+ texmf-dist/tex/latex/pecha/pecha.cls
+catalogue-ctan /language/tibetan/pecha
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tibetan
+catalogue-version 0.1

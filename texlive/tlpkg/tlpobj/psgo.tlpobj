@@ -1,0 +1,15 @@
+name psgo
+category Package
+revision 15878
+shortdesc Typeset go diagrams with PSTricks
+containersize 3036
+containerchecksum 75791ac8c340cd72139c50b2e2a05f6001edf2b79bbb9fcb4c9118f2acbc67643469c8f6da34122bf001e85af60b5b0050bf3c7b5bcce7c393e7930e3cfe7eaf
+doccontainersize 86520
+doccontainerchecksum 9d061c884f76eb87e86cb441ebb693a9c64daca024c35dd631d660f3d1f8b1541c40e285d5f4115b36e2b02b7640ea7be70f4527e7ae92c6d6173625b215b7cc
+runfiles size=3
+ texmf-dist/tex/latex/psgo/psgo.sty
+catalogue-ctan /graphics/pstricks/contrib/psgo
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics games pstricks
+catalogue-version 0.17

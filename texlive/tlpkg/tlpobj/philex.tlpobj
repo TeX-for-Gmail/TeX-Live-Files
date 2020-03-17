@@ -1,0 +1,22 @@
+name philex
+category Package
+revision 36396
+shortdesc Cross references for named and numbered environments
+longdesc Philex provides means for creating and cross-referencing named
+longdesc or numbered environments. Possible uses would be equations,
+longdesc example sentences (as in linguistics or philosophy) or named
+longdesc principles. Cross references may refer either to the number, or
+longdesc to a short name of the target environment, or to the contents
+longdesc of the environment. Philex builds on the facilities of the
+longdesc linguex package.
+containersize 4424
+containerchecksum 0b6ce5d281836926d6807dda7a8a4eace43a25160b8bdfaaded7ef9838f933db7a7bd4859019555002b662ca01800e64c4f6228427b4f40c9a79e71759aca6e0
+doccontainersize 244388
+doccontainerchecksum ec8eafe3e1b5e7cdeeb2554c3e34036c808f33b4f4bd2e5fb8b2e10e4366f51db02b2bf3dd52e46c92d600cc092f30c4db6cb6f69cc66cafde5c11a53a883839
+runfiles size=11
+ texmf-dist/tex/latex/philex/philex.sty
+catalogue-ctan /macros/latex/contrib/philex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics label-ref
+catalogue-version 1.3

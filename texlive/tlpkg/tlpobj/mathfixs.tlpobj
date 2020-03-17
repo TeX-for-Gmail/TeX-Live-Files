@@ -1,0 +1,21 @@
+name mathfixs
+category Package
+revision 49547
+shortdesc Fix various layout issues in math mode
+longdesc This is a LaTeX2e package to fix some odd behaviour in math
+longdesc mode such as spacing around fractions and roots, math symbols
+longdesc within bold text as well as capital Greek letters. It also adds
+longdesc some related macros.
+containersize 2796
+containerchecksum 513e5dd9eb58ca5b1eb8daec663c48577fa2102ade0234412dbb22b6d756ad37009c689746c57c6624c731df64fa8d58eabfecbd4cdc31c576eb0ecd1e232fdf
+doccontainersize 293968
+doccontainerchecksum c9ad8dda9ffaa77ba727f536016ba1dcbfb91c4d7ab98b1e4b72156591e8ff0359f623475324e57c6b22f509cdfe7e30ba67c3fb22f9dd152e59f1557c96a6a6
+srccontainersize 11900
+srccontainerchecksum f08a26458ed871a11a44a1e957a1e9140b3e95c98ba1bd958cb9d63cbe483ee94e91217a5a7e54745b2cf245ee7f898fb64238941d1a8fce04699a3b8a06b7e3
+runfiles size=3
+ texmf-dist/tex/latex/mathfixs/mathfixs.sty
+catalogue-ctan /macros/latex/contrib/mathfixs
+catalogue-date 2018-12-30 15:31:01 +0100
+catalogue-license lppl1.3
+catalogue-topics maths bugfix
+catalogue-version 1.01

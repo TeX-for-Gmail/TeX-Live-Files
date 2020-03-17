@@ -1,0 +1,16 @@
+name thinsp
+category Package
+revision 39669
+shortdesc A stretchable \thinspace for LaTeX
+longdesc The package redefines \thinspace to have a stretch component.
+containersize 1352
+containerchecksum ddc80b4de32524ce76fe34e8f88d01e2db18a8bbf60a718454a0303aea8082fc2e495c89c2ad0a7459ed3151e890e30a1263267f249581e24bac87113a5fd266
+doccontainersize 297648
+doccontainerchecksum b5b50522a4a7b5f7772118d95fdf42e2f570ac35c49a8690560df27df0754a170acddd782b516fa185c0f6ef2abb3ff8a9f366370c2ad46e2e4d32dba21e634b
+runfiles size=1
+ texmf-dist/tex/latex/thinsp/thinsp.sty
+catalogue-ctan /macros/latex/contrib/thinsp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics typesetting
+catalogue-version 0.2

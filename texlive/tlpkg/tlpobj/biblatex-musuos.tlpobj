@@ -1,0 +1,20 @@
+name biblatex-musuos
+category Package
+revision 24097
+shortdesc A BibLaTeX style for citations in musuos.cls
+longdesc The style is designed for use with the musuos class, but it
+longdesc should be usable with other classes, too.
+containersize 3796
+containerchecksum 129d1c12bc0e4e8fd339f7bc37442947dc492700a721933c9dda0b18edf78a9b402884376cb7d80893a06834f70a5d377fd264813cdf869ce5e40667f296d618
+doccontainersize 424364
+doccontainerchecksum d2fc62bb25394195a161e47ba116f2e795e6009b5f547d09cae2e21cc0f8171c610013622c2a019438e04b6c089d17c21333e3c70b8faeb09f90113cca9536c4
+runfiles size=5
+ texmf-dist/tex/latex/biblatex-musuos/german-musuos.lbx
+ texmf-dist/tex/latex/biblatex-musuos/musuos.bbx
+ texmf-dist/tex/latex/biblatex-musuos/musuos.cbx
+catalogue-also musuos
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-musuos
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics biblatex music
+catalogue-version 1.0

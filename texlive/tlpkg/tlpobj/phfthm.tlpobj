@@ -1,0 +1,24 @@
+name phfthm
+category Package
+revision 41871
+shortdesc Goodies for theorems and proofs
+longdesc This package provides enhanced theorem and proof environments
+longdesc based on the amsthm original versions. It allows for hooks to
+longdesc be placed, adds some default goodies and is highly
+longdesc customizable. In particular, it can connect theorems to proofs,
+longdesc automatically producing text such as "See proof on page XYZ"
+longdesc and "Proof of Theorem 4: ...".
+containersize 5348
+containerchecksum c6aeab1fef49a56a7ab080945199a4f68186b53bd7fd00e4c3d3babcd3f63f998748635edded858d5904b8dc7604007753bec12fdc8ff6a7656cf1ef26c0ca9e
+doccontainersize 376988
+doccontainerchecksum c2439e7a3e7f1b0730b8fc48f933b9754777e7750a58ee6a5985ac458689c2df96d9e74d09c5ade2b0b8dac49e0be43ca60a0769dedc662e151e1dac5bb18cf0
+srccontainersize 23912
+srccontainerchecksum b189f0320e5b8d1ecbb1bb34972b845d776190ada4ab76e44ade41e21d8f7eb0bfb6bd55a4352aad4d0c2455730b7803384eece70d2030faf9279aef0f70f540
+runfiles size=6
+ texmf-dist/tex/latex/phfthm/phfthm.sty
+catalogue-contact-repository https://github.com/phfaist/phfqitltx
+catalogue-ctan /macros/latex/contrib/phfthm
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics maths maths-theorem
+catalogue-version 1.0

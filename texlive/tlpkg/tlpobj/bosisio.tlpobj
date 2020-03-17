@@ -1,0 +1,25 @@
+name bosisio
+category Package
+revision 16989
+shortdesc A collection of packages by Francesco Bosisio
+longdesc A collection of packages containing: accenti dblfont; envmath;
+longdesc evenpage; graphfig; mathcmd; quotes; and sobolev.
+containersize 6992
+containerchecksum 659cd163c28a52fc12651b35b8018d0df7e4fb706739b090167689a7199a8f9ca3bc3376ed3a5b6c076e9242f4f8132dbec6cbeead499453fa5c9cbd2aecce38
+doccontainersize 462336
+doccontainerchecksum 7fc9a651f6845643fecbb9f0fff150fec2a22273accc420451c2c5dbeab6e40cbeb9b51a32589787c005fe479f626111214bebadb217a238baab07fa18d8c92b
+srccontainersize 23060
+srccontainerchecksum 494ff83253abdc9f0d81b3ee36f1d860938b1eb8a7691ecda596d31126624f3272ba65685a9436a5817b93a786da97e6bc6702249630d71f697ef394f801584e
+runfiles size=15
+ texmf-dist/tex/latex/bosisio/accenti.sty
+ texmf-dist/tex/latex/bosisio/dblfont.sty
+ texmf-dist/tex/latex/bosisio/envmath.sty
+ texmf-dist/tex/latex/bosisio/evenpage.sty
+ texmf-dist/tex/latex/bosisio/graphfig.sty
+ texmf-dist/tex/latex/bosisio/mathcmd.sty
+ texmf-dist/tex/latex/bosisio/quotes.sty
+ texmf-dist/tex/latex/bosisio/sobolev.sty
+catalogue-ctan /macros/latex/contrib/bosisio
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics collection

@@ -1,0 +1,13 @@
+name translation-dcolumn-fr
+category Package
+revision 24345
+shortdesc French translation of the documentation of dcolumn
+longdesc A French translation of the documentation of dcolumn.
+containersize 388
+containerchecksum 8d2288707f13896dbb578b538b535efffc89991d56586f27a35b284b5be7c553df97a72ac163a625238e281bfe97bb79fa716855dc8e93f25f0a8af69674eb45
+doccontainersize 322312
+doccontainerchecksum 95d1633884f7237bf2a7abf8a43127ac1954fb5d0e308d676a7f4c3255d709496a382f01a8af6c28f793bcd1863e98f8ed1441e7cc288d3b8de3176631cdca1d
+catalogue-ctan /info/translations/dcolumn/fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics french-doc documentation table typesetting

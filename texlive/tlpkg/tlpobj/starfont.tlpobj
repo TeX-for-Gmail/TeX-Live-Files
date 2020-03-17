@@ -1,0 +1,28 @@
+name starfont
+category Package
+revision 19982
+shortdesc The StarFont Sans astrological font
+longdesc The package contains StarFontSans and StarFontSerif, two
+longdesc public-domain astrological fonts designed by Anthony I.P. Owen,
+longdesc and the appropriate macros to use them with TeX and LaTeX. The
+longdesc fonts are supplied both in the original TrueType Format and in
+longdesc Adobe Type 1 format.
+execute addMap starfont.map
+containersize 179532
+containerchecksum 1f45f97813f5e51b45e1cbd3246b877aad823895a4b087294d0754c560db5796d8b4f9d09972b5c90c4c569db82a2d70bd1c39a9dfe6e1fcc4e0deeceb44f876
+doccontainersize 494536
+doccontainerchecksum def94e1e2995e20e282d9319f763ddbc5e152a48c18ba98ef4d168e69a9a6deb5d7d87923a3259553f990f2da73c78929858852c6165acf7a94a6010382f786b
+runfiles size=57
+ texmf-dist/fonts/afm/public/starfont/starfont.afm
+ texmf-dist/fonts/afm/public/starfont/strfnser.afm
+ texmf-dist/fonts/map/dvips/starfont/starfont.map
+ texmf-dist/fonts/tfm/public/starfont/fstr8x.tfm
+ texmf-dist/fonts/tfm/public/starfont/fsts8x.tfm
+ texmf-dist/fonts/type1/public/starfont/starfont.pfb
+ texmf-dist/fonts/type1/public/starfont/strfnser.pfb
+ texmf-dist/tex/latex/starfont/starfont.sty
+catalogue-ctan /fonts/ps-type1/starfont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font astrology font-specialist font-ttf
+catalogue-version 1.2

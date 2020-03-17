@@ -1,0 +1,11 @@
+name mflua.x86_64-linux
+category TLCore
+revision 50853
+shortdesc x86_64-linux files of mflua
+containersize 522792
+containerchecksum 0df58273603e3b8c73900742ccde594c29e616aea0b8a300c60df3c944aaaa6bc6de9c89a23a1ea4ab04269e9c8ebf81a3ed8534c8bf613a37537121a936bfd5
+binfiles arch=x86_64-linux size=373
+ bin/x86_64-linux/mflua
+ bin/x86_64-linux/mflua-nowin
+ bin/x86_64-linux/mfluajit
+ bin/x86_64-linux/mfluajit-nowin

@@ -1,0 +1,8 @@
+name latex2nemeth.x86_64-linux
+category Package
+revision 42300
+shortdesc x86_64-linux files of latex2nemeth
+containersize 340
+containerchecksum 70d0de15e6be915561e04ad3d230e3daf00f01cefdfe877bda998f0c5abf2937f24b33dff92134a3f590c54ea5fc5192bffaf58f4c838c6a7fe6ca42082ad034
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latex2nemeth

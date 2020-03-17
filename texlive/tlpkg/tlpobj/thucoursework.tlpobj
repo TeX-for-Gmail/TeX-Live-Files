@@ -1,0 +1,25 @@
+name thucoursework
+category Package
+revision 47781
+shortdesc Coursework template for Tsinghua University
+longdesc A LaTeX package for students of Tsinghua University to write
+longdesc coursework more efficiently. It can also be used by students
+longdesc from other universities. Note that the package itself does not
+longdesc import the ctex package; to use it with Chinese writing, see
+longdesc example file ithw.tex for details.
+containersize 2208
+containerchecksum 28786a2d16bef84f87bd87b57977a9d9cbf8b2f172928ccf56224205ec54945fc12ebe563d73df1d3501e987f8aa6af9038e28127d7d381b31be276f6e2546f6
+doccontainersize 656892
+doccontainerchecksum a4e7cdf992721820376ef2b967aeed1821edb6e4763251b627c61a0a85328de8d3d3ff78c7a39f43dd57f3c2ccf54fabf274a074e529ee9f82770766e87cd263
+srccontainersize 8240
+srccontainerchecksum 82615d29bafe844d4c27f75d477b2f731f090fa8080fd36f727c9f17dfbadcfd0bcee2ca7d1ebaae0b75ba61d18828298d5ce64c046f8a6a2a283a2f24658c0f
+runfiles size=2
+ texmf-dist/tex/latex/thucoursework/iidef.sty
+catalogue-contact-bugs https://github.com/zhaofeng-shu33/THU-coursework-template/issues
+catalogue-contact-development https://github.com/zhaofeng-shu33
+catalogue-contact-repository https://github.com/zhaofeng-shu33/THU-coursework-template
+catalogue-ctan /macros/latex/contrib/thucoursework
+catalogue-date 2018-05-20 08:52:27 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-templ chinese
+catalogue-version 2.5

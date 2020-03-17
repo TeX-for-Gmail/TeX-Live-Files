@@ -1,0 +1,30 @@
+name datetime2
+category Package
+revision 48236
+shortdesc Formats for dates, times and time zones
+longdesc This package provides commands for formatting dates, times and
+longdesc time zones and redefines \today to use the same formatting
+longdesc style. In addition to \today, you can also use \DTMcurrenttime
+longdesc (current time) or \DTMnow (current date and time). Dates and
+longdesc times can be saved for later use. The accompanying
+longdesc datetime2-calc package can be used to convert date-times to
+longdesc UTC+00:00. Language and regional support is provided by
+longdesc independently maintained and installed modules. The
+longdesc datetime2-calc package uses the pgfcalendar package (part of
+longdesc the PGF/TikZ bundle). This package replaces datetime.sty which
+longdesc is now obsolete.
+containersize 8660
+containerchecksum 876b16d0fe08584c02804e93bdce6029376e1c37b3c8a3a0a5ae4ce93cebed615b077d042cff0a658f0f2c65745fd22b40f18c4db87ae73ecf3844a699f09e81
+doccontainersize 1013464
+doccontainerchecksum 37fb08d1d23645a53a6d0c76aaeaf8df34de9ee148aac23723adc892e026a5daf74c446f1ef747a62175984dd601560a1338fc37ec6600d9d0772237e60b1d21
+srccontainersize 50740
+srccontainerchecksum 42f6ef0eb78480c10ea1dfa1ba3733f48fb5f4a639ffc11c11d264ebb46845823224604b7c43b4120da6ec0534c2d8eb63c327825c074c7ffe01ee1bad3137c2
+runfiles size=17
+ texmf-dist/tex/latex/datetime2/datetime2-calc.sty
+ texmf-dist/tex/latex/datetime2/datetime2.sty
+catalogue-contact-home http://www.dickimaw-books.com/faqs/datetime2faq.html
+catalogue-ctan /macros/latex/contrib/datetime2
+catalogue-date 2018-07-20 14:37:08 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.5.3

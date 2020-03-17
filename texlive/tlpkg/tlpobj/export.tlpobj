@@ -1,0 +1,23 @@
+name export
+category Package
+revision 27206
+shortdesc Import and export values of LaTeX registers
+longdesc The package allows the user to export/import the values of
+longdesc LaTeX registers (counters, rigid and rubber lengths only). It
+longdesc is not for faint-hearted users. The package may be used, for
+longdesc example, to communicate between documents for the purposes of
+longdesc dvipaste.
+containersize 6396
+containerchecksum 04b5eac3e263fd692a1f4796ddccf7c5f41398075c9b15e65a0712cc83dcd85a65ae4506a882249e09c9ceea37f973be3398a0c31d2590e0c3e57549f07e9116
+doccontainersize 280332
+doccontainerchecksum 169236b497ce09d685c71bd21eb6c35ac260d5978c03f074371386062ce8219bac1e501878ba13b60677c423904ed11b37d8e018adae573d135a1e1cbfdb84a4
+srccontainersize 9056
+srccontainerchecksum 844f1bb688d389fba93a7350b884b4cd5298ed6974d48218cd1cd2c863b9193e6d4d177f3ca1e905dfaa028f626fff4af4b9912ab9bf3eabd2bd9f4ce5d5da7d
+runfiles size=6
+ texmf-dist/tex/latex/export/dvipaste.sty
+ texmf-dist/tex/latex/export/export.sty
+catalogue-ctan /macros/latex/contrib/export
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.8

@@ -1,0 +1,21 @@
+name chemschemex
+category Package
+revision 46723
+shortdesc Typeset and cross-reference chemical schemes based on TikZ code
+longdesc The package provides a comfortable means of typesetting
+longdesc chemical schemes, and also offers automatic structure
+longdesc referencing.
+containersize 6716
+containerchecksum c7375af2dbf1a7b55d41b0ab617111cc198f1aeac98c354813cb2886e0707ce5648d3e4fd9eefdd23bffddc08b96c35a050c1f440f21d5a2d7d5c6b5e0b6aaac
+doccontainersize 291444
+doccontainerchecksum b5e864a02ed664e7d7596b56e2583f9a4aff2b8117f79415156df0cab9be084bb96eb6c70c4fca9dd4bd03b30e8b145e4cd809b165d17325625ae625c33f1dc3
+srccontainersize 14224
+srccontainerchecksum 56174f5943b8dc3aa0cccaefaf9d3f24903626d3c4eb48bc79f01f2a7be603921f7b1ee300e4009038e3a92cd550c08c37aff239a9426ef3277e47f645964488
+runfiles size=10
+ texmf-dist/tex/latex/chemschemex/chemschemex.sty
+catalogue-also chemscheme
+catalogue-ctan /macros/latex/contrib/chemschemex
+catalogue-date 2018-02-23 21:15:29 +0100
+catalogue-license lppl1.2
+catalogue-topics chemistry
+catalogue-version 1.2

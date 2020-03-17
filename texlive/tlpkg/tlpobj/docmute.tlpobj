@@ -1,0 +1,21 @@
+name docmute
+category Package
+revision 25741
+shortdesc Input files ignoring LaTeX preamble, etc
+longdesc Input or include stand-alone LaTeX documents, ignoring
+longdesc everything but the material between \begin{document} and
+longdesc \end{document}.
+containersize 892
+containerchecksum 5c01f4e6922b7a23e753edf9110ae7f1386a4d6ca719ac898b058068a754a6c3bb123f918bdb1087baf5efd1176545f543ab8b93bcb6c9529c9000ad6a3b1e97
+doccontainersize 148464
+doccontainerchecksum 8207eade8841747201656a7e6edc789926a9dd411946a860e4d865fed618392bb9159245f7162adb4a58c88d00191d83f2daef49f610c3d8e5e231ad7f1fcb7e
+srccontainersize 3156
+srccontainerchecksum 1809026635be9610b39f5f428dfeb2c323b4588dbc6306a50e00f092910fd449921a2cd797fdbf3408442b9f24cfeaf7c69e75db9bd217dce975eee2f1a4b930
+runfiles size=1
+ texmf-dist/tex/latex/docmute/docmute.sty
+catalogue-also combine includex newclude standalone
+catalogue-ctan /macros/latex/contrib/docmute
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics subdocs
+catalogue-version 1.4

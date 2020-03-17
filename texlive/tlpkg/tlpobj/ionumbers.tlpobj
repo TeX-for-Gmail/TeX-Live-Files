@@ -1,0 +1,32 @@
+name ionumbers
+category Package
+revision 33457
+shortdesc Restyle numbers in maths mode
+longdesc 'ionumbers' stands for 'input/output numbers'. The package
+longdesc restyles numbers in maths mode. If a number in the input file
+longdesc is written, e.g., as $3,231.44$ as commonly used in English
+longdesc texts, the package is able to restyle it to be output as
+longdesc $3\,231{,}44$ as commonly used in German texts (and vice
+longdesc versa). This may be useful, for example, if you have a large
+longdesc table and want to include it in texts with different output
+longdesc conventions without the need to change the table. The package
+longdesc can also automatically group digits left of the decimal
+longdesc separator (thousands) and right of the decimal separator
+longdesc (thousandths) in triplets without the need of specifing commas
+longdesc (English) or points (German) as separators. E.g., the input
+longdesc $1234.567890$ can be output as $1\,234.\,567\,890$. Finally, an
+longdesc e starts the exponent of the number. For example, $21e6$ may be
+longdesc output as $26\times10\,^{6}$.
+containersize 4952
+containerchecksum f964955ea6470a8906dd7623bd6959aad72ab4da5cbd4c32aa78cb2350cda05a1f577316ef97cdec9658deda027429462b70bcdad18024f255191b2f6cd7f99a
+doccontainersize 482812
+doccontainerchecksum 5bf57ed5617846d10834f880e4a1c029547f1ac678a52be3e79613803b4e6cd0986887f2a44a0a4bfabaf9134ef39c44e420a12047fee81fd34243ec42c5262e
+srccontainersize 12992
+srccontainerchecksum f7d0f56de1a00761104fa7e9aa13f1ca4b9ef97051ef2dd6d28dba3066998d53aeae015d956dec0d3c771d85f6553c5835e4a9bd9d83dd4feb65591d6c613fb4
+runfiles size=7
+ texmf-dist/tex/latex/ionumbers/ionumbers.sty
+catalogue-ctan /macros/latex/contrib/ionumbers
+catalogue-date 2018-01-06 12:59:56 +0100
+catalogue-license gpl
+catalogue-topics numbers
+catalogue-version 0.3.3

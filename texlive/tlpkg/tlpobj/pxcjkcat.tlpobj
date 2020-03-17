@@ -1,0 +1,20 @@
+name pxcjkcat
+category Package
+revision 47266
+shortdesc LaTeX interface for the CJK category codes of upTeX
+longdesc The package provides management of the CJK category code
+longdesc ('kcatcode'> table of the upTeX extended TeX engine. Package
+longdesc options are available for tailored use in the cases of
+longdesc documents that are principally written in Japanese, or
+longdesc principally written in English or other Western languages.
+containersize 7152
+containerchecksum 59923115da33e18e2b29a10f664063755b42937ce601ed46103ec8edf16944056180a1aacdb296aceb5206d3dd453c0eec6f84f5b689ad68736c88479f928214
+doccontainersize 195556
+doccontainerchecksum 3c822359a68800a29fbc7ceda3293b6be902d9bc61f277003e6e20404c32e9bb6b34638a4bc11aeb943c4bdf6e361386972251b9b015fbe68ead824e5fdc67d6
+runfiles size=7
+ texmf-dist/tex/latex/pxcjkcat/pxcjkcat.sty
+catalogue-ctan /macros/latex/contrib/pxcjkcat
+catalogue-date 2018-04-03 10:18:00 +0200
+catalogue-license mit
+catalogue-topics japanese multilingual
+catalogue-version 1.1

@@ -1,0 +1,38 @@
+name fouriernc
+category Package
+revision 29646
+shortdesc Use New Century Schoolbook text with Fourier maths fonts
+longdesc This package provides a LaTeX mathematics font setup for use
+longdesc with New Century Schoolbook text. In order to use it you need
+longdesc to have the Fourier-GUTenberg fonts installed.
+containersize 12492
+containerchecksum 904b464fb9066100512cfd8a8998bb089113b443e2df1fb77100f9b5a26d48a5b3512931c00292d19764eb4f068f207eb38dab78798f217f2533a65229411df9
+doccontainersize 37464
+doccontainerchecksum 039ce79d06bd1fb55b257f1c65c53412b15c26d4eafb9d3abe9bb7a7fa836c8b545718f70d935f1449fa235f33d07c81ad8f228608de20ffdfa99b9f532e059d
+runfiles size=23
+ texmf-dist/fonts/afm/public/fouriernc/fourier-mcl.afm
+ texmf-dist/fonts/afm/public/fouriernc/fourier-ml.afm
+ texmf-dist/fonts/afm/public/fouriernc/fourier-mlb.afm
+ texmf-dist/fonts/afm/public/fouriernc/fourier-mlit.afm
+ texmf-dist/fonts/afm/public/fouriernc/fourier-mlitb.afm
+ texmf-dist/fonts/afm/public/fouriernc/fourier-ms.afm
+ texmf-dist/fonts/tfm/public/fouriernc/fncmi.tfm
+ texmf-dist/fonts/tfm/public/fouriernc/fncmib.tfm
+ texmf-dist/fonts/tfm/public/fouriernc/fncmii.tfm
+ texmf-dist/fonts/tfm/public/fouriernc/fncmiib.tfm
+ texmf-dist/fonts/tfm/public/fouriernc/fncsy.tfm
+ texmf-dist/fonts/vf/public/fouriernc/fncmi.vf
+ texmf-dist/fonts/vf/public/fouriernc/fncmib.vf
+ texmf-dist/fonts/vf/public/fouriernc/fncmii.vf
+ texmf-dist/fonts/vf/public/fouriernc/fncmiib.vf
+ texmf-dist/fonts/vf/public/fouriernc/fncsy.vf
+ texmf-dist/tex/latex/fouriernc/fmlfncm.fd
+ texmf-dist/tex/latex/fouriernc/fmlfncmi.fd
+ texmf-dist/tex/latex/fouriernc/fmsfncm.fd
+ texmf-dist/tex/latex/fouriernc/fouriernc.sty
+ texmf-dist/tex/latex/fouriernc/t1fnc.fd
+ texmf-dist/tex/latex/fouriernc/ts1fnc.fd
+catalogue-ctan /fonts/fouriernc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-maths font-virtual

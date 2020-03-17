@@ -1,0 +1,8 @@
+name pkfix.x86_64-linux
+category Package
+revision 13364
+shortdesc x86_64-linux files of pkfix
+containersize 336
+containerchecksum b75340c58d0033e9f0bd42a737c851db315411b4b392759c630b3dd6670e8bb083b040c5eee156beae26abc9e3ff9fd23867f7c1a6e59999b265d3b26ee6ebf4
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pkfix

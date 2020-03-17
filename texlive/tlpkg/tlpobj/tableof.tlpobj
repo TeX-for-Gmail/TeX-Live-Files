@@ -1,0 +1,26 @@
+name tableof
+category Package
+revision 48815
+shortdesc Tagging tables of contents
+longdesc The package provides the commands to flag chapters or sections
+longdesc (or anything else destined to become a TOC line). The command
+longdesc \nexttocwithtags{req1,req2,...}{excl1,excl2,...} specifies
+longdesc which tags are to be required and which ones are to be excluded
+longdesc by the next \tableofcontents (or equivalent) command. In a
+longdesc document that uses a class where \tableofcontents may only be
+longdesc used once, the command
+longdesc \tableoftaggedcontents{req1,req2,...}{excl1,excl2,...} may be
+longdesc used to provide several tables.
+containersize 2528
+containerchecksum 3eb5dd3a3399825a85280c79c9f013dc9615a534e475d64777ec84924c9257aa930b7fe677a85c32b158b4099d5b61f306ea54f610fa1c9db42764fbf5b683da
+doccontainersize 56988
+doccontainerchecksum 609011dc53d37fbad2abf84531ab99d8f60b636222debdf0466b33ed85964326b688a7e5d957500a970e1e974d5fbcf1dfc198e146360b6d43b58f6f3d67c845
+srccontainersize 10884
+srccontainerchecksum b55b6834b7dcc3ba83f3e8620ffa9ee66b0a6962a4c1b95d7b74ac164300334db89f432af7407268d00190e79333fb3e305074feaf116344957a5a986c842d17
+runfiles size=2
+ texmf-dist/tex/latex/tableof/tableof.sty
+catalogue-ctan /macros/latex/contrib/tableof
+catalogue-date 2018-10-02 13:25:15 +0200
+catalogue-license lppl1.3
+catalogue-topics toc-etc
+catalogue-version 1.4b

@@ -1,0 +1,19 @@
+name intro-scientific
+category Package
+revision 15878
+shortdesc Introducing scientific/mathematical documents using LaTeX
+longdesc "Writing Scientific Documents Using LaTeX" is an article
+longdesc introducing the use of LaTeX in typesetting scientific
+longdesc documents. It covers the basics of creating a new LaTeX
+longdesc document, special typesetting considerations, mathematical
+longdesc typesetting and graphics. It also touches on bibliographic data
+longdesc and BibTeX.
+containersize 540
+containerchecksum 9919021461485fc22ed6ecc0b30d0a23c0a2217c76a07dd8acd87c9091c9d71be0e370ce1373f90e6f5a36a9638ce4312fc674b16ccd0846aab97d1b05674391
+doccontainersize 274748
+doccontainerchecksum 0daf84bdf7821aeb2f7971ed15de5546a13a444f3dc1b757f31490679350199fc893111109fc564aae2c8786fefc9e198e79e817bb318a1ad62698b6a5c79af5
+catalogue-ctan /info/intro-scientific
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tut-latex
+catalogue-version 5th edition

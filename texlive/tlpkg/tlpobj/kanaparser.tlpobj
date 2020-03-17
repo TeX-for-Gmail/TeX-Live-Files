@@ -1,0 +1,23 @@
+name kanaparser
+category Package
+revision 48052
+shortdesc Kana parser for LuaTeX
+longdesc The package provides a kana parser for LuaTeX. It is a set of 4
+longdesc macros that handle transliteration of text: from hiragana and
+longdesc katakana to Latin from Latin and katakana to hiragana from
+longdesc Latin and hiragana to katakana It can be used to write kana
+longdesc directly using only the ASCII character set or for education
+longdesc purposes. The package has support for obsolete and rarely used
+longdesc syllables, some only accessible via the provided toggle macro.
+containersize 4620
+containerchecksum a9db1fc66330bafc5fc26ed600f1779dce328d6234ebe930aaff65a02a0d740188e73c5f73a9c75d69926323a610dca4b37044e7357a141eae9bb3231fd3e272
+doccontainersize 367048
+doccontainerchecksum 9eb00a9652f22411f9ae0123bd2bda62af617f39ed3eb8266c4ca38ff0783722a3d1eb05a0fe1ef6a238a3132ade65c5ebd882309f154ca416e2191b9db44c4c
+runfiles size=5
+ texmf-dist/tex/luatex/kanaparser/kanaparser.lua
+ texmf-dist/tex/luatex/kanaparser/kanaparser.tex
+catalogue-ctan /macros/luatex/generic/kanaparser
+catalogue-date 2018-06-24 05:03:49 +0200
+catalogue-license bsd
+catalogue-topics luatex parser japanese
+catalogue-version 1.0

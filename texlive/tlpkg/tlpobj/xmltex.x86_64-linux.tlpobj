@@ -1,0 +1,9 @@
+name xmltex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of xmltex
+containersize 336
+containerchecksum 0d400dca8f0a2834d083ee2466b325d243ac5eecb91bef5f579aefaf590f6ef19c0d02fdce5febeb7cb64ac3b180bf39ba4096916a6d27aabda8c84755e4282f
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/pdfxmltex
+ bin/x86_64-linux/xmltex

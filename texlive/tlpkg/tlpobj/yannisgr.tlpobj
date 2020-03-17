@@ -1,0 +1,54 @@
+name yannisgr
+category Package
+revision 22613
+shortdesc Greek fonts by Yannis Haralambous
+longdesc A family of 7-bit fonts with a code table designed for setting
+longdesc modern polytonic Greek. The fonts are provided as Metafont
+longdesc source; macros to produce a Greek variant of Plain TeX
+longdesc (including a hyphenation table adapted to the fonts' code
+longdesc table) are provided.
+containersize 37576
+containerchecksum 509e69acdef68eadc65fef6980e9166c6327e8927fb9cdf6a7a33786a8668ac9b900954a4bb661f223967b26dd240d5ebd91683658b324be284e46876c39061d
+doccontainersize 28912
+doccontainerchecksum 40ecdfe71670357e8ec84fd262015b5b5d0b8e486ab80c05d0863a335649501e9548d785cc2b2374f989b820dadd9a074cc229674dd1ae9a6252d4a0ebeb4191
+runfiles size=75
+ texmf-dist/fonts/source/public/yannisgr/csc_misce.mf
+ texmf-dist/fonts/source/public/yannisgr/gen_m_acc.mf
+ texmf-dist/fonts/source/public/yannisgr/greekcsc.mf
+ texmf-dist/fonts/source/public/yannisgr/it_digits.mf
+ texmf-dist/fonts/source/public/yannisgr/it_lig.mf
+ texmf-dist/fonts/source/public/yannisgr/it_lower.mf
+ texmf-dist/fonts/source/public/yannisgr/ligcsc.mf
+ texmf-dist/fonts/source/public/yannisgr/m_accent.mf
+ texmf-dist/fonts/source/public/yannisgr/m_greek.mf
+ texmf-dist/fonts/source/public/yannisgr/mrgrbf10.mf
+ texmf-dist/fonts/source/public/yannisgr/mrgrrg10.mf
+ texmf-dist/fonts/source/public/yannisgr/mrgrsl10.mf
+ texmf-dist/fonts/source/public/yannisgr/mrgrti10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgen_acc.mf
+ texmf-dist/fonts/source/public/yannisgr/rgraccent.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrbase.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrbf10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgreek.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrlig.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrlower.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrpunct.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrrg10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrsc10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrsl10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrti10.mf
+ texmf-dist/fonts/source/public/yannisgr/rgrupper.mf
+ texmf-dist/fonts/source/public/yannisgr/scsc.mf
+ texmf-dist/fonts/tfm/public/yannisgr/mrgrbf10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/mrgrrg10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/mrgrsl10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/mrgrti10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/rgrbf10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/rgrrg10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/rgrsc10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/rgrsl10.tfm
+ texmf-dist/fonts/tfm/public/yannisgr/rgrti10.tfm
+catalogue-ctan /fonts/greek/yannis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics font font-mf font-greek greek

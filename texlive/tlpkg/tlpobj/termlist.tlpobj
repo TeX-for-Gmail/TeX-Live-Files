@@ -1,0 +1,20 @@
+name termlist
+category Package
+revision 18923
+shortdesc Label any kind of term with a continuous counter
+longdesc The termlist package provides environments to indent and label
+longdesc any kind of terms with a continuous number. Candidate terms may
+longdesc appear inside an equation or eqnarray environment.
+containersize 1232
+containerchecksum 799d5fbfb9b055e8674a244ecaac65c2f0412a4c173e6608fff946544142d851d8dbba02505fa8be21bc37b15acc2ba99a6f0dc77a13dd241fedea1c1b38dec9
+doccontainersize 160640
+doccontainerchecksum 14add37c32500f246eea2a3219b58a232c9a8f41cf3cf5a0d1d2aaf4cba4d700c1ba5379b037fe10cfc06385ff0a7d0925b46beeef15dff2502142e56f37e597
+srccontainersize 4356
+srccontainerchecksum 2d6a14828ca29c08d0b08f33749deaafef88ec73bdd72450468b5332e95c83ccc5d29d0a154a6cc49a04ca0a9e5a17d0f28f25139d928b87cb14a2059d51d848
+runfiles size=1
+ texmf-dist/tex/latex/termlist/termlist.sty
+catalogue-ctan /macros/latex/contrib/termlist
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics label-ref
+catalogue-version 1.1

@@ -1,0 +1,23 @@
+name junicode
+category Package
+revision 28286
+shortdesc A TrueType font for mediaevalists
+longdesc Junicode is a TrueType font with many OpenType features for
+longdesc antiquarians (especially medievalists) based on typefaces used
+longdesc by the Oxford Press in the late 17th and early 18th centuries.
+longdesc It works well with Xe(La)TeX.
+containersize 845552
+containerchecksum e35652c1bf36d48b5e98264604d62cfd25a0a69891b1577d701d75944e859435bf156ad70f808ccf2dd74f8fed963eb3efe5383fa5fd18b341932b7ceb2fe9b0
+doccontainersize 381220
+doccontainerchecksum f2e31f4459adc639f6dd36654c82871e1e79ec24c5a2a864b16ff3d4fc230619264d958e7915da9444bde9c6cf828f9c919880fa48a4339ce7d867adbba2e950
+runfiles size=752
+ texmf-dist/fonts/truetype/public/junicode/Junicode-Bold.ttf
+ texmf-dist/fonts/truetype/public/junicode/Junicode-BoldItalic.ttf
+ texmf-dist/fonts/truetype/public/junicode/Junicode-Italic.ttf
+ texmf-dist/fonts/truetype/public/junicode/Junicode.ttf
+ texmf-dist/tex/latex/junicode/mt-Junicode.cfg
+catalogue-ctan /fonts/junicode
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-ttf font-historical
+catalogue-version 0.7.7

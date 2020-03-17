@@ -1,0 +1,23 @@
+name biblatex-true-citepages-omit
+category Package
+revision 44653
+shortdesc Correction of some limitation of the citepages=omit option of BibLaTeX styles
+longdesc This package deals with a limitation of the citepages=omit
+longdesc option of the verbose family of BibLaTeX citestyles. The option
+longdesc works when you \cite[xx]{key}, but not when you \cite[\pno~xx,
+longdesc some text]{key}. The package corrects this problem.
+containersize 1308
+containerchecksum 908f6544890f69b4ca405c94e68c4814c52956bb77108f8e29bb4b6b63ad7de3bc0b1f1213a612f9e0ebd94ddc054907092451a9f326476f39e18a1f81ed0c63
+doccontainersize 70876
+doccontainerchecksum bb53e66c1aec87669be8bb608f82cd7683692cf87aeed792d1e9d49045039c15fc7113fe116e04332e8aa6331101a6e97e97f655e26cecee9636409d810f77e7
+runfiles size=1
+ texmf-dist/tex/latex/biblatex-true-citepages-omit/biblatex-true-citepages-omit.sty
+catalogue-contact-bugs https://github.com/maieul/biblatex-true-citepages-omit/issues
+catalogue-contact-home https://github.com/maieul/biblatex-true-citepages-omit
+catalogue-contact-repository https://github.com/maieul/biblatex-true-citepages-omit
+catalogue-contact-support https://github.com/maieul/biblatex-true-citepages-omit/issues
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-true-citepages-omit
+catalogue-date 2017-06-20 18:15:37 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio biblatex bugfix
+catalogue-version 2.0.0

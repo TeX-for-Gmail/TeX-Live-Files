@@ -1,0 +1,30 @@
+name apxproof
+category Package
+revision 49865
+shortdesc Proofs in appendix
+longdesc The package makes it easier to write articles where proofs and
+longdesc other material are deferred to the appendix. The appendix
+longdesc material is written in the LaTeX code along with the main text
+longdesc which it naturally complements, and it is automatically
+longdesc deferred. The package can automatically send proofs to the
+longdesc appendix, can repeat in the appendix the theorem environments
+longdesc stated in the main text, can section the appendix automatically
+longdesc based on the sectioning of the main text, and supports a
+longdesc separate bibliography for the appendix material. It depends on
+longdesc the following other packages: amsthm, bibunits, environ,
+longdesc etoolbox, fancyvrb, ifthen, and kvoptions.
+containersize 4112
+containerchecksum 9f21fd239558950e0c94109b04f512ea73dae5976dffae93babadbd998cb38e39d922d78216afe3d420417c1073a0895e8fbc23e5403025420bd93ac3d254a50
+doccontainersize 563460
+doccontainerchecksum c5df83ea6d467819c02bdf40fcc7f9a35ab181bd4aef23216759b116db90df8da549093c0c9f80896cdc59fca8e4eb709d2b7ec9ba35117e97aef6d1260d1fdd
+srccontainersize 15052
+srccontainerchecksum 458fb563d7bbd04ddf345e5eafce2c81783f22759dbeb7d082f49f40f69d760ac234ebcad042d46a0e4796dd56ae2947f49c5c0ae4a7188781030b20e8a2f657
+runfiles size=4
+ texmf-dist/tex/latex/apxproof/apxproof.sty
+catalogue-contact-bugs https://github.com/PierreSenellart/apxproof/issues
+catalogue-contact-repository https://github.com/PierreSenellart/apxproof
+catalogue-ctan /macros/latex/contrib/apxproof
+catalogue-date 2019-01-28 22:56:21 +0100
+catalogue-license lppl1.3
+catalogue-topics proof appendix
+catalogue-version 1.1.1

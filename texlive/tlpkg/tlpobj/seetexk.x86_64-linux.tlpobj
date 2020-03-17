@@ -1,0 +1,11 @@
+name seetexk.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of seetexk
+containersize 26960
+containerchecksum ca4ab9858fbcd730a41062e3f64e7ace18c7c68afad47c4190bed20c689e40f7d55eda6f71e3d31adefba959f169ffbcc17352902205c0d47b85c7a5d5aea3d4
+binfiles arch=x86_64-linux size=26
+ bin/x86_64-linux/dvibook
+ bin/x86_64-linux/dviconcat
+ bin/x86_64-linux/dviselect
+ bin/x86_64-linux/dvitodvi

@@ -1,0 +1,21 @@
+name spotcolor
+category Package
+revision 15878
+shortdesc Spot colours for pdfLaTeX
+longdesc This package provides procedures for using spot colours in
+longdesc LaTeX documents and the generated pdf files. Predefined
+longdesc templates for PANTONE and HKS colour spaces are included but
+longdesc new ones can easily be defined.
+containersize 8944
+containerchecksum 6748982e7007323414dd8ca5f1ede105bb2bfd0b0f8d2f83c8731926628c094c8c08f0cf4ddadbaa209e182f8af83ed6fb761142ecbb97371752473b33c44ffa
+doccontainersize 57820
+doccontainerchecksum 4055f42161bd45dee74974358eabda875e9a3d62690fec0486748cd7fe974af133c24e56bcfd240c6928334fd9c7e1e6a6935c45b974760b41f7ce080d44f568
+runfiles size=27
+ texmf-dist/tex/latex/spotcolor/spotcolor.sty
+ texmf-dist/tex/latex/spotcolor/spotcolorhks.tex
+ texmf-dist/tex/latex/spotcolor/spotcolorpantone.tex
+catalogue-ctan /macros/latex/contrib/spotcolor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics colour
+catalogue-version 1.2

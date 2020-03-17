@@ -1,0 +1,15 @@
+name booktabs-fr
+category Package
+revision 21948
+shortdesc French translation of booktabs documentation
+longdesc The translation comes from a collection provided by Benjamin
+longdesc Bayart.
+containersize 420
+containerchecksum 62d4aefc19ff86a60b8fc68a5203bbc2dd2c86ef2f74d5dc0d2a664ff342c13077f5f71a4991704e1d9c69587e4ecde629e5432ade3695efbbc388714fa3c268
+doccontainersize 221368
+doccontainerchecksum eab2c83e6d81a601ec98ffe43ed4b5ec71e17c6ec42c26c519fdbbb3c3e82154b01bb569adca65dbf540ccbd7263cc20806dbe901ba44204b84d07d235b07bc7
+catalogue-ctan /info/translations/booktabs/fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics french-doc translation
+catalogue-version 1.00

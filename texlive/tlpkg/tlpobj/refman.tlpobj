@@ -1,0 +1,23 @@
+name refman
+category Package
+revision 15878
+shortdesc Format technical reference manuals
+longdesc Document classes (report- and article-style) for writing
+longdesc technical reference manuals. It offers a wide left margin for
+longdesc notes to the reader, like some of the manuals distributed by
+longdesc Adobe.
+containersize 9348
+containerchecksum 45f51a654703a7e749e7dbb08fd0ccedc86b5f264ce08b504ed11827799202583f81a4f3fe32dae0794e20cefe2e6bbd0ff8563955c3a85eac2642c307aaf332
+doccontainersize 643176
+doccontainerchecksum 560d70322bcedfd0ca6a10c161d3930d389e77fef25ed568f5a68ec87eaa63efd4f7dd2363bab283af00a49719c3c8ba38e8a35ca011ea349dd854a0698ec79f
+srccontainersize 28680
+srccontainerchecksum 722e2493c24738bf767b271183eb1422ab103b84dec17d28f615a52d9b35e1671d3745fc5a6fc97b2a9d7934f314fbc7dba9734af8e0c802cc6760940112230c
+runfiles size=18
+ texmf-dist/tex/latex/refman/pagepc.sty
+ texmf-dist/tex/latex/refman/refart.cls
+ texmf-dist/tex/latex/refman/refrep.cls
+catalogue-ctan /macros/latex/contrib/refman
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class
+catalogue-version 2.0e

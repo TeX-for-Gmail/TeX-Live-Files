@@ -1,0 +1,16 @@
+name es-tex-faq
+category Package
+revision 15878
+catalogue faq-es
+shortdesc CervanTeX (Spanish TeX Group) FAQ
+longdesc SGML source, converted LaTeX version, and readable copies of
+longdesc the FAQ from the Spanish TeX users group.
+containersize 444
+containerchecksum 33f66e4f928591188289f07e003cac10229735e69ee7390020748e119930ea7b74ad69e5eea991d8e34325ac4d548ce0b843a00b3ca50b9e6fae3e96526a4ad8
+doccontainersize 495668
+doccontainerchecksum 5b5d0ebda1bde2c1c67fd4853a41bb10956487fa5ad2686d6814dbdd51f68dde2a3d294797b7b1602d587a44ea6acbd8260ab9965efab81d91eb9d9fdb93da69
+catalogue-ctan /help/es-tex-faq
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics faq spanish-doc
+catalogue-version 1.97

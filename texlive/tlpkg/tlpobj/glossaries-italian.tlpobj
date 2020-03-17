@@ -1,0 +1,19 @@
+name glossaries-italian
+category Package
+revision 35665
+shortdesc Italian language module for glossaries package
+longdesc Italian language module for glossaries package.
+containersize 1680
+containerchecksum aeeeb9fcd98e55ed64c918276e0bf0b25489538da80f96030a85225635e7e0ca3d1c93c65aba8b97b486f086a50504c257ba478bdba28de92058053dcafe323b
+doccontainersize 123924
+doccontainerchecksum f1ee5a84c9a67b88087f657c259a3700fcd1fa4ad8c765cfae11cde2d54c4a71e69dc57bf626ead0d2cf1057750e284a31443c72e994e37a62715548fa9dbadd
+srccontainersize 2248
+srccontainerchecksum 9a014922abb8be849e97660f2aabff49413a56c06a93f5a3fb0cb89f972b54fc371bff8dfd6a758196d941efbc9281c5cab3fcf047901ab08e296d55e529206a
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-italian/glossaries-italian.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-italian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary italian
+catalogue-version 1.0

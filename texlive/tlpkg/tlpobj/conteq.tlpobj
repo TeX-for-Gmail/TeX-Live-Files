@@ -1,0 +1,23 @@
+name conteq
+category Package
+revision 37868
+shortdesc Typeset multiline continued equalities
+longdesc The package provides an environment conteq, which will lay out
+longdesc systems of continued equalities (or inequalities). Several
+longdesc variant layouts of the equalities are provided, and the user
+longdesc may define their own. The package is written using LaTeX 3
+longdesc macros.
+containersize 2268
+containerchecksum ee0f344ed0eab872aca3c54422f83a6f8bbed2462a22cbd54dde075ceae79dc5a01ef13947327ec726d5eeb64eee5519e4074c138f4d172bbf2b4024eb88ceff
+doccontainersize 395140
+doccontainerchecksum edf52893cef8c5f8538a64d626a12725b043c5f0106a63f02cad91df9ad632009cfe3da51149750d4c23c12742c00052b951ada957b89641d9a0da59e93396c8
+srccontainersize 4924
+srccontainerchecksum d3796e7bd679bd64c59a8d16e50ee7e190f9fe3c0774ece399486f8d5df7f6f63ec8a0c595572be305532c66b94011a92bde3bb5850f2feb4ec162e3415b5102
+runfiles size=2
+ texmf-dist/tex/latex/conteq/conteq.sty
+catalogue-contact-repository https://github.com/nomeata/conteq
+catalogue-ctan /macros/latex/contrib/conteq
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.1.1

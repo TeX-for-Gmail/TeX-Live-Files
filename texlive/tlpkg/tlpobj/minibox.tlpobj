@@ -1,0 +1,21 @@
+name minibox
+category Package
+revision 30914
+shortdesc A simple type of box for LaTeX
+longdesc This small package provides a convenient input syntax for boxes
+longdesc that don't break their text over lines automatically, but do
+longdesc allow manual line breaks. The boxes shrink to the natural width
+longdesc of the longest line they contain.
+containersize 1052
+containerchecksum 18d409728f57cc2e423b5c74ad7ff4a9e93f2405497a96024769fb01f7604e019d914365f82fa5908bb679ce4a48cab64fd4435b531ef72235067481b8dbc96b
+doccontainersize 281540
+doccontainerchecksum 0404b375fb0ef258d0e5acb8e7a78a60a55d08ce7339b9b63b1711dcc6d40b6f302b0f35f7d1fc8bfbf431b66bb5aaa2c94e92ee8e788a5f2156031425c0c4a3
+srccontainersize 3056
+srccontainerchecksum 6aafb14003afb2ee18390391e15fb00f73a16f568158d72fea348e7052bf1ec5f25cd446569bb3c6dd815577fca7b2522d4474681b560ee3ea65b6053509df92
+runfiles size=1
+ texmf-dist/tex/latex/minibox/minibox.sty
+catalogue-ctan /macros/latex/contrib/minibox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics boxing
+catalogue-version 0.2a

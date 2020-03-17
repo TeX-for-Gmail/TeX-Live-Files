@@ -1,0 +1,15 @@
+name l2tabu-french
+category Package
+revision 31315
+shortdesc French translation of l2tabu
+longdesc French translation of l2tabu.
+containersize 380
+containerchecksum 8478211e871e38765cbbd36f8f571e63b5cfb9dc652107a4a9178c11a16b419eba7314246878507f22bf7f66818f8c5d1516a527deda5a2dc6c30f9260f23b59
+doccontainersize 269348
+doccontainerchecksum f489b0bd07b60797b53fc9010c699029dabccbf326767948dd815224f1c591cb59d6da7bbac0d0385ddfb6f0e885e187b2385bfcdbb88933588b06dfc34f640c
+catalogue-also l2tabu l2tabu-english l2tabu-italian
+catalogue-ctan /info/l2tabu/french
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics french-doc
+catalogue-version 2.3

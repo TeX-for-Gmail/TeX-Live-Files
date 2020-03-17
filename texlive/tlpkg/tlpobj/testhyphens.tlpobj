@@ -1,0 +1,24 @@
+name testhyphens
+category Package
+revision 38928
+shortdesc Testing hyphenation patterns
+longdesc The package may be used for testing hyphenation patterns or for
+longdesc controlling that specific words are hyphenated as expected.
+longdesc This package implements some old TUGboat code to adapt it to
+longdesc LaTeX with some enhancements. It differs form \showhyphens,
+longdesc because it typesets its output on the document's output file.
+longdesc It also works with xelatex, where \showhyphens requires a
+longdesc workaround.
+containersize 2044
+containerchecksum c16a9299721c571ce9bdc91e4ed4cc54c973b43fed5189d2f377b2a9143d94d3eeba6bd6b728e3df92a5436b3e2c5e07a21d4a6af0210bf87784d40d96caa42c
+doccontainersize 383684
+doccontainerchecksum 44cc1d9afa4e12ef2dc1f7be2d7718fa33b80e5ee16c7396053690bfea6246f444b50cb044d314ec677436a3559ff1ba9fa227acb446db37bacaa2829c309b2b
+srccontainersize 8036
+srccontainerchecksum 2f84528ee4ca5d8434b0042f7b24908ff97c45f27580a5b59bfe226b195c295d4fa546fe240acb981db6deba970e2b020d38c00e6bbf5a0cc1b3caf2b3cbd506
+runfiles size=1
+ texmf-dist/tex/latex/testhyphens/testhyphens.sty
+catalogue-ctan /macros/latex/contrib/testhyphens
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics hyphenation
+catalogue-version 0.7

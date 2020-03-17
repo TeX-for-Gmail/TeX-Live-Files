@@ -1,0 +1,11 @@
+name ptex-fontmaps.x86_64-linux
+category Package
+revision 44206
+shortdesc x86_64-linux files of ptex-fontmaps
+containersize 432
+containerchecksum c3e1ee29e2fb3d8cf0b6b6ad0ad27a11328962cacb1721aac2ec1d2af66764db05bf71a15b74d0329a69959d5ffe659fe3f7bb39d67440b30ce3fcaf8292d312
+binfiles arch=x86_64-linux size=4
+ bin/x86_64-linux/kanji-config-updmap
+ bin/x86_64-linux/kanji-config-updmap-sys
+ bin/x86_64-linux/kanji-config-updmap-user
+ bin/x86_64-linux/kanji-fontmap-creator

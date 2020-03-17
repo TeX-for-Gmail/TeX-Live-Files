@@ -1,0 +1,17 @@
+name gauss
+category Package
+revision 32934
+shortdesc A package for Gaussian operations
+longdesc The gauss package provides configurable tools for producing row
+longdesc and column operations on matrices (a.k.a. Gaussian operations).
+containersize 16628
+containerchecksum 9dd3f7685a8b7bbdfbee1fbe5dcc5d2819091c7c20df7979b1b0fb7971e613e45b6321a18674e88bb0d6222f050f0ab3959b087be70b90b5bfefaeffacc733f9
+doccontainersize 113732
+doccontainerchecksum 50de7e9af2360367de7f7136def2536a82348752656b1c40022d7e13271cfde64e67bcd482c2d208f47b88a30560f8179b7b8706288809b41d023c037147f0c2
+runfiles size=16
+ texmf-dist/tex/latex/gauss/gauss.sty
+catalogue-contact-home http://www.kauers.de
+catalogue-ctan /macros/latex/contrib/gauss
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics maths

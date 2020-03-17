@@ -1,0 +1,17 @@
+name correctmathalign
+category Package
+revision 44131
+shortdesc Correct spacing of the alignment in expressions
+longdesc This package realigns the horizontal spacing of the alignments
+longdesc in some mathematical environments.
+containersize 1508
+containerchecksum 5a7e9b3b51ae82980cc1ab9d4ae74aa0b65afa533d21230b1f5e6867bb6464f910a07bb1c38621eb18d8bccd8bc50260b8741752936c310012590706726ed6f2
+doccontainersize 478128
+doccontainerchecksum bc6c9f24a4107d28120e6934f6966b2560ca4c34169b0074023e941746240879bc0572840d3967effd3a1358ef288ac412946f79fd3b40151c1507cba8828be0
+runfiles size=1
+ texmf-dist/tex/latex/correctmathalign/correctmathalign.sty
+catalogue-ctan /macros/latex/contrib/correctmathalign
+catalogue-date 2018-01-07 11:56:15 +0100
+catalogue-license bsd
+catalogue-topics maths
+catalogue-version 1.1

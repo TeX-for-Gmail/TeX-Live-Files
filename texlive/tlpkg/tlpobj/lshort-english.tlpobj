@@ -1,0 +1,19 @@
+name lshort-english
+category Package
+revision 46763
+shortdesc A (Not So) Short Introduction to LaTeX2e
+longdesc The document derives from a German introduction ('lkurz'),
+longdesc which was translated and updated; it continues to be updated.
+longdesc This translation has, in its turn, been translated into several
+longdesc other languages; see the lshort catalogue entry for the current
+longdesc list.
+containersize 564
+containerchecksum 88214b8addd6169f3bb1168e2b3eaaf9786e0c20e9261ed403f8ee6c95a22252426438b75d0ef74770ec26cce1da012ce0d908df03fcf1aa0458294e8e6bb603
+doccontainersize 711536
+doccontainerchecksum 14a1bd61570b2445bc8f38595260aa791760a0bce82419acfcce0109698b5600b727c78233edf3cce25b1e2b17dad97cbd8829b072fa7b33d71a3949fc74f303
+catalogue-contact-home http://tobi.oetiker.ch/
+catalogue-ctan /info/lshort/english
+catalogue-date 2018-02-28 14:19:41 +0100
+catalogue-license gpl2
+catalogue-topics tut-latex documentation
+catalogue-version 6.2

@@ -1,0 +1,35 @@
+name exsheets
+category Package
+revision 43188
+shortdesc Create exercise sheets and exams
+longdesc The package provides the means to create exercises or questions
+longdesc and their corresponding solutions. The questions may be divided
+longdesc into classes and/or topics and may be printed selectively.
+longdesc Meta-data to questions can be added and recovered. The
+longdesc solutions may be printed where they are, or collected and
+longdesc printed at a later point in the document all together,
+longdesc section-wise or selectively by ID. The package provides the
+longdesc means to selectively include questions from an external file,
+longdesc and to control the style of headings of both questions and
+longdesc solutions. As of May 2017, this package has been superseded by
+longdesc its official successor xsim. exsheets itself is now considered
+longdesc obsolete, but will stay alive, and will continue to receive
+longdesc bugfix releases. However, new features will not be added any
+longdesc more.
+containersize 24096
+containerchecksum 19e277e2e83c7e10a6a8266a844194ef027d0ec6fe1370b5aebba0ba301b4c32f0ff309008d661d1027fdc1278510910b5f47c105e4b03e824c966687c7f79a6
+doccontainersize 700868
+doccontainerchecksum c64012dd62d5fbb9ba24fabc938bc97bea4a1d06f789aeadd7952a42b29c06728795e4171a4958c2bdd15cd48d304883ee56dec7d33cad9cc5c1d8ec3ddbd89f
+runfiles size=42
+ texmf-dist/tex/latex/exsheets/exsheets-listings.sty
+ texmf-dist/tex/latex/exsheets/exsheets.sty
+ texmf-dist/tex/latex/exsheets/exsheets_configurations.cfg
+ texmf-dist/tex/latex/exsheets/exsheets_headings.cfg
+ texmf-dist/tex/latex/exsheets/exsheets_headings.def
+catalogue-also xsim
+catalogue-contact-repository https://bitbucket.org/cgnieder/exsheets/
+catalogue-ctan /macros/latex/contrib/exsheets
+catalogue-date 2017-05-19 18:29:46 +0200
+catalogue-license lppl1.3
+catalogue-topics exercise exam expl3
+catalogue-version 0.21i

@@ -1,0 +1,20 @@
+name repere
+category Package
+revision 45779
+shortdesc Diagrams for school mathematics
+longdesc This package provides MetaPost macros for drawing secondary
+longdesc school mathematics figures in a coordinate system: axis, grids
+longdesc points, vectors functions (curves, tangents, integrals,
+longdesc sequences) statistic diagrams plane geometry (polygons,
+longdesc circles)
+containersize 16008
+containerchecksum a633a7b00dee6e80cb17e7e1c7736638cdf33e194bfc5bad4ec84cc49deb1742439979470478f9b1e9eae9884a646a45da767ce0e7f58622745b1f4c60f2a39c
+doccontainersize 325684
+doccontainerchecksum f861942f83140d3b9c1f4cd76e81fdd37a50eb9c7a3928f5c170b845637a767c8ba69f0a4b6d6c53bfa5464e21bf2bf8b744d3fb71f89656288eb79f5715b48a
+runfiles size=18
+ texmf-dist/metapost/repere/repere.mp
+catalogue-ctan /graphics/metapost/contrib/macros/repere
+catalogue-date 2017-11-12 22:58:02 +0100
+catalogue-license lppl1.3
+catalogue-topics teaching
+catalogue-version 17.11.2

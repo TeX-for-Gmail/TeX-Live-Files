@@ -1,0 +1,18 @@
+name iopart-num
+category Package
+revision 15878
+shortdesc Numeric citation style for IOP journals
+longdesc A BibTeX style providing numeric citation in Harvard-like
+longdesc format. Intended for use with Institute of Physics (IOP)
+longdesc journals, including Journal of Physics.
+containersize 7864
+containerchecksum 49fadfe2a8a1796131be814b170e270e7d39c035419d7e546e57d2ef1fea13d48b2b022eda463829e1bdbe60233d361773321d86070420ad2b63b48154adf18d
+doccontainersize 63076
+doccontainerchecksum 167b0612883558f74d7696a6c9481fbb75e9ef6e7760edc4f79d81b3e1d7a344dc1efbf638eb4f5ba69be7002391211024f7aafed2e08e19fe559b58b0f7b1b0
+runfiles size=9
+ texmf-dist/bibtex/bst/iopart-num/iopart-num.bst
+catalogue-ctan /biblio/bibtex/contrib/iopart-num
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-supp journalpub
+catalogue-version 2.1

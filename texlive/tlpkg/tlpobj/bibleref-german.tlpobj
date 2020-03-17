@@ -1,0 +1,20 @@
+name bibleref-german
+category Package
+revision 21923
+shortdesc German adaptation of bibleref
+longdesc The package provides translations and various formats for the
+longdesc use of bibleref in German documents. The German naming of the
+longdesc bible books complies with the 'Loccumer Richtlinien' (Locum
+longdesc guidelines). In addition, the Vulgate (Latin bible) is
+longdesc supported.
+containersize 7488
+containerchecksum 094177e505025eef5262b876fc49cfb09435b653c87fb1ee7453650e94f098bfbc7f5c78684849b3ce0cec2019d85a0413728397b5ffaf32bde542d8fa86222f
+doccontainersize 659488
+doccontainerchecksum c3c610fd8a80ca5a0b8de6ce4aac887a7d16f01e21d845fad595e1d5d6069d8e89459dfd187cc458d21bf2247f4f2c7fe72233a12c8e532b9466f2ceea283360
+runfiles size=17
+ texmf-dist/tex/latex/bibleref-german/bibleref-german.sty
+catalogue-ctan /macros/latex/contrib/bibleref-german
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 1.0a

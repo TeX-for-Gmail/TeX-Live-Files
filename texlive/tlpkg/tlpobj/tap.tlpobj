@@ -1,0 +1,20 @@
+name tap
+category Package
+revision 31731
+shortdesc TeX macros for typesetting complex tables
+longdesc The package offers a simple notation for pretty complex tables
+longdesc (to Michael J. Ferguson's credit). With PostScript, the package
+longdesc allows shaded/coloured tables, diagonal rules, etc. The package
+longdesc is supposed to work with both Plain and LaTeX. An AWK converter
+longdesc from ASCII semigraphic tables to TAP notation is included.
+containersize 10672
+containerchecksum 07ca34ae47976c65deba5443052001406390befb6dc675af7651141505f088e2f67f39648f14a94f70788eda79221efb05c2246d1991811e697e88c7408f6cf6
+doccontainersize 27740
+doccontainerchecksum a61b861cdac25c0d8c7d48f67abb9eed88458d0d55e8afb706adabfbed0d1e7c7159fcf000b8012885f82f849ee965bf6a2607f1b67f2d9191f59f8538147230
+runfiles size=9
+ texmf-dist/tex/generic/tap/tap.tex
+catalogue-ctan /macros/generic/tables/tap077.zip
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics table
+catalogue-version 0.77

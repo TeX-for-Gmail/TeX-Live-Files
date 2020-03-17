@@ -1,0 +1,28 @@
+name etoolbox
+category Package
+revision 48436
+shortdesc e-TeX tools for LaTeX
+longdesc The package is a toolbox of programming facilities geared
+longdesc primarily towards LaTeX class and package authors. It provides
+longdesc LaTeX frontends to some of the new primitives provided by e-TeX
+longdesc as well as some generic tools which are not strictly related to
+longdesc e-TeX but match the profile of this package. Note that the
+longdesc initial versions of this package were released under the name
+longdesc elatex. The package provides functions that seem to offer
+longdesc alternative ways of implementing some LaTeX kernel commands;
+longdesc nevertheless, the package will not modify any part of the LaTeX
+longdesc kernel.
+containersize 8356
+containerchecksum 81007a3cd1c955d66f67ccc2e51a887b03875acbe4abfafe1e50af05107a712ef347806212aa3882204c48e0b847974aee5802b242f06211a6c296ca566443f3
+doccontainersize 234980
+doccontainerchecksum be20b46943ff50079e2ad0d2b1ab432ede686dfa9440d980bc802bd701b3cda3571db7229553357e66e62fab7bd6a8bc66a42d063f75b62ea0680ceefbdce336
+runfiles size=12
+ texmf-dist/tex/latex/etoolbox/etoolbox.def
+ texmf-dist/tex/latex/etoolbox/etoolbox.sty
+catalogue-contact-bugs https://github.com/josephwright/etoolbox/issues
+catalogue-contact-repository https://github.com/josephwright/etoolbox/
+catalogue-ctan /macros/latex/contrib/etoolbox
+catalogue-date 2018-08-19 12:54:37 +0200
+catalogue-license lppl1.3c
+catalogue-topics macro-supp etex
+catalogue-version 2.5f

@@ -1,0 +1,37 @@
+name texdef
+category Package
+revision 47420
+shortdesc Display the definitions of TeX commands
+longdesc This (Perl) script displays the definitions of (La)TeX command
+longdesc sequences/macros. Various options allow the selection of the
+longdesc used class as well as package files and other factors that may
+longdesc influence the definition (before/after the preamble, inside an
+longdesc environment, ...). The script creates a temporary TeX file
+longdesc which is then compiled using (La)TeX to find the '\meaning' of
+longdesc the command sequence. The result is formatted and presented to
+longdesc the user. Length or number command sequences (dimensions,
+longdesc \char..., count registers, ...) are recognized and the
+longdesc contained value is also shown (using \the). Special definitions
+longdesc like protected macros are also recognized and the underlying
+longdesc macros are shown as well. The script will show plain TeX
+longdesc definitions by default. LaTeX and ConTeXt are supported,
+longdesc including flavours (pdf(La)TeX, Lua(La)TeX, Xe(La)TeX, ...).
+longdesc The flavour can be selected using a command line option, or via
+longdesc the script name: latexdef will use LaTeX as default, etc.
+depend texdef.ARCH
+containersize 9408
+containerchecksum 7c5defeb9cf9d5fbe92f8433265543e6d7024e9f7fdc768582ec51a5880745c54cf8576f1b7455e32d51429e2faf122c0775ead117be97510f4b2d8123b04d71
+doccontainersize 155444
+doccontainerchecksum a4727d57bb5b56106a9baf4aabbabd16cc8a8ac08358c28263abe9c40b76a6d692d0e819c23c7b8e946e97fd3f7574a498a6f43207c04e7544a0383b3681f54e
+srccontainersize 4764
+srccontainerchecksum 4b57478b06d4cd67ae6b8d2afb059eb52e03e31c4c4066108d471134865a64f3eb3dc99f8bc4330625eaa8e7c660f445365c6bbe510f36d5770b406df99d6c8c
+runfiles size=8
+ texmf-dist/scripts/texdef/texdef.pl
+catalogue-contact-bugs https://bitbucket.org/martin_scharrer/texdef/issues
+catalogue-contact-home https://bitbucket.org/martin_scharrer/texdef/
+catalogue-contact-repository https://bitbucket.org/martin_scharrer/texdef/src
+catalogue-ctan /support/texdef
+catalogue-date 2018-03-29 08:55:43 +0200
+catalogue-license gpl3
+catalogue-topics debug-supp
+catalogue-version 1.8a

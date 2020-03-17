@@ -1,0 +1,23 @@
+name llncsconf
+category Package
+revision 46707
+shortdesc LaTeX package extending Springer's llncs class
+longdesc The package extends Springer's llncs class for adding
+longdesc additional notes describing the status of the paper (submitted,
+longdesc accepted) as well as for creating author-archived versions that
+longdesc include the references to the official version hosted by
+longdesc Springer (as requested by the copyright transfer agreement for
+longdesc Springer's LNCS series).
+containersize 2112
+containerchecksum 9df2b2ab5fa1434263f4df8a4f5c5329d38bff47a3f9178b2b220b50d34e410ce2904df5177076131ecff1a5a20cdb9cfd6cf84d986210df1ede7ee61f73b255
+doccontainersize 126076
+doccontainerchecksum a0a9ee4372d9afc48fcaa16959a9c54a3d10216d6196be963f9b35c66f13c970a4cb4a01996cb2397a10a6ea36c445a75541f7bdb9608c759e611faffce56574
+runfiles size=2
+ texmf-dist/tex/latex/llncsconf/llncsconf.sty
+catalogue-contact-bugs https://github.com/adbrucker/llncsconf/issues
+catalogue-contact-repository https://github.com/adbrucker/llncsconf
+catalogue-ctan /macros/latex/contrib/llncsconf
+catalogue-date 2018-04-25 15:30:25 +0200
+catalogue-license lppl1
+catalogue-topics journalpub archival
+catalogue-version 1.0.0

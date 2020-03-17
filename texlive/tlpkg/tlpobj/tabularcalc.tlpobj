@@ -1,0 +1,21 @@
+name tabularcalc
+category Package
+revision 15878
+shortdesc Calculate formulas in a tabular environment
+longdesc Given a list of numbers and one (or more) formulas, the package
+longdesc offers an easy syntax to build a table of values, i.e., a
+longdesc tabular in which the first row contains the list of numbers,
+longdesc and the other rows contain the calculated values of the
+longdesc formulas for each number of the list. The table may be built
+longdesc either horizontally or vertically and is fully customizable.
+containersize 4964
+containerchecksum 7535398538d6802c4e70858028ce6e7414aa8a88336e71f90f7f909d015bf896eeb5e6652cc5bc5a2bb384bc25d280d8cd6506f7ba05823c20dda04fb3adf0ba
+doccontainersize 789972
+doccontainerchecksum 7e35cad1507cfb62117aaddae77c3faa5d19c4e320193afa0054415e84d49833ba64afdf743b6241d611dbb4d45c6a532779293924f20b6c748659a361d6f30d
+runfiles size=5
+ texmf-dist/tex/latex/tabularcalc/tabularcalc.sty
+catalogue-ctan /macros/latex/contrib/tabularcalc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics table
+catalogue-version 0.2

@@ -1,0 +1,31 @@
+name gfsporson
+category Package
+revision 18651
+shortdesc A Greek font, originally from Porson
+longdesc Porson is an elegant Greek font, originally cut at the turn of
+longdesc the 19th Century in England. The present version has been
+longdesc provided by the Greek Font Society. The font supports the Greek
+longdesc alphabet only. LaTeX support is provided, using the LGR
+longdesc encoding.
+execute addMap gfsporson.map
+containersize 125520
+containerchecksum f52d6cd8d0b674771dd56a5d2974fd3edd8b4685bb201489e578c62d1e31b5dcb6f2cb2e9b05702ec439ec7f0b35740e291d3a92de53b75870fd791858f8a474
+doccontainersize 33264
+doccontainerchecksum 3dbcafd00a88537db9e27aece276df08da805b59076d5e65395a4752d8ce57a794f23508238e96ec26b8d7e6d25e11992c2a567e44ca2f930bc44b9dc980202c
+runfiles size=47
+ texmf-dist/fonts/afm/public/gfsporson/GFSPorson-Regular.afm
+ texmf-dist/fonts/enc/dvips/gfsporson/porsonel.enc
+ texmf-dist/fonts/map/dvips/gfsporson/gfsporson.map
+ texmf-dist/fonts/opentype/public/gfsporson/GFSPorson.otf
+ texmf-dist/fonts/tfm/public/gfsporson/gporsonrg6a.tfm
+ texmf-dist/fonts/tfm/public/gfsporson/gporsonrg6r.tfm
+ texmf-dist/fonts/type1/public/gfsporson/GFSPorson-Regular.pfb
+ texmf-dist/fonts/vf/public/gfsporson/gporsonrg6a.vf
+ texmf-dist/tex/latex/gfsporson/gfsporson.sty
+ texmf-dist/tex/latex/gfsporson/lgrporson.fd
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /fonts/greek/gfs/gfsporson
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics font font-type1 font-otf font-greek
+catalogue-version 1.01

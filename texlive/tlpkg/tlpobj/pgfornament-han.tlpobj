@@ -1,0 +1,108 @@
+name pgfornament-han
+category Package
+revision 47789
+shortdesc pgfornament library for Chinese traditional motifs and patterns
+longdesc This package provides a pgfornament library for Chinese
+longdesc traditional motifs and patterns. The command \pgfornamenthan
+longdesc takes the same options as \pgfornament from the pgfornament
+longdesc package, but renders Chinese traditional motifs instead. The
+longdesc list of supported motifs, as well as some examples, can be
+longdesc found in the accompanying documentation. Yi  pgfornament Hong
+longdesc Bao De Ji Zhi ,Shi Xian Hui Zhi Yi Feng Tu Wen .
+longdesc \pgfornamenthan He  \pgfornament De Can Shu Shi Yi Yang De
+longdesc ;Bian Yi De Chu Lai De Dang  Ran Shi Yi Feng Wen Yang Liao .
+longdesc Hong Bao Shou Ce Li You Wan Zheng De Wen Yang Lie Biao Yi Ji
+longdesc Shi Yong Fan Li .
+containersize 84336
+containerchecksum 12417d681236cfcde117e219e5fe3c507d582013b5fc7c5f443c659d0081ef72f460340860a534107ebcea3df68f7804b066d10ea1f15ad0b723e000f6319141
+doccontainersize 930720
+doccontainerchecksum 350bb2d6f68f01951044f9cd3e7249ee30df3ffe692474612038b03b529f9a3663b2920e7171b80bbc7bcd1b4a7b75a1c7296c119f653ec396b822a732de4eb0
+runfiles size=128
+ texmf-dist/tex/latex/pgfornament-han/beamerthemeHeavenlyClouds.sty
+ texmf-dist/tex/latex/pgfornament-han/beamerthemeXiaoshan.sty
+ texmf-dist/tex/latex/pgfornament-han/cncolours.sty
+ texmf-dist/tex/latex/pgfornament-han/han/han1.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han10.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han11.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han12.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han13.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han14.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han15.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han16.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han17.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han18.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han19.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han2.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han20.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han21.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han22.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han23.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han24.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han25.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han26.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han27.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han28.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han29.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han3.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han30.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han31.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han32.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han33.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han34.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han35.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han36.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han37.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han38.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han39.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han4.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han40.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han41.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han42.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han43.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han44.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han45.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han46.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han47.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han48.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han49.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han5.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han50.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han51.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han52.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han53.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han54.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han55.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han56.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han57.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han58.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han59.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han6.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han60.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han61.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han62.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han63.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han64.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han65.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han66.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han67.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han68.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han69.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han7.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han70.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han71.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han72.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han73.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han74.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han75.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han76.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han77.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han8.pgf
+ texmf-dist/tex/latex/pgfornament-han/han/han9.pgf
+ texmf-dist/tex/latex/pgfornament-han/pgflibraryhan.code.tex
+ texmf-dist/tex/latex/pgfornament-han/pgfornament-han.sty
+catalogue-also pgfornament
+catalogue-contact-repository https://github.com/liantze/pgfornament-han/
+catalogue-ctan /graphics/pgf/contrib/pgfornament-han
+catalogue-date 2018-05-21 12:26:58 +0200
+catalogue-license lppl1.3c
+catalogue-topics pgf-tikz chinese graphics-symb presentation

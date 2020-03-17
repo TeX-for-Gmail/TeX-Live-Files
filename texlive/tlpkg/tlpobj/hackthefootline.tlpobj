@@ -1,0 +1,22 @@
+name hackthefootline
+category Package
+revision 46494
+shortdesc Footline selection and configuration for LaTeX beamer's standard themes
+longdesc This package is taking over, defining and redefining different
+longdesc footlines. Configuration is provided via using key-value
+longdesc syntax. It depends on the pgfkeys used for providing the
+longdesc configuration keys. Optional features require the following
+longdesc LaTeX packages: appendixnumberbeamer, calc, etoolbox, and
+longdesc numprint.
+containersize 4404
+containerchecksum 223fb22b01327fb63ff16684d578f89ee583d5c7700dbfd5966aa8cb94ca4e280e4409620b0d261bf2a80a57f51658990b0a221c0dd311e3eae1f39d459e8098
+doccontainersize 183604
+doccontainerchecksum 960c6a0bd61210b097710cc6715012e4406b54dafcf070659228074598a05e0dbb65669ef77c3f6ca2cf80001e95c5f801070be29d416d2bd552d6c2a1d27f56
+runfiles size=5
+ texmf-dist/tex/latex/hackthefootline/hackthefootline.sty
+catalogue-contact-bugs https://github.com/sfr682k/hackthefootline/issues
+catalogue-contact-repository https://github.com/sfr682k/hackthefootline
+catalogue-ctan /macros/latex/contrib/beamer-contrib/hackthefootline
+catalogue-date 2018-01-29 23:30:32 +0100
+catalogue-license lppl1.3c
+catalogue-topics presentation page-hf

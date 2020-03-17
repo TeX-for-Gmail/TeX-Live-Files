@@ -1,0 +1,20 @@
+name binomexp
+category Package
+revision 15878
+shortdesc Calculate Pascal's triangle
+longdesc The package calculates and prints rows of Pascal's triangle. It
+longdesc may be used: simply to print successive rows of the triangle,
+longdesc or to print the rows inside an array or tabular.
+containersize 2328
+containerchecksum 61cd0072f766bc4abb1e3ed828d06c0e0ae6fb74902ad86e6c4ff3279ddd84386bbb0b1d669d9e71eef362c8d50577047e6076b174ca5b54da8680a43c5e1715
+doccontainersize 66976
+doccontainerchecksum 9f8e24377ef858e0b3ecc94dc87eeeae08931084316034ea5e3de822ed8b6a65c4744b744a547aea19d3486bb6f2b04f46f1e7ec81cac2470d16b7134885d355
+srccontainersize 4600
+srccontainerchecksum 96ac7f02535a36555dc773b096324e821fa554423dc1d3fbb3436042a2ffa63e7d28b8d872b03b961143178aad40b6d14ef0be7378be99782e94f957889489d9
+runfiles size=2
+ texmf-dist/tex/latex/binomexp/binomexp.sty
+catalogue-ctan /macros/latex/contrib/binomexp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics calculation maths
+catalogue-version 1.0

@@ -1,0 +1,21 @@
+name protocol
+category Package
+revision 25562
+shortdesc A class for minutes of meetings
+longdesc The present version of the class supports German meeting
+longdesc minutes including vote results and action items. The author has
+longdesc ambitions to internationalise the code, and would welcome
+longdesc support in the work.
+containersize 2796
+containerchecksum e9555a25b0051592bd700df5b7335ad07eff024efd1efc4ef620fe7ad37866aa1edc8f354a7c772b3a298935bcffa9b5b2b49c2b0a14c868ae744cb9165bfd19
+doccontainersize 324704
+doccontainerchecksum f047068c0b9176087cd56530c9b73d30bbffb0d4b958cefae39f1f3bc924fbe705e81b5c867735715566b674379d1731e1d58b123dbbda3686a2b84f42674338
+srccontainersize 6556
+srccontainerchecksum f41e90e822d9cffd941a9be8b918f5817c5757c2911a3c2162899d9e074390fc4500d8617e385f5edada4c2accf5a08421cab6192505721deefb4b1ceba136e5
+runfiles size=2
+ texmf-dist/tex/latex/protocol/protocol.cls
+catalogue-ctan /macros/latex/contrib/protocol
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics meeting-admin
+catalogue-version 1.13

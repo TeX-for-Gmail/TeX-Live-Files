@@ -1,0 +1,19 @@
+name showexpl
+category Package
+revision 42677
+shortdesc Typesetting LaTeX source code
+longdesc This package provides a way to typeset LaTeX source code and
+longdesc the related result in the same document.
+containersize 4072
+containerchecksum b937f9824793206b0fa55eb77f6c2688364d712fef66c63244a776c95e733d2b0e4535a2d63b23ad446e50fa52804bd99305ff20bce6d74e880d3fdfec432924
+doccontainersize 594512
+doccontainerchecksum 90fbef0962c609d4a50aac3840c703c6d421553425dc0d41a62883e012e4e2a8627a2f98f499b8fe984bfa57b597ee65e274d6e5bb9f30aba96b8b1bcafe0211
+srccontainersize 8888
+srccontainerchecksum afac56c2591c97fdb6b48ceba1acc2b4947a0d0778f3fcd1db966d3782a89388d09599077c1684c4de69cb61ee5d1018fe085ff7b57a6a8426b1936454066228
+runfiles size=4
+ texmf-dist/tex/latex/showexpl/showexpl.sty
+catalogue-ctan /macros/latex/contrib/showexpl
+catalogue-date 2016-12-11 13:56:29 +0100
+catalogue-license lppl1.2
+catalogue-topics listing
+catalogue-version 0.3o

@@ -1,0 +1,13 @@
+name cursolatex
+category Package
+revision 24139
+shortdesc A LaTeX tutorial
+longdesc The tutorial is presented as a set of slides (in Portuguese).
+containersize 392
+containerchecksum 6c58f5a0f6fb8f129e202b786c258ba088efa44639f162b9e0109182072c16bfc6ba928953d6e9b31b2b1c2f693fe064476095c232dcb9e0c6bfcf18bfb7994e
+doccontainersize 5407688
+doccontainerchecksum a0f726330a5b2d8da94cbf25fb1b1a2b22e5e9010e0cafdfdee3781bf518f0cb48adb27dce0fe2e46572460f8c1749c0db1c16e06343cabb8cb94227e3da58b6
+catalogue-ctan /info/portuguese/cursolatex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tut-latex portuguese-doc

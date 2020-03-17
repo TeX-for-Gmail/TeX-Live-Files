@@ -1,0 +1,20 @@
+name turnstile
+category Package
+revision 15878
+shortdesc Typeset the (logic) turnstile notation
+longdesc Among other uses, the turnstile sign is used by logicians for
+longdesc denoting a consequence relation, related to a given logic,
+longdesc between a collection of formulas and a derived formula.
+containersize 1928
+containerchecksum 083050bb9f34b576cc1033a0b754a2e888883d98d41aa08c1694f78cb5e372748cfc1d62af94732334ce05e91933e95796498fc120d6584f554260fef4d87811
+doccontainersize 598160
+doccontainerchecksum 6f51d17752aab1c33442a92d3d926b1802c1274b3799f33f65bcd417d268ce851be76d36b13fbe0fa3599399f10df9e8bec7bfb6ffa929f667b9e7ee3e9eb323
+srccontainersize 7888
+srccontainerchecksum edab29b25bcad5c2f65980b5539d60b3f8d6481205c89a1fe386f4e1b15e5988c3e592816aae2ded548e624e1cd55fa987eadd2c727d2f261128172bee6b369a
+runfiles size=3
+ texmf-dist/tex/latex/turnstile/turnstile.sty
+catalogue-ctan /macros/latex/contrib/turnstile
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class maths-symbol
+catalogue-version 1.0

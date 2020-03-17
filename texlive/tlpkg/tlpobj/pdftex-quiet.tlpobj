@@ -1,0 +1,21 @@
+name pdftex-quiet
+category Package
+revision 49169
+shortdesc A bash wrapper for pdfTeX limiting its output to relevant errors
+longdesc This package provides a bash script aiming at reducing pdfTeX's
+longdesc output to relevant errors, which are displayed in a red bold
+longdesc font. The project originally started as a TeX StackExchange
+longdesc answer.
+depend pdftex-quiet.ARCH
+containersize 2516
+containerchecksum 7b33e37a4b33060abee48ccf825cacecdee552d641da48dae47e3615fa0ab91ea9912b52fbd5c5ba6cdaa9c0d2cc7baa7c48a80bebb6d1887e5c633dacb4d104
+doccontainersize 12516
+doccontainerchecksum e13392cfefaed2c154c086ffcf85e21725e4230ce78d10e07dcb0a1c8b3685bef2572c5f5e249c56120320f2b0167cd5055ade50625a296446a197c0ba4b85cc
+runfiles size=2
+ texmf-dist/scripts/pdftex-quiet/pdftex-quiet
+catalogue-contact-repository https://gitlab.com/jirislav/pdftex-quiet
+catalogue-ctan /support/pdftex-quiet
+catalogue-date 2018-11-15 16:55:01 +0100
+catalogue-license gpl3
+catalogue-topics compilation
+catalogue-version 1.1.0

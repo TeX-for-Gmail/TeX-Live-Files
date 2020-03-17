@@ -1,0 +1,22 @@
+name apptools
+category Package
+revision 28400
+shortdesc Tools for customising appendices
+longdesc The package provides an \AtAppendix command to add code to a
+longdesc hook that is executed when \appendix is called by the user.
+longdesc Additionally, a TeX conditional \ifappendix and a LaTeX-style
+longdesc conditional \IfAppendix are provided to check if \appendix has
+longdesc already been called.
+containersize 1208
+containerchecksum 05d243100c9fc575b7828e0084822fdb2c655f5d2d7c51b42aa3c5ee4d127f62f714affd1fa8e94b7c0c322b57a9fe1728d1829ed7f18d75b5287a673d580cc4
+doccontainersize 82148
+doccontainerchecksum 74ce416ef14978e0418754e3d2e2874ed07a8fbc6be90a1bf7dc492f191546407d7a967efb1306481d1b88ad296faa1194dc4da8975f7ac0c4e4053ccaa1444a
+srccontainersize 5300
+srccontainerchecksum ffbce0419baaf512bbf8aafae3a8bdae5456f9ea1699cb48b6ce215fd8c4d84dbee84399e8799fa5ca161a1e98375acd16d196c9ca6c505c7923aa7fab49e0e0
+runfiles size=1
+ texmf-dist/tex/latex/apptools/apptools.sty
+catalogue-ctan /macros/latex/contrib/apptools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics appendix
+catalogue-version 1.0

@@ -1,0 +1,24 @@
+name graphicxbox
+category Package
+revision 32630
+shortdesc Insert a graphical image as a background
+longdesc The package defines two new commands \graphicxbox and
+longdesc \fgraphicxbox, which are companions to \colorbox and \fcolorbox
+longdesc of the Standard LaTeX color package. The \graphicxbox command
+longdesc inserts a graphical image as a background rather than a
+longdesc background color, while \fgraphicxbox does the same thing, but
+longdesc also draws a colored frame around the box.
+containersize 1400
+containerchecksum 032168dcdd5eab142cd6bf24eaccc3fc6482e3eba7e0fd2600322b4a6f2bcb1ceb8e30a64dd811b500af37c94e7de3ec25c60c437ba9afa7ba4d8a9af8b79a19
+doccontainersize 438064
+doccontainerchecksum 6fd432f48c05c486963b8058025dda2a65b5cfa87b6ae03581009dcdeafd26396bf16e04fecd0e68a896a99d5c3e09e43902bcfd3f58fa9a9b393cf64406e160
+srccontainersize 3692
+srccontainerchecksum a563a3c1e81496da30aca7256b5b2afc57d9df9e9aab2b6f5bf908691961f736a616f7c5f86647b94a6dcf36d3732bd68b75f5a4ba7d7d049bb67789ec48449a
+runfiles size=1
+ texmf-dist/tex/latex/graphicxbox/graphicxbox.sty
+catalogue-also graphicxsp color
+catalogue-ctan /macros/latex/contrib/graphicxbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-incl boxing
+catalogue-version 1.0

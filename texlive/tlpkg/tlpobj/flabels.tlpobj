@@ -1,0 +1,20 @@
+name flabels
+category Package
+revision 17272
+shortdesc Labels for files and folders
+longdesc Macros for typesetting pretty labels (optionally colored) for
+longdesc the back of files or binders (currently only the special A4
+longdesc "Leitz-Ordner" ring binder is supported).
+containersize 2328
+containerchecksum b05d66f1181eb9d7eb80636b69ea3af7a29ae7011f6888438cf80a7fa6fde44666f9fa7ee71620055f6882e73b6f5e211a2a65ca003d903cb26cc4f9571257d9
+doccontainersize 340004
+doccontainerchecksum cf9b774ef4e1336a123d48b3797d8122c5b9128324a9f6c0c1497194e8d3a3d9ee46a5a58470074c0dbc02f8c0aaeb1da3b4d5683ba9faf6e479a6790bc599cf
+srccontainersize 11680
+srccontainerchecksum 26b2a3e7fbdfe3523cad96880dc6b168cf633a115f6b8d794709514013a79eb2ab6d1545769b74236248b73c3b08d5b52e02fdac9cdb420e3a4f1ac5cad55d32
+runfiles size=2
+ texmf-dist/tex/latex/flabels/flabels.sty
+catalogue-ctan /macros/latex/contrib/flabels
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics labels
+catalogue-version 1.0

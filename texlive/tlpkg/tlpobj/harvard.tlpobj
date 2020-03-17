@@ -1,0 +1,40 @@
+name harvard
+category Package
+revision 15878
+shortdesc Harvard citation package for use with LaTeX 2e
+longdesc This is a re-implementation, for LaTeX 2e, of the original
+longdesc Harvard package. The bundle contains the LaTeX package, several
+longdesc BibTeX styles, and a 'Perl package' for use with LaTeX2HTML.
+longdesc Harvard is an author-year citation style (all but the first
+longdesc author are suppressed in second and subsequent citations of the
+longdesc same entry); the package defines several variant styles:
+longdesc apsr.bst for the American Political Science Review; agsm.bst
+longdesc for Australian Government publications; dcu.bst from the Design
+longdesc Computing Unit of the University of Sydney; kluwer.bstwhich
+longdesc aims at the format preferred in Kluwer publications;
+longdesc nederlands.bst which deals with sorting Dutch names with
+longdesc prefixes (such as van) according to Dutch rules, together with
+longdesc several styles whose authors offer no description of their
+longdesc behaviour.
+containersize 16376
+containerchecksum 64781bb5c419248934f259dafba2c43270396a1d3f49bb9a79050ebbb5655a5836a07fd69720f54f009501c5294a62f344f6b6c76adb89114a8c60d1e149e612
+doccontainersize 75192
+doccontainerchecksum 291c2a530da6d24ecf1a87818d27b6141e99944eed10cc2dced2537f30ecfc12580c2f58d01245ef53f7d2b803853ce9bf72c03f8a2c3267dde0f4c799a991bc
+srccontainersize 1132
+srccontainerchecksum 58720acea1588f742d95d2916f8b1a5c8cba391243a433ae9b2cc4845dd3949c7b2a7a349b87fd663023e4d26b15b15dfb89b7f8db92e14e52f2f7ab835a160a
+runfiles size=55
+ texmf-dist/bibtex/bib/harvard/harvard.bib
+ texmf-dist/bibtex/bst/harvard/agsm.bst
+ texmf-dist/bibtex/bst/harvard/apsr.bst
+ texmf-dist/bibtex/bst/harvard/dcu.bst
+ texmf-dist/bibtex/bst/harvard/jmr.bst
+ texmf-dist/bibtex/bst/harvard/jphysicsB.bst
+ texmf-dist/bibtex/bst/harvard/kluwer.bst
+ texmf-dist/bibtex/bst/harvard/nederlands.bst
+ texmf-dist/tex/latex/harvard/harvard.sty
+catalogue-also har2nat
+catalogue-ctan /macros/latex/contrib/harvard
+catalogue-date 2018-12-22 09:07:14 +0100
+catalogue-license lppl
+catalogue-topics bibtex-sty bibtex-supp
+catalogue-version 2.0.5

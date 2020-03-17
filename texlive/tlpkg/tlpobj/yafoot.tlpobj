@@ -1,0 +1,22 @@
+name yafoot
+category Package
+revision 48568
+shortdesc A bundle of miscellaneous footnote packages
+longdesc Contains three packages: - pfnote to number footnotes per page;
+longdesc - fnpos to control the position of footnotes; and - dblfnote to
+longdesc make footnotes double-columned.
+containersize 3864
+containerchecksum 75ab34d40fb051000783abf573f4507e3791ea5aa1cf4b8571ad16bc020f10d17a49220a2878e5a2791fb7f073613ed20d72cd5618feadf38e290ee4f047e615
+doccontainersize 265880
+doccontainerchecksum 322e9cd25fd7686c4325d04bc7dfa00aee45fe993bdb730ca3669cf860b7cbae1dc76483fe3dec11e09ad848f166a01f43ad0885e0e9fe324ef28d28a7d2b4ad
+srccontainersize 16792
+srccontainerchecksum 5159db9c0f8e1f1ba4fd265c1188c47271b6da4290c33f65e8284b0c95d8144a3219951e13c1fb8e7fc172f2cd0094cc73d63fcd0cab67908f6542881930d772
+runfiles size=5
+ texmf-dist/tex/latex/yafoot/dblfnote.sty
+ texmf-dist/tex/latex/yafoot/fnpos.sty
+ texmf-dist/tex/latex/yafoot/pfnote.sty
+catalogue-ctan /macros/latex/contrib/yafoot
+catalogue-date 2018-09-03 08:40:26 +0200
+catalogue-license lppl
+catalogue-topics footnote
+catalogue-version 1.1

@@ -1,0 +1,27 @@
+name collection-fontutils
+category Collection
+revision 37105
+shortdesc Graphics and font utilities
+longdesc Programs for conversion between font formats, testing fonts,
+longdesc virtual fonts, .gf and .pk manipulation, mft, fontinst, etc.
+longdesc Manipulating OpenType, TrueType, Type 1,and for manipulation of
+longdesc PostScript and other image formats.
+depend collection-basic
+depend accfonts
+depend afm2pl
+depend dosepsbin
+depend epstopdf
+depend fontware
+depend lcdftypetools
+depend metatype1
+depend ps2pk
+depend pstools
+depend psutils
+depend dvipsconfig
+depend fontinst
+depend fontools
+depend mf2pt1
+depend t1utils
+depend ttfutils
+containersize 528
+containerchecksum 39ede1185914e6df2bd1a535d2ca955720dfd51fba425f0ee6ac75c9e8e7480e779c8eb41df0cd57d1f23595db0f247f5e8fb2988dcc1845dd5d51b3f8918533

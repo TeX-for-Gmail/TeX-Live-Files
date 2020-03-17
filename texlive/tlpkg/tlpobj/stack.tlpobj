@@ -1,0 +1,21 @@
+name stack
+category Package
+revision 15878
+shortdesc Tools to define and use stacks
+longdesc The package provides a small set of commands to implement
+longdesc stacks independently of TeX's own stack. As an example of how
+longdesc the stacks might be used, the documentation offers a small
+longdesc "relinput" package that implements the backbone of the import
+longdesc package.
+containersize 1812
+containerchecksum 897ca71e1a8531485d9807743e4549a994f5e6e22dbb9a958466d4bfc7fb1b4579af0d7ef701146b8142c394fcbfca70bfdf28779530e487a0ec868c77985c23
+srccontainersize 4104
+srccontainerchecksum d10c0b9555df5643d266cfcbc51970cb7d606c80053225e4c3891b49f59fd9831c89f8be97d41e3e70b8855defb2af709190631e71a470a061959486162d5ed1
+runfiles size=2
+ texmf-dist/tex/latex/stack/relinput.sty
+ texmf-dist/tex/latex/stack/stack.sty
+catalogue-ctan /macros/latex/contrib/stack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.00

@@ -1,0 +1,24 @@
+name linguex
+category Package
+revision 30815
+shortdesc Format linguists' examples
+longdesc This bundle comprises two packages: The linguex package
+longdesc facilitates the formatting of linguist examples, automatically
+longdesc taking care of example numbering, indentations, indexed
+longdesc brackets, and the '*' in grammaticality judgments. The ps-trees
+longdesc package provides linguistic trees, building on the macros of
+longdesc tree-dvips, but overcoming some of the older package's
+longdesc shortcomings.
+containersize 6924
+containerchecksum 36fab316a894029feba86bf771d4e600b3e7f5d766deb9d844605979b066483500c8fa0a425718d22e9a2bc14d74aada16ca8deb7ee744a81e18fee8c77a7b50
+doccontainersize 274676
+doccontainerchecksum 7a5d84d5425031d341deea8f37f1d8a9f6eaee820ef66661e8e38eafad2b20a5e9b04b81b1a0db0b11ab70fb0adc9c81cef886978626008eba6aa3c32bc0c848
+runfiles size=8
+ texmf-dist/tex/latex/linguex/linguex.sty
+ texmf-dist/tex/latex/linguex/linguho.sty
+ texmf-dist/tex/latex/linguex/ps-trees.sty
+catalogue-ctan /macros/latex/contrib/linguex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics linguistic tree
+catalogue-version 4.3

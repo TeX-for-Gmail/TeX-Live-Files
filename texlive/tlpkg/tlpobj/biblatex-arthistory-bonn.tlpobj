@@ -1,0 +1,28 @@
+name biblatex-arthistory-bonn
+category Package
+revision 46637
+shortdesc BibLaTeX citation style covers the citation and bibliography guidelines for art historians
+longdesc This citation style covers the citation and bibliography
+longdesc guidelines of the Kunsthistorisches Institut der Universitat
+longdesc Bonn for undergraduates. It introduces bibliography entry types
+longdesc for catalogs and features a tabular bibliography, among other
+longdesc things. Various options are available to change and adjust the
+longdesc outcome according to one's own preferences. The style is
+longdesc compatible with English and German.
+containersize 7784
+containerchecksum 93b48bb950e9a4bb81efabe4a3c8ee85d7056daeca88c1c1a070c5321b8caa0045c4005467cdc029f8a26b94a425235e36a36bdee163242194a5301ddd6fcc98
+doccontainersize 182764
+doccontainerchecksum e31b7912ca34e6ec27c365c2b3e549cdfb60bd94c19b9f1cd54d35d2a1b99ef2702c3f818f7354ef4f5d3157c0e29538a94315ae7af8177de23893e598c7d439
+runfiles size=15
+ texmf-dist/tex/latex/biblatex-arthistory-bonn/arthistory-bonn-english.lbx
+ texmf-dist/tex/latex/biblatex-arthistory-bonn/arthistory-bonn-german.lbx
+ texmf-dist/tex/latex/biblatex-arthistory-bonn/arthistory-bonn.bbx
+ texmf-dist/tex/latex/biblatex-arthistory-bonn/arthistory-bonn.cbx
+ texmf-dist/tex/latex/biblatex-arthistory-bonn/arthistory-bonn.dbx
+catalogue-contact-bugs https://github.com/LukasCBossert/biblatex-arthistory-bonn/issues
+catalogue-contact-repository https://github.com/LukasCBossert/biblatex-arthistory-bonn
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-arthistory-bonn
+catalogue-date 2018-02-13 22:43:43 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.2

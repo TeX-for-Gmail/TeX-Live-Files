@@ -1,0 +1,24 @@
+name decorule
+category Package
+revision 23487
+shortdesc Decorative swelled rule using font character
+longdesc The package implements a decorative swelled rule using only a
+longdesc symbol from a font installed with all distributions of TeX, so
+longdesc it works independently, without the need to install any
+longdesc additional software or fonts. This is the packaged version of
+longdesc the macro which was originally published in the "Typographers'
+longdesc Inn" column in TUGboat 31:1 (2010).
+containersize 1652
+containerchecksum e5a962002f66d4d3a5c48d93930ea2e14a68226a1beb9f9aee5b7936ef51a49b4d9a249b7a3038d5ade41aef8388ad78f254973e7ef3558e42848409427e5cd7
+doccontainersize 404940
+doccontainerchecksum 533ca67eabadea3125dc359a839d5b45b5e1efee88fe74b4a2b911014b599930419a49e7e0b5967e5f89d29e1b452d223faae3d31fc3f94c64cb613907cc2255
+srccontainersize 12480
+srccontainerchecksum 1d612d121367ec69f578479001602aa2a25251edbb35c495a13b636e23831e8dca5f7a2715ad6fc5f3b5e3fbf3769d0b90c88949f5fafcd8d778e8489a80892f
+runfiles size=1
+ texmf-dist/tex/latex/decorule/decorule.sty
+catalogue-also swrule
+catalogue-ctan /macros/latex/contrib/decorule
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics line-weight decoration
+catalogue-version 0.6

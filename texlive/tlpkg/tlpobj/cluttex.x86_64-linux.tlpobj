@@ -1,0 +1,10 @@
+name cluttex.x86_64-linux
+category Package
+revision 48871
+shortdesc x86_64-linux files of cluttex
+containersize 388
+containerchecksum 20139142ae86d9562bff4af2c3dcecc2dfc4dec8d228a6872502634ac4e1f931d28e37ba0035e169ec4fa838ab34a62efcc291c1e0e7ab2b3ffb49b0797979af
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/cllualatex
+ bin/x86_64-linux/cluttex
+ bin/x86_64-linux/clxelatex

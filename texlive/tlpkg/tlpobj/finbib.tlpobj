@@ -1,0 +1,13 @@
+name finbib
+category Package
+revision 15878
+catalogue finplain
+shortdesc A Finnish version of plain.bst
+containersize 5372
+containerchecksum 14f08cdc92a2d6d511c112c480efb0112d45c199023e89c9314740c2b9b83598bc9f8917ce616bb2493671f408f946ada3de4535136eff48b7bbf72e7436f912
+runfiles size=7
+ texmf-dist/bibtex/bst/finbib/finplain.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/finplain.bst
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty finnish

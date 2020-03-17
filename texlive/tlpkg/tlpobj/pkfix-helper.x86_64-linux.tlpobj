@@ -1,0 +1,8 @@
+name pkfix-helper.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of pkfix-helper
+containersize 340
+containerchecksum a48840584b95959684393608861cc69c21ff17eb93550a1e4c9d67eb4990fadbf1b96eacdefd8ef94b1035caf4ecb3401b8ef0b49e69a1377f8a2334f25df203
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pkfix-helper

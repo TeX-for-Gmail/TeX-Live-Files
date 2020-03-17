@@ -1,0 +1,19 @@
+name decimal
+category Package
+revision 23374
+shortdesc LaTeX package for the English raised decimal point
+longdesc This LaTeX package should be used by people who need the
+longdesc traditional English raised decimal point, instead of the
+longdesc American-style period.
+containersize 1420
+containerchecksum 9a0d0947eacd52800b3b2cbc36d6e866c1876bd5f929896825dc604d9d633cfb169d93de0f86b0e78e3274936bb47834c222ee54b3571bfcdc0fe81bb2821776
+doccontainersize 155764
+doccontainerchecksum 977fc97627bbdbf4d65844dcb7ce267cb2291b102b718ca36ba2fee881d5fcf359d6d0dae839d4e640200d3b8a31cba301d20560f5002344b8ea256266efc9e4
+srccontainersize 6576
+srccontainerchecksum a880091295229345290acf605feb833489976ed3b661b403c8effaabd07c48730ac958a4b48dd48d429a3f031413c1392f4006b820f04e3dde6b2035a948747e
+runfiles size=1
+ texmf-dist/tex/latex/decimal/decimal.sty
+catalogue-ctan /macros/latex/contrib/decimal
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics typesetting

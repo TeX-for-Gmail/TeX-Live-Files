@@ -1,0 +1,20 @@
+name synproof
+category Package
+revision 15878
+shortdesc Easy drawing of syntactic proofs
+longdesc The package provides a set of macros based on PSTricks that
+longdesc will enable you to draw syntactic proofs easily (inspired by
+longdesc the Gamut books). Very few commands are needed, however fine
+longdesc tuning of the various parameters (dimensions) can still be
+longdesc achieved through "key=value" pairs.
+containersize 2200
+containerchecksum 934235e8eb4ca51a906ca287c5524cc3b0b69c649b47a9fa0fc2c9fd664199eb6fce835d435e97e0b24bd0662ee68b8db471e3546c4bdb402bfcc19b1fd02c50
+doccontainersize 61492
+doccontainerchecksum 9a12fab29c7c0118bd97a7af1585ae97c5086e7a1e9529624b7fa43a723151e00537b9488a42628d7f6e93b87d092fe0dd18476c7d232e3ee74597186a92585b
+runfiles size=2
+ texmf-dist/tex/latex/synproof/synproof.sty
+catalogue-ctan /macros/latex/contrib/synproof
+catalogue-date 2018-09-15 14:15:12 +0200
+catalogue-license lppl
+catalogue-topics logic linguistic
+catalogue-version 1.0

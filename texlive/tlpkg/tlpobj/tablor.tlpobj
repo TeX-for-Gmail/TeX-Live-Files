@@ -1,0 +1,25 @@
+name tablor
+category Package
+revision 31855
+shortdesc Create tables of signs and of variations
+longdesc The package allows the user to use the computer algebra system
+longdesc XCAS to generate tables of signs and of variations (the actual
+longdesc plotting of the tables uses the MetaPost macro package
+longdesc tableauVariations). Tables with forbidden regions may be
+longdesc developed using the package. A configuration file permits some
+longdesc configuration of the language to be used in the diagrams. The
+longdesc tablor package requires that shell escape be enabled.
+containersize 12620
+containerchecksum 64169a74a787f8877d41d5e32c42e5659950854a1e20cc05103b3ed58c54fb800a9af0701a40a6c5b75553b86d675fbda51948106cac464785c3d46aac77c979
+doccontainersize 449356
+doccontainerchecksum 77a6d1b47337f015dbfd39074e1dae417c3bea3c9635955c6518d691ff336854cdd7587af54640282b45f5bf3885044d3b6789a0a73f39a726aeaf0afd27c883
+runfiles size=48
+ texmf-dist/tex/latex/tablor/tablor-xetex.sty
+ texmf-dist/tex/latex/tablor/tablor.cfg
+ texmf-dist/tex/latex/tablor/tablor.sty
+catalogue-also tabvar tkz-tab tableaux tableauvariations
+catalogue-ctan /macros/latex/contrib/tablor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-tabvar
+catalogue-version 4.07-g

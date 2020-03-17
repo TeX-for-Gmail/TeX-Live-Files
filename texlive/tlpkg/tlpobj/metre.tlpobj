@@ -1,0 +1,30 @@
+name metre
+category Package
+revision 18489
+shortdesc Support for the work of classicists
+longdesc The package provides classicists with some of the tools that
+longdesc are needed for typesetting scholarly publications dealing with
+longdesc Greek and Latin texts, with special emphasis on Greek verse. As
+longdesc the package's name suggests, its core is a comprehensive set of
+longdesc commands for generating metrical schemes and for placing
+longdesc prosodical marks on text set in the Latin or the Greek
+longdesc alphabet. The rest of the package provides a miscellany of
+longdesc commands for symbols (most of them not directly related to
+longdesc metre) that are often used in critical editions of classical
+longdesc texts. The package does not require any special font: all
+longdesc symbols are taken from the Computer Modern fonts (which are
+longdesc included in all TeX distributions) and the package's commands
+longdesc are based on TeX primitives.
+containersize 10756
+containerchecksum 29d99fe061c828b4eef12047215451eaf6d603106b0ebb0b7c83c8f8b5ffd360160e29a0c86bc0cd329e6f694efae695ef03282885e872cf26c8177f951b705b
+doccontainersize 135120
+doccontainerchecksum 73ca10e1d2b32d4f7b37de6c409b68dc38b3dd165f47f52714c3a17e7a5dc6c1562928e7a7f8c5a3ed9aadfe1324e451baf6cda5dce69043fef3811cb6ff8cf7
+srccontainersize 25376
+srccontainerchecksum d11bfb161dd68208b4f4e29b67131618a02cb60f4e87c3f2809759ab42c44603e790876ea84c6c9f4f053c3cac1bf189344110ff5b4acdc97d7ddfe4c466c977
+runfiles size=15
+ texmf-dist/tex/latex/metre/metre.sty
+catalogue-ctan /macros/latex/contrib/metre
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics crit-ed linguistic
+catalogue-version 1.0

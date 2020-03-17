@@ -1,0 +1,22 @@
+name libgreek
+category Package
+revision 27789
+shortdesc Use Libertine or Biolinum Greek glyphs in mathematics
+longdesc The package is for LaTeX users who wish to use the Libertine or
+longdesc Biolinum font for the Greek letters in math mode. It is not
+longdesc necessary to load the libertine package itself, but of course
+longdesc the Linux-Libertine/Biolinum fonts and LaTeX support files must
+longdesc have been installed.
+containersize 2244
+containerchecksum 0547ebdd180554fd00a7ad96932816e13744886457c84960b8abba06125f68ec9391ffb03c7bb7ad039a2654a1b73c2c378b8eee2130107a02e25881581c8139
+doccontainersize 46148
+doccontainerchecksum 105ad6a6d557213c6918b2160dfc70449d496155e3a0fe1e683b2186b8d10d3067a85b05e3ee26f01ccdb6f70c2f864d09439eb4b8347dc3217482e17600f79d
+srccontainersize 4748
+srccontainerchecksum 41e1629949d8fbe9cbef5a153bd9ffe2ed354789a4c80d518e5ef7bb4bb9f5152c024f190a4ad8d22eb58a69852d3fa63d7670aa1fa78001cac5d46c3891e025
+runfiles size=3
+ texmf-dist/tex/latex/libgreek/libgreek.sty
+catalogue-ctan /macros/latex/contrib/libgreek
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-maths font-supp
+catalogue-version 1.0

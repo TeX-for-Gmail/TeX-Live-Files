@@ -1,0 +1,17 @@
+name visualtikz
+category Package
+revision 47888
+shortdesc Visual help for TikZ based on images with minimum text
+longdesc Visual help for TikZ based on images with minimum text: an
+longdesc image per command or parameter. The document is in French, but
+longdesc will be translated into English later.
+containersize 528
+containerchecksum fc5cb3e2d30bca419304b5f76bb75f9da0e22b6624c7ca658492e2758adf0dfcc24552648c983b0afd390bf7814ca30fd7d2a8b3037b6ea3fd95b2f608b36b19
+doccontainersize 3961060
+doccontainerchecksum 556f4b852058c46a7d2a34db4898bd82429835ed4c5fc1eaf1c8bac9deba407c8a11fdd3eab3753b0f53fd0ba43a316c3b292cebe40c086862c6d94f8be0cc85
+catalogue-contact-home http://gte.univ-littoral.fr/sections/stage-latex/visual-tikz
+catalogue-ctan /info/visualtikz
+catalogue-date 2018-01-18 22:26:20 +0100
+catalogue-license lppl1.3
+catalogue-topics pgf-tikz graphics-in-tex graphics-doc french-doc
+catalogue-version 0.65

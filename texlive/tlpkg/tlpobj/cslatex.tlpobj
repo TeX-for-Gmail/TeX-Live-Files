@@ -1,0 +1,63 @@
+name cslatex
+category Package
+revision 50602
+shortdesc LaTeX support for Czech/Slovak typesetting
+depend latex
+depend cm
+depend csplain
+depend hyphen-base
+depend latex-fonts
+depend tex-ini-files
+depend cslatex.ARCH
+execute AddFormat name=cslatex engine=pdftex           options="-etex cslatex.ini"           fmttriggers=cm,csplain,hyphen-base,latex-fonts,latex
+execute AddFormat name=pdfcslatex engine=pdftex           options="-etex cslatex.ini"           fmttriggers=cm,csplain,hyphen-base,latex-fonts,latex,tex-ini-files
+containersize 12696
+containerchecksum d0a3ebaea7659e4f1b53aef42b9a8361e215083fd7d669b0a119ba744ddfb1afc79d5b25d7fa94082085dadf1d7d7da5981e485246c28c4708b82c40e0ad00dd
+doccontainersize 18948
+doccontainerchecksum 9a8bab74f51651b732bd155b386f69ea8b0aededb0ac29226d6aee2bc3547c5157d0150a854987dd5f9f8a001a7191509340c9dbffdc02bd7c01de47fa80f7c1
+srccontainersize 24036
+srccontainerchecksum c982e771c3db5b91806faf9976dde51499af9ab6c7afa81cbbaad04dd8808ba07e8c1dd683af77fe112237fe2868f73520a464bbe72fa1762ab6ccc0e8e4cdb5
+runfiles size=46
+ texmf-dist/tex/cslatex/base/cslatex.ini
+ texmf-dist/tex/cslatex/base/czech.sty
+ texmf-dist/tex/cslatex/base/fonttext.cfg
+ texmf-dist/tex/cslatex/base/hyphen.cfg
+ texmf-dist/tex/cslatex/base/il2cmdh.fd
+ texmf-dist/tex/cslatex/base/il2cmfib.fd
+ texmf-dist/tex/cslatex/base/il2cmfr.fd
+ texmf-dist/tex/cslatex/base/il2cmr.fd
+ texmf-dist/tex/cslatex/base/il2cmss.fd
+ texmf-dist/tex/cslatex/base/il2cmtt.fd
+ texmf-dist/tex/cslatex/base/il2cmvtt.fd
+ texmf-dist/tex/cslatex/base/il2enc.def
+ texmf-dist/tex/cslatex/base/il2lcmss.fd
+ texmf-dist/tex/cslatex/base/il2lcmtt.fd
+ texmf-dist/tex/cslatex/base/slovak.sty
+ texmf-dist/tex/cslatex/cspsfonts/cspsfont.il2
+ texmf-dist/tex/cslatex/cspsfonts/cspsfont.tex
+ texmf-dist/tex/cslatex/cspsfonts/cspsfont.xl2
+ texmf-dist/tex/cslatex/cspsfonts/il2pag.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2pbk.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2pcr.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2phv.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2phvn.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2pnc.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2ppl.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2ptm.fd
+ texmf-dist/tex/cslatex/cspsfonts/il2pzc.fd
+ texmf-dist/tex/cslatex/cspsfonts/nhelvet.sty
+ texmf-dist/tex/cslatex/cspsfonts/ntimes.sty
+ texmf-dist/tex/cslatex/cspsfonts/xl2pag.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2pbk.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2pcr.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2phv.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2phvn.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2pnc.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2ppl.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2ptm.fd
+ texmf-dist/tex/cslatex/cspsfonts/xl2pzc.fd
+catalogue-contact-home http://petr.olsak.net/cstex/
+catalogue-ctan /macros/cstex/base/cslatex.tar.gz
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics czech slovak format

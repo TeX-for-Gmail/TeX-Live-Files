@@ -1,0 +1,30 @@
+name fduthesis
+category Package
+revision 50738
+shortdesc LaTeX thesis template for Fudan University
+longdesc This package is a LaTeX thesis template package for Fudan
+longdesc University. It can make it easy to write theses both in Chinese
+longdesc and English.
+containersize 108108
+containerchecksum 2c33af9559603c08ee844cc0dd6dcb8a6c215f0b0c7cd25435b64b1ad6c83dec608c601ce16efdfbeda890258bb36df8eb549bf43bca21bd778e003cd637507c
+doccontainersize 1370704
+doccontainerchecksum bc3d2c383233846631e5042742a08b5ca05d0cbe68fad908065310f00c50e9732af0b912eecf01496615d221a1ea6fa5f3d9be91c9533b97fdd642c47d6d8c5d
+srccontainersize 115396
+srccontainerchecksum 4f048791cfdfa5eb1dec273618111f0d8e685c9a638bb4aa2edc1e6ffcd11097aeaa85d9130be4ae8136c14277f85a22580c42fdde9a8f3602cdc57eb4beefdc
+runfiles size=112
+ texmf-dist/tex/latex/fduthesis/fdudoc.cls
+ texmf-dist/tex/latex/fduthesis/fdulogo.sty
+ texmf-dist/tex/latex/fduthesis/fduthesis-en.cls
+ texmf-dist/tex/latex/fduthesis/fduthesis.cls
+ texmf-dist/tex/latex/fduthesis/fduthesis.def
+ texmf-dist/tex/latex/fduthesis/fudan-emblem-new.pdf
+ texmf-dist/tex/latex/fduthesis/fudan-emblem.pdf
+ texmf-dist/tex/latex/fduthesis/fudan-name.pdf
+catalogue-also thuthesis cquthesis
+catalogue-contact-bugs https://github.com/stone-zeng/fduthesis/issues
+catalogue-contact-repository https://github.com/stone-zeng/fduthesis
+catalogue-ctan /macros/latex/contrib/fduthesis
+catalogue-date 2019-04-03 11:09:26 +0200
+catalogue-license lppl1.3c
+catalogue-topics dissertation class chinese latex3
+catalogue-version 0.7d

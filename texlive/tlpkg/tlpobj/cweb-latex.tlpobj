@@ -1,0 +1,21 @@
+name cweb-latex
+category Package
+revision 28878
+shortdesc A LaTeX version of CWEB
+longdesc This bundle allows marking-up of CWEB code in LaTeX. The
+longdesc distribution includes the "Counting Words" program distributed
+longdesc with CWEB, edited to run with LaTeX.
+containersize 36236
+containerchecksum 5d94dd53bf3212967ae38c094115c4ae581ec15a49e3d0f64be311cd1aa190eb9efdfec2cd83bbc3bd89250efef9470a6a6af342247fb9670992546a976a5886
+doccontainersize 240884
+doccontainerchecksum 16c8cd2681e216084564cec718401b9e8d98228e6597d38c42f8ef4cc4775e8e606fa11c84d21f0450d85ee18c7ed1e5fd9e1f54bcd0e8c2927b1147ecd4591b
+runfiles size=33
+ texmf-dist/tex/latex/cweb-latex/cwbl-german.sty
+ texmf-dist/tex/latex/cweb-latex/cweb.cls
+ texmf-dist/tex/latex/cweb-latex/cwebarray.sty
+ texmf-dist/tex/latex/cweb-latex/cwebbase.tex
+ texmf-dist/tex/latex/cweb-latex/keyvald.sty
+catalogue-ctan /macros/latex/contrib/cweb
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics litprog

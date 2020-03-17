@@ -1,0 +1,8 @@
+name dvipos.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dvipos
+containersize 46624
+containerchecksum f854cd14614cb8b4129f5218818b9a809123c52a18fc9c092d707247cd50d82fb249ef7e939fd086684a92e6e8e121b31743c41649024dca2d1bd14642773687
+binfiles arch=x86_64-linux size=28
+ bin/x86_64-linux/dvipos

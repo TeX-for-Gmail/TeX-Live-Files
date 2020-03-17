@@ -1,0 +1,30 @@
+name esint
+category Package
+revision 15878
+shortdesc Extended set of integrals for Computer Modern
+longdesc The esint package permits access to alternate integral symbols
+longdesc when you're using the Computer Modern fonts. In the original
+longdesc set, several integral symbols are missing, such as \oiint. Many
+longdesc of these symbols are available in other font sets (pxfonts,
+longdesc txfonts, etc.), but there is no good solution if you want to
+longdesc use Computer Modern. The package provides Metafont source and
+longdesc LaTeX macro support.
+containersize 5696
+containerchecksum 6fcbc9f1d5c95d31fb9a95c9a65a6108e8c8253d002bce8d663082b44486d15b1cfba861c7106d55a3308c955c9753886d63bc6366934152b3793826f98e8900
+doccontainersize 102964
+doccontainerchecksum 70749821ce916123c4684fdb8e0ea66776d8e10901c745022aeb763081b9497ebba448a37ac7421d88f86e4743ce422f4fab58f21d95c8832bc7a36d0c0e04d4
+srccontainersize 6348
+srccontainerchecksum 1d6d6bbfaa215b912e56c8710ff7a650a08e59577dd9a23ae8e0934241c08ab970f4ae6aea14697725e7b05308a857cc05df256e59f988d2e6cc68cf3cbd3632
+runfiles size=18
+ texmf-dist/fonts/source/public/esint/bigint.mf
+ texmf-dist/fonts/source/public/esint/esint10.mf
+ texmf-dist/fonts/source/public/esint/mathint.mf
+ texmf-dist/fonts/tfm/public/esint/esint10.tfm
+ texmf-dist/tex/latex/esint/esint.sty
+ texmf-dist/tex/latex/esint/uesint.fd
+catalogue-also esint-type1
+catalogue-ctan /macros/latex/contrib/esint
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-symbol-maths font-mf
+catalogue-version 1.1

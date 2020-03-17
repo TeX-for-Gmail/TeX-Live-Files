@@ -1,0 +1,17 @@
+name properties
+category Package
+revision 15878
+shortdesc Load properties from a file
+longdesc The package loads properties (key, value) from a properties
+longdesc file, e.g. \jobname.properties.
+containersize 1188
+containerchecksum 3bde5cf132c9013bcbb0eef439e61725ea41a09720f98bb53f8bbf39d56d6cde34ed1613b001a86b40221a36233b1d5c226819c94b41d49211065e1477a0bd42
+doccontainersize 1104
+doccontainerchecksum eff6b91e8fdd7b0a6b0526c7dd2243e32586a5ce12071130f388a911fa34cbac4681d4118b601b9eb979a272bf89b82f00f8ba509fa996521e8a2861f8e84a80
+runfiles size=1
+ texmf-dist/tex/latex/properties/properties.sty
+catalogue-ctan /macros/latex/contrib/properties
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 0.2

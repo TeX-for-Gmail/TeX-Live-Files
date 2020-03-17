@@ -1,0 +1,20 @@
+name moodle
+category Package
+revision 39367
+shortdesc Generating Moodle quizzes via LaTeX
+longdesc A package for writing Moodle quizzes in LaTeX. In addition to
+longdesc typesetting the quizzes for proofreading, the package compiles
+longdesc an XML file to be uploaded to a Moodle server.
+containersize 16840
+containerchecksum 839db4d5082703e0b6d5516b6ec3c18b4fa4b449e732904569e839028bc3f7e27def83c56eb9929f65b0527cec9b180fd743aa3d0df2194aa6372922582173ce
+doccontainersize 287120
+doccontainerchecksum 9448341e5c33054a39f6990b4f7942f45fbbd884cd5691fa8c0b82fa1b3f9cfc887a02edadcb0df0a7a62c53c9f4b20496db5e6e9ecca4bd6ce8bddf2749a71d
+srccontainersize 30644
+srccontainerchecksum 332251d2357ce64268a1bddf7e77f28f7cf4be10846da84c1512bb39eb804e671f38aea4843af0f1357307869794029c259a52f6ab62d96736fb691436d841c4
+runfiles size=21
+ texmf-dist/tex/latex/moodle/moodle.sty
+catalogue-ctan /macros/latex/contrib/moodle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics exam
+catalogue-version 0.5

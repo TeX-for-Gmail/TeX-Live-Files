@@ -1,0 +1,22 @@
+name b1encoding
+category Package
+revision 21271
+shortdesc LaTeX encoding tools for Bookhands fonts
+longdesc The package characterises and defines the author's B1 encoding
+longdesc for use with LaTeX when typesetting things using his Bookhands
+longdesc fonts.
+containersize 4520
+containerchecksum b33280f64e37f300c92f9bad4372c13dd34e3dbe5fe47f2dc9fe0e270f33eaf5bedf9485293a74a6e0eb87b65f44fb66a286fb279a3d2c390c463e6aecfacb57
+doccontainersize 142812
+doccontainerchecksum 4bfac8bf2a00dc61a007c10654cb7fe539c111170127934cd3a64ecea9ceed3fd04ac249cbd645d89400bef6f4a3527d1db04baa88eab88eceee2edd48e64393
+srccontainersize 8164
+srccontainerchecksum 7368dec012e7dd9fd948856aa0b901be48a5800dec417a1511510e184e7543ae9d76acf46a12ea956b1b27367b41309923ce5ed3bdb320399572f5dde737543c
+runfiles size=7
+ texmf-dist/fonts/enc/dvips/b1encoding/TeXB1.enc
+ texmf-dist/tex/latex/b1encoding/b1cmr.fd
+ texmf-dist/tex/latex/b1encoding/b1enc.def
+catalogue-ctan /macros/latex/contrib/b1encoding
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics fontenc
+catalogue-version 1.0

@@ -1,0 +1,34 @@
+name mltex
+category Package
+revision 48634
+shortdesc The MLTeX system
+longdesc MLTeX is a modification of TeX version >=3.0 that allows the
+longdesc hyphenation of words with accented letters using ordinary
+longdesc Computer Modern (CM) fonts. The system is distributed as a TeX
+longdesc change file.
+depend latex
+depend cm
+depend hyphen-base
+depend babel
+depend dehyph
+depend latexconfig
+depend latex-fonts
+depend knuth-lib
+depend plain
+depend mltex.ARCH
+execute AddFormat name=mllatex engine=pdftex patterns=language.dat           options="-translate-file=cp227.tcx -mltex *mllatex.ini"           fmttriggers=cm,hyphen-base,babel,dehyph,latex,latexconfig,latex-fonts
+execute AddFormat name=mltex engine=pdftex            options="-translate-file=cp227.tcx -mltex mltex.ini"            fmttriggers=cm,hyphen-base,knuth-lib,plain
+containersize 6376
+containerchecksum 61f3712c0422eca9663cba6159a98ee20fc902e8c2afcebe700239958a97f948e8d02af04a5aec779751cd13f9d000128b4d6acb4b6d00f95164775693bd7f37
+doccontainersize 8676
+doccontainerchecksum 4a4f957ea1d27c25a4a5ca5a3aaaa7be0d65513741112512dcf65c4326c81ee090f371a6f8787629a8a7075344d8f8150da006004945a5075bfaee095e1ecb95
+runfiles size=8
+ texmf-dist/tex/latex/mltex/lo1enc.def
+ texmf-dist/tex/latex/mltex/mlltxchg.def
+ texmf-dist/tex/latex/mltex/mltex.sty
+ texmf-dist/tex/mltex/config/mltex.ini
+catalogue-ctan /systems/generic/mltex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license knuth
+catalogue-topics engine multilingual
+catalogue-version 2.2

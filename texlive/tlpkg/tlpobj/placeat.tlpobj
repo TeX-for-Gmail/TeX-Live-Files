@@ -1,0 +1,25 @@
+name placeat
+category Package
+revision 45145
+shortdesc Absolute content positioning
+longdesc The package provides commands so that the user of LuaLaTeX may
+longdesc position arbitrary content at any position specified by
+longdesc absolute coordinates on the page. The package draws a grid on
+longdesc each page of the document, to aid positioning (the grid may be
+longdesc disabled, for 'final copy' using the command \placeatsetup).
+containersize 4000
+containerchecksum 476dac5b149811659c663751478f9f224e209dd63954cb88baadcc94c70a4861673512e01c4a5f30097d242f56f1a6edbf4fc225f8b561e49a4e60b02020488e
+doccontainersize 95556
+doccontainerchecksum 0fc82d9b448c85eb3d77a7943b9243720f41894f062d9723b3dd56f2d3e9cd8fcb87a3d57f387f1c87b3ea132fee2e0e08962d9044aa7c756f0db979f4c06a3c
+srccontainersize 11932
+srccontainerchecksum c24fb52958d4bf39ea7925b1b68f2b2a5eea95c4c7bad8193d272111d6cc896b89e1b7ffd923a0e6fd9fd231dba3d1038a8730ae58b4ba059738da646e6b7bed
+runfiles size=4
+ texmf-dist/scripts/placeat/placeat.lua
+ texmf-dist/tex/lualatex/placeat/placeat.sty
+catalogue-also textpos
+catalogue-contact-repository https://github.com/alt/placeat
+catalogue-ctan /macros/luatex/latex/placeat
+catalogue-date 2017-08-26 23:16:20 +0200
+catalogue-license lppl1.3
+catalogue-topics layout luatex
+catalogue-version 0.1d1

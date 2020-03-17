@@ -1,0 +1,18 @@
+name cell
+category Package
+revision 42428
+shortdesc Bibliography style for Cell
+longdesc This is an "apa-like" style (cf. apalike.bst in the BibTeX
+longdesc distribution), developed from the same author's JMB style. A
+longdesc supporting LaTeX package is also provided.
+containersize 11228
+containerchecksum 917431174b203fd839d3cf81ed965cc654d66597246ef7a4f9f3c3a945397b546eef1e7bfc4f9fb52889e149ee2fd195dd559c317472831e66e0fc3253a6c22b
+doccontainersize 480
+doccontainerchecksum 3cbf1ffa3902f49c155f2ee6b13e24b9abcbdf50da4668042dbc720ef20f483e230fd2ffdc8448007df7ced1ed34077811199cda4fbb35c104dce73084215bf4
+runfiles size=10
+ texmf-dist/bibtex/bst/cell/cell.bst
+ texmf-dist/tex/latex/cell/cell.sty
+catalogue-ctan /macros/latex/contrib/cell
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics bibtex-sty

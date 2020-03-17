@@ -1,0 +1,25 @@
+name tikz-kalender
+category Package
+revision 49456
+shortdesc A LaTeX based calendar using TikZ
+longdesc For usage see the example files tikz-kalender-example1.tex,
+longdesc tikz-kalender-example2.tex, and *.events. The Code is inspired
+longdesc by this document and is subject to the >>Creative Commons
+longdesc attribution license (CC-BY-SA)<<. The class tikz-kalender
+longdesc requires the package TikZ and the TikZ libraries calc and
+longdesc calendar.
+containersize 4316
+containerchecksum 018547e2515c01b0e2615a91cccf53f9a24f6369e2686cd2a1fca482e7c3e901c482c3c130fc7c1740973e1f4b43fb95538606945df6f0cad342cbf3e85e6059
+doccontainersize 118580
+doccontainerchecksum 08675592fe8779ac1994ba090f86f10822bc229b85bee8c8b881c4c1b8e25c835ec3e40be2a46c20c8da5cf5751318ab8efb18aa91fc93ad8bbe7294eb37bc66
+runfiles size=4
+ texmf-dist/tex/latex/tikz-kalender/tikz-kalender-translation.clo
+ texmf-dist/tex/latex/tikz-kalender/tikz-kalender.cls
+catalogue-also calendar
+catalogue-contact-bugs https://github.com/rolfn/kalenderRN/issues
+catalogue-contact-repository https://github.com/rolfn/kalenderRN
+catalogue-ctan /graphics/pgf/contrib/tikz-kalender
+catalogue-date 2018-12-19 13:44:06 +0100
+catalogue-license cc-by-sa-1
+catalogue-topics calendar class pgf-tikz
+catalogue-version 0.4d

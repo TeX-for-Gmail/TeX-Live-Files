@@ -1,0 +1,20 @@
+name jneurosci
+category Package
+revision 17346
+shortdesc BibTeX style for the Journal of Neuroscience
+longdesc This is a slightly modified version of the namedplus style,
+longdesc which fully conforms with the Journal of Neuroscience citation
+longdesc style. It should be characterised as an author-date citation
+longdesc style; a BibTeX style and a LaTeX package are provided.
+containersize 6560
+containerchecksum 1ea3d11a66045784c2d1abe0290d95482c5a2a65a21963a58d9626872b25bb0d20f8d1c3c3b8173bf7f63ed71f7c33e13c8f6dab0918585b36d72fa37dc35714
+doccontainersize 237620
+doccontainerchecksum 2ed6a342b376ced405a75da39fff51d03e9fffa89341522555d2edf8d8eca701013a95f09f01cbf642d3ed1ba93a1aecc89682986ae5c94d784f3c857eaaadb1
+runfiles size=8
+ texmf-dist/bibtex/bst/jneurosci/jneurosci.bst
+ texmf-dist/tex/latex/jneurosci/jneurosci.sty
+catalogue-ctan /biblio/bibtex/contrib/jneurosci
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics neuro bibtex-sty
+catalogue-version 1.00

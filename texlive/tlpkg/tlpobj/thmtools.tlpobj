@@ -1,0 +1,39 @@
+name thmtools
+category Package
+revision 33624
+shortdesc Extensions to theorem environments
+longdesc The bundle provides several packages for commonly-needed
+longdesc support for typesetting theorems. The packages should work with
+longdesc kernel theorems (theorems 'out of the box' with LaTeX), and the
+longdesc theorem and amsthm packages. Features of the bundle include: a
+longdesc key-value interface to \newtheorem; a \listoftheorems command;
+longdesc hyperref and autoref compatibility; a mechanism for restating
+longdesc entire theorems in a single macro call.
+containersize 12400
+containerchecksum 137ac9352b2abe6963aea4e30eb5cd3c7cb872c7440778566d5b766b29e55ba107ae57ec474e00986f6b6ef6db04b8c133340d8afaa705b11f72a2c2635e4ad4
+doccontainersize 240460
+doccontainerchecksum e6880e3ff9f6140f767cb75e7a8e38f08c9c8b227c2cdd1a6fc24a23d45bf61b2ca1e3e1d8f25faee99c0b6371dd5f3858d132cda8e86f3e99db0ecba7750452
+srccontainersize 19456
+srccontainerchecksum 16aa0fe2db8826a35603738d8f54a50174bc8dec7f68e42f85070e4098e650d7bbc6eb595be2da824191ba52619f161bf60da3fb315c44467bcd90d0d09f822a
+runfiles size=23
+ texmf-dist/tex/latex/thmtools/aliasctr.sty
+ texmf-dist/tex/latex/thmtools/parseargs.sty
+ texmf-dist/tex/latex/thmtools/thm-amsthm.sty
+ texmf-dist/tex/latex/thmtools/thm-autoref.sty
+ texmf-dist/tex/latex/thmtools/thm-beamer.sty
+ texmf-dist/tex/latex/thmtools/thm-kv.sty
+ texmf-dist/tex/latex/thmtools/thm-listof.sty
+ texmf-dist/tex/latex/thmtools/thm-llncs.sty
+ texmf-dist/tex/latex/thmtools/thm-ntheorem.sty
+ texmf-dist/tex/latex/thmtools/thm-patch.sty
+ texmf-dist/tex/latex/thmtools/thm-restate.sty
+ texmf-dist/tex/latex/thmtools/thmdef-mdframed.sty
+ texmf-dist/tex/latex/thmtools/thmdef-shaded.sty
+ texmf-dist/tex/latex/thmtools/thmdef-thmbox.sty
+ texmf-dist/tex/latex/thmtools/thmtools.sty
+ texmf-dist/tex/latex/thmtools/unique.sty
+catalogue-ctan /macros/latex/exptl/thmtools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths-theorem
+catalogue-version 66

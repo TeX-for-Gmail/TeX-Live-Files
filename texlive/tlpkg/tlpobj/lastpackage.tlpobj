@@ -1,0 +1,21 @@
+name lastpackage
+category Package
+revision 34481
+shortdesc Indicates the last loaded package
+longdesc This package may be used to define the last point where some
+longdesc code shall be executed. Its provides a package name for use in
+longdesc package-placing commands from the author's templatetools. Usage
+longdesc examples are provided in the documentation.
+containersize 980
+containerchecksum f4d30e327704b32afe1bcb81023a247095203a9b47357f9a6dc4b631f4bb669255ba899cf1c8378b42ebd16f2608d8a649a0999f26e3d05c963eced1cc955ee2
+doccontainersize 254872
+doccontainerchecksum f31731b5a93c154db123e66699ac5175fb63b965522bb511d344577645f9b8ac6d78c6a1a108cad8914b1c01b1c7a6e656743b075a03322c306aaa5417f62be2
+srccontainersize 2580
+srccontainerchecksum f894a701e4f30797039bf60e98f9f9e6cc730a167fcccf88075802c0a5a0244eefce9f854b95207b7a0714984592030965f818ecd72c98af199c07f3400eb74d
+runfiles size=1
+ texmf-dist/tex/latex/lastpackage/lastpackage.sty
+catalogue-ctan /macros/latex/contrib/lastpackage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics preamble-admin
+catalogue-version 0.1

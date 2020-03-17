@@ -1,0 +1,19 @@
+name margbib
+category Package
+revision 15878
+shortdesc Display bibitem tags in the margins
+longdesc The package redefines the 'thebibliography' environment to
+longdesc place the citation key into the margin.
+containersize 1524
+containerchecksum 7f734e46e72badf838397305ca926f4589b9aba7a0e91e21313f6a733f7cd09db959f30e3694490633713b1a77c8d11a521b2892722496fb162d7c25c7b8641a
+doccontainersize 188416
+doccontainerchecksum c4f93e442d1337cb5a1825b4f7e6fe5ae0a759c32837a896852ec5592b3c31a9c473789db35c147b67360ed662b1e9ae42a59fed446dde234b174f65e358662c
+srccontainersize 4220
+srccontainerchecksum 7a9aecd832d34d1225606a905558f5ae33befaaf20f8fa1e6e5263850d2c72273be5a4a05e96d15225b7a2853212e3de28455c856c17e42838406862cadcc344
+runfiles size=1
+ texmf-dist/tex/latex/margbib/margbib.sty
+catalogue-ctan /macros/latex/contrib/margbib
+catalogue-date 2018-09-14 05:26:10 +0200
+catalogue-license gpl
+catalogue-topics cite-supp marginal
+catalogue-version 1.0c

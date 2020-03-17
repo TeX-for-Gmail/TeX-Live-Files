@@ -1,0 +1,9 @@
+name gustprog
+category Package
+revision 45712
+shortdesc utility programs for Polish users of TeX
+longdesc Provided as sources, not installed in the bin directories.
+containersize 332
+containerchecksum 597abdd6c2eec380c531ef7f89ac0d2fcce6e33dc2d2c5040a58b5da3bfbdf2dc75cad926291c94ff1207a47e66cc213c7b7f76890495aa9ef6466bd830caace
+doccontainersize 299256
+doccontainerchecksum 7817b203f9722409f10161072096dd410d34c2d84ee0ccf332d717c2eea0f408c76597fccea18b6022088cff0155433f77d085a8e8d5f28b72c4c227f578cb0d

@@ -1,0 +1,13 @@
+name translation-europecv-de
+category Package
+revision 23840
+shortdesc German version of europecv
+longdesc This is a "translation" of the europecv documentation.
+containersize 392
+containerchecksum 6102a92b45fb7c19d2190bf4289e8b6b24ded67d0255ce2f483627bbdbee00c42c044be03bc10c9d0e23c2b911e781d21a7e6562e80988620a6da60562d98bf4
+doccontainersize 669668
+doccontainerchecksum f50e761fc7925f0cf404788ad2ad70586536e1676bc7a026be5a81136a1323f011a281160a344c455346553e90cb632133668c2483200a05ecf961e46e50bfb3
+catalogue-ctan /info/translations/europecv/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cv german-doc translation

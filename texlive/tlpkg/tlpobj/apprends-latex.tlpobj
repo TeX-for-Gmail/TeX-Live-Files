@@ -1,0 +1,16 @@
+name apprends-latex
+category Package
+revision 19306
+shortdesc Apprends LaTeX!
+longdesc Apprends LaTeX! ("Learn LaTeX", in English) is French
+longdesc documentation for LaTeX beginners.
+containersize 444
+containerchecksum fe9c7ee4cc8cac1ed932388ff75066e4166e582f92bc23da4a4f6049f3cfd8c100d6ab6c0b3c661dd76038a9683eb3207f94f54ea338dd172027815d6945ad94
+doccontainersize 2489056
+doccontainerchecksum d65d5f56e055ac4628e8198b718689631edca80abb3593480948ee8ba3336d7baccc091cac9f95b4dff745d84d409488d3a2032a1587f1f1a5db186af4da1413
+catalogue-contact-home http://www.babafou.eu.org/Apprends_LaTeX/
+catalogue-ctan /info/apprends-latex
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics french-doc
+catalogue-version 4.02

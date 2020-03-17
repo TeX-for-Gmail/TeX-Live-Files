@@ -1,0 +1,19 @@
+name biblatex-historian
+category Package
+revision 19787
+shortdesc A BibLaTeX style
+longdesc A BibLaTeX style, based on the Turabian Manual (a version of
+longdesc Chicago).
+containersize 24464
+containerchecksum bba5cedd64fcf0c0cfbf9b56c66838141917ba1e7c2f27aea5bda44261ba28366b465415e3674a2ce398812d5cefbb2727c7e5e1adf53a2d9779754849664502
+doccontainersize 578372
+doccontainerchecksum ed87ab74fd06ccdfa0923289dcd7a37df695fdf76003aa7ab142c9d924fb69a81430ab7651314a9a391b9114dc2c2d63ffe94461bb00fd33d97ac9e8c5b2a8cf
+runfiles size=40
+ texmf-dist/tex/latex/biblatex-historian/historian.bbx
+ texmf-dist/tex/latex/biblatex-historian/historian.cbx
+ texmf-dist/tex/latex/biblatex-historian/historian.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-historian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics humanities biblatex
+catalogue-version 0.4

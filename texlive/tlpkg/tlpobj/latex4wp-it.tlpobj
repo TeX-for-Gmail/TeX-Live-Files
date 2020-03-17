@@ -1,0 +1,14 @@
+name latex4wp-it
+category Package
+revision 36000
+shortdesc LaTeX guide for word processor users, in Italian
+longdesc The package provides a version of the document in Italian
+containersize 420
+containerchecksum 691d8936d71ca825da3a5fb193f8f7067480981b1b9bc93100f54834a7f9500e66785a216110cb1eb5cdd41b538333b693dab8e0e855e546a3eab90c43c48630
+doccontainersize 816780
+doccontainerchecksum c0c527bc7e9e71038316be5c6a57f4200ed69e7ed6fa0f066923cb14d14e20e90213cf0b989d3ba746bdb3e2263cf1daba56db3073017a0d7582e40640d35fd3
+catalogue-ctan /info/latex4wp-it
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics italian-doc fac-survey
+catalogue-version 1.0.10

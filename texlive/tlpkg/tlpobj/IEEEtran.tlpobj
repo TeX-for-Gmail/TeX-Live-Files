@@ -1,0 +1,29 @@
+name IEEEtran
+category Package
+revision 38238
+shortdesc Document class for IEEE Transactions journals and conferences
+longdesc The class and its BibTeX style enable authors to produce
+longdesc officially-correct output for the Institute of Electrical and
+longdesc Electronics Engineers (IEEE) transactions, journals and
+longdesc conferences.
+containersize 89364
+containerchecksum d90214c1fa4542fa5d4a44a81e53a2a95a8d19ee91f21c4762dfe8fa15cc4f7402e2aaa6eacfe818b43414aa1846911966db068c7140b47ee625f5ef61ac7dc3
+doccontainersize 1265312
+doccontainerchecksum 81d5a3701fda267f6b4a35508634c25158f957a5bf7e4bd5f76334ac3ad6d68d2694712d27ace1353508f91d658e4ab82832d91246c1d20eeba673635946bb1e
+runfiles size=205
+ texmf-dist/bibtex/bib/IEEEtran/IEEEabrv.bib
+ texmf-dist/bibtex/bib/IEEEtran/IEEEexample.bib
+ texmf-dist/bibtex/bib/IEEEtran/IEEEfull.bib
+ texmf-dist/bibtex/bst/IEEEtran/IEEEtran.bst
+ texmf-dist/bibtex/bst/IEEEtran/IEEEtranN.bst
+ texmf-dist/bibtex/bst/IEEEtran/IEEEtranS.bst
+ texmf-dist/bibtex/bst/IEEEtran/IEEEtranSA.bst
+ texmf-dist/bibtex/bst/IEEEtran/IEEEtranSN.bst
+ texmf-dist/tex/latex/IEEEtran/IEEEtran.cls
+ texmf-dist/tex/latex/IEEEtran/IEEEtrantools.sty
+catalogue-contact-home http://www.michaelshell.org/tex/ieeetran/
+catalogue-ctan /macros/latex/contrib/IEEEtran
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 1.8b

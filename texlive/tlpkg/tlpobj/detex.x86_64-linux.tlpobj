@@ -1,0 +1,8 @@
+name detex.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of detex
+containersize 49484
+containerchecksum 50940edfef07d7f519582d737820c624803f7caa538d7445316a064d3851fe2f9e461515ec5897afe584fdfad96f271a14097f94d5c95a17b1ce2d4fb15f838c
+binfiles arch=x86_64-linux size=30
+ bin/x86_64-linux/detex

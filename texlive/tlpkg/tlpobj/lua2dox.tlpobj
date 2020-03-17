@@ -1,0 +1,28 @@
+name lua2dox
+category Package
+revision 29349
+shortdesc Auto-documentation of lua code
+longdesc The package extends the well-known C-like language autodoc
+longdesc tool, doxygen, to read and document lua code. In use, you edit
+longdesc and test your code and periodically run the autodoc tool to
+longdesc update the documentation, which may be viewed via an html
+longdesc browser. Autodoc tools can read the code well enough to find
+longdesc function/... declarations and document them. If the code also
+longdesc contains appropriatly formatted "magic comments", the tool can
+longdesc use them to supplement the documentation. The package is a
+longdesc first prototype of a planned TeX2DoX tool (in development),
+longdesc which will process joint (La)TeX/lua documents.
+depend lua2dox.ARCH
+containersize 7592
+containerchecksum 24b6cf17ee55a9699077aac82263e442f1ba3e7843742baf425a4d4c514cb2f4b1ea8a4af9165997559560f2ed060ef818d3a57f71a79d6238ed29ccd263d787
+doccontainersize 505640
+doccontainerchecksum 96746e4d0401cb0bb9cfdf7a44d2935d4e257dafb0f5099faf647aec0b385745518f160bfad8ae54a1ec018e0afcf4a7dc998cf9b7f310e0ba867bd2e6213960
+runfiles size=7
+ texmf-dist/scripts/lua2dox/lua.def
+ texmf-dist/scripts/lua2dox/lua2dox.lua
+ texmf-dist/scripts/lua2dox/lua2dox_filter
+catalogue-ctan /web/lua2dox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics litprog
+catalogue-version 0.2

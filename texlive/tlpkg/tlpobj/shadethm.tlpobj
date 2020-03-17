@@ -1,0 +1,26 @@
+name shadethm
+category Package
+revision 20319
+shortdesc Theorem environments that are shaded
+longdesc Extends the \newtheorem command. If you say
+longdesc \newshadetheorem{theorem}{Theorem} in the preamble then your
+longdesc regular \begin{theorem} .. \end{theorem} will produce a theorem
+longdesc statement in a shaded box. It supports all the options of
+longdesc \newtheorem, including forms \newshadetheorem{..}[..]{..} and
+longdesc \newshadetheorem{..}{..}[..]. Environments declared using the
+longdesc package require their body to remain on one page; the mdframed
+longdesc package can frame and shade theorems, and its environments
+longdesc break at the end of a page; users are generally recommended,
+longdesc therefore, to use mdframed.
+containersize 7392
+containerchecksum e86b448ac347677f4439e3fdf8d7d3448dee3d29529e72fd1c11e9b98af71dba6101ab3b3a4a988b6daeef4c1f96ba092426b109220d70289f43f12bd010f735
+doccontainersize 360876
+doccontainerchecksum b99b7c5eae48fa6a1af0fe25e71d7dcf65433e7ae0b2f712fbe7ff3569a66c10fde956287df9dd0bdf0c2b21610b295517a2065d9cba81a3d305e843e81d415f
+runfiles size=8
+ texmf-dist/tex/latex/shadethm/colored.sth
+ texmf-dist/tex/latex/shadethm/shadein.sth
+ texmf-dist/tex/latex/shadethm/shadethm.sty
+catalogue-ctan /macros/latex/contrib/shadethm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-theorem decoration

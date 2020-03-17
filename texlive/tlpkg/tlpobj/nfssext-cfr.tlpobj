@@ -1,0 +1,18 @@
+name nfssext-cfr
+category Package
+revision 43640
+shortdesc Extensions to the LaTeX NFSS
+longdesc The package is a development of nfssext.sty, distributed with
+longdesc the examples for the font installation guide. The package has
+longdesc been developed for use in packages such as cfr-lm and
+longdesc venturisadf,
+containersize 5276
+containerchecksum 5083d4ff4168b857a7391855ce02ea354cb17a26242a3e3b2693d6bbb35f722f750299669a37afbb99a52180433d697fbf65a6fb6afd6bd58d4b16c63e5b0d67
+doccontainersize 184888
+doccontainerchecksum 28b2aff47d74de3a42c441dafc156297904b5db20d267f1af07d1e3210e7f9959474b3cec387be7d9b20dc04560b4100a0d9da6979ab8ad2a7cd1e4518cec278
+runfiles size=6
+ texmf-dist/tex/latex/nfssext-cfr/nfssext-cfr.sty
+catalogue-ctan /macros/latex/contrib/nfssext-cfr
+catalogue-date 2017-03-29 11:57:53 +0200
+catalogue-license lppl1.3
+catalogue-topics font-sel

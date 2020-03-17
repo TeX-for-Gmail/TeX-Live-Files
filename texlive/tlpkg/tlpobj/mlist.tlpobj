@@ -1,0 +1,22 @@
+name mlist
+category Package
+revision 15878
+shortdesc Logical markup for lists
+longdesc The package defines commands that create macros for typesetting
+longdesc vectors, matrices and functions, in a logical way. For example,
+longdesc logical indexing can then be used to refer to elements or
+longdesc arguments without hard-coding the symbols in the document.
+containersize 3068
+containerchecksum 23466ef3b73d8476c69632fe0c701f3ec675250b534fb4451cb0dcaf93c30a649ca07bb58cfbac89054cc31cc1219daaa1e7f746e6689927573175d42f78bfc0
+doccontainersize 186980
+doccontainerchecksum 771f51f52e47aceb7da064a0bf8ba4b19f0255fbd14d3b6d301457ad0dea80836f3e4c449611f5574c12e87185ab5ac9668404c5f1f97100971293425c7ecd13
+srccontainersize 15480
+srccontainerchecksum 6112422b62304d0dafb8e4fa43239dd0899327dc952db6d1179af684049b46482a30675b8c44be534213d9b2fd9ff6bab267997bb0b08102e35e1ebdeca9956b
+runfiles size=4
+ texmf-dist/tex/latex/mlist/mlist.cfg
+ texmf-dist/tex/latex/mlist/mlist.sty
+catalogue-ctan /macros/latex/contrib/mlist
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 0.6a

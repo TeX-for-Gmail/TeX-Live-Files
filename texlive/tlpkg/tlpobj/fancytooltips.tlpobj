@@ -1,0 +1,28 @@
+name fancytooltips
+category Package
+revision 27129
+shortdesc Include a wide range of material in PDF tooltips
+longdesc The package was inspired by the cooltooltips package. In
+longdesc contrast to cooltooltips, fancytooltips allows inclusion of
+longdesc tooltips which contain arbitrary TeX material or a series of
+longdesc TeX materials (animated graphics) from an external PDF file. To
+longdesc see the tooltips, you have to open the files in Adobe Reader.
+longdesc The links and JavaScripts are inserted using eforms package
+longdesc from the AcroTeX bundle.
+containersize 8020
+containerchecksum e1d7243552cdf65cef1e647472a7f6c1d818c1e862afcf8069768d9beec01e4c250786e2c4c1af4febbdf94f20362110399bee33c7902bb7006de474a0d013e6
+doccontainersize 1112404
+doccontainerchecksum 4bd82e0ae682abd0157f94b5374ecdc6cedeff0af22a5227ab527b725d8710bd7f8c5a38b7380a91ecaaa383824d8b88d182d1edde312492c34728ab6ff2f4e3
+srccontainersize 16736
+srccontainerchecksum 3c6d477873c8fa6560d4188dbad1dbe43a422f08f4bcbdc15b034e0ee7dc5529171d005f48a25e1df6d6e6fbd0f8db5f11c233c515ee70e307cfc31e5f434e24
+runfiles size=10
+ texmf-dist/tex/latex/fancytooltips/fancytipmark.eps
+ texmf-dist/tex/latex/fancytooltips/fancytipmark.pdf
+ texmf-dist/tex/latex/fancytooltips/fancytipmark.svg
+ texmf-dist/tex/latex/fancytooltips/fancytooltips.sty
+catalogue-contact-repository http://bitbucket.org/robert.marik/fancytooltips/
+catalogue-ctan /macros/latex/contrib/fancytooltips
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.2
+catalogue-topics pdf-feat
+catalogue-version 1.8

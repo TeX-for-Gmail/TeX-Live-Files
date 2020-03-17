@@ -1,0 +1,20 @@
+name doipubmed
+category Package
+revision 15878
+shortdesc Special commands for use in bibliographies
+longdesc The package provides the commands \doi, \pubmed and \citeurl.
+longdesc These commands are primarily designed for use in
+longdesc bibliographies. A LaTeX2HTML style file is also provided.
+containersize 1932
+containerchecksum 3f313afd9cee76d11b5f957a3e9f7cc0d5d2d04003c285df7cd872adc0cdd26d0248c03f0642d62af53f23c4399e7e5ac3ffcde38da782f64ab265e5879a7f60
+doccontainersize 74000
+doccontainerchecksum 0298b7f4a408f2092bb7ecd8d5b0cee745f442bdcc2bae463d922ae4511d5b0fd79b8f78d1de49f77b4fb158937fcb752d919239efc25829228c1f75185454ae
+srccontainersize 4020
+srccontainerchecksum ce8a2d5300a2a3555cef789064047d49810f1f7d9d00429eea8122cde3e4cf75b41d5cec901a3d6cb3596e83bfb43e8ccb2558c64ac3d0574970e9980ceceacf
+runfiles size=1
+ texmf-dist/tex/latex/doipubmed/doipubmed.sty
+catalogue-ctan /macros/latex/contrib/doipubmed
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cite-supp
+catalogue-version 1.01

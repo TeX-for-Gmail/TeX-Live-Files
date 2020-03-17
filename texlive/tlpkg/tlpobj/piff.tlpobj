@@ -1,0 +1,24 @@
+name piff
+category Package
+revision 21894
+shortdesc Macro tools by Mike Piff
+longdesc The set (now) consists of: a small package for dealing with
+longdesc duplicate-numbered output pages; newproof, for defining
+longdesc mathematical proof structures; onepagem for omitting the page
+longdesc number in one-page documents and time, which prints a 12-hour
+longdesc format time.
+containersize 2628
+containerchecksum 79b804dfdbb12b8d2e854341062f2a149f9b0e061385a30650c39b877cce72d1af4ad1644d73fb3ca733a171aa61d1b533295818dc10a92eacbce2ca60722de7
+doccontainersize 600376
+doccontainerchecksum ef9d14cf4a38315e4d523082db9baf8d0f89e5963001d12ba7ffe260ca2255a6aa99dc38392a6ceb0fe24e6abb8c77b9343f29300ff5c814c01adfff3321923c
+runfiles size=4
+ texmf-dist/tex/latex/piff/duplicat.sty
+ texmf-dist/tex/latex/piff/newproof.sty
+ texmf-dist/tex/latex/piff/onepagem.sty
+ texmf-dist/tex/latex/piff/time.sty
+catalogue-contact-repository https://github.com/rf-latex/piff
+catalogue-contact-support https://github.com/rf-latex/piff/issues
+catalogue-ctan /macros/latex/contrib/piff
+catalogue-date 2018-09-13 20:11:58 +0200
+catalogue-license pd
+catalogue-topics collection

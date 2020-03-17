@@ -1,0 +1,22 @@
+name match_parens
+category Package
+revision 36270
+shortdesc Find mismatches of parentheses, braces, (angle) brackets, in texts
+longdesc Mismatches of parentheses, braces, (angle) brackets, especially
+longdesc in TeX sources which may be rich in those, may be difficult to
+longdesc trace. This little Ruby script helps you by writing your text
+longdesc to standard output, after adding a left margin to your text,
+longdesc which will normally be almost empty, but will clearly show any
+longdesc mismatches.
+depend match_parens.ARCH
+containersize 3328
+containerchecksum 1e03e279e977af436a8f5d5c3d30f046f46f1a31a0fd3de6d8ab458a64f0634b5f3ef8a338954971a898a1c68128f60c6eabd7ca231df9f3ca8ed12e55967dad
+doccontainersize 57268
+doccontainerchecksum 60428bc16f65fe820e267852c9d85a5f862c6800ac9c2aae0915a48819da381b2a311fdd3d08096d4aab7311ef86c1c89fabff3d88caf419dacbef515f4dd39a
+runfiles size=2
+ texmf-dist/scripts/match_parens/match_parens
+catalogue-ctan /support/match_parens
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl
+catalogue-topics debug-supp
+catalogue-version 1.43

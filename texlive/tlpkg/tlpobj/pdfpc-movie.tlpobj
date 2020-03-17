@@ -1,0 +1,26 @@
+name pdfpc-movie
+category Package
+revision 48245
+shortdesc Pdfpc viewer-compatible hyperlinks to movies
+longdesc This LaTeX2e package provides a command \pdfpcmovie for
+longdesc embedding (hyperlinking) movies in a way compatible with the
+longdesc PDF Presenter Console (pdfpc), a GPL2-licensed multi-monitor
+longdesc PDF presentation viewer application available on GitHub and
+longdesc shipped with some LINUX distributions such as Debian, Fedora,
+longdesc and Arch. The package depends on etoolbox, hyperref, and
+longdesc pgfkeys.
+containersize 2196
+containerchecksum 131ebad8b05395d0ca812fe50a103847393e4b00bc5574109ae3644b6500c58b86c48e33aab548c2404bd08ec6b893b9461d76f957111c7e653fec8473b8e63a
+doccontainersize 74980
+doccontainerchecksum fef635a0d0a48a6cb35fe8c3e0b17342b84bbeacd1604e01e9fa1217ee92aef4fd073c1db5aa72161082c6dbb273f1a2fc55a2bb057cf3fd12796de8844df614
+srccontainersize 5716
+srccontainerchecksum e4080ab714b791e2204b8215b70a0b979b9810c5c69c69234f6aefd4b02bf182245b0e599040f56b4814c6486ae6b7f715d3bb597c03475c38f4d5bc624777fe
+runfiles size=2
+ texmf-dist/tex/latex/pdfpc-movie/pdfpc-movie.sty
+catalogue-contact-bugs https://gitlab.com/SFr682k/pdfpc-movie/issues
+catalogue-contact-repository https://gitlab.com/SFr682k/pdfpc-movie
+catalogue-ctan /macros/latex/contrib/pdfpc-movie
+catalogue-date 2018-07-23 05:30:43 +0200
+catalogue-license lppl1.3c
+catalogue-topics pdf-view multimedia presentation
+catalogue-version 1.0

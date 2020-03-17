@@ -1,0 +1,8 @@
+name pdftex-quiet.x86_64-linux
+category Package
+revision 49140
+shortdesc x86_64-linux files of pdftex-quiet
+containersize 344
+containerchecksum 16792262f88fab7b6be96f404a053702061686a502f01c898be45311e02914978f193f5862b27a78905733c32921274d54a88a458ffa7f1c83a2914dc0e70e8b
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pdftex-quiet

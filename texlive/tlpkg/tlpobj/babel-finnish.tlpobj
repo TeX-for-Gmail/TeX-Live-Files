@@ -1,0 +1,19 @@
+name babel-finnish
+category Package
+revision 30267
+shortdesc Babel/Polyglossia support for Finnish
+longdesc The package provides a language description file that enables
+longdesc support of Finnish either with babel or with polyglossia.
+containersize 2520
+containerchecksum b39de5e94debff30a9f3a0b0b1d27cdc75e7479ad3f37ba73769226e9e2b1883bf272c3dc87044f6c2b97c80a7c049aee64458a78c289f01470ee4a6ecec0d59
+doccontainersize 139484
+doccontainerchecksum 52fca9282d4070cc451eff247b0743b576dc7ef2553952863aeaf04c01f876d72e0062857690b1d62f1e3ed17918b64b125b96df82f2fc05ae695dcb4788146a
+srccontainersize 6132
+srccontainerchecksum c8b07de49127f766659f5842d211cef3830ea3f92d8703fd482c713993f924ed0171864f055ae526bed407059733295fe9741646228cece4516bdf49ad4622d7
+runfiles size=2
+ texmf-dist/tex/generic/babel-finnish/finnish.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/finnish
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1.3
+catalogue-topics multilingual-addon
+catalogue-version 1.3q
