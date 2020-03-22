@@ -1,0 +1,14 @@
+name lshort-vietnamese
+category Package
+revision 15878
+shortdesc Vietnamese version of the LaTeX introduction
+longdesc Vietnamese version of A Short Introduction to LaTeX2e.
+containersize 396
+containerchecksum ab9369125fa7283dc2a2b58999f57db3e5767e1e6810000fb71f2f0abdb693a60c2133703cf3427d35732769e393cf389733694aaa6d9e41f9ecf28073d06112
+doccontainersize 1569572
+doccontainerchecksum ba2fc0eeb69f845ca306c7a03c7f7a46cacd3304c420c048284d248202a12f34b176d91244ca25892a64f6ab734e852ea83ad888684cdafb644da7d665a02b2e
+catalogue-ctan /info/lshort/vietnamese
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tut-latex vietnamese-doc
+catalogue-version 4.00

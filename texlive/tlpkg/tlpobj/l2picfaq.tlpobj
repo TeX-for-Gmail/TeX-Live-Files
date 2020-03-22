@@ -1,0 +1,17 @@
+name l2picfaq
+category Package
+revision 19601
+shortdesc LaTeX pictures "how-to" (German)
+longdesc The document (in German) is a collection of "how-to" notes
+longdesc about LaTeX and pictures. The aim of the document is to provide
+longdesc a solution, in the form of some sample code, for every problem.
+containersize 484
+containerchecksum c6ea1d8ac189784d6581eaf9cae83a83beba9adfd32536f43c04633f7cc457353f0dbb69407332a29856633552910bfdd31cf85332c6dfb05da2cbab88ec67a2
+doccontainersize 364380
+doccontainerchecksum e4202740ea2842296338e9d635b27c35801f4a5f8b21eb8dc0c1db572da0718fc5adcefc5c122793618336272606ec27f02f13825f8d2a6cf4b83583ea372288
+catalogue-also epslatex
+catalogue-ctan /info/l2picfaq/german
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics faq
+catalogue-version 1.50

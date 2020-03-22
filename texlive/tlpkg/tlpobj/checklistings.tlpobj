@@ -1,0 +1,27 @@
+name checklistings
+category Package
+revision 38300
+shortdesc Pass verbatim contents through a compiler and reincorporate the resulting output
+longdesc This package augments the fancyvrb and listings packages to
+longdesc allow the source code they contain to be checked by an external
+longdesc tool (like a compiler). The external tool's messages can be
+longdesc automatically reincorporated into the original document. The
+longdesc package does not focus on a specific programming language, but
+longdesc it is designed to work well with languages and compilers in the
+longdesc ML family.
+depend checklistings.ARCH
+containersize 6496
+containerchecksum 599ed476321a825bea61fbdd468670cadcdb11249a4a9324fc88339a9445ceeced3680459dc2d27c2e6263cd207ffc0ce3b60b325d31072922bf4644478cf544
+doccontainersize 364456
+doccontainerchecksum 3f8d6eb67f305fa5e03bb625a4034ffe616a6c0223774688463884df99c337c1e5bdd76bbfa3b9428ec4812ec72388979c4252ba7407ae8b79e3de7cfacbeb01
+srccontainersize 10948
+srccontainerchecksum a7435841305ce368f1bedac9cb531d8f0fce3fac27484547821a2e82998e977968e578601382f4cddf6c089b42e8e175c56d2e466faa5c4c0e5b49edaf6baf1d
+runfiles size=6
+ texmf-dist/scripts/checklistings/checklistings.sh
+ texmf-dist/tex/latex/checklistings/checklistings.sty
+catalogue-contact-repository https://github.com/tbrk/checklistings
+catalogue-ctan /macros/latex/contrib/checklistings
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.2
+catalogue-topics callback listing
+catalogue-version 1.0

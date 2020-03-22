@@ -1,0 +1,22 @@
+name invoice
+category Package
+revision 48359
+shortdesc Generate invoices
+longdesc The package may be used for generating invoices. The package
+longdesc can deal with invisible expense items and deductions; output
+longdesc may be presented in any of 10 different languages. A
+longdesc long-standing bug has been removed. Numbers now can show the
+longdesc comma as decimal separator. The package depends on the fp, calc
+longdesc and siunitx for its calculations.
+containersize 8756
+containerchecksum 7ddb8e05d88321f45cfe8618c740671e17e79ddf53fc2c11a3b9224a27ba1ebc815635484f3dfb4c849d90efb859412028df1e7f91a4e746cf812b19e5d1a269
+doccontainersize 101852
+doccontainerchecksum 7b827f575eca669f15767be9fd215e827a3e98b03ea3e1f353039f5190fa7d75a5e59dd5d89ada982518101fc5164449843656c60a65679dd82061dbfcb95ea2
+runfiles size=13
+ texmf-dist/tex/latex/invoice/invoice.sty
+ texmf-dist/tex/latex/invoice/invoicelabels.sty
+catalogue-also facture invoice2
+catalogue-ctan /macros/latex/contrib/invoice
+catalogue-date 2018-08-07 13:30:16 +0200
+catalogue-license lppl1.3c
+catalogue-topics invoice

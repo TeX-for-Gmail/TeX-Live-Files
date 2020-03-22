@@ -1,0 +1,22 @@
+name trivfloat
+category Package
+revision 15878
+shortdesc Quick float definitions in LaTeX
+longdesc The trivfloat package provides a quick method for defining new
+longdesc float types in LaTeX. A single command sets up a new float in
+longdesc the same style as the LaTeX kernel figure and table float
+longdesc types. The package works with memoir as well as the standard
+longdesc classes.
+containersize 2444
+containerchecksum 25e07373c53a6d4c92a5f2f19fa0d70c86202435863b8b3cd036f2d12f74a477a33cca6508794f67256a877117bea821a11b9bff235e1a894c90b71810bbcca4
+doccontainersize 128892
+doccontainerchecksum eb9fce19c495eedd728e87bf47f5d925a685a8b9e81e8de0e6c317f74af6c82352f403486f5a904849ed418722d830ae294a89eaa57bbff59eee8a03cf9b8af8
+srccontainersize 7480
+srccontainerchecksum 9537944503c1606151207e75dd7a2bad64b34f82bb23d83e0eb93292ea9ad9edd0bd72a126de588125b6b425669f657506ca602796b6e2dd2997052b70f60dc5
+runfiles size=2
+ texmf-dist/tex/latex/trivfloat/trivfloat.sty
+catalogue-ctan /macros/latex/contrib/trivfloat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics float
+catalogue-version 1.3b

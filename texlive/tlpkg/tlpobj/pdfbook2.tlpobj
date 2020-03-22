@@ -1,0 +1,29 @@
+name pdfbook2
+category Package
+revision 37537
+shortdesc Create booklets from PDF files
+longdesc This python program creates print-ready PDF files from some
+longdesc input PDF files for booklet printing. The resulting files need
+longdesc to be printed in landscape/long edge double sided printing. The
+longdesc default paper format depends on the locale and is chosen by
+longdesc pdfjam. It can be chosen using the --paper option. Before the
+longdesc pdf is composed, the input file is cropped to the relevant area
+longdesc in order to discard unnecessary white spaces. In this process,
+longdesc all pages are cropped to the same dimensions. Extra margins can
+longdesc be defined at the edges of the booklet and in the middle where
+longdesc the binding occurs. The output is written to INPUT-book.pdf.
+longdesc Existing files will be overwritten. All input files are
+longdesc processed seperately.
+depend pdfbook2.ARCH
+containersize 3500
+containerchecksum ecee1f160c1898110bffda10fd1a329b66b8689d7fb967254eb9dabf8bf7d71ad94399fcf3ec6f01db08309c3b4803789ce768e347ca70bd9a81e2c49a6f1f78
+doccontainersize 7552
+doccontainerchecksum b6b58cce91ec59d43e5aa868d5f1a692e76ef84f57c2399dd0d25b7ad9a94c2e23b376cb49a9d1c33a084362095e018a177c95bb3b752c5ab4840d054b241b51
+runfiles size=3
+ texmf-dist/scripts/pdfbook2/pdfbook2
+catalogue-also pdfbook
+catalogue-ctan /support/pdfbook2
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics pdfprocess
+catalogue-version 1.2

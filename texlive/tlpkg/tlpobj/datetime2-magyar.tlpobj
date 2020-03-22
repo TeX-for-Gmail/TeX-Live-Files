@@ -1,0 +1,23 @@
+name datetime2-magyar
+category Package
+revision 48266
+shortdesc Magyar language module for the datetime2 package
+longdesc This module provides the "magyar" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2536
+containerchecksum 4d3b27b0409d26431cc06a1ac83485b6d4d63b9bba30a862ac043cc27c25a77805d5c3aeff3a329e1348a32ca4ceaea917f2f840ce1696a58f00325775ae5009
+doccontainersize 81372
+doccontainerchecksum 1eff11bc2c7cdae101331521f08d3a9eb878e8d1695b35724475eb5b99e0a537bf16a00bd3c13760cb36306e84b72f15e5ec294ed958ab5d67e75ad8571ac9a2
+srccontainersize 4776
+srccontainerchecksum 674e795a5b3d49665bba89c7f01abdf4c366a72f9968ea008455179319f66061ef2f73e21c6ae736e6dd960aba1184b7e374eecff8429d1b533078202f294ad7
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-magyar/datetime2-magyar-ascii.ldf
+ texmf-dist/tex/latex/datetime2-magyar/datetime2-magyar-utf8.ldf
+ texmf-dist/tex/latex/datetime2-magyar/datetime2-magyar.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-magyar
+catalogue-date 2018-07-24 14:47:49 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

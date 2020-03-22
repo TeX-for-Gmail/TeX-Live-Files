@@ -1,0 +1,27 @@
+name hepnames
+category Package
+revision 35722
+shortdesc Pre-defined high energy particle names
+longdesc Hepnames provides a pair of LaTeX packages, heppennames and
+longdesc hepnicenames, providing a large set of pre-defined high energy
+longdesc physics particle names built with the hepparticles package. The
+longdesc packages are based on pennames.sty by Michel Goosens and Eric
+longdesc van Herwijnen. Heppennames re-implements the particle names in
+longdesc pennames.sty, with some additions and alterations and greater
+longdesc flexibility and robustness due to the hepparticles structures,
+longdesc which were written for this purpose. Hepnicenames provides the
+longdesc main non-resonant particle names from heppennames with more
+longdesc "friendly" names.
+containersize 6660
+containerchecksum ec893de8b4cedd1b18dd16c3237fa79b434e91cbab4b856c4fbe11afef162b560bda18c0fd75ab2c47b863cdcca1d64809a139d51f04e9c2f45eab6ba4036c28
+doccontainersize 975796
+doccontainerchecksum 36a0966b755b6bb0f0dd27c80235e66af7c5252df1ae27652e59fd65fc5f280eb487666eef04206813438204dc592c0295651ccf0bce1e5f85f4797cdb439850
+runfiles size=13
+ texmf-dist/tex/latex/hepnames/hepnames.sty
+ texmf-dist/tex/latex/hepnames/hepnicenames.sty
+ texmf-dist/tex/latex/hepnames/heppennames.sty
+catalogue-ctan /macros/latex/contrib/hepnames
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics
+catalogue-version 2.0

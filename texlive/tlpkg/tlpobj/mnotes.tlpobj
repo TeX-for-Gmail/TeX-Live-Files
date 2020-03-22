@@ -1,0 +1,19 @@
+name mnotes
+category Package
+revision 35521
+shortdesc Margin annotation for collaborative writing
+longdesc The package provides a flexible mechanism for annotating, and
+longdesc commenting upon, collaboratively-written documents.
+containersize 2008
+containerchecksum f95e4cbe33ec00e62aab2b3b9cdddaeceb762ccc34b736b8e2c0d658b3e871134d0a0b8805470f8c4e148057c513dad9cbbf6c1d5076843b2b2fdce03c84dd09
+doccontainersize 211560
+doccontainerchecksum 58c3d8def0ee368f1cb87567aab160b4af10de7137de1901f4c6428531f1d080146ee5cb7f0be73a09216d0aa5580bf4baa8cbcca4c7801a322731f88cadf2ec
+srccontainersize 5448
+srccontainerchecksum 4c0a9077711c44601ab9933cfd46b1ed8c5bb1866fb40ac0707100ed9173bdc67d59f7aab91972e6150ed65e385583dfd9851479c8f0cd651f61a6ab6fe39946
+runfiles size=2
+ texmf-dist/tex/latex/mnotes/mnotes.sty
+catalogue-ctan /macros/latex/contrib/mnotes
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics marginal
+catalogue-version 0.8

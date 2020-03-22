@@ -1,0 +1,21 @@
+name eqnnumwarn
+category Package
+revision 45511
+shortdesc Modifies the amsmath equation environments to warn for a displaced equation number
+longdesc Sometimes an equation is too long that an equation number will
+longdesc be typeset below the equation itself, but yet not long enough
+longdesc to yield an "overfull \hbox" warning. The eqnnumwarn package
+longdesc modifies the standard amsmath numbered equation environments to
+longdesc throw a warning whenever this occurs.
+containersize 3232
+containerchecksum ddfee700caa63f65fb4f53fe2469d1e6ef6338843738dd2c06989f23b6f4b40dd1dfe4b5979a04b34a9430d7cdd4d0f3ef14e3ce39613c8961fb0266e4ce6af3
+doccontainersize 93352
+doccontainerchecksum e6dddee646be40e01c211854d3fa04855286e24a39b8217380e555eaacfad50fc66a57e89336d505c80a8df77ff7885922195423d11c2acefce583c9cb9fce81
+runfiles size=2
+ texmf-dist/tex/latex/eqnnumwarn/eqnnumwarn.sty
+catalogue-also latex-amsmath
+catalogue-ctan /macros/latex/contrib/eqnnumwarn
+catalogue-date 2018-01-07 12:02:30 +0100
+catalogue-license lppl1.3
+catalogue-topics comp-supp
+catalogue-version 1.0

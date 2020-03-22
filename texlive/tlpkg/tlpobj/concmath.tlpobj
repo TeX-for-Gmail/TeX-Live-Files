@@ -1,0 +1,29 @@
+name concmath
+category Package
+revision 17219
+shortdesc Concrete Math fonts
+longdesc A LaTeX package and font definition files to access the
+longdesc Concrete mathematics fonts, which were derived from Computer
+longdesc Modern math fonts using parameters from Concrete Roman text
+longdesc fonts.
+containersize 2176
+containerchecksum 1e2fd3339fd2bf2a48967102ca42c930ff41a5b4a9fa850cbce6aa2ed701ab351a5dfb931ed80de34aa13e18ab2b01fa2893f981fc671d6399f4d55aa9f8ea40
+doccontainersize 266164
+doccontainerchecksum 05dbb0a6d89d3f72f3d77824670afb29e6ea8dbba6d37255f6a36006a6a6b630fb56b12815ae3075c41dd698d6a85c6be7ce1dc2da9b3b69b636fcd8c4855a84
+srccontainersize 9604
+srccontainerchecksum 6c4a5a4af907174df5fdeb77f0c4d0f554c2b8ac0d95031fe98f4a748bc4a96c7a526e44229174ffaccdec5bcf086722b355b3c4dcbc4441e1a67c91a71376db
+runfiles size=9
+ texmf-dist/tex/latex/concmath/concmath.sty
+ texmf-dist/tex/latex/concmath/omlccm.fd
+ texmf-dist/tex/latex/concmath/omlccr.fd
+ texmf-dist/tex/latex/concmath/omsccr.fd
+ texmf-dist/tex/latex/concmath/omsccsy.fd
+ texmf-dist/tex/latex/concmath/omxccex.fd
+ texmf-dist/tex/latex/concmath/ot1ccr.fd
+ texmf-dist/tex/latex/concmath/ucca.fd
+ texmf-dist/tex/latex/concmath/uccb.fd
+catalogue-also concrete ccfonts
+catalogue-ctan /macros/latex/contrib/concmath
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp

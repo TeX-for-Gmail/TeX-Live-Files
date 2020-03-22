@@ -1,0 +1,33 @@
+name numprint
+category Package
+revision 27498
+shortdesc Print numbers with separators and exponent if necessary
+longdesc The package numprint prints numbers with a separator every
+longdesc three digits and converts numbers given as 12345.6e789 to
+longdesc 12\,345,6\cdot 10^{789}. Numbers are printed in the current
+longdesc mode (text or math) in order to use the correct font. Many
+longdesc things, including the decimal sign, the thousand separator, as
+longdesc well as the product sign can be changed by the user, e.g., to
+longdesc reach 12,345.6\times 10^{789}. If an optional argument is given
+longdesc it is printed upright as unit. Numbers can be rounded to a
+longdesc given number of digits. The package supports an automatic,
+longdesc language-dependent change of the number format. Tabular
+longdesc alignment using the tabular(*), array, tabularx, and longtable
+longdesc environments (similar to the dcolumn and rccol packages) is
+longdesc supported using all features of numprint. Additional text can
+longdesc be added before and after the formatted number.
+containersize 10552
+containerchecksum cdebfa502a461292b02186b146ad8086f46447b5d8a0292fd7943d93a39796eff1710563866506679e903b7a4d415af9a8d863fa81a62395c7bdeec2cd68e66f
+doccontainersize 1178624
+doccontainerchecksum b821566e6fc532425c8f1b901b5613c763eb392461644850428707105626b6eb1a53784d6a693e7f9fe2aa612b72b4d5a38ddf65f22a0d022981771b2b303d04
+srccontainersize 42884
+srccontainerchecksum d4af01527564c9818840a87d9c876ec8d8cf6e7712913ea3deae4012fd0d4f0dae19e4016fc205814620d1cf97f3c12b98f1003fc6fc81857101d2ecd90fbe83
+runfiles size=17
+ texmf-dist/tex/latex/numprint/nbaseprt.sty
+ texmf-dist/tex/latex/numprint/numprint.sty
+ texmf-dist/tex/latex/numprint/numprint032.sty
+catalogue-ctan /macros/latex/contrib/numprint
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers
+catalogue-version 1.39

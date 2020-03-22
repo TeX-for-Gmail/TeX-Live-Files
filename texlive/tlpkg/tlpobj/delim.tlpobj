@@ -1,0 +1,20 @@
+name delim
+category Package
+revision 23974
+shortdesc Simplify typesetting mathematical delimiters
+longdesc The package permits simpler control of delimiters without
+longdesc excessive use of \big... commands (and the like).
+containersize 1100
+containerchecksum c18dc230c5bac8db3d66f062402392761467ad18f48a65930a960c0772be30a7ed729a50657b12f533d72086563a67a98e8f5ce7afdc9947b52146e76e22b157
+doccontainersize 299600
+doccontainerchecksum c343842bcc03981c1814f5cffa2ba3eacc2e6abb5673ba700859406869a2398518e9abf02e159f4d92bf91383c3a6cdaa9f5720adaec81715fa30f4b8f36ff9d
+srccontainersize 3548
+srccontainerchecksum 8ff42847f918ab8d65eca86ee8daadd14ee138f984e06e1c4d66704ab4b6c53c1271b23aeb33003f9a7489e22e29850711efce99459f10764150742854570034
+runfiles size=1
+ texmf-dist/tex/latex/delim/delim.sty
+catalogue-also delimseasy
+catalogue-ctan /macros/latex/contrib/delim
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics maths
+catalogue-version 1.0

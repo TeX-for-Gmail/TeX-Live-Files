@@ -1,0 +1,23 @@
+name dvgloss
+category Package
+revision 29103
+shortdesc Facilities for setting interlinear glossed text
+longdesc The package provides extensible macros for setting interlinear
+longdesc glossed text -- useful, for instance, for typing linguistics
+longdesc papers. The operative word here is "extensible": few features
+longdesc are built in, but some flexible and powerful facilities are
+longdesc included for adding your own.
+containersize 2012
+containerchecksum 51227cd1323c6ef94f8e0c537289abd3812f39109ce178793347d6615a718109f120bf9e6a4dac1ea801effb6f2b9425c376fdcfd5db6a5409887a8b9b49dff8
+doccontainersize 205460
+doccontainerchecksum 4e59a568e0230e5e5dab7968eb27a8bda4680ed31b23d21fe3dfc15d0e3d8b3d6599535f91a092e2f9dea69402ba8ef07291d2cadc1e1cce28aea927fbb84341
+srccontainersize 8748
+srccontainerchecksum a4df82b4ea3e57de02e61e28cf4b9e8fa91e385534d7676fe3e287c49148849dc736003b867f1b481d56466847f9f62f020bb2e826ec81dc31be3d2b6f6a47d4
+runfiles size=1
+ texmf-dist/tex/latex/dvgloss/dvgloss.sty
+catalogue-also gb4e tree-dvips
+catalogue-ctan /macros/latex/contrib/dvgloss
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics linguistic
+catalogue-version 0.1

@@ -1,0 +1,8 @@
+name ptex2pdf.x86_64-linux
+category Package
+revision 29335
+shortdesc x86_64-linux files of ptex2pdf
+containersize 340
+containerchecksum 1282cac1314071dd59dd0b8c450fc2facf921589647dde23115975b2ccd8fb4dac022176717c17386513d3ff83d87f463a5f4d820cf6ec02d4eb056dd12026e4
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ptex2pdf

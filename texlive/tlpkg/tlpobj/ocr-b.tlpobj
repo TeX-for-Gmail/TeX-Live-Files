@@ -1,0 +1,34 @@
+name ocr-b
+category Package
+revision 20852
+shortdesc Fonts for OCR-B
+longdesc Metafont source for OCR-B at several sizes.
+containersize 10164
+containerchecksum 30b658802a2a30776cef18c2ea0f1a71044b5b7819c75ec58df9acc04134cf1aaf85b97f93231d439d79c47f66d7bc57b43494aca073871ec3479ae70178fc58
+doccontainersize 1352
+doccontainerchecksum 6d162b10b558a9db8269b2535ac9df4f76973c54d7e23dea20efb29974b839278888fceab2da85f945da483415bbbafc614c8ae4c1cea6d262d6a46dea5b69a2
+runfiles size=28
+ texmf-dist/fonts/source/public/ocr-b/ocrb10.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10e.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10f.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10g.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10l.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10s.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb10x.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb5.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb6.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb7.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb8.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrb9.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrbdef.mf
+ texmf-dist/fonts/source/public/ocr-b/ocrbmac.mf
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb10.tfm
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb5.tfm
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb6.tfm
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb7.tfm
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb8.tfm
+ texmf-dist/fonts/tfm/public/ocr-b/ocrb9.tfm
+catalogue-ctan /fonts/ocr-b
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license other-free
+catalogue-topics font font-specialist font-mf

@@ -1,0 +1,41 @@
+name HA-prosper
+category Package
+revision 15878
+shortdesc Patches and improvements for prosper
+longdesc HA-prosper is a patch for prosper that adds new functionality
+longdesc to prosper based presentations. Among the new features you will
+longdesc find automatic generation of a table of contents on each slide,
+longdesc support for notes and portrait slides. The available styles
+longdesc demonstrate how to expand the functionality of prosper even
+longdesc further.
+containersize 28420
+containerchecksum 330df0a8d9b7b7ed5e4d2b74c626576ca8ac852cc84f9c79296141b14892819869cbd0e7f68050b4f3e5d107c43f9939ec9c9248c19ddd20da8d16ee2c25104e
+doccontainersize 205052
+doccontainerchecksum 55822b9703d44481ae62dcb690adaba29cee5432b5b8b9f549884f55e943b1575064419712745166a6c0fd0fdfadac60473c6642816e1efac92c8e27c2cca76c
+srccontainersize 38768
+srccontainerchecksum 646cea88f8d725e30257c15bcd198c0a2c9cd6477b956279a38443d5b22ac4c64e795a2ded53649b3d1504bbc66639946c331ba978e775a5fea33696c9bc6c2d
+runfiles size=57
+ texmf-dist/tex/latex/HA-prosper/HA-prosper.cfg
+ texmf-dist/tex/latex/HA-prosper/HA-prosper.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/Aggie/AMLogo.eps
+ texmf-dist/tex/latex/HA-prosper/Styles/Aggie/HAPAggie.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/Aggie/files.txt
+ texmf-dist/tex/latex/HA-prosper/Styles/Capsules/HAPcapsules.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/Ciment/HAPciment.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/Fyma/HAPFyma.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/HA/HAPHA.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/HA/flower.ps
+ texmf-dist/tex/latex/HA-prosper/Styles/Lakar/HAPLakar.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/Simple/HAPsimple.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/TCS/HAPTCS.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/TCS/HAPTCSTealBlue.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/TCS/HAPTCSgrad.sty
+ texmf-dist/tex/latex/HA-prosper/Styles/TCS/TCSgradlogo.ps
+ texmf-dist/tex/latex/HA-prosper/Styles/TCS/TCSlogo.ps
+ texmf-dist/tex/latex/HA-prosper/Styles/Tycja/HAPTycja.sty
+catalogue-also powerdot
+catalogue-ctan /macros/latex/contrib/ha-prosper
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics presentation
+catalogue-version 4.21

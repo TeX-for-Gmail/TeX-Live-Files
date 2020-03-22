@@ -1,0 +1,25 @@
+name xcomment
+category Package
+revision 20031
+shortdesc Allows selected environments to be included/excluded
+longdesc The package defines an environment that only typesets specified
+longdesc environments within its scope. So, for example, if you want
+longdesc nothing but the figure and table environments in your document,
+longdesc you can enclose the whole document with an xcomment environment
+longdesc that excludes everything but. This is a lot easier than
+longdesc excluding the chunks of text between the environments you want,
+longdesc or creating an entire document containing only those
+longdesc environments. The package was previously part of the seminar
+longdesc bundle for typesetting presentations.
+containersize 2352
+containerchecksum ad19a29caaaa4da90c740a18f3b3bf63666303f8047210197e17c270082d483e33085c9249d7143ba65f343f6bf3b52c6974021f954831c5196708824e21b843
+doccontainersize 81512
+doccontainerchecksum d3b4d70cd88923e25595acf726afa6eea2efff4550455ed2eff48411621f212059ffedc3a82e4ac15359420a00c69b55e3625d11f8e8d4111eeb87cc3a6e8cfe
+runfiles size=3
+ texmf-dist/tex/generic/xcomment/xcomment.sty
+ texmf-dist/tex/generic/xcomment/xcomment.tex
+catalogue-ctan /macros/generic/xcomment
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cond-comp
+catalogue-version 1.3

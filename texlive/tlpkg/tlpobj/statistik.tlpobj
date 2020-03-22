@@ -1,0 +1,20 @@
+name statistik
+category Package
+revision 20334
+shortdesc Store statistics of a document
+longdesc The package counts the numbers of pages per chapter, and stores
+longdesc the results in a separate file; the format of the file is
+longdesc selectable.
+containersize 2164
+containerchecksum 2d2455227b5db15235763c4fa677b549380d66f2485d1d53c2c607f96bb4b4a176ae9868419351f691f3efc3117e6e54be3317040f2a6f8d1d105cb86709f86a
+doccontainersize 94864
+doccontainerchecksum 88b28820b5d2a4a304c26658e27da7d673bf430a6be3ddf46f5eb3103abb7e8d20b03e30b65b88583960f9cf3dbebb9088330621b99e1eb9f2f28c0684638240
+srccontainersize 4544
+srccontainerchecksum d37bf82f0830e14c500af27146a1ae1a80bf4aee3bb272429c7c2351366e2fdb51b7ba16ab6459b7cbb8abe2d37870b7bcb3fa43582e588c7cbbb889ac1e3859
+runfiles size=2
+ texmf-dist/tex/latex/statistik/statistik.sty
+catalogue-ctan /macros/latex/contrib/statistik
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics doc-mgmt
+catalogue-version 0.03

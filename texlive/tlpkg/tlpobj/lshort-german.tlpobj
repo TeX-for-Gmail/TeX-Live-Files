@@ -1,0 +1,14 @@
+name lshort-german
+category Package
+revision 47401
+shortdesc German version of A Short Introduction to LaTeX2e: LaTeX2e-Kurzbeschreibung
+containersize 432
+containerchecksum 92795389c811be26f98af6df5bde8c521ceecef1861facab67622811a9d6859ac83daa78f0f37257588318a87214f1ece3f0ada40790661d09938914b0cea437
+doccontainersize 951712
+doccontainerchecksum 11a2745ff16418ad28dbe1cf4b88225a86899c30d102ea8fa6f3775aabab102772173335cd4985b8fa9b53e324e060ee11d8d31ededf0f6b7f5020443c835331
+catalogue-contact-repository https://github.com/texdoc/l2kurz
+catalogue-ctan /info/lshort/german
+catalogue-date 2018-04-09 00:59:18 +0200
+catalogue-license opl
+catalogue-topics tut-latex german-doc
+catalogue-version 3.0c

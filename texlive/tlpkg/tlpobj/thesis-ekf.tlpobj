@@ -1,0 +1,24 @@
+name thesis-ekf
+category Package
+revision 49269
+shortdesc Thesis class for Eszterhazy Karoly University
+longdesc This is a class file for theses and dissertations at the
+longdesc Eszterhazy Karoly University (Eger, Hungary). It is based on
+longdesc the report class. The documentation is in Hungarian.
+containersize 45948
+containerchecksum 7ae46e8df85b6ad7695be47b179a639c00d7e399e42325358e89251f0733bb4fc8896f423f9e34bf086d776955ff09426fe9ac6baa4da4400619587b1d0ca062
+doccontainersize 276536
+doccontainerchecksum 4b0b8817d79626db6305854c3dae87656c67411e6c353adc9f96efc5532e9c2769bc59146afa6215b91aadb7f97e3c258944aa2b248722997eb6d214c38b73b5
+srccontainersize 6968
+srccontainerchecksum 664362fb2f54e59e5352ff4bb2318c84c27d47482c9fabf0896287b7a8613cab824ea5461f3704d295994d0a7a23b44550d090e7032396bcd9d1af633f16e4f8
+runfiles size=29
+ texmf-dist/tex/latex/thesis-ekf/eszterhazy-logo-en.eps
+ texmf-dist/tex/latex/thesis-ekf/eszterhazy-logo-en.pdf
+ texmf-dist/tex/latex/thesis-ekf/eszterhazy-logo-hu.eps
+ texmf-dist/tex/latex/thesis-ekf/eszterhazy-logo-hu.pdf
+ texmf-dist/tex/latex/thesis-ekf/thesis-ekf.cls
+catalogue-ctan /macros/latex/contrib/thesis-ekf
+catalogue-date 2018-11-28 08:16:50 +0100
+catalogue-license lppl1.2
+catalogue-topics dissertation class
+catalogue-version 2.3

@@ -1,0 +1,28 @@
+name gitfile-info
+category Package
+revision 50885
+shortdesc Get git metadata for a specific file
+longdesc If you are using git to control versions of LaTeX-files, you
+longdesc may want to show yourself or other users or devs the current
+longdesc version of the file, information about the author and last
+longdesc edited date. All packages for git known make that kind of
+longdesc information available for the whole repository. But sometimes
+longdesc you have a lot of files within the same repository in different
+longdesc versions, from different authors etc. Perhaps you also split up
+longdesc a big project in small files and want to show within the
+longdesc document who had edited what. This package gives you the
+longdesc opportunity to do so.
+containersize 2684
+containerchecksum 88abbc4728d5429db5f86c4e7a60d53a29eff9dba4d3deed5badcfbb5afcc64a98a98bbb8f119b8378ae56c773f673add15848ddfa96e640e99471b18b2eb311
+doccontainersize 571356
+doccontainerchecksum 11291a76aa2250993ba68452be3471ff1516214265fb20dbcd22be818d56d176fc6015cc053033657c218bfca7658d3d15b803e8eea76b96d889a4c6aeed4fd7
+srccontainersize 11344
+srccontainerchecksum c5527f917658139c7fa7cc98fc26d37a143504b09ef167612d50154d7b88ef3b5278bf1cec9831f88cf31ce515439ec591191ec82da02ef75a2b12fc01065cb9
+runfiles size=2
+ texmf-dist/tex/latex/gitfile-info/gitfile-info.sty
+catalogue-also gitinfo2
+catalogue-ctan /support/gitfile-info
+catalogue-date 2019-04-09 20:48:15 +0200
+catalogue-license lppl1.3
+catalogue-topics version-control
+catalogue-version 0.4

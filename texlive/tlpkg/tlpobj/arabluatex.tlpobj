@@ -1,0 +1,39 @@
+name arabluatex
+category Package
+revision 50571
+shortdesc ArabTeX for LuaLaTeX
+longdesc This package provides for LuaLaTeX an ArabTeX-like interface to
+longdesc generate Arabic writing from an ascii transliteration. It is
+longdesc particularly well-suited for complex documents such as
+longdesc technical documents or critical editions where a lot of
+longdesc left-to-right commands intertwine with Arabic writing.
+longdesc arabluatex is able to process any ArabTeX input notation. Its
+longdesc output can be set in the same modes of vocalization as ArabTeX,
+longdesc or in different roman transliterations. It further allows many
+longdesc typographical refinements. It will eventually interact with
+longdesc some other packages yet to come to produce from .tex source
+longdesc files, in addition to printed books, TEI xml compliant critical
+longdesc editions and/or lexicons that can be searched, analyzed and
+longdesc correlated in various ways.
+containersize 19196
+containerchecksum 53a6524c6d10975d9146acd93aec62f57175c8403dd23c4844a0ba987ddcdef7dd122132c8540733ce5c8f4f8f2f589d4ecd0c10b0ad8f2164b0886a5b8ae6b5
+doccontainersize 773200
+doccontainerchecksum fe2a14e2e02c125c9042715766abfbc7a634103843475b15ffa7166b18e33e5e9c8d39481722a19963b79affdc88c3283ada72abb60f05b09a17fba999d06442
+srccontainersize 52832
+srccontainerchecksum 8fbbcd24cd141d0e79232ba5e7d26cf95a554e903a1dd73e78d53c2e7d79f961a6b86bea0e880ae2ac919a5fcfaa44c72ee000d86b0a268cdeb16ffc98455c75
+runfiles size=44
+ texmf-dist/tex/lualatex/arabluatex/arabluatex-patch.sty
+ texmf-dist/tex/lualatex/arabluatex/arabluatex.lua
+ texmf-dist/tex/lualatex/arabluatex/arabluatex.sty
+ texmf-dist/tex/lualatex/arabluatex/arabluatex_fullvoc.lua
+ texmf-dist/tex/lualatex/arabluatex/arabluatex_novoc.lua
+ texmf-dist/tex/lualatex/arabluatex/arabluatex_trans.lua
+ texmf-dist/tex/lualatex/arabluatex/arabluatex_voc.lua
+catalogue-contact-bugs https://gitlab.com/ralessi/arabluatex/issues
+catalogue-contact-home http://www.robertalessi.net/arabluatex
+catalogue-contact-repository http://git.robertalessi.net/arabluatex
+catalogue-ctan /macros/luatex/latex/arabluatex
+catalogue-date 2019-03-24 19:58:51 +0100
+catalogue-license gpl3+cc-by-sa-4
+catalogue-topics multilingual arabic luatex
+catalogue-version 1.17

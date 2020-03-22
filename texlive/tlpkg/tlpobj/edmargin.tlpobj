@@ -1,0 +1,26 @@
+name edmargin
+category Package
+revision 27599
+shortdesc Multiple series of endnotes for critical editions
+longdesc Edmargin provides a very simple scheme for endnote sections for
+longdesc critical editions. Endnotes can either be marked in the text,
+longdesc or with marginal references to the page in the note sections
+longdesc where the note is to be found. Notes can be set in individual
+longdesc paragraphs, or in block paragraph mode (where there are many
+longdesc short notes). Note sections will have running headers of the
+longdesc form "Textual notes to pp. xx--yy". New note sections can be
+longdesc created on the fly. There are predefined endnote sections for
+longdesc textual notes, emendations, and explanatory notes.
+containersize 4676
+containerchecksum 242e7eff25ffb539353b73c18d31a268efaebe4fb51d9ba1cf376346e559ea2fb380743b29056aeb8e4db2065a660bf59e7c8dcf5469f91c39135be2b8c9527c
+doccontainersize 300996
+doccontainerchecksum da77df03b3eb89daa0a544d61c88956a7105073110dd9e1f4d1a753805bdf722a63f5a9674897f4f09a92f689d6bbafc190c870cf5784e02df7efed781dbbcee
+srccontainersize 14440
+srccontainerchecksum 6f3b848e12b92f773ed23f51bcfcd52fbb8209906b937486c87ee34cbe29d40739cb6c20799ce64bfbe7b0e3dfb96d604aaccd005ecc1dbb7126bf5302d3c814
+runfiles size=6
+ texmf-dist/tex/latex/edmargin/edmargin.sty
+catalogue-ctan /macros/latex/contrib/edmargin
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics crit-ed notes
+catalogue-version 1.2

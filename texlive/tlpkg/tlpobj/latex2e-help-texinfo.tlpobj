@@ -1,0 +1,22 @@
+name latex2e-help-texinfo
+category Package
+revision 48918
+shortdesc Unofficial reference manual covering LaTeX2e
+longdesc The manual is provided as Texinfo source (which was originally
+longdesc derived from the VMS help file in the DECUS TeX distribution of
+longdesc 1990, with many subsequent changes). This is a collaborative
+longdesc development, and details of getting involved are to be found on
+longdesc the package home page. A French translation is available as a
+longdesc separate package. All the other formats in the distribution are
+longdesc derived from the Texinfo source, as usual.
+containersize 728
+containerchecksum dabdf3a20bcc6740b7feea1c444b2423dc54a97d0118411d44acfaca31259782eb49bf68b144ab553a9f865ec47557bcd47503b1f1dcbb69ae3302d94bdce715
+doccontainersize 1725896
+doccontainerchecksum 0a3cd8f22e15709b056d6ace9fe0c8d348ac8bc808fe8cc98498b3d14747eba9f6e9838375b0ab8226694ac8dd45027c62ffc1949c3e1a42f9f182f346df0123
+catalogue-contact-bugs https://puszcza.gnu.org.ua/bugs/?group=latexrefman
+catalogue-contact-home http://puszcza.gnu.org.ua/projects/latexrefman/
+catalogue-contact-support http://lists.tug.org/latexrefman
+catalogue-ctan /info/latex2e-help-texinfo
+catalogue-date 2018-10-16 05:44:44 +0200
+catalogue-license pd
+catalogue-topics ref-latex documentation spanish-doc

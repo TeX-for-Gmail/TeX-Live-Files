@@ -1,0 +1,17 @@
+name rectopma
+category Package
+revision 19980
+shortdesc Recycle top matter
+longdesc Saves the arguments of \author and \title for reference (after
+longdesc \maketitle) in a document. (\maketitle simply disposes of the
+longdesc information, in the standard classes and some others.)
+containersize 1628
+containerchecksum 17a297d7862eeb8c48788e40fd761fd42b37fa7b49b7447e00e828f1a7e0f2e411eee357507d79bfe0441c7feada9e06fb18ee5ce0af87e7aeec7ae618e22d83
+doccontainersize 115552
+doccontainerchecksum 27ae9a381a685373a980e13b9b5c3f6057f98224a7c9659edc0c056a6292e7289ed9772f3a503e8de3ea93b796f271dafeba57f6e240caaf738003e1ab848e46
+runfiles size=1
+ texmf-dist/tex/latex/rectopma/rectopma.sty
+catalogue-ctan /macros/latex/contrib/rectopma
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp

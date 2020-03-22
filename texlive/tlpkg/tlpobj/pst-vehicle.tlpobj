@@ -1,0 +1,21 @@
+name pst-vehicle
+category Package
+revision 45320
+shortdesc A PSTricks package for rolling vehicles on graphs of mathematical functions
+longdesc This package permits to represent vehicles rolling without
+longdesc slipping on mathematical curves. Different types of vehicles
+longdesc are proposed, the shape of the curve is to be defined by its
+longdesc equation "y=f(x)" in algebraic notation.
+containersize 8564
+containerchecksum 4e5a5dc0227641a8b8f96913cfd513279c91f841fa1dd5960015ad79d5877a86cafcf87db38bd692611d5afd73a8a91505822d83433299db4efa9e4975a8da42
+doccontainersize 2315424
+doccontainerchecksum 1183b285d9438c7360f2cef9c40d86424ed2891d36a4aee6281e57b84773dd6b2366ca6c2bcff200911e583bd11f2f5aa9615b45656a240b28b1809acacf4145
+runfiles size=10
+ texmf-dist/tex/generic/pst-vehicle/ListVehicles.tex
+ texmf-dist/tex/generic/pst-vehicle/pst-vehicle.tex
+ texmf-dist/tex/latex/pst-vehicle/pst-vehicle.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-vehicle
+catalogue-date 2017-09-16 20:11:01 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths pstricks graphics-use
+catalogue-version 1.2

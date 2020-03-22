@@ -1,0 +1,32 @@
+name pdfreview
+category Package
+revision 50100
+shortdesc Annotate PDF files with margin notes
+longdesc This package lets you add comments in the page margins of PDF
+longdesc files, e.g. when reviewing manuscripts or grading reports. The
+longdesc PDF file to be annotated is included, one page at a time, as
+longdesc graphics, in a manner similar to the pdfpages package. Notes
+longdesc are placed in the margin next to the included graphics using a
+longdesc grid of help lines. Alternatively, only numbers are placed in
+longdesc the page margins, and the notes are collected into a numbered
+longdesc list at the end of the document. Note that this package is not
+longdesc intended for adding notes directly to the LaTeX source of the
+longdesc document that is being reviewed; instead, the document
+longdesc undergoing review is already in PDF format and remains
+longdesc unchanged. Also note that this package does not produce the
+longdesc usual PDF "sticky notes" that must be opened by clicking on
+longdesc them; instead, the notes are simply shown as text. This package
+longdesc depends on the following other LaTeX package: adjustbox, calc,
+longdesc geometry, graphicx, grffile, ifthen, kvoptions, tikz, ulem, and
+longdesc xstring.
+containersize 6448
+containerchecksum 1cb41c081230f601eb627d81118a3832597e97c2e0565f48f584e8f4b6d039ce903cdca54fea4591a5c9707d5145ff45470858dd2e39d3b18a2e964cb380301f
+doccontainersize 576684
+doccontainerchecksum 72f7a2083c7bfae24d3a4cae397925f9d02555587c59cfea8d78b8fcc0de5db24367968fd27799f4148865ca7c2a4c2dacd11269d1d71c36f039fdc913a532e2
+runfiles size=5
+ texmf-dist/tex/latex/pdfreview/pdfreview.sty
+catalogue-ctan /macros/latex/contrib/pdfreview
+catalogue-date 2019-02-22 22:30:44 +0100
+catalogue-license lppl
+catalogue-topics graphics-incl marginal editorial teaching
+catalogue-version 1.2

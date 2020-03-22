@@ -1,0 +1,25 @@
+name context-filter
+category ConTeXt
+revision 48390
+shortdesc Run external programs on the contents of a start-stop environment
+longdesc The filter module provides a simple interface to run external
+longdesc programs on the contents of a start-stop environment. Options
+longdesc are available to run the external program only if the content
+longdesc of the environment has changed, to specify how the program
+longdesc output should be read back, and to choose the name of the
+longdesc temporary files that are created. The module is compatible with
+longdesc both MkII and MkIV.
+depend context
+containersize 6480
+containerchecksum 330e7085ce8d3e284c9e4cff349b351b862cf7e6544f736268b01d623370658de507176d3bf957f5b2bb2da28523a9b5543b091cf1dad0711f0cd38b2da30fb6
+doccontainersize 10312
+doccontainerchecksum f27471636d5fdfeec2d47fe901b87fb56613bed3fbf95c5580c531c5643c919b890c38aa4f33d12252d06c9c3a681c112b052de6dbaf279374c7a87b7b9ce957
+runfiles size=12
+ texmf-dist/tex/context/third/filter/t-filter.mkii
+ texmf-dist/tex/context/third/filter/t-filter.mkiv
+ texmf-dist/tex/context/third/filter/t-module-catcodes.mkii
+ texmf-dist/tex/context/third/filter/t-module-catcodes.mkiv
+catalogue-ctan /macros/context/contrib/context-filter
+catalogue-date 2018-08-11 06:19:01 +0200
+catalogue-license bsd2
+catalogue-topics ext-code

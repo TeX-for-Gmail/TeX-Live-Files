@@ -1,0 +1,23 @@
+name templates-fenn
+category Package
+revision 15878
+shortdesc Templates for TeX usage
+longdesc A set of templates for using LaTeX packages that the author
+longdesc uses, comprising: - scrlttr2.tex: a letter, written with
+longdesc scrlttr2.cls from the KOMA-Script bundle; - dinbrief.tex: a
+longdesc letter according to the German (DIN) standards, written with
+longdesc dinbrief.cls; - kbrief.tex: a brief memo ('Kurzbrief') to
+longdesc accompany enclosures, as used in German offices, again based on
+longdesc dinbrief; - vermerk.tex: a general form for taking down notes
+longdesc on events in the office; and - diabetes.tex: a diary for the
+longdesc basis-bolus insulin therapy of diabetes mellitus, using
+longdesc scrartcl.cls from the KOMA-Script bundle.
+containersize 704
+containerchecksum cc61496f15f9c4060c8d42de23e3bf6f6d2be02d3a8b4fb761f2fda4a9c3565d74bf1f107dd9371e096bef79ddbdef56d2e696cd84cb4fe39a41986b8ffbbc78
+doccontainersize 5992
+doccontainerchecksum 2a96b0963b2d09edd3f6a6866ae298001e6ccd4e96b98a9002df6e6718284a786b63761441c287ddd63dd5eba636fcb8ce9769d498962ffe2565e771902755e1
+catalogue-contact-home http://www.juergenfenn.de/tex.html
+catalogue-ctan /info/templates/fenn
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics doc-templ

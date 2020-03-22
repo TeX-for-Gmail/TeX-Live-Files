@@ -1,0 +1,23 @@
+name download
+category Package
+revision 30695
+shortdesc Allow LaTeX to download files using an external process
+longdesc The package allows the user to download files (using cURL or
+longdesc wget), from within a document. To run the external commands,
+longdesc LaTeX (or whatever) needs to be run with the --shell-escape
+longdesc flag; this creates a tension between your needs and the
+longdesc security implications of the flag; users should exercise due
+longdesc caution.
+containersize 1992
+containerchecksum 57c40307dc3e96576599b595549b01af8c51e8806e2672686d0811c455b1c48490d1c3400d506a8ba7ca0f32a9d56bdb2dcfe4e21190e2d0d6f2ae0860c726a9
+doccontainersize 144848
+doccontainerchecksum 517a9382bf8547bd9a9a74e18b339c99febbcdd34d7192bbb73a6d69bf898600340aca609aeb07cde7f4bc194858ca280d02df6bc1c895678d6d0405e7a4086f
+srccontainersize 5452
+srccontainerchecksum ef5b3e9db3aece34e97dd05ea0c592ac7cafb1e5f725b194521f198e6894d665a4b9ca7e4992e90257d1cc6b998660624a29b22757b9ca67a0355cd4e63d557e
+runfiles size=2
+ texmf-dist/tex/latex/download/download.sty
+catalogue-ctan /macros/latex/contrib/download
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics ext-code
+catalogue-version 1.1

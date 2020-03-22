@@ -1,0 +1,23 @@
+name glossaries-estonian
+category Package
+revision 49928
+shortdesc Estonian language module for glossaries package
+longdesc This package provides the Estonian language module for the
+longdesc glossaries package.
+containersize 1960
+containerchecksum 48eac96868bbeb636bc8d4352cbc1959829daab75716b3dea2ef98d98e388a2668a2ea1e35cc46f53e9ee030aa07dcef3e528f056f59d49883f0a00380785bcc
+doccontainersize 22288
+doccontainerchecksum 5f957f53acaf6b56e338b606843cfa2ddd16dccef6bd2c74844e514c157ddbc3c5c24168cbe28c67894afab8d115460fd497de91f0142bbec3d1987d5889925f
+srccontainersize 2440
+srccontainerchecksum f2d2ddecc5a338f844a9b98d50e636d69d31866e723e3aa261ddc5ac2d8349d01e76afdf9cc6b7a4b4d96dadee78ea6933c0d1c69d1196f11770c92cef356fb2
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-estonian/glossaries-estonian-ascii.ldf
+ texmf-dist/tex/latex/glossaries-estonian/glossaries-estonian-utf8.ldf
+ texmf-dist/tex/latex/glossaries-estonian/glossaries-estonian.ldf
+catalogue-contact-bugs https://github.com/keeleleek/glossaries-estonian/issues
+catalogue-contact-repository https://github.com/keeleleek/glossaries-estonian
+catalogue-ctan /macros/latex/contrib/glossaries-estonian
+catalogue-date 2019-02-05 05:26:48 +0100
+catalogue-license lppl1.3
+catalogue-topics glossary estonian
+catalogue-version 1.0

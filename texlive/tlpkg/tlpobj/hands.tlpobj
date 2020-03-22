@@ -1,0 +1,20 @@
+name hands
+category Package
+revision 13293
+shortdesc Pointing hand font
+longdesc Provides right- and left-pointing hands in both black-on-white
+longdesc and white-on-black realisation. The font is distributed as
+longdesc Metafont source.
+containersize 2612
+containerchecksum 77c1742d045110ee4da7473b14c1804fcfab3772ae10223848fee99c7c8a8fb3809aabeb82e4c99460f3cfa0e009ee8d470d60e8be4c79c25c3ff990b7d1595a
+runfiles size=6
+ texmf-dist/fonts/source/public/hands/hands.mf
+ texmf-dist/fonts/source/public/hands/handsdef.mf
+ texmf-dist/fonts/source/public/hands/mirror.mf
+ texmf-dist/fonts/source/public/hands/reverse.mf
+ texmf-dist/fonts/source/public/hands/rvmirror.mf
+ texmf-dist/fonts/tfm/public/hands/hands.tfm
+catalogue-ctan /fonts/hands
+catalogue-date 2019-02-03 12:27:12 +0100
+catalogue-license pd
+catalogue-topics font font-mf font-symbol

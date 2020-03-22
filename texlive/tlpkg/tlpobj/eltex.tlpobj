@@ -1,0 +1,27 @@
+name eltex
+category Package
+revision 15878
+shortdesc Simple circuit diagrams in LaTeX picture mode
+longdesc The macros enable the user to draw simple circuit diagrams in
+longdesc the picture environment, with no need of special resources. The
+longdesc macros are appropriate for drawing for school materials. The
+longdesc circuit symbols accord to the various parts of the standard IEC
+longdesc 617.
+containersize 12888
+containerchecksum 6de1507df2fe408081aad0f75b69d7c21807f238d37e3c6d9cd243b741ae1761aced90e948a0c570f28db5a39616954412fc77a87482c890183f039923915c05
+doccontainersize 176308
+doccontainerchecksum 1bdd0f64c524def46dd0a20482b9ad6925b0d06ea272b05d6163a23f61ad1727b099a893f5af7a7de4140bd264b1d3503794a4c9c11cf8137c5c6070d08fe0e3
+runfiles size=26
+ texmf-dist/tex/latex/eltex/eltex1.tex
+ texmf-dist/tex/latex/eltex/eltex2.tex
+ texmf-dist/tex/latex/eltex/eltex3.tex
+ texmf-dist/tex/latex/eltex/eltex4.tex
+ texmf-dist/tex/latex/eltex/eltex5.tex
+ texmf-dist/tex/latex/eltex/eltex6.tex
+ texmf-dist/tex/latex/eltex/eltex7.tex
+catalogue-also circuit-macros circuitikz
+catalogue-ctan /macros/latex/contrib/eltex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics diagram-circ
+catalogue-version 2.0

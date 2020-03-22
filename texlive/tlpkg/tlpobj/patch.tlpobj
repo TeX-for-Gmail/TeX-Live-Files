@@ -1,0 +1,21 @@
+name patch
+category Package
+revision 42428
+shortdesc Patch loaded packages, etc.
+longdesc The package defines macros that allow patching of existing
+longdesc commands, specifying those parts of the existing macro to be
+longdesc replaced, along with the replacements. Thus it provides more
+longdesc sophisticated manipulation than a package like patchcmd, which
+longdesc only permits modification by adding commands at the beginning
+longdesc or end of an existing definition. The package is distributed in
+longdesc a relative of LaTeX doc format: it will run unmodified, though
+longdesc it benefits from docstrip treatment.
+containersize 652
+containerchecksum 0ddcaa07696216f9fdea55471e1265fcaa71dd8ba2b8a50690dd519ad8b9442015502ec59b8f9f05c79f5031be3de2956cd71af58153dea8e1917f33c246fa63
+srccontainersize 8844
+srccontainerchecksum ada97aba615160b3c30c9cdccf3360f3692612bc702247ae3fa44f7821aefa2ee60c89ab79417b0ff658335768512a0d8d9b5b17df619c57d169f6487d39e5bf
+catalogue-also patchcmd etoolbox
+catalogue-ctan /macros/generic/misc/patch.doc
+catalogue-date 2016-07-19 10:17:45 +0200
+catalogue-license lppl
+catalogue-topics macro-supp

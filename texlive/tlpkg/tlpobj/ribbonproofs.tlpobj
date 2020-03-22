@@ -1,0 +1,20 @@
+name ribbonproofs
+category Package
+revision 31137
+shortdesc Drawing ribbon proofs
+longdesc The package provides a way to draw "ribbon proofs" in LaTeX. A
+longdesc ribbon proof is a diagrammatic representation of a mathematical
+longdesc proof that a computer program meets its specification. These
+longdesc diagrams are more human-readable, more scalable, and more
+longdesc easily modified than the corresponding textual proofs.
+containersize 11420
+containerchecksum 88d1ea87819bef7f8e70e0df273315981c28ffdbc00247431afb8b92959aa2e0a3e489b01f7571d30ffaf3606d240f25bee6487fc704f39417146a93403bcb3b
+doccontainersize 335072
+doccontainerchecksum d0efb33c19d632253384182b562cf0e0aa10be81ce2336992c83ca7d25abce37c44b152cc8e928cdac90709cb99a4a5caf3ce8a631b13762aee7b39ad92da3a2
+runfiles size=14
+ texmf-dist/tex/latex/ribbonproofs/ribbonproofs.sty
+catalogue-ctan /macros/latex/contrib/ribbonproofs
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics proof
+catalogue-version 1.0

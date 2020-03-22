@@ -1,0 +1,24 @@
+name lua-check-hyphen
+category Package
+revision 47527
+shortdesc Mark hyphenations in a document, for checking
+longdesc The package looks at all hyphenation breaks in the document,
+longdesc comparing them against a white-list prepared by the author. If
+longdesc a hyphenation break is found, for which there is no entry in
+longdesc the white-list, the package flags the line where the break
+longdesc starts. The author may then either add the hyphenation to the
+longdesc white-list, or adjust the document to avoid the break.
+containersize 3628
+containerchecksum 89cd0a13578d386bbf584f3c74c6c3ee1a45a7c0bf40480e5396f86b2af29b26abe3ab8aac69be0f1fe23cceb6da33237ea38384854fdfc7be6939832a8cad08
+doccontainersize 116564
+doccontainerchecksum cd756e0356b36ccd26d1d78c67026f5a27272ac383bdfc6f44ddb630f58d067c05fb9152f1ed9793d71a63af6607107b8d4b5af311563e2c3d966079b2d3e0c1
+runfiles size=4
+ texmf-dist/tex/lualatex/lua-check-hyphen/lua-check-hyphen.lua
+ texmf-dist/tex/lualatex/lua-check-hyphen/lua-check-hyphen.sty
+catalogue-contact-bugs https://github.com/pgundlach/lua-check-hyphen/issues
+catalogue-contact-repository https://github.com/pgundlach/lua-check-hyphen
+catalogue-ctan /macros/luatex/latex/lua-check-hyphen
+catalogue-date 2018-04-19 21:24:30 +0200
+catalogue-license mit
+catalogue-topics hyphenation luatex
+catalogue-version 0.7a

@@ -1,0 +1,27 @@
+name belleek
+category Package
+revision 18651
+shortdesc Free replacement for basic MathTime fonts
+longdesc This package replaces the original MathTime fonts, not
+longdesc MathTime-Plus or MathTime Professional (the last being the only
+longdesc currently available commercial bundle).
+execute addMap belleek.map
+containersize 83284
+containerchecksum cdc7499ec32c26ac524caecc6b5c1f30f3ded83d78756b198b918d321696f378e6487f528cb3781a44f3485110dfff14a14c9b3306e22ae79a8d262c1f1baea4
+doccontainersize 720
+doccontainerchecksum e974e00c2e43d01d598c18f664e8ca3ca9259ca55089598c77468d6f50d0cc9a64d4fc23154bf9ba7acf3b9b9ca406beff24623eae5b6c3ce4c167904e5fb720
+srccontainersize 596
+srccontainerchecksum 27ea3f4dd1ba7919bf06dfcdcf7b1ca4fa609759a58dffd91fdb2a55662e58e14e19d855d93ec932d176060ee332d89e02c9d2965ec545adfb10f3f486f8875d
+runfiles size=34
+ texmf-dist/fonts/map/dvips/belleek/belleek.map
+ texmf-dist/fonts/truetype/public/belleek/blex.ttf
+ texmf-dist/fonts/truetype/public/belleek/blsy.ttf
+ texmf-dist/fonts/truetype/public/belleek/rblmi.ttf
+ texmf-dist/fonts/type1/public/belleek/blex.pfb
+ texmf-dist/fonts/type1/public/belleek/blsy.pfb
+ texmf-dist/fonts/type1/public/belleek/rblmi.pfb
+catalogue-contact-home http://truetex.com
+catalogue-ctan /fonts/belleek
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license pd
+catalogue-topics font font-maths font-type1

@@ -1,0 +1,14 @@
+name lshort-bulgarian
+category Package
+revision 15878
+shortdesc Bulgarian translation of the "Short Introduction to LaTeX2e"
+longdesc The source files, PostScript and PDF files of the Bulgarian
+longdesc translation of the "Short Introduction to LaTeX 2e".
+containersize 424
+containerchecksum b528c16903ca8ed5ce69f5e2397dff8f05b13016384bc1304980cad71d86bbb55004d41db92dc29dd412a12b9a0a1b1ea99afcbea621a25bb20da4639d008776
+doccontainersize 1899640
+doccontainerchecksum 7cd22cad45d7ef2972679cf2a3653c3bbcb1d9bcfe94a65fb9dac23760de05b659470ca45cf8be13513924fa1cbb98599a304a51bc18f8f4d6631f082e662bc4
+catalogue-ctan /info/lshort/bulgarian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics tut-latex bulgarian

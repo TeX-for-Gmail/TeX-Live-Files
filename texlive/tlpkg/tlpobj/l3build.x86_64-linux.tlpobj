@@ -1,0 +1,8 @@
+name l3build.x86_64-linux
+category Package
+revision 46894
+shortdesc x86_64-linux files of l3build
+containersize 340
+containerchecksum 0f29977ad0a457e82bbb9c77dfceb72a7408d3a6bc2279bfe7c3b2064b28ab8d62fc5ed6c74b5f34af75317ca8fec2ffa218f3c879e7d4349330057259d778a7
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/l3build

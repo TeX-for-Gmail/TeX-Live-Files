@@ -1,0 +1,26 @@
+name multicolrule
+category Package
+revision 49579
+shortdesc Decorative rules between columns
+longdesc This package lets you customize the appearance of the vertical
+longdesc rule that appears between columns of multicolumn text. It is
+longdesc primarily intended to work with the multicol package, hence its
+longdesc name, but also supports the twocolumn option and \twocolumn
+longdesc macro provided by the standard classes (and related classes
+longdesc such as the KOMA-Script equivalents). The package depends on
+longdesc expl3 and xparse.
+containersize 3848
+containerchecksum 0537c6387267aec6c1e867f2368a6de463521f5174fd9cd05a879e105ce11abeeaab7605d481dfa8033329e4139f2b63e53af2c7c28fb0a009ea7f44a6085446
+doccontainersize 598808
+doccontainerchecksum 93236dd20077c60afe44b70d913fe761b3be10ea1681d052613fd7bfc5931910b862948b9ba93883a4cd197d996041ce18a4b05730e4eef819bda1cdc4469c44
+srccontainersize 17532
+srccontainerchecksum 79354e1958e4dc5836991378c5504d7308349249a6f8663ef8cb099ca00d59debdab948f6260f731c5f0a2a8fe1a5882d76729f703775776a81da308d46ee149
+runfiles size=4
+ texmf-dist/tex/latex/multicolrule/multicolrule.sty
+catalogue-contact-bugs https://github.com/polysyllabic/multicolrule/issues
+catalogue-contact-repository https://github.com/polysyllabic/multicolrule
+catalogue-ctan /macros/latex/contrib/multicolrule
+catalogue-date 2019-01-01 23:43:18 +0100
+catalogue-license lppl1.3c
+catalogue-topics decoration rule line-patt line-weight expl3
+catalogue-version 1.2

@@ -1,0 +1,19 @@
+name luatex85
+category Package
+revision 41456
+shortdesc pdfTeX aliases for LuaTeX
+longdesc The package provides emulation of pdfTeX primitives for LuaTeX
+longdesc v0.85+.
+containersize 1740
+containerchecksum fbc1306d40e1c329a106d7ec4ef79ebb99b2869ce72c45212b87fa03f66a18b1636324dafc739a33500be77bee2c71ebeff02c97c42f85716f5bded4dcebc021
+doccontainersize 171144
+doccontainerchecksum 4bf353f60c305ea76e66848920e521dec0c66c80f71ebdfb0593acfc9e2914eac272eba3d69f63f43fe8be903cfbb2da7edd82cbc3d38a897934d91f1ac276b7
+srccontainersize 3788
+srccontainerchecksum 40f2732ba0eea372d084c7a9096e12de76a6f7c4ee2c8c9c042ae51696ca46fb527aa73dfb37b7c6a1a75f9753ed32b28fb9d3f2474cfd54528336b4a3cc95e6
+runfiles size=2
+ texmf-dist/tex/generic/luatex85/luatex85.sty
+catalogue-ctan /macros/generic/luatex85
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics lua-supp
+catalogue-version 1.4

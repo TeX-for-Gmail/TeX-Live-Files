@@ -1,0 +1,24 @@
+name ltxtools
+category Package
+revision 24897
+shortdesc A collection of LaTeX API macros
+longdesc This is a bundle of macros that the author uses in the coding
+longdesc of others of his macro files.
+containersize 51564
+containerchecksum aed74d79bd9da7f7303cd14db5c2a74aab51de03e87a84986b294019a971eb68a445cace8af2394631fc4ec6963ad32347c47a80612f70a7427adeb689d3cf36
+doccontainersize 1024
+doccontainerchecksum e0a8b28f512a15fec379aeb3350c0611a77652531a66ee5a39010400fe5d1416c40bf6bd89d4e967851b09ad5d11b1d83ead675a0a722255a0e941980d74d1d5
+runfiles size=73
+ texmf-dist/tex/latex/ltxtools/ltxtools-base.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-doc.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-environ.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-incluput.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-index.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-review.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools-trace.sty
+ texmf-dist/tex/latex/ltxtools/ltxtools.sty
+catalogue-ctan /macros/latex/contrib/ltxtools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.0.1a

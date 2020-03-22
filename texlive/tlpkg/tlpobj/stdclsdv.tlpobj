@@ -1,0 +1,21 @@
+name stdclsdv
+category Package
+revision 15878
+shortdesc Provide sectioning information for package writers
+longdesc The stdclsdv package is designed for package writers who need
+longdesc to know what sectioning divsions are provided by the document's
+longdesc class. It also provides a version of \CheckCommand that sets a
+longdesc flag rather than printing a warning.
+containersize 1500
+containerchecksum 88d8abc04d10f029a9ce0fe9025497afe3eba3dcc300631fd37baa8174bdec8dff44fbde07599ac8dd6635be27294c359c77178690a4e6c97f41d15f9d2abbd4
+doccontainersize 127960
+doccontainerchecksum 8321d823ffa159071f66d87d38fa38ba3af03f6c69999a041d765f0fda8549547da4b8eae86efce82109679284dd912f2c5494b5ef6e76c73c467cf4eb87aa2b
+srccontainersize 5384
+srccontainerchecksum 4a9987bcbb557b7923c6c2a5c58dd117fd7b56f58b3df55154514075b68bc59a8928fdfe275dbf328ab2bd5b6608b193ad5ff07b95e7bfd2d79eb632837e5469
+runfiles size=1
+ texmf-dist/tex/latex/stdclsdv/stdclsdv.sty
+catalogue-ctan /macros/latex/contrib/stdclsdv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.1a

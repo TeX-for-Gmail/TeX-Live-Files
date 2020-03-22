@@ -1,0 +1,35 @@
+name phonenumbers
+category Package
+revision 48355
+shortdesc Typesetting telephone numbers with LaTeX
+longdesc The phonenumbers package makes it possible to typeset telephone
+longdesc numbers according to different national conventions. German,
+longdesc Austrian, French, British and North American phone numbers are
+longdesc supported. Phone numbers from other countries are supported
+longdesc rudimentarily. The user can select from various formatting
+longdesc options, including the additional output of the country calling
+longdesc code. The package is able to check if a phone number is valid
+longdesc according to the national rules. It also allows to link phone
+longdesc numbers using the hyperref package.
+containersize 69960
+containerchecksum a005f7bee8b114a47f4e4b890375715b787dece4b206cfe03e8067057fd39a34b4f1da3691d61e46359252b463d352f7180e87f5523fabb0c73e0918ebdeceb4
+doccontainersize 1113632
+doccontainerchecksum 6799ab8049e2cae39ae946c5683b9f5083cb7a1b47a5a6e769613c6fa7a035012e534635bfd2f953b61f2e47abfcc87ac1b2adeada29c61c8d6b9f20c219a910
+runfiles size=162
+ texmf-dist/tex/latex/phonenumbers/phn-AT_Ortsnamen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-AT_Vorwahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-DE_Ortsnamen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-DE_Vorwahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-FR_Ortsnamen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-FR_Vorwahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-Landeskennzahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-UK_Ortsnamen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-UK_Vorwahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-US_Ortsnamen.tex
+ texmf-dist/tex/latex/phonenumbers/phn-US_Vorwahlen.tex
+ texmf-dist/tex/latex/phonenumbers/phonenumbers.sty
+catalogue-ctan /macros/latex/contrib/phonenumbers
+catalogue-date 2018-08-05 12:59:26 +0200
+catalogue-license lppl1.3
+catalogue-topics addr-list numbers
+catalogue-version 2.1

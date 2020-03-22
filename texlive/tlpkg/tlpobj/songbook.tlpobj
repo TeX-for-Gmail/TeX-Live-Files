@@ -1,0 +1,29 @@
+name songbook
+category Package
+revision 18136
+shortdesc Package for typesetting song lyrics and chord books
+longdesc The package provides an all purpose songbook style. Three types
+longdesc of output may be created from a single input file: "words and
+longdesc chords" books for the musicians to play from, "words only"
+longdesc songbooks for the congregation to sing from, and overhead
+longdesc transparency masters for congregational use. The package will
+longdesc also print a table of contents, an index sorted by title and
+longdesc first line, and an index sorted by key, or by artist/composer.
+longdesc The package attempts to handle songs in multiple keys, as well
+longdesc as songs in multiple languages.
+containersize 9680
+containerchecksum 06f81b35318ee9844565f622b5ecfb0f323373f14acfed3fdd042a244537c313fcc974c8cc556011baed16c5a7f90b8163342d36e360749db240e6eb639351b0
+doccontainersize 1248060
+doccontainerchecksum a8d98e2d3b90ebfc4e8df53ebaf92f2d0deb95034bf234dfeaef1d38213af9a36e38d48599e6e78a7e87fb966de87db821f4de7a6fd50f57c1afb515050bb510
+srccontainersize 43224
+srccontainerchecksum 57fed8f034e860787cd72b2acece0a491832acc526964c75060258db6bd46d77a551b967af41bfeae47d83ab97e4d6c2799c0f4ade405a43812126acc1b3d390
+runfiles size=15
+ texmf-dist/makeindex/songbook/songbook.ist
+ texmf-dist/tex/latex/songbook/conditionals.sty
+ texmf-dist/tex/latex/songbook/songbook.sty
+catalogue-contact-home http://rath.ca/Misc/Songbook/
+catalogue-ctan /macros/latex/contrib/songbook
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lgpl2.1
+catalogue-topics music chords
+catalogue-version 4.5

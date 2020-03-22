@@ -1,0 +1,22 @@
+name modiagram
+category Package
+revision 38448
+shortdesc Drawing molecular orbital diagrams
+longdesc The package provides an environment MOdiagram and some
+longdesc commands, to create molecular orbital diagrams using TikZ. For
+longdesc example, the MO diagram of dihydrogen would be written as:
+longdesc \begin{MOdiagram} \atom{left}{ 1s = {0;up} } \atom{right}{ 1s =
+longdesc {0;up} } \molecule{ 1sMO = {1;pair, } } \end{MOdiagram} The
+longdesc package also needs the l3kernel and l3packages bundles from the
+longdesc LaTeX 3 experimental distribution.
+containersize 8612
+containerchecksum 7a84caae8d6811bed003266283674bf364d18b9d3cb01a440bfca97ee66124b991b4a3dfc9edd07059f02e047892d8cabff81bb0066d449171b669cc872be2fb
+doccontainersize 625648
+doccontainerchecksum cf1ffc9c60773c8860cc4c0021e6af82a719aa02d1ae7c56dc332d1e2fb6bfccab85c09473ad8f62a7219703d792cd4bd9db311834a35a186accd4857661ec37
+runfiles size=20
+ texmf-dist/tex/latex/modiagram/modiagram.sty
+catalogue-ctan /macros/latex/contrib/modiagram
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry diagram expl3
+catalogue-version 0.2g

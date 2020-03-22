@@ -1,0 +1,25 @@
+name flashcards
+category Package
+revision 19667
+shortdesc A class for typesetting flashcards
+longdesc The FlashCards class provides for the typesetting of flash
+longdesc cards. By flash card, we mean a two sided card which has a
+longdesc prompt or a question on one side and the response or the answer
+longdesc on the flip (back) side. Flash cards come in many sizes
+longdesc depending on the nature of the information they contain.
+containersize 3512
+containerchecksum ea1d530296c2b3e11645bbf09b4776394cf1725db5f30f23297818fa68b5a8d1d860d5873755d1be010c8d7a3d01567d878f3a12490fced35f6f825034f1c9f6
+doccontainersize 132668
+doccontainerchecksum f42cef1b5a093861818d03f2df9cc5029546a1bb9b01a4349b815fa26d7320bbb9d596adceadd0583dfee7bf7bf8a011c8296ec06058717a61ddce10baf19e53
+srccontainersize 7560
+srccontainerchecksum c9d90cbb0c0fa854a6d187ffafb20cefad24549083c166a5088dfa05c3240869996bd16097ddf74adcdd658ab953d39021c896eda94dd7ad426e5bd972d78c73
+runfiles size=6
+ texmf-dist/tex/latex/flashcards/avery5371.cfg
+ texmf-dist/tex/latex/flashcards/avery5388.cfg
+ texmf-dist/tex/latex/flashcards/flashcards.cls
+catalogue-also flashcard ecards
+catalogue-ctan /macros/latex/contrib/flashcards
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics card-flash
+catalogue-version 1.0.1

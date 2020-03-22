@@ -1,0 +1,17 @@
+name shadow
+category Package
+revision 20312
+shortdesc Shadow boxes
+longdesc Defines a command \shabox (analgous to \fbox), and supporting
+longdesc mechanisms.
+containersize 1948
+containerchecksum 885bca1090b93545f59b387e952998f65dee0931fb5b680d06667c3bb8172e2aad37e840942b9495134b421bb40b871633eb5de941b3a257618751e789128ca6
+doccontainersize 223584
+doccontainerchecksum 402e64195e247cd2c5106e3bd621705b80c006b2f6cf0b1da14ea459acb7dd97e2ebeda87ec118be3e73bf76edebe3067330498a2875c52c4248add70d7a0a25
+runfiles size=2
+ texmf-dist/tex/latex/shadow/shadow.sty
+catalogue-also fancybox
+catalogue-ctan /macros/latex/contrib/shadow
+catalogue-date 2018-04-18 05:32:44 +0200
+catalogue-license lppl
+catalogue-topics decoration

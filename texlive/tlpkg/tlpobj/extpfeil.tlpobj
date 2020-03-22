@@ -1,0 +1,20 @@
+name extpfeil
+category Package
+revision 16243
+shortdesc Extensible arrows in mathematics
+longdesc The package provides some more extensible arrows (usable in the
+longdesc same way as \xleftarrow from amsmath), and a simple command to
+longdesc create new ones.
+containersize 1672
+containerchecksum 5cfe0172ad420c3ca53c57be33fc56b205ba05a11876e4d14c6d86387788c73370bc0708bee46e43a02f10ce9db4b3611b4ee337ace44fe8fbcb2ca82f88b2f7
+doccontainersize 110584
+doccontainerchecksum 8c2983b2e777e21e95d6ce1b9b4732491ad8a931205adb071877bf966fbbdc4306b88b35db87db4c3fa0bc52cfd333f721de2e1e7d233ba3c91d192a3574171a
+srccontainersize 6536
+srccontainerchecksum 6dfefa85e111b39bd46b2f39ae52e94a053569fbb0b263bdf02996bcb122913cbb999ed6c060e00a12a88e0ea9b187fe2e33a990bd75fd1f6f78082d8859071a
+runfiles size=1
+ texmf-dist/tex/latex/extpfeil/extpfeil.sty
+catalogue-ctan /macros/latex/contrib/extpfeil
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.4

@@ -1,0 +1,13 @@
+name dvipdfmx.x86_64-linux
+category TLCore
+revision 50700
+shortdesc x86_64-linux files of dvipdfmx
+containersize 413008
+containerchecksum 467beb4fcbebf22a77800c79fa3ff87a531e95b7cb2a5bafa2c62dd93c651a353a261b2913385076b7f76999c88050faf005a93d60c36592ec0ff1e461fb5903
+binfiles arch=x86_64-linux size=245
+ bin/x86_64-linux/dvipdfm
+ bin/x86_64-linux/dvipdfmx
+ bin/x86_64-linux/dvipdft
+ bin/x86_64-linux/ebb
+ bin/x86_64-linux/extractbb
+ bin/x86_64-linux/xdvipdfmx

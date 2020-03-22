@@ -1,0 +1,16 @@
+name notex-bst
+category Package
+revision 42361
+shortdesc A BibTeX style that outputs HTML
+longdesc noTeX.bst produces a number of beautifully formatted HTML P
+longdesc elements instead of TeX code. It can be used to automatically
+longdesc generate bibliographies to be served on the web starting from
+longdesc BibTeX files.
+containersize 4412
+containerchecksum 68627ca4a07ed0228b9b9ea4b70cdea5196e907f71f343310259d19464d503e76e2ea8fb5f59f01337916ee1f2ef398bdb1d3e4d97f0d49eac660fdce20590ff
+runfiles size=5
+ texmf-dist/bibtex/bst/notex-bst/noTeX.bst
+catalogue-ctan /biblio/bibtex/utils/misc/noTeX.bst
+catalogue-date 2016-10-28 06:12:41 +0200
+catalogue-license pd
+catalogue-topics bibtex-sty cvt-html

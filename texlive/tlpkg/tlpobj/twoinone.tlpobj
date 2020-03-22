@@ -1,0 +1,18 @@
+name twoinone
+category Package
+revision 17024
+shortdesc Print two pages on a single page
+longdesc The package is for printing two pages on a single (landscape)
+longdesc A4 page. Page numbers appear on the included pages, and not on
+longdesc the landscape 'container' page.
+containersize 1272
+containerchecksum ffb9610d416a15f664bfc34772651af63f76843127290bd64462991b3b892a8bbe9b5a8251e278ce757883226bc07f89f54cf94be08d6bdbe6f68c5841e3a282
+doccontainersize 72400
+doccontainerchecksum 5b79b0b235fda5e32680884702a16fe033f3a617daa765a72233d22df5e217f6d2a617a2d067f6a230985e5144e6e6d733ef6e7060f267c6d22bf5de39361d41
+runfiles size=1
+ texmf-dist/tex/latex/twoinone/2in1.sty
+catalogue-also twoupltx
+catalogue-ctan /macros/latex/contrib/twoinone
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics compact-print plain-ext

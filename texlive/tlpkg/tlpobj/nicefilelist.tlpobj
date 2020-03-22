@@ -1,0 +1,24 @@
+name nicefilelist
+category Package
+revision 28527
+shortdesc Provide \listfiles alignment
+longdesc The package extends longnamefilelist, keeping separate columns
+longdesc for date, version and "caption" (the caption now separately
+longdesc listed). Alignment is not disturbed by short file name
+longdesc extensions, such as ".fd". The package is not compatible with
+longdesc longnamefilelist: users need to re-read the documentation.
+containersize 6364
+containerchecksum 4e3e1b651a5f3828c1806ee199ddff3a022f27381da241f2d9400cc3943d9aa29e0dd56bd10d7fab60da1901f221cb54c74823b35f163ace0efbd3217b767ca3
+doccontainersize 598780
+doccontainerchecksum 5c909c6dce453a7a73abd63896c0916db3f609b7d4283b70af33bfc31ec44e7aa5b3dc2e8d1ef6fb3d33605d23e079db4e7cadf4fa13197823ca3c177b82f527
+srccontainersize 7160
+srccontainerchecksum b7915ca4c8a24ae84b1caea7bbdd395f5c12305a81f193f35ab4bfe91a12a21417e41b5d46b6ca72c69357782a1e6e4a8366e0bad85a9c453759ea6bd1ee4874
+runfiles size=5
+ texmf-dist/tex/latex/nicefilelist/nicefilelist.RLS
+ texmf-dist/tex/latex/nicefilelist/nicefilelist.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/nicefilelist
+catalogue-date 2017-05-06 09:02:27 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-mgmt
+catalogue-version 0.7a

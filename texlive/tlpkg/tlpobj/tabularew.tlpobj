@@ -1,0 +1,20 @@
+name tabularew
+category Package
+revision 15878
+shortdesc A variation on the tabular environment
+longdesc The package offers a modification of the tabular environment,
+longdesc which deals with the problem of column heads that are
+longdesc significantly wider than the body of the column.
+containersize 2128
+containerchecksum 512851ce7641e0904dd25ab8a5cd5ac0dd281154067e09c4389fa3d6f330d30099dc60b252de4ebee52a2cf28d6b7d10bcf63fe4ab1472238db35754adc1dba6
+doccontainersize 142128
+doccontainerchecksum 4b5b8aca9d9be8cc6618d9393278f8da2069341a982cf6cda9e561b64bc158e5c08cf9257b592f82134cd74ce0b69682e15339d9068d9fedcdb26626dc2b8a7b
+srccontainersize 7140
+srccontainerchecksum 9779876bfc65936043b0b4918784888acc68a8e8aec3b5eab6eea5cba3fea10ff0f696d1c38f68b37227cc086ca519630a96b945b33e3c1b853ee8ad95ec08bb
+runfiles size=2
+ texmf-dist/tex/latex/tabularew/tabularew.sty
+catalogue-ctan /macros/latex/contrib/tabularew
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics table
+catalogue-version 0.1

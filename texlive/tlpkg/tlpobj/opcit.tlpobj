@@ -1,0 +1,26 @@
+name opcit
+category Package
+revision 15878
+shortdesc Footnote-style bibliographical references
+longdesc This package addresses the problem of expressing citations in a
+longdesc style that is natural for humanities studies, yet does not
+longdesc interfere with the flow of text (as author-year styles do). The
+longdesc package differs from footbib in that it uses real footnotes,
+longdesc potentially in the same series as any of the document's other
+longdesc footnotes. Opcit also, as its name implies, avoids repetition
+longdesc of full citations, achieving this, to a large extent,
+longdesc automatically.
+containersize 6916
+containerchecksum 4514d83e3554810da7fec3cc165c89a87a4aef04866755a5b42861b484ffea81bfff694609d18fb5e3bbdacc3723cbed96305ba0c09bc48af92456cef3b7b5a5
+doccontainersize 255312
+doccontainerchecksum 6c4e48aa8ea0dd464d7d2902513b1640437518661e9d7237b958b95ad091053b41c6c5ed4407f9c9d87ff5f0ce0b2bda3a99947d3bb0cf70352d5737419e22aa
+srccontainersize 20876
+srccontainerchecksum 031596b3dceeda2782e355e3b19c23a1a31f71295d9ac763055a2ba07eb550a501c9672cbd63929984a3c65108e6084ff6a46fb03e885510e9d696df220b1e70
+runfiles size=8
+ texmf-dist/bibtex/bst/opcit/opcit.bst
+ texmf-dist/tex/latex/opcit/opcit.sty
+catalogue-ctan /macros/latex/contrib/opcit
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-supp footnote
+catalogue-version 1.1

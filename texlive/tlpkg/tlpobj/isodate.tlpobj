@@ -1,0 +1,37 @@
+name isodate
+category Package
+revision 16613
+shortdesc Tune the output format of dates according to language
+longdesc This package provides ten output formats of the commands
+longdesc \today, \printdate, \printdateTeX, and \daterange (partly
+longdesc language dependent). Formats available are: ISO (yyyy-mm-dd),
+longdesc numeric (e.g. dd.\,mm.~yyyy), short (e.g. dd.\,mm.\,yy), TeX
+longdesc (yyyy/mm/dd), original (e.g. dd. mmm yyyy), short original
+longdesc (e.g. dd. mmm yy), as well as numerical formats with Roman
+longdesc numerals for the month. The commands \printdate and
+longdesc \printdateTeX print any date. The command \daterange prints a
+longdesc date range and leaves out unnecessary year or month entries.
+longdesc This package supports German (old and new rules), Austrian, US
+longdesc English, British English, French, Danish, Swedish, and
+longdesc Norwegian.
+containersize 7208
+containerchecksum 5fa145cde64155e9a4ca7236cf41449169ce0d1aa88381b46935641ed94d166429c1b139c852f96526dda270fb85736ca54e8864c32452996109b0061003639d
+doccontainersize 422664
+doccontainerchecksum 75118f62de8568c9826dcc11b753511f57b7fd237cac6aab1c75377121fad2179c81ae5ec5f64ec127a299beb88abc209727d17b1ded623718c7594bb7ca5da0
+srccontainersize 21048
+srccontainerchecksum 43bfcc11aefd2c68ec96cf05f7609cab4009f960b5220bc15d982ad384e062bc42a791f269d5480bb1582ceda68f8c7d36e1308129aaa3df41d25d35cbbb96d2
+runfiles size=17
+ texmf-dist/tex/latex/isodate/danish.idf
+ texmf-dist/tex/latex/isodate/english.idf
+ texmf-dist/tex/latex/isodate/french.idf
+ texmf-dist/tex/latex/isodate/german.idf
+ texmf-dist/tex/latex/isodate/isodate.sty
+ texmf-dist/tex/latex/isodate/isodateo.sty
+ texmf-dist/tex/latex/isodate/italian.idf
+ texmf-dist/tex/latex/isodate/norsk.idf
+ texmf-dist/tex/latex/isodate/swedish.idf
+catalogue-ctan /macros/latex/contrib/isodate
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics date-time
+catalogue-version 2.28

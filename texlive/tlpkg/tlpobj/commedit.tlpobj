@@ -1,0 +1,25 @@
+name commedit
+category Package
+revision 50116
+shortdesc Commented editions with LaTeX
+longdesc The package is intended for commented editions. An example of
+longdesc commented edition is a teacher's book based on a student's
+longdesc textbook. Each page of a teacher's book is a page from the
+longdesc textbook and comments for the teacher. This package was
+longdesc commissioned by Instituto de Matematica Pura e Aplicada ( IMPA)
+containersize 3436
+containerchecksum 7a2248fc7c3de4755a68dfb769c0862332f41945a5efdac8f0b9911c3479bc45cf72ef0176d8d2ed2abe127aaf388c17c90d1f58cfea4aec8bd9e488f2d96c5f
+doccontainersize 600556
+doccontainerchecksum b8c6fbb8c67aeb878fef32bb6e61dacdb3ebf9bb7ac92bcdb685bccfac8129ee3145d40ae579ff77b097fc81ebe0438ee5c50c6bc3df156910a287b368728c6e
+srccontainersize 8200
+srccontainerchecksum 19db6434ff564e454ca44fee29d22bb6a930b9f51f54265955565fffd8a7a4a1be89e3475c727a47c3723da99160f4d9ad9899321913d8739821c6491117c843
+runfiles size=4
+ texmf-dist/tex/latex/commedit/commedit.sty
+catalogue-contact-bugs https://github.com/borisveytsman/commedit/issues
+catalogue-contact-home https://github.com/borisveytsman/commedit
+catalogue-contact-repository https://github.com/borisveytsman/commedit
+catalogue-ctan /macros/latex/contrib/commedit
+catalogue-date 2019-02-26 05:14:40 +0100
+catalogue-license lppl1.3
+catalogue-topics editorial crit-ed
+catalogue-version 1.02

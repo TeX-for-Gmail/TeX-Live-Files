@@ -1,0 +1,34 @@
+name ascmac
+category Package
+revision 46904
+shortdesc Boxes and picture macros with Japanese vertical writing support
+longdesc The bundle provides boxes and picture macros with Japanese
+longdesc vertical writing support. It uses only native picture macros
+longdesc and fonts for drawing boxes and is thus driver-independent.
+longdesc Formerly part of the Japanese pLaTeX bundle, it now supports
+longdesc all LaTeX engines.
+containersize 16664
+containerchecksum e2ce69f4352eb45549488c4fdd26f9acb1b0dea0db86864de95fd72fc0f7f7b5105748bd54449578e6d13a33fc28503e3bba73a4bdd88466b7de3925c4e47a45
+doccontainersize 153588
+doccontainerchecksum 64597bc037ac6760a14164ea55a32513f0e3b3026bf2e371247e528bc6acf071e81fe8b5dc724ed17ebe75cbacc3ff005c19539804a8f1984bdd825a1ad39513
+srccontainersize 8596
+srccontainerchecksum 026990d150f593a23381862b25adc6b93784edf02951089f3417492250fa9bf4873162b7869ad9f182b4ff62504dd4a24dc8a259f83e07e43499e01e40068108
+runfiles size=18
+ texmf-dist/fonts/source/public/ascmac/ascgrp.mf
+ texmf-dist/fonts/source/public/ascmac/ascii.mf
+ texmf-dist/fonts/source/public/ascmac/ascii10.mf
+ texmf-dist/fonts/source/public/ascmac/ascii36.mf
+ texmf-dist/fonts/tfm/public/ascmac/ascgrp.tfm
+ texmf-dist/fonts/tfm/public/ascmac/ascii10.tfm
+ texmf-dist/fonts/tfm/public/ascmac/ascii36.tfm
+ texmf-dist/fonts/type1/public/ascmac/ascgrp.pfb
+ texmf-dist/fonts/type1/public/ascmac/ascii10.pfb
+ texmf-dist/fonts/type1/public/ascmac/ascii36.pfb
+ texmf-dist/tex/latex/ascmac/ascmac.sty
+ texmf-dist/tex/latex/ascmac/tascmac.sty
+catalogue-contact-repository https://github.com/texjporg/ascmac
+catalogue-ctan /macros/latex/contrib/ascmac
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license bsd3
+catalogue-topics boxing japanese
+catalogue-version 2.0h

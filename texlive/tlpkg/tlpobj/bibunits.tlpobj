@@ -1,0 +1,27 @@
+name bibunits
+category Package
+revision 15878
+shortdesc Multiple bibliographies in one document
+longdesc The package provide a mechanism to generate separate
+longdesc bibliographies for different units (chapters, sections or
+longdesc bibunit-environments) of a text. The package separates the
+longdesc citations of each unit of text into a separate file to be
+longdesc processed by BibTeX. The global bibliography section produced
+longdesc by LaTeX may also appear in the document and citations can be
+longdesc placed in both the local unit and the global bibliographies at
+longdesc the same time. The package is compatible with koma-script and
+longdesc with the babel French option frenchb.
+containersize 3036
+containerchecksum 5658d508b876a88f3916a190a9090d66f2dbee98260af8d23c8358d0708f27fc80d4cf6c348b1f6e1ff196e7de6d5567e371ada640a9a602185611fb09e64ddd
+doccontainersize 193792
+doccontainerchecksum 888e5a4c1863c15112ece5763b01525a1a74f97ae1270495a41d598e73c4583ce2b9e28030b3054dcfebd60b038fb2d32938d6be947477fca93014fac70676af
+srccontainersize 16152
+srccontainerchecksum 37cbb8ff6443757982a97bf6efa90881807712ebd7f0ce2975ef4960ef74e0541cea9fbffd64f765b6631378f3d21e2ac308ea1554709b6c2582b7cf7485398e
+runfiles size=3
+ texmf-dist/tex/latex/bibunits/bibunits.sty
+catalogue-also bibtopic chapterbib
+catalogue-ctan /macros/latex/contrib/bibunits
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-multi bibtex-supp
+catalogue-version 2.2

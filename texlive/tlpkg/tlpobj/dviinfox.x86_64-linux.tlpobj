@@ -1,0 +1,8 @@
+name dviinfox.x86_64-linux
+category Package
+revision 44515
+shortdesc x86_64-linux files of dviinfox
+containersize 340
+containerchecksum 780ac5b93b4fa79f5154b24a38b044aa57f7a3f508796485cd60be2055bf111cd76caca9c1e6506ec85214ea919e812953531ee92f2765d8bb725707cc4f9833
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/dviinfox

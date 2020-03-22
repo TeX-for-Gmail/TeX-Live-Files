@@ -1,0 +1,9 @@
+name pfarrei.x86_64-linux
+category Package
+revision 29348
+shortdesc x86_64-linux files of pfarrei
+containersize 364
+containerchecksum 7580e8dfcf6bd513cd5bcdc2982f47512a15a4427c1254fde4c64353181a021152e8c55d21493ad2405b90353db3b4b6a4a160ad0488504b6b82d6289f4f3876
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/a5toa4
+ bin/x86_64-linux/pfarrei

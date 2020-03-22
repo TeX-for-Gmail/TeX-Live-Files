@@ -1,0 +1,26 @@
+name verbatimbox
+category Package
+revision 33197
+shortdesc Deposit verbatim text in a box
+longdesc The package provides a verbbox environment (which uses
+longdesc techniques similar to those of the boxedverbatim environment of
+longdesc the moreverb package) to place its contents into a globally
+longdesc available box, or into a box specified by the user. The global
+longdesc box may then be used in a variety of situations (for example,
+longdesc providing a replica of the boxedverbatim environment itself). A
+longdesc valuable use is in places where the standard verbatim
+longdesc environment (which is based on a trivlist) may not appear. The
+longdesc package makes use of the verbatim package (which is a required
+longdesc part of any LaTeX distribution).
+containersize 3472
+containerchecksum dc686ec1e86c877a6f1467f4935f2337aedfaec32bdf867985ef05405569572c72d3593e75580c72a7bb3ee698798813094eabf738b3157194517839fbe47de5
+doccontainersize 246384
+doccontainerchecksum 9f8fa05294b68fb0994f01e36b468d341b76aa97bde983c7eab781c92c8bfd898033235a328a1fa858dee457f515d6640f780b330600418f2a7eb0fb45f0ef3f
+runfiles size=3
+ texmf-dist/tex/latex/verbatimbox/verbatimbox.sty
+catalogue-also fancyvrb
+catalogue-ctan /macros/latex/contrib/verbatimbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics verbatim boxing
+catalogue-version 3.13

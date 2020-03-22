@@ -1,0 +1,24 @@
+name numspell
+category Package
+revision 45441
+shortdesc Spelling cardinal and ordinal numbers
+longdesc This package supports the spelling of cardinal and ordinal
+longdesc numbers. Supported languages are English, French, German,
+longdesc Hungarian, and Italian. The package requires xstring,
+longdesc pdftexcmds, and etoolbox.
+containersize 8924
+containerchecksum bf6d58521c82638b9f9e93fd5314db075fddd4cb249d7e8fe8b605581ed19414d259eef98a4f205d497fe4b9c552427ac202c0c0b5810e81ce1bf7ea903ec3ae
+doccontainersize 225372
+doccontainerchecksum 6f3f26985e8c656fd68fa716fcd3ffbdc890da7cd0797934351b4d128444eeff4b2f2adb05210fe45fdd627c0da22716153aa8ebaf4b5d7644235ed8b6c2b507
+runfiles size=25
+ texmf-dist/tex/latex/numspell/numspell-english.sty
+ texmf-dist/tex/latex/numspell/numspell-french.sty
+ texmf-dist/tex/latex/numspell/numspell-german.sty
+ texmf-dist/tex/latex/numspell/numspell-italian.sty
+ texmf-dist/tex/latex/numspell/numspell-magyar.sty
+ texmf-dist/tex/latex/numspell/numspell.sty
+catalogue-ctan /macros/latex/contrib/numspell
+catalogue-date 2017-09-30 13:16:00 +0200
+catalogue-license lppl1.3
+catalogue-topics numbers multilingual english french german hungarian italian
+catalogue-version 1.2

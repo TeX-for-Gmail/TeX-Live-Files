@@ -1,0 +1,26 @@
+name phfnote
+category Package
+revision 41858
+shortdesc Basic formatting for short documents
+longdesc This package provides basic formatting for short documents such
+longdesc as notes on a specific topic, short documentation, or quick
+longdesc memos. It aims to cover all basic needs for such purposes:
+longdesc include a standard set of relevant packages, a nice title which
+longdesc doesn't take up too much space, better page margin sizes, and
+longdesc some basic styling to make the note look nicer. At the same
+longdesc time, it is highly flexible and customizable.
+containersize 15836
+containerchecksum d542b73d1a25d0d141a37e3bf0a3d4753829efbcfed9745ea299a90026325f82624bb5d4a5075892af758d4a4613e1560824871e6bb784a8ce0030a7fb3f4836
+doccontainersize 637980
+doccontainerchecksum a62dc8166944e953b8efa49c7ab78b98744cb9948523f4decffee6a553a8e432ce2d9774575bbedce59e5dbd01e9bcc01d82962a19d3878a11367127a7927287
+srccontainersize 28336
+srccontainerchecksum 4f83603d837978304673550f1dba78a1aad030392323de2ae6bb0295ecf7fc5f8bd211a14f831b7f3710b13e999e73e3a8b224a5ac44ce67b2ea3faae5fc83c9
+runfiles size=18
+ texmf-dist/bibtex/bst/phfnote/naturemagdoi.bst
+ texmf-dist/tex/latex/phfnote/phfnote.sty
+catalogue-contact-repository https://github.com/phfaist/phfqitltx
+catalogue-ctan /macros/latex/contrib/phfnote
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics memorandum
+catalogue-version 1.0

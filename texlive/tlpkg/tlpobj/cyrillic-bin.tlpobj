@@ -1,0 +1,12 @@
+name cyrillic-bin
+category TLCore
+revision 50602
+shortdesc Cyrillic bibtex and makeindex
+depend cyrillic-bin.ARCH
+containersize 1500
+containerchecksum f218abc7a05b5247ac3e7c6488c94ad775f7d238d4caa96d7537156052acf8c51cdd2131f55411050f7f8d725e163aa37e16a6af7147e0522be3db7115dcd207
+doccontainersize 25600
+doccontainerchecksum bfd4da4e4ba7c0d47e929a31b0fb52f5690b54fda797dd0df71864d411baffee9eb8c99b83942129802799ad95fbaf710b0f4da6be2e8fe003fc24fe97d9322d
+runfiles size=2
+ texmf-dist/scripts/texlive/rubibtex.sh
+ texmf-dist/scripts/texlive/rumakeindex.sh

@@ -1,0 +1,25 @@
+name rgltxdoc
+category Package
+revision 49684
+shortdesc Common code for documentation of the author's packages
+longdesc This package combines several other packages and defines
+longdesc additional macros and environments for documenting LaTeX code.
+longdesc The package mainly serves the purpose of combining the
+longdesc preferences used in the author's own package documentations.
+longdesc However, others can use the package as well. Compatibility
+longdesc between versions cannot be guaranteed, however.
+containersize 2872
+containerchecksum 8a12657f97bd8f43f6ac5fb9ee73df79cf409199ea6b8ab84695f44b0845a31ac9da289cad7186775fb92e8919f402d101a9ce6a9b931f63b7bd054dc5a1012f
+doccontainersize 147872
+doccontainerchecksum b44e578ea47a6af2df0d36beaf9dc5a54b4647b473dbf8dededcfaa147159e8be40418d6bc2f17e70d9ee2305f6d7cb5d7f282a51793f188ac3d1df857c53c02
+srccontainersize 8332
+srccontainerchecksum 6fabc49e59e74137c7a96213ad513a6cf2f6196f41fb617d0a0800b1b09d399a05e1ac5ca148c2e181c50eff13a1735daa4aa86efd6ba7b94fbb3a446219961a
+runfiles size=2
+ texmf-dist/tex/latex/rgltxdoc/rgltxdoc.sty
+catalogue-contact-bugs https://github.com/Ri-Ga/rgltxdoc/issues
+catalogue-contact-repository https://github.com/Ri-Ga/rgltxdoc
+catalogue-ctan /macros/latex/contrib/rgltxdoc
+catalogue-date 2019-01-13 08:19:28 +0100
+catalogue-license lppl1.2
+catalogue-topics doc-supp
+catalogue-version 1

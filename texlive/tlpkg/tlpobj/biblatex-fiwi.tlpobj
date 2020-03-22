@@ -1,0 +1,28 @@
+name biblatex-fiwi
+category Package
+revision 45876
+shortdesc BibLaTeX styles for use in German humanities
+longdesc The package provides a collection of styles for BibLaTeX
+longdesc (version 3.5 is required, currently). It was designed for
+longdesc citations in German Humanities, especially film studies, and
+longdesc offers some features that are not provided by the standard
+longdesc BibLaTeX styles. The style is highly optimized for documents
+longdesc written in German, and the main documentation is only available
+longdesc in German.
+containersize 16768
+containerchecksum 72b1e41ac55403f144529fd5cbd88f51dfd61cd637bd8e6427a2714d3684ffa37774c698475994f1481442cc8eb336d8de398d55b3df28e5e1615b9cd74cef27
+doccontainersize 595408
+doccontainerchecksum 37fd37d39fee963af8567cf27cd266597175ccebe20f016c7dda699d95e6f7fd0408a57f9061b98996a6ce8eab04a8ed376e6e29b5cb41635d004d24082e91be
+runfiles size=33
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi-yearbeginning.bbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi.bbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi.cbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi.dbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi2.bbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi2.cbx
+ texmf-dist/tex/latex/biblatex-fiwi/fiwi2.dbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-fiwi
+catalogue-date 2017-11-21 15:39:47 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex humanities
+catalogue-version 1.7

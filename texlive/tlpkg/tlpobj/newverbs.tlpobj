@@ -1,0 +1,28 @@
+name newverbs
+category Package
+revision 26258
+shortdesc Define new versions of \verb, including short verb versions
+longdesc The package allows the definition of \verb variants which add
+longdesc TeX code before and after the verbatim text (e.g., quotes or
+longdesc surrounding \fbox{}). When used together with the shortvrb
+longdesc package it allows the definition of short verbatim characters
+longdesc which use this package's variant instead of the normal \verb.
+longdesc In addition, it is possible to collect an argument verbatim to
+longdesc either typeset or write it into a file. The \Verbdef command
+longdesc defines verbatim text to a macro which can later be used to
+longdesc write the verbatim text to a file.
+containersize 2608
+containerchecksum 438115370b2895a717a89aefa991dd781099cac31c1f3e28168e618f932fec4ee2774f82ecdf0a52a89c87fdc8d83654d28061f742410d5cfb96a308941fbc6e
+doccontainersize 181084
+doccontainerchecksum 17bc12bb030e8279d51ccc6675c1db6aa28f1ad762079daef73caf2c00cf2c42a725488857014d1e8bc04682f6869c2e626194f27b75d0b17129ef292dd138bd
+srccontainersize 6196
+srccontainerchecksum 2e2e8a13e0bba6d740a4b00cbb1c30188ee94b6b6bf185a2b453763574c3f026a56959504b2fca51cc4c858dabcca0cfdea8834d8fe34536176e0b8389f291dd
+runfiles size=2
+ texmf-dist/tex/latex/newverbs/newverbs.sty
+catalogue-also shortvrb
+catalogue-contact-repository https://bitbucket.org/martin_scharrer/newverbs
+catalogue-ctan /macros/latex/contrib/newverbs
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics verbatim
+catalogue-version 1.3a

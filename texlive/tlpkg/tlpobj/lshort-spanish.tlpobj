@@ -1,0 +1,15 @@
+name lshort-spanish
+category Package
+revision 35050
+shortdesc Short introduction to LaTeX, Spanish translation
+longdesc A Spanish translation of the Short Introduction to LaTeX2e,
+longdesc version 20.
+containersize 412
+containerchecksum 127fc2d598f16d38b075b4a9668ded064537f7056aae34bdde22f89aa8d301d77cca818976e22aa036f47867929d30cc47e02ed3f724ea26279ecba723e5baf4
+doccontainersize 1538720
+doccontainerchecksum f968352fe1e32a918c1d5ebfce16d3975c436539349af22b32bfae1ab06061ac2b2b85feaed3e8a28da89956f4d5948e7d1a6426766144b0c0ebec72ecfe99cb
+catalogue-ctan /info/lshort/spanish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics spanish-doc tut-latex
+catalogue-version 0.5

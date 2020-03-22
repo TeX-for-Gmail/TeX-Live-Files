@@ -1,0 +1,40 @@
+name luatex
+category TLCore
+revision 50602
+shortdesc The LuaTeX engine
+longdesc LuaTeX is an extended version of pdfTeX using Lua as an
+longdesc embedded scripting language. The LuaTeX project's main
+longdesc objective is to provide an open and configurable variant of TeX
+longdesc while at the same time offering downward compatibility. LuaTeX
+longdesc uses Unicode (as UTF-8) as its default input encoding, and is
+longdesc able to use modern (OpenType) fonts (for both text and
+longdesc mathematics). It should be noted that LuaTeX is still under
+longdesc development; its specification has been declared stable, but
+longdesc absolute stability may not in practice be assumed. Source code
+longdesc is available from ctan:/systems/texlive/Source/.
+depend cm
+depend etex
+depend hyphen-base
+depend knuth-lib
+depend plain
+depend tex-ini-files
+depend unicode-data
+depend luatex.ARCH
+execute AddFormat name=luatex engine=luatex options="luatex.ini"   patterns=language.def,language.dat.lua   fmttriggers=cm,etex,hyphen-base,knuth-lib,plain,tex-ini-files,unicode-data
+execute AddFormat name=dviluatex engine=luatex options="dviluatex.ini"   patterns=language.def,language.dat.lua   fmttriggers=cm,etex,hyphen-base,knuth-lib,plain,tex-ini-files,unicode-data
+execute AddFormat name=luajittex engine=luajittex options="luatex.ini"   patterns=language.def,language.dat.lua   fmttriggers=cm,etex,hyphen-base,knuth-lib,plain,tex-ini-files,unicode-data
+containersize 12932
+containerchecksum 4706ab295a8cc72b6fbafa92132bbef82be4241f2b6b04a20230f763ae52e1a3be112b951d0537ef1c0fd64acb81be6726e71151b45332e90d70b05f3f8c2ccd
+doccontainersize 1681640
+doccontainerchecksum 5084702c17f70541fb6def483908cdf9f60cde4c142501aad47498547acba117580284f00c502f7feba0d27dc8e5939d9d8c92e11f498ee03ad654b4be9d8ae0
+runfiles size=37
+ texmf-dist/tex/generic/config/luatex-unicode-letters.tex
+ texmf-dist/tex/generic/config/luatexiniconfig.tex
+ texmf-dist/web2c/texmfcnf.lua
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-home http://luatex.org
+catalogue-contact-repository https://tug.org/svn/texlive/trunk/Build/source/texk/web2c/luatexdir
+catalogue-contact-support http://lists.tug.org/luatex
+catalogue-date 2018-12-31 06:11:12 +0100
+catalogue-license gpl2
+catalogue-topics engine

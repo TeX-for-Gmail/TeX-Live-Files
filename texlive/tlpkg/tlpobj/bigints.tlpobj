@@ -1,0 +1,17 @@
+name bigints
+category Package
+revision 29803
+shortdesc Writing big integrals
+longdesc The package provides facilities for drawing big integral signs
+longdesc when needed. An example would be when the integrand is a
+longdesc matrix.
+containersize 1228
+containerchecksum 23f9a529af214771f74c6921baf8582b6a3c5e170d0fa511c260f5dd3fb6cb6194ef4082ed299dc0a3ff8e413981a36b594b440e7bc5512c7d2732fed9eb7a8e
+doccontainersize 107716
+doccontainerchecksum 46799d5c6758657eadca7fb30d214baf47c237b63655a71ad19e188fd54b664397babbbc5cf6d9897e81decd027dea1e0d1a6fea97384461ec8976fc19c7fd8d
+runfiles size=2
+ texmf-dist/tex/latex/bigints/bigints.sty
+catalogue-ctan /macros/latex/contrib/bigints
+catalogue-date 2019-02-04 13:21:37 +0100
+catalogue-license lppl
+catalogue-topics maths

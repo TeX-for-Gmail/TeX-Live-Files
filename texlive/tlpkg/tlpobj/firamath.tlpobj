@@ -1,0 +1,24 @@
+name firamath
+category Package
+revision 48995
+shortdesc Fira sans serif font with Unicode math support
+longdesc Fira Math is a sans-serif font with Unicode math support. The
+longdesc design of this font is based on Fira Sans and FiraGO. Fira Math
+longdesc is distributed in OpenType format and can be used with the
+longdesc unicode-math package under XeLaTeX or LuaLaTeX. More support is
+longdesc offered by the firamath-otf package.
+containersize 105920
+containerchecksum 2cf9a013993c24f4faaba3794da07ee5eaacf2f6e3cb3f10e3a889c89e38f7de08027ecbcafc8e86f8f9cf215d04cbcd4491eebd8e8a103112071862cab9bb36
+doccontainersize 504808
+doccontainerchecksum 979c5030553c36761b881648e63502427b3c2ae0ec93d76dc2f76528812dc20d15539ab9cd093e674e009edccf2e6be715be94ecd159a5720e58df695cab3b12
+runfiles size=46
+ texmf-dist/fonts/opentype/public/firamath/FiraMath-Regular.otf
+catalogue-also fira firamath-otf gfsneohellenicmath
+catalogue-contact-bugs https://github.com/firamath/firamath/issues
+catalogue-contact-home https://firamath.github.io/
+catalogue-contact-repository https://github.com/firamath/firamath
+catalogue-ctan /fonts/firamath
+catalogue-date 2018-10-28 09:23:50 +0100
+catalogue-license ofl
+catalogue-topics font font-otf font-sans font-maths
+catalogue-version 0.3.1

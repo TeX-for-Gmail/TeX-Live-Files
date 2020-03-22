@@ -1,0 +1,21 @@
+name manuscript
+category Package
+revision 36110
+shortdesc Emulate look of a document typed on a typewriter
+longdesc This package is designed for those who have to submit
+longdesc dissertations, etc., to institutions that still maintain the
+longdesc typewriter is the summit of non-professional printing.
+containersize 1732
+containerchecksum 24e4c800ba6f5089ae76b6d444c81689fa696cd2fd9e62281171d771f8f9f065320b53b058cc6adf836f36d378f6f7fece98e8c09e2b655ecaa8884067bd696a
+doccontainersize 53188
+doccontainerchecksum baaa102f870cc307fe96b583f74c19c7ef2c7649f01fe7985c3dcd331539bc9d839f6e34aa238354b6932d14638b77e83b7bf8e62296c36fc2dba18f776271a6
+srccontainersize 5636
+srccontainerchecksum 0cc418f2b5538035123d81f6702031d97bf99fa6733d491b306981ae698f3cad9bd121a20410329b8428b5c14749e825052544cdc52b9c8457d7e302dfc64888
+runfiles size=1
+ texmf-dist/tex/latex/manuscript/manuscript.sty
+catalogue-contact-repository https://gitlab.com/mcepl/manuscript
+catalogue-ctan /macros/latex/contrib/manuscript
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics typesetting
+catalogue-version 1.7

@@ -1,0 +1,8 @@
+name velthuis.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of velthuis
+containersize 12160
+containerchecksum 7466f544cc1e08574c66b592b39bb4cda0451a2a4b58f1b3c20c4617cfa7cf0df79c1dce10a11a5d36d1c531a1338a8f2448fe5e89791dcb98c6eb9c6e69aa11
+binfiles arch=x86_64-linux size=8
+ bin/x86_64-linux/devnag

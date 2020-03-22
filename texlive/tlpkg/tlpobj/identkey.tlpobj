@@ -1,0 +1,20 @@
+name identkey
+category Package
+revision 49018
+shortdesc Typesetting bracketed dichotomous identification keys
+longdesc The package is for typesetting bracketed dichotomous
+longdesc identification keys.
+containersize 1196
+containerchecksum b04dc4859826ad3f4fc4dd4a9b19abc0f6125d66d200519652a130c522fc6b49de8565af73f81efa9e75d592036ccca6d373a368e66526d8997dab9d8a5f806f
+doccontainersize 488
+doccontainerchecksum c676908535a4a67efd8569e81a1d3ce5a47bf7a5ec755e87e62830e370fa3307bf0d6a84f3ec7c399bca3cc365f97469393a6fc954bf83b2e2fbc9eda9983811
+runfiles size=1
+ texmf-dist/tex/latex/identkey/identkey.sty
+catalogue-also dichokey
+catalogue-contact-bugs https://gitlab.com/rj_white/latex-identkey/issues
+catalogue-contact-repository https://gitlab.com/rj_white/latex-identkey
+catalogue-ctan /macros/latex/contrib/identkey
+catalogue-date 2018-11-03 05:32:32 +0100
+catalogue-license gpl3
+catalogue-topics biology
+catalogue-version 0.1.0

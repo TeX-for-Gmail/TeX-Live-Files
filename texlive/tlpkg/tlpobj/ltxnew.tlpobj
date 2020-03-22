@@ -1,0 +1,25 @@
+name ltxnew
+category Package
+revision 21586
+shortdesc A simple means of creating commands
+longdesc The package ltxnew provides \new, \renew and \provide prefixes
+longdesc for checking definitions. It is designed to work with e-TeX
+longdesc distributions of LaTeX and relies on the LaTeX internal macro
+longdesc \@ifdefinable. Local allocation of counters, dimensions, skips,
+longdesc muskips, boxes, tokens and marks are provided by the etex
+longdesc package. \new and \renew as well as \provide may be used for
+longdesc all kind of control sequences. Please refer to the section
+longdesc "Using \new" of the PDF documentation.
+containersize 2828
+containerchecksum 7dda3fd3638ddf528adda0430cbd32cd8fe410a743b7af5bf76e651ee98b10f2481723665a19fda2f2b468ca5c4a838144cbd6e9c457f50362f7b0e83106de26
+doccontainersize 153768
+doccontainerchecksum 91e07169ac377570382b9bc7044c0d66b61268fca38e2fcff4d7075322dbed0d3151976848c93b5d0a2088676e67f3a79d2a555829f170ca61a37b7c40fbdf66
+srccontainersize 10704
+srccontainerchecksum 0718785df4355f264738d8929128e4024eae629dcc1fc51e0d408ace6be8688b9281bc0e352e401a6fba71b0a3f376610fdbea7520443233d088e93740e0dbc7
+runfiles size=3
+ texmf-dist/tex/latex/ltxnew/ltxnew.sty
+catalogue-ctan /macros/latex/contrib/ltxnew
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-def
+catalogue-version 1.3

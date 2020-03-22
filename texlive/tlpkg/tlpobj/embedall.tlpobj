@@ -1,0 +1,22 @@
+name embedall
+category Package
+revision 31903
+shortdesc Embed source files into the generated PDF
+longdesc The package provides a means of storing a project, without
+longdesc losing anything. It uses the embedfile package to attach to the
+longdesc generated PDF all files used in creating your project. In
+longdesc particular, it can embed images, external TeX files, external
+longdesc codes and
+containersize 1316
+containerchecksum f29a76c2653891d6dcecf160c1cc51863f2cf85477a5b58f7f7b2a1f7b20ad67ef503284ed73ad2ec2d29ac5a8ef33a6b6ff5b0bbc633018c3aa2588ddb5e24a
+doccontainersize 155156
+doccontainerchecksum 841a77bf7a468bce72ed370c801be8ffac104fd06ffd8ea216bfb8cfd69315e53ad0fd36e2ba83d94427c05554283a377d00d67ac7cd8aed735e90f271c42fc2
+srccontainersize 3264
+srccontainerchecksum 192032d02389274fa7097f6c2bb9be01faa33a1bcf324f2382e72925206510efaabf748d099c97df63551c1cd9fde499325170e573c851e7d5a1e801a7782d59
+runfiles size=1
+ texmf-dist/tex/latex/embedall/embedall.sty
+catalogue-ctan /macros/latex/contrib/embedall
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics pdf-feat archival
+catalogue-version 1.0

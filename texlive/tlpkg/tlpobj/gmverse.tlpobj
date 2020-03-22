@@ -1,0 +1,19 @@
+name gmverse
+category Package
+revision 29803
+shortdesc A package for typesetting (short) poems
+longdesc A redefinition of the verse environment to make the \\ command
+longdesc optional for line ends and to give it a possibility of optical
+longdesc centering and `right-hanging' alignment of lines broken because
+longdesc of length.
+containersize 10736
+containerchecksum 98692f781fead4dc292648153ca18a05d03f2c44174bce8b2f72e85fd1e98cb5ef0fb67c12f33dc982f1d04958873ea4e78f486fadb0c94544ecb66180ee52bf
+doccontainersize 96420
+doccontainerchecksum 7e37c0c2e8443aedd6462251f603e2eef9cbacc45d980d79bf42cdc64b7ab0a5d81f50ae65251c17115265c45e641a5930de640099f04dc8112155f68ce9adf0
+runfiles size=8
+ texmf-dist/tex/latex/gmverse/gmverse.sty
+catalogue-ctan /macros/latex/contrib/gmverse
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics verse
+catalogue-version 0.73

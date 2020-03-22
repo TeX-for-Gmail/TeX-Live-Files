@@ -1,0 +1,21 @@
+name recipecard
+category Package
+revision 15878
+shortdesc Typeset recipes in note-card-sized boxes
+longdesc The recipecard class typesets recipes into note card sized
+longdesc boxes that can then be cut out and pasted on to note cards. The
+longdesc recipe then looks elegant and fits in the box of recipes.
+containersize 2644
+containerchecksum 62778e7429aaa8e4bed6546c748a7e135c9edc4909508723e7931284c619d502e9efb0e6fa54c8c1d242858355c6d95bdc87959400c18a5648ef105035ace26f
+doccontainersize 186552
+doccontainerchecksum 0e62ac28631ee072c9b0b5dfe9995744c381f17b14da5e9c8f4159fb274cf2a7662f0eed8f728ec5990a6a957de051304601acde2d171e696e79284ab2faeff3
+srccontainersize 9372
+srccontainerchecksum d08838184d5d21107ee796835c95dd446242ea3433819229ab918a30e73a3e042e6f4cc8f75c144ced7a16391841177409567bdf3116632b0915ebe47378943d
+runfiles size=2
+ texmf-dist/tex/latex/recipecard/recipecard.cls
+catalogue-also recipe recipebook
+catalogue-ctan /macros/latex/contrib/recipecard
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cooking
+catalogue-version 2.0

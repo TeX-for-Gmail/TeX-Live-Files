@@ -1,0 +1,24 @@
+name fncylab
+category Package
+revision 17382
+shortdesc Alter the format of \label references
+longdesc LaTeX provides a mechanism for altering the appearance of
+longdesc references to labels, but it's somewhat flawed, and requires
+longdesc that the user manipulate internal commands. The package solves
+longdesc the problem, by providing a \labelformat command for changing
+longdesc the format of references to labels. The package also provides a
+longdesc \Ref command to make reference to such redefined labels at the
+longdesc start of a sentence.
+containersize 1608
+containerchecksum 96d2b01d39fb2105e10c46941c896c7ffcfbdd82df8ccb91305e72aa23b67db6c06fab0e2ee41f84f07f3deb809f213b809a284017ca828c8ecd145e3ecb2ef6
+doccontainersize 203100
+doccontainerchecksum 7c8274fdc4a81f800b82d976bc55b7fe42b8eefcb608f77be6de8e122448c7942f190098cfc14605de269ba518cb882439f2e675271b57c46cc203e277e839ac
+runfiles size=1
+ texmf-dist/tex/latex/fncylab/fncylab.sty
+catalogue-contact-repository https://github.com/rf-latex/fncylab
+catalogue-contact-support https://github.com/rf-latex/fncylab/issues
+catalogue-ctan /macros/latex/contrib/fncylab
+catalogue-date 2018-09-15 15:39:16 +0200
+catalogue-license lppl
+catalogue-topics label-ref
+catalogue-version 1.0

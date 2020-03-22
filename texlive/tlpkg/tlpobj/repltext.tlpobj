@@ -1,0 +1,21 @@
+name repltext
+category Package
+revision 33442
+shortdesc Control how text gets copied from a PDF file
+longdesc The repltext package exposes to LaTeX a relatively obscure PDF
+longdesc feature: replacement text. When replacement text is specified
+longdesc for a piece of text, it is the replacement text, not the
+longdesc typeset text that is copied and pasted.
+containersize 1208
+containerchecksum 32d4e90befc06db973de384855c174ea0ed9ae938a9ea280118d82387fbcbdeeab8fd1143a96c9afb2b904766e5fc43c0d4eec93d763b3e0e730ac06f6883c9b
+doccontainersize 292216
+doccontainerchecksum ead39615e96c4247be7072dc4fd715288ee1c8cddeb4cf88c5ea79a6659808936fa6eaba3dced3efeb6802e58bef4632604e92d1f00c29b8f0bb3a241d56559f
+srccontainersize 6596
+srccontainerchecksum f01bb1d0ac9a4ae0303770faf083c447d3d800b43848d11560f67ed43c50f09e742e27683e911395b9ee7d29bf962f4b3b6791d3d25fac630d57c967bd14db4c
+runfiles size=1
+ texmf-dist/tex/latex/repltext/repltext.sty
+catalogue-ctan /macros/latex/contrib/repltext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics pdf-feat
+catalogue-version 1.0

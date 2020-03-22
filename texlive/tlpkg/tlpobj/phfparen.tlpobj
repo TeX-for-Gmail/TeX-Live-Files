@@ -1,0 +1,23 @@
+name phfparen
+category Package
+revision 41859
+shortdesc Parenthetic math expressions made simpler and less redundant
+longdesc This package provides a more condensed and flexible syntax for
+longdesc parenthesis-delimited expressions in math mode which also
+longdesc allows for an easier switching of brace sizes. For example, the
+longdesc syntax " `\big( a + b ) " can be used to replace "\bigl( a + b
+longdesc \bigr)".
+containersize 2352
+containerchecksum c184623f226f9bc9926eef0b5e23443bec20e66c6641196bc90daf27a648d9f0db70ad176488fe061d44746b6cf46a3217eeb42f6a95f2e37c20d641ba2838c6
+doccontainersize 305996
+doccontainerchecksum 5c34575950ee1a9616408f293319eb0634795e07173677cae112466a298dbfa5cc18fbead8e92e459718df91326d27cc7baf0414a1f1e8613a5c115c070b5016
+srccontainersize 9336
+srccontainerchecksum ca94f1756265e0f92e8808b7dac74eb57f62eedcdefbaf6e4059c8a7ffa51819da979a70203b11250d329ec9000b454067c101b25753673add4b35c40fe1e882
+runfiles size=2
+ texmf-dist/tex/latex/phfparen/phfparen.sty
+catalogue-contact-repository https://github.com/phfaist/phfqitltx
+catalogue-ctan /macros/latex/contrib/phfparen
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics maths paren-mgmt
+catalogue-version 1.0

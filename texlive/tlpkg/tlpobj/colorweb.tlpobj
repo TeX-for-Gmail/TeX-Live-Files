@@ -1,0 +1,19 @@
+name colorweb
+category Package
+revision 31490
+shortdesc Extend the color package colour space
+longdesc The package makes the 216 "web-safe colours" available to the
+longdesc standard color package.
+containersize 3064
+containerchecksum dd8e53aa707f1e73276cca9a9c5732b012ca7dcb0926d101c71aa5fe3829f07251a7f606accc95266f6c9aa4b867a38cc654ca97cc32857edc3d196b2c5a7fd4
+doccontainersize 1224824
+doccontainerchecksum b1ae7c14f2f07405b7a957831b60829046b058f6d1640051cbee877100c98a8f47d2c1d40f60599c42ff90eed246248b4f48dd8c1d31f9d45082f9ec5c341626
+srccontainersize 11920
+srccontainerchecksum 4016805ddde5974257fc9f20a0f4a8e40b12d059ba74ed6425f206c4b10127596d579dd8c057e85289e32dc1652b2258f6d2590ec6d4cb10c72aa4a874158275
+runfiles size=5
+ texmf-dist/tex/latex/colorweb/colorweb.sty
+catalogue-ctan /macros/latex/contrib/colorweb
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics colour
+catalogue-version 1.3

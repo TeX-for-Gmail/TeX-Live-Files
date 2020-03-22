@@ -1,0 +1,21 @@
+name isonums
+category Package
+revision 17362
+shortdesc Display numbers in maths mode according to ISO 31-0
+longdesc The package makes a quick hack to ziffer to display numbers in
+longdesc maths mode according to ISO 31-0, regardless of input format
+longdesc (European $1.235,7$ or Anglo-American $1,235.7$). The options
+longdesc [euro, anglo] control the global input format. Default input
+longdesc format is anglo. Documentation is included as comments to the
+longdesc text source.
+containersize 2276
+containerchecksum d82a96c2208dfd59f091b8316d8b496115ee56d51e5418344f128418c3b202f0ee20bea505c05f5e81f76006e2efcef48b2d3592bb5c550e219b5c8e4a6e5f4e
+doccontainersize 202564
+doccontainerchecksum 5ecd4587ad6d782182986592bb7f76fd62ccd2e9245921b48ae28e9e381f4084e0d5930b32815ebd074be4190fcfd6beec8be890014edd76e9a5b4958f71d6f7
+runfiles size=2
+ texmf-dist/tex/latex/isonums/isonums.sty
+catalogue-ctan /macros/latex/contrib/isonums
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics std-conform
+catalogue-version 1.0

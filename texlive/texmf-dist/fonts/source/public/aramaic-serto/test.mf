@@ -1,0 +1,198 @@
+
+u#:=16/36pt#;         % unit width Change ONLY this
+                     % parameter to change the size of the fonts.
+boxx#:=4u#;          % Asyyrian font basic size boxx. 
+huassyr#:=u#;
+vuassyr#:=u#;
+%ht#:=5boxx#;          % height of the character
+font_size 10pt#;
+%font_size 7boxx#;     % the design size of the fonts
+%xgap#:=0.6pt#;       % horizontal adjustment
+
+% For vowels taken from sertofont.mf
+stu#:= 2.5u#;                % the unit, used in serto10.mf
+hu#:=stu#;                    % the horizontal unit
+vu#:=stu#;                    % the vertical unit
+basestroke# := stu#;
+
+%s#:=0#;              % extra space at the left and the right
+%o#:=2boxx#;           % overshoot
+%px#:=2/3pt#;         % horizontal thickness of the pen;
+px#:=3/2u#;
+slant :=0;           % This parameter controls the slantness of the
+                     % fonts. Change it to for example 1/4 or -1/4 to 
+                     % produce italic fonts.
+mode_setup;
+if unknown slant: slant :=0 
+else: currenttransform:= identity slanted slant yscaled aspect_ratio 
+fi;
+
+%ygap#:=(ht#/13.5u#)*xgap#;   % vertical adjustment
+%ho#:=0#;                     % horizontal overshoot
+%leftstemloc#:=2.5u#+s#;      % position of left stem
+%barheight#:=0.45ht#;         % height of bar lines
+py#:=0.9px#;                 % vertical pen thickness
+
+%% Font-Parameter for TeX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Added by Johannes Heinecke
+font_quad 5u#;                 % 1 em
+font_x_height 4u#;           % 1 ex (used by syriac.sty to define accent position)
+font_normal_space 6u#;           % word gap
+font_normal_stretch 4u#;         % word gap may stretch by ...
+font_normal_shrink 2u#;          % word gap my shrink by ...
+font_slant slant;
+
+
+define_pixels(hu, vu, basestroke);
+%%% Taken from sertobase.mf (for vowels)
+  pickup pencircle xscaled .5basestroke yscaled .3basestroke; 
+  vowel_pen:=savepen;
+
+  pickup pencircle xscaled .5basestroke yscaled .2basestroke  rotated 30;
+  vowelII_pen:=savepen;
+
+  pickup pencircle xscaled .3basestroke yscaled .2basestroke  rotated 30;
+  vowelIII_pen:=savepen;
+let sertochar=\;
+
+
+define_pixels(u,huassyr,vuassyr);
+%define_whole_pixels(xgap);
+%define_whole_vertical_pixels(ygap);
+define_blacker_pixels(px,py);
+pickup pencircle xscaled px yscaled py;
+logo_pen:=savepen;
+%define_good_x_pixels(leftstemloc);
+%define_good_y_pixels(barheight);
+%define_corrected_pixels(o);
+%define_horizontal_corrected_pixels(ho);
+
+ def makebox(text r) =
+
+   for y=0 step u until h:
+         r((0, y), (w, y));
+   endfor 
+
+   for y=0, -d, h:
+         r((0, y), (w, y));
+   endfor 
+
+   % vertical lines on x-values:
+   for x=0 step u until w:
+           r((x, -d), (x, h)); 
+   endfor
+enddef;
+
+
+beginchar("S",14huassyr#,12vuassyr#,0);"The letter Simkat";
+z1=(0,0);
+z2=(5.5huassyr,0);
+z3=(5.5huassyr,1vuassyr);
+z5=(7huassyr,0.3vuassyr);
+z7=(8huassyr,0);
+z11=(13huassyr,0);
+z13=(14huassyr,1vuassyr);
+z15=(14huassyr,4vuassyr);
+z17=(12huassyr,10.6vuassyr);
+z19=(11huassyr,11vuassyr);
+z21=(9huassyr,10vuassyr);
+z22=(8.52huassyr,9.32vuassyr);
+z23=(8.5huassyr,9.3vuassyr);
+z24=(8.48huassyr,9.32vuassyr);
+z25=(6huassyr,11.7vuassyr);
+
+z27=(5huassyr,12vuassyr);
+%z29=(3huassyr,10.3vuassyr);
+z31=(2huassyr,7vuassyr);
+z33=(2.8huassyr,4vuassyr);
+z35=(0,4vuassyr);
+
+z37=(7.8huassyr,4vuassyr);
+z39=(11huassyr,4vuassyr);
+z41=(11huassyr,6vuassyr);
+z43=(10huassyr,7vuassyr);
+z45=(8.7huassyr,6vuassyr);
+z46=(7.82huassyr,4.02vuassyr);
+
+z47=(7huassyr,4vuassyr);
+z49=(6huassyr,7.7vuassyr);
+z51=(5huassyr,8vuassyr);
+z53=(4.3huassyr,7vuassyr);
+z55=(6huassyr,4.5vuassyr);
+z57=(6.98huassyr,4.02vuassyr);
+
+pickup logo_pen;
+fill z1--z2--z3..z5..{right}z7--z11{right}..{up}z13{up}
+..z15{up}..z17..{left}z19..z21..z22--z23--z24..z25..{left}z27{left}..{down}z31{down}..z33--z35--cycle;
+
+unfill z37{right}..{right}z39{up}..{up}z41{up}..{left}z43{left}..z45..z46--cycle;
+unfill z47{up}..z49..{left}z51{left}..{down}z53{down}..z55..z57--cycle;
+labels(range 1 thru 57);
+endchar;
+
+beginchar("Y",12huassyr#,12vuassyr#,3vuassyr#);"The letter Chap";
+z1=(0,0);
+z2=(11huassyr,0);
+z3=(12huassyr,1vuassyr);
+z5=(12huassyr,4vuassyr);
+z7=(8.7huassyr,10vuassyr);
+z11=(5.5huassyr,12vuassyr);
+z13=(3huassyr,10.2vuassyr);
+z15=(2huassyr,7vuassyr);
+z17=(2.6huassyr,7.3vuassyr);
+z19=(4.5huassyr,8vuassyr);
+z21=(7huassyr,6.5vuassyr);
+z23=(8.5huassyr,4vuassyr);
+z25=(0,4vuassyr);
+
+z27=(4.2huassyr, -3.4vuassyr);
+z29=(5huassyr, -2.6vuassyr);
+z31=(6.3huassyr, -3.2vuassyr);
+z33=(7huassyr, -2vuassyr);
+z35=(6.8huassyr, -1.4vuassyr);
+z37=(6huassyr, -2.3vuassyr);
+z39=(4.6huassyr, -1.8vuassyr);
+z41=(4huassyr, -2.8vuassyr);
+
+pickup logo_pen;
+fill z1--z2{right}..{up}z3{up}..{up}z5..z7..{left}z11{left}..z13
+..{down}z15{right}..z17..{right}z19{right}..z21..z23--z25--cycle;
+
+fill z27{right}..{right}z29{right}..{right}z31{right}..{up}z33{up}..{left}z35{left}
+..{left}z37{left}..{left}z39{left}..{down}z41{down}..{right}cycle;
+endchar;
+
+
+
+
+beginchar("T",13huassyr#,12vuassyr#,0);"The letter Tau";
+z1=(11huassyr,0);
+z2=(12huassyr,0);
+z3=(13huassyr,1vuassyr);
+z5=(13huassyr,4vuassyr);
+z6=(6huassyr,11.5vuassyr);
+z66=(5.9huassyr,11.6vuassyr);
+z7=(5.4huassyr,12vuassyr);
+z77=(5.1huassyr,11.7vuassyr);
+z9=(5huassyr,11.5vuassyr);
+z11=(1.3huassyr,3vuassyr);
+z13=(1.1huassyr,1.9vuassyr);
+z15=(3huassyr,0);
+z17=(5.7huassyr,1vuassyr);
+z19=(7.7huassyr,0.2vuassyr);
+z21=(8huassyr,0);
+z23=(8.3huassyr,0.2vuassyr);
+z24=(8huassyr,1vuassyr);
+z25=(3.5huassyr,4.2vuassyr);
+z27=(2.4huassyr,4vuassyr);
+z29=(4.2huassyr,8vuassyr);
+pickup logo_pen;
+fill z1--z2{right}..{up}z3--z5--z6..z66..{left}z7{left}..z77..z9--z11
+..{down}z13{down}..{right}z15{right}..{right}z17{right}..z19..{right}z21..{up}z23{up}
+..z24..{left}z25{left}..z27--z29--cycle;
+labels(range 1 thru 29);
+endchar;
+
+
+end;
+

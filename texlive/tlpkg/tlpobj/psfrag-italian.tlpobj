@@ -1,0 +1,14 @@
+name psfrag-italian
+category Package
+revision 15878
+shortdesc PSfrag documentation in Italian
+longdesc This is a translation of the documentation that comes with the
+longdesc psfrag documentation.
+containersize 400
+containerchecksum 4d26f0191ffbbe7fa6a9aae1ece6e72739925b59a1a1db5ad3cbe8f2b3ece92ec8265f008e91fcabfe2e04863300db833eff3104486e9c33985ce5c7f8dd7543
+doccontainersize 136192
+doccontainerchecksum 7a513ff265d259adfbaee9ffb47856602004f19679dad1316f04d36848f2e22bff8c3164ba9b045e7a4a57df76c2ad17b071a9cac68d4b92cff57a29f1e99f55
+catalogue-ctan /info/italian/psfrag
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics graphics italian-doc

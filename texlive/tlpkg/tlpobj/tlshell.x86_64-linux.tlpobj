@@ -1,0 +1,8 @@
+name tlshell.x86_64-linux
+category Package
+revision 45015
+shortdesc x86_64-linux files of tlshell
+containersize 340
+containerchecksum 335c928557a3acddc4a86ba5b73f994095a3562b89878477781b2e30535bc39365228c90c5633f00cae6d4b7522aca2395d4d775c0ce3dc4d10f2a7c38c588c2
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/tlshell

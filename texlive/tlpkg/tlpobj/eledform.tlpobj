@@ -1,0 +1,20 @@
+name eledform
+category Package
+revision 38114
+shortdesc Define textual variants
+longdesc The package provides commands to formalize textual variants in
+longdesc critical editions typeset using eledmac.
+containersize 1480
+containerchecksum 4103aa370bc8314433b5cc9242390340467591bc38e2f5b820f9d35a1951bb9fe9e384b1d3c64a0434b3c3dc87c42463a0af5d9ff872180bc2b7a08d4b40c080
+doccontainersize 128020
+doccontainerchecksum c59cfa6957a21c5e74d9a15b7621536170137447111f9a88295e79aa7a29dcbb3d1f1f1367afd7243d2506b864a53df41b0e10419592a5e4e12af8e1e90216d4
+srccontainersize 4788
+srccontainerchecksum 3bf4fe6df4cb16c8ab7a3fc366754321c5a1056cbdd51a787da33d212c39ffa0bc73d394944b7b2cfe52b4f41abe0e3df7156571d3acc1d1c3ccd4d467798430
+runfiles size=1
+ texmf-dist/tex/latex/eledform/eledform.sty
+catalogue-contact-repository https://github.com/maieul/eledform
+catalogue-ctan /macros/latex/contrib/eledform
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics crit-ed
+catalogue-version 1.1a

@@ -1,0 +1,103 @@
+
+% This is a free program  written by TONY KHOSHABA, May 1995.  
+% Modifications to be used with serto - LaTeX-package by Johannes Heinecke
+% 8 November 2003
+
+u#:=16/36pt#;          % unit width Change ONLY this
+                     % parameter to change the size of the fonts.
+boxx#:=4u#;          % Asyyrian font basic size boxx. 
+huassyr#:=1.5u#;  % 'bold' means larger here
+vuassyr#:=u#;
+%ht#:=5boxx#;          % height of the character
+font_size 10pt#;
+%font_size 7boxx#;     % the design size of the fonts
+%xgap#:=0.6pt#;       % horizontal adjustment
+
+% For vowels taken from sertofont.mf
+stu#:= 2.9u#;                % the unit, used in serto10.mf
+hu#:=stu#;                    % the horizontal unit
+vu#:=stu#;                    % the vertical unit
+basestroke# := stu#;
+
+%s#:=0#;              % extra space at the left and the right
+%o#:=2boxx#;           % overshoot
+%px#:=2/3pt#;         % horizontal thickness of the pen;
+px#:=3/2u#;
+slant :=0;           % This parameter controls the slantness of the
+                     % fonts. Change it to for example 1/4 or -1/4 to 
+                     % produce italic fonts.
+mode_setup;
+if unknown slant: slant :=0 
+else: currenttransform:= identity slanted slant yscaled aspect_ratio 
+fi;
+
+%ygap#:=(ht#/13.5u#)*xgap#;   % vertical adjustment
+%ho#:=0#;                     % horizontal overshoot
+%leftstemloc#:=2.5u#+s#;      % position of left stem
+%barheight#:=0.45ht#;         % height of bar lines
+py#:=0.9px#;                 % vertical pen thickness
+
+%% Font-Parameter for TeX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Added by Johannes Heinecke
+font_quad 5u#;                 % 1 em
+font_x_height 4u#;           % 1 ex (used by syriac.sty to define accent position)
+font_normal_space 6u#;           % word gap
+font_normal_stretch 4u#;         % word gap may stretch by ...
+font_normal_shrink 2u#;          % word gap my shrink by ...
+font_slant slant;
+
+
+define_pixels(hu, vu, basestroke);
+%%% Taken from sertobase.mf (for vowels)
+  pickup pencircle xscaled .5basestroke yscaled .3basestroke; 
+  vowel_pen:=savepen;
+
+  pickup pencircle xscaled .5basestroke yscaled .2basestroke  rotated 30;
+  vowelII_pen:=savepen;
+
+  pickup pencircle xscaled .3basestroke yscaled .2basestroke  rotated 30;
+  vowelIII_pen:=savepen;
+let sertochar=\;
+
+
+define_pixels(u,huassyr,vuassyr);
+%define_whole_pixels(xgap);
+%define_whole_vertical_pixels(ygap);
+define_blacker_pixels(px,py);
+pickup pencircle xscaled px yscaled py;
+logo_pen:=savepen;
+%define_good_x_pixels(leftstemloc);
+%define_good_y_pixels(barheight);
+%define_corrected_pixels(o);
+%define_horizontal_corrected_pixels(ho);
+
+ def makebox(text r) =
+
+   for y=0 step u until h:
+         r((0, y), (w, y));
+   endfor 
+
+   for y=0, -d, h:
+         r((0, y), (w, y));
+   endfor 
+
+   % vertical lines on x-values:
+   for x=0 step u until w:
+           r((x, -d), (x, h)); 
+   endfor
+enddef;
+
+
+input assyrfont;
+input syriacvowels;
+
+end;
+
+
+
+
+
+
+
+
+

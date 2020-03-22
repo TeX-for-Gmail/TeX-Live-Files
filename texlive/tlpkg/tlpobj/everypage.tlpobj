@@ -1,0 +1,24 @@
+name everypage
+category Package
+revision 15878
+shortdesc Provide hooks to be run on every page of a document
+longdesc The package provides hooks to perform actions on every page, or
+longdesc on the current page. Specifically, actions are performed after
+longdesc the page is composed, but before it is shipped, so they can be
+longdesc used to prepare the output page in tasks like putting
+longdesc watermarks in the background, or in setting the next page
+longdesc layout, etc.
+containersize 1300
+containerchecksum 6f4779a2a0e0d2352b702652a583f6ea7da71865196894b88b630e1105e56dd5ea525cbd4eccdebe8dfa347716c192fa098d5eb8501f305109b337b266e7ec2d
+doccontainersize 14308
+doccontainerchecksum 185bb6b87896f43472d8c902cfda976139d8b1df09c5eff75e8f579314867dc05b6c215f0dcb09a3438f7279c6579ffc8f92fa7fc682fce18ddf7f080e0c6e37
+srccontainersize 4672
+srccontainerchecksum ca04b157d255502abde15994da4690b99e4c6d015c86704d179001b3412e9c9170a040216657ef5afb174aafc34d4c0501b51155b84164b17401843837a9483c
+runfiles size=1
+ texmf-dist/tex/latex/everypage/everypage.sty
+catalogue-also everyshi bophook
+catalogue-ctan /macros/latex/contrib/everypage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics defer-stuff
+catalogue-version 1.1

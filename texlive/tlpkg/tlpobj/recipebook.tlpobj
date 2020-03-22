@@ -1,0 +1,22 @@
+name recipebook
+category Package
+revision 37026
+shortdesc Typeset 5.5" x 8" recipes for browsing or printing
+longdesc This is a LaTeX2e class for typesetting recipes. It is designed
+longdesc for typesetting one or two recipes per page, with dimensions of
+longdesc 5.5" x 8.5". The hyperlinked table of contents (ToC) and page
+longdesc numbers make browsing recipes convenient, and the pages can be
+longdesc joined together or printed two per sheet to normal letterpaper
+longdesc easily. The size was chosen to work in half-page 3-ring binder
+longdesc cover sheets.
+containersize 4080
+containerchecksum c030f81bac27221f24b275d689fc7cf80bd6d97ccfecb0c5d51876ae825871854d7729e123caef3735a7b2a5608f070ce170709c8a1723b5c740f05371c82154
+doccontainersize 927924
+doccontainerchecksum 0c9d803360e1ef65b38f5b66c6d3eba6e9c38c371a430e2cca371594935fda16a051d6d1ee33e787114747b9efc36475c6c92b2c8b199aa1a5b48e214f7a4643
+runfiles size=4
+ texmf-dist/tex/latex/recipebook/RecipeBook.cls
+catalogue-also recipe recipecard
+catalogue-ctan /macros/latex/contrib/recipebook
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics cooking class

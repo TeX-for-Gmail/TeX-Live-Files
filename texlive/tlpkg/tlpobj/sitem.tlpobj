@@ -1,0 +1,19 @@
+name sitem
+category Package
+revision 22136
+shortdesc Save the optional argument of \item
+longdesc The package modifies \item commands to save the optional
+longdesc argument in a box.
+containersize 1004
+containerchecksum 64a34fcf0769ed4ab4b201facc056b890a89009e1847e9ca65fb405e1c1144225e8fff59c1a906341521bba5d39e3338900a9a35aff5bb716a5aff5e6aa4d49a
+doccontainersize 73456
+doccontainerchecksum af74d7b4f4dfce45e543494344fa32f4f4d55435034cc1b23b24b333f89d54d0b8c9d0a1247561bb7182d3841fb04b7b3531be847a6fed3db212497ef2ccec3c
+srccontainersize 1428
+srccontainerchecksum 9aa058eac9367ea31804b5c2983873f16d1c74f598fb0967f43257a963a38aeb7d578ddd596dbee87d942d87ece9188c6fe0f5e8734751325121195d9d348769
+runfiles size=1
+ texmf-dist/tex/latex/sitem/sitem.sty
+catalogue-ctan /macros/latex/contrib/sitem
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics list
+catalogue-version 1.0

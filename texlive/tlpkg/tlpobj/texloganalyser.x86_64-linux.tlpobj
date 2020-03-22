@@ -1,0 +1,8 @@
+name texloganalyser.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of texloganalyser
+containersize 344
+containerchecksum f528315a820e989cc6f9824336f4dcc2ece6f1673e018dc7ba2a4b39d02aa7ffd0205c5d58df3b4c2c25dacafb09d2921772021db981866929f01e41c1112f63
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texloganalyser

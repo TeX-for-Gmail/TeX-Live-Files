@@ -1,0 +1,29 @@
+name avremu
+category Package
+revision 35373
+shortdesc An 8-Bit Microcontroller Simulator written in LaTeX
+longdesc A fully working package to simulate a Microprocessor in pure
+longdesc LaTeX. The simulator is able to calculate complex pictures,
+longdesc like Mandelbrot sets.
+containersize 12992
+containerchecksum 2541e80c0dd798675164cace381730c75268d5385883163b67230d49022f16c9ec72a77d602e8b5094db31b1d3aef2f0f71da91ed2f7eb7fe1039117f7488cf3
+doccontainersize 147960
+doccontainerchecksum 12c97e23dc853a971b27258a7666753d019620e832a06b10a49a26f0f30d7c6fde83c0e328e1579b62376f2e9cd10b0b3950fd6c4ca89041a988fedd4c604acb
+srccontainersize 22324
+srccontainerchecksum 1d6a7f16cacd937490ae5e7416f43f4f9eafbf053f6e35d498a26b8d4092ffe79740a12d96503ee5636c4d1d8b3bd02653b4839b957cb91cca672914bbe98899
+runfiles size=27
+ texmf-dist/tex/latex/avremu/avr.binary.tex
+ texmf-dist/tex/latex/avremu/avr.bitops.tex
+ texmf-dist/tex/latex/avremu/avr.draw.tex
+ texmf-dist/tex/latex/avremu/avr.instr.tex
+ texmf-dist/tex/latex/avremu/avr.io.tex
+ texmf-dist/tex/latex/avremu/avr.memory.tex
+ texmf-dist/tex/latex/avremu/avr.numbers.tex
+ texmf-dist/tex/latex/avremu/avr.testsuite.tex
+ texmf-dist/tex/latex/avremu/avremu.sty
+catalogue-contact-repository https://gitlab.brokenpipe.de/stettberger/avremu
+catalogue-ctan /macros/latex/contrib/avremu
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics emulation
+catalogue-version 0.1

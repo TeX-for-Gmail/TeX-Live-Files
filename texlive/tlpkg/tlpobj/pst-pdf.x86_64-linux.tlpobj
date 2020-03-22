@@ -1,0 +1,8 @@
+name pst-pdf.x86_64-linux
+category Package
+revision 8601
+shortdesc x86_64-linux files of pst-pdf
+containersize 340
+containerchecksum d9760fc7c12fe18d29d516595d6b20ad34e9f8441d8d3a5870ad97c603f128d4b979d5f8322785dd0ce49f864617c37b8d6babde3a10733165acb5fa522a2563
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ps4pdf

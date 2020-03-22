@@ -1,0 +1,34 @@
+name yathesis
+category Package
+revision 50630
+shortdesc A LaTeX class for writing a thesis following French rules
+longdesc The purpose of yathesis is to facilitate dissertations'
+longdesc typesetting of theses prepared in France, whatever disciplines
+longdesc and institutes. It implements most notably recommendations from
+longdesc the Ministry of Higher Education and Research and this,
+longdesc transparently to the user. It has also been designed to
+longdesc (optionally) take advantage of powerful tools available in
+longdesc LaTeX, including packages: BibLaTeX for the bibliography;
+longdesc glossaries for the glossary, list of acronyms and symbols list.
+longdesc The yathesis class, based on the book class, aims to be both
+longdesc simple to use and, to some extent, (easily) customizable.
+longdesc yathesis comes with templates and samples in the
+longdesc doc/latex/yathesis/french/exemples/ directory in the
+longdesc distribution. They can also be tested on ShareLaTeX (template
+longdesc and specimen) and on Overleaf (template and specimen).
+containersize 22364
+containerchecksum f1ce86e173825007f87c2e4c3020ac761e7689cc079993dc7fbcb89985cc8e2684eb5bee4dc7e0a7bf44df0a37fe1d8fb8193e7006b511c256dad2b1b1e1ca4b
+doccontainersize 4945180
+doccontainerchecksum 55f640414d27a1786edb8c1e4542bdabef94fe89e40c5eb06b56db97c6cd06f72f9386a4d27e674e956e7230015406a8f9df54f90e898ea8b7f174f5eeae6dd6
+srccontainersize 49136
+srccontainerchecksum f3014c4a15010794a30c14a51f9fba4ef39a128e4dd566991b57bd66be3f877745e14c8b1f8e50942870dd3867c892a99d352a9c2d8b275fb299d8c58c511de6
+runfiles size=34
+ texmf-dist/tex/latex/yathesis/yathesis-demo.sty
+ texmf-dist/tex/latex/yathesis/yathesis-translations.tex
+ texmf-dist/tex/latex/yathesis/yathesis.cls
+catalogue-contact-repository https://github.com/dbitouze/yathesis
+catalogue-ctan /macros/latex/contrib/yathesis
+catalogue-date 2019-03-28 19:39:05 +0100
+catalogue-license lppl1.3
+catalogue-topics class dissertation french
+catalogue-version 0.99u

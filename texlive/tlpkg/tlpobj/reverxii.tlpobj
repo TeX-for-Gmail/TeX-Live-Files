@@ -1,0 +1,15 @@
+name reverxii
+category Package
+revision 24976
+shortdesc Playing Reversi in TeX
+longdesc Following the lead of xii.tex, this little (938 characters)
+longdesc program that plays Reversi. (The program incorporates some
+longdesc primitive AI.)
+containersize 456
+containerchecksum fa6efb9655cda15356163a93ca89f2b6a114ea5bdc151774bc99910fabd3306781319f92a5b5728f29df136c73f994f49011e31ea9c1c01b4ef2fed10af10a93
+doccontainersize 206752
+doccontainerchecksum ff6b03b426de5508eb31fa5b2fe615fd5b7f0a6721e949bb48e1954c28cb547faa079461c0b1f885163bcba40c7f7d2a3fdc7dfb3946c08c308f5c37d33605a2
+catalogue-ctan /macros/plain/contrib/reverxii
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics games frivolous

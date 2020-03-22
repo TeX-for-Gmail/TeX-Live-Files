@@ -1,0 +1,8 @@
+name match_parens.x86_64-linux
+category Package
+revision 23500
+shortdesc x86_64-linux files of match_parens
+containersize 344
+containerchecksum 9e6b2abaa4a3abe3577c61d06277d1a295136acbeb98719f18d870dd7870525080a0e1bfe5d17f30e3ee6cd239d3a9e7d70c90a1cb278139a4e3503f6ba4a334
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/match_parens

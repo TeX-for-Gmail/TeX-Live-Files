@@ -1,0 +1,32 @@
+name amiri
+category Package
+revision 46104
+shortdesc A classical Arabic typeface, Naskh style
+longdesc Amiri is a classical Arabic typeface in Naskh style for
+longdesc typesetting books and other running text. It is a revival of
+longdesc the beautiful typeface pioneered in the early 20th century by
+longdesc Bulaq Press in Cairo, also known as Amiria Press, after which
+longdesc the font is named. The project aims at the revival of the
+longdesc aesthetics and traditions of Arabic typesetting, and adapting
+longdesc it to the era of digital typesetting, in a publicly available
+longdesc form.
+containersize 543960
+containerchecksum c64b9b61c808b100092eea9f6d3442d218c5a65b071041dbea6701a8a8e8d1a507561d5fef7ba756d896954703e5852572af72bc89aaadf07dc5a9930d44e5e2
+doccontainersize 249604
+doccontainerchecksum dea04783cf136ef5ef52a40d47f10322316cb0574dbf666a570554374a5f17acfcdc3ade7d529ff9c488cd3dbe3d139f36ba9c94565dc19117eed8e16f78290a
+runfiles size=716
+ texmf-dist/fonts/truetype/public/amiri/amiri-bold.ttf
+ texmf-dist/fonts/truetype/public/amiri/amiri-boldslanted.ttf
+ texmf-dist/fonts/truetype/public/amiri/amiri-quran-colored.ttf
+ texmf-dist/fonts/truetype/public/amiri/amiri-quran.ttf
+ texmf-dist/fonts/truetype/public/amiri/amiri-regular.ttf
+ texmf-dist/fonts/truetype/public/amiri/amiri-slanted.ttf
+catalogue-contact-bugs https://github.com/alif-type/amiri/issues
+catalogue-contact-home http://amirifont.org
+catalogue-contact-repository https://github.com/alif-type/amiri
+catalogue-contact-support https://github.com/alif-type/amiri/issues
+catalogue-ctan /fonts/amiri
+catalogue-date 2017-12-20 14:05:09 +0100
+catalogue-license ofl
+catalogue-topics font font-ttf arabic
+catalogue-version 0.110

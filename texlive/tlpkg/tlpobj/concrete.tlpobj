@@ -1,0 +1,48 @@
+name concrete
+category Package
+revision 15878
+shortdesc Concrete Roman fonts
+longdesc Concrete Roman fonts, designed by Donald E. Knuth, originally
+longdesc for use with Euler mathematics fonts. Alternative mathematics
+longdesc fonts, based on the concrete 'parameter set' are available as
+longdesc the concmath fonts bundle. LaTeX support is offered by the
+longdesc beton, concmath and ccfonts packages. T1- and TS1-encoded
+longdesc versions of the fonts are available in the ecc bundle, and
+longdesc Adobe Type 1 versions of the ecc fonts are part of the cm-super
+longdesc bundle.
+containersize 9536
+containerchecksum 465b6d7e427e8bd7b8cfb44551d4f8999ed0e8482f905416ec4ea7db6ea4293e6124f0b69e84a84655d5230cee1555f15030c8dfeac8c7da99c1c8ba20a3d640
+doccontainersize 2352
+doccontainerchecksum 5fb4fd77468dd4d5ba19d43d176588f05345038d58c9b0b2630e6795ed33bdb3db0053d5bb249030a118bf19cddf7c7e4d8f1ae96173b1e1368e468ea2c00727
+runfiles size=28
+ texmf-dist/fonts/source/public/concrete/cccsc10.mf
+ texmf-dist/fonts/source/public/concrete/ccmi10.mf
+ texmf-dist/fonts/source/public/concrete/ccmic9.mf
+ texmf-dist/fonts/source/public/concrete/ccr10.mf
+ texmf-dist/fonts/source/public/concrete/ccr5.mf
+ texmf-dist/fonts/source/public/concrete/ccr6.mf
+ texmf-dist/fonts/source/public/concrete/ccr7.mf
+ texmf-dist/fonts/source/public/concrete/ccr8.mf
+ texmf-dist/fonts/source/public/concrete/ccr9.mf
+ texmf-dist/fonts/source/public/concrete/ccsl10.mf
+ texmf-dist/fonts/source/public/concrete/ccsl9.mf
+ texmf-dist/fonts/source/public/concrete/ccslc9.mf
+ texmf-dist/fonts/source/public/concrete/ccti10.mf
+ texmf-dist/fonts/source/public/concrete/odigs.mf
+ texmf-dist/fonts/tfm/public/concrete/cccsc10.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccmi10.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccmic9.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr10.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr5.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr6.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr7.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr8.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccr9.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccsl10.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccsl9.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccslc9.tfm
+ texmf-dist/fonts/tfm/public/concrete/ccti10.tfm
+catalogue-ctan /fonts/concrete
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license knuth
+catalogue-topics font font-mf

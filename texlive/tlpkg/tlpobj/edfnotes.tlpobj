@@ -1,0 +1,21 @@
+name edfnotes
+category Package
+revision 21540
+shortdesc Critical annotations to footnotes with ednotes
+longdesc The package modifies the annotation commands and label-test
+longdesc mechanism of the ednotes package so that critical notes appear
+longdesc on the pages and in the order that one would expect.
+containersize 14048
+containerchecksum 3ffca21a97b1e54045129a8894db25d677a54c791e3453f53285741bceff0eb4c7cc00e81706ef77ac475a0f54a7868f2e9b444df0c4e4ba6b161fdfa954dc07
+doccontainersize 281120
+doccontainerchecksum 144e2e22c4ceb6ea46235ed51b9a1ad4b20aa524af7b6eff617194aaec4f1606d857a8575e95816b4ef089e5c7d3fc1e2fc8e622486bafe9e5a9ace22bb44105
+srccontainersize 2680
+srccontainerchecksum 9fb306c9b77f0988fcc2dde74336687e8678364e2d53167bff8053a5888de1cf51240778281a7c864a7b8a66738d2c894e7e4b7a88871f0f7ce0e40c61b706be
+runfiles size=11
+ texmf-dist/tex/latex/edfnotes/edfnotes.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/edfnotes
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics crit-ed footnote
+catalogue-version 0.6b

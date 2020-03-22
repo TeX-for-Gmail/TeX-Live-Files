@@ -1,0 +1,18 @@
+name FAQ-en
+category Package
+revision 34303
+catalogue uk-tex-faq
+shortdesc A compilation of Frequently Asked Questions with answers
+longdesc The FAQ that has in the past been published in the UK TeX Users
+longdesc Group journal Baskerville (though updated more frequently on
+longdesc CTAN). It is also available (and searchable) via on the web.
+containersize 552
+containerchecksum 98b7171cec8c85e6ac544401386ab5f10b314c8b4e31dc579c631454ba8a785e0cca86955cd3770b9859bd36f7058e8175002d9b061e33f39f804d9e1b039073
+doccontainersize 5089052
+doccontainerchecksum 4d9f981728306862b6c26a3e3194ab3f6180bd9d57a7a8d7ec71d5651a2e382af2c1b355f2db0494ee14c136500d65e36f31eae9f0482d507febe87773bb44d6
+catalogue-contact-home http://www.tex.ac.uk/faq
+catalogue-ctan /help/uk-tex-faq
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license pd
+catalogue-topics faq documentation
+catalogue-version 3.28

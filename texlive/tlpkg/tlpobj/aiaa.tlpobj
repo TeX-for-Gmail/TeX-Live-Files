@@ -1,0 +1,22 @@
+name aiaa
+category Package
+revision 15878
+shortdesc Typeset AIAA conference papers
+longdesc A bundle of LaTeX/BibTeX files and sample documents to aid
+longdesc those producing papers and journal articles according to the
+longdesc guidelines of the American Institute of Aeronautics and
+longdesc Astronautics (AIAA).
+containersize 8780
+containerchecksum 9a5c04cc0b24e2b11e4b6953ceed9e506ad9f44922b3407c3aed1f5fd1fda1e86b1a5d6613a059065c1026f69830a8f5af0ed21ad8e1856ab44d22985768f24a
+doccontainersize 928712
+doccontainerchecksum cd69337eb21eaeff910696f153bc97fca94afa0b147e3360477f72c5d90afa5d54d375b5eb7801df1b988c8f11d8fd23848a07f013a4e06c28a013248e00599b
+srccontainersize 16568
+srccontainerchecksum e9542fb3cb5a16a565bb5c349f15b453ccb4c81570425a5825f0f952816ec27edad65ee670bed9069dd0c1c8762b5becf6300ad551b15bc5adff960f73354588
+runfiles size=10
+ texmf-dist/bibtex/bst/aiaa/aiaa.bst
+ texmf-dist/tex/latex/aiaa/aiaa-tc.cls
+catalogue-ctan /macros/latex/contrib/aiaa
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics journalpub
+catalogue-version 3.6

@@ -1,0 +1,29 @@
+name struktex
+category Package
+revision 47931
+shortdesc Draw Nassi-Shneiderman charts
+longdesc Even in the age of OOP one must develop algorithms.
+longdesc Nassi-Shneiderman charts are a well known tool to describe an
+longdesc algorithm in a graphical way. The package offers some macros
+longdesc for generating those charts in a LaTeX document. The package
+longdesc provides the most important elements of a Nassi-Shneiderman
+longdesc charts, including processing blocks, loops, mapping conventions
+longdesc for alternatives, etc. The charts are drawn using the picture
+longdesc environment (using pict2e for preference).
+containersize 10100
+containerchecksum 3d81817eac5cc8b8bd468537406db6a26fecdaad1db269c2ceed582cae84fc2b549eaf527d4c356be7d4f2f16f9db4746251e9b69db0f0fc3cc8acd9f39d1f50
+doccontainersize 785284
+doccontainerchecksum 261a9f7ef5036bc8eebb87ba503b604b158647e82e88844758be506ac5d389103661f681689a836c0048529446bad0d6537a6fc6ba273dd2ed29abee40336360
+srccontainersize 65696
+srccontainerchecksum 98b06394519aafc81a565c7b12fb1ad86856ca447cb5ccae14aacc95bded9663a72bea301e7f5998eb9cc2a6358c978881736e564c3672eef456c6c44efcce0c
+runfiles size=14
+ texmf-dist/tex/latex/struktex/strukdoc.sty
+ texmf-dist/tex/latex/struktex/struktex.sty
+ texmf-dist/tex/latex/struktex/struktxf.sty
+ texmf-dist/tex/latex/struktex/struktxp.sty
+catalogue-also pict2e
+catalogue-ctan /macros/latex/contrib/struktex
+catalogue-date 2018-06-04 21:54:41 +0200
+catalogue-license lppl1.2
+catalogue-topics diagram-flow
+catalogue-version 2.3c-0-g7d3fc5b

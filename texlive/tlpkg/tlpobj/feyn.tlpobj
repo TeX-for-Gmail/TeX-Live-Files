@@ -1,0 +1,58 @@
+name feyn
+category Package
+revision 45679
+shortdesc A font for in-text Feynman diagrams
+longdesc Feyn may be used to produce relatively simple Feynman diagrams
+longdesc within equations in a LaTeX document. While the feynmf package
+longdesc is good at drawing large diagrams for figures, the present
+longdesc package and its fonts allow diagrams within equations or text,
+longdesc at a matching size. The fonts are distributed as Metafont
+longdesc source, and macros for their use are also provided.
+containersize 13544
+containerchecksum 56e7d5b875db6eb6e5ad2b07d5696fa4fc6cea7d0f0f9d691bdec0fb90f16bbcac0c9f20f8f16bde20eabf98f72fbbd75831af1191b229cd7acca60bb2edda28
+doccontainersize 516516
+doccontainerchecksum df4454efa6f9130fac5ee2986abdd8eacb42063930ee194b65d94a1e1a90460c4116fd62da232f01f94fad63d9eaef627655aedadaaf034f910ebb97b40a7792
+srccontainersize 16212
+srccontainerchecksum fbfa44afe7f1ae10566d736cadd02a3d9f562b19d25b2f23b1dc27fefc77d6b7af550e7161bba7c62d63f3c75d8b704dfdc3befadef9ad42ed42e42000ab4557
+runfiles size=42
+ texmf-dist/fonts/source/public/feyn/feyn.mf
+ texmf-dist/fonts/source/public/feyn/feyn10.mf
+ texmf-dist/fonts/source/public/feyn/feyn11.mf
+ texmf-dist/fonts/source/public/feyn/feyn12.mf
+ texmf-dist/fonts/source/public/feyn/feyn18.mf
+ texmf-dist/fonts/source/public/feyn/feyn24.mf
+ texmf-dist/fonts/source/public/feyn/feynmac.mf
+ texmf-dist/fonts/source/public/feyn/feyntext10.mf
+ texmf-dist/fonts/source/public/feyn/feyntext11.mf
+ texmf-dist/fonts/source/public/feyn/feyntext12.mf
+ texmf-dist/fonts/source/public/feyn/feyntext18.mf
+ texmf-dist/fonts/source/public/feyn/feyntext24.mf
+ texmf-dist/fonts/source/public/feyn/feynx10.mf
+ texmf-dist/fonts/source/public/feyn/feynx11.mf
+ texmf-dist/fonts/source/public/feyn/feynx12.mf
+ texmf-dist/fonts/source/public/feyn/feynx18.mf
+ texmf-dist/fonts/source/public/feyn/feynx24.mf
+ texmf-dist/fonts/tfm/public/feyn/feyn10.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyn11.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyn12.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyn18.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyn24.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyntext10.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyntext11.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyntext12.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyntext18.tfm
+ texmf-dist/fonts/tfm/public/feyn/feyntext24.tfm
+ texmf-dist/fonts/tfm/public/feyn/feynx10.tfm
+ texmf-dist/fonts/tfm/public/feyn/feynx11.tfm
+ texmf-dist/fonts/tfm/public/feyn/feynx12.tfm
+ texmf-dist/fonts/tfm/public/feyn/feynx18.tfm
+ texmf-dist/fonts/tfm/public/feyn/feynx24.tfm
+ texmf-dist/tex/latex/feyn/feyn.sty
+catalogue-contact-bugs https://bitbucket.org/nxg/feyn/issues
+catalogue-contact-home http://purl.org/nxg/dist/feyn
+catalogue-contact-repository https://bitbucket.org/nxg/feyn/
+catalogue-ctan /fonts/feyn
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license bsd
+catalogue-topics graphics-use physics font font-mf
+catalogue-version 0.4.1

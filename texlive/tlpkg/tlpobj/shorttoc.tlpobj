@@ -1,0 +1,21 @@
+name shorttoc
+category Package
+revision 15878
+shortdesc Table of contents with different depths
+longdesc A package to create another table of contents with a different
+longdesc depth, useful in large documents where a detailed table of
+longdesc contents should be accompanied by a shorter one, giving only a
+longdesc general overview of the main topics in the document.
+containersize 1344
+containerchecksum 6e78bca7425e0b23d7520af19494d9de303b86fae7a013ef85b2d512ee86be1f478ede2293650b435ab579811e444b570995e2ae8720afc60b42c0c26d7489a6
+doccontainersize 192508
+doccontainerchecksum 03090924cdde619877b271fbd70761035b5da1f2278a3642b471a86e83559da316558a752d85716242001f40ca403a985d036750218e78d873a4920905c5a652
+srccontainersize 3876
+srccontainerchecksum 2841e846e2e691864e3412c52c3cb2130462b2b94f01ab9ccfba7cad05392db2b63ce3cd3ce60896a7861969ea20fdd3b1918a69e122316149af3fddf1b9c492
+runfiles size=1
+ texmf-dist/tex/latex/shorttoc/shorttoc.sty
+catalogue-ctan /macros/latex/contrib/shorttoc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics toc-etc
+catalogue-version 1.3

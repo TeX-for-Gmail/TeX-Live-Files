@@ -1,0 +1,22 @@
+name fontmfizz
+category Package
+revision 43546
+shortdesc Font Mfizz icons for use in LaTeX
+longdesc The MFizz font provides scalable vector icons representing
+longdesc programming languages, operating systems, software engineering,
+longdesc and technology. It can be seen as an extension to FontAwesome.
+longdesc This package requires the fontspec package and either the
+longdesc Xe(La)TeX or Lua(La)TeX engine to load the included ttf font.
+containersize 39608
+containerchecksum 43febb41a8bd7b0a89a2b60b52f9b83e0d0fa8303c0a7986658a95c93307ba6642fe07f8ac935ccb50b3047bc74100cc7268fde438d3ff80c944ac59afa6e3df
+doccontainersize 55148
+doccontainerchecksum 6dc0f6c10d44a17d42d8ed4148f39bf89c84dd5a3a672755340456b0ab983b1b52cbd3bb62cd6f5ef4c3f6dfed8a39568d5ca35598c4b016483fcf7d3cdeb360
+runfiles size=21
+ texmf-dist/fonts/truetype/public/fontmfizz/font-mfizz.ttf
+ texmf-dist/tex/latex/fontmfizz/fontmfizz.sty
+catalogue-also fontawesome
+catalogue-contact-repository https://github.com/kdungs/latex-fontmfizz/
+catalogue-ctan /fonts/fontmfizz
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license mit
+catalogue-topics font font-supp-symbol font-symbol font-ttf

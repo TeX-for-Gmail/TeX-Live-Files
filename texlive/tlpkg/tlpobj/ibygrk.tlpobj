@@ -1,0 +1,76 @@
+name ibygrk
+category Package
+revision 15878
+shortdesc Fonts and macros to typeset ancient Greek
+longdesc Ibycus is a Greek typeface, based on Silvio Levy's realisation
+longdesc of a classic Didot cut of Greek type from around 1800. The
+longdesc fonts are available both as Metafont source and in Adobe Type 1
+longdesc format. This distribution of ibycus is accompanied by a set of
+longdesc macro packages to use it with Plain TeX or LaTeX, but for use
+longdesc with Babel, see the ibycus-babel package.
+execute addMixedMap iby.map
+containersize 138944
+containerchecksum 89002af0024ec804ebffcc45f3a33337ffdb66f71e1ca70224b0936388892dadf99605a8ca3f59a2b879e76e24acc91b1da92622d602f49b236aecb8aafe64b9
+doccontainersize 15576
+doccontainerchecksum 9dd3bd7a8ef3267965f30048e4a71314b6a9813cb400b7a94dfe285606d7554cde80aa429603d0fb1f587935e193e5ece5ed67870fc4e0c66eb5152c392a9cdc
+runfiles size=109
+ texmf-dist/fonts/afm/public/ibygrk/fibb84.afm
+ texmf-dist/fonts/afm/public/ibygrk/fibr84.afm
+ texmf-dist/fonts/enc/dvips/ibygrk/IbycusHTG.enc
+ texmf-dist/fonts/map/dvips/ibygrk/iby.map
+ texmf-dist/fonts/source/public/ibygrk/abary4.mf
+ texmf-dist/fonts/source/public/ibygrk/cigma4.mf
+ texmf-dist/fonts/source/public/ibygrk/digamma4.mf
+ texmf-dist/fonts/source/public/ibygrk/ebary4.mf
+ texmf-dist/fonts/source/public/ibygrk/fibb84.mf
+ texmf-dist/fonts/source/public/ibygrk/fibb848.mf
+ texmf-dist/fonts/source/public/ibygrk/fibb849.mf
+ texmf-dist/fonts/source/public/ibygrk/fibo84.mf
+ texmf-dist/fonts/source/public/ibygrk/fibo848.mf
+ texmf-dist/fonts/source/public/ibygrk/fibo849.mf
+ texmf-dist/fonts/source/public/ibygrk/fibr84.mf
+ texmf-dist/fonts/source/public/ibygrk/fibr848.mf
+ texmf-dist/fonts/source/public/ibygrk/fibr849.mf
+ texmf-dist/fonts/source/public/ibygrk/hbary4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibary4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibyacc4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibycus4.map
+ texmf-dist/fonts/source/public/ibygrk/ibycus4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibylig4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibylwr4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibypnct4.mf
+ texmf-dist/fonts/source/public/ibygrk/ibyupr4.mf
+ texmf-dist/fonts/source/public/ibygrk/koppa4.mf
+ texmf-dist/fonts/source/public/ibygrk/obary4.mf
+ texmf-dist/fonts/source/public/ibygrk/sampi4.mf
+ texmf-dist/fonts/source/public/ibygrk/ubary4.mf
+ texmf-dist/fonts/source/public/ibygrk/version4.mf
+ texmf-dist/fonts/source/public/ibygrk/wbary4.mf
+ texmf-dist/fonts/tfm/public/ibygrk/fibb84.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibb848.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibb849.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibo84.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibo848.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibo849.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibr84.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibr848.tfm
+ texmf-dist/fonts/tfm/public/ibygrk/fibr849.tfm
+ texmf-dist/fonts/type1/public/ibygrk/fibb84.pfb
+ texmf-dist/fonts/type1/public/ibygrk/fibr84.pfb
+ texmf-dist/tex/generic/ibygrk/Uibycus.fd
+ texmf-dist/tex/generic/ibygrk/Uibycus4.fd
+ texmf-dist/tex/generic/ibygrk/iby4extr.tex
+ texmf-dist/tex/generic/ibygrk/ibycus4.map
+ texmf-dist/tex/generic/ibygrk/ibycus4.sty
+ texmf-dist/tex/generic/ibygrk/ibycus4.tex
+ texmf-dist/tex/generic/ibygrk/ibycusps.tex
+ texmf-dist/tex/generic/ibygrk/psibycus.sty
+ texmf-dist/tex/generic/ibygrk/pssetiby.tex
+ texmf-dist/tex/generic/ibygrk/setiby4.tex
+ texmf-dist/tex/generic/ibygrk/tlgsqq.tex
+ texmf-dist/tex/generic/ibygrk/version4.tex
+catalogue-ctan /fonts/greek/ibygrk
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-greek greek
+catalogue-version 4.5

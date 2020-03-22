@@ -1,0 +1,8 @@
+name texsis.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of texsis
+containersize 320
+containerchecksum b2224c1f50890c32a31cf924fe66e88a2c350210ab77be87278dbd2b94152480fa76dc5db0cde6a3e0577be06dd950e79e8e4dce7fe1b5e6df1eae5d74bdc771
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texsis

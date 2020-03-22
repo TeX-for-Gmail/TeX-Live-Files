@@ -1,0 +1,26 @@
+name hepthesis
+category Package
+revision 46054
+shortdesc A class for academic reports, especially PhD theses
+longdesc Hepthesis is a LaTeX class for typesetting large academic
+longdesc reports, in particular PhD theses. It was originally developed
+longdesc for typesetting the author's high-energy physics PhD thesis and
+longdesc includes some features specifically tailored to such an
+longdesc application. In particular, hepthesis offers: Attractive
+longdesc semantic environments for various rubric sections; Extensive
+longdesc options for draft production, screen viewing and binding-ready
+longdesc output; Helpful extensions of existing environments, including
+longdesc equation and tabular; and Support for quotations at the start
+longdesc of the thesis and each chapter. The class is based on scrbook,
+longdesc from the KOMA-Script bundle.
+containersize 7212
+containerchecksum ea6543fec07480af8db52e43ea5fda346ed4e9ea245af0810a6988d864675a903841849e502506b333cef0b1685a6946ebf1f686bbc74f4ddcc7eea676c019ed
+doccontainersize 689568
+doccontainerchecksum e456a0ca03da4bf71d767616a140b6e1d922e05944a4db2c0cbb360dff39fc7e8bae741ae5adb49972253f38774f1a9c65393bcf4e38e3c568b0215a04f63d48
+runfiles size=7
+ texmf-dist/tex/latex/hepthesis/hepthesis.cls
+catalogue-ctan /macros/latex/contrib/hepthesis
+catalogue-date 2017-12-12 12:49:18 +0100
+catalogue-license lppl
+catalogue-topics physics dissertation class
+catalogue-version 1.5.2

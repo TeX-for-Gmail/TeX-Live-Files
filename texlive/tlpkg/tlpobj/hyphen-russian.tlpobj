@@ -1,0 +1,25 @@
+name hyphen-russian
+category TLCore
+revision 50792
+shortdesc Russian hyphenation patterns.
+longdesc Hyphenation patterns for Russian in T2A and UTF-8 encodings.
+longdesc For 8-bit engines, the 'ruhyphen' package provides a number of
+longdesc different pattern sets, as well as different (8-bit) encodings,
+longdesc that can be chosen at format-generation time.  The UTF-8
+longdesc version only provides the default pattern set.  A mechanism
+longdesc similar to the one used for 8-bit patterns may be implemented
+longdesc in the future.
+depend hyphen-base
+depend hyph-utf8
+depend ruhyphen
+execute AddHyphen 	name=russian 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-ru.tex 	file_patterns=hyph-ru.pat.txt 	file_exceptions=hyph-ru.hyp.txt
+containersize 34672
+containerchecksum d20071c8db823db7ee342a4b0a08d1ea0c4d5d84be9f301b1d636eb6411fb2e26946b27f54049af15a30b05e5eaec7d84dcbbf1f1ece318a2ef114ed4c998f68
+runfiles size=65
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ru.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-ru.t2a.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ru.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ru.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ru.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ru.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ru.pat.txt

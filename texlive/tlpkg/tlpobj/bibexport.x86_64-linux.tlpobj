@@ -1,0 +1,8 @@
+name bibexport.x86_64-linux
+category Package
+revision 16219
+shortdesc x86_64-linux files of bibexport
+containersize 340
+containerchecksum 50c97b45d55fb59962dd41f40ad3460353d5501eaaee6c735cf017c6e25340d8548b7118df8b8f90b983fdfc6f23cb08c57541592b588b49d3994f007b8678c9
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/bibexport

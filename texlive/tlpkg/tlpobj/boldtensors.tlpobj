@@ -1,0 +1,16 @@
+name boldtensors
+category Package
+revision 15878
+shortdesc Bold latin and greek characters through simple prefix characters
+longdesc This package provides bold latin and greek characters within
+longdesc \mathversion{normal}, by using ~ and " as prefix characters.
+containersize 2616
+containerchecksum 3c2d17f2bf8ff48638540ec5a3ea57bc835227291fdf6580747a87dafeed6afa4f49b91a67154da35dfac9a405aab2aaed5bbef1ac188291319a972b4e50ebeb
+doccontainersize 53640
+doccontainerchecksum 657bdc4960e2d40621520240840ab4252e927baca704da0388e3124938c55de834e59cf8ff3d900aa294ac366ae7b1367909cbe885de08790d51380726960146
+runfiles size=3
+ texmf-dist/tex/latex/boldtensors/boldtensors.sty
+catalogue-ctan /macros/latex/contrib/boldtensors
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths

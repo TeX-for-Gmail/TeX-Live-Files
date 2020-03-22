@@ -1,0 +1,25 @@
+name statmath
+category Package
+revision 46925
+shortdesc A LaTeX package for simple use of statistical notation
+longdesc The package offers anumber of notational conventions to be used
+longdesc in applied and theoretical papers in statistics which are
+longdesc currently lacking in the popular amsmath package. The seasoned
+longdesc LaTeX user will see that the provided commands are simple,
+longdesc almost trivial, but will hopefully offer less cluttered
+longdesc preambles as well as a welcome help for novice users.
+containersize 1712
+containerchecksum 128532a808c4f8cae9ad03d19d9f70673427f9335d298d4840776ecf59a78b0051de64093f00510ef34c61d3e2ab900d4494f800eff8183a4c8451bf90a1424f
+doccontainersize 205828
+doccontainerchecksum 14754afa159041c359c85d31d8cf3483789b02a7057f59f6772455ff7dfbaaf81e793db3bbdb8d1a67e25de7a00f32c22089e2cc908cb1c2e0abf6a17eceb7fc
+srccontainersize 3544
+srccontainerchecksum 67329fcd533335927638057bdafd76c3db6e49abbc23c63027623397ab35450ba811acf61c5b3ef299077cc92a14df3f0d66076a8f8a2d009ef9e4828ebb533e
+runfiles size=2
+ texmf-dist/tex/latex/statmath/statmath.sty
+catalogue-contact-bugs https://github.com/ankargren/statmath/issues
+catalogue-contact-home https://github.com/ankargren/statmath
+catalogue-ctan /macros/latex/contrib/statmath
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl1.3
+catalogue-topics statistics
+catalogue-version 0.1

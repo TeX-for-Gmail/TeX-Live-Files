@@ -1,0 +1,22 @@
+name hypdvips
+category Package
+revision 34364
+shortdesc Hyperref extensions for use with dvips
+longdesc The hypdvips package fixes some problems when using hyperref
+longdesc with dvips. It also adds support for breaking links, file
+longdesc attachments, embedded documents and different types of
+longdesc GoTo-links. The cooperation of hyperref with cleveref is
+longdesc improved, which in addition allows an enhanced back-referencing
+longdesc system.
+containersize 23860
+containerchecksum d0f1e7c36cbac7d361b94a78e46d58d93f95888b2faf3574ddd89977a8772aa7a26bd9df7bc69b778c221f3c3fc832b4cb1f46f5e2a120c44c1b8d58593d851d
+doccontainersize 1053048
+doccontainerchecksum 6a3cafd8d8baf67d7e219edf859e547641dac2c01c22e0b4aa546f59032a24edbe8bb302ec707a78a9b98716f0a3eb52752c018897c401beb73dfa8d5da7ea71
+runfiles size=29
+ texmf-dist/tex/latex/hypdvips/hypdvips.sty
+catalogue-also breakurl
+catalogue-ctan /macros/latex/contrib/hypdvips
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics hyper
+catalogue-version 3.02

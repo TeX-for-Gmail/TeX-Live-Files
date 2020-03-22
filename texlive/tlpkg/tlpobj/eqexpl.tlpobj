@@ -1,0 +1,22 @@
+name eqexpl
+category Package
+revision 49151
+shortdesc Align explanations for formulas
+longdesc This package was developed in response to a question on
+longdesc https://tex.stackexchange.com. Its purpose is to enable a
+longdesc perfectly formatted explanation of components of a formula.
+containersize 1176
+containerchecksum d69313012cc1234eb99958e171fe8a228652935f0dc7f53b75c673d11f41b5a68de7a337ad35749efa004062ed0464acac8551bf3be15ce6c0c6beb1dd9c79af
+doccontainersize 71836
+doccontainerchecksum 81e4690ee66740cad724458736cdefdcc7cef54ce31d5601c4e54fe2816bcb8959fbdf35825228d9cf4b39c4275a42d6c0fae967c8b628d96e8ec290dc388e7f
+runfiles size=1
+ texmf-dist/tex/latex/eqexpl/eqexpl.sty
+catalogue-also nomencl
+catalogue-contact-bugs https://github.com/konstantin-morenko/latex-equation-explanation/issues
+catalogue-contact-home https://konstantin-morenko.github.io/latex-equation-explanation/
+catalogue-contact-repository https://github.com/konstantin-morenko/latex-equation-explanation
+catalogue-ctan /macros/latex/contrib/eqexpl
+catalogue-date 2018-11-15 07:57:03 +0100
+catalogue-license cc-by-sa-4
+catalogue-topics alignment
+catalogue-version 1

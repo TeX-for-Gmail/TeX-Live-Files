@@ -1,0 +1,20 @@
+name verbments
+category Package
+revision 23670
+shortdesc Syntax highlighting of source code in LaTeX documents
+longdesc The package provides an environment for syntax highlighting
+longdesc source code in LaTeX documents. The highlighted source code
+longdesc output is formatted via powerful Pygments library of the Python
+longdesc language.
+containersize 2200
+containerchecksum 7b5780efe1b6e4cc62909df5d5cd4a03be3dc83717f20738a83f37f539103ad12e382c0a3891b8e81b44086f92b7277b17e88c4e7d81123c04941c38114f23c8
+doccontainersize 74784
+doccontainerchecksum 744471659373efbe040bd0698a9b33a0942d5df33312ad3cdd0f02c0e16fd2c67ea44c4ab13ce83ddca6a5e8ca68c8c8bc40c1a64470a9716511e2275683b004
+runfiles size=2
+ texmf-dist/tex/latex/verbments/verbments.sty
+catalogue-also minted texments
+catalogue-ctan /macros/latex/contrib/verbments
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics listing
+catalogue-version 1.2

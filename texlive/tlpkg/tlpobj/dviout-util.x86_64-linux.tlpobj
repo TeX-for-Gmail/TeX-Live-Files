@@ -1,0 +1,9 @@
+name dviout-util.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of dviout-util
+containersize 72572
+containerchecksum 0add1135a7460fdf770f189a2acdc2be22c35c35cdc546f25dcfa8052a7696a5083250283713b687f1b0e17bd616740e4dd026168fcc433557c8261f54dd23fb
+binfiles arch=x86_64-linux size=40
+ bin/x86_64-linux/chkdvifont
+ bin/x86_64-linux/dvispc

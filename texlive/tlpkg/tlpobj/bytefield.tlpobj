@@ -1,0 +1,21 @@
+name bytefield
+category Package
+revision 45339
+shortdesc Create illustrations for network protocol specifications
+longdesc The bytefield package helps the user create illustrations for
+longdesc network protocol specifications and anything else that utilizes
+longdesc fields of data. These illustrations show how the bits and bytes
+longdesc are laid out in a packet or in memory.
+containersize 4552
+containerchecksum ae5c3c97ded2cc83be2dad6d67132b75eb55b22ffd8d4c0bd49dc842344a310c4ac80571165e43d2b446148dee1ae3927fc2193a92e85e75ad457b4732bca7ed
+doccontainersize 552556
+doccontainerchecksum 6657581a9b97383c2dc3f8972ff77461a73ea33ecc0ba4dacbf0188e1db0dbe21e2d324dbb8fac7f05fafa585d3672d6de7d7db267a8e9f5e623838d0c46df5d
+srccontainersize 27396
+srccontainerchecksum 1fab74d218ade9454924cff4345c55d6dde25d4350cd238834677d24be89ddc58ce7a610e089158281a472b102db3809979f25a57c0c31ce50dbfcef398a662a
+runfiles size=5
+ texmf-dist/tex/latex/bytefield/bytefield.sty
+catalogue-ctan /macros/latex/contrib/bytefield
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3c
+catalogue-topics engineering comp-sci comp-net
+catalogue-version 2.4

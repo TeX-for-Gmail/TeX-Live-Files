@@ -1,0 +1,31 @@
+name bezos
+category Package
+revision 49850
+shortdesc Packages by Javier Bezos
+longdesc A set of packages that provide: tools for maths accents; a tool
+longdesc that changes page-numbering in frontmatter to arabic; tools for
+longdesc dealing with some annoyances in babel; a tool for making
+longdesc end-environment checking more meaningful; tensorial indexes;
+longdesc support for multi-file documents; tools for easy entry of
+longdesc Spanish index entries; dotless i's and j's for maths fonts; and
+longdesc fancy underlining.
+containersize 12688
+containerchecksum d01fc0077ca852abbff7f662b024e9251ca726da320c36e5eccfb4d799742c9be02b9412281bd326440805692a4a002c4ac393f3d2cb139eb21c7b8e59300d57
+doccontainersize 1040380
+doccontainerchecksum f8ca7ee42992ec313f00d5c3cc430d9f288ff1297c1086a7d68eab6c693a6c8cf7c994d4148eec329e4999ae980e8079162483dde83048c60fbae58826ea290d
+runfiles size=17
+ texmf-dist/tex/latex/bezos/accents.sty
+ texmf-dist/tex/latex/bezos/arabicfront.sty
+ texmf-dist/tex/latex/bezos/babeltools.sty
+ texmf-dist/tex/latex/bezos/checkend.sty
+ texmf-dist/tex/latex/bezos/dotlessi.sty
+ texmf-dist/tex/latex/bezos/esindex.sty
+ texmf-dist/tex/latex/bezos/soulpos.sty
+ texmf-dist/tex/latex/bezos/subdocs.sty
+ texmf-dist/tex/latex/bezos/tensind.sty
+catalogue-contact-home http://www.texnia.com/
+catalogue-contact-repository https://github.com/jbezos
+catalogue-ctan /macros/latex/contrib/bezos
+catalogue-date 2019-01-28 20:10:48 +0100
+catalogue-license mit
+catalogue-topics collection

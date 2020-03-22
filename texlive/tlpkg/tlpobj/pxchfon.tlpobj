@@ -1,0 +1,57 @@
+name pxchfon
+category Package
+revision 50556
+shortdesc Japanese font setup for pLaTeX and upLaTeX
+longdesc This package enables users to declare in their document which
+longdesc physical fonts should be used for the standard Japanese
+longdesc (logical) fonts of pLaTeX and upLaTeX. Font setup is realized
+longdesc by changing the font mapping of dvipdfmx, and thus users can
+longdesc use any (monospaced) physical fonts they like, once they
+longdesc properly install this package, without creating helper files
+longdesc for each new font. This package also supports setup for the
+longdesc fonts used in the japanese-otf package. System requirements:
+longdesc TeX format: LaTeX. TeX engine: pTeX or upTeX. DVIware:
+longdesc dvipdfmx. Prerequisite packages: atbegshi.
+containersize 16140
+containerchecksum 7dc0af55b1c3cf4cdf2cc7f8fb73774d8bd40372b4dcc668d0d4762a680cfbb31847d90d6b618eb7a29bb4abcfd8628f503ea4f39b61187b456f90a60cd09aea
+doccontainersize 272724
+doccontainerchecksum 0a0dad7cd07fe6f98c335e6197e7a79fa83c9512ba459c5d8be64b5867b4c8d35d35a705673a30926f36fcc1a8e9c6d6e232129039066a699691bec7d4de9d5c
+runfiles size=49
+ texmf-dist/fonts/sfd/pxchfon/PXcjk0.sfd
+ texmf-dist/fonts/tfm/public/pxchfon/cfjam-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjar-b-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjar-l-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjar-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjas-b-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjas-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/cfjas-x-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjam-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjam-rz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-b-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-bz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-l-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-lz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjar-rz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-b-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-bz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-r-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-rz-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-x-l0j.tfm
+ texmf-dist/fonts/tfm/public/pxchfon/r-cfjas-xz-l0j.tfm
+ texmf-dist/fonts/vf/public/pxchfon/cfjam-r-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjar-b-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjar-l-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjar-r-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjas-b-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjas-r-l0j.vf
+ texmf-dist/fonts/vf/public/pxchfon/cfjas-x-l0j.vf
+ texmf-dist/tex/platex/pxchfon/pxchfon.sty
+ texmf-dist/tex/platex/pxchfon/pxchfon0.def
+ texmf-dist/tex/platex/pxchfon/pxjafont.sty
+catalogue-contact-repository https://github.com/zr-tex8r/PXchfon
+catalogue-ctan /language/japanese/pxchfon
+catalogue-date 2019-03-23 19:05:32 +0100
+catalogue-license mit
+catalogue-topics japanese font-supp
+catalogue-version 1.4a

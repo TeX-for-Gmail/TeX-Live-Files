@@ -1,0 +1,23 @@
+name datetime2-samin
+category Package
+revision 49346
+shortdesc Northern Sami language module for the datetime2 package
+longdesc This module provides the "samin" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2588
+containerchecksum fc4e6401ce02b1aa7be5fd78e5d5e74aff6ac35cbb6864cbce6d93fe0b2716510f6ccdd290c82286b8e51f37abe8460c0f8340ce0f9135838ecace7502f72784
+doccontainersize 73200
+doccontainerchecksum e5879faedd4d4fa5ac40575e0ccd1d0db94a80d78c3d01f8d36bb37875e2b9025537c876087b85626ccaed5c90f505a98fd3e5adee64ac1bc72f48ff66114438
+srccontainersize 4860
+srccontainerchecksum 4aa4d272188a8a2b6e40792b97df9b205857870f3787153502c12fbaaf81ed61d9d823a7966e147fbc1d94f761c40f179d4025166a48f358821134559a7bee3b
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-samin/datetime2-samin-ascii.ldf
+ texmf-dist/tex/latex/datetime2-samin/datetime2-samin-utf8.ldf
+ texmf-dist/tex/latex/datetime2-samin/datetime2-samin.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-samin
+catalogue-date 2018-12-07 19:11:58 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

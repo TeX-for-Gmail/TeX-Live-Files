@@ -1,0 +1,21 @@
+name resphilosophica
+category Package
+revision 50402
+shortdesc Typeset articles for the journal Res Philosophica
+longdesc The bundle provides a class for typesetting articles for the
+longdesc journal Res Philosophica. This work was commissioned by the
+longdesc Saint Louis University.
+containersize 12040
+containerchecksum eb54f2cee1e48212a5e7df7554a3669119e9b3481150885aabe02d813abde29ee6179d899150bd5b3ac706f4dd0c6291274db915e14b8310900f73b23ed82bfa
+doccontainersize 525204
+doccontainerchecksum 62bd9ca297a50a2893d7822352f284948f3a22ebe7980eb1fb92bf83014416834740b6de8d16d7e7abc1809ea4b60ca62e95cce6be51fd69d62710556fd14f43
+srccontainersize 17816
+srccontainerchecksum a4c20492108c26486726e73735f88221ea3ffaed5d1441324fa3dd76a897379338886bbf76d2920b2bab1cced55b61de092f65b9de822cdbb67e8cf60d174c4e
+runfiles size=14
+ texmf-dist/bibtex/bst/resphilosophica/resphilosophica.bst
+ texmf-dist/tex/latex/resphilosophica/resphilosophica.cls
+catalogue-ctan /macros/latex/contrib/resphilosophica
+catalogue-date 2019-03-15 08:43:01 +0100
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 1.34

@@ -1,0 +1,18 @@
+name greektex
+category Package
+revision 28327
+shortdesc Fonts for typesetting Greek/English documents
+longdesc The fonts are based on Silvio Levy's classical Greek fonts;
+longdesc macros and Greek hyphenation patterns for the fonts' encoding
+longdesc are also provided.
+containersize 6016
+containerchecksum d7aeb9640061341ed39a71f7f69036f892bbe60b9db2236660e163b42fede81d6be58627b0163d3a183c120c9c8fa54f91a1a036ed9e50d2a72d5eac7f8a79a5
+doccontainersize 311284
+doccontainerchecksum b58305d403a58a60ac0cd6ebb60afe3058430eae15774895e03e41b331824673c128c5f06b583525e2311dd8ee5166549ea831e756e8c934c73ae911a0adbaa7
+runfiles size=7
+ texmf-dist/tex/latex/greektex/greektex.sty
+catalogue-also greektex-fd
+catalogue-ctan /fonts/greek/greektex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-mf font-greek

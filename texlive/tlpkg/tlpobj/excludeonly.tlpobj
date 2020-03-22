@@ -1,0 +1,21 @@
+name excludeonly
+category Package
+revision 17262
+shortdesc Prevent files being \include-ed
+longdesc The package defines an \excludeonly command, which is (in
+longdesc effect) the opposite of \includeonly. If both \includeonly and
+longdesc \excludeonly exist in a document, only files "allowed" by both
+longdesc will be included. The package redefines the internal \@include
+longdesc command, so it conflicts with packages that do the same.
+longdesc Examples are the classes paper.cls and thesis.cls.
+containersize 1664
+containerchecksum b83426d7ff334e64f8a5566fa905f1c03478ff68da5b74b85dfd6c872db7a63454f627db4e6bea48f8048da0d84bd80b269cf5cd3a5b487484dcd8f2e21c5058
+doccontainersize 218824
+doccontainerchecksum 11f1a4e7b0bfeb5728ab632756fb612b784e7a8b46e68c2e5cb3681928811d394ac0b7f508e7c655945209b1e75837d4ec1a69bcaa6b0ac8d45d66302b4bcb13
+runfiles size=1
+ texmf-dist/tex/latex/excludeonly/excludeonly.sty
+catalogue-ctan /macros/latex/contrib/excludeonly
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics compilation
+catalogue-version 1.0

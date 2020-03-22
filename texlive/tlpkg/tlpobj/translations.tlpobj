@@ -1,0 +1,33 @@
+name translations
+category Package
+revision 45189
+shortdesc Internationalisation of LaTeX2e packages
+longdesc This package (once part of the exsheets package), provides a
+longdesc framework for providing multilingual features to a LaTeX
+longdesc package. The package has its own basic dictionaries for
+longdesc English, Dutch, French, German and Spanish; it aims to use
+longdesc translation material for English, Dutch, French, German,
+longdesc Italian, Spanish, Catalan, Turkish, Croatian, Hungarian, Danish
+longdesc and Portuguese from babel or polyglossia if either is in use in
+longdesc the document. (Additional languages from the multilingual
+longdesc packages may be possible: ask the author.)
+containersize 11960
+containerchecksum 24686eda26044a45f42b4d821528af58b58710c31ba3a03e33e38de018cc8fc5c5d3f31f000ae69a1ba269e371c245b0c501718d45c803c3dfc8ba0f64dc99c7
+doccontainersize 511036
+doccontainerchecksum 683b3e6180801d96a457180649cca7ab79e6d965e1de95cab3bf2579ae4e8b34e30ba032e1fb2719a1a2826845d55d8a963ec813c8b2f6620e60bc986b3811a2
+runfiles size=23
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-catalan.trsl
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-dutch.trsl
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-french.trsl
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
+ texmf-dist/tex/latex/translations/translations-basic-dictionary-spanish.trsl
+ texmf-dist/tex/latex/translations/translations.sty
+catalogue-also translator
+catalogue-contact-bugs https://github.com/cgnieder/translations/issues
+catalogue-contact-repository https://github.com/cgnieder/translations/
+catalogue-ctan /macros/latex/contrib/translations
+catalogue-date 2017-11-30 18:19:07 +0100
+catalogue-license lppl1.3
+catalogue-topics multilingual package-supp
+catalogue-version 1.7a

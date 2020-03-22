@@ -1,0 +1,20 @@
+name xprintlen
+category Package
+revision 35928
+shortdesc Print TeX lengths in a variety of units
+longdesc The package defines a command, \printlen, to print TeX lengths
+longdesc in a variety of units. It can handle all units supported by
+longdesc TeX. The package requires that a reasonably up to date version
+longdesc of the fp package be installed on you system.
+containersize 1120
+containerchecksum dc446adfe453430d5e2c9155acaad26e258a36319490a5158f0874292e9e68c1eb61ba57e361b5ff8bfff84c3b4a359709525f42599b95e9ba19ce9e28f88423
+doccontainersize 140412
+doccontainerchecksum 5905ee8d3589b7d75388e6e2355639435f3a72fa99abc17118068069715ba7220fa3d69f58e046d7972814bfa3834222858bc8933562ac91f83ea250f0952d82
+runfiles size=1
+ texmf-dist/tex/latex/xprintlen/xprintlen.sty
+catalogue-contact-repository https://github.com/Liam0205/xprintlen
+catalogue-ctan /macros/latex/contrib/xprintlen
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp doc-debug
+catalogue-version 1.0

@@ -1,0 +1,51 @@
+name sauterfonts
+category Package
+revision 15878
+shortdesc Use Sauter's fonts in LaTeX
+longdesc The package provides font definition files (plus a replacement
+longdesc for the package exscale) to access many of the fonts in
+longdesc Sauter's collection. These fonts are available in all point
+longdesc sizes and look nicer for such "intermediate" document sizes as
+longdesc 11pt. Also included is the package sbbm, an alternative to
+longdesc access the bbm fonts.
+containersize 3968
+containerchecksum 4d7e491a7a6a22fd6ad8f407cbc8c041434466850e2e5efd46897843281cb71e046fc6cb849cb091cbf05191c45c52a6cb3e0d806eccb9133fddda9c8f305969
+doccontainersize 624
+doccontainerchecksum 16647b89752d1871c798f80be91bacf375ae9a4d5199ef7417edb4ff019d7aae548fbbbbde47f84cd5c7c36ec4988ad1df82735f4aeaeb40180b07a86dceb5a7
+srccontainersize 4908
+srccontainerchecksum d8379fb3c2dfc5dcd9fc5c22101855a27ef5de3ac377f1e6a56bfd397888c5f7f94dd37c24c6625a9dc40f15160721c468b5a5bbe8a35f98f983755889e250d8
+runfiles size=30
+ texmf-dist/tex/latex/sauterfonts/sbbm.sty
+ texmf-dist/tex/latex/sauterfonts/sexscale.sty
+ texmf-dist/tex/latex/sauterfonts/somlcmm.fd
+ texmf-dist/tex/latex/sauterfonts/somlcmr.fd
+ texmf-dist/tex/latex/sauterfonts/somscmr.fd
+ texmf-dist/tex/latex/sauterfonts/somscmsy.fd
+ texmf-dist/tex/latex/sauterfonts/somxcmex.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmdh.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmfib.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmfr.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmr.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmss.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmtt.fd
+ texmf-dist/tex/latex/sauterfonts/sot1cmvtt.fd
+ texmf-dist/tex/latex/sauterfonts/subbm.fd
+ texmf-dist/tex/latex/sauterfonts/subbmdh.fd
+ texmf-dist/tex/latex/sauterfonts/subbmfib.fd
+ texmf-dist/tex/latex/sauterfonts/subbmss.fd
+ texmf-dist/tex/latex/sauterfonts/subbmtt.fd
+ texmf-dist/tex/latex/sauterfonts/subbmvtt.fd
+ texmf-dist/tex/latex/sauterfonts/subbold.fd
+ texmf-dist/tex/latex/sauterfonts/sucmr.fd
+ texmf-dist/tex/latex/sauterfonts/sucmss.fd
+ texmf-dist/tex/latex/sauterfonts/sucmtt.fd
+ texmf-dist/tex/latex/sauterfonts/sulasy.fd
+ texmf-dist/tex/latex/sauterfonts/sumsa.fd
+ texmf-dist/tex/latex/sauterfonts/sumsb.fd
+ texmf-dist/tex/latex/sauterfonts/sursfs.fd
+ texmf-dist/tex/latex/sauterfonts/sustmry.fd
+ texmf-dist/tex/latex/sauterfonts/suwasy.fd
+catalogue-ctan /macros/latex/contrib/sauterfonts
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font-supp

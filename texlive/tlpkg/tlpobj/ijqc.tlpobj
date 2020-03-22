@@ -1,0 +1,19 @@
+name ijqc
+category Package
+revision 15878
+shortdesc BibTeX style file for the Intl. J. Quantum Chem
+longdesc ijqc.bst is a BibTeX style file to support publication in
+longdesc Wiley's International Journal of Quantum Chemistry. It is not
+longdesc in any way officially endorsed by the publisher or editors, and
+longdesc is provided without any warranty one could ever think of.
+containersize 5972
+containerchecksum 55f7693a820f0cdaafe8697ad352cef2748471711113cfa4738931926cb4d49497f4e825b0a737c233541203cb5c8f23dc4f8326950520e8aa0f4ad27f353347
+doccontainersize 107216
+doccontainerchecksum 6b94eb95d58a06b54a1fb28b26ddec15528ae99286a37631a64b4ced32343872a04b96cb2de540d54c54f02361981ecc575ef7d014a17e1d0111883e92671fad
+runfiles size=7
+ texmf-dist/bibtex/bst/ijqc/ijqc.bst
+catalogue-ctan /biblio/bibtex/contrib/ijqc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty journalpub
+catalogue-version 1.2

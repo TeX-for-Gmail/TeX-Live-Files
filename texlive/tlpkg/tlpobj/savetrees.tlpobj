@@ -1,0 +1,29 @@
+name savetrees
+category Package
+revision 40525
+shortdesc Optimise the use of each page of a LaTeX document
+longdesc The goal of the savetrees package is to pack as much text as
+longdesc possible onto each page of a LaTeX document. Admittedly, this
+longdesc makes the document far less attractive. Nevertheless, savetrees
+longdesc is a simple way to save paper when printing draft copies of a
+longdesc document. It can also be useful when trying to meet a tight
+longdesc page-length requirement for a conference or journal submission.
+longdesc Most of the package options cover specific modifications to
+longdesc typesetting rules, but there are also options subtle, moderate
+longdesc and extreme options for the "broad brush" approach.
+containersize 8612
+containerchecksum f31ac72f12ecbe2ab05bde14de907707988d6b9ba20414543b9176b71d2a0d5358a34348177857c56b961301678b612ee6f767d1b9cb671b9bab344bb8230e6d
+doccontainersize 489504
+doccontainerchecksum 3e5cfb62d4020d32d9bab01b3df2ea1cb485240aea5eda3541d29cbe38487ed8b242a1eb2b9d15d08bd742390a8d8a25b584e110145dab330580e69e2287f181
+srccontainersize 25844
+srccontainerchecksum 2dcc671cae73824a2e4cf10682f0ad7d6236f5e856267663f14864804587e1394fe12de5e3e54e5a64abb798c16014fab07a462584eac3a561f971496c58b5b0
+runfiles size=12
+ texmf-dist/bibtex/bst/savetrees/savetrees.bst
+ texmf-dist/tex/latex/savetrees/savetrees.bbx
+ texmf-dist/tex/latex/savetrees/savetrees.cbx
+ texmf-dist/tex/latex/savetrees/savetrees.sty
+catalogue-ctan /macros/latex/contrib/savetrees
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 2.4

@@ -1,0 +1,19 @@
+name glossaries-german
+category Package
+revision 35665
+shortdesc German language module for glossaries package
+longdesc German language module for the glossaries package.
+containersize 1668
+containerchecksum e0b8e18dbe4d4e503c144be2406b99b56ef0a48847b4044665ac178dffc59d2b8ea95873ee5f2e64fcfb8379a44ee8761ee84ae44fddf996d1029372d5185d58
+doccontainersize 124428
+doccontainerchecksum 0ad0d7d8f41e52613d049fe3ec6e48d5ceb77e768c7b9ee6b3b0978eeebe6abfc803df44bbb7f90b4e487de074a2cc174224ab0e89d5fe7bc896adff495abfc6
+srccontainersize 2228
+srccontainerchecksum 7d34e603e6c667fad268f4d16edd7b066d3f6fb34739ae5e7620cfb2024fb6c7882862845055205d3a3c14f2c60bb3b304cbb1871958c17427107cc245e10bcd
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-german/glossaries-german.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-german
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

@@ -1,0 +1,31 @@
+name biblatex-gb7714-2015
+category Package
+revision 50661
+shortdesc A BibLaTeX implementation of the GBT7714-2015 bibliography style for Chinese users
+longdesc This package provides an implementation of the GBT7714-2015
+longdesc bibliography style. This implementation follows the
+longdesc GBT7714-2015 standard and can be used by simply loading
+longdesc BibLaTeX with the appropriate option. A demonstration database
+longdesc is provided to show how to format input for the style.
+containersize 35716
+containerchecksum e55d2670b88a1491d6ed714fc842c84cd3ef0d5e571eb6c1a6615771ae4804451815636c34b287458604a2aa97af16f5a01e7e2b016a2e755f70d64ddda1cb09
+doccontainersize 1384168
+doccontainerchecksum d0dd6f36a78582a17d34454f41484d9abb630fcf17b412995f0f126210035731dfc7d9af4444c84b7dc5ac1e5e1a7060b4e0bb66bfb8bb6351849f0f1bea0b72
+runfiles size=146
+ texmf-dist/tex/latex/biblatex-gb7714-2015/chinese-erj.bbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/chinese-erj.cbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015-gbk.def
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015.bbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015.cbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015ay.bbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015ay.cbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015ms.bbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015ms.cbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015mx.bbx
+ texmf-dist/tex/latex/biblatex-gb7714-2015/gb7714-2015mx.cbx
+catalogue-contact-repository https://github.com/hushidong/biblatex-gb7714-2015
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-gb7714-2015
+catalogue-date 2019-03-30 10:39:22 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex chinese
+catalogue-version 1.0rm

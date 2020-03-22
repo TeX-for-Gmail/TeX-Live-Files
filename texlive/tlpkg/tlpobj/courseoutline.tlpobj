@@ -1,0 +1,17 @@
+name courseoutline
+category Package
+revision 15878
+shortdesc Prepare university course outlines
+longdesc Courseoutline is a class designed to minimise markup in a
+longdesc tedious task that needs to be repeated often.
+containersize 3444
+containerchecksum fd3bbcd90570aa1cbfae49fca247d761ac0b886d795fd8097754706b21ab1d6954eb8d8a6c1fb4e69d550e7ec89294fa006f50bab0c7b806c545666eac4915f1
+doccontainersize 2564
+doccontainerchecksum 5a52cabfbc28fe27aa6f85b3653de3ace51b65011ca2e33b56be59854b364319ed8adf95576f8211d9494a367fb637b47fd2805a2663df87103b2d67a168dc13
+runfiles size=3
+ texmf-dist/tex/latex/courseoutline/courseoutline.cls
+catalogue-ctan /macros/latex/contrib/courseoutline
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics teaching
+catalogue-version 1.0

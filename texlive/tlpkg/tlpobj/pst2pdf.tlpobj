@@ -1,0 +1,25 @@
+name pst2pdf
+category Package
+revision 45476
+shortdesc A script to compile PSTricks documents via pdfTeX
+longdesc The script extracts the preamble of the document and runs all
+longdesc \begin{postscript}...\end{postscript}
+longdesc \begin{pspicture}...\end{pspicture} and
+longdesc \pspicture...\endpspicture separately through LaTeX with the
+longdesc same preamble as the original document; thus it creates EPS,
+longdesc PNG and PDF files of these snippets. In a final pdfLaTeX run
+longdesc the script replaces the environments with \includegraphics to
+longdesc include the processed snippets. Detail documentation is
+longdesc acquired from the document itself via Perldoc.
+depend pst2pdf.ARCH
+containersize 13172
+containerchecksum ece2fc7c670d6c6895d364cf316facc5898c83569640f0c261ee89dbe3b302e5c6190e95c6eb08b132d213cbaddefbb1e589f1e6979a9540454ef442ec94bfad
+doccontainersize 226916
+doccontainerchecksum 79cd5a76de8c3cd53b96adb498ed30afb5a8f9b8cf35009fd4e1c487b7d381dad81f46d03e85b1896ca712b02cf31732a7b9b84d4e7f75b0a7d7b6e0032ad559
+runfiles size=12
+ texmf-dist/scripts/pst2pdf/pst2pdf.pl
+catalogue-ctan /graphics/pstricks/scripts/pst2pdf
+catalogue-date 2017-10-04 15:33:08 +0200
+catalogue-license gpl2
+catalogue-topics graphics graphics-epspdf
+catalogue-version 0.18

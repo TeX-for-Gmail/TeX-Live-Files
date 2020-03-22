@@ -1,0 +1,27 @@
+name appendix
+category Package
+revision 42428
+shortdesc Extra control of appendices
+longdesc The appendix package provides various ways of formatting the
+longdesc titles of appendices. Also (sub)appendices environments are
+longdesc provided that can be used, for example, for per chapter/section
+longdesc appendices. The word 'Appendix' or similar can be prepended to
+longdesc the appendix number for article class documents. The word
+longdesc 'Appendices' or similar can be added to the table of contents
+longdesc before the appendices are listed. The word 'Appendices' or
+longdesc similar can be typeset as a \part-like heading (page) in the
+longdesc body. An appendices environment is provided which can be used
+longdesc instead of the \appendix command.
+containersize 2760
+containerchecksum ed3858af33069bf1cf5303f4fdd5ed17b1353be7202544e4e387ac9f428896bb24b9ad98ecfabda8a6fa9852c3ffe5179f1ed06a7377b4cda91e9b480d6a38be
+doccontainersize 159060
+doccontainerchecksum 88298d222e63e3e122a60d63e1f8a8eeeaeadf0d7287ffb4a2db5dd5d6ee944b64d74d181ce5f5e2605577827cc9a64054312448b6457c26c08e67284c00447b
+srccontainersize 10512
+srccontainerchecksum 4778f0e2586b746957ae480e90f68a951c274be59588e7d22e2ebdf13514ff08e058c0793ca5c83433897c720d5371f0f6e847433405f0d880462933ad0707f7
+runfiles size=3
+ texmf-dist/tex/latex/appendix/appendix.sty
+catalogue-ctan /macros/latex/contrib/appendix
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics appendix headings
+catalogue-version 1.2b

@@ -1,0 +1,27 @@
+name ducksay
+category Package
+revision 49691
+shortdesc Draw ASCII art of animals saying a specified message
+longdesc The package draws ASCII art of animals saying a specified
+longdesc message. The following macros are available: \ducksay
+longdesc \duckthink \DefaultAnimal \AddAnimal \DucksayOptions Multi-line
+longdesc messages are now fully supported. The package comes with two
+longdesc versions, choosable with the version key.
+containersize 8240
+containerchecksum b2aff18778968c0b422e5e1c6bd606c7487c99664507790178eaed320c6eb7c48d1796581361a4473abc51c92c5b1d1d536868f12edca96924b4b6211be8302e
+doccontainersize 512596
+doccontainerchecksum 70ea75234cacca983e795a54191044851d6eeef87e0b54288bb4fb6b4b4c99239f0a0e6d608cb054991f66bacfd15bd082f94ab4f5fececd9b6bd8870f524e2d
+srccontainersize 17984
+srccontainerchecksum a133431b8797c34a21da308f72f7dd27b11bfd87c44d32c8cf7bc53ebcf33fd4dc5b14a6f3dcb660c4525d797baa972b33bc521a5c9a4f2e5ea8dcbcffad6bbf
+runfiles size=13
+ texmf-dist/tex/latex/ducksay/ducksay.animals.tex
+ texmf-dist/tex/latex/ducksay/ducksay.code.v1.tex
+ texmf-dist/tex/latex/ducksay/ducksay.code.v2.tex
+ texmf-dist/tex/latex/ducksay/ducksay.sty
+catalogue-contact-bugs https://github.com/Skillmon/ltx_ducksay/issues
+catalogue-contact-repository https://github.com/Skillmon/ltx_ducksay
+catalogue-ctan /macros/latex/contrib/ducksay
+catalogue-date 2019-01-13 14:34:53 +0100
+catalogue-license lppl1.3c
+catalogue-topics games graphics
+catalogue-version 2.3

@@ -1,0 +1,72 @@
+name lithuanian
+category Package
+revision 46039
+shortdesc Lithuanian language support
+longdesc This language support package provides: Lithuanian adds for
+longdesc Babel: lithuanian.ldf lithuanian.sty Lithuanian TeX fonts for
+longdesc URW family map, enc, fd, tfm extra code page definitions for
+longdesc inputenc: cp772, cp774, cp775, cpKBL, cpRIM
+execute addMap l7x-urwvn.map
+containersize 67136
+containerchecksum 228fa0f588bb0293778a71a910401575e20aaa8a184d54d51dcf1bebc8bb6b0c0ea81cb1d3e0f2d36b6a0abf830dbd328caa6053fca7f40a83bb292f76b83918
+doccontainersize 55944
+doccontainerchecksum e4b01bf2174854d95f348caeb5e5b88ec436420178eb06a78cb9157bad23bcd34584e9bde451e3963f4de59e66162820f9487ca4d166b2bd898b2cef17e63ee4
+runfiles size=98
+ texmf-dist/fonts/enc/dvips/lithuanian/latin7x.enc
+ texmf-dist/fonts/map/dvips/lithuanian/l7x-urwvn.map
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uagd.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uagdo.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uagk.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uagko.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ubkd.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ubkdi.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ubkl.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ubkli.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ucrb.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ucrbo.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ucrr.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-ucrro.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvb.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvbc.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvbo.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvboc.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvr.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvrc.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvro.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uhvroc.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uncb.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uncbi.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uncr.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uncri.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uplb.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uplbi.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uplr.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uplri.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-utmb.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-utmbi.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-utmr.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-utmri.tfm
+ texmf-dist/fonts/tfm/public/lithuanian/l7x-uzcmi.tfm
+ texmf-dist/tex/latex/lithuanian/cp772.def
+ texmf-dist/tex/latex/lithuanian/cp774.def
+ texmf-dist/tex/latex/lithuanian/cp775.def
+ texmf-dist/tex/latex/lithuanian/cpKBL.def
+ texmf-dist/tex/latex/lithuanian/cpRIM.def
+ texmf-dist/tex/latex/lithuanian/l7xenc.def
+ texmf-dist/tex/latex/lithuanian/l7xenc.dfu
+ texmf-dist/tex/latex/lithuanian/l7xenc.sty
+ texmf-dist/tex/latex/lithuanian/l7xuag.fd
+ texmf-dist/tex/latex/lithuanian/l7xubk.fd
+ texmf-dist/tex/latex/lithuanian/l7xucr.fd
+ texmf-dist/tex/latex/lithuanian/l7xuhv.fd
+ texmf-dist/tex/latex/lithuanian/l7xunc.fd
+ texmf-dist/tex/latex/lithuanian/l7xupl.fd
+ texmf-dist/tex/latex/lithuanian/l7xutm.fd
+ texmf-dist/tex/latex/lithuanian/l7xuzc.fd
+ texmf-dist/tex/latex/lithuanian/latin7.def
+ texmf-dist/tex/latex/lithuanian/lithuanian.ldf
+ texmf-dist/tex/latex/lithuanian/lithuanian.sty
+catalogue-ctan /language/lithuanian
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3c
+catalogue-topics lithuanian font-proc font-supp

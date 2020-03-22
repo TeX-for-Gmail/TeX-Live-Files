@@ -1,0 +1,38 @@
+name archaeologie
+category Package
+revision 48763
+shortdesc A citation-style which covers rules of the German Archaeological Institute
+longdesc This citation-style covers the citation and bibliography rules
+longdesc of the German Archaeological Institute (DAI). Various options
+longdesc are available to change and adjust the outcome according to
+longdesc one's own preferences.
+containersize 72792
+containerchecksum 09368cfb9333e192c54cf7a50744a39eae485361fd5452e7268506b0bfea24b8927a17351bb6de19f12eb7a7cc5e0a57f9cac67cf3fa9462c3d46be7bc1fc1fd
+doccontainersize 1095228
+doccontainerchecksum 089e1579690333ab8fcf75501b664b9b9b0c88bba5ffebcc748fe1ea292fff74c4db55d5a1ac991fdc9989eb54b621274dfe94ef04402685ce0e791633a6846e
+srccontainersize 133064
+srccontainerchecksum e101c54c666547eed766f14f67f1c3621a0d0feddb0cecfd90e7d119f803f555d8072b30a38fc018501e277ded1827d1f94902cc41cad197efe87b7db267e462
+runfiles size=105
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-bibancient.bib
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-bibcorpora.bib
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-examples.bib
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-lstabbrv.bib
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-lstlocations.bib
+ texmf-dist/bibtex/bib/archaeologie/archaeologie-lstpublishers.bib
+ texmf-dist/tex/latex/archaeologie/archaeologie.bbx
+ texmf-dist/tex/latex/archaeologie/archaeologie.cbx
+ texmf-dist/tex/latex/archaeologie/archaeologie.dbx
+ texmf-dist/tex/latex/archaeologie/english-archaeologie.lbx
+ texmf-dist/tex/latex/archaeologie/french-archaeologie.lbx
+ texmf-dist/tex/latex/archaeologie/german-archaeologie.lbx
+ texmf-dist/tex/latex/archaeologie/italian-archaeologie.lbx
+ texmf-dist/tex/latex/archaeologie/spanish-archaeologie.lbx
+catalogue-also biblatex-archaeology
+catalogue-contact-bugs https://github.com/LukasCBossert/biblatex-archaeologie/issues
+catalogue-contact-home http://biblatex-archaeologie.de
+catalogue-contact-repository https://github.com/LukasCBossert/biblatex-archaeologie
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/archaeologie
+catalogue-date 2018-09-25 15:26:45 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 2.4.0

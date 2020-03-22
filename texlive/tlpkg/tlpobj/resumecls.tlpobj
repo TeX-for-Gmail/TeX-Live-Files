@@ -1,0 +1,20 @@
+name resumecls
+category Package
+revision 38427
+shortdesc Typeset a resume both in English and Chinese
+longdesc This LaTeX class makes typeseting a resume or cv both in
+longdesc English and Chinese more easy.
+containersize 1636
+containerchecksum b7709500024b7badee75ef912158b368e9e3d01a6051b75ab0fbc4e5c90c6bee36226096a29891a32e1ef6dcb87a10e23b4fa1531c34caa48443c22726b07c81
+doccontainersize 130500
+doccontainerchecksum a99f08f236cbcb321a106acc6b768aaa0aa10a7d101dc635dbadd161e1681531950cbc161553cda82f2edcf0cf94af7b89f5d53d504c049181c3f63a0d0ce527
+srccontainersize 4392
+srccontainerchecksum 071e7d3d835313f0ca38d90f632d8c83583fd552de2b612cabe0f4c6bec097c944a1cb18f316d74cabf6ec0a0d4d3e890f2adb1904ca01af939cb97470430a77
+runfiles size=1
+ texmf-dist/tex/xelatex/resumecls/resumecls.cls
+catalogue-contact-home http://huxuan.org/projects/resumecls/
+catalogue-ctan /macros/xetex/latex/resumecls
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics cv chinese class
+catalogue-version 0.3.2

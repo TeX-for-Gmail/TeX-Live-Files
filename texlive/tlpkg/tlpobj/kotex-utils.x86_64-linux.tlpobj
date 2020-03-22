@@ -1,0 +1,10 @@
+name kotex-utils.x86_64-linux
+category Package
+revision 32101
+shortdesc x86_64-linux files of kotex-utils
+containersize 412
+containerchecksum bee0a36e462e675a8e3d3754d4e923942db879b86cef43c90d0a1d33a97041f6bf2fae7312a3a0d5ccb8233c7c9c0eee988f1fdc2173c51f9e15f3306c31379f
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/jamo-normalize
+ bin/x86_64-linux/komkindex
+ bin/x86_64-linux/ttf2kotexfont

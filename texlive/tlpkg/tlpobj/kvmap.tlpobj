@@ -1,0 +1,24 @@
+name kvmap
+category Package
+revision 48708
+shortdesc Create Karnaugh maps with LaTeX
+longdesc This LaTeX package allows the creation of (even large) Karnaugh
+longdesc maps. It provides a tabular-like input syntax and support for
+longdesc drawing bundles (implicants) around adjacent values. It is
+longdesc based on an answer at StackExchange.
+containersize 2640
+containerchecksum e9482c26c7f188d1bf45e5d577899efbadb221485e037460f233ca3b1fdf540f9984a371f62d5dbafb6bd8d9840c6e26ab3173152ec5b128e9a3522540db7912
+doccontainersize 108968
+doccontainerchecksum fe9cb7b39aeda44d826920898c48001406801ba9e651af34ea9d25ec85141e6a0a6cf4eb7f95451c84da5c7716d4214292c7e3f9e442d0ab5aca1c16e17e5c94
+srccontainersize 8380
+srccontainerchecksum 07562b173f46aa4787d3e3d279f37f59418260c9c610ecc476c62cd8c96f7f59629a126af024de5664cc8c8dc8620bf7fa5fa00baac009c62575c2ad47008b7d
+runfiles size=3
+ texmf-dist/tex/latex/kvmap/kvmap.sty
+catalogue-also karnaugh-map karnaughmap
+catalogue-contact-bugs https://gitlab.com/benfrank/kvmap/issues
+catalogue-contact-home https://gitlab.com/benfrank/kvmap
+catalogue-ctan /macros/latex/contrib/kvmap
+catalogue-date 2018-09-22 04:58:35 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths engineering
+catalogue-version 0.3.1

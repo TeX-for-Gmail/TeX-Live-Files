@@ -1,0 +1,64 @@
+name morisawa
+category Package
+revision 46946
+shortdesc Enables selection of 5 standard Japanese fonts for pLaTeX + dvips
+longdesc The package enables selection of 5 standard Japanese fonts for
+longdesc pLaTeX + dvips. It was originally written by Haruhiko Okumura
+longdesc as part of jsclasses bundle, and the TFM/VF files were
+longdesc previously distributed as part of the ptex-fonts package.
+execute addKanjiMap morisawa5.map
+containersize 8564
+containerchecksum 7f149fab67905d6b21670becb1c3e3afbc8fb4c45fa3c376960e5a87d7fe17abe091af63930a8385b5bcb63e550fc0b9bb16d522f50f90b911b09599dc5ccafa
+doccontainersize 95032
+doccontainerchecksum 7af68b3a8233cec22efb49e8131c65e33db4076ed4f254f2d62f629c03d0122e8dddc3ba68d283affb5ca663d3b1f744780dc98c14eadfa1a69028df281e5bb2
+srccontainersize 3452
+srccontainerchecksum 7e3821bc1f5dad076307ebf00cacb68cdeb9e18a060c9c024c0fea85c558f7373f214f16952fa643f8b832376101ec8c8bb839a902e6e8213912a4cbc10862ad
+runfiles size=552
+ texmf-dist/fonts/map/dvipdfmx/morisawa/morisawa5.map
+ texmf-dist/fonts/tfm/public/morisawa/FutoGoB101-Bold-H.tfm
+ texmf-dist/fonts/tfm/public/morisawa/FutoGoB101-Bold-J.tfm
+ texmf-dist/fonts/tfm/public/morisawa/FutoGoB101-Bold-V.tfm
+ texmf-dist/fonts/tfm/public/morisawa/FutoMinA101-Bold-H.tfm
+ texmf-dist/fonts/tfm/public/morisawa/FutoMinA101-Bold-J.tfm
+ texmf-dist/fonts/tfm/public/morisawa/FutoMinA101-Bold-V.tfm
+ texmf-dist/fonts/tfm/public/morisawa/GothicBBB-Medium-H.tfm
+ texmf-dist/fonts/tfm/public/morisawa/GothicBBB-Medium-J.tfm
+ texmf-dist/fonts/tfm/public/morisawa/GothicBBB-Medium-V.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Jun101-Light-H.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Jun101-Light-J.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Jun101-Light-V.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Ryumin-Light-H.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Ryumin-Light-J.tfm
+ texmf-dist/fonts/tfm/public/morisawa/Ryumin-Light-V.tfm
+ texmf-dist/fonts/tfm/public/morisawa/futogo-b-v.tfm
+ texmf-dist/fonts/tfm/public/morisawa/futogo-b.tfm
+ texmf-dist/fonts/tfm/public/morisawa/futomin-b-v.tfm
+ texmf-dist/fonts/tfm/public/morisawa/futomin-b.tfm
+ texmf-dist/fonts/tfm/public/morisawa/gtbbb-m-v.tfm
+ texmf-dist/fonts/tfm/public/morisawa/gtbbb-m.tfm
+ texmf-dist/fonts/tfm/public/morisawa/jun101-l-v.tfm
+ texmf-dist/fonts/tfm/public/morisawa/jun101-l.tfm
+ texmf-dist/fonts/tfm/public/morisawa/ryumin-l-v.tfm
+ texmf-dist/fonts/tfm/public/morisawa/ryumin-l.tfm
+ texmf-dist/fonts/vf/public/morisawa/FutoGoB101-Bold-H.vf
+ texmf-dist/fonts/vf/public/morisawa/FutoGoB101-Bold-J.vf
+ texmf-dist/fonts/vf/public/morisawa/FutoGoB101-Bold-V.vf
+ texmf-dist/fonts/vf/public/morisawa/FutoMinA101-Bold-H.vf
+ texmf-dist/fonts/vf/public/morisawa/FutoMinA101-Bold-J.vf
+ texmf-dist/fonts/vf/public/morisawa/FutoMinA101-Bold-V.vf
+ texmf-dist/fonts/vf/public/morisawa/GothicBBB-Medium-H.vf
+ texmf-dist/fonts/vf/public/morisawa/GothicBBB-Medium-J.vf
+ texmf-dist/fonts/vf/public/morisawa/GothicBBB-Medium-V.vf
+ texmf-dist/fonts/vf/public/morisawa/Jun101-Light-H.vf
+ texmf-dist/fonts/vf/public/morisawa/Jun101-Light-J.vf
+ texmf-dist/fonts/vf/public/morisawa/Jun101-Light-V.vf
+ texmf-dist/fonts/vf/public/morisawa/Ryumin-Light-H.vf
+ texmf-dist/fonts/vf/public/morisawa/Ryumin-Light-J.vf
+ texmf-dist/fonts/vf/public/morisawa/Ryumin-Light-V.vf
+ texmf-dist/tex/latex/morisawa/morisawa.sty
+catalogue-also jsclasses ptex-fonts
+catalogue-contact-repository https://github.com/texjporg/morisawa
+catalogue-ctan /fonts/morisawa
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license bsd
+catalogue-topics font-cjk

@@ -1,0 +1,25 @@
+name minutes
+category Package
+revision 42186
+shortdesc Typeset the minutes of meetings
+longdesc Supports the creation of a collection of minutes. Features
+longdesc include: Support of tasks (who, schedule, what, time of
+longdesc finishing; possibility of creating a list of open tasks;
+longdesc inclusion of open tasks from other minutes; Support for
+longdesc attachments; Support of schedule dates (in planning: support
+longdesc for the calendar package); Different versions ('secret parts');
+longdesc and Macros for votes and decisions (list of decisions). Support
+longdesc for minutes in German, Dutch and English is provided.
+containersize 9028
+containerchecksum 3abd6c4963ceec3cf073048c21d2abc236d58f522000195fd459c554c10d2af9afaf772b0fd1545fdf72decbc7e1c62a0bb12d7bc1dfd9d5b025f5131ca5f145
+doccontainersize 393404
+doccontainerchecksum a069ea537eb1fc572c842a26dd406b1ef2f1343ef6066d266642dfe37515a3679c3a9e64eb37e1e992fc40281d855b817edf9116aae3922abc60e3c01106e3da
+srccontainersize 24608
+srccontainerchecksum 09b6260de696981f020835c61e20f23bfb81404df44af477f62341b9b07c65a1be58098d33dc876d6f07f3a5aaf6df25c8e3e7707c0f238ae76094ff0bfe5a2e
+runfiles size=9
+ texmf-dist/tex/latex/minutes/minutes.sty
+catalogue-ctan /macros/latex/contrib/minutes
+catalogue-date 2016-09-30 11:34:18 +0200
+catalogue-license lppl
+catalogue-topics meeting-admin
+catalogue-version 1.8f

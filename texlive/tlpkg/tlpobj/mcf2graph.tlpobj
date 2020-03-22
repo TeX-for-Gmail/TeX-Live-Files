@@ -1,0 +1,18 @@
+name mcf2graph
+category Package
+revision 50506
+shortdesc Draw chemical structure diagrams with Metafont/MetaPost
+longdesc The Molecular Coding Format (MCF) is a linear notation for
+longdesc describing chemical structure diagrams. This package converts
+longdesc MCF to graphic files using Metafont / MetaPost.
+containersize 18424
+containerchecksum e544a0db9dbb2aaf957ef54a20df189f9889457ad9b2846ce06663a4689a61e3f2aec08064def059f705e07739fa7e7ba2df6052bc934c4a4e836804781bc295
+doccontainersize 1040780
+doccontainerchecksum 5c80c1e9f93d1658a18f7b0afbe2b85bebcaa032a04b0d30b6e6164b8af50988abbb2983931b31d2493a90be321ed0f213dcb0249c8e1d724d08567f300e6819
+runfiles size=20
+ texmf-dist/metapost/mcf2graph/mcf2graph.mf
+catalogue-ctan /graphics/mcf2graph
+catalogue-date 2019-03-21 10:30:24 +0100
+catalogue-license mit
+catalogue-topics graphics graphics-mpost chemistry
+catalogue-version 4.40

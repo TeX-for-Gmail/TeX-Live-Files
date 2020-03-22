@@ -1,0 +1,43 @@
+name powerdot
+category Package
+revision 45165
+shortdesc A presentation class
+longdesc Powerdot is a presentation class for LaTeX that allows for the
+longdesc quick and easy development of professional presentations. It
+longdesc comes with many tools that enhance presentations and aid the
+longdesc presenter. Examples are automatic overlays, personal notes and
+longdesc a handout mode. To view a presentation, DVI, PS or PDF output
+longdesc can be used. A powerful template system is available to easily
+longdesc develop new styles. A LyX layout file is provided.
+containersize 26284
+containerchecksum 20888eecfbf1e390ff32e7cea503c1c9bcb5910044fc4f41238b63039b56da82993fb38c4f24fbcc43c8a4b451b59e1010fb81bca048d5ded1cd6455f7568bc2
+doccontainersize 943004
+doccontainerchecksum ba3051425104a49dc2d553d93220b569dfdf548090a90348ddc0286a36cb9f00e7956c617a133a0ef69bcf69cb5325b4f12007f6ce56868b6336d422183777a4
+srccontainersize 67028
+srccontainerchecksum 573248dc8e8e0a248c652baa3a57ca411302b40005a4e095d594f01cfc3a51789ae3a0c90b48d125f863e09a7672020a4fc7e51e45a1a75d8434c30fa41979c2
+runfiles size=50
+ texmf-dist/tex/latex/powerdot/powerdot-aggie.sty
+ texmf-dist/tex/latex/powerdot/powerdot-bframe.sty
+ texmf-dist/tex/latex/powerdot/powerdot-ciment.sty
+ texmf-dist/tex/latex/powerdot/powerdot-default.ps
+ texmf-dist/tex/latex/powerdot/powerdot-default.sty
+ texmf-dist/tex/latex/powerdot/powerdot-elcolors.sty
+ texmf-dist/tex/latex/powerdot/powerdot-fyma.sty
+ texmf-dist/tex/latex/powerdot/powerdot-horatio.sty
+ texmf-dist/tex/latex/powerdot/powerdot-husky.sty
+ texmf-dist/tex/latex/powerdot/powerdot-ikeda.sty
+ texmf-dist/tex/latex/powerdot/powerdot-jefka.sty
+ texmf-dist/tex/latex/powerdot/powerdot-klope.sty
+ texmf-dist/tex/latex/powerdot/powerdot-paintings.sty
+ texmf-dist/tex/latex/powerdot/powerdot-pazik.sty
+ texmf-dist/tex/latex/powerdot/powerdot-sailor.sty
+ texmf-dist/tex/latex/powerdot/powerdot-simple.sty
+ texmf-dist/tex/latex/powerdot/powerdot-tycja.sty
+ texmf-dist/tex/latex/powerdot/powerdot-upen.sty
+ texmf-dist/tex/latex/powerdot/powerdot.cls
+catalogue-also prosper ha-prosper
+catalogue-ctan /macros/latex/contrib/powerdot
+catalogue-date 2017-08-28 22:47:40 +0200
+catalogue-license lppl1.3
+catalogue-topics presentation class
+catalogue-version 1.5c

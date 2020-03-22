@@ -1,0 +1,8 @@
+name bibtex8.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of bibtex8
+containersize 80680
+containerchecksum 5e397d492172266c608fe9d26db20c2be5be2cee0d644dab382fef2bd1eed9d52b1534ae433e7c624839e3984b4d865b1bd538fb25a2083172f24e30cbf42ec0
+binfiles arch=x86_64-linux size=48
+ bin/x86_64-linux/bibtex8

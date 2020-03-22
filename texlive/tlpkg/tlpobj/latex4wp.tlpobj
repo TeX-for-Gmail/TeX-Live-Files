@@ -1,0 +1,17 @@
+name latex4wp
+category Package
+revision 35999
+shortdesc A LaTeX guide specifically designed for word processor users
+longdesc "LaTeX for Word Processor Users" is a guide that helps
+longdesc converting knowledge and techniques of word processing into the
+longdesc LaTeX typesetting environment. It aims at helping WP users use
+longdesc LaTeX instead.
+containersize 504
+containerchecksum 64ce122ac380c4f2c06d3afe2cf1aa2af2dd6d29fc451ced9df05206c97dc0343e6867d770d9b4e1c0425ea41ef89cb2d0a003d43cddf82ea19a7b33d383b7ca
+doccontainersize 785532
+doccontainerchecksum e8f22deb966044c87e7414d828ae3d8bfabfda40bdebb4b26b712692020c785ad8688595cced27ea5993c8b8f34f7fbe0cc86180d2ff8bfcc44cc009fd52e936
+catalogue-ctan /info/latex4wp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics documentation fac-survey
+catalogue-version 1.0.10

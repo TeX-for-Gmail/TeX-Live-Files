@@ -1,0 +1,19 @@
+name scrlttr2copy
+category Package
+revision 39734
+shortdesc A letter class option file for the automatic creation of copies
+longdesc The file copy.lco provides the new class option "copy" for the
+longdesc KOMA-Script letter class scrlttr2. If the option "copy" is
+longdesc given, all pages of a specific letter are duplicated with
+longdesc background text marking as copies.
+containersize 1604
+containerchecksum 7aa7ac841d667e627056ed0ef3e55368f580e9d8a35a35239780b12d0a18534086844009ba1dc40a1b6ef29ad64d06e1e2e8ffef216e89c15e684975acd87192
+doccontainersize 87748
+doccontainerchecksum 08e87246b20cc0ea9ed30cd74993aa2af520d8b01878e1f54c802b5beef4347c087ec36f32220581eefe933a524c813ec30b3235989453ff8b7be93ac35b725d
+runfiles size=1
+ texmf-dist/tex/latex/scrlttr2copy/copy.lco
+catalogue-ctan /macros/latex/contrib/scrlttr2copy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics letter
+catalogue-version 0.1d

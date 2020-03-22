@@ -1,0 +1,23 @@
+name mandi
+category Package
+revision 49720
+shortdesc Macros for introductory physics and astronomy
+longdesc The package contains commands for students and teachers of
+longdesc introductory physics. Commands for physical quantities
+longdesc intelligently handle SI units so the user need not do so. There
+longdesc are other features that should make LaTeX easy for introductory
+longdesc physics students.
+containersize 15460
+containerchecksum a22c6cd667b7a256cdb0d1f975d214890811ad047d3eddc96e1289fd22a8ce9035183c5c1f6a876d7bab85bf8bba9626d36c2edbc8abbd060c0ebafca6b84932
+doccontainersize 1321444
+doccontainerchecksum 60cc9d6215525424b3e05af173a533d3781d1eed50d1e89e3d31f80274ab2b91033d45254eb419ec9a9a4e7553f50ac9c737ac82daea8dfbf29ba077d69ce5b2
+srccontainersize 49568
+srccontainerchecksum 2b05284ec86ac90ae6e136c96b2eeb0215ce3cb7d9b9f85aa14f047c596e7b47c8c618ec5d4ee0a99d624b737fbc8a3f026895bc9a8b2d465fb3dd7fa2ea806e
+runfiles size=24
+ texmf-dist/tex/latex/mandi/mandi.sty
+catalogue-also siunitx
+catalogue-ctan /macros/latex/contrib/mandi
+catalogue-date 2019-01-14 21:28:49 +0100
+catalogue-license lppl1.3
+catalogue-topics physics
+catalogue-version 2.7.5

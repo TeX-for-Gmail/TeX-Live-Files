@@ -1,0 +1,34 @@
+name svg
+category Package
+revision 49148
+shortdesc Include and extract SVG pictures in LaTeX documents
+longdesc This bundle contains the two packages svg and svg-extract. The
+longdesc svg package is intended for the automated integration of SVG
+longdesc graphics into LaTeX documents. Therefore the capabilities
+longdesc provided by Inkscape -- or more precisely its command line tool
+longdesc -- are used to export the text within an SVG graphic to a
+longdesc separate file, which is then rendered by LaTeX. For this
+longdesc purpose the two commands \includesvg and \includeinkscape are
+longdesc provided which are very similar to the \includegraphics command
+longdesc of the graphicx package. In addition, the package svg-extract
+longdesc allows the extraction of these graphics into independent files
+longdesc in different graphic formats, exactly as it is rendered within
+longdesc the LaTeX document, using either ImageMagick or Ghostscript.
+containersize 13056
+containerchecksum e5d007919b8665cf7907ff112e097439aa946443f8974c8a4a01c34f8426d8e5d1b9d3d41e672ffe650a17c277b65cc6e923f9cbd8b84713171378f763cfb1a3
+doccontainersize 1061324
+doccontainerchecksum 47941d908b12d6ee0d579a8f8c75344afc8806edd7c18998531c401bf0acdd3bc7c33d8adcc9da97f75e8025e5f808c420f8af1ff46567c57116f02f24cd424c
+srccontainersize 42180
+srccontainerchecksum be03128273dce1422856fd3b7d052a362ed2e5963ae89a0760b4bc1cd308baf1cf7d5ea53600287a5fdef881cb8efd3a68b49f128339ba3fd5913444b8369bbc
+runfiles size=20
+ texmf-dist/tex/latex/svg/svg-extract.sty
+ texmf-dist/tex/latex/svg/svg.sty
+catalogue-also svg-inkscape
+catalogue-contact-bugs https://github.com/mrpiggi/svg/issues
+catalogue-contact-home https://github.com/mrpiggi/svg
+catalogue-contact-repository https://github.com/mrpiggi/svg
+catalogue-ctan /graphics/svg
+catalogue-date 2018-11-13 10:20:49 +0100
+catalogue-license lppl1.3c
+catalogue-topics graphics-incl graphics-import
+catalogue-version 2.02b

@@ -1,0 +1,27 @@
+name facsimile
+category Package
+revision 21328
+shortdesc Document class for preparing faxes
+longdesc The facsimile class provides a simple interface for creating a
+longdesc document for sending as a fax, with LaTeX. The class covers two
+longdesc areas: First, a title page is created with a detailed fax
+longdesc header; second, every page gets headers and footers so that the
+longdesc recipient can be sure that every page has been received and all
+longdesc pages are complete, and in the correct order. The class evolved
+longdesc from the fax package, and provides much better language
+longdesc support.
+containersize 4456
+containerchecksum 3a179a3abcc33bd0f48bf267338c8a7dc0186f7eed097af74cfd8a936956952fb50876dea447839738842fad34c724c057f577d427a82fd82f85c7e8ab80c8ab
+doccontainersize 28932
+doccontainerchecksum 36da402d7b15601ad768aa1e07f356812ddf0a09b30d19c13bfecaeac847537caa3be31036cb80441370b6c046dee24b13aa3e04f339476e9ecd18cf09c8c9cf
+srccontainersize 10960
+srccontainerchecksum ad8f90796cdeefe11e6c12e254c4571f2be57f5cbeca8b68e301d857a0ef8e52fbb1e32eb2d39e6d6b8c7ea19af58f6087c67c9bcee58e84a32038f18bde223b
+runfiles size=5
+ texmf-dist/tex/latex/facsimile/fac-de.cfg
+ texmf-dist/tex/latex/facsimile/fac-en.cfg
+ texmf-dist/tex/latex/facsimile/facsimile.cls
+catalogue-ctan /macros/latex/contrib/facsimile
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter class
+catalogue-version 1.0

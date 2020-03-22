@@ -1,0 +1,22 @@
+name typeoutfileinfo
+category Package
+revision 29349
+shortdesc Display class/package/file information
+longdesc The package provides a minimalist shell script, for Unix
+longdesc systems, that displays the information content in a
+longdesc \ProvidesFile, \ProvidesPackage or \ProvidesClass command in a
+longdesc LaTeX source file. The package requires that the readprov
+longdesc package is available.
+depend typeoutfileinfo.ARCH
+containersize 1628
+containerchecksum b30d2618c8cdbf69fcb8a5444922185a52b934448b5d28ba143948cf80ed17cb402d73d1162194df3d2992a52ca9e6faca79000644eef968c4eba892c415b6bd
+doccontainersize 756
+doccontainerchecksum 143c4ad9cb3890b6350069d5d045f74c0bb0cfbe50e7d051c50c82011b56e651d483c1422d7d553a8d1d1784ae726a1ca1aead023fc3ccb1da4f0d59d47f7920
+runfiles size=1
+ texmf-dist/scripts/typeoutfileinfo/typeoutfileinfo.sh
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /support/typeoutfileinfo
+catalogue-date 2017-05-06 09:34:02 +0200
+catalogue-license lppl1.3
+catalogue-topics file-mgmt
+catalogue-version 0.31

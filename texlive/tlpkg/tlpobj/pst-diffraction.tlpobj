@@ -1,0 +1,28 @@
+name pst-diffraction
+category Package
+revision 15878
+shortdesc Print diffraction patterns from various apertures
+longdesc The package enables the user to draw (using PSTricks) the
+longdesc diffraction patterns for different geometric forms of apertures
+longdesc for monochromatic light (using PSTricks). The aperture stops
+longdesc can have rectangular, circular or triangular openings. The view
+longdesc of the diffraction may be planar, or three-dimensional. Options
+longdesc available are the dimensions of the aperture under
+longdesc consideration and of the particular optical setting, e.g. the
+longdesc radius in case of an circular opening. Moreover one can choose
+longdesc the wavelength of the light (the associated color will be
+longdesc calculated by the package).
+containersize 5144
+containerchecksum 222e2361650aad3b59f99fffd56aabe3e53a5eddcbb643fb6f970ff9ac52bbebc4274dd02e051f9b24f069e355a081feaf20e735c385d80e3e58d3c72f1bf90a
+doccontainersize 1067976
+doccontainerchecksum efecfa760a636a90026bb8dc2c6677bf1f5d8f37fa9103d37f598bde413a136928717cd7bf62bdd7581ae4ce21d34b49a2a9e4dab7397cedf7dbc04884012160
+srccontainersize 868
+srccontainerchecksum f71361329e52730f68aa34811cb04b4abd05a5bfb484fa1a264fa17e7609963c09bfc6242b6e777ffa8ca86cf4e5b2cba2a1af2a89611d8d0f9f0dc942abe862
+runfiles size=6
+ texmf-dist/tex/generic/pst-diffraction/pst-diffraction.tex
+ texmf-dist/tex/latex/pst-diffraction/pst-diffraction.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-diffraction
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use pstricks
+catalogue-version 2.03

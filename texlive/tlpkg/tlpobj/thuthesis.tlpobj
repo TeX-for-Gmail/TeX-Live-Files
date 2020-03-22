@@ -1,0 +1,30 @@
+name thuthesis
+category Package
+revision 47740
+shortdesc Thesis template for Tsinghua University
+longdesc ThuThesis is a LaTeX thesis template package for Tsinghua
+longdesc University in order to make it easy to write theses for either
+longdesc bachelor's, master's or doctor's degree.
+containersize 17344
+containerchecksum 0b017d7d8679fa95c4ace2e5a34ef45013eabf81442f3ef34d7529fc8862f69a46b24195bd5d34112f7fc791c472455450a6c7416de5ae9e23465c73802dac1b
+doccontainersize 1903476
+doccontainerchecksum ac4f243dcb7be699217d29713b134bf1f4316b0de4b1e04b382dee32df01197ad5e0beafc260ead6349d0f3b331452ca40713033c68ed6c485c4b9905c37018f
+srccontainersize 37984
+srccontainerchecksum 7b4c6a5e1621787c1964c3a876146515c55b386565f1f3cc86120cd77058745ce2aba30726808f4367b236969417579adf0e194c532e8f3b138f4ac904fadb11
+runfiles size=27
+ texmf-dist/bibtex/bst/thuthesis/thuthesis-author-year.bst
+ texmf-dist/bibtex/bst/thuthesis/thuthesis-numeric.bst
+ texmf-dist/tex/latex/thuthesis/thuthesis.cfg
+ texmf-dist/tex/latex/thuthesis/thuthesis.cls
+ texmf-dist/tex/latex/thuthesis/thuthesis.sty
+catalogue-contact-announce https://github.com/xueruini/thuthesis/releases
+catalogue-contact-bugs https://github.com/xueruini/thuthesis/issues
+catalogue-contact-development https://github.com/xueruini
+catalogue-contact-home https://github.com/xueruini/thuthesis
+catalogue-contact-repository https://github.com/xueruini/thuthesis
+catalogue-contact-support https://github.com/xueruini/zebra-goodies/issues
+catalogue-ctan /macros/latex/contrib/thuthesis
+catalogue-date 2018-05-17 09:45:16 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation class chinese
+catalogue-version 5.4.5

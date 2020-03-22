@@ -1,0 +1,21 @@
+name gtrcrd
+category Package
+revision 32484
+shortdesc Add chords to lyrics
+longdesc The package provides the means to specify guitar chords to be
+longdesc played with each part of the lyrics of a song. The syntax of
+longdesc the macros reduces the chance of failing to provide a chord
+longdesc where one is needed, and the structure of the macros ensures
+longdesc that the chord specification appears immediately above the
+longdesc start of the lyric.
+containersize 3104
+containerchecksum dabadc0fba92f6da23830069e533e8d4fb234bb679aa355382c03bd3ac13924328ea8fcece3186f36d33b7d7f6cceaebb23f1158b855673160f183991e880796
+doccontainersize 147344
+doccontainerchecksum d8e715d1c4d9c7ebb0c34c690a82e338733501012ad19cd9e2c52e6b39dff352a4e042bdc5f54e63a03a38eb9c76b5aed2ec3afae88ccd63f56663ada32e828b
+runfiles size=5
+ texmf-dist/tex/latex/gtrcrd/gtrcrd.sty
+catalogue-ctan /macros/latex/contrib/gtrcrd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics music chords
+catalogue-version 1.1

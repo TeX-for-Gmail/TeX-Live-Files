@@ -1,0 +1,21 @@
+name ecobiblatex
+category Package
+revision 39233
+shortdesc Global Ecology and Biogeography BibLaTeX styles for the Biber backend
+longdesc This bundle provides a set of styles for creating
+longdesc bibliographies using BibLaTeX in the style of the Global
+longdesc Ecology and Biogeography journal. It comprises styles based on
+longdesc the conventions of John Wiley & Sons Ltd and Global Ecology and
+longdesc Biogeography Conventions (c).
+containersize 1676
+containerchecksum bfa49fbd340223db68ae6d0906b617c06605a41aa141ce7863d5ab85b4da44eaba554b93bf163f7e4b7cd2c5131e22ba30161082663588ce85240fe2147433a5
+doccontainersize 436624
+doccontainerchecksum e12bf5be5028e848baf10fed969a5ea94e2246153b481fc1b8ab55a6fbb5c356391ec4ccdb37ae7c71d76885000d9d74e46271402ed83ed08d1d67a94cf372d9
+runfiles size=2
+ texmf-dist/tex/latex/ecobiblatex/ecobiblatex.bbx
+ texmf-dist/tex/latex/ecobiblatex/ecobiblatex.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/ecobiblatex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.0

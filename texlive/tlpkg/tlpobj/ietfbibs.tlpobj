@@ -1,0 +1,16 @@
+name ietfbibs
+category Package
+revision 41332
+shortdesc Generate BibTeX entries for various IETF index files
+longdesc The package provides scripts to translate IETF index files to
+longdesc BibTeX files.
+containersize 456
+containerchecksum ad8796bf4e492072dcc9335f913ae2b5d81f2152289ca76cfbb61a63577c631bc38f5cad6860aef47b1fb54c02157f509c23c3f903b34b8e7a82b8604eaa449a
+doccontainersize 3464
+doccontainerchecksum 586dc66004dcf4abed254d223394badd45557d79c7e1b56bd20080f41185ea8dca28b3d501e708cc3ed4088f1368f153ba2d2af313d5d6add2d072b46954952f
+catalogue-contact-repository https://github.com/mor1/ietfbibs
+catalogue-ctan /biblio/bibtex/utils/ietfbibs
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license mit
+catalogue-topics bibtex-gen
+catalogue-version 1.0.0

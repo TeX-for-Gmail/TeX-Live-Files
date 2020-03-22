@@ -1,0 +1,29 @@
+name refstyle
+category Package
+revision 20318
+shortdesc Advanced formatting of cross references
+longdesc The package provides a consistent way of producing references
+longdesc throughout a project. Enough flexibility is provided to make
+longdesc local changes to a single reference. The user can configure
+longdesc their own setup. The package offers a direct interface to
+longdesc varioref (for use, for example, in large projects such as a
+longdesc series of books, or a multivolume thesis written as a series of
+longdesc documents), and name references from the nameref package may be
+longdesc incorporated with ease. For large projects such as a series of
+longdesc books or a multi volume thesis, written as freestanding
+longdesc documents, a facility is provided to interface to the xr
+longdesc package for external document references.
+containersize 6140
+containerchecksum 15ab0ac1b41608ed2453bf1de27515aaeabd0b06a3e44fa3ced6b67f5e79cf237e92112848622303df2e174ae1e60b77ff31583837f3b12a447f8c4509891cbc
+doccontainersize 671044
+doccontainerchecksum 9edca88347914ef7810c3b1639cb85f598963404620a99f81f5bd56d45b684e55bf179ba46a5a49953a88151251ec084fe6126fa3ce83d2635450bad25e07059
+srccontainersize 21964
+srccontainerchecksum 9052f56bd87d9ecfb2bd09a3de7f1740837d1e0fea17eb2ff11c1bddc11ad2cdf3d9287167df61f0ebf1eeb4bdf7eed3b5a19b748ee8e560a7695e0418291a6f
+runfiles size=8
+ texmf-dist/tex/latex/refstyle/refstyle.cfg
+ texmf-dist/tex/latex/refstyle/refstyle.sty
+catalogue-ctan /macros/latex/contrib/refstyle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics label-ref
+catalogue-version 0.5

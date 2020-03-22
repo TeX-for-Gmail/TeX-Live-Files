@@ -1,0 +1,22 @@
+name fontaxes
+category Package
+revision 33276
+shortdesc Additional font axes for LaTeX
+longdesc The package adds several new font axes on top of LaTeX's New
+longdesc Font Selection Scheme. In particular, it splits the shape axis
+longdesc into a primary and a secondary shape axis, and it adds three
+longdesc new axes to deal with the different figure versions offered by
+longdesc many professional fonts.
+containersize 3356
+containerchecksum 69aba944977a676c557d2015aac1058091b96b52a50da52cc733187b96ca02b7a8dedcbfc848198442a5f62c824ee9e977696677f9aae267579f09d2e1637f73
+doccontainersize 118452
+doccontainerchecksum f7e0986d9f811b6436ecfc42c943bc2b21b83cb94d8bdbd5daea3ab66fec5bff2033f56ad9509e9e9591b78e68dae1ea76e810bff51469583aba9c8b691898e0
+srccontainersize 10124
+srccontainerchecksum 6c966d9c88e62d772b0a011acd77a81e73ea92130de23d0f676bdbdff1c65bb73f54e3abb03c744e6eb7a48c22f3bf0284c1a8ca1ab0538686586e737526156c
+runfiles size=4
+ texmf-dist/tex/latex/fontaxes/fontaxes.sty
+catalogue-ctan /macros/latex/contrib/fontaxes
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-use
+catalogue-version 1.0d

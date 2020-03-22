@@ -1,0 +1,18 @@
+name knuth
+category Package
+revision 32899
+catalogue knuth-errata
+shortdesc Knuth's published errata
+longdesc These files record details of problems reported in the
+longdesc 'Computers and Typesetting' series of books, for the Computer
+longdesc Modern fonts, and for TeX, Metafont and related programs.
+containersize 472
+containerchecksum 0444090d99b39e2cdb47060ec7eb07704948efba49d4c9ced27a0565e34bc31cc81e10ec19559d3455ad2da79c5117da3f2d84f2cdd080cf97d5c14e6d02f707
+doccontainersize 14024508
+doccontainerchecksum a2ec4befb238f3cc51593e0aa145d02f40e3e792d4ee13147cf58baf366f9e019fb874179940b7beedf859c9d756a8fde2b6f65e8c6c20e9c2964e980e7dfabc
+srccontainersize 171420
+srccontainerchecksum a5e53275149199e9bbf88f6f6f03759b39ab0401eaf1fee4cc9875eee62a82178bb3f79deea9cbddf5e3153366dd57e43733f583bd66327e73b2e78b0765964b
+catalogue-ctan /systems/knuth/dist/errata
+catalogue-date 2017-01-28 13:06:02 +0100
+catalogue-license knuth
+catalogue-topics doc-errata

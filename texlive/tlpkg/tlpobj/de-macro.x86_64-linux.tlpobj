@@ -1,0 +1,8 @@
+name de-macro.x86_64-linux
+category Package
+revision 17399
+shortdesc x86_64-linux files of de-macro
+containersize 340
+containerchecksum 7409efad4bb76ef4c60095a9264e0720f3d77f67b988eceff8c0231cb3da5d6a4e54655f1563df10799c43daf3f9575fc0ae4bcc308b03cc8bff6b0f56ccc2c9
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/de-macro

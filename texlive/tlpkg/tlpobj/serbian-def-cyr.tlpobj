@@ -1,0 +1,17 @@
+name serbian-def-cyr
+category Package
+revision 23734
+shortdesc Serbian cyrillic localization
+longdesc This package provides abstract, chapter, title, date etc, for
+longdesc serbian language in cyrillic scripts in T2A encoding and cp1251
+longdesc code pages.
+containersize 1820
+containerchecksum 6cbd1da1160519914db1a2269a54f1f81442d84750b15179e4a0f4e5373512c959542a789ef39a2803b68030bd6a8001fde777e907e85852703ff696ec9e5113
+doccontainersize 235684
+doccontainerchecksum 0f2a2fb44eaef8e0eb01e12260fa310d661501c3e1dacde2882199ce4bd5323c837704fd50e8db5b4ba567a38038b37be28fd834874262de2e3ad36b65816498
+runfiles size=1
+ texmf-dist/tex/latex/serbian-def-cyr/serbian-def-cyr.sty
+catalogue-ctan /macros/latex/contrib/serbian-def-cyr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics serbian

@@ -1,0 +1,37 @@
+name talk
+category Package
+revision 42428
+shortdesc A LaTeX class for presentations
+longdesc The talk document class allows you to create slides for screen
+longdesc presentations or printing on transparencies. It also allows you
+longdesc to print personal notes for your talk. You can create overlays
+longdesc and display structure information (current section /
+longdesc subsection, table of contents) on your slides. The main feature
+longdesc that distinguishes talk from other presentation classes like
+longdesc beamer or prosper is that it allows the user to define an
+longdesc arbitrary number of slide styles and switch between these
+longdesc styles from slide to slide. This way the slide layout can be
+longdesc adapted to the slide content. For example, the title or
+longdesc contents page of a talk can be given a slightly different
+longdesc layout than the other slides. The talk class makes no
+longdesc restrictions on the slide design whatsoever. The entire look
+longdesc and feel of the presentation can be defined by the user. The
+longdesc style definitions should be put in a separate sty file.
+longdesc Currently the package comes with only one set of pre-defined
+longdesc slide styles (greybars.sty). Contributions from people who are
+longdesc artistically more gifted than the author are more than welcome!
+containersize 4676
+containerchecksum 371c640254994616744b2bd0c9b4040415392bb2a3adfbe5f4656faaea5bf3e7d2d4ab35373a65a857fd57112f7fc628321492d5bf7c5b052e0026c277663d7d
+doccontainersize 131060
+doccontainerchecksum d6a641789923559a94b0077d718e56258804caa1dec0c9ea0f9d010e92ffc361884664ac22b07b95d20f464d18ac76301a718430d8f1ee30172489cae3b844ae
+srccontainersize 556
+srccontainerchecksum 10661b5ee41914bdc60b5ab38c887087d6529b976a3acdbf95bf80160c6e432fe6f8a4d6030711f5672f8aea564fd23ada09f92b0e3a2a05ede903026d24bb36
+runfiles size=5
+ texmf-dist/tex/latex/talk/sidebars.sty
+ texmf-dist/tex/latex/talk/talk.cls
+catalogue-also seminar foiltex
+catalogue-ctan /macros/latex/contrib/talk
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics presentation
+catalogue-version 1.1

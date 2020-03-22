@@ -1,0 +1,17 @@
+name math-into-latex-4
+category Package
+revision 44131
+shortdesc Samples from Math into LaTeX, 4th Edition
+longdesc Samples for the book `(More) Math into LaTeX', 4th edition. In
+longdesc addition, there are two excerpts from the book: A Short Course
+longdesc to help you get started quickly with LaTeX, including detailed
+longdesc instructions on how to install LaTeX on a PC or a Mac; Math and
+longdesc Text Symbol Tables.
+containersize 548
+containerchecksum d5739155ac3cd6a02f356bbb600f7f76022faa4a5c004a93531678ead3c2f0a9f8e1419044883306ce453ac96ab8726ee45d8e49c86b0fca6a9232010a8927e3
+doccontainersize 1650056
+doccontainerchecksum 5fee7c89fc9f273817b23fa25260733ee0552df7bed0333bbe604c17bdecfc28d7e386478f7b42d3c2aef89f80ce7a1d35215fdc386ea47e4db3a334bc6a9597
+catalogue-ctan /info/examples/Math_into_LaTeX-4
+catalogue-date 2017-01-13 05:31:26 +0100
+catalogue-license other-free
+catalogue-topics book-ex

@@ -1,0 +1,17 @@
+name koma-script-examples
+category Package
+revision 47523
+shortdesc Examples from the KOMA-Script book
+longdesc This package contains some examples from the 6th edition of the
+longdesc book >>KOMA-Script<<, >>Eine Sammlung von Klassen und Paketen
+longdesc fur LaTeX2e<< by Markus Kohm, published by Lehmanns Media.
+longdesc There are no further descriptions of these examples.
+containersize 540
+containerchecksum df9ccc215a2693454b3f8e1cbce816708415e987451cb652c1b3c2121ff073b7dd0311e3a61de493b5591923edd7688edf66e061467d28a5c3ea437f912568f9
+doccontainersize 563260
+doccontainerchecksum 6cdd548d21897f33927ee33be350b77b317777464ce3c7be24223cf10b6200ffb73944d72d0ea8491795de71c9554881ee52ae157a035b667f8c2c74aa1c3641
+catalogue-contact-home http://www.komascript.de/
+catalogue-ctan /info/examples/KOMA-Script-6
+catalogue-date 2018-04-23 05:04:11 +0200
+catalogue-license lppl1.3c
+catalogue-topics book-ex

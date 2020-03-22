@@ -1,0 +1,22 @@
+name currency
+category Package
+revision 48990
+shortdesc Format currencies in a consistent way
+longdesc The package facilitates the formatting of currencies (amounts
+longdesc and units) with various formatting capabilities.
+containersize 1896
+containerchecksum d975cbe846ad5708a3558252094f4568c3ea4c5bc840dea7ade74eb8f6d90f4527b417a875a7bc286010473078d895cf510560f1287013e70498c983c896750b
+doccontainersize 710120
+doccontainerchecksum 1f32fed0bf778b3460e094239afd76b4be9915be8a3e8ea20b7e48b02f1ffdcffdd1e588a507b8145ed232a38cee43db1bac0e232c472d5b5dd85f1cf3954c8c
+srccontainersize 4164
+srccontainerchecksum c7a99bf685283b415c7cf71a6700bcf2928d2342f5db8a3b78e96148fc01ad028b0921a7c048f345dd5d5fbcb3f47618390fd580b02fb4ab1594e7bf5def9904
+runfiles size=2
+ texmf-dist/tex/latex/currency/currency.sty
+catalogue-also siunitx
+catalogue-contact-bugs https://github.com/antoinelejay/currency/issues
+catalogue-contact-repository https://github.com/antoinelejay/currency
+catalogue-ctan /macros/latex/contrib/currency
+catalogue-date 2018-10-24 21:28:00 +0200
+catalogue-license lppl1.3
+catalogue-topics units scientific-docs
+catalogue-version 0.4

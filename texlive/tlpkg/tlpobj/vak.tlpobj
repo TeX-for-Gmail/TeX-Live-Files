@@ -1,0 +1,22 @@
+name vak
+category Package
+revision 23431
+shortdesc BibTeX style for Russian Theses, books, etc
+longdesc The file can be used to format the bibliographies of PhD
+longdesc theses, books etc., according to the latest Russian standards:
+longdesc GOST 7.82 - 2001 and GOST 7.1 - 2003. It introduces the minimum
+longdesc number of new entries and styles to cover all frequently used
+longdesc situations. The style file provides an easy way to perform a
+longdesc semiautomatic, or a completely manual sort of the list of the
+longdesc references. Processing bibliographies produced by the style
+longdesc requires a 8-bit BibTeX system.
+containersize 5964
+containerchecksum b7606cf33b8e9d14f4ca4cced0620810eecc469faba959728d3b4d7f8d87023d600fb33f1739ce0e7d14d4a54936fbc682a54d8ad8c6b514a1f2baed2c79b2f1
+doccontainersize 91260
+doccontainerchecksum 1e6f148de79c2ecb5fcd03ff1509c3a509ee40795af0e7f7a95fdc64c403f2de7f9d9ca37716b6488cd496e2be0565749222ae95f8b97e5cf7e05b3877bb6d62
+runfiles size=8
+ texmf-dist/bibtex/bst/vak/vak.bst
+catalogue-ctan /biblio/bibtex/contrib/vak
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics dissertation

@@ -1,0 +1,16 @@
+name math-e
+category Package
+revision 20062
+shortdesc Examples from the book Typesetting Mathematics with LaTeX
+longdesc The bundle contains all the examples from the (English) book
+longdesc "Typesetting Mathematics with LaTeX" (UIT Press, Cambridge,
+longdesc 2010). The examples are stand alone documents and may be
+longdesc separately processed with LaTeX or pdfLaTeX.
+containersize 500
+containerchecksum c51c61baf8a8189fc2facc065d2f80c75026f5dcca8ee79c6d72ae9d71f0dd7fcafd7a230041db55c07e065838e865a56129c79b502c5f65e41ecc7b03e1e5f8
+doccontainersize 52572
+doccontainerchecksum 8f2356c61cf47332ad4b62f2065ba7f16173aae618e0d387c6b5f9f97a47c6b3fa14deba24e93ab7b359571ce732023e9b062342da0effc16aa6ad13fca71c5f
+catalogue-ctan /info/examples/Math-E
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics book-ex

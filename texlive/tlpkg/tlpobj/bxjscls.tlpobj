@@ -1,0 +1,35 @@
+name bxjscls
+category Package
+revision 50318
+shortdesc Japanese document class collection for all major engines
+longdesc This package provides an extended version of the Japanese
+longdesc document class collection provided by jsclasses. While the
+longdesc original version supports only pLaTeX and upLaTeX, the extended
+longdesc version also supports pdfLaTeX, XeLaTeX and LuaLaTeX, with the
+longdesc aid of suitable packages that provide capability of Japanese
+longdesc typesetting.
+containersize 31204
+containerchecksum 7489681ec6b39088ee12053a6d71055cfd4651dbb1114d3e0fb30747cd346789f643d9c98234176ab15a00b0f657149ffc970ab4115376455332b5a6ecf1af55
+doccontainersize 1639000
+doccontainerchecksum 1f3dcbe82c81e9beb91361187f2762b4cf0ec62d9e08b2932b61792c17f3c8b44afd02601cf8d4d3cf6a6afde0d72f9d3798333c43db995e8851b554edf3e263
+srccontainersize 78516
+srccontainerchecksum e6085fd3cb4c37bd3a44b2ed2d54333e4c2662fa3a249d056d1a6986d50d5aeca63b87a45431621ee49df904a4e6e6a632b6a3c23e5678c5e37b0f78ed6e50bc
+runfiles size=97
+ texmf-dist/tex/latex/bxjscls/bxjsarticle.cls
+ texmf-dist/tex/latex/bxjscls/bxjsbook.cls
+ texmf-dist/tex/latex/bxjscls/bxjscjkcat.sty
+ texmf-dist/tex/latex/bxjscls/bxjscompat.sty
+ texmf-dist/tex/latex/bxjscls/bxjsja-minimal.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-modern.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-pandoc.def
+ texmf-dist/tex/latex/bxjscls/bxjsja-standard.def
+ texmf-dist/tex/latex/bxjscls/bxjspandoc.sty
+ texmf-dist/tex/latex/bxjscls/bxjsreport.cls
+ texmf-dist/tex/latex/bxjscls/bxjsslide.cls
+catalogue-contact-home https://github.com/zr-tex8r/BXjscls
+catalogue-contact-repository https://github.com/zr-tex8r
+catalogue-ctan /language/japanese/BX/bxjscls
+catalogue-date 2019-03-09 22:03:51 +0100
+catalogue-license bsd2
+catalogue-topics japanese class
+catalogue-version 1.9f

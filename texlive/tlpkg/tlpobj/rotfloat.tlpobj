@@ -1,0 +1,25 @@
+name rotfloat
+category Package
+revision 18292
+shortdesc Rotate floats
+longdesc The float package provides commands to define new floats of
+longdesc various styles (plain, boxed, ruled, and userdefined ones); the
+longdesc rotating package provides new environments (sidewaysfigure and
+longdesc sidewaystable) which are rotated by 90 or 270 degrees. But what
+longdesc about new rotated floats, e.g. a rotated ruled one? This
+longdesc package makes this possible; it builds a bridge between the two
+longdesc packages and extends the commands from the float package to
+longdesc define rotated versions of the new floats, too.
+containersize 1528
+containerchecksum 2976812ba6d6bdb304d56c9f10f08c02aa8acceeeef6eb05ccd0ac7b3e3b86984794017627d8f939994ea0228bef5e9d6cab0b08843e87a840ee5c2390dd0bb7
+doccontainersize 214720
+doccontainerchecksum 020e080e047f20db45bf83ff32c267f5a10b7790adb64495d09ebb3795a55d953154b8afedcfa0214a77f11c35287b18949b8f1fb89b6ee51aac12a04832e922
+srccontainersize 6108
+srccontainerchecksum b3b986dc11e30b68f75bfa371c85eded713f759f6fa0229857cc05172edd70caafd9124098813cdafd1f060fe57a6667326ee84445fade50bb6acf9d1cb6a95f
+runfiles size=1
+ texmf-dist/tex/latex/rotfloat/rotfloat.sty
+catalogue-ctan /macros/latex/contrib/rotfloat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics float
+catalogue-version 1.2

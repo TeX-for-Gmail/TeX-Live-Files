@@ -1,0 +1,24 @@
+name dramatist
+category Package
+revision 35866
+shortdesc Typeset dramas, both in verse and in prose
+longdesc This package is intended for typesetting drama of any length.
+longdesc It provides two environments for typesetting dialogues in prose
+longdesc or in verse; new document divisions corresponding to acts and
+longdesc scenes; macros that control the appearance of characters and
+longdesc stage directions; and automatic generation of a `dramatis
+longdesc personae' list.
+containersize 3968
+containerchecksum d61da72538a7d83ee902081aefc23f3addf2fd6e5fa7ebb207fdac16546d13602c50419682e842df8f36a899c2c0aba0aaf615bf64202135dd9f470f5391838d
+doccontainersize 416040
+doccontainerchecksum fc28e1dc8614d836637350a20478a0e8a03121909cb42bfd1cf4caf8e7adc01a4ac3eba08e82c389c41a567cd00f191ecd8938ac40a0a226e2fbdac047ecb733
+srccontainersize 34464
+srccontainerchecksum a364353dbbb9540a9f43c26fbfe6be8f814452a23e9f25c5a4c4f45a65534e0696dee993bddea4eb20eed284b892d258f6947fb0f96af63a0516f9f0fae01651
+runfiles size=4
+ texmf-dist/tex/latex/dramatist/dramatist.sty
+catalogue-also sides
+catalogue-ctan /macros/latex/contrib/dramatist
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics drama-script
+catalogue-version 1.2e

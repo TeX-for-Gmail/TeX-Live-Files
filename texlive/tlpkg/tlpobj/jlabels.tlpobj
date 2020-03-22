@@ -1,0 +1,16 @@
+name jlabels
+category Package
+revision 24858
+shortdesc Make letter-sized pages of labels
+longdesc The package provides controls for the numbers of rows and
+longdesc columns.
+containersize 1564
+containerchecksum 5077471a09df4090e087a465e9d1823668ab80f088a7d5fea7d14559e9ea8906dae029a2093038ce5e9f013bbe3a9bcd74d8626e6ccbcaf7ebedd5c2f1e3521e
+doccontainersize 27008
+doccontainerchecksum 7736480f6736d8b623fac61683321eb7444ca8672eadf0da200eeca928de9dc031152e4599783d602e9c11b58463b03fc1162756edbaa5bd3dc1f6c5b64e08a6
+runfiles size=1
+ texmf-dist/tex/latex/jlabels/jlabels.sty
+catalogue-ctan /macros/latex/contrib/jlabels
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics labels

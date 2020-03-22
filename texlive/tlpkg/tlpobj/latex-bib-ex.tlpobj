@@ -1,0 +1,15 @@
+name latex-bib-ex
+category Package
+revision 25831
+shortdesc Examples for the book Bibliografien mit LaTeX
+longdesc The bundle provides a collection of files containing every
+longdesc example in the book "Bibliografien mit LaTeX" (ISBN
+longdesc 978-3865414151), by the package author.
+containersize 464
+containerchecksum 9f91b724d8fb1bf1c3140632c4ba485350defdfc926dd3d558d2a318affb5b6d56cfb1d0f8651d0af878f165148a5a1f06c82f71b8033187ca485fee1bb6ec0d
+doccontainersize 49548
+doccontainerchecksum 127f8ef52da49a348e79b062e16dc6a5f2b1728fd553ec3eaf824117e764e11d8e9dc63d34c0eb86417ddeda5e7f53403fe2361d8f959acb697330148f5d64a6
+catalogue-ctan /info/examples/LaTeX-Bib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics book-ex

@@ -1,0 +1,20 @@
+name bxcjkjatype
+category Package
+revision 42292
+shortdesc Typeset Japanese with pdfLaTeX and CJK
+longdesc The package provides a working configuration of the CJK
+longdesc package, suitable for Japanese typesetting of moderate quality.
+longdesc Moreover, it facilitates use of the CJK package for pLaTeX
+longdesc users, by providing commands that are similar to those used by
+longdesc the pLaTeX kernel and some other packages used with it.
+containersize 8228
+containerchecksum ea75072ca87925cbac9c69335fd77b509396516b11cd74b4f29976566613a3f0fe091b8d77f00803932c55f87fd1af964243a02271ef3ba64f08da5a065fb7f3
+doccontainersize 261872
+doccontainerchecksum 4cf0962455982064956fed4080ccb8a4e4e386bdde5952880e05246bb655f064c22b4c1e2af32d3a8850304c1dd46c817ef16f0cb8a0e8cb764fcf788bb4ce6a
+runfiles size=8
+ texmf-dist/tex/latex/bxcjkjatype/bxcjkjatype.sty
+catalogue-ctan /language/japanese/bxcjkjatype
+catalogue-date 2018-02-25 10:09:04 +0100
+catalogue-license mit
+catalogue-topics japanese
+catalogue-version 0.3

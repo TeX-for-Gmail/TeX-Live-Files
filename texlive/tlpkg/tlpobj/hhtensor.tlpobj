@@ -1,0 +1,20 @@
+name hhtensor
+category Package
+revision 24981
+shortdesc Print vectors, matrices, and tensors
+longdesc This package provides commands for vectors, matrices, and
+longdesc tensors with different styles -- arrows (as the LaTeX default),
+longdesc underlined, and bold).
+containersize 1228
+containerchecksum 387fb53bc2c9b83d2f34d9fe7856e3e7c54e2403378a1f806e29549e1d4b871cbc8333b64f721230918b96b9082ebe0ec07533cae9e4ba54d73dd8244a95b1f3
+doccontainersize 362248
+doccontainerchecksum 30de49c3074840066555f2363f2c4120d731c3d515c2b3ad6839bd4e04abfc7043930428f0345149c6da1b5396950c8864baff6414a42769f1652a057817616b
+srccontainersize 3160
+srccontainerchecksum 10c1cb953af7cbf3c1f31d06116833eeb4a3c81d66671ade683ad38cf97271e4f05070cf065389211baf8df13415d74086329d2e83f141f4167f0909214973da
+runfiles size=1
+ texmf-dist/tex/latex/hhtensor/hhtensor.sty
+catalogue-ctan /macros/latex/contrib/hhtensor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 0.61

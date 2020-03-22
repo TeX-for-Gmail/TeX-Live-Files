@@ -1,0 +1,23 @@
+name babel-russian
+category Package
+revision 45007
+shortdesc Russian language module for Babel
+longdesc The package provides support for use of Babel in documents
+longdesc written in Russian (in both "traditional" and modern forms).
+longdesc The support is adapted for use both under 'traditional' TeX
+longdesc engines, and under XeTeX and LuaTeX.
+containersize 6180
+containerchecksum 6072d24abd098a037a97c9bc139db9454e363b35ab1b84f2641684aa0e95ab3747068a715522e2716cc1dfcd129404f038aa5829054abc29102306e84cb27070
+doccontainersize 138068
+doccontainerchecksum 702b72058f3142b8e5c2d1e752ef46622f688bbe42a7afc3e93251dd42bced6543aadc4d9ed70865d8fc7868b2c560231489e521eb63ec897068b7d712d732cf
+srccontainersize 23808
+srccontainerchecksum 307e7b28b91c02dc8287d2567eaf057597739d04a5db1ad3ccee3b190c01d5161426ab50e1849294f1222add41b322047d372115e31200588f59317b33d49c11
+runfiles size=7
+ texmf-dist/tex/generic/babel-russian/russianb.ldf
+catalogue-contact-bugs https://github.com/kia999/babel-russian/issues
+catalogue-contact-home https://github.com/kia999/babel-russian
+catalogue-ctan /macros/latex/contrib/babel-contrib/russian
+catalogue-date 2017-08-10 18:00:28 +0200
+catalogue-license lppl1.3
+catalogue-topics multilingual-addon russian
+catalogue-version 1.3j

@@ -1,0 +1,20 @@
+name egplot
+category Package
+revision 20617
+shortdesc Encapsulate Gnuplot sources in LaTeX documents
+longdesc A package to encapsulate gnuplot commands in a LaTeX source
+longdesc file, so that a document's figures are maintained in parallel
+longdesc with the document source itself.
+containersize 3560
+containerchecksum c96cc3185c09f66fc6a4c19958b88d178cf0b6ea9d889938df5a07d4fb7b19962a9c17ebe0a906ab19a8725808aa09ee41b39a0379fefbf8816a5e78abf9201f
+doccontainersize 484812
+doccontainerchecksum e6e55708004cdf3dfd753071e2fc242428a6636944f3ea65510d2e9f8e2921b869ff4a22d100b43d70ba0708a5b19f002bbe21f57c858ec72b11ffe82e161e50
+srccontainersize 10972
+srccontainerchecksum 45c810de39612dcd60d71b4acc8aa9a7c2c22c1eab8e1ca1628ced9873c86b0ff31035ec5f72d89decf91ba552c4e3473249138f557bd650b9863c5385502436
+runfiles size=3
+ texmf-dist/tex/latex/egplot/egplot.sty
+catalogue-ctan /macros/latex/contrib/egplot
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics graphics-inline
+catalogue-version 1.02a

@@ -1,0 +1,10 @@
+name lilyglyphs.x86_64-linux
+category Package
+revision 31696
+shortdesc x86_64-linux files of lilyglyphs
+containersize 404
+containerchecksum 1062cc314fc280c861d048eb04631e2148e3c45a4c2d86c47a9956f93f35e07d0319167c608e81bb78313f95fc0efb9995e4662d41a4fdbbb10f2e8c553e436a
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/lily-glyph-commands
+ bin/x86_64-linux/lily-image-commands
+ bin/x86_64-linux/lily-rebuild-pdfs

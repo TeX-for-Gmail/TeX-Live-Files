@@ -1,0 +1,17 @@
+name tds
+category Package
+revision 15878
+shortdesc The TeX Directory Structure standard
+longdesc Defines a structure for placement of TeX-related files on an
+longdesc hierarchical file system, in a way that is well-defined, and is
+longdesc readily implementable.
+containersize 488
+containerchecksum 20b739d69ba9804c12761c0eb76c0b7961657d2ba2fb00db9d083022279cca2b2b176fc7aaba11fceb77da4b7a23ba53c80e98a492fb4929adb545d56f5e8958
+doccontainersize 232652
+doccontainerchecksum ab08ea4220a30ac896add47e5422dbf2ff3eb65c3c89e90c87983c5dff75dfae6fc4d6f8cda58f2da51dae505f537ea07cee0e2378da845c20e790f8a1724f7c
+catalogue-contact-home http://tug.org/tds/
+catalogue-ctan /tds
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license other-free
+catalogue-topics std-spec
+catalogue-version 1.1

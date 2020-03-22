@@ -1,0 +1,57 @@
+name ifsym
+category Package
+revision 24868
+shortdesc A collection of symbols
+longdesc A set of symbol fonts, written in Metafont, offering
+longdesc (respectively) clock-face symbols, geometrical symbols, weather
+longdesc symbols, mountaineering symbols, electronic circuit symbols and
+longdesc a set of miscellaneous symbols. A LaTeX package is provided,
+longdesc that allows the user to load only those symbols needed in a
+longdesc document.
+containersize 9808
+containerchecksum ef6615a3768f87009d22c3feeaa074a0589b17efc8585a509e21692195a100e5b11e2d0849fa2eaf8f80cbe0d96ea12e773aee0be28e7120ee80a86dcfa6f8e2
+doccontainersize 120996
+doccontainerchecksum 10dca0c00a52d9d9775bd2ae35b50d7d56294da9b8eb21f2bc35f7863cbf1ab357cf8f3e1d949570ebf4908a60d9ccfe604e69fe779780c8e7527172f3f0e999
+runfiles size=46
+ texmf-dist/fonts/source/public/ifsym/ifclk.gen
+ texmf-dist/fonts/source/public/ifsym/ifclk10.mf
+ texmf-dist/fonts/source/public/ifsym/ifclkb10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeo.gen
+ texmf-dist/fonts/source/public/ifsym/ifgeo10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeob10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeobn10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeobw10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeon10.mf
+ texmf-dist/fonts/source/public/ifsym/ifgeow10.mf
+ texmf-dist/fonts/source/public/ifsym/ifsym.gen
+ texmf-dist/fonts/source/public/ifsym/ifsym10.mf
+ texmf-dist/fonts/source/public/ifsym/ifsymb10.mf
+ texmf-dist/fonts/source/public/ifsym/ifsymbi10.mf
+ texmf-dist/fonts/source/public/ifsym/ifsymi10.mf
+ texmf-dist/fonts/source/public/ifsym/ifwea.gen
+ texmf-dist/fonts/source/public/ifsym/ifwea10.mf
+ texmf-dist/fonts/source/public/ifsym/ifweab10.mf
+ texmf-dist/fonts/tfm/public/ifsym/ifclk10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifclkb10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeo10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeob10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeobn10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeobw10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeon10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifgeow10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifsym10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifsymb10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifsymbi10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifsymi10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifwea10.tfm
+ texmf-dist/fonts/tfm/public/ifsym/ifweab10.tfm
+ texmf-dist/tex/latex/ifsym/ifsym.sty
+ texmf-dist/tex/latex/ifsym/uifblk.fd
+ texmf-dist/tex/latex/ifsym/uifclk.fd
+ texmf-dist/tex/latex/ifsym/uifgeo.fd
+ texmf-dist/tex/latex/ifsym/uifsym.fd
+ texmf-dist/tex/latex/ifsym/uifwea.fd
+catalogue-ctan /fonts/ifsym
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-mf font-symbol

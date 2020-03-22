@@ -1,0 +1,23 @@
+name fnspe
+category Package
+revision 45360
+shortdesc Macros for supporting mainly students of FNSPE CTU in Prague
+longdesc This package is primary intended for students of FNSPE CTU in
+longdesc Prague but many other students or scientists can found this
+longdesc package as useful. This package implements different standards
+longdesc of tensor notation, interval notation and complex notation.
+longdesc Further many macros and shortcuts are added, e.q. for spaces,
+longdesc operators, physics unit, etc.
+containersize 2492
+containerchecksum 5e9af6b3b3136f49e49524c7fc85074fd75fff30826fcbb8dad358102e3eee6fa44037b7dde99b6556a063dbe4e819b27ef5a522999eb304f70c2785642478b3
+doccontainersize 170056
+doccontainerchecksum 733a099cac2d96ddf6593b9e0195b85c8d5e86f6a1b283f011a55acc4a1bb7391bfd4356c6aaa40d9b2c70a7c180886d64162eaa396a5a457fbea491af1b47c1
+runfiles size=2
+ texmf-dist/tex/latex/fnspe/fnspe.sty
+catalogue-contact-home https://bitbucket.org/Zemaster/fnspe-latex-package
+catalogue-contact-repository https://bitbucket.org/Zemaster/fnspe-latex-package
+catalogue-ctan /macros/latex/contrib/fnspe
+catalogue-date 2017-09-20 10:22:38 +0200
+catalogue-license lppl
+catalogue-topics dissertation
+catalogue-version 1.2a

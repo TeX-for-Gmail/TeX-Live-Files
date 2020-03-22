@@ -1,0 +1,23 @@
+name fixltxhyph
+category Package
+revision 25832
+shortdesc Allow hyphenation of partially-emphasised substrings
+longdesc The package fixes the problem of TeX failing to hyphenate
+longdesc letter strings that seem (to TeX) to be words, but which are
+longdesc followed by an apostrophe and then an emphasis command. The
+longdesc cause of the problem is not the apostrophe, but the font change
+longdesc in the middle of the string. The problem arises in Catalan,
+longdesc French, Italian and Romansh.
+containersize 1468
+containerchecksum df41497da718b157073b6ad2a4b9cea3f9ee0a0824698f47d4441b76261efb21271f1605f69b1c0de8a99e3e636587a25b4efdb4d578683ef0c89d7f849d2c8e
+doccontainersize 398240
+doccontainerchecksum 37d6b9903a56d33577c8aaabd40de592bd78dc6b2f5a2c82457f6d5b499d1d6f9a9bdaff29bb9f9511365d32e160f92c85c6c0d93ed065fdd1688aaeae9ab246
+srccontainersize 6744
+srccontainerchecksum 321e52dbc69bceea16f03d5d280ae10f497278876cdf3b7f64cbfb6f31993c18afc5bf4c38f424c9a84ffa55b235b73b4daf7d68dfd115c31dc3a237a6b64eac
+runfiles size=1
+ texmf-dist/tex/latex/fixltxhyph/fixltxhyph.sty
+catalogue-ctan /macros/latex/contrib/fixltxhyph
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics catalan french italian
+catalogue-version 0.4

@@ -1,0 +1,19 @@
+name chemexec
+category Package
+revision 21632
+shortdesc Creating (chemical) exercise sheets
+longdesc The package provides environments and commands that the author
+longdesc needed when preparing exercise sheets and other teaching
+longdesc material. In particular, the package supports the creation of
+longdesc exercise sheets, with separating printing of solutions
+containersize 7656
+containerchecksum 62f374a57c799873aa4d1db52c56fcaf2f15dd813e3bd9295044499defa29a88567034e39b20af1e8a7e4208dcc35aa422c0ea8e1e0925fb1ae3e02a1a8cb482
+doccontainersize 310880
+doccontainerchecksum 83b622fe694111fefb9c7863d5322f7a717778727c99db3fe5eedec0b6575d4fe50e6b5076413cbbf36a222ee7765bbb847c44783d6ce45cb07f55bab16955da
+runfiles size=9
+ texmf-dist/tex/latex/chemexec/chemexec.sty
+catalogue-ctan /macros/latex/contrib/chemexec
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry exercise
+catalogue-version 1.0

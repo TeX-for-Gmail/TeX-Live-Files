@@ -1,0 +1,16 @@
+name ecothesis
+category Package
+revision 48007
+shortdesc LaTeX thesis template for the Universidade Federal de Vicosa (UFV), Brazil
+longdesc The package provides a LaTeX thesis template for the
+longdesc Universidade Federal de Vicosa (UFV), Brazil.
+containersize 484
+containerchecksum bed57bb0ea79c74517b26e51d88966f9a05943c4df6464200ffe36f486e9cabccaef2fced0a231b40b40410ef32c44a3ebaa984e6def30bde5d426dc68e42309
+doccontainersize 341312
+doccontainerchecksum 7e1e3716de1eb964142a85ab31e28fc807ca1433f964e44cc8a7103b9ed023457bcdb01af2797a5e22fcf75a2e851d9c534f17937fdc44e4ebb6b5a670c6c115
+catalogue-contact-repository https://github.com/ViniciusBRodrigues/TeseUFVLatex
+catalogue-ctan /macros/latex/contrib/ecothesis
+catalogue-date 2018-06-20 05:09:58 +0200
+catalogue-license lppl1.3c
+catalogue-topics dissertation
+catalogue-version 1.2

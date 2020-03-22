@@ -1,0 +1,21 @@
+name poetrytex
+category Package
+revision 39921
+shortdesc Typeset anthologies of poetry
+longdesc The package is designed to aid in the management and formatting
+longdesc of anthologies of poetry and other writings; it does not
+longdesc concern itself with actually typesettinig the verse itself.
+containersize 3096
+containerchecksum 9de77dc676f78ce6e18ae62f621126ffc2d78ceb9cb5612f8c129f0c0d123043c554a8996a68d2bf6c730a157f5cdda4101f8446e0e773671258ffb55d6fe93d
+doccontainersize 292288
+doccontainerchecksum e9bc2551a92df86e5b76448b2de7af423b8f96ea6a62b1e243f76588478172a7ffe035ed904fb8eb3c5be031e1451c997a68de3187933c3a7273510710577f25
+srccontainersize 13964
+srccontainerchecksum 4dbeac34f7a74a3a3610f8fa3d3b614ba9ed95384863d2edc40c4685bf7d514803a6d50ff8f27459a7ed993de97f835663ee84247fb0942ba9ff43779e2faeb4
+runfiles size=3
+ texmf-dist/tex/latex/poetrytex/poetrytex.sty
+catalogue-contact-repository https://github.com/SamWhited/poetrytex.git
+catalogue-ctan /macros/latex/contrib/poetrytex
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics verse
+catalogue-version 3.0.1

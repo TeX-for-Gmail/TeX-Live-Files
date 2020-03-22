@@ -1,0 +1,23 @@
+name sesamanuel
+category Package
+revision 36613
+shortdesc Class and package for sesamath books or paper
+longdesc The package contains a sesamanuel class which could be used to
+longdesc compose a student's classroom book with LaTeX, and also a
+longdesc sesamanuelTIKZ style to be used for TikZ pictures in the
+longdesc sesamath book.
+containersize 28800
+containerchecksum bb7b38ff9e6494fb3150602008a66df5fd8c35dcb52a2da196cd177bcffeb40e284fa493b296f01f22864a5bf25d89fb4c079ff4d9fffacdf37dfc9de9256518
+doccontainersize 858604
+doccontainerchecksum cd144c93693367bdda658fb1ecd424715849fa57f0aded627125db2703947c8b5886df9ec08595592b6900327b42e8cff00f0c69967075321bd7cd1064054f3b
+srccontainersize 66020
+srccontainerchecksum 4a5dd4a8da6a8719f47d4b4bfb5e3a6c0e1498369fbcf7f9fd48304906bbff383793329959b69f13a75bcf3d01b888325c23079b4503aa779f464c2864560416
+runfiles size=61
+ texmf-dist/tex/latex/sesamanuel/sesamanuel.cls
+ texmf-dist/tex/latex/sesamanuel/sesamanuel.sty
+ texmf-dist/tex/latex/sesamanuel/sesamanuelTIKZ.sty
+catalogue-ctan /macros/latex/contrib/sesamanuel
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.6

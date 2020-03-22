@@ -1,0 +1,17 @@
+name truncate
+category Package
+revision 18921
+shortdesc Truncate text to a specified width
+longdesc The package will by default break at word boundaries, but
+longdesc package options are offered to permit breaks within words.
+containersize 3008
+containerchecksum b676d65803577b4bce5f6240a0d05a306199f24c2b14402954f4430f07fed9a8af574c4cf9cdc233824bb1a285eee0c531aa40ae31c782a43afd678d6e44f27a
+doccontainersize 157044
+doccontainerchecksum 78e9a96fc2e635237cae9ab4d7ac30cfee8582dde13331800ac9079d1e0726c597accb598b5e679b6643d27b2a53fb367e740b76d59e9a5d27226a4c829e8518
+runfiles size=2
+ texmf-dist/tex/latex/truncate/truncate.sty
+catalogue-ctan /macros/latex/contrib/truncate
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics layout
+catalogue-version 3.6

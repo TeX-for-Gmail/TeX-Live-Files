@@ -1,0 +1,61 @@
+name ethiop-t1
+category Package
+revision 15878
+shortdesc Type 1 versions of Amharic fonts
+longdesc These fonts are drop-in Adobe type 1 replacements for the fonts
+longdesc of the ethiop package.
+execute addMixedMap ethiop.map
+containersize 5184412
+containerchecksum 84f97fb5320ada95562aade797fdb62577e533feee9d7ece5cc51e17303012b198c0b1e6b4f720dc1539c4cb917ac71e3da6f48776d6fcfe84d4527ffd7b78dd
+doccontainersize 7516
+doccontainerchecksum 81f2ed72d5cef9119c94c4b0025e31be6739153e36b7b31a2c59b0cbe5a683a67746da8346345d561472fdbb760c07831d1936222ce1388ee12d70c9053ca8ac
+runfiles size=1348
+ texmf-dist/fonts/map/dvips/ethiop-t1/ethiop.map
+ texmf-dist/fonts/type1/public/ethiop-t1/etha10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/etha6.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/etha7.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/etha8.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab11.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab12.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab14.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab18.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab24.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab36.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethab9.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethas10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb11.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb12.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb14.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb18.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb24.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb36.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethasb9.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethatt10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethb10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethb6.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethb7.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethb8.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb11.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb12.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb14.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb18.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb24.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb36.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbb9.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbs10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb10.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb11.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb12.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb14.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb18.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb24.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb36.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbsb9.pfb
+ texmf-dist/fonts/type1/public/ethiop-t1/ethbtt10.pfb
+catalogue-ctan /fonts/ps-type1/ethiop
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-nonroman font-type1 amharic

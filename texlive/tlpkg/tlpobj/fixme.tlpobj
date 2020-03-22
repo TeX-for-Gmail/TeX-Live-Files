@@ -1,0 +1,51 @@
+name fixme
+category Package
+revision 49591
+shortdesc Collaborative annotation tool for LaTeX
+longdesc FiXme is a collaborative annotation tool for LaTeX documents.
+longdesc Annotating a document here refers to inserting meta-notes, that
+longdesc is, notes that do not belong to the document itself, but rather
+longdesc to its development or reviewing process. Such notes may involve
+longdesc things of different importance levels, ranging from simple "fix
+longdesc the spelling" flags to critical "this paragraph is a lie"
+longdesc mentions. Annotations like this should be visible during the
+longdesc development or reviewing phase, but should normally disappear
+longdesc in the final version of the document. FiXme is designed to ease
+longdesc and automate the process of managing collaborative annotations,
+longdesc by offering a set of predefined note levels and layouts, the
+longdesc possibility to register multiple authors, to reference
+longdesc annotations by listing and indexing etc. FiXme is extensible,
+longdesc giving you the possibility to create new layouts or even
+longdesc complete "themes", and also comes with support for AUCTeX.
+containersize 8676
+containerchecksum fbfc3a79dbaed48f79dfd59efba58eb3d6c4e3c3f6716b0910cc0ee7e6b0913f345f4a05bcbc5d9943437d072cf3008615ab573725c4e7b4d7d716bd90dd8d07
+doccontainersize 351972
+doccontainerchecksum 78f64f31246acc6c153c0f0ec618a3a1c473ea3a5cce47af57ee65603d2064b64a3a506cd18332f1686b41768dcfdb10a9f9cc000dbe5cb476c8c4c61283dae9
+srccontainersize 35036
+srccontainerchecksum f5c1f64772f76f43fc64e1395804f155587d677356bdebb6bc2e3bf6961b38004463e8e83b2c3b5406e32f329c2fc84083e0f0db90875fa55319f85cfe4223c5
+runfiles size=24
+ texmf-dist/tex/latex/fixme/fixme.sty
+ texmf-dist/tex/latex/fixme/layouts/env/fxenvlayoutcolor.sty
+ texmf-dist/tex/latex/fixme/layouts/env/fxenvlayoutcolorsig.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutmarginnote.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfcmargin.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfcnote.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfcsigmargin.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfcsignote.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfmargin.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfnote.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfsigmargin.sty
+ texmf-dist/tex/latex/fixme/layouts/fxlayoutpdfsignote.sty
+ texmf-dist/tex/latex/fixme/layouts/target/fxtargetlayoutchangebar.sty
+ texmf-dist/tex/latex/fixme/layouts/target/fxtargetlayoutcolor.sty
+ texmf-dist/tex/latex/fixme/layouts/target/fxtargetlayoutcolorcb.sty
+ texmf-dist/tex/latex/fixme/themes/fxthemecolor.sty
+ texmf-dist/tex/latex/fixme/themes/fxthemecolorsig.sty
+ texmf-dist/tex/latex/fixme/themes/fxthemesignature.sty
+catalogue-contact-home https://www.lrde.epita.fr/~didier/software/latex.php#fixme
+catalogue-contact-repository https://github.com/didierverna/fixme
+catalogue-ctan /macros/latex/contrib/fixme
+catalogue-date 2019-01-03 18:29:08 +0100
+catalogue-license lppl1.3
+catalogue-topics editorial
+catalogue-version 4.5

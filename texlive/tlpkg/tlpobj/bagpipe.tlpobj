@@ -1,0 +1,20 @@
+name bagpipe
+category Package
+revision 34393
+shortdesc Support for typesetting bagpipe music
+longdesc Typesetting bagpipe music in MusixTeX is needlessly tedious.
+longdesc This package provides specialized and re-defined macros to
+longdesc simplify this task.
+containersize 11240
+containerchecksum 7d815e23e9b5d686e0df54c4a0ad51c85360c7b3879695977fb9be2b69cb343e1c9043c2595ac5554e87e0a568b2441bd16a43b334af4b43e5302eba19bc33d8
+doccontainersize 201344
+doccontainerchecksum 696047cc4965a06388a61232af9336f2010fdb0b869914cf66ac9b052d1efd85ff05119a277aa127cf05f56e03b63060956c7c284df78e93b0f0beabd691d33a
+runfiles size=15
+ texmf-dist/tex/generic/bagpipe/bagpipe.ini
+ texmf-dist/tex/generic/bagpipe/bagpipe.tex
+ texmf-dist/tex/generic/bagpipe/bagpipex.ini
+catalogue-ctan /macros/generic/bagpipe
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics music
+catalogue-version 3.02

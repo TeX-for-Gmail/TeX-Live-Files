@@ -1,0 +1,8 @@
+name musixtnt.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of musixtnt
+containersize 5492
+containerchecksum 622d214c5a70916dd166db34e52f601a896a23943893cf4d3187db4d2f948b8ef36536e4421a4bdb4f11d9520f6ec7e6511e61f207753d45f792d5b7289c6985
+binfiles arch=x86_64-linux size=4
+ bin/x86_64-linux/msxlint

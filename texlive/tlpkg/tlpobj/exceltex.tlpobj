@@ -1,0 +1,28 @@
+name exceltex
+category Package
+revision 26313
+shortdesc Get data from Excel files into LaTeX
+longdesc Exceltex is a LaTeX package combined with a helper program
+longdesc written in Perl. It provides an easy to use yet powerfull and
+longdesc flexible way to get data from Spreadsheets into LaTeX. In
+longdesc contrast to other solutions, exceltex does not seek to make the
+longdesc creation of tables in LaTeX easier, but to get data from
+longdesc Spreadsheets into LaTeX as easily as possible. The Excel (TM)
+longdesc file format only acts as an interface between the spreadsheet
+longdesc application and exceltex beacause it is easily accessible (via
+longdesc the Spreadsheet::ParseExcel Perl module) and because most
+longdesc spreadsheet applications are able to read and write Excel
+longdesc files.
+depend exceltex.ARCH
+containersize 6572
+containerchecksum ef8495b4ef6937af022951044652ea1fb1dcd3f65961408e84a52f9053db8f4fde6703f18833ee9cd002bc058f01813ddf765f575200211563d6e16a956d3613
+doccontainersize 3016
+doccontainerchecksum a6c4ae60f2922af773f67494c30407b5b6ead39def9253b4710940774e619496a3c242f7e9bcc8733fc733234679bb2b01c6f4571e30dca16c8eb15ad8d6d01c
+runfiles size=6
+ texmf-dist/scripts/exceltex/exceltex
+ texmf-dist/tex/latex/exceltex/exceltex.sty
+catalogue-ctan /macros/latex/contrib/exceltex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics foreign-import
+catalogue-version 0.5.1

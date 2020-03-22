@@ -1,0 +1,19 @@
+name tkz-berge
+category Package
+revision 22891
+shortdesc Macros for drawing graphs of graph theory
+longdesc The package provides a collection of useful macros for drawing
+longdesc classic graphs of graph theory, or to make other graphs.
+containersize 8392
+containerchecksum f56372592ff8a7ddc3f9d778631c4ef5e06cd6e0995b35d2c16d24b046540765a41df701d830720c95cde77cc1757af99a3f51471d4b83d5311fd5695865f299
+doccontainersize 1040428
+doccontainerchecksum b5514c49defbcc5d934266df428ad96a158803edcfd9ba23fb32080cc383ffcc32ea51a26094684094740df3a28e3137e0a26dec8792bbd60b454269312de596
+runfiles size=24
+ texmf-dist/tex/latex/tkz-berge/tkz-arith.sty
+ texmf-dist/tex/latex/tkz-berge/tkz-berge.sty
+catalogue-also tkz-graph
+catalogue-ctan /macros/latex/contrib/tkz/tkz-berge
+catalogue-date 2018-09-19 18:43:21 +0200
+catalogue-license lppl
+catalogue-topics maths pgf-tikz
+catalogue-version 1.00c

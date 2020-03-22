@@ -1,0 +1,20 @@
+name nuc
+category Package
+revision 22256
+shortdesc Notation for nuclear isotopes
+longdesc A simple package providing nuclear sub- and superscripts as
+longdesc commonly used in radiochemistry, radiation science, and nuclear
+longdesc physics and engineering applications. Isotopes which have Z
+longdesc with more digits than A require special spacing to appear
+longdesc properly; this spacing is supported in the package.
+containersize 1788
+containerchecksum d540e5dc8a3edb41994ef4ed8af6a51fea544ac929ef059fc50cd561891e02e9ee9b55a62782757101cfc5eface3a170bd585c144e7c8e79e191299527f979c6
+doccontainersize 80404
+doccontainerchecksum ac118243f5fa4c7a4000344dfd5793dfbacc4d7a16a7031fca6305578e06bdd627473eb065a13c4d9cc5d9ef3c1712202c2d65a913c75043e36221fc7df25ac1
+runfiles size=3
+ texmf-dist/tex/latex/nuc/nuc.sty
+catalogue-ctan /macros/latex/contrib/nuc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics subsup-pos
+catalogue-version 0.1

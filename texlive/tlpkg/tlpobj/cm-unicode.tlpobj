@@ -1,0 +1,141 @@
+name cm-unicode
+category Package
+revision 19445
+shortdesc Computer Modern Unicode font family
+longdesc Computer Modern Unicode fonts, converted from Metafont sources
+longdesc using mftrace with autotrace backend and fontforge. Some
+longdesc characters in several fonts are copied from Blue Sky type 1
+longdesc fonts released by AMS. Currently the fonts contain glyphs from
+longdesc Latin (Metafont ec, tc, vnr), Cyrillic (lh), Greek (cbgreek
+longdesc when available) code sets and IPA extensions (from tipa). This
+longdesc font set contains 33 fonts. This archive contains AFM, PFB and
+longdesc OTF versions; the OTF version of the Computer Modern Unicode
+longdesc fonts works with TeX engines that directly support OpenType
+longdesc features, such as XeTeX and LuaTeX.
+containersize 14122276
+containerchecksum b50e647db3be42cb8bc7f1df849590b4f3f8856523c57d16aa5b42237a3f7fbd381ea5f05c1337091a66fe667841704133828141eb8c40e50f595498949acd65
+doccontainersize 950712
+doccontainerchecksum 162e407cb299b1a4ee353fcd0cee7eee048f8356def550d591630f12924b4a5ff0e9d6f9a0652c3dee7a88e5c2521b0c23ba4549bdfcb21a90c1949ef566183f
+runfiles size=6942
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbbx.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbi.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbl.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbmo.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbmr.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbso.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbsr.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbtl.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbto.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbx.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunbxo.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunci.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunit.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunobi.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunobx.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunorm.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunoti.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunrb.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunrm.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunsi.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunsl.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunso.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunss.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunssdc.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunst.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunsx.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmuntb.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunti.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmuntt.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmuntx.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunui.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunvi.afm
+ texmf-dist/fonts/afm/public/cm-unicode/cmunvt.afm
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-ec.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-ecsc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-g.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-gsc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-la.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-lasc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-lb.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-lc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-ld.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-rx.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-tc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-tipa.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-tipx.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-ux.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-uxsc.enc
+ texmf-dist/fonts/enc/dvips/cm-unicode/cmu-vn.enc
+ texmf-dist/fonts/map/dvips/cm-unicode/cmu.map
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbbx.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbi.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbl.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbmo.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbmr.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbso.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbsr.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbtl.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbto.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbx.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunbxo.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunci.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunit.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunobi.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunobx.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunorm.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunoti.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunrb.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunrm.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunsi.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunsl.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunso.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunss.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunssdc.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunst.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunsx.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmuntb.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunti.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmuntt.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmuntx.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunui.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunvi.otf
+ texmf-dist/fonts/opentype/public/cm-unicode/cmunvt.otf
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbbx.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbi.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbl.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbmo.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbmr.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbso.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbsr.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbtl.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbto.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbx.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunbxo.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunci.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunit.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunobi.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunobx.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunorm.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunoti.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunrb.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunrm.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunsi.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunsl.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunso.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunss.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunssdc.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunst.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunsx.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmuntb.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunti.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmuntt.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmuntx.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunui.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunvi.pfb
+ texmf-dist/fonts/type1/public/cm-unicode/cmunvt.pfb
+catalogue-contact-home http://canopus.iacp.dvo.ru/~panov/cm-unicode/
+catalogue-ctan /fonts/cm-unicode
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license ofl
+catalogue-topics font font-serif font-sans font-proportional font-mono font-cyrillic font-greek font-type1 font-otf font-cm
+catalogue-version 0.7.0

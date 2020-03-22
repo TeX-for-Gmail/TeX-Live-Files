@@ -1,0 +1,36 @@
+name sciposter
+category Package
+revision 15878
+shortdesc Make posters of ISO A3 size and larger
+longdesc This collection of files contains LaTeX packages for posters of
+longdesc ISO A3 size and larger (ISO A0 is the default size). American
+longdesc paper sizes and custom paper are supported. In particular,
+longdesc sciposter.cls defines a document class which allows cutting and
+longdesc pasting most of an article to a poster without any editing
+longdesc (save reducing the size) -- see the manual. Sciposter does work
+longdesc for LaTeX, not just pdfLaTeX. However, xdvi produces strange
+longdesc results, though a recent version of dvips does create good
+longdesc ps-files from the dvi files. Also note that logos must either
+longdesc be put in the current working directory or in the directories
+longdesc of your LaTeX distribution. For some reason graphicspath
+longdesc settings are ignored.
+containersize 6612
+containerchecksum 1a4292c9fb6dd8a8780968c69ee70a88dd5d1c5d81df9a32e22e08c9115528d8af634a1681fb1672664d57f80ab333a1b811a9c0e17597afdc358988e14fae93
+doccontainersize 160588
+doccontainerchecksum 6ea102c2318e30080224684693806e16008f946a01fe9e1d232a871f231100d1491324a3ab0260746a61a10125afff6b20072c1a49c8da279a4c0b477361e46b
+runfiles size=16
+ texmf-dist/tex/latex/sciposter/paperb0.cfg
+ texmf-dist/tex/latex/sciposter/paperb1.cfg
+ texmf-dist/tex/latex/sciposter/paperb2.cfg
+ texmf-dist/tex/latex/sciposter/paperb3.cfg
+ texmf-dist/tex/latex/sciposter/papercustom.cfg
+ texmf-dist/tex/latex/sciposter/paperra0.cfg
+ texmf-dist/tex/latex/sciposter/paperra1.cfg
+ texmf-dist/tex/latex/sciposter/paperra2.cfg
+ texmf-dist/tex/latex/sciposter/sciposter.cls
+catalogue-also a0poster
+catalogue-ctan /macros/latex/contrib/sciposter
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics poster
+catalogue-version 1.18

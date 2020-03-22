@@ -1,0 +1,18 @@
+name numnameru
+category Package
+revision 44895
+shortdesc Converts a number to the russian spelled out name
+longdesc This package converts a numerical number to the russian spelled
+longdesc out name of the number. For example, 1 - odin, 2 - dva, 12 -
+longdesc dvenadtsat'.
+containersize 2512
+containerchecksum c6f92a720fc5baf6f55c3bc18e22113de0f7cad8a051c2019360f5f3c64eaa450bb12d6c361c52a5a802f558ff8d2cbfaa35897682d6ad218e9adbbc788f3c57
+doccontainersize 68608
+doccontainerchecksum 5e67f1908356e1f21e672e63a8873e46ebb36af39e55a64c174c3bc5c49057c6d19ac36523c34a7f1c1fc53346f6ddde8fd239ca88b5790ebba1eb8b7dbeb0ed
+runfiles size=3
+ texmf-dist/tex/latex/numnameru/numnameru.sty
+catalogue-also numname
+catalogue-ctan /macros/latex/contrib/numnameru
+catalogue-date 2018-01-07 12:14:32 +0100
+catalogue-license lppl1.3
+catalogue-topics numbers

@@ -1,0 +1,8 @@
+name ctanbib.x86_64-linux
+category Package
+revision 48478
+shortdesc x86_64-linux files of ctanbib
+containersize 340
+containerchecksum 14d3ba75f31bfdff2351051bcd75d1f0ae23f8df93e667de6deab7270b61110449be4284b3ba5f0f9949b332caf0e30b85dbec96cf335ab68c9a3d770c3973b9
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ctanbib

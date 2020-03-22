@@ -1,0 +1,32 @@
+name plautopatch
+category Package
+revision 49288
+shortdesc Automated patches for pLaTeX/upLaTeX
+longdesc Japanese pLaTeX/upLaTeX formats and packages often conflict
+longdesc with other LaTeX packages which are unaware of pLaTeX/upLaTeX.
+longdesc In the worst case, such packages throw a fatal error or end up
+longdesc with a wrong output. The goal of this package is that there
+longdesc should be no need to worry about such incompatibilities,
+longdesc because specific patches are loaded automatically whenever
+longdesc necessary. This helps not only to simplify source files, but
+longdesc also to make the appearance of working pLaTeX/upLaTeX sources
+longdesc similar to those of ordinary LaTeX ones.
+containersize 4980
+containerchecksum 2a6b3563ee83dab70bb1c78f3036bb2209f0b3ed39937b56b83995f005d5ce1ea384b9e7959d65f4727acd6f5f7dc56547f1df785ce4db096a2d5d52ca37fdf9
+doccontainersize 136648
+doccontainerchecksum 9baa37d23558e594c2ae7e470a15c636d935e0b2bfc8ea8f266a11cacdf2f6e5249f433acd5bf0d2ea66bcaecac75ca6bd5e013ae9ead1f79433a89a9c716a0f
+runfiles size=9
+ texmf-dist/tex/latex/plautopatch/plarydshln.sty
+ texmf-dist/tex/latex/plautopatch/plautopatch.sty
+ texmf-dist/tex/latex/plautopatch/pldocverb.sty
+ texmf-dist/tex/latex/plautopatch/plextarydshln.sty
+ texmf-dist/tex/latex/plautopatch/plextcolortbl.sty
+ texmf-dist/tex/latex/plautopatch/plsiunitx.sty
+ texmf-dist/tex/latex/plautopatch/pxpdfpages.sty
+ texmf-dist/tex/latex/plautopatch/pxpgfrcs.sty
+catalogue-contact-repository https://github.com/aminophen/plautopatch
+catalogue-ctan /language/japanese/plautopatch
+catalogue-date 2018-11-25 16:57:26 +0100
+catalogue-license bsd3
+catalogue-topics japanese debug-supp bugfix
+catalogue-version 0.9b

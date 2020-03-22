@@ -1,0 +1,18 @@
+name endiagram
+category Package
+revision 34486
+shortdesc Easy creation of potential energy curve diagrams
+longdesc The package provides the facility of drawing potential energy
+longdesc curve diagrams with just a few simple commands. The package
+longdesc cannot (yet) be considered stable.
+containersize 8772
+containerchecksum 50cda29c5f045e45e0421efe11128b11be1206b4ea3b183d401562a9c8afe214031c993f885bfca67f81e8b4827e024a0aeb1d95e5a8a03426f72f414cfd17fe
+doccontainersize 643640
+doccontainerchecksum 0807629080916e9ca7451fd1975da985ac786326914521c21155c337acbf48888620e3bac03b00fbbf45bbb47740faaa40d1db768a296e4a6b1cf6c6671357ca
+runfiles size=17
+ texmf-dist/tex/latex/endiagram/endiagram.sty
+catalogue-ctan /macros/latex/contrib/endiagram
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry expl3
+catalogue-version 0.1d

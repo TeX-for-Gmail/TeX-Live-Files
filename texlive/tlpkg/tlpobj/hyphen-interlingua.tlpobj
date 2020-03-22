@@ -1,0 +1,17 @@
+name hyphen-interlingua
+category TLCore
+revision 50792
+shortdesc Interlingua hyphenation patterns.
+longdesc Hyphenation patterns for Interlingua in ASCII encoding.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=interlingua 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-ia.tex 	file_patterns=hyph-ia.pat.txt 	file_exceptions=hyph-ia.hyp.txt
+containersize 2992
+containerchecksum 6801dcd5fb9d4c716fe61ea72c59648cdb1f16c56bb41a0176e2b47b7782903bc89fa29933aec173725c872de9e295da70e5932aac54b05243e73a035fc8f715
+runfiles size=7
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-ia.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ia.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ia.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ia.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ia.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-ia.pat.txt

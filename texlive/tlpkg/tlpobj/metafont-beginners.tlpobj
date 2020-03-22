@@ -1,0 +1,16 @@
+name metafont-beginners
+category Package
+revision 29803
+shortdesc An introductory tutorial for Metafont
+longdesc An old introduction to the use of Metafont, that has stood the
+longdesc test of time. It focuses on using the program, rather than
+longdesc designing fonts, but does offer advice about understanding
+longdesc errors in other people's fonts.
+containersize 496
+containerchecksum 39352d8b181f3010fd4dbfbfad18a8cd3f68f0c38bdb89996ea4c77a649acbbd15e9a7fa318193db08733b3722a07a8ebfb17a6430bcc9af8101dc444608d75b
+doccontainersize 178916
+doccontainerchecksum 4fb7148b0668845447fd38411df0288972312a56897b1d5bce69a7e57ae632aacd12c273a911045204705a5534ac1d1c290af08a7057bd62184a59eb7146feb6
+catalogue-ctan /info/metafont/beginners
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics mf-doc

@@ -1,0 +1,27 @@
+name ifnextok
+category Package
+revision 23379
+shortdesc Utility macro: peek ahead without ignoring spaces
+longdesc The package deals with the behaviour of the LaTeX internal
+longdesc command \@ifnextchar, which skips blank spaces. This has the
+longdesc potential to surprise users, since it can produce really
+longdesc unwanted effects. A common example occurs with brackets
+longdesc starting a line following \\: the command looks for an optional
+longdesc argument, whereas the user wants the brackets to be printed.
+longdesc The package offers commands and options for modifying this
+longdesc behaviour, maybe limited to certain parts of the document
+longdesc source.
+containersize 10756
+containerchecksum a56c703e1830fa64432d1b3aa72d3dff52b17c0e5b90b2cb34f7dff974e51331f5d9daa2b5aba578a8bc4a73b693c9a3dd811c6d7e32379165cc7ec1349c541b
+doccontainersize 215452
+doccontainerchecksum 1eeb8d7627ad8887761e66704a8f3c848b633a4f3a5b094626b3c64888e6db95c25b8dbad4332887a6d9e866e4aada2816b7c7e7fd19c07dba03db38842886fe
+srccontainersize 2820
+srccontainerchecksum 05422af6ee53e12ad124b314388811490304c5f42b81b17aa899e7cea5c548395043abf4abfd0d4819e6338b6d93e99c57929d18312f49500f0368038e440495
+runfiles size=8
+ texmf-dist/tex/latex/ifnextok/ifnextok.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/ifnextok
+catalogue-date 2017-05-06 08:24:26 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.3

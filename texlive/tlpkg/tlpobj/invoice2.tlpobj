@@ -1,0 +1,25 @@
+name invoice2
+category Package
+revision 46364
+shortdesc Intelligent invoices with LaTeX3
+longdesc Typeset invoices with automatic VAT and calculation of totals.
+longdesc Supports internationalization, invoices are typeset with
+longdesc booktabs for readability. Does not support separate projects
+longdesc per invoice. Can be used as a replacement for invoice in most
+longdesc cases.
+containersize 3388
+containerchecksum a790c180fedcf407b999e018cd96b1a0440b07f98c403e9c9e780863f2ecac4f4559ffb88f6a3e4f6080c89745d8a99e5ca6ee98299c7529972edebe68e00eaa
+doccontainersize 626584
+doccontainerchecksum fc4baede264c6fd1ec94338829c6973c79c04f21284532194196063b3499becf2bbc2933644ca8b870608e8879315f724b173bbbd26548d24e1649929feed7d3
+srccontainersize 9120
+srccontainerchecksum cf014bdc2debe9e400d940232eb434b1354ba7f1a093c7389c5b1d332dd2c270e7e3c1f07d65ffe9fd5d2d088e59b3e846e2fc2598eb7297189d6c772b2b16ee
+runfiles size=7
+ texmf-dist/tex/latex/invoice2/invoice2-english.trsl
+ texmf-dist/tex/latex/invoice2/invoice2-german.trsl
+ texmf-dist/tex/latex/invoice2/invoice2-swissgerman.trsl
+ texmf-dist/tex/latex/invoice2/invoice2.sty
+catalogue-contact-home https://github.com/no-preserve-root/invoice2
+catalogue-ctan /macros/latex/contrib/invoice2
+catalogue-date 2018-01-17 06:29:29 +0100
+catalogue-license gpl3+
+catalogue-topics invoice

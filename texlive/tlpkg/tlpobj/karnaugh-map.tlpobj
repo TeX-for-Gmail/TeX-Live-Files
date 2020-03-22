@@ -1,0 +1,25 @@
+name karnaugh-map
+category Package
+revision 44131
+shortdesc LaTeX package for drawing karnaugh maps with up to 6 variables
+longdesc This package draws karnaugh maps with 2, 3, 4, 5, and 6
+longdesc variables. It also contains commands for filling the karnaugh
+longdesc map with terms semi-automatically or manually. Last but not
+longdesc least it contains commands for drawing implicants on top of the
+longdesc map. This package depends on the TikZ, xparse, and xstring
+longdesc packages.
+containersize 4836
+containerchecksum dc2327e4cda55e4b60365d6354f679f9bc68d87a3d3695eb98c2754d7a5f7f64d65db8732b107f686fc39a07868d4703afc0fba754f42af3fd567a143199580e
+doccontainersize 239480
+doccontainerchecksum 0daa9aafafd67df8934ff2b7b31794b23c8ebc53fb142f23111e64957a75904c4813c6f40512e4a440861351a2185884969cffef35209dfddbfd9ac4007e6557
+srccontainersize 8056
+srccontainerchecksum 3de03d6661f8a8d0955de760bd8e0a9e2c5592e1ec95e55224994c9b5580036da6c20a9e68a2e59195fbdbbe0ffb5f431dd025400a3c1c57c44fa92000575dfc
+runfiles size=8
+ texmf-dist/tex/latex/karnaugh-map/karnaugh-map.sty
+catalogue-also karnaugh karnaughmap
+catalogue-contact-repository https://github.com/2pi/karnaugh-map
+catalogue-ctan /graphics/pgf/contrib/karnaugh-map
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics maths engineering pgf-tikz
+catalogue-version 1.1

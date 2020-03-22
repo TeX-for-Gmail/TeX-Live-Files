@@ -1,0 +1,17 @@
+name uspace
+category Package
+revision 42456
+shortdesc Giving meaning to various Unicode space characters
+longdesc LaTeX package that gives meaning to various Unicode space
+longdesc characters.
+containersize 1112
+containerchecksum 57a271421c15eefd41517881e951c8a55096e6bc7b769beba123813e19682407b24dcde898bc8df75700f33316a5281fedf5c24a3ffd7a97eea2bcf5f658e7e9
+doccontainersize 268848
+doccontainerchecksum c4b3c401cdedde7e67a2b4fca44f53c67c578fec287e22f0c1b67252b6fa4c0ed4d3a8ab1328162e7bea015536f1a1e4539fb104c8c889bb4e1549f7bf748e13
+runfiles size=1
+ texmf-dist/tex/latex/uspace/uspace.sty
+catalogue-ctan /macros/latex/contrib/uspace
+catalogue-date 2016-11-06 22:37:53 +0100
+catalogue-license other-free
+catalogue-topics enc-juggle inputenc hyphenation unicode
+catalogue-version 0.04

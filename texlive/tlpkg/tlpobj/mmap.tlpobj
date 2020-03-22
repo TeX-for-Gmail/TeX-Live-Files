@@ -1,0 +1,64 @@
+name mmap
+category Package
+revision 15878
+shortdesc Include CMap resources in PDF files from pdfTeX
+longdesc The package is an extension of cmap with improved flexibility
+longdesc and coverage, including the ability to re-encode Knuth's basic
+longdesc mathematics fonts.
+containersize 19252
+containerchecksum a2427b9863ef37385507783dba7bdfd65bf022d1c7322e7560b78222c3d4e0ddfccfc70aa927196e64ca1a520e985eea8cb78a4129a39e73a8410bc210b801bb
+doccontainersize 1040
+doccontainerchecksum 95a71c9a9b9cd46c1723c986ba41c29a7204fada2cd7bdd14ebfe5e0c4e1b06106f9c13469edd9caf0b94615bfbea9cc8a1f56a4f83cec37de481b39d2b4bd91
+runfiles size=74
+ texmf-dist/tex/latex/mmap/lmr-m.cmap
+ texmf-dist/tex/latex/mmap/lmr.cmap
+ texmf-dist/tex/latex/mmap/ly1.cmap
+ texmf-dist/tex/latex/mmap/mmap.sty
+ texmf-dist/tex/latex/mmap/oml-m.cmap
+ texmf-dist/tex/latex/mmap/oml.cmap
+ texmf-dist/tex/latex/mmap/omlbit-m.cmap
+ texmf-dist/tex/latex/mmap/omlbit.cmap
+ texmf-dist/tex/latex/mmap/omlmit-m.cmap
+ texmf-dist/tex/latex/mmap/omlmit.cmap
+ texmf-dist/tex/latex/mmap/oms-m.cmap
+ texmf-dist/tex/latex/mmap/oms.cmap
+ texmf-dist/tex/latex/mmap/omsb-m.cmap
+ texmf-dist/tex/latex/mmap/omx-m.cmap
+ texmf-dist/tex/latex/mmap/omx.cmap
+ texmf-dist/tex/latex/mmap/ot1-m.cmap
+ texmf-dist/tex/latex/mmap/ot1.cmap
+ texmf-dist/tex/latex/mmap/ot1rbxit-m.cmap
+ texmf-dist/tex/latex/mmap/ot1rbxit.cmap
+ texmf-dist/tex/latex/mmap/ot1rbxn-m.cmap
+ texmf-dist/tex/latex/mmap/ot1rbxn.cmap
+ texmf-dist/tex/latex/mmap/ot1rmit-m.cmap
+ texmf-dist/tex/latex/mmap/ot1rmit.cmap
+ texmf-dist/tex/latex/mmap/ot1rmn-m.cmap
+ texmf-dist/tex/latex/mmap/ot1rmn.cmap
+ texmf-dist/tex/latex/mmap/ot1ssbxn-m.cmap
+ texmf-dist/tex/latex/mmap/ot1ssbxn.cmap
+ texmf-dist/tex/latex/mmap/ot1ssmn-m.cmap
+ texmf-dist/tex/latex/mmap/ot1ssmn.cmap
+ texmf-dist/tex/latex/mmap/ot1ttmn-m.cmap
+ texmf-dist/tex/latex/mmap/ot1ttmn.cmap
+ texmf-dist/tex/latex/mmap/ot1xxx-m.cmap
+ texmf-dist/tex/latex/mmap/t1-m.cmap
+ texmf-dist/tex/latex/mmap/t1.cmap
+ texmf-dist/tex/latex/mmap/ueuf-m.cmap
+ texmf-dist/tex/latex/mmap/ueufb-m.cmap
+ texmf-dist/tex/latex/mmap/ulasy-m.cmap
+ texmf-dist/tex/latex/mmap/ulasy.cmap
+ texmf-dist/tex/latex/mmap/umsa-m.cmap
+ texmf-dist/tex/latex/mmap/umsa.cmap
+ texmf-dist/tex/latex/mmap/umsb-m.cmap
+ texmf-dist/tex/latex/mmap/umsb.cmap
+ texmf-dist/tex/latex/mmap/upsy-m.cmap
+ texmf-dist/tex/latex/mmap/upsy.cmap
+ texmf-dist/tex/latex/mmap/upzd-m.cmap
+ texmf-dist/tex/latex/mmap/upzd.cmap
+catalogue-also cmap
+catalogue-ctan /macros/latex/contrib/mmap
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics pdf-feat
+catalogue-version 1.03

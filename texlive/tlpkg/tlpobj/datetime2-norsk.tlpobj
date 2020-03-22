@@ -1,0 +1,23 @@
+name datetime2-norsk
+category Package
+revision 48267
+shortdesc Norsk language module for the datetime2 package
+longdesc This module provides the "norsk" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2540
+containerchecksum 9ebcd994305b3b3aad61383b9ece13425b4c34432dae0aac2ce38c0219b2f19871f89cb30bd774a7db9be45cc8a21f7856f1f568c32941502b18f6089b787066
+doccontainersize 84152
+doccontainerchecksum 3d834d8572cb8f1237b4b9e69bcbcf1a5eb0a1e5c001e8610a00ec377204c570218f6d97765c3efbad9130cb2ad9ced3cb80b32bcdfccfd62d7069ece93ab1da
+srccontainersize 4792
+srccontainerchecksum 7dbb4161731dceac735ce39e042713a07d3d63dabac0a4dec870a022ba79c2637d7fbde4715936908d39f3475746f243dbe2e39d88040f35822503f59c0f87d0
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-norsk/datetime2-norsk-ascii.ldf
+ texmf-dist/tex/latex/datetime2-norsk/datetime2-norsk-utf8.ldf
+ texmf-dist/tex/latex/datetime2-norsk/datetime2-norsk.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-norsk
+catalogue-date 2018-07-24 14:57:16 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

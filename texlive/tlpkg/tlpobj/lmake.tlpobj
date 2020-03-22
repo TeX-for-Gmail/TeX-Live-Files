@@ -1,0 +1,20 @@
+name lmake
+category Package
+revision 25552
+shortdesc Process lists to do repetitive actions
+longdesc The package provides commands to simplify processing of
+longdesc sequential list-like structures, such as making a series of
+longdesc 'similar' commands from a list of names.
+containersize 2016
+containerchecksum 3613e9d53808b2d1e326175c28acb672c1f244b2e00ea1d544e1e05c73e2a93e49b5e8b187a8a73e87ffbb00c22235781983a2c0a733a6ae5598db12c278a763
+doccontainersize 269032
+doccontainerchecksum 08fa487d9151ea6a49a73044d1f6b41ed0c636a69e04a2c9f04bce996f915e9d267383a6fc374f3292c01244981fdebf6d9fc462ee0fc151ded2601e4554593b
+srccontainersize 6828
+srccontainerchecksum d18894108d2b4b5d46d4e212648b6c7d76894faf4dd45555371d17df5f6d186d4d2b5c8878e745520441eba2459c5fce320bef28e23bb59c09f01fee44a6041e
+runfiles size=2
+ texmf-dist/tex/latex/lmake/lmake.sty
+catalogue-ctan /macros/latex/contrib/lmake
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics macro-supp
+catalogue-version 1.0

@@ -1,0 +1,17 @@
+name context-french
+category ConTeXt
+revision 47085
+shortdesc Support for writing French in ConTeXt
+longdesc Deals with spacing around French punctuation; the package is
+longdesc distributed for ConTeXt Mark iv only.
+depend context
+containersize 1704
+containerchecksum 0131af9d1c23f612450333c2cca116d2369cb8ecd402bfb9c9abc7e473b4eab44c9962d343d7391d9d9a29bd376012c82bf9e6378a280d41e37d41736b1853a2
+doccontainersize 86204
+doccontainerchecksum 96874c7039d9f252a9322cf84c4f77e8ca6bfbb9740e2b9fc8793dea79bf0d5f002ed1a69eff590c8aad6e43c315cda5af2aab0f9011bafb47a53da63101a9e7
+runfiles size=1
+ texmf-dist/tex/context/third/french/t-french.mkiv
+catalogue-ctan /macros/context/contrib/context-french
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics french

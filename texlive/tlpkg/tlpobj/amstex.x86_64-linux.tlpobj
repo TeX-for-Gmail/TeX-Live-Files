@@ -1,0 +1,8 @@
+name amstex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of amstex
+containersize 320
+containerchecksum b6f03c380ed1190684e18640876beb70484c91396432046d17ac3194fd5991df96aa521c3daf7a4c34f9cdcfccae07ae7c772ee6573431eed0a5deba17a95098
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/amstex

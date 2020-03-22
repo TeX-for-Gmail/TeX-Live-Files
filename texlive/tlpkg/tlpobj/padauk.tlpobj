@@ -1,0 +1,21 @@
+name padauk
+category Package
+revision 42617
+shortdesc A high-quality TrueType font that supports the many diverse languages that use the Myanmar script
+longdesc Padauk is a Unicode-based font family with broad support for
+longdesc writing systems that use the Myanmar script.
+containersize 206092
+containerchecksum fec57c3e7bd299671ae8d6489723a4d33c54b11223f5f37f3f3b3cc148fcbb6d9a9aa46587ab83e414221cde3a7d0e4493877d90e9536952d9069a4cec7c758f
+doccontainersize 10652
+doccontainerchecksum ffa9d45c971b7fe4fbc55644be4093268f842e13a2ffb1713be401cc88934dae86f012741951f30580a94a57f35b85cac9525869e0abca5601278d48a19782c0
+runfiles size=418
+ texmf-dist/fonts/truetype/public/padauk/Padauk-Bold.ttf
+ texmf-dist/fonts/truetype/public/padauk/Padauk-Regular.ttf
+ texmf-dist/fonts/truetype/public/padauk/PadaukBook-Bold.ttf
+ texmf-dist/fonts/truetype/public/padauk/PadaukBook-Regular.ttf
+catalogue-contact-home http://software.sil.org/padauk/
+catalogue-ctan /fonts/padauk
+catalogue-date 2018-01-07 12:14:32 +0100
+catalogue-license ofl
+catalogue-topics font-ttf
+catalogue-version 3.002

@@ -1,0 +1,19 @@
+name besjournals
+category Package
+revision 45662
+catalogue besjournals-bst
+shortdesc Bibliographies suitable for British Ecological Society journals
+longdesc The package provides a BibTeX style for use with journals
+longdesc published by the British Ecological Society. The style was
+longdesc produced independently of the Society, and has no formal
+longdesc approval by the BES.
+containersize 8920
+containerchecksum e797bce36fa6529d6b57be352ed81b7413c2ca818fa904a8cc4c7c8f0801369543482aa5c286b40f6f7c5e0b73d53b6aa6b9aaeab3e6229da7dd954a3dedb1ca
+doccontainersize 8264
+doccontainerchecksum c790eb0ced559adc6696f0f228c88a2314214ff6a4ab71ae03dc46b3974cdaae53fc685c05f0bbb7646a5b31d332f763fce4a71919319aa520965f56979eee54
+runfiles size=11
+ texmf-dist/bibtex/bst/besjournals/besjournals.bst
+catalogue-ctan /biblio/bibtex/contrib/besjournals
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty journalpub

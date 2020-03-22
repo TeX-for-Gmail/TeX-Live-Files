@@ -1,0 +1,25 @@
+name nodetree
+category Package
+revision 43011
+shortdesc Visualize node lists in a tree view
+longdesc nodetree is a development package that visualizes the structure
+longdesc of node lists. nodetree shows its debug informations in the
+longdesc console output when you compile a LuaTeX file. It uses a
+longdesc similar visual representation for node lists as the UNIX tree
+longdesc command for a folder structure.
+containersize 5396
+containerchecksum bc333202800520cf68e2aae42e849fdbbe8b2a1936245f35805adb3ba6795d724b8c6c5bf3973d760d5bb1327324c43721bef909d3440a3e7b8c559dc57aa61e
+doccontainersize 371936
+doccontainerchecksum d81032f9f78e49d49a6e88c4017a6f95ca8e3ced2a24210716d456ff4ea1461933540d0b553eb66e6b74c8c94e3f93328b9ab0cef2ea91c2ac37a1ab4a28ed39
+srccontainersize 11120
+srccontainerchecksum a702d084e98c3a79df85baf0155d33b7187b31ab4d0c32af4cf3e1147ea5abcb6a989a5f09983d1e2446c11f9f99fb6a66f9c714553157e4acfc39003e770f2b
+runfiles size=7
+ texmf-dist/tex/luatex/nodetree/nodetree.lua
+ texmf-dist/tex/luatex/nodetree/nodetree.sty
+ texmf-dist/tex/luatex/nodetree/nodetree.tex
+catalogue-contact-repository https://github.com/Josef-Friedrich/nodetree
+catalogue-ctan /macros/luatex/generic/nodetree
+catalogue-date 2018-01-07 12:06:50 +0100
+catalogue-license lppl1.3
+catalogue-topics lua-supp
+catalogue-version 1.2

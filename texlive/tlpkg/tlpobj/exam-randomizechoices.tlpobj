@@ -1,0 +1,27 @@
+name exam-randomizechoices
+category Package
+revision 49662
+shortdesc Randomize mc choices using the exam class
+longdesc This package is an extension to the exam document class. It
+longdesc provides the user with four new multiple choice typesetting
+longdesc environments which place their content in a random order. It
+longdesc can (only) be used in combination with the exam class. It can
+longdesc only randomize the placement of choices in multiple choice
+longdesc questions. The questions themselves cannot be randomized with
+longdesc this package. Furthermore, the package provides a simple answer
+longdesc key table typesetter and has a command for writing the answer
+longdesc keys to an external file.
+containersize 5352
+containerchecksum 0cb93637dda7a7813f8f89dba62db03cb1c1c6da5ce5dae596a14321fab8c46a5c6d67432c31855b66b37b0eb9086d23b5bf2881bf8fa41e410ed7a4724d84bc
+doccontainersize 278136
+doccontainerchecksum 74daa43aa020898bf2a969e5f6fa09aea190209dd71eab222dde2b30cf2f6e12936b454a62b328aee59f6c3ae13bf5f7005ec3aba66766ade77672f74bb3ee8b
+runfiles size=6
+ texmf-dist/tex/latex/exam-randomizechoices/exam-randomizechoices.sty
+catalogue-also exam
+catalogue-contact-repository https://bitbucket.org/jesseopdenbrouw/exam-randomizechoices
+catalogue-contact-support mailto:J.E.J.opdenBrouw@hhs.nl
+catalogue-ctan /macros/latex/contrib/exam-randomizechoices
+catalogue-date 2019-01-12 09:12:53 +0100
+catalogue-license lppl1.3
+catalogue-topics exam
+catalogue-version 0.1

@@ -1,0 +1,21 @@
+name stage
+category Package
+revision 44100
+shortdesc A LaTeX class for stage plays
+longdesc Stage.cls is a LaTeX class for creating plays of any length in
+longdesc a standard manuscript format for production and submission.
+containersize 2964
+containerchecksum 60ca903a632f328bff8595d3dd076495409ae27045dbcab56493d05496c885de101cb3d6c77745291c661847bac2da5e41dc22f6e08f52c36957c997f1a90fc0
+doccontainersize 153676
+doccontainerchecksum 96c32c5f5c272a521fa0efd94571fcdced21fcf582e7d94f503a46559a2f32a341e98f7c6b6f681c0b9918a63cf7a6bf6f90f628f87add2f7b60404e3d451d3d
+runfiles size=2
+ texmf-dist/tex/latex/stage/stage.cls
+catalogue-contact-bugs https://github.com/rrthomas/stage/issues
+catalogue-contact-development https://github.com/rrthomas/stage
+catalogue-contact-home https://github.com/rrthomas/stage
+catalogue-contact-repository https://github.com/rrthomas/stage
+catalogue-ctan /macros/latex/contrib/stage
+catalogue-date 2017-04-27 23:31:51 +0200
+catalogue-license lppl1.3
+catalogue-topics drama-script
+catalogue-version 1.00

@@ -1,0 +1,26 @@
+name draftwatermark
+category Package
+revision 37498
+shortdesc Put a grey textual watermark on document pages
+longdesc The package provides a means to add a textual, light grey
+longdesc watermark on every page or on the first page of a document.
+longdesc Typical usage may consist in writing words such as DRAFT or
+longdesc CONFIDENTIAL across document pages. The package performs a
+longdesc similar function to that of draftcopy, but its implementation
+longdesc is output device independent, and made very simple by relying
+longdesc on everypage.
+containersize 1800
+containerchecksum 10cc5a9f6ba21ce87022e0f45d4f4cb92c4aaf8e1a4edfb5e78d24f8cfa1d283745db0d04f32ba2943963677bb3fa934a1f410e9148baceeec23b70436682a1e
+doccontainersize 92784
+doccontainerchecksum 5d7d9d4dbb18f452e917f91a5e67f46bae4f0ac2b8088279832e32d9e7a7fca1230a666ea1031c258ea3882e7a00d3a071864a20a75b523bbbfb12e7a3da0a4f
+srccontainersize 6828
+srccontainerchecksum 01de29c18e5ca16c0cadfb171c938fc444feb7e3dc558f9283cf4f9260a94c02b6ddb007eed1a296d60c9aceac3cf370ee2e9c3fb63f6c16b25397b837fe4993
+runfiles size=1
+ texmf-dist/tex/latex/draftwatermark/draftwatermark.sty
+catalogue-also eso-pic
+catalogue-contact-repository https://github.com/callegar/LaTeX-draftwatermark
+catalogue-ctan /macros/latex/contrib/draftwatermark
+catalogue-date 2017-05-22 12:38:58 +0200
+catalogue-license lppl1.3
+catalogue-topics editorial watermark
+catalogue-version 1.2

@@ -1,0 +1,25 @@
+name soul
+category Package
+revision 15878
+shortdesc Hyphenation for letterspacing, underlining, and more
+longdesc Provides hyphenatable spacing out (letterspacing), underlining,
+longdesc striking out, etc., using the TeX hyphenation algorithm to find
+longdesc the proper hyphens automatically. The package also provides a
+longdesc mechanism that can be used to implement similar tasks, that
+longdesc have to treat text syllable by syllable. This is shown in two
+longdesc examples. The package itself does not support UTF-8 input in
+longdesc ordinary (PDF)LaTeX; some UTF-8 support is offered by package
+longdesc soulutf8
+containersize 6004
+containerchecksum 7a4ee70527282c50f28bc535ca34476538158b6fae6e37008cf5f04cf3caf5cc01ccb859967192da1b159b1026afa3eddede2cd86c3d63f469e6e2f6254a80f0
+doccontainersize 308320
+doccontainerchecksum 9b8831cf9c013fcca715a8a7100b76f2de364f55e8203899779ba18868e637cbb0d00d982098a3e42191dc63ac41afc65d2547b9976c64110e7b83f5f8d0108b
+srccontainersize 35900
+srccontainerchecksum 0b3fceb0238709d4241a5615055c61ced473fbb74ff75d66c70a221bd0ec8b84769674a3dd57b93765812daed14a21fc002de022400fc73858c103a5dd9f29dc
+runfiles size=6
+ texmf-dist/tex/latex/soul/soul.sty
+catalogue-ctan /macros/latex/contrib/soul
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics underline letterspace
+catalogue-version 2.4

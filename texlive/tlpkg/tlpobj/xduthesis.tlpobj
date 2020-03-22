@@ -1,0 +1,29 @@
+name xduthesis
+category Package
+revision 39694
+shortdesc XeLaTeX template for writing Xidian University Thesis
+longdesc This is a XeLaTeX template for writing theses to apply academic
+longdesc degrees in Xidian University. The template is designed
+longdesc according to the official requirements on typesetting theses.
+longdesc The template currently supports all levels of degrees from
+longdesc bachelor to doctor, including both academic master and
+longdesc professional master. But it is not guaranteed that you will
+longdesc pass the typesetting check and obtain your degree by using this
+longdesc template.
+containersize 113404
+containerchecksum 4a92d52c7ca60232849b02bd7d688f12230f858bb7559287610a4d33699158fcb3d5270a22b3abc99d89a684b81e2124602486c16f22fb434e98b54f715f592a
+doccontainersize 693300
+doccontainerchecksum 44ec843c2a6b7827c783c076e8f02dfb697f1bf021b54be238049068f466d9969d2e0bb9efdba37623b44a564985af4256eed2b82ef35d8f7ec9798ce84abc0d
+srccontainersize 15976
+srccontainerchecksum 12a273267d7e4e82256f4aa76db77673eea0d1816691a179b8ac2af8732ef958a7142a95cd7ba8ee83cdbe2166975dfa12d3fff14607cb1fd27f48c989a5a7ba
+runfiles size=257
+ texmf-dist/tex/latex/xduthesis/xdubadge-gr.eps
+ texmf-dist/tex/latex/xduthesis/xdubadge.eps
+ texmf-dist/tex/latex/xduthesis/xdulogo.eps
+ texmf-dist/tex/latex/xduthesis/xduthesis.cfg
+ texmf-dist/tex/latex/xduthesis/xduthesis.cls
+catalogue-ctan /macros/latex/contrib/xduthesis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics proposal
+catalogue-version 1.00

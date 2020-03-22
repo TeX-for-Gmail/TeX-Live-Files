@@ -1,0 +1,20 @@
+name cascade
+category Package
+revision 48200
+shortdesc Constructions with braces to present mathematical demonstrations
+longdesc The LaTeX package cascade provides a command \Cascade to do
+longdesc constructions to present mathematical demonstrations with
+longdesc successive braces for the deductions.
+containersize 1840
+containerchecksum d72e9c46f4228af10abc33e96818ee488d09389d21575b40cec183c03664c63cf7dc7b9dc319b0fb775c41b5c9df8f767d06d131ada730f9b8dfb655111fd7fe
+doccontainersize 71224
+doccontainerchecksum d74ad316352672ad753f48e1b1c317dbdf402927d75d583d85d85367ceac69228e81b726b575e84d2746a709457e18d25817ebe7850dd17ca07515192749b713
+srccontainersize 5028
+srccontainerchecksum 53ef700bc723b28b36ffde548b030639e467fa1fd41570179b7ae9661c3d4a9911d9dc765362ce46178d06d3a67dfa1fb408e8f074141c80d32de437554a3b9f
+runfiles size=2
+ texmf-dist/tex/latex/cascade/cascade.sty
+catalogue-ctan /macros/latex/contrib/cascade
+catalogue-date 2018-07-13 05:39:51 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 1.01

@@ -1,0 +1,20 @@
+name frame
+category Package
+revision 18312
+shortdesc Framed boxes for Plain TeX
+longdesc A jiffy file (taken from fancybox) for placing a frame around a
+longdesc box of text. The macros also provide for typesetting an empty
+longdesc box of given dimensions.
+containersize 1312
+containerchecksum b66df0a91a8605aaeef2452236b5169cd363689a40f4a35ab9006ac18c21d4ae2a070407f84beff7de0be246f2f1e55c8b06f234921c4d7153fea9a7f2df1679
+doccontainersize 30688
+doccontainerchecksum b61a3dfbc23031a39bbe01788f0f1d51750a3aa9132671917ed8d14c57453d588c75f8cd54beac9ac120f26b09fead55b871d53e918a735ee172f1603e4cd1ea
+runfiles size=2
+ texmf-dist/tex/generic/frame/frame.sty
+ texmf-dist/tex/generic/frame/frame.tex
+catalogue-also boxit
+catalogue-ctan /macros/generic/frame
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics boxing decoration
+catalogue-version 1.0

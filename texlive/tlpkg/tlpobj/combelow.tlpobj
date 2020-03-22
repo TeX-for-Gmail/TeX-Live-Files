@@ -1,0 +1,18 @@
+name combelow
+category Package
+revision 18462
+shortdesc Typeset "comma-below" letters, as in Romanian
+longdesc The package defines a command \cb that positions a comma below
+longdesc a letter, as required (for example) in Romanian typesetting.
+longdesc The command is robust, but interferes with hyphenation.
+containersize 1040
+containerchecksum 17f1beb58a11f3c754c57331d1b2d9338fee359b6c27cdc0a855671397e78c0b2d29ba60247f3104d3eece22619671f56d2aac862ac404502faaea08f40d7be4
+doccontainersize 96092
+doccontainerchecksum 82d8e60a5cd8d46b952aa27dff03398cb6e65a1c5a76c1eb260d3e30172af89206a7a8ec7ab3871d5e33e87ccc2c99e2f54740facfd71d43ea6f88821c9ceb2a
+runfiles size=1
+ texmf-dist/tex/latex/combelow/combelow.sty
+catalogue-ctan /macros/latex/contrib/combelow
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics fake-glyph
+catalogue-version 0.99f

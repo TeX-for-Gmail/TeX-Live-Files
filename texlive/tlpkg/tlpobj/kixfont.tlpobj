@@ -1,0 +1,22 @@
+name kixfont
+category Package
+revision 18488
+shortdesc A font for KIX codes
+longdesc The KIX code is a barcode-like format used by the Dutch PTT to
+longdesc encode country codes, zip codes and street numbers in a
+longdesc machine-readable format. If printed below the address line on
+longdesc bulk mailings, a discount can be obtained. The font is
+longdesc distributed in Metafont format, and covers the numbers and
+longdesc upper-case letters.
+containersize 1828
+containerchecksum a866364705d75ab560488c84a5e403755acfffe7b49b8e6dd65342f45f852a5be9d4072d750fae606c3d5789e1d46458da66f0af6fb9f9e0225c1d9acf69d4a5
+doccontainersize 15960
+doccontainerchecksum ca250703364924daf9827ddeb48126fb21ff5ec3230afbc3f6778d23e96dbbb16173e5504900032ddbe14920cb40adf8130be50ee92f3c9c2dbceb95b8ecb90f
+runfiles size=2
+ texmf-dist/fonts/source/public/kixfont/kix.mf
+ texmf-dist/fonts/tfm/public/kixfont/kix.tfm
+catalogue-also kix pst-barcode
+catalogue-ctan /fonts/kixfont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-mf font-specialist barcode

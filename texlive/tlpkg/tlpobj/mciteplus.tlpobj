@@ -1,0 +1,25 @@
+name mciteplus
+category Package
+revision 31648
+shortdesc Enhanced multiple citations
+longdesc The mciteplus LaTeX package is an enhanced reimplementation of
+longdesc Thorsten Ohl's mcite package which provides support for the
+longdesc grouping of multiple citations together as is often done in
+longdesc physics journals. An extensive set of features provide for
+longdesc other applications such as reference sublisting.
+containersize 34344
+containerchecksum 5be1980964ea8342321964f0db1c750c33fee9f21724608a260ebed22500d1fcfb0fcb7e588a0dd030a6c534b0da904b8bfc3eb0da7b2df34c0b3f2b1b8fb637
+doccontainersize 391980
+doccontainerchecksum 5e720fc2b32ca00d71ade77fd0a47c6ef44d9b7692a8160ddc55a5f60495a40272a7a0c6c2f5bed923ea10703654f155701d4571d72805c1ef900780a209a0a4
+runfiles size=70
+ texmf-dist/bibtex/bst/mciteplus/IEEEtranM.bst
+ texmf-dist/bibtex/bst/mciteplus/IEEEtranMN.bst
+ texmf-dist/bibtex/bst/mciteplus/apsrevM.bst
+ texmf-dist/bibtex/bst/mciteplus/apsrmpM.bst
+ texmf-dist/tex/latex/mciteplus/mciteplus.sty
+catalogue-contact-home http://www.michaelshell.org/tex/mciteplus/
+catalogue-ctan /macros/latex/contrib/mciteplus
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics cite-supp
+catalogue-version 1.2

@@ -1,0 +1,17 @@
+name serbian-date-lat
+category Package
+revision 23446
+shortdesc Updated date typesetting for Serbian
+longdesc Babel defines dates for Serbian texts, in Latin script. The
+longdesc style it uses does not match current practices. The present
+longdesc package defines a \date command that solves the problem.
+containersize 776
+containerchecksum 420b77a36a08e75f8020edffed704ff0398115a6bfe694fa46957ad8b35c58435ecde4c16176a72bbcbcd16139502f8fb679399852bfc9000df6d5f305fbb04e
+doccontainersize 352304
+doccontainerchecksum 5c10fe13a4e1d6117ebfe8d737d50047dc97483c7a0cc287a9e79d367af50ec1cbdc0800161919b92c6d82774c9e756970db71344259028c254fbf2c1fe86219
+runfiles size=1
+ texmf-dist/tex/latex/serbian-date-lat/serbian-date-lat.sty
+catalogue-ctan /language/serbian/filipovic/serbian-date-lat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics serbian

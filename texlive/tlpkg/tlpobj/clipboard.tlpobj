@@ -1,0 +1,18 @@
+name clipboard
+category Package
+revision 47747
+shortdesc Copy and paste into and across documents
+longdesc The clipboard package provides a basic framework for copying
+longdesc and pasting text and commands into and across multiple
+longdesc documents. It replaces the copypaste package.
+containersize 1028
+containerchecksum 19aed32c2dc229852133a44fe5ed692a0d3194d374cc77e2301314b3fff929b834fd4df82e811095049e64ba127180eddb77fcc4211aecd2db40e8124a38d55c
+doccontainersize 161528
+doccontainerchecksum 50e7447b35c1d73c1d36bab165a8bb476764ffcc4ed7994e1bc63c6759baad0dd6c2c1f6a95334c7bf649dd13c8e79d17ec536120f1112d621e833b6f9f80578
+runfiles size=1
+ texmf-dist/tex/latex/clipboard/clipboard.sty
+catalogue-ctan /macros/latex/contrib/clipboard
+catalogue-date 2018-05-18 08:42:31 +0200
+catalogue-license lppl1.3
+catalogue-topics quotation-imp
+catalogue-version 0.3

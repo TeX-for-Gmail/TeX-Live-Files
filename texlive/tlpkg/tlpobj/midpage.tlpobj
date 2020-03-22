@@ -1,0 +1,17 @@
+name midpage
+category Package
+revision 17484
+shortdesc Environment for vertical centring
+longdesc The environment will centre text, if immediately preceded and
+longdesc followed by \clearpage.
+containersize 788
+containerchecksum 9a13760b776cdce28cf3eb1e28e957265d7d4e83b23234f1590285bc83409f1d5b09040fc6cacd3b9f7a5ec2f61a4e5431fea92a5fcf20032c7bb919ed59612b
+doccontainersize 189016
+doccontainerchecksum 25f41bb8cb12c6d310da66d36032eb4933248f0c84a67216cd0981fda7e61343c0dee03e96f522bddf969e925e6cf495754e52e863672f1cab4e94ae3b0400cd
+runfiles size=1
+ texmf-dist/tex/latex/midpage/midpage.sty
+catalogue-ctan /macros/latex/contrib/midpage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics layout
+catalogue-version 1.1a

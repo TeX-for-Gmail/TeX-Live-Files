@@ -1,0 +1,9 @@
+name texware.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of texware
+containersize 50036
+containerchecksum 0a3444b9fae0c1409599ed911d1bf3add8fae89154de6abd99aeccd0a38096ea2a3af5e701c08ec3db27edee615d3600479a432ba76adcca84a24ad641053d53
+binfiles arch=x86_64-linux size=33
+ bin/x86_64-linux/dvitype
+ bin/x86_64-linux/pooltype

@@ -1,0 +1,8 @@
+name latex2man.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of latex2man
+containersize 340
+containerchecksum a3442935d1017436450bdfd166968fee6df1343ead96c24a952d46133f8a69390e8934d1f2f3cab22b30e7cf61d0f09d7c2631f69557183e2dd2b04a078cf098
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latex2man

@@ -1,0 +1,20 @@
+name extarrows
+category Package
+revision 15878
+shortdesc Extra Arrows beyond those provided in amsmath
+longdesc Arrows are provided to supplement \xleftarrow and \xrightarrow
+longdesc of the amsath package: \xlongequal, \xLongleftarrow,
+longdesc \xLongrightarrow, \xLongleftrightarrow, \xLeftrightarrow.
+longdesc \xlongleftrightarrow, \xleftrightarrow, \xlongleftarrow and
+longdesc \xlongrightarrow.
+containersize 816
+containerchecksum c5ec26369801ba653899a6c67c41a173842f7f5283d1279d512104cc9cfd04707fdd0313a9fde03672f03a7bf1f2c46f376aa961b211b4bc0ff2641d34eb3b8d
+doccontainersize 28476
+doccontainerchecksum be17974ce5f9361bbfd8ffdff55ab39cb1de6aa5701c4582586ea43cde45854bcc8c65f5c4c7a9a1eaa311c24132294ed02f36998905ed7f872c81a022d4d6ec
+runfiles size=1
+ texmf-dist/tex/latex/extarrows/extarrows.sty
+catalogue-ctan /macros/latex/contrib/extarrows
+catalogue-date 2018-10-09 06:08:39 +0200
+catalogue-license lgpl
+catalogue-topics maths
+catalogue-version 1.0b

@@ -1,0 +1,17 @@
+name ctan_chk
+category Package
+revision 36304
+shortdesc CTAN guidelines verifier and corrector for uploading projects
+longdesc Basic gawk program that uses CTAN's published guidelines for
+longdesc authors to help eliminate sloppiness in uploaded
+longdesc files/projects. It is completely open for users to program
+longdesc additional guidelines as well as CTAN's future adjustments.
+containersize 512
+containerchecksum 6eabd7281d79ff0ad19080350dfcca8ee3a33ddfa6d17827a7851cc53f09f627729c8d715a1dfe50e0c079add44331a07d543cb8b6a57000efa6d73c30f2ffe0
+doccontainersize 221996
+doccontainerchecksum c61bc0d70cadcc4382dae55cdc1af076882801321a2de16f164223267732e476e41f949f566808c928f446d69aa22bd9965adb155c97905e32b93808810c76c0
+catalogue-ctan /support/ctan_chk
+catalogue-date 2017-02-11 20:31:30 +0100
+catalogue-license gpl3
+catalogue-topics ctan
+catalogue-version 1.0

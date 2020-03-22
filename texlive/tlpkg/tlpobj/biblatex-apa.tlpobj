@@ -1,0 +1,54 @@
+name biblatex-apa
+category Package
+revision 47268
+shortdesc BibLaTeX citation and reference style for APA
+longdesc This is a fairly complete BibLaTeX style (citations and
+longdesc references) for APA (American Psychological Association)
+longdesc publications. It implements and automates most of the
+longdesc guidelines in the APA 6th edition style guide for citations and
+longdesc references with a few (documented) exceptions (which are mainly
+longdesc currently impossible to automate in principle for any
+longdesc BibTeX-backed system). An example document is also given which
+longdesc typesets every citation and reference example in the APA 6th
+longdesc edition style guide. This version of the package requires use
+longdesc of BibLaTeX v3.8 and biber v2.8.
+containersize 20668
+containerchecksum 8b2f69f360a335783121cf8d6176b99466cfa0089c315ddbcfe178bf8abd1ad68aaeebd3a97dedaf5227c338cd1955b8e82fb2f4b96f66cab2b38f72853c6dc4
+doccontainersize 223888
+doccontainerchecksum 2ba853a29feb8624d5602299b56e9278e4d7f91efb45d0ba300ecb428a60f61e8bb3095bc0388124f6a324874273952674aa0dfabfa9298366aa19956d7d3e66
+runfiles size=69
+ texmf-dist/tex/latex/biblatex-apa/american-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/apa.bbx
+ texmf-dist/tex/latex/biblatex-apa/apa.cbx
+ texmf-dist/tex/latex/biblatex-apa/apa.dbx
+ texmf-dist/tex/latex/biblatex-apa/austrian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/brazilian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/british-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/danish-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/dutch-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/english-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/french-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/german-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/greek-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/italian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/naustrian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/ngerman-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/norsk-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/norwegian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/nswissgerman-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/nynorsk-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/portuguese-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/russian-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/slovene-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/spanish-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/swedish-apa.lbx
+ texmf-dist/tex/latex/biblatex-apa/swissgerman-apa.lbx
+catalogue-contact-announce https://github.com/plk/biblatex-apa/wiki
+catalogue-contact-bugs https://github.com/plk/biblatex-apa/issues
+catalogue-contact-home https://github.com/plk/biblatex-apa
+catalogue-contact-repository https://github.com/plk/biblatex-apa.git
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-apa
+catalogue-date 2018-04-03 08:26:57 +0200
+catalogue-license lppl1.3c
+catalogue-topics apa biblatex psychology journalpub
+catalogue-version 7.7

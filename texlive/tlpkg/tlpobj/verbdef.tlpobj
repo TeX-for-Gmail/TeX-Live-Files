@@ -1,0 +1,25 @@
+name verbdef
+category Package
+revision 17177
+shortdesc Define commands which expand to verbatim text
+longdesc The package defines a single command \verbdef (which has a
+longdesc *-form, like \verb). \verbdef will define a robust command
+longdesc whose body expands to verbatim text. By using commands defined
+longdesc by \verbdef, one can put verbatim text into the arguments of
+longdesc commands; since the defined command is robust, it doesn't
+longdesc matter if the argument is moving. (Full details of syntax and
+longdesc caveats about use are in comments in the file itself.)
+containersize 1684
+containerchecksum f6bcac8b35bfe707d4e39cf625987ddee6197977894e9f8ded9e3a715e0968d2d1fab07c57edf1d38150ae0c9cfc937230c9fccec431e73ae235a4cd44ed8609
+doccontainersize 54124
+doccontainerchecksum e64d4bf3018de72a131e7688ebbfcbaa59914c0542d2c632a91097a77f404307f9bdfc613638badb3ccca3854313f17a7a5bfb6426f467bcc98ed235af6ba49c
+runfiles size=1
+ texmf-dist/tex/latex/verbdef/verbdef.sty
+catalogue-also newverbs
+catalogue-contact-repository https://github.com/rf-latex/verbdef
+catalogue-contact-support https://github.com/rf-latex/verbdef/issues
+catalogue-ctan /macros/latex/contrib/verbdef
+catalogue-date 2018-09-15 16:02:02 +0200
+catalogue-license lppl
+catalogue-topics verbatim
+catalogue-version 0.2

@@ -1,0 +1,8 @@
+name gregoriotex.x86_64-linux
+category Package
+revision 50358
+shortdesc x86_64-linux files of gregoriotex
+containersize 132172
+containerchecksum d0571c366f705e49582c070d9a9f6a4ac4268a46f9fab8405ba9cbcdead5c2428db2a7b7ac38d37c191a842c5c50c38fef75cc17481347b0bf852d7b72e9cafe
+binfiles arch=x86_64-linux size=171
+ bin/x86_64-linux/gregorio

@@ -1,0 +1,19 @@
+name web
+category TLCore
+revision 50602
+shortdesc The original literate programming system
+longdesc The system processes 'web' files in two ways: firstly to
+longdesc rearrange them to produce compilable code (using the program
+longdesc tangle), and secondly to produce a TeX source (using the
+longdesc program weave) that may be typeset for comfortable reading.
+depend kpathsea
+depend web.ARCH
+containersize 524
+containerchecksum 0d2d771e8452d67278adec061e1df8cfc06f3af729ea5ae7849acd5fe1b628167b18d86b1037484dbb6b20d5f703bba7ba9fb255788becc53ce22fd87f39ca7b
+doccontainersize 41588
+doccontainerchecksum 5647beef7b99a3a552b8f55d12ef669481e8ba3e01beefb014fb8e3cae6e8f419862131379b506ab8197e1717d563c34fa81d69db3c6db8107e6167447d87322
+catalogue-ctan /systems/knuth/dist/web
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license knuth
+catalogue-topics litprog
+catalogue-version 4.5

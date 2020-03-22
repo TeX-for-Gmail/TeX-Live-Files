@@ -1,0 +1,23 @@
+name srcredact
+category Package
+revision 38710
+shortdesc A tool for redacting sources
+longdesc This package provides a tool to keep a master source,
+longdesc consisting of different "chunks" intended for different
+longdesc audiences. The tool allows to extract the versions intended for
+longdesc different audiences and to incorporate the changes made in any
+longdesc of these versions into the master document. This work was
+longdesc commissioned by the Consumer Financial Protection Bureau,
+longdesc United States Treasury.
+depend srcredact.ARCH
+containersize 4240
+containerchecksum 9e11ed88fbbfc0130f43fdecd8fb0b3eecbdf50eb33bdca57bd34c860cdfe84dcd560371efba4cb261e65aaf4577306f478d1c43ed89152e7e21fd627eb7328d
+doccontainersize 384380
+doccontainerchecksum dba9916acf75e800af1e581b4276e82bfe4c421a500a400773354766b37849568c1f19752a75983374ca41f793903f9776423888215f00376db1e0f5f3b3dbbc
+runfiles size=3
+ texmf-dist/scripts/srcredact/srcredact.pl
+catalogue-ctan /support/srcredact
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics cond-comp
+catalogue-version 1.0

@@ -1,0 +1,8 @@
+name a2ping.x86_64-linux
+category TLCore
+revision 27321
+shortdesc x86_64-linux files of a2ping
+containersize 340
+containerchecksum f4eeb76fbc182a73eccd3086b632005b8bed0615634247f84ddbe3e12b24d7c592bf7a8d158d7ad738ed536c5fa753fda86a670c0e899b48e7d05ac0e1c9c3e6
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/a2ping

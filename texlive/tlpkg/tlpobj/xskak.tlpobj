@@ -1,0 +1,24 @@
+name xskak
+category Package
+revision 35945
+shortdesc An extension to the skak package for chess typesetting
+longdesc Xskak, as its prime function, saves information about a chess
+longdesc game for later use (e.g., to loop through a game to make an
+longdesc animated board). The package also extends the input that the
+longdesc parsing commands can handle and offers an interface to define
+longdesc and switch between indefinite levels of styles.
+containersize 14060
+containerchecksum 767827898507c08dac310801c0db2b460cb3f595f9c0e926864ef9f079b37840c80507ae07f8528c025d69a657bc82751c04c5bc80dafef8e8b3d9a3cfceeb97
+doccontainersize 1168
+doccontainerchecksum 3b2c8d57c6da0c973ab3a538dfc5ea11d3115c8cb42cdd5bb80292706aabf136d0e123829a80f49cc3f1080866565c6294d75123a3e58eff3674f18b2664cde7
+srccontainersize 14252
+srccontainerchecksum 89254caef71f65472c280207ef15ce9f520e1bfc789cc3ccb234c4256a29fad8a136ef77adb510e3f7ff36a9ce43ac8a1a4df4779c9cb305152dc0bbb71ee230
+runfiles size=23
+ texmf-dist/tex/latex/xskak/xskak-keys.sty
+ texmf-dist/tex/latex/xskak/xskak-nagdef.sty
+ texmf-dist/tex/latex/xskak/xskak.sty
+catalogue-ctan /macros/latex/contrib/xskak
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.4

@@ -1,0 +1,20 @@
+name tkz-linknodes
+category Package
+revision 48713
+shortdesc Link nodes in mathematical environments
+longdesc The package arose from a requirement to link the elements of an
+longdesc amsmath align or aligned environment. The package makes use of
+longdesc PGF/TikZ. The package documentation relies on the facilities of
+longdesc the tkz-doc bundle
+containersize 2968
+containerchecksum b41f40a2c27b9384c3edef8217c1224293b8a2901a0f3752c3267d911a7788e27138464b2f11634f67bca00dbfe2ed71a87fb9b3dd4dbc5f62765a022c51bcbe
+doccontainersize 339088
+doccontainerchecksum d4fc88cf1dcc49b6bf2292c6892c5094bc4eb6f17535dd1ac51783b9abb7312279cadc5e06e624720be756f5a0907551f4411f246cbeb6dcbb1365b891e70840
+runfiles size=3
+ texmf-dist/tex/latex/tkz-linknodes/tkz-linknodes.sty
+catalogue-contact-repository https://github.com/tkz-sty
+catalogue-ctan /macros/latex/contrib/tkz/tkz-linknodes
+catalogue-date 2018-09-19 23:44:41 +0200
+catalogue-license lppl
+catalogue-topics graphics-use pgf-tikz
+catalogue-version 1.1d

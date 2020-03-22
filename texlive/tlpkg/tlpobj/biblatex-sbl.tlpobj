@@ -1,0 +1,31 @@
+name biblatex-sbl
+category Package
+revision 49426
+shortdesc Society of Biblical Literature (SBL) style files for BibLaTeX
+longdesc The package provides BibLaTeX support for citations in the
+longdesc format specified by the second edition of the Society of
+longdesc Biblical Literature (SBL) Handbook of Style. All example notes
+longdesc and bibliography entries from the handbook are supported and
+longdesc shown in an example file. A style file for writing SBL student
+longdesc papers is also included.
+containersize 19960
+containerchecksum dfbe4de870b93fd1bd77aacf003ea56926adc6d52d0b5f47125d411738a66822f8c99bf3d58d0fe955105a30e5f2629a0c37ef5bc3cf00d3ebe895cadf621063
+doccontainersize 650976
+doccontainerchecksum c7ccc14015397b816ca508bed2533fbc2ff183dbdb035d13100e8ec8faee18ea7ce10f7d8140b2ebbc6d58831db59ed6a9d7a4b75b0ef346081deebc7c323b72
+runfiles size=41
+ texmf-dist/makeindex/biblatex-sbl/sbl-paper-bibleref.ist
+ texmf-dist/tex/latex/biblatex-sbl/american-sbl.lbx
+ texmf-dist/tex/latex/biblatex-sbl/biblatex-sbl.def
+ texmf-dist/tex/latex/biblatex-sbl/english-sbl.lbx
+ texmf-dist/tex/latex/biblatex-sbl/german-sbl.lbx
+ texmf-dist/tex/latex/biblatex-sbl/sbl-paper.sty
+ texmf-dist/tex/latex/biblatex-sbl/sbl.bbx
+ texmf-dist/tex/latex/biblatex-sbl/sbl.cbx
+ texmf-dist/tex/latex/biblatex-sbl/sbl.dbx
+ texmf-dist/tex/latex/biblatex-sbl/spanish-sbl.lbx
+catalogue-contact-repository https://github.com/dcpurton/biblatex-sbl
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-sbl
+catalogue-date 2018-12-16 13:45:34 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex theology
+catalogue-version 0.11

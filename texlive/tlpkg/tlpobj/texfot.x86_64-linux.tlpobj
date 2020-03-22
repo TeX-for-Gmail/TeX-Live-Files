@@ -1,0 +1,8 @@
+name texfot.x86_64-linux
+category Package
+revision 33155
+shortdesc x86_64-linux files of texfot
+containersize 336
+containerchecksum 6791108a4e2c8bdb7fc613aba3a55880f80e32d9aa57069f2ea9ccc4758362601a32093d3fb562801c11b9604a55618b75c349212e333a4d6e827afde5ac689f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texfot

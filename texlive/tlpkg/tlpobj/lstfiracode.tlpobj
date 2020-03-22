@@ -1,0 +1,21 @@
+name lstfiracode
+category Package
+revision 49503
+shortdesc Use Fira Code font for listings
+longdesc The lstfiracode package defines FiraCodeStyle for the use with
+longdesc the listings package. This style contains almost all ligatures
+longdesc in Nikita Prokopov's Fira Code family of fonts.
+containersize 2268
+containerchecksum d2752c177194f4926191245f6397ca1ad613e66708e245b29ed6719bfb7438cbbde8dc69a639bdaf7a4447d7737909a5dfdb465a0f0b446c0d30900b7d279c6c
+doccontainersize 57084
+doccontainerchecksum ab396312abc4174267184dc2d5f4dd61e4510d3b70bcf1b6b84685cbe2e5941d6325d4abeb1d08f85cef62adc953d4a59ebc5d99fe9d7c643f7d25c3d36bfde7
+runfiles size=2
+ texmf-dist/tex/latex/lstfiracode/lstfiracode.sty
+catalogue-also fira
+catalogue-contact-home https://github.com/RuixiZhang42/lstfiracode
+catalogue-contact-support https://github.com/RuixiZhang42/lstfiracode/issues
+catalogue-ctan /macros/latex/contrib/lstfiracode
+catalogue-date 2018-12-24 23:12:37 +0100
+catalogue-license lppl1.3c
+catalogue-topics listing
+catalogue-version 0.1c

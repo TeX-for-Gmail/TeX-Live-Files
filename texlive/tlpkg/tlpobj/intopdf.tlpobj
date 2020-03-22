@@ -1,0 +1,20 @@
+name intopdf
+category Package
+revision 46988
+shortdesc Embed non-PDF files into PDF with hyperlink
+longdesc The package allows to embed non-PDF files (e.g., BibTeX) into
+longdesc PDF with a hyperlink.
+containersize 1612
+containerchecksum f1042ee7cff566ed6727e0f99467720b64bad3db271762030a71a73d9c7568907da96711844f8ae3e2d41760b32ec75ec8dee2b06144abc6a077020c72510b9e
+doccontainersize 416032
+doccontainerchecksum 87fa2794d1d5fa5b7a5151badc6bc62df0e32aa14b6e3114c02c6718b0d5eb646d4bd00444f0d11e9f97f4e4d4679ca98248d5a46d363ade40b677ac084b995f
+srccontainersize 2508
+srccontainerchecksum da0a9c3deeba1b26fe2fa30480fb5915f132cc43cc1a27ab505898275cbf7f2d0226782c190fb5b5edf6d49988529b71a0575fa8a8267e4a03acea121fbb305d
+runfiles size=1
+ texmf-dist/tex/latex/intopdf/intopdf.sty
+catalogue-contact-repository https://github.com/zauguin/intopdf
+catalogue-ctan /macros/latex/contrib/intopdf
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl1.3c
+catalogue-topics hyper pdf-feat
+catalogue-version 0.1.0

@@ -1,0 +1,30 @@
+name calculation
+category Package
+revision 35973
+shortdesc Typesetting reasoned calculations, also called calculational proofs
+longdesc The calculation environment formats reasoned calculations, also
+longdesc called calculational proofs. The notion of reasoned
+longdesc calculations or calculational proofs was originally advocated
+longdesc by Wim Feijen and Edsger Dijkstra. The package accepts options
+longdesc fleqn and leqno (with the same effect as the LaTeX options
+longdesc fleqn and leqno, or may inherit the options from the document
+longdesc class). It allows steps and expressions to be numbered (by
+longdesc LaTeX equation numbers, obeying the LaTeX \label command to
+longdesc refer to these numbers), and a step doesn't take vertical space
+longdesc if its hint is empty. An expression in a calculation can be
+longdesc given a comment; it is placed at the side opposite to the
+longdesc equation numbers. Calculations are allowed inside hints
+longdesc although numbering and commenting is then disabled.
+containersize 3316
+containerchecksum d60f9face95cdf6944363ce66b842b2a695b468e77193785564d1697244e193cc0dcf462e7a13c8a22eee173d5d4cd192ae59bbc68e086ac27c92d2dbaf6f156
+doccontainersize 98544
+doccontainerchecksum 741f4600986798bb191352ef98ac1a398014f92956267c36ca1834d95996008204107dcd8575077d7eb2dc1ddc627f03ffdf071ce0d8b2646809063eba59625a
+srccontainersize 9640
+srccontainerchecksum 010291ac9b9d4529283ae9ed9054a2d797109a5eba2e999d26c4e847bba6c0bbb3a357a76526c77549636d2446d38fca2b6063ca238f5912c1aced9e2b63bb8a
+runfiles size=3
+ texmf-dist/tex/latex/calculation/calculation.sty
+catalogue-ctan /macros/latex/contrib/calculation
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics proof maths
+catalogue-version 1.0

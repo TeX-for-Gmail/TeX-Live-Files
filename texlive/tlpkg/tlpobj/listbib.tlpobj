@@ -1,0 +1,27 @@
+name listbib
+category Package
+revision 29349
+shortdesc Lists contents of BibTeX files
+longdesc Generates listings of bibliographic data bases in BibTeX format
+longdesc -- for example for archival purposes. Included is a listbib.bst
+longdesc which is better suited for this purpose than the standard
+longdesc styles.
+depend listbib.ARCH
+containersize 21348
+containerchecksum e71bda783acbb8ab6ccab3d8af535034caf0eea919bbd175685fe50585970b87613e0df5ed076967aca395cd8c7f1317e805fb1cf765897b03d6cc131d3d98b8
+doccontainersize 332236
+doccontainerchecksum 0ec0970f591fd3a840c27730d41f0b817f631727c9c7219880b45209c21fe0d3aa616eb6eb94bc7016a9acabfe9c50846d872d3b36a104e1f4eb74dd003a16d3
+srccontainersize 14012
+srccontainerchecksum 441b13ec75d91c68b8e7253a5dc9a6e515c5bb0df81a4784dd414b1956be6f2c9189051ae9090a04bd4d11919945a38ad6563f41c27d1b8d03ad283f71c9a19d
+runfiles size=22
+ texmf-dist/bibtex/bst/listbib/listbib.bst
+ texmf-dist/scripts/listbib/listbib
+ texmf-dist/tex/latex/listbib/listbib.cfg
+ texmf-dist/tex/latex/listbib/listbib.sty
+ texmf-dist/tex/latex/listbib/listbib.tex
+catalogue-also biblist
+catalogue-ctan /macros/latex/contrib/listbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-util
+catalogue-version 2.2

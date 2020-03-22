@@ -1,0 +1,18 @@
+name tabriz-thesis
+category Package
+revision 29421
+shortdesc A template for the University of Tabriz
+longdesc The package offers a document class for typesetting theses and
+longdesc dissertations at the University of Tabriz. The class requires
+longdesc use of XeLaTeX.
+containersize 3460
+containerchecksum ad153e762e24c2aa5be11b99e359f44ff2f784303855d6a1022d040a030f114a956e24b162fa62475ce018c56c8d1a53d2481819de62515bf730515b1562413a
+doccontainersize 217012
+doccontainerchecksum 325a33c035a4a467fc4155ff62e0840529b4541cdd82859a85e9249666d92ffa3c01b39313618f0a8384ae7c5c83197d5f56960b646449d06a1f47aa6c8cfc62
+runfiles size=3
+ texmf-dist/tex/latex/tabriz-thesis/tabriz-thesis.cls
+catalogue-ctan /macros/latex/contrib/tabriz-thesis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation persian xetex
+catalogue-version 1.1

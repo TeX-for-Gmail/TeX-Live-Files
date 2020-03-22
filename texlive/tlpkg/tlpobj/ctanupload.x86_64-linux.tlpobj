@@ -1,0 +1,8 @@
+name ctanupload.x86_64-linux
+category Package
+revision 23866
+shortdesc x86_64-linux files of ctanupload
+containersize 344
+containerchecksum cdcf5af60c46155ee3c7bfab6547845250d5e1fae1ed6af59f1ebe76c2013e1d717c9b0962f68d57752a23dfb0dc12c8a1b8fc7708a096896e91653bc1e51dd1
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ctanupload

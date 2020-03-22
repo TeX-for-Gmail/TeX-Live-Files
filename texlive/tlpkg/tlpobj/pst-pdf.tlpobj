@@ -1,0 +1,33 @@
+name pst-pdf
+category Package
+revision 44665
+shortdesc Make PDF versions of graphics by processing between runs
+longdesc The package pst-pdf simplifies the use of graphics from
+longdesc PSTricks and other PostScript code in PDF documents. As in
+longdesc building a bibliography with BibTeX, additional external
+longdesc programmes are invoked. In this case they are used to create a
+longdesc PDF file (\PDFcontainer) that will contain all the graphics
+longdesc material. In the final document these contents will be inserted
+longdesc instead of the original PostScript code. The package works with
+longdesc pstricks and requires a recent version of the preview package.
+depend pst-pdf.ARCH
+containersize 7364
+containerchecksum 537812f3811e9a62a2c9667438ea380c3219b1cd8a96ae2225e0ded063f1f1ad572a699d4f9d5d11f2c667fc560d94f17b275293198c5eb4035dcc3d3cb92242
+doccontainersize 961300
+doccontainerchecksum bd6e6b3c7ee31cafb5c6f6064abb6b6f4a197c10f4ea184fe028fab874a1a5b6bbf39719a1a620fcc9fec23e52ea15c6abfd4b66f79c788755f1ba8eb65ef778
+srccontainersize 162792
+srccontainerchecksum ac181daad359ca790224fd0bc2eb560ca59312ec6330ff64c8e9af3cf58aef1f6c2ccc3310ffa9bcd2ccf36657d0675b8c926c859ecb6cbb3f5382257ab6ec85
+runfiles size=9
+ texmf-dist/scripts/pst-pdf/ps4pdf
+ texmf-dist/scripts/pst-pdf/ps4pdf.bat
+ texmf-dist/scripts/pst-pdf/ps4pdf.bat.noMiKTeX
+ texmf-dist/scripts/pst-pdf/ps4pdf.bat.w95
+ texmf-dist/tex/latex/pst-pdf/pst-pdf.sty
+catalogue-also pdftricks
+catalogue-contact-bugs https://github.com/rolfn/pst-pdf/issues
+catalogue-contact-repository https://github.com/rolfn/pst-pdf
+catalogue-ctan /macros/latex/contrib/pst-pdf
+catalogue-date 2018-09-15 13:05:45 +0200
+catalogue-license lppl1.2
+catalogue-topics graphics-epspdf
+catalogue-version 1.2d

@@ -1,0 +1,67 @@
+name biblatex-gost
+category Package
+revision 46709
+shortdesc BibLaTeX support for GOST standard bibliographies
+longdesc The package provides BibLaTeX support for Russian bibliography
+longdesc style GOST 7.0.5-2008
+containersize 21024
+containerchecksum bba80e3d8452ff64b54f2f71ba7440f67c823583937b1ac82c6f63e61fb72e69d08ffd01ecb76753ba9ccd9defeb2233d426afe474605134d04659b3f1b39a19
+doccontainersize 1139096
+doccontainerchecksum e6187b9afacf87fed1877057532a0fadd6dab04cd5de084931cb66a2ae2bf8ff4100eaa1d7aa43dd89c208c6cd512b36173b83b82e37829cbf455362be683f42
+runfiles size=82
+ texmf-dist/tex/latex/biblatex-gost/american-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/biblatex-gost.dbx
+ texmf-dist/tex/latex/biblatex-gost/biblatex-gost.def
+ texmf-dist/tex/latex/biblatex-gost/brazilian-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/british-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/catalan-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/croatian-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/english-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/french-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/galician-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/german-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic-min.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic-min.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic-min.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-alphabetic.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear-min.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear-min.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear-min.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-authoryear.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote-min.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote-min.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote-min.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-footnote.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline-min.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline-min.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline-min.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-inline.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric-min.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric-min.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric-min.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric.bbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric.cbx
+ texmf-dist/tex/latex/biblatex-gost/gost-numeric.dbx
+ texmf-dist/tex/latex/biblatex-gost/gost-standard.bbx
+ texmf-dist/tex/latex/biblatex-gost/greek-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/icelandic-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/italian-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/portuguese-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/russian-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/slovene-gost.lbx
+ texmf-dist/tex/latex/biblatex-gost/spanish-gost.lbx
+catalogue-also gost
+catalogue-contact-repository https://github.com/odomanov/biblatex-gost/
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-gost
+catalogue-date 2018-02-21 09:43:10 +0100
+catalogue-license lppl1.3c
+catalogue-topics biblatex std-conform russian
+catalogue-version 1.17

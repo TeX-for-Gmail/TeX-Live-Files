@@ -1,0 +1,17 @@
+name showhyphens
+category Package
+revision 39787
+shortdesc Show all possible hyphenations in LuaLaTeX
+longdesc With this package, LuaLaTeX will indicate all possible
+longdesc hyphenations in the printed output.
+containersize 1784
+containerchecksum e3dc83cf25d0006e4ed0b2181a7cfaa81a2c7d6a7152d9202b2d9ccc876a773045abcb055709a33d69f1efd80c11edd642364e13fde7991730755d944c35afe4
+doccontainersize 86248
+doccontainerchecksum 2e87bf2fb7eb014d28e44634fa8c307bcbfa4e774c1b279a5242b3c99e569dc1eb64d5f0ba30958d0ca84c5c2bd770ce3de81af98981a3e01a2c5bc8575c9e02
+runfiles size=1
+ texmf-dist/tex/lualatex/showhyphens/showhyphens.sty
+catalogue-ctan /macros/luatex/latex/showhyphens
+catalogue-date 2016-12-18 08:34:28 +0100
+catalogue-license mit
+catalogue-topics hyph-gen luatex
+catalogue-version 0.5c

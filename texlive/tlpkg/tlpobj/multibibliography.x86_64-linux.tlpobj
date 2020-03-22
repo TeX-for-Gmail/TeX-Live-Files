@@ -1,0 +1,8 @@
+name multibibliography.x86_64-linux
+category Package
+revision 30534
+shortdesc x86_64-linux files of multibibliography
+containersize 348
+containerchecksum 91b22db3304a5ab30e155490cde40907971e986d6c427b88b2043373e35e5bc3a453f026c4504bd5da2cdac5ce583be43590a9c7c0968a9501e20f7b78e1eef0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/multibibliography

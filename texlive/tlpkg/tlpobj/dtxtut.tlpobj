@@ -1,0 +1,17 @@
+name dtxtut
+category Package
+revision 38375
+shortdesc Tutorial on writing .dtx and .ins files
+longdesc This tutorial is intended for advanced LaTeX2e users who want
+longdesc to learn how to create .ins and .dtx files for distributing
+longdesc their homebrewed classes and package files.
+containersize 488
+containerchecksum cc28ede4898b583a89df3efbfed45318be9034b3c2a92bff083e79007326d4d680177f1884aa506dbc9574a924687eb463f2d69c297906fcbddaa584ef9e52bf
+doccontainersize 313116
+doccontainerchecksum 2c8a2ec4fc38aefa720bee29f24149837f985a54cc1b9cc9325887f5b7738d89ef38d8b60acbb4b5adf0e6c13e1677003e58adaaaf50e8949c33377ca29679a7
+catalogue-also makedtx sty2dtx
+catalogue-ctan /info/dtxtut
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics tut-latex-prg
+catalogue-version 2.1

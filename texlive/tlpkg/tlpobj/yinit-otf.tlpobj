@@ -1,0 +1,18 @@
+name yinit-otf
+category Package
+revision 40207
+shortdesc OTF conversion of Yannis Haralambous' Old German decorative initials
+longdesc This package is a conversion of the yinit font into OTF.
+longdesc Original Metafont files for yinit are in the yinit package.
+containersize 253664
+containerchecksum 5ec9f9408c3188b2bf985e9c3f1f9f6a345557d08a167a9d02c07fe41bbb981a8889f580d6e38a97798bb5e891d978eb4ee70b77a344c684051b5644654d1cd1
+doccontainersize 604
+doccontainerchecksum 6c73466c1e4ce1f7aec1b30980e5c44ca4917e161236fad7a0816bc93e921525b90f62abd8d41d3b767d8a6eda62a34534d7129d1fc490fda430345f8a2b3ce7
+runfiles size=171
+ texmf-dist/fonts/opentype/public/yinit-otf/Yinit.otf
+catalogue-also yfonts
+catalogue-ctan /fonts/gothic/yinit-otf
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font-otf font-decor font-gothic
+catalogue-version 1.0

@@ -1,0 +1,9 @@
+name pmx.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of pmx
+containersize 211112
+containerchecksum ebba33bb082c772d7be8b6138f64bcbf9167411eaa4f47c2e31d28e7257d55b8bce9f4f7f0715f1c7ed4e7bd2cd320476fe08710b535826cb52459eea9c06b62
+binfiles arch=x86_64-linux size=152
+ bin/x86_64-linux/pmxab
+ bin/x86_64-linux/scor2prt

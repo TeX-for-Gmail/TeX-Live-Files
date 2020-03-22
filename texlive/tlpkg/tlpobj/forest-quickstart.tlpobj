@@ -1,0 +1,17 @@
+name forest-quickstart
+category Package
+revision 42503
+shortdesc Quickstart Guide for Linguists package "forest"
+longdesc forest is a PGF/TikZ-based package for drawing linguistic (and
+longdesc other kinds of) trees. This manual provides a quickstart guide
+longdesc for linguists with just the essential things that you need to
+longdesc get started.
+containersize 496
+containerchecksum 14c3512b55e7653d26571a73216cd1eb5bc4d7ec8b74ae71475c37372552fb309c148e91d4e973bd60710f2a43af9a8ddb6ad99087fd2a9b76da896e521eadbe
+doccontainersize 502852
+doccontainerchecksum c53a365ccb1a4059c9440b8f23b3ec0bbafcbed14f871c92b99abaf91adc4bb42ac1d3b784cf545a6352298bded8b4cc7f6b2e114625335af5d9d003fcf922ba
+catalogue-also forest
+catalogue-ctan /info/forest-quickstart
+catalogue-date 2016-11-15 05:42:32 +0100
+catalogue-license fdl
+catalogue-topics linguistic docu-pkg

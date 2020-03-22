@@ -1,0 +1,21 @@
+name datetime2-romanian
+category Package
+revision 43743
+shortdesc Romanian language module for the datetime2 package
+longdesc This module provides the "romanian" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty.
+containersize 2860
+containerchecksum 9167976dca51779669fbd91cc54ceced2f0dd6a97610faf9e55bd51a9e5c0ca3c8096c143a71180f0d572d1f1fdca5c72feccdebb58c7caed6e3e33a21c4b4a1
+doccontainersize 114828
+doccontainerchecksum 62514ec016e7913b74e8c19624aceda5b258d1e1972da97b04bed2565f1c4ac0c694e695e6eefa528963f0375c3866ea4e475747e6141f0612dad2db8e7a1b7a
+srccontainersize 4852
+srccontainerchecksum 617a1cad46eeb6c2c0cf434fec3d436e471d4cc25224c99cb3272bfd14eaecdf3f63862ae61a83126c222f9215b244fdccf101896469e64480991187878eb71c
+runfiles size=5
+ texmf-dist/tex/latex/datetime2-romanian/datetime2-romanian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-romanian/datetime2-romanian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-romanian/datetime2-romanian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-romanian
+catalogue-date 2017-04-08 18:57:01 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.01

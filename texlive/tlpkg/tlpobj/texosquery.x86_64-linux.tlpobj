@@ -1,0 +1,10 @@
+name texosquery.x86_64-linux
+category Package
+revision 43596
+shortdesc x86_64-linux files of texosquery
+containersize 380
+containerchecksum 70a2c2968c961489271605f575fb359ad24597f35f2b328004ea83fbf20e5fa241f24ea0fa8345b914ad5444916b5ba0882cb5c02dd7d4ec1186974cba5d4cc4
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/texosquery
+ bin/x86_64-linux/texosquery-jre5
+ bin/x86_64-linux/texosquery-jre8

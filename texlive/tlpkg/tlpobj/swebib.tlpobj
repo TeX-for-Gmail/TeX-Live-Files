@@ -1,0 +1,23 @@
+name swebib
+category Package
+revision 15878
+shortdesc Swedish bibliography styles
+longdesc The bundle contains Swedish versions of the standard
+longdesc bibliography styles, and of the style plainnat. The styles
+longdesc should be funtionally equivalent to the corresponding original
+longdesc styles, apart from the Swedish translations. The styles do not
+longdesc implement Swedish collation.
+containersize 6892
+containerchecksum c34174a73f2264bd0963bc6932f6ce840a84d3c48ec9aeae9f7f92ce25ce5f55dc2e4c05d1eaee54c18b4c0ef9adcf494310cdf0a3e1d73031910b75a6db30c8
+doccontainersize 492
+doccontainerchecksum a3db201554a0b828cfc72d47a22b777fd7b44b25c361a4d8f032cc62658780628e83f6eabfbf342b867fda335c1ddc228347f5fc66651193c8229e0bc6e46f67
+runfiles size=27
+ texmf-dist/bibtex/bst/swebib/sweabbrv.bst
+ texmf-dist/bibtex/bst/swebib/swealpha.bst
+ texmf-dist/bibtex/bst/swebib/sweplain.bst
+ texmf-dist/bibtex/bst/swebib/sweplnat.bst
+ texmf-dist/bibtex/bst/swebib/sweunsrt.bst
+catalogue-ctan /biblio/bibtex/contrib/swebib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics bibtex-sty swedish

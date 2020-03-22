@@ -1,0 +1,17 @@
+name drawstack
+category Package
+revision 28582
+shortdesc Draw execution stacks
+longdesc This simple LaTeX package provides support for drawing
+longdesc execution stack (typically to illustrate assembly language
+longdesc notions). The code is written on top of TikZ.
+containersize 2256
+containerchecksum 383eab0b77675ae418a775a413c37720d6f74d51d1a31bdb2923b45ced53afa576f10304e372171298ddbd566a8418526d291f74a1871eaba36ea3793d7d0173
+doccontainersize 104944
+doccontainerchecksum d435447ec29bc26262886b3dc4c41cefae81d24e0704857a9ea61f1fc08ff8e4bfb4ead7686a9f49808dff30da47fc5638e2c0dbea4c6a551800a373f68df0e6
+runfiles size=2
+ texmf-dist/tex/latex/drawstack/drawstack.sty
+catalogue-ctan /macros/latex/contrib/drawstack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics comp-sci graphics-use

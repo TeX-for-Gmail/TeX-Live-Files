@@ -1,0 +1,20 @@
+name bibtopicprefix
+category Package
+revision 15878
+shortdesc Prefix references to bibliographies produced by bibtopic
+longdesc The package permits users to apply prefixes (fixed strings) to
+longdesc references to entries in bibliographies produced by the
+longdesc bibtopic package.
+containersize 1844
+containerchecksum 1df7d78498b6de233aea92cb1b18f73893b8cab723fb614a9fe895e5131639c1b4f4318cbe103ea4d9308e383627873576664f0af3ac6fd26aebd5b8b0036379
+doccontainersize 374820
+doccontainerchecksum 473a7db7638f471fd87b1cb242a3a593e3ff0aa4586c1fbe906cf12f2dd866a27ab50176b01d3f4158cdf0fc263fa54ce16eb63c797392349fbc90a8422c3b2f
+srccontainersize 4620
+srccontainerchecksum ebb06f55dd58c5948e5586ba29fe3aff33533eb3b044e07be71da0f20512af21d9808ae7d970f168189bc84ccb9bde6a19e935d7d6280e929d169250d3781a3e
+runfiles size=1
+ texmf-dist/tex/latex/bibtopicprefix/bibtopicprefix.sty
+catalogue-ctan /macros/latex/contrib/bibtopicprefix
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-multi bibtex-supp
+catalogue-version 1.10

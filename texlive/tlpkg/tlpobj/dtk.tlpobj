@@ -1,0 +1,31 @@
+name dtk
+category Package
+revision 50789
+shortdesc Document class for the journal of DANTE
+longdesc The bundle provides a class and style file for typesetting "Die
+longdesc TeXnische Komodie" -- the communications of the German TeX
+longdesc Users Group DANTE e.V. The arrangement means that the class may
+longdesc be used by article writers to typeset a single article, as well
+longdesc as to produce the complete journal.
+containersize 16960
+containerchecksum d5139563e12fc29529d5573cf613fed3c22c2415223e40d7b698adabaa1e3c2cbda9620630bf91410edef712fd941915155ca8efbf19d28cdc939151ff1da8b4
+doccontainersize 90228
+doccontainerchecksum da39c84e340c68b34b0c2e8fc39cef6d1ed7d37937655a69781f05fdfc1fff985e644211e0a7b5469b8ec1af32fb2d104e3e6d3ff97cfc76b8a41c953150a337
+runfiles size=23
+ texmf-dist/tex/latex/dtk/dtk-author.clo
+ texmf-dist/tex/latex/dtk/dtk-extern.sty
+ texmf-dist/tex/latex/dtk/dtk-full.clo
+ texmf-dist/tex/latex/dtk/dtk-logos.sty
+ texmf-dist/tex/latex/dtk/dtk-new-engines.clo
+ texmf-dist/tex/latex/dtk/dtk-old-engines.clo
+ texmf-dist/tex/latex/dtk/dtk-url.sty
+ texmf-dist/tex/latex/dtk/dtk.bbx
+ texmf-dist/tex/latex/dtk/dtk.cbx
+ texmf-dist/tex/latex/dtk/dtk.cls
+catalogue-contact-bugs https://github.com/rolfn/dtk/issues
+catalogue-contact-repository https://github.com/rolfn/dtk
+catalogue-ctan /usergrps/dante/dtk
+catalogue-date 2019-04-05 18:58:50 +0200
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 2.08a

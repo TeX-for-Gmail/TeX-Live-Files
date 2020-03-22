@@ -1,0 +1,20 @@
+name docmfp
+category Package
+revision 15878
+shortdesc Document non-LaTeX code
+longdesc Extends the doc package to cater for documenting non-LaTeX
+longdesc code, such as Metafont or MetaPost, or other programming
+longdesc languages.
+containersize 1956
+containerchecksum 55f68d7affd8d82631eb0e67c6232330bdff97ea908259a5e14255058d88f9f745afe55bd4a15eb91bff959b7cfc31835fa22196d3d0edcafa40da521b3105b6
+doccontainersize 148172
+doccontainerchecksum fc3721046105ae78b19b61a45fd01570873842c6786a096575efae282e4fc884f5f5dfd5ea6888a25ddc82077340bf0ede4a36977cd33d2b555ccfc3d0ff2c02
+srccontainersize 7932
+srccontainerchecksum 90c38a698f428980635ab3a826f35adb65a1f9b2a2dd385da8ff41ffba01870c071b7ce100dea1142d85ca216a68a0170aa8fdf92feb80a8ae055899f6b05633
+runfiles size=2
+ texmf-dist/tex/latex/docmfp/docmfp.sty
+catalogue-ctan /macros/latex/contrib/docmfp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-supp
+catalogue-version 1.2d

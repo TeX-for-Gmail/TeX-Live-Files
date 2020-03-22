@@ -1,0 +1,23 @@
+name toolbox
+category Package
+revision 32260
+shortdesc Tool macros
+longdesc A package for (La)TeX which provides some macros which are
+longdesc convenient for writing indexes, glossaries, or other macros. It
+longdesc contains macros which support: implicit macros; fancy optional
+longdesc arguments; loops over tokenlists and itemlists; searching and
+longdesc splitting; controlled expansion; redefinition of macros; and
+longdesc concatenated macro names; macros for text replacement.
+containersize 3052
+containerchecksum af5320de678474075998f9497be0b766e826b0105b344939a66c5c1377e7c345623e2de18b73cb43f93c8edc241fca7a99fff1ca4b6bd3dfba52bf2ff476f18f
+doccontainersize 142452
+doccontainerchecksum ee800bb98c9577b12bf20a0b19ce27d9c6900f66e0920c922626599986b887e34513cca8474456aab7ae59aa5d5fae3c7c323ca4cc21372979ab3d545921ed34
+srccontainersize 24148
+srccontainerchecksum 201c3153ceb48cc4f7a3b24babd95e78939f03a7d2f3992a73113d904c90e5c957135a0efab98cb2ed01f742c39cf84c4a12efb8bf9f9bb9a082d56f62c98255
+runfiles size=3
+ texmf-dist/tex/latex/toolbox/toolbox.sty
+catalogue-ctan /macros/latex/contrib/toolbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 5.1

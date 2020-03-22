@@ -1,0 +1,17 @@
+name pnas2009
+category Package
+revision 16287
+shortdesc BibTeX style for PNAS (newer version)
+longdesc This style produces bibliographies in the format of
+longdesc "Proceedings of the National Academy of Sciences, USA". The
+longdesc style was derived from the standard unsrt.bst and adapted to
+longdesc the new (2009) formatting rules.
+containersize 4032
+containerchecksum 5e20303db90b2db63a3d6026db582026df8b9e910942303c952753d5dc27928ec70a8dc21edaf44cd57e04d25e93a87a5f28caa769a0425b47c78ea9d56ffa86
+runfiles size=5
+ texmf-dist/bibtex/bst/pnas2009/pnas2009.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/pnas2009.bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty
+catalogue-version 1.0

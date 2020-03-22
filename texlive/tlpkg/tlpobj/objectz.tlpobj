@@ -1,0 +1,20 @@
+name objectz
+category Package
+revision 19389
+shortdesc Macros for typesetting Object Z
+longdesc The package will typeset both Z and Object-Z specifications; it
+longdesc develops the original zed package
+containersize 9788
+containerchecksum e98bb9208838b8e55d9fe793af3eb6439aff2809067878051a9849cf483a42e612ca7c9a43a86520e582161b1a9f575e4e7a5f4bf7bbcabbbbdb314595c58fd7
+doccontainersize 261448
+doccontainerchecksum afcb2681f0983c345ddcf4cd484d337461a53af27f6d5467b12a5368f6ce3974b9d54cdd77365995e7268895f4f0edbb814a4f4e61e4cee947f6ea49c8381d85
+srccontainersize 15088
+srccontainerchecksum c2bd789d5acb1174aeb50cd3eace6ab67d0074adcdb8c00d6ec0581be096a931a5f9a666630e96abd30dda31a418eb7b9e6e0f06c3d93eecbc7a287c4a7e61b3
+runfiles size=10
+ texmf-dist/tex/latex/objectz/oz.sty
+catalogue-also zed-csp
+catalogue-contact-home http://www.itee.uq.edu.au/~smith/objectz.html
+catalogue-ctan /macros/latex/contrib/objectz
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics formal-spec

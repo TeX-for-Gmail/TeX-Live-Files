@@ -1,0 +1,24 @@
+name pxgreeks
+category Package
+revision 21838
+shortdesc Shape selection for PX fonts Greek letters
+longdesc The package allows LaTeX maths users of the PX fonts to select
+longdesc the shapes (italic or upright) for the Greek lowercase and
+longdesc uppercase letters. Once the shapes for lowercase and uppercase
+longdesc have been selected via a package option, the \other prefix
+longdesc (e.g., \otheralpha) allows using the alternate glyph (as in the
+longdesc fourier package). The pxgreeks package does not constrain the
+longdesc text font that may be used in the document.
+containersize 2120
+containerchecksum d3f8ff3c975643d74dd92e749397d01f8d3fd0087a838271a491791fa4bb2d65c852ff5989f79952d40547a601c97fe0274ab4407a8e73aa047221934b9b2e9d
+doccontainersize 56340
+doccontainerchecksum 22239223646ea121422016119b6d0edce32d002bf361d096c173857b36ce324ebe2e4107bc0eae650b50d0e94775c84f480768246ee65f975ad5a24af0335158
+srccontainersize 4644
+srccontainerchecksum 9924c5b5a60d381efc41f77f9b5224a12a158fd7de6551a17b1d32eebb6ca6e80a7686648a81774398c4e25fef759612c652fff983a635f4cf56c5bbfb52858d
+runfiles size=2
+ texmf-dist/tex/latex/pxgreeks/pxgreeks.sty
+catalogue-ctan /macros/latex/contrib/pxgreeks
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp-maths
+catalogue-version 1.0

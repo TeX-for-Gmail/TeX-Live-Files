@@ -1,0 +1,25 @@
+name bussproofs
+category Package
+revision 27488
+shortdesc Proof trees in the style of the sequent calculus
+longdesc The package allows the construction of proof trees in the style
+longdesc of the sequent calculus and many other proof systems. One novel
+longdesc feature of the macros is they support the horizontal alignment
+longdesc according to some centre point specified with the command
+longdesc \fCenter. This is the style often used in sequent calculus
+longdesc proofs. The package works in a Plain TeX document, as well as
+longdesc in LaTeX; an exposition of the commands available is given in
+longdesc the package file itself.
+containersize 8820
+containerchecksum a23aa5580e6c3d691c7b14a58b20af1e135681000c50a84be01040df7e1a844b8abeebe11a9dc456cee37e9e34ec020139c9f8de4de51833a88f90e495a65fcc
+doccontainersize 104936
+doccontainerchecksum b9af525a6a6204c07095864d257c65feda61214c557b0801c9a0c4357578755e1d01e278fe875c0b290f250e3adb03d260a5816a4ccd9f6f51ba67cd8af8269e
+runfiles size=10
+ texmf-dist/tex/latex/bussproofs/bussproofs.sty
+catalogue-also ebproof
+catalogue-contact-home http://math.ucsd.edu/~sbuss/ResearchWeb/bussproofs/
+catalogue-ctan /macros/latex/contrib/bussproofs
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics maths proof
+catalogue-version 1.1

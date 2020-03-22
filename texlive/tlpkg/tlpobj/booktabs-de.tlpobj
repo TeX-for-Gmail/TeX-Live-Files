@@ -1,0 +1,14 @@
+name booktabs-de
+category Package
+revision 21907
+shortdesc German version of booktabs
+longdesc This is a "translation" of the booktabs.
+containersize 392
+containerchecksum 25a46153cea4a6e94c77cabf3afac74e642c7362f7c852725e8443de8ef8873c5a9d2dab3fc3b083dd7382e10d74e71b40b40b1143afce1646e853899c0ea2c6
+doccontainersize 273312
+doccontainerchecksum 1016522eb74332542a9497f47fb0ea884c7d8b3d0a0630b8a6604bdc41ee08d29d963fcee0d643a8260d2e667c0b39edc74f4998ecbe66bc7a45ef23ac78371c
+catalogue-ctan /macros/latex/contrib/booktabs-de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics german-doc translation
+catalogue-version 1.61803

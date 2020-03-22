@@ -1,0 +1,23 @@
+name verbasef
+category Package
+revision 21922
+shortdesc VERBatim Automatic Splitting of External Files
+longdesc The package allows you to input (subsections of a) file, print
+longdesc them in verbatim mode, while automatically breaking up the
+longdesc input lines into pieces of a given length, which are output as
+longdesc figures. These figures are posted using the [H] specification,
+longdesc which forces LaTeX to place the figure at the spot of
+longdesc invocation, rather than floating the figures to the top of the
+longdesc next page. The package requires the verbatim, here and vrbexin
+longdesc packages.
+containersize 4456
+containerchecksum 483a75883ea602f674abec796199c5206420079c6ad5e4c3ac22bd836e7ce02f686cc8b9b749f806fe8e44bce8bd35fc6b17865fc076c72f2223143ee0e8a123
+doccontainersize 336984
+doccontainerchecksum c88b1275eb4e3b87172e6cd157ad868b7b230d96d00ca0dc550757fdb89648a40b1090b771dcd0776b6f86a9194c553f265d990220348e5bbf9c7aa792f42914
+runfiles size=4
+ texmf-dist/tex/latex/verbasef/verbasef.sty
+catalogue-ctan /macros/latex/contrib/verbasef
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics verbatim listing
+catalogue-version 1.1

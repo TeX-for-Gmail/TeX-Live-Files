@@ -1,0 +1,38 @@
+name circuitikz
+category Package
+revision 44488
+shortdesc Draw electrical networks with TikZ
+longdesc The package provides a set of macros for naturally typesetting
+longdesc electrical and (somewhat less naturally, perhaps) electronic
+longdesc networks. It is designed as a tool that is easy to use, with a
+longdesc lean syntax, native to LaTeX, and directly supporting PDF
+longdesc output format. It has therefore been based on the very
+longdesc impressive pgf/TikZ package.
+containersize 34828
+containerchecksum bd411cf9df5abb34c55b8b369f7fb42537e107c5f79872fa429dd62064496ed7c5ea73461a68494e73de7706d4a18bbb372cc8782b421f60d0411fb3a008c890
+doccontainersize 314624
+doccontainerchecksum 68616460b0ca2a6906f93e8532bf996989580f52771e0606547c8d28f6fe33430aab83241794964685b03ecac427e77ed00e6b9ac9bd93a8aeeea94e5bc9b1fd
+runfiles size=110
+ texmf-dist/tex/context/third/circuitikz/t-circuitikz.tex
+ texmf-dist/tex/generic/circuitikz/pgfcirc.defines.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircbipoles.tex
+ texmf-dist/tex/generic/circuitikz/pgfcirccurrent.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircflow.tex
+ texmf-dist/tex/generic/circuitikz/pgfcirclabel.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircmonopoles.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircpath.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircquadpoles.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircshapes.tex
+ texmf-dist/tex/generic/circuitikz/pgfcirctripoles.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircutils.tex
+ texmf-dist/tex/generic/circuitikz/pgfcircvoltage.tex
+ texmf-dist/tex/latex/circuitikz/circuitikz.sty
+catalogue-contact-bugs https://github.com/circuitikz/circuitikz/issues
+catalogue-contact-home https://circuitikz.github.io/circuitikz/
+catalogue-contact-repository https://github.com/circuitikz/circuitikz
+catalogue-contact-support https://github.com/circuitikz/circuitikz/issues
+catalogue-ctan /graphics/pgf/contrib/circuitikz
+catalogue-date 2017-05-28 15:50:35 +0200
+catalogue-license lpplgpl
+catalogue-topics diagram-circ pgf-tikz
+catalogue-version 0.8.3

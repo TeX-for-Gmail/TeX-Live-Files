@@ -1,0 +1,23 @@
+name svn
+category Package
+revision 15878
+shortdesc Typeset Subversion keywords
+longdesc The svn package lets you typeset (in LaTeX) the value of
+longdesc Subversion keywords. It is approximately an equivalent to the
+longdesc rcs package, but for Subversion rather than CVS. Details of
+longdesc Subversion (a replacement for CVS) is available from the
+longdesc project's home site.
+containersize 1616
+containerchecksum a64768b2c5931ba6b9e0b910d7bdc1473a7dbc01a70e41fbda46b4064ca1c41592f3d704496199e41ff27ac4d0ccfad56d9d89e536176010e35c1c8f56312454
+doccontainersize 441216
+doccontainerchecksum 123ce3eda16e4a1c44a85c6d2ef2bf4e5f6b9e9d939cf66eee52ad1326f06b35c457f4df054956dc16c169031909f2ea93aca380d2ba080f6049795a841dc34e
+srccontainersize 7644
+srccontainerchecksum 0033fe1be2ede6984cbc0397c20187cc03520b5d893f7ae239bb688354d7198c4e96cfed09dcdffe7160769f6dafc9995d77f8f0f9def753048d4ecb8231ee69
+runfiles size=1
+ texmf-dist/tex/latex/svn/svn.sty
+catalogue-also svninfo svn-multi
+catalogue-ctan /macros/latex/contrib/svn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics version-control doc-mgmt
+catalogue-version 43

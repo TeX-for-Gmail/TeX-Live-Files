@@ -1,0 +1,22 @@
+name esdiff
+category Package
+revision 21385
+shortdesc Simplify typesetting of derivatives
+longdesc The package makes writing derivatives very easy. It offers
+longdesc macros for derivatives, partial derivatives and multiple
+longdesc derivatives, and allows specification of the point at which the
+longdesc value is calculated. Some typographic alternatives may be
+longdesc selected by package options
+containersize 1632
+containerchecksum 84b2490e6ff743f0133deacc22c8e0368368e961d634239694ccf7b5cde7826996e080077baa0e0045230b6d2c3cad53ee055c05b17c89ca735dc2e40a01fb5a
+doccontainersize 82640
+doccontainerchecksum 97dbb512437c868f2b15ebd1271f51a7f196e40c70043c224617378e6c9333f19e2c18666f64fe6ea323c7aa5a58438944d8c6f5b1a9c0d36a239caee972eb08
+srccontainersize 2972
+srccontainerchecksum 983f7f7cee22e442768ae56fac614d569eef18bff35c52c669d51079a61beca395c06e7fb9bcedde338bbaa1b3775094ce9b77fe7c043df2e1e25975410ab7d2
+runfiles size=2
+ texmf-dist/tex/latex/esdiff/esdiff.sty
+catalogue-ctan /macros/latex/contrib/esdiff
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics maths
+catalogue-version 1.2

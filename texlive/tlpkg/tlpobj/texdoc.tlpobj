@@ -1,0 +1,38 @@
+name texdoc
+category TLCore
+revision 50627
+shortdesc Documentation access for TeX Live
+longdesc texdoc is a Lua script providing easy access to the
+longdesc documentation in TeX Live: PDF, DVI, plain text files, and
+longdesc more. Viewing and other configuration can be extensively
+longdesc customized. It is distributed with TeX Live; MiKTeX provides a
+longdesc program by the same name to do the same job, but its
+longdesc implementation is unrelated.
+depend kpathsea
+depend texdoc.ARCH
+containersize 25736
+containerchecksum 2c12bf48d03d456e95d6bc31ad6d46f77c0dfebde73fd8a87e2128c7267327377b8d8d7d9b04ecf7295eaad16eccf1df5bab6f9050df7113c62bfbbffc0d00be
+doccontainersize 124736
+doccontainerchecksum 133abc048e8cbfa84bd2788fe0942bc48d4d2844bec525c010a3590afa62b22ca77518ebbfd26e78c825152ec0eea0a8e1513d15931332656b8fec702b0b7479
+runfiles size=29
+ texmf-dist/scripts/texdoc/texdoc.tlu
+ texmf-dist/scripts/texdoc/texdoclib-alias.tlu
+ texmf-dist/scripts/texdoc/texdoclib-cli.tlu
+ texmf-dist/scripts/texdoc/texdoclib-config.tlu
+ texmf-dist/scripts/texdoc/texdoclib-const.tlu
+ texmf-dist/scripts/texdoc/texdoclib-score.tlu
+ texmf-dist/scripts/texdoc/texdoclib-search.tlu
+ texmf-dist/scripts/texdoc/texdoclib-util.tlu
+ texmf-dist/scripts/texdoc/texdoclib-view.tlu
+ texmf-dist/scripts/texdoc/texdoclib.tlu
+ texmf-dist/texdoc/texdoc.cnf
+catalogue-also texdoctk
+catalogue-contact-bugs https://github.com/TeX-Live/texdoc/issues
+catalogue-contact-home http://tug.org/texdoc/
+catalogue-contact-repository https://github.com/TeX-Live/texdoc
+catalogue-contact-support http://lists.tug.org/texdoc
+catalogue-ctan /support/texdoc
+catalogue-date 2019-03-28 14:31:59 +0100
+catalogue-license gpl
+catalogue-topics view-doc
+catalogue-version 3.1

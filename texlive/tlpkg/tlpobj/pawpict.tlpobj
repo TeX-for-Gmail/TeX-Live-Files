@@ -1,0 +1,20 @@
+name pawpict
+category Package
+revision 21629
+shortdesc Using graphics from PAW
+longdesc Support for the easy inclusion of graphics made by PAW (Physics
+longdesc Analysis Workstation). You need to have PAW installed on your
+longdesc system to benefit from this package.
+containersize 1160
+containerchecksum 426fe59ed20c41d3b11c87814b5f3737271d20bfb2cbc45142a36a42cb5aecc1555ea69a8ba1a1cac7bab323d8c9f23720601934f183d197b25e84d2037f057b
+doccontainersize 820
+doccontainerchecksum 5f8fb39ccf22aea8c40e3fb5d2babd757447e089da79a9df35336c56049872f45bb04fb76ad08d8d8a8404523666841fc757e7ebbb5201a156274ec2c29958b5
+srccontainersize 10104
+srccontainerchecksum 29f272c3d643ce366b3f82b3a5a913534e9b1833677540834bc48cecd946be0b5cf9d4de9e22012452a33c448589506d865db4ad589425634d80fef1562ecba4
+runfiles size=1
+ texmf-dist/tex/latex/pawpict/pawpict.sty
+catalogue-ctan /macros/latex/contrib/pawpict
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics physics graphics-prep
+catalogue-version 1.0

@@ -1,0 +1,31 @@
+name hithesis
+category Package
+revision 50062
+shortdesc Harbin Institute of Technology Thesis Template
+longdesc hithesis is a LaTeX thesis template package for Harbin
+longdesc Institute of Technolog supporting bachelor, master, doctor
+longdesc dissertations.
+containersize 25864
+containerchecksum 987d14e74f7adb87acc5b9ca44ffcda67872657f48ce421a13a028b7cde886ce6ae70d504d6684f42ec03774b6d1012a7fee11616b9f66ce6d989a2c4594e2cf
+doccontainersize 971788
+doccontainerchecksum 18fe3f3b8892f69354caa043944fc6dad88b0f468506acbeb08eaa0b220dfee44af5ebd2470e70814205d07541b2eb3ad93532dbf0c1c1b544591eda81e05da8
+srccontainersize 58512
+srccontainerchecksum 9d77eeacbc6738862aeaf12b9af9f9474c90bd2a916e06fe4eed26743101eeea48e64508cb2ac29cb7abe9de56f1d187e4f84d89d0fe8408dbc4c878ef6587dd
+runfiles size=53
+ texmf-dist/bibtex/bst/hithesis/hithesis.bst
+ texmf-dist/makeindex/hithesis/hithesis.ist
+ texmf-dist/tex/latex/hithesis/ctex-fontset-siyuan.def
+ texmf-dist/tex/latex/hithesis/hithesis.cfg
+ texmf-dist/tex/latex/hithesis/hithesis.cls
+ texmf-dist/tex/latex/hithesis/hithesis.sty
+catalogue-contact-announce https://github.com/dustincys
+catalogue-contact-bugs https://github.com/dustincys/hithesis/issues
+catalogue-contact-development https://github.com/dustincys
+catalogue-contact-home https://github.com/dustincys/hithesis
+catalogue-contact-repository https://github.com/dustincys
+catalogue-contact-support https://github.com/dustincys/hithesis/issues
+catalogue-ctan /macros/latex/contrib/hithesis
+catalogue-date 2019-02-19 14:16:02 +0100
+catalogue-license lppl1.3a
+catalogue-topics dissertation
+catalogue-version 2.0.6

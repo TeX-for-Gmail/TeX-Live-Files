@@ -1,0 +1,18 @@
+name xnewcommand
+category Package
+revision 15878
+shortdesc Define \global and \protected commands with \newcommand
+longdesc The package provides the means of defining \global and (e-TeX)
+longdesc \protected commands, within the framework of LaTeX's standard
+longdesc \newcommand.
+containersize 768
+containerchecksum 3296d6f9b580699e86ee01da444ec9b3cf7b76775f05529cc9c4dd931da5f887c914665651214a8107be612b18cb286ec039ad9ab3de520bd17090b38265d5c9
+doccontainersize 266496
+doccontainerchecksum e03b7027a3956829823e92bd4d8a3000d8f79f26558875ea3837adc9ca4a17ce75d9d4e9136d7ebda7bdc8fbbf4a1b44fc6f71d1bfad710d2e22bba8fab24292
+runfiles size=1
+ texmf-dist/tex/latex/xnewcommand/xnewcommand.sty
+catalogue-ctan /macros/latex/contrib/xnewcommand
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-def
+catalogue-version 1.2

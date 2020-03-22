@@ -1,0 +1,15 @@
+name cmexb
+category Package
+revision 45677
+shortdesc cmexb10 metrics and Type 1
+longdesc Computer Modern Math Extension bold, metrics and .pfb file.
+longdesc Made by Petr Olsak via autotracing.
+execute addMap cmexb.map
+containersize 31728
+containerchecksum 1d5a3b2ee73dc85c2e19e7bd8bdf0eee0283ca161ecd42dbeffe0443849e73e09113220ca6e09039c0daa684b2f372e0f8b13bdd711a937a09cb8a8fb63b4593
+doccontainersize 916
+doccontainerchecksum f833bc57edead21d4fcb27c5822849f26cbd4b434bcd230bfccb190c94c47d2eaaec4dbc9264c6a55ba24b2571d2607197abfd792423e03b7013c478e261ee6d
+runfiles size=11
+ texmf-dist/fonts/map/dvips/cmexb/cmexb.map
+ texmf-dist/fonts/tfm/public/cmexb/cmexb10.tfm
+ texmf-dist/fonts/type1/public/cmexb/cmexb10.pfb

@@ -1,0 +1,13 @@
+name asymptote-by-example-zh-cn
+category Package
+revision 15878
+shortdesc Asymptote by example
+longdesc This is a tutorial written in Simplified Chinese.
+containersize 388
+containerchecksum 34608d6412d7936a15bf649555683ff03c5021e1688c99285a6b7ecdfc3a43eac4ed32108626243d6e9b07c23c557f07762897a96501a27412c7c5d039747553
+doccontainersize 526632
+doccontainerchecksum a0087e5be69962c671e1972d9e7be12f76be64582182afe042693cbad92cf3fd027422c605dcf7860cd2e61f0b925860a50e94523b9ae2d1af7a8aa6d356c3a7
+catalogue-ctan /info/asymptote-by-example-zh-cn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics chinese-doc

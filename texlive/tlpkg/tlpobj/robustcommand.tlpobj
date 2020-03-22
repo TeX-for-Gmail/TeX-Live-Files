@@ -1,0 +1,20 @@
+name robustcommand
+category Package
+revision 15878
+shortdesc Declare robust command, with \newcommand checks
+longdesc The package merely provides a variation of
+longdesc \DeclareRobustCommand, which checks for the existence of a
+longdesc command before declaring it robust.
+containersize 1176
+containerchecksum 806f997cf6c0eceec0c8d9b8f8207014c4ab9243f8007fc688674af2fd778455a787b9cf998262fb7d0a92ba8e2ffb597d61950c22a6122ad957a62ea54d9a42
+doccontainersize 57844
+doccontainerchecksum 4d5c8a994edf816d39af12d7881793f0fda0223a3545559255674fa5a08f2d0fc9ad8ea2779b3c8bfe476966045f996b8b8f5da6fdd028188d28ae724c24a222
+srccontainersize 2852
+srccontainerchecksum 3dfb71a6a73f2ed968777eb1074d65773aaee7c1218b18fddd78e74a86f27d9cbf5fce79c41503c34e497b12543ec2e0c16d9f35d39b893e208a236fd66f4f50
+runfiles size=1
+ texmf-dist/tex/latex/robustcommand/robustcommand.sty
+catalogue-ctan /macros/latex/contrib/robustcommand
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 0.1

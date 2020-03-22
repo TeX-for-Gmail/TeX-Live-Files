@@ -1,0 +1,23 @@
+name show2e
+category Package
+revision 15878
+shortdesc Variants of \show for LaTeX2e
+longdesc This small package aims at making debugging (especially in an
+longdesc interactive way) easier, by providing \show variants suited to
+longdesc LaTeX2e commands (whether with optional arguments or robust)
+longdesc and environments. The variant commands also display the
+longdesc internal macros used by such commands, if any. The \showcs
+longdesc variant helps with macros with exotic names.
+containersize 1216
+containerchecksum 702d0913a299b68bedec15c697868a70f058957dbd3a2dd2c503bc21c8a250dc7601e6348080bb394a38108bcd2f5ee67796a888183aa181c9f88a72e7666580
+doccontainersize 61116
+doccontainerchecksum a427f7126ded4251c255fcaf2c381f7c00d0d0e55253804cbe631ac59be1bd51e7ba2ee51110af86bcee27d73698bb7baa323fef8e23a41000928b242b0be282
+srccontainersize 4340
+srccontainerchecksum 3a6bb6fbc35b5f6b1cae00d5c63c16ea13af270cbf90f57761f71076b26130272924154b8b0aac60cda41d27b75db4f1edfc82101f38b29e9641a4e02cb6c2a2
+runfiles size=1
+ texmf-dist/tex/latex/show2e/show2e.sty
+catalogue-ctan /macros/latex/contrib/show2e
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics debug-supp
+catalogue-version 1.0

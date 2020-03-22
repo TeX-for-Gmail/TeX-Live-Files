@@ -1,0 +1,23 @@
+name dviasm
+category Package
+revision 49945
+shortdesc A utility for editing DVI files
+longdesc A Python script to support changing or creating DVI files via
+longdesc disassembling into text, editing, and then reassembling into
+longdesc binary format. It supports advanced features such as adding a
+longdesc preprint number or watermarks.
+depend dviasm.ARCH
+containersize 9776
+containerchecksum f8f24627f416053ed4a53008eb6f4b83a6f7114793e361956c3a968efdfe06c11c233e24e14568ccffec612d1ef63daf8f6644333f68d202b816cafee1da98b2
+doccontainersize 664
+doccontainerchecksum 49d49f53bbba34659a96d587d899af7a1d4eb4841d3b5132ca8647efeb27bf6590f7bbac42bc5d5becca356f7bfcd4fb244f6ce9282539fc9aae4bc99a633ecc
+runfiles size=11
+ texmf-dist/scripts/dviasm/dviasm.py
+catalogue-also dtl
+catalogue-contact-bugs https://github.com/khaledhosny/dviasm/issues
+catalogue-contact-development https://github.com/khaledhosny/dviasm
+catalogue-contact-repository https://github.com/khaledhosny/dviasm
+catalogue-ctan /dviware/dviasm
+catalogue-date 2019-02-05 14:03:53 +0100
+catalogue-license gpl3
+catalogue-topics dvi-struc

@@ -1,0 +1,21 @@
+name catechis
+category Package
+revision 49061
+shortdesc Macros for typesetting catechisms
+longdesc The macros include: format for question-and-answer; comments on
+longdesc answers; lengthier explanations of answers; citations. The
+longdesc formatting of all the macros is highly (and simply)
+longdesc customizable.
+containersize 1664
+containerchecksum 2fb8f8ae6f9e597740edbdd0e686f9715dbd4ad2df2cf9d3737b09d1ef496582e243b8e21414fab8cb89d3d5a8ad30a4d82276551ad6fa548895c6cbc7612cb9
+doccontainersize 395344
+doccontainerchecksum 2273842b6b0222c98736fe6338eec505e5a75ca45d180c259bb3073ed47a5d0bab65fbb95630076f764db64d978ad8b3dbdb6a12775d2af3ea730c9d1b938bf6
+srccontainersize 6420
+srccontainerchecksum bd78292392877d0694fc085ab92e64ea47df555103ac745c8a0751ac445d0c74a034bfa9be1b39a3e16c0578da7bb68c7635a359f3caf69a2dd3d03ad21b51fb
+runfiles size=1
+ texmf-dist/tex/latex/catechis/catechis.sty
+catalogue-ctan /macros/latex/contrib/catechis
+catalogue-date 2018-11-02 22:33:14 +0100
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 2.5

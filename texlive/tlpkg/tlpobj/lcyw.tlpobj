@@ -1,0 +1,25 @@
+name lcyw
+category Package
+revision 15878
+shortdesc Make Classic Cyrillic CM fonts accessible in LaTeX
+longdesc The package makes the classic CM Cyrillic fonts accessible for
+longdesc use with LaTeX.
+containersize 3996
+containerchecksum 324a9eb8f1a68124888ad7d4f35dd0446c917e643e2cdcfa041ca26b719ccdc541b9b89857aa05dea2d599912c506561c762d288ccc86d637fd927cc70bf910d
+doccontainersize 107760
+doccontainerchecksum c063b6b5d23bd0a7197f5bd3121c93237c24f0a77fbc72cb370a7cd535282151731ef03098c36d8152707c50808c1b996fd1adaf16185bd3d0e3589e85b67981
+srccontainersize 7420
+srccontainerchecksum 5303052e625fa1e07a3e54a682a11469f0b14697fad5658f2eb6d0266dfa25e6f66bd752265a3ca99dab138200711b48cadb29d8b1a1a878a59f5c5e112aa860
+runfiles size=10
+ texmf-dist/tex/latex/lcyw/cmap-cyr-vf.sty
+ texmf-dist/tex/latex/lcyw/koi7a.cmap
+ texmf-dist/tex/latex/lcyw/lcywcmr.fd
+ texmf-dist/tex/latex/lcyw/lcywcmss.fd
+ texmf-dist/tex/latex/lcyw/lcywcmssq.fd
+ texmf-dist/tex/latex/lcyw/lcywcmtt.fd
+ texmf-dist/tex/latex/lcyw/lcywenc.def
+catalogue-ctan /macros/latex/contrib/lcyw
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp
+catalogue-version 1.1

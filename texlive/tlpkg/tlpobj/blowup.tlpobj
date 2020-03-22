@@ -1,0 +1,23 @@
+name blowup
+category Package
+revision 46213
+shortdesc Upscale or downscale all pages of a document
+longdesc The package blowup only defines the user-level macro \blowUp,
+longdesc which can be used to upscale or downscale all pages of a
+longdesc document. It is similar to the TeX primitive \magnification but
+longdesc more accurate and user-friendly.
+containersize 2644
+containerchecksum 6ccf18bd12423d3a561e59a2ed9c8e2c7586fa65e47ab784c71111318fe370615acec672ca0e89bde159ec946abc1d4233f8367cc2e6f6f28f3f52dae6bc93e1
+doccontainersize 317720
+doccontainerchecksum 962ab6dbac803f5043df96d178452da2e4ec2db96a7fe9a8400eff658e61169faff501cab3e7e078a18738d683c3bf1ec09a14f70fecbe5c8190b35101196ce2
+srccontainersize 5160
+srccontainerchecksum 6dad611292dae9ea8fe308beb3796e350a3beeaafc16f53b19d49863d5ab4321a94dfe41b6c0ecce236c922a4e0ef766082656bc41583bcbec42d7ccaa35d544
+runfiles size=2
+ texmf-dist/tex/latex/blowup/blowup.sty
+catalogue-contact-bugs https://github.com/rolfn/blowup/issues
+catalogue-contact-repository https://github.com/rolfn/blowup
+catalogue-ctan /macros/latex/contrib/blowup
+catalogue-date 2018-01-08 05:32:27 +0100
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 1.0

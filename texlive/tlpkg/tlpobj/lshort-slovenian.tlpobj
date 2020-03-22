@@ -1,0 +1,16 @@
+name lshort-slovenian
+category Package
+revision 15878
+shortdesc Slovenian translation of lshort
+longdesc A Slovenian translation of the Not So Short Introduction to
+longdesc LaTeX 2e.
+containersize 452
+containerchecksum 933781a7b3b3481ad955aa346fd1011f9e6f8b27cdb4461f081a31331e8dd5fdcde72851b44aebfd9707a422c133099790d1f304c9f24f35d9fe2e12927061e8
+doccontainersize 1390728
+doccontainerchecksum 21a7611b67d9baa0065df15e86b38872f057bd4b3ed2a337e19f52a5ec49b409f4b1297d7d0ec951f40d0b1b4cd18cba1f1ae33228142ac27178520579659065
+catalogue-contact-home http://www-lp.fmf.uni-lj.si/plestenjak/vaje/latex/latex.htm
+catalogue-ctan /info/lshort/slovenian
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics slovenian tut-latex
+catalogue-version 4.20

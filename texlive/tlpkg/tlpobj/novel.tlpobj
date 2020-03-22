@@ -1,0 +1,42 @@
+name novel
+category Package
+revision 47492
+shortdesc Class for printing fiction, such as novels
+longdesc This LuaLaTeX document class is specifically written to meet
+longdesc the needs of original fiction writers, who are typesetting
+longdesc their own novels for non-color print-on-demand technology.
+longdesc Built-in PDF/X is available, using new technology. The package
+longdesc is well suited for detective novels, science fiction, and short
+longdesc stories. It is however not recommended for creating color
+longdesc picture books or dissertations.
+containersize 120912
+containerchecksum ab6fd183a8f1fefa9d7e56fd234cf577bfbfbf6635d8e8fb6665e05b5d2f98dacf285731b32df64abc3d314865409003d89a935e2af2cce8990e0cc3c4510998
+doccontainersize 4672576
+doccontainerchecksum 3e1bf9313cf7e52f1d08f94b24be24153f4f2b68c19517e5be81c2bd224033fbfff5a17857866ad274cc54a96c0bb9f9da6536af5213bd561ea48b7ebb4e7cdb
+runfiles size=104
+ texmf-dist/fonts/opentype/novel/NovelDeco.otf
+ texmf-dist/tex/lualatex/novel/novel-CGATSTR001.clo
+ texmf-dist/tex/lualatex/novel/novel-CalculateLayout.sty
+ texmf-dist/tex/lualatex/novel/novel-ChapterScene.sty
+ texmf-dist/tex/lualatex/novel/novel-DropCap.sty
+ texmf-dist/tex/lualatex/novel/novel-FOGRA39.clo
+ texmf-dist/tex/lualatex/novel/novel-FileData.sty
+ texmf-dist/tex/lualatex/novel/novel-Fonts.sty
+ texmf-dist/tex/lualatex/novel/novel-Footnotes.sty
+ texmf-dist/tex/lualatex/novel/novel-HeadFootStyles.sty
+ texmf-dist/tex/lualatex/novel/novel-Images.sty
+ texmf-dist/tex/lualatex/novel/novel-JC200103.clo
+ texmf-dist/tex/lualatex/novel/novel-LayoutSettings.sty
+ texmf-dist/tex/lualatex/novel/novel-Obsolete.sty
+ texmf-dist/tex/lualatex/novel/novel-PostLayout.sty
+ texmf-dist/tex/lualatex/novel/novel-Sandbox.sty
+ texmf-dist/tex/lualatex/novel/novel-TextMacros.sty
+ texmf-dist/tex/lualatex/novel/novel-microtype.cfg
+ texmf-dist/tex/lualatex/novel/novel-pdfx.sty
+ texmf-dist/tex/lualatex/novel/novel-xmppacket.sty
+ texmf-dist/tex/lualatex/novel/novel.cls
+catalogue-ctan /macros/luatex/latex/novel
+catalogue-date 2018-04-28 21:25:48 +0200
+catalogue-license lppl1.3cofl
+catalogue-topics luatex production book-pub class
+catalogue-version 1.52

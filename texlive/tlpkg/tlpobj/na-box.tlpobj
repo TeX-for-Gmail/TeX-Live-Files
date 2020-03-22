@@ -1,0 +1,19 @@
+name na-box
+category Package
+revision 45130
+shortdesc Arabic-aware version of pas-cours package
+longdesc This is a modified version of the pas-cours package made
+longdesc compatible with XeLaTeX/polyglossia to write arabic documents
+longdesc with fancy boxed theorem-alike environments.
+containersize 2952
+containerchecksum 8b0659454d8324ca51c9e97f7957a3c14230dca0b4b8e047b961bad1b81d2a8b0220cf275bf84e9aae6a3d601fe93df3de94f603a198f6bea716064ae8675d0f
+doccontainersize 978596
+doccontainerchecksum 2c78a71155eab3cfdf551830051dd360f6e9fc8085ebe364c13a79a1ebda0693d633e7ba08e31c356e46140c33bf3b190365cb88d944d2b3e8c0799ff68cdc8f
+runfiles size=3
+ texmf-dist/tex/xelatex/na-box/na-box.sty
+catalogue-also pas-cours
+catalogue-ctan /macros/xetex/latex/na-box
+catalogue-date 2017-08-28 05:03:56 +0200
+catalogue-license lppl
+catalogue-topics teaching
+catalogue-version 1.0

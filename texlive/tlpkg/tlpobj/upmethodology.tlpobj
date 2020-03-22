@@ -1,0 +1,37 @@
+name upmethodology
+category Package
+revision 46037
+shortdesc Writing specifications such as for UP-based methodologies
+longdesc The bundle allows the user to create Unified Process
+longdesc methodology (UP or RUP) based documents. The style provides
+longdesc document versioning, document history, document authors,
+longdesc document validators, specification description, task
+longdesc management, and several helping macros.
+containersize 28372
+containerchecksum dff2da078ce7e5f3883a12f0f76cd63e8877eb6002e131d7267660235661fa745ca66a3a4a83d91040ed68da24136ac9474f533183e37a59070e3a052187c883
+doccontainersize 527240
+doccontainerchecksum 015889cbbf68a985064250ff46ee392a54a92b7869684bde901369199f1274f105131d69bbb8100198f2c586fb2c38d26e0219f0f69aa701eb0a7ea7563c5982
+runfiles size=46
+ texmf-dist/bibtex/bst/upmethodology/upmplainnat.bst
+ texmf-dist/tex/latex/upmethodology/UPMVERSION.def
+ texmf-dist/tex/latex/upmethodology/upmethodology-backpage.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-code.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-document.cls
+ texmf-dist/tex/latex/upmethodology/upmethodology-document.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-extension.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-fmt.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-frontpage.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-p-common.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-spec.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-task.sty
+ texmf-dist/tex/latex/upmethodology/upmethodology-version.sty
+catalogue-contact-bugs https://github.com/gallandarakhneorg/tex-upmethodology/issues
+catalogue-contact-development https://github.com/gallandarakhneorg/tex-upmethodology
+catalogue-contact-home http://www.arakhne.org/tex-upmethodology
+catalogue-contact-repository https://github.com/gallandarakhneorg/tex-upmethodology
+catalogue-contact-support https://github.com/gallandarakhneorg/tex-upmethodology
+catalogue-ctan /macros/latex/contrib/upmethodology
+catalogue-date 2018-10-09 09:45:09 +0200
+catalogue-license lgpl3
+catalogue-topics doc-mgmt
+catalogue-version 20171210

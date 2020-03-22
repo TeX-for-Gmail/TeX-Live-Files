@@ -1,0 +1,22 @@
+name francais-bst
+category Package
+revision 38922
+shortdesc Bibliographies conforming to French typographic standards
+longdesc The package provides bibliographies (in French) conforming to
+longdesc the rules in "Guide de la communication ecrite" (Malo, M.,
+longdesc Quebec Amerique, 1996. ISBN 978-2-8903-7875-9) The BibTeX
+longdesc styles were generated using custom-bib and they are compatible
+longdesc with natbib
+containersize 8296
+containerchecksum b271711badae8883426ffa2783a2f942c9d37303fb4cfa8b4a2ec2f8999dd150060dae6689bef17d2120cc7489896ffa497ccb1f7f693d5db9a8ca5ef6747f21
+doccontainersize 1880
+doccontainerchecksum b3a53111f7fcfe972c0722e8600b3115b6e1a93631568d9bdb1f824b8185d4c78fbb135c4593856e3766404fc8e4c005daaf017e5c1552dc452c57e943832e14
+runfiles size=19
+ texmf-dist/bibtex/bst/francais-bst/francais.bst
+ texmf-dist/bibtex/bst/francais-bst/francaissc.bst
+ texmf-dist/tex/latex/francais-bst/francaisbst.tex
+catalogue-ctan /biblio/bibtex/contrib/francais-bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-sty french
+catalogue-version 1.1

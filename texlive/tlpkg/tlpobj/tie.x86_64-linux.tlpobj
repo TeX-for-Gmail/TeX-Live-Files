@@ -1,0 +1,8 @@
+name tie.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of tie
+containersize 34308
+containerchecksum f347c2c9a12bc17c72fb072b1ae6fcdc0d96067a4a45a0e0ada24a93c462e41dfe002a8d85a273f34549c653268f5633977c387903f80d97b28fd8395a63959c
+binfiles arch=x86_64-linux size=20
+ bin/x86_64-linux/tie

@@ -1,0 +1,24 @@
+name ccfonts
+category Package
+revision 17122
+shortdesc Support for Concrete text and math fonts in LaTeX
+longdesc LaTeX font definition files for the Concrete fonts and a LaTeX
+longdesc package for typesetting documents using Concrete as the default
+longdesc font family. The files support OT1, T1, TS1, and Concrete
+longdesc mathematics including AMS fonts (Ulrik Vieth's concmath).
+containersize 2116
+containerchecksum 0affcca65346d83ddfdd9f2d6a9bd9baf41113b396a99c76c88801b1d509f3e9d6168f0a4659a5cd440bb46fff996d5f3361ba342e11c902d0866f616e0d41c9
+doccontainersize 190000
+doccontainerchecksum 6a08c3f13c5ece4ebd67ff1463a4c27c1b5b114fa777e916c034a66dca5c8c85bfc138394ae9c2955182f68f34a91ad57eb4834f749e7107b0a311e0eb61848e
+srccontainersize 5728
+srccontainerchecksum 2d560016ccd3e2c6593e5d06b4cbcf1ac238d3bb0b0d9632bff8f69720bc0cd1b20d2f7e3bc33f3204820abba18995467758db492b9f91fe1850f1eae55487b9
+runfiles size=3
+ texmf-dist/tex/latex/ccfonts/ccfonts.sty
+ texmf-dist/tex/latex/ccfonts/t1ccr.fd
+ texmf-dist/tex/latex/ccfonts/ts1ccr.fd
+catalogue-also ecc
+catalogue-ctan /macros/latex/contrib/ccfonts
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp
+catalogue-version 1.1

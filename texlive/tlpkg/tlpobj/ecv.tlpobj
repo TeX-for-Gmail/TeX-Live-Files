@@ -1,0 +1,25 @@
+name ecv
+category Package
+revision 24928
+shortdesc A fancy Curriculum Vitae class
+longdesc The class provides an environment for creating a fancily laid
+longdesc out tabular curriculum vitae inspired by the european
+longdesc curriculum vitae. The distribution comes with a German and an
+longdesc English template.
+containersize 3792
+containerchecksum 0ff0a352516aa90a19eb1a0a9bdc651601edc63f03c5cce9face4bd45b359734d954e2b7859a0244015e3933eaa2d3803d5579ab9260dde51a0ec89db8034910
+doccontainersize 252048
+doccontainerchecksum 1cb8871b552a3d91fb59c644ea98373742ba9bfea64a92911f67f2795afaf01babe82a691fb3344f236e42b92860b754d7e92132b266713948cd1a6af13c58d7
+srccontainersize 10184
+srccontainerchecksum e17e9d577cb3a562a381c8ee8a09e7b3bbdd236812fd9e647b72fa18d6f7b11c9a44f70376d5dfdf2a3b81d1480b055d23e8889661b557e88c03f02eed033946
+runfiles size=6
+ texmf-dist/tex/latex/ecv/ecv.cls
+ texmf-dist/tex/latex/ecv/ecvEnglish.ldf
+ texmf-dist/tex/latex/ecv/ecvGerman.ldf
+ texmf-dist/tex/latex/ecv/ecvNLS.sty
+catalogue-also curve europecv
+catalogue-ctan /macros/latex/contrib/ecv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics cv class
+catalogue-version 0.3

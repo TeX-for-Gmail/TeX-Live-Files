@@ -1,0 +1,18 @@
+name lcdftypetools.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of lcdftypetools
+containersize 679632
+containerchecksum 1c8965934e922531d5b02b3e38453ef4bca8cb188eae9d75f6c614ae80c4ff607840ca9acb580e6c98a61affa68da9f00beafb8db9ffeda96e5eb03290378099
+binfiles arch=x86_64-linux size=1120
+ bin/x86_64-linux/cfftot1
+ bin/x86_64-linux/mmafm
+ bin/x86_64-linux/mmpfb
+ bin/x86_64-linux/otfinfo
+ bin/x86_64-linux/otftotfm
+ bin/x86_64-linux/t1dotlessj
+ bin/x86_64-linux/t1lint
+ bin/x86_64-linux/t1rawafm
+ bin/x86_64-linux/t1reencode
+ bin/x86_64-linux/t1testpage
+ bin/x86_64-linux/ttftotype42

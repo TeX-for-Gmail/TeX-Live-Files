@@ -1,0 +1,8 @@
+name xindex.x86_64-linux
+category Package
+revision 49312
+shortdesc x86_64-linux files of xindex
+containersize 344
+containerchecksum bac65355a8c650bb5c99215c21370e40825b34b8646bedd8f641670c728e766f69a1f871d1b9d6302bf6de6217b058b02424b153727d374ef07732324fbf8258
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/xindex

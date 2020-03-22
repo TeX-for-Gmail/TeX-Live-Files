@@ -1,0 +1,24 @@
+name flowfram
+category Package
+revision 35291
+shortdesc Create text frames for posters, brochures or magazines
+longdesc The flowfram package enables you to create frames in a document
+longdesc such that the contents of the document environment flow from
+longdesc one frame to the next in the order in which they were defined.
+longdesc This is useful for creating posters or magazines, indeed any
+longdesc form of document that does not conform to the standard one or
+longdesc two column layout.
+containersize 24376
+containerchecksum 880869c22914392c4ade9dddeaffb20d6c6edb6da78d30705d9f6aa1b1352ba2734565fa8c2a6851e81f1107573753748d3f4d208bbbc4c0dc443c066e912719
+doccontainersize 1763756
+doccontainerchecksum 25924c121d2feedc7d815e4510b89f05000eef87efae8039c6566136b7fa92d6d4d9f25f2938363dcce8222d5c824d42894e4863b95e422b7949207a1e1daccf
+srccontainersize 55788
+srccontainerchecksum 993d60da76f1144524f9ece2c5c9ba0eb38526111a7cbaf6bb5c669eea790c1ab9519f4e7dc2bc955c611fadf5771f2d9b6582d753b4cf3b79038b2bdd29837a
+runfiles size=58
+ texmf-dist/scripts/flowfram/flowfram.perl
+ texmf-dist/tex/latex/flowfram/flowfram.sty
+catalogue-ctan /macros/latex/contrib/flowfram
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics layout poster magazine
+catalogue-version 1.17

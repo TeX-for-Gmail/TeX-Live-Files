@@ -1,0 +1,17 @@
+name impatient-fr
+category Package
+revision 15878
+catalogue impatient
+shortdesc Free edition of the book "TeX for the Impatient"
+longdesc "TeX for the Impatient" is a book (of around 350 pages) on TeX,
+longdesc Plain TeX and Eplain. The book is also available in French and
+longdesc Chinese translations.
+containersize 516
+containerchecksum 41bec2d1167dc2f57a09d0028411147f8bf31d5e020408bebbd1b6c6577d531a38f83ae395146da699a53d9504f7f6ec1ab5edc5d6b559527867b352e4a8a551
+doccontainersize 1576668
+doccontainerchecksum ca3f388df4f17940ffc3b27ec1bb6d07d3b8728d8de011975b4f2696a96eadb45f208f5455890491af6fb169c30d6cbc6849dd3d25b6aad0284f0a65a81c8e9e
+catalogue-contact-repository http://savannah.gnu.org/projects/teximpatient
+catalogue-ctan /info/impatient
+catalogue-date 2017-11-11 18:38:56 +0100
+catalogue-license fdl
+catalogue-topics book-src tut-plaintex french-doc chinese-doc

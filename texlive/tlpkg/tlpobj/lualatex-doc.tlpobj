@@ -1,0 +1,18 @@
+name lualatex-doc
+category Package
+revision 30473
+shortdesc A guide to use of LaTeX with LuaTeX
+longdesc The document is a map/guide to the world of LuaLaTeX. Coverage
+longdesc supports both new users and package developers. Apart from the
+longdesc introductory material, the document gathers information from
+longdesc several sources, and offers links to others.
+containersize 508
+containerchecksum a1d98422b13a26aa844213df2929629889ed6bfe3fa16c27f6376f00f038a50dd32c5128a27ecdd872d3fce8372fb93ec603c0c92edb8692325f1e76fca685d1
+doccontainersize 112928
+doccontainerchecksum 0756a0183d0b7b302f24cd16a8957915a69a3db3fe4a8a4fc301e246a0563f9fe81ce2af667b7bcfa45717b605be163cc5fd4c170d8584028f2ee7b2120390c6
+srccontainersize 15188
+srccontainerchecksum a18a7644b50ad608dbb2bbfc15f2672fe7b9a48505c3224dcb46aa97b2d57b5a007c928dd5b76518c8963970bb1b8b56bed8e5c374ba5cb18a9521528dfdd58f
+catalogue-ctan /info/luatex/lualatex-doc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics luatex-doc

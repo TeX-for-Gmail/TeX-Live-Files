@@ -1,0 +1,13 @@
+name translation-chemsym-de
+category Package
+revision 23804
+shortdesc German version of chemsym
+longdesc This is a "translation" of the chemsym documentation.
+containersize 396
+containerchecksum e23821fc1bbdee758e534bb52c4e0f348d6be3396ca2d8e3c11c9425132fc9c28f2bf6c98cb1beee9b23716cc1a75704561d9d8f16d2f4e94851fc2f88e0895a
+doccontainersize 141988
+doccontainerchecksum efe9f711c42925fd035339c25284e09ca7a99c246bf70ef2c15c4f1149accf5bab09e396b94d6d59d4e8c303bfdb3f40570912713dcbd33e7ae360a6b21c36de
+catalogue-ctan /info/translations/chemsym/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics chemistry german-doc translation

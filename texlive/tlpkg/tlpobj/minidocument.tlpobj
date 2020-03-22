@@ -1,0 +1,22 @@
+name minidocument
+category Package
+revision 43752
+shortdesc Creates miniature documents inside other LaTeX documents
+longdesc This package can be used to create miniature documents inside
+longdesc other LaTeX documents. Inside the minidocument all features of
+longdesc the outer vertical mode like page breaking, floats, marginpars,
+longdesc etc. are available.
+containersize 1464
+containerchecksum 33a7938dc25833faef05245d00219ad4d94902d1b5a8f63de8c08448da1f4ddd8e305cd261a3051df919b097f0b3b82081b57fa420e773dc89a1c8cb801ba463
+doccontainersize 188224
+doccontainerchecksum 03ac398f6f8e79003b155434992a53b1485032ef779e5fa05a43adf7528fec1966ba94731ab2fc11cdfadce51bfca6ca9d1a88f882ca87f08d8e4077896af4c3
+srccontainersize 3616
+srccontainerchecksum 556f1c482366f1bf2bd6e2f4e92f0fb811d97e91e057994605a2794f9441f2df35bcd2e2dc4d6218e980e921b7d7a03e5ea2613b6d27d8258985521ecde2dbf0
+runfiles size=1
+ texmf-dist/tex/latex/minidocument/minidocument.sty
+catalogue-also subfiles
+catalogue-ctan /macros/latex/contrib/minidocument
+catalogue-date 2018-01-07 12:14:32 +0100
+catalogue-license lppl1.3
+catalogue-topics subdocs
+catalogue-version 1.0

@@ -1,0 +1,18 @@
+name uassign
+category Package
+revision 38459
+shortdesc Environments and options for typesetting university assignments
+longdesc The purpose of this package is to provide simple question and
+longdesc solution style environments for typesetting university
+longdesc assignments.
+containersize 1984
+containerchecksum 3e61f381e23c30670fe78c4a54d99970bd05883e6fa03040e7123fb0936aabf51341d64aeff92109fdc33b7b97f40aa0cd81fd6624d9449584aef1fa3061070b
+doccontainersize 106832
+doccontainerchecksum e6569cdac6854bc1856d6a4604589619ecbf317442018790eabc3332723dc167a879e7ca6be0da8c281847e757ddada005daaa3b8712f7697ea4052b9c9f7cf9
+runfiles size=2
+ texmf-dist/tex/latex/uassign/uassign.sty
+catalogue-ctan /macros/latex/contrib/uassign
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class
+catalogue-version 1.01

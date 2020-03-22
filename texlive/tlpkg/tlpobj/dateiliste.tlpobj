@@ -1,0 +1,21 @@
+name dateiliste
+category Package
+revision 27974
+shortdesc Extensions of the \listfiles concept
+longdesc The package provides a file list (similar to that offered by
+longdesc \listfiles), neatly laid out as a table. The main document can
+longdesc be included in the list, and a command is available for
+longdesc providing RCS-maintained data for printing in the file list.
+containersize 4264
+containerchecksum 6da6a802994a06e040d43ac7fc9db0515d9273ba9d4cac061e04b05922f9eb9fecaf138eb641b3149be7b98f9139c428084b6470bc177a020386e0dc053427b6
+doccontainersize 233644
+doccontainerchecksum 53ca32cabd7e3a32d02c77beb076b08ccaa782b6a2ae249b932242987741f0e255bdc83a2b6ccc7ed2e0efbec66923798026040745152f7244984a0843c8c23d
+srccontainersize 22632
+srccontainerchecksum 563840e069cd1e1c1e9b1774c5c3ee8b1703305fac3fd5f58a0afe76f154210150be05f779a94717c227978d2a1317a10f5b6232f51dc7b3e422638b84b2ce95
+runfiles size=4
+ texmf-dist/tex/latex/dateiliste/dateiliste.sty
+catalogue-ctan /macros/latex/contrib/dateiliste
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-mgmt
+catalogue-version 0.6

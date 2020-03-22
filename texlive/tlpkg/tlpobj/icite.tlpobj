@@ -1,0 +1,25 @@
+name icite
+category Package
+revision 50429
+shortdesc Indices locorum citatorum
+longdesc The package is designed to produce from BibTeX or BibLaTeX
+longdesc bibliographical databases the different indices of authors and
+longdesc works cited which are called indices locorum citatorum. It
+longdesc relies on a specific \icite command and can operate with either
+longdesc BibTeX or BibLaTeX.
+containersize 2404
+containerchecksum 1a71e185bf65c65f64ffe49d4b7cda415bdec89a7f92fa45914c0adccc2b1430f0022f9c789c2e13c2acb0a780ef90360a22247ba2aecc171a3fc6e06b8f05b0
+doccontainersize 286244
+doccontainerchecksum efad2e573358b64b6d6146fa80011b033e4acd7435d9b0e32778240cf8051c732f1617614cd4ab56c91a03260b203084aa5c15c03208bc86686ad18d2c75e93c
+srccontainersize 14448
+srccontainerchecksum a0c728f3896f269ab6f91945e1ac984bd3b6774525567f8f196c46ea8edba2cc5f6e6886b26a9ecbd2b1452e9980ccf4e3ae7a7a5dee852c073cb9349a6a874e
+runfiles size=2
+ texmf-dist/tex/latex/icite/icite.sty
+catalogue-contact-bugs https://gitlab.com/ralessi/icite/issues
+catalogue-contact-home http://www.robertalessi.net/icite
+catalogue-contact-repository http://git.robertalessi.net/icite
+catalogue-ctan /macros/latex/contrib/icite
+catalogue-date 2019-03-17 20:42:34 +0100
+catalogue-license gpl3+cc-by-sa-4
+catalogue-topics biblatex index bibtex-supp humanities cite-supp
+catalogue-version 1.2

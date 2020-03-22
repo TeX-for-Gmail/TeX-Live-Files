@@ -1,0 +1,21 @@
+name mathfam256
+category Package
+revision 46412
+shortdesc Extend math family up to 256 for pLaTeX/upLaTeX/Lamed
+longdesc This package increases the upper limit of math symbols up to
+longdesc 256, using \omath... primitives. These primitives were
+longdesc originally introduced in Omega and are currently available in
+longdesc the following formats: pLaTeX (runs on e-pTeX), upLaTeX (runs
+longdesc on e-upTeX), Lamed (runs on Aleph, successor of Omega).
+containersize 3528
+containerchecksum 941f8e9ba79106482b489852690c8a2451a182608ebc4be5f34de9ed1b094b2df50c2127f3c33e78f26231069e3b62ed1fbcea89734395672f6d8b52c2152686
+doccontainersize 85204
+doccontainerchecksum 4a5558b33b7cd8a22977696f93f1ce598e2435e894c28e2a73c5dc13d94ed6aee2e0c3b01746ca337518db949a37dc2b5bbcf59c2df41c8f5e9ef3b81811555b
+runfiles size=4
+ texmf-dist/tex/latex/mathfam256/mathfam256.sty
+catalogue-contact-repository https://github.com/aminophen/mathfam256
+catalogue-ctan /macros/latex/contrib/mathfam256
+catalogue-date 2018-01-24 04:32:31 +0100
+catalogue-license bsd3
+catalogue-topics maths omega japanese etex
+catalogue-version 0.2

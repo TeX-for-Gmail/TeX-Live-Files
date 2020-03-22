@@ -1,0 +1,27 @@
+name asapsym
+category Package
+revision 40201
+shortdesc Using the free ASAP Symbol font with LaTeX and Plain TeX
+longdesc The package provides macros (usable with LaTeX or Plain TeX)
+longdesc for using the freely available ASAP Symbol font, which is also
+longdesc included. The font is distributed in OpenType format, and makes
+longdesc extensive use of OpenType features. Therefore, at this time,
+longdesc only XeTeX and LuaTeX are supported. An error message is issued
+longdesc if an OTF-capable engine is not detected.
+containersize 47244
+containerchecksum 9a683044f23fdec0547199afbc0f0c6c9de8faf01f09df38de324f53e91f446de867e951e187ec77bd63cc65bb92ba2fd7bc290d54650ce24e02b682cd10a941
+doccontainersize 120516
+doccontainerchecksum 4462b37c6575ba0f3e95c29e1d84eafaadc562da19ec58a604bb6ef677fb9b9d35fa68a6f2c81d8dafc35dec9f904cee9d3fdfe0c2031de928862324e83d8663
+srccontainersize 5968
+srccontainerchecksum 54325810653a14ba0ebe67b92341fa151e5bade3ba23e97c67c2bada6bf43ab16d5e0d11eb4c59075c48bddd9eebe44ddbca5accc331e6b26081abbdb95e3e86
+runfiles size=20
+ texmf-dist/fonts/opentype/omnibus-type/asapsym/Asap-Symbol.otf
+ texmf-dist/tex/generic/asapsym/asapsym-generic.tex
+ texmf-dist/tex/latex/asapsym/asapsym.sty
+ texmf-dist/tex/plain/asapsym/asapsym.code.tex
+catalogue-contact-repository https://github.com/pdgessler/asapsym
+catalogue-ctan /fonts/asapsym
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics font-symbol font-otf
+catalogue-version 1.0

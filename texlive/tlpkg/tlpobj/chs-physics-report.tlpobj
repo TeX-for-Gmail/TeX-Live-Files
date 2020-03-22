@@ -1,0 +1,23 @@
+name chs-physics-report
+category Package
+revision 48549
+shortdesc Physics lab reports for Carmel High School
+longdesc This package may optionally be used by students at Carmel High
+longdesc School in Indiana in the United States to write physics lab
+longdesc reports for FW physics courses. As many students are beginners
+longdesc at LaTeX, it also attempts to simplify the report-writing
+longdesc process by offering macros for commonly used notation and by
+longdesc automatically formatting the documents for students who will
+longdesc only use TeX for mathematics and not typesetting. The package
+longdesc depends on amsmath, calc, fancyhdr, geometry, graphicx,
+longdesc letltxmacro, titlesec, transparent, and xcolor.
+containersize 2844
+containerchecksum e1af3e29e5b59545804d7ac7f3cfd0c7463fa9487c458ff3790a2b434151cfec925863bc2d107e5eb6e43c988d85136eaabe28065bf95b04836a8342d5626d23
+doccontainersize 194616
+doccontainerchecksum 3f87d4b32e3257a22e0e7146a89ab2fc90f796d524b0641ea0ec51ff7328518854d226f5405220d7f5466a138bdfecb6d1c6f8b056781e985cc1cc757d0f26e0
+runfiles size=2
+ texmf-dist/tex/latex/chs-physics-report/chs-physics-report.sty
+catalogue-ctan /macros/latex/contrib/chs-physics-report
+catalogue-date 2018-09-06 05:15:28 +0200
+catalogue-license pdcc-by-sa-3
+catalogue-topics physics report-like

@@ -1,0 +1,18 @@
+name voss-mathcol
+category Package
+revision 32954
+shortdesc Typesetting mathematics in colour, in (La)TeX
+longdesc This is a short paper from the TeXnische Komodie, in German.
+longdesc Since the body of the paper is dominated by clear LaTeX coding
+longdesc examples, most LaTeX programmers will understand how to achieve
+longdesc the results shown in the diagrams, even if they don't
+longdesc understand German.
+containersize 548
+containerchecksum cec0ea20b409192c618278001045352ca6c4c11c8eda59633a9bb65ebb7a89c8c1db4046936a7f0096f52efca8a251501fccf7890288ed830f13e0b24b1bb017
+doccontainersize 230644
+doccontainerchecksum 5d91b23d9eb45998282731620097f214b274ee744972b3d7fbeda1be2268799572f36b5f4c8b707f48e8ec2d825438bcdcee7f1376531f366af8949a862ff379
+catalogue-ctan /info/math/voss/mathCol
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tutorial maths-doc
+catalogue-version 0.1

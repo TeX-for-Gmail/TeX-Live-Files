@@ -1,0 +1,20 @@
+name russ
+category Package
+revision 25209
+shortdesc LaTeX in Russian, without babel
+longdesc The package aims to facilitate Russian typesetting (based on
+longdesc input using MicroSoft Code Page 1251). Russian hyphenation is
+longdesc selected, and various mathematical commands are set up in
+longdesc Russian style. Furthermore all Cyrillic letters' catcodes are
+longdesc set to "letter", so that commands with Cyrillic letters in
+longdesc their names may be defined.
+containersize 25540
+containerchecksum 11bceea67aae767037d728ab7892eedab312e9477f1f9f7501f9702fca4ceea4e21bd575b1589fb545abdbdc5f5f5315243f77adb4c9b9a2507fb255481c5541
+doccontainersize 297660
+doccontainerchecksum 876cba326071d0f347d9a1a4c1eca692ca743729b9604a51bb5b53de96da6006ff24168040e77df60b1999cb22901b7318669c32378a869081956dde40974802
+runfiles size=50
+ texmf-dist/tex/latex/russ/russ.sty
+catalogue-ctan /macros/latex/contrib/russ
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics russian

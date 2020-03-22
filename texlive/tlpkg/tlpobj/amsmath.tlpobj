@@ -1,0 +1,38 @@
+name amsmath
+category Package
+revision 49390
+catalogue latex-amsmath
+shortdesc AMS mathematical facilities for LaTeX
+longdesc The package provides the principal packages in the AMS-LaTeX
+longdesc distribution. It adapts for use in LaTeX most of the
+longdesc mathematical features found in AMS-TeX; it is highly
+longdesc recommended as an adjunct to serious mathematical typesetting
+longdesc in LaTeX. When amsmath is loaded, AMS-LaTeX packages amsbsy
+longdesc (for bold symbols), amsopn (for operator names) and amstext
+longdesc (for text embedded in mathematics) are also loaded. amsmath is
+longdesc part of the LaTeX required distribution; however, several
+longdesc contributed packages add still further to its appeal; examples
+longdesc are empheq, which provides functions for decorating and
+longdesc highlighting mathematics, and ntheorem, for specifying theorem
+longdesc (and similar) definitions.
+containersize 30004
+containerchecksum e39c997a6ed3162d1a4e1223096b8dde3ab87a18ea54296843ee858086dcd94e922a9ba969c3ee61ff6ff3989e1a968bd2163cddd9e266066f57e57a69b47518
+doccontainersize 2478972
+doccontainerchecksum 0789e2049bb711d3aae2759be4216f7189ec4751deb0e1ffc9ce1e14bed52e5b11f9d332bf3a56a9bc6637ff948554b9a1d0400c1487b1ecfd207b0f11b2bdf8
+srccontainersize 63740
+srccontainerchecksum 31b05fde489c1e95bfbc15e6b437dbc4d686aec75d007ee76cb303be2e9b374d32fc92d7c5409980111dcad26c597e3891772deb763276d8aa597f8c5360df79
+runfiles size=48
+ texmf-dist/tex/latex/amsmath/amsbsy.sty
+ texmf-dist/tex/latex/amsmath/amscd.sty
+ texmf-dist/tex/latex/amsmath/amsgen.sty
+ texmf-dist/tex/latex/amsmath/amsmath.sty
+ texmf-dist/tex/latex/amsmath/amsopn.sty
+ texmf-dist/tex/latex/amsmath/amstex.sty
+ texmf-dist/tex/latex/amsmath/amstext.sty
+ texmf-dist/tex/latex/amsmath/amsxtra.sty
+catalogue-also nath mathtools
+catalogue-contact-home http://www.ams.org/tex/amslatex.html
+catalogue-ctan /macros/latex/required/amsmath
+catalogue-date 2018-12-11 00:02:02 +0100
+catalogue-license lppl1.3c
+catalogue-topics maths

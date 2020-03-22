@@ -1,0 +1,15 @@
+name lshort-thai
+category Package
+revision 15878
+shortdesc Introduction to LaTeX in Thai
+longdesc This is the Thai translation of the Short Introduction to
+longdesc LaTeX2e.
+containersize 400
+containerchecksum 924081bb5ec18ffa92e92f71a5eb6da893ffe0b7460f757360e3bfdf15c08d4cbcad79b4d45cff702915b98ecea16212c4d5ab237c11410376677de527af71aa
+doccontainersize 474892
+doccontainerchecksum a9522c99f62a8f51eb751d220495526f40cc7581b8d0fb120d6e9510b1af68e2c97158ec54fb220dbab4fc8d0070c93027741b549d01cfc3892bf373e3320f4f
+catalogue-ctan /info/lshort/thai
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics thai tut-latex
+catalogue-version 1.32

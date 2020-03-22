@@ -1,0 +1,27 @@
+name combine
+category Package
+revision 19361
+shortdesc Bundle individual documents into a single document
+longdesc The combine class lets you bundle individual documents into a
+longdesc single document, such as when preparing a conference
+longdesc proceedings. The auxiliary combinet package puts the titles and
+longdesc authors from \maketitle commands into the main document's Table
+longdesc of Contents. The package cooperates with the abstract and
+longdesc titling packages.
+containersize 10568
+containerchecksum 9e57b01fa0a14556473764144dc3b5e4e3d40a7f913932b02826a68efdd952adc69e990ba75f6b5057d69850d3e693e1c5b5c40d2c3443aab2741ce9646d522e
+doccontainersize 463152
+doccontainerchecksum 4e09fd0a9b587d61da2c6a15579675b9a839c83f0b38b0f958b2f4aa2c0a49adf93730ebafa235043cf645d6b8689cbcc5916e4bba92b5e30ac87a8282402859
+srccontainersize 31336
+srccontainerchecksum 25df0ae6e799710f575de4aab975f774f53abb28e627547cf61fe68a4de18cd1f9fa3a8cfd242ecede15e6363734844a8ca37b49da7bb4efda6bc90f4f1da168
+runfiles size=16
+ texmf-dist/tex/latex/combine/combcite.sty
+ texmf-dist/tex/latex/combine/combine.cls
+ texmf-dist/tex/latex/combine/combinet.sty
+ texmf-dist/tex/latex/combine/combnat.sty
+catalogue-also docmute includex newclude standalone
+catalogue-ctan /macros/latex/contrib/combine
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics subdocs
+catalogue-version 0.7a

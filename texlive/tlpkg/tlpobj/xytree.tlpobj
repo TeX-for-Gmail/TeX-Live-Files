@@ -1,0 +1,19 @@
+name xytree
+category Package
+revision 15878
+shortdesc Tree macros using XY-Pic
+longdesc The package provides means to draw linguistic syntactic trees
+longdesc with ease and to support hopefully sufficient functionalities,
+longdesc that the linguist may need. The package (of course) depends on
+longdesc the XY-Pic package.
+containersize 3584
+containerchecksum fdabfc451679f7ef3752db2537a7dd51e9c0fd34337e429f24e44728ec1ee0a9b97fc2f176948440a5c1cda609182f60d4c564ddcd76c70e84410cc6a0b1f371
+doccontainersize 230760
+doccontainerchecksum 0e2b08c8db25a5bd992c8aa843d8f6fb2e0efb3c11ea9dd0ac69106cd71f58996f73786513e0ff13bfb54932f468297edbb981e3efccfec2652f80bb02fc6ba7
+runfiles size=3
+ texmf-dist/tex/latex/xytree/xytree.sty
+catalogue-ctan /macros/latex/contrib/xytree
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree linguistic
+catalogue-version 1.5

@@ -1,0 +1,22 @@
+name tram
+category Package
+revision 29803
+shortdesc Typeset tram boxes in LaTeX
+longdesc Tram boxes are highlighted with patterns of dots; the package
+longdesc defines an environment tram that typesets its content into a
+longdesc tram box. The pattern used may be selected in an optional
+longdesc argument to the environment.
+containersize 2528
+containerchecksum 4592a288c08f5bf6b41fdffee8129e08fec7397edb2b351617fe79571d2905be61cb776f87a5b152c4b62acefdf21ee2f0b293f210ce52f449d3b9e41833b2d5
+doccontainersize 29108
+doccontainerchecksum bfc46f516c2f81530ed7e648ef6774443502b580cf580b5fd5ea9f7be0311b33fb14156aca3f36bb4d74cc165dd33d0b8ef3ebbab5624f38239c281c7d7bda09
+runfiles size=2
+ texmf-dist/fonts/source/public/tram/tram.mf
+ texmf-dist/tex/latex/tram/tram.sty
+catalogue-contact-bugs https://github.com/bidi-tex/tram/issues
+catalogue-contact-repository https://github.com/bidi-tex/tram
+catalogue-ctan /macros/latex/contrib/tram
+catalogue-date 2018-11-28 21:10:31 +0100
+catalogue-license lppl
+catalogue-topics boxing decoration editorial
+catalogue-version 0.2

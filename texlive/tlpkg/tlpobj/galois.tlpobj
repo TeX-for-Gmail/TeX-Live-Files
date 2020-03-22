@@ -1,0 +1,19 @@
+name galois
+category Package
+revision 15878
+shortdesc Typeset Galois connections
+longdesc The package deals with connections in two-dimensional style,
+longdesc optionally in colour.
+containersize 2328
+containerchecksum 0c864940c2a47ad82f031868c1933679f9ee0e5ab01e98386433311a4230a77c7a5d41016619fbf7bb1957fecc259bd092d7a0894eedef91143a0d85e68a6978
+doccontainersize 87220
+doccontainerchecksum 7c71fe703efe235b3d1cf3298c99f2ba7dfbdc8d7c20861e8738070ef03b9671b1a4f6df40b2238d4b7cf9e765a1cfdc6210ea63ad06dfc60e0ac7a101735315
+srccontainersize 6452
+srccontainerchecksum f1f62a005edc9b6b5c1b294aedbfe00cff61c48f22d2fd0b90d76b1c6144fd9c8b885890e4a6c6e64e054ceb67b851c6fe3d9f2f1baf2801f070f0bd269d4925
+runfiles size=2
+ texmf-dist/tex/latex/galois/galois.sty
+catalogue-ctan /macros/latex/contrib/galois
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 1.5

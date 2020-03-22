@@ -1,0 +1,36 @@
+name pas-cv
+category Package
+revision 32263
+shortdesc Flexible typesetting of Curricula Vitae
+longdesc The package provides the framework for typesetting a Curriculum
+longdesc Vitae (composed in French), together with a number of "themes"
+longdesc that may be used with the package. (The use of the themes may
+longdesc be seen in the package's examples/ collection.) The author
+longdesc hints that conversion for use with other languages (than
+longdesc French) should be possible.
+containersize 8900
+containerchecksum 4dc3203c5888aeb3c613ddc16446d7ced1dbb8ee1c0f0d983fa010eaf81d5a0a7a9364381be04e10bb15a9f258d4ae086fdbc650ab8ca627b07cc286be1ce1ec
+doccontainersize 325552
+doccontainerchecksum 93460e4435546cdb2df20e4e1fd555a726e909e411d42068b6f16f8bce2fa90144e1db95cad4cb94430f65b9614d766be00fa8c3e781a1de733b189a0b4585e3
+runfiles size=21
+ texmf-dist/tex/latex/pas-cv/macro-andromede.tex
+ texmf-dist/tex/latex/pas-cv/macro-architecte.tex
+ texmf-dist/tex/latex/pas-cv/macro-centaure.tex
+ texmf-dist/tex/latex/pas-cv/macro-dynamique.tex
+ texmf-dist/tex/latex/pas-cv/macro-gaia.tex
+ texmf-dist/tex/latex/pas-cv/macro-jupiter.tex
+ texmf-dist/tex/latex/pas-cv/macro-mars.tex
+ texmf-dist/tex/latex/pas-cv/macro-neptune.tex
+ texmf-dist/tex/latex/pas-cv/macro-orion.tex
+ texmf-dist/tex/latex/pas-cv/macro-pegase.tex
+ texmf-dist/tex/latex/pas-cv/macro-pluton.tex
+ texmf-dist/tex/latex/pas-cv/macro-saturne.tex
+ texmf-dist/tex/latex/pas-cv/macro-univers.tex
+ texmf-dist/tex/latex/pas-cv/macro-uranus.tex
+ texmf-dist/tex/latex/pas-cv/macro-venus.tex
+ texmf-dist/tex/latex/pas-cv/pas-cv.sty
+catalogue-ctan /macros/latex/contrib/pas-cv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cv
+catalogue-version 2.01

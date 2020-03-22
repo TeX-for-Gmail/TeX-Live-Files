@@ -1,0 +1,18 @@
+name chkfloat
+category Package
+revision 27473
+shortdesc Warn whenever a float is placed "to far away"
+longdesc The package checks for floats that are placed too far from
+longdesc their origin. It was motivated by a question on the question
+longdesc and answer page.
+containersize 1144
+containerchecksum 2a08b71c204709846bbf26ec3883e9037af6ff22e9bdf13b27319ceda55381eb9e3816ead4e444eba4b8a050a188e58d14f0d9153a813953f587c6cabb3932b8
+doccontainersize 44988
+doccontainerchecksum b79b6bd6943dcd07656bb46d44bf50ca2c0148bdb6ae711d17a49e78f3bbf2b95781cd6f3d0b2f7625b131f7485d3db608c963367dd91dc91070501b367471b3
+runfiles size=1
+ texmf-dist/tex/latex/chkfloat/chkfloat.sty
+catalogue-ctan /macros/latex/contrib/chkfloat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp
+catalogue-version 0.1

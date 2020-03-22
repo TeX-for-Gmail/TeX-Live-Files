@@ -1,0 +1,20 @@
+name papermas
+category Package
+revision 23667
+shortdesc Compute the mass of a printed version of a document
+longdesc The package computes the number of sheets of paper used by, and
+longdesc hence the mass of a document. This is useful (for example) when
+longdesc calculating postal charges.
+containersize 3648
+containerchecksum b5ef2975638a8eb48e7aa9fee72024eaf5695ee3133a35a4326461de03e04b750ac90e0874de232176435e0855807aaa074e6555f3368fee55fcaf61e6abb552
+doccontainersize 409740
+doccontainerchecksum 2d0a43fd05efe6c96a7852f35c560b77b9461e005432f972a9896184831fb81f72946956f3aefd115ca0f5fbbf684ab615d50a7ab98a5e09a190b72a08e56793
+srccontainersize 14044
+srccontainerchecksum 2db3f6acb382f73ac6d220a4ec378026673ab16d54cb02a93926d30eeb8d5377d5329869cdfb3563915bb93253d64a3741a3498e197958e93929e8651f33cb02
+runfiles size=3
+ texmf-dist/tex/latex/papermas/papermas.sty
+catalogue-ctan /macros/latex/contrib/papermas
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics calculation
+catalogue-version 1.0h

@@ -1,0 +1,20 @@
+name backnaur
+category Package
+revision 28513
+shortdesc Typeset Backus Naur Form definitions
+longdesc The package typesets Backus-Naur Form (BNF) definitions. It
+longdesc creates aligned lists of productions, with numbers if required.
+longdesc It can also print in-line BNF expressions using math mode.
+containersize 1268
+containerchecksum 0582f318f6a5c9d0fd854ae468785c70aa08e9dcc853e550a619028421f18d721acca65b0a4d70d1dbaf32f69724d7d09f5d0636b41ea210024fc11db4989afa
+doccontainersize 294228
+doccontainerchecksum a6362db52cd9b67c6481626ba5f6ba05e837fe3ded24e3ebcac7f438c3db23bf01e2bd963a332f70357a5afb64416ba3be0dc1dd0e8bbb2cbb59b34edc3871fc
+srccontainersize 5680
+srccontainerchecksum b94bbf29d532292e7aa22e6fd2380519a937c65e8ae81a204ea8fce724ee6c1f32dbdfb08671aa03bb39b312b48705fca399f950ac21bdfa4cb46ff65b607614
+runfiles size=1
+ texmf-dist/tex/latex/backnaur/backnaur.sty
+catalogue-ctan /macros/latex/contrib/backnaur
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics formal-spec
+catalogue-version 1.1

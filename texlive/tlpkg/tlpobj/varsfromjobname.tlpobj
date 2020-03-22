@@ -1,0 +1,21 @@
+name varsfromjobname
+category Package
+revision 44154
+shortdesc Extract variables from the name of the LaTeX file
+longdesc The package allows the user to extract information from the job
+longdesc name, provided that the name has been structured appropriately:
+longdesc the package expects the file name to consist of a set of words
+longdesc separated by hyphens.
+containersize 1448
+containerchecksum 0d5fb07c93fdd08570ef1dfa120870f4619b124cde769f48b4107c41827dd65c023840e1344aa283d0b21bfb0af2346135577510119579c531731f132bbfee1a
+doccontainersize 185876
+doccontainerchecksum 57e3111b8426ace2a838a128dae49a6ffadc6892e4b85cfc83eae3b9422dc4188e505fcb2a281ff38cbeb18e385ba1da398111c5f00683568999004ffd5eaea7
+runfiles size=2
+ texmf-dist/tex/latex/varsfromjobname/varsfromjobname.sty
+catalogue-contact-home https://github.com/UweZiegenhagen/VarsFromJobname
+catalogue-contact-repository https://github.com/UweZiegenhagen/VarsFromJobname
+catalogue-ctan /macros/latex/contrib/varsfromjobname
+catalogue-date 2017-05-01 23:30:57 +0200
+catalogue-license lppl
+catalogue-topics doc-mgmt
+catalogue-version 1.0

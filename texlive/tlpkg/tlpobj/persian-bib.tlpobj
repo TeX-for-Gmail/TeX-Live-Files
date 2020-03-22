@@ -1,0 +1,32 @@
+name persian-bib
+category Package
+revision 37297
+shortdesc Persian translations of classic BibTeX styles
+longdesc Currently 9 files: acm-fa.bst, asa-fa.bst, chicago-fa.bst,
+longdesc ieeetr-fa.bst, plain-fa-inLTR-beamer.bst, plain-fa-inLTR.bst,
+longdesc plain-fa.bst, plainnat-fa.bst and unsrt-fa.bst are modified for
+longdesc Persian documents prepared with XePersian (which the present
+longdesc package depends on). The Persian .bst files can simultaneously
+longdesc handle both Latin and Persian references. A file cp1256fa.csf
+longdesc is provided for correct sorting of Persian references and three
+longdesc fields LANGUAGE, TRANSLATOR and AUTHORFA are defined.
+containersize 21692
+containerchecksum e6650399eb5129dd0ad08c3ff93843da47287ce641a65826545b10a9213437da56467eabd8c37f1a7fc17086af968043586c53bdbc7485e9a4453b3f5b23bf83
+doccontainersize 186856
+doccontainerchecksum a18f3652bfa8cccd8d574e475859bde8d41de04d3093f05222dfe5687460b8eb29a1e9bc258cb73cca69dad52f567572a654f46414a0d513ec27e462f4787f35
+runfiles size=66
+ texmf-dist/bibtex/bst/persian-bib/acm-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/asa-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/chicago-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/ieeetr-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/plain-fa-inLTR-beamer.bst
+ texmf-dist/bibtex/bst/persian-bib/plain-fa-inLTR.bst
+ texmf-dist/bibtex/bst/persian-bib/plain-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/plainnat-fa.bst
+ texmf-dist/bibtex/bst/persian-bib/unsrt-fa.bst
+ texmf-dist/bibtex/csf/persian-bib/cp1256fa.csf
+catalogue-ctan /biblio/bibtex/contrib/persian-bib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics persian bibtex-sty
+catalogue-version 0.9

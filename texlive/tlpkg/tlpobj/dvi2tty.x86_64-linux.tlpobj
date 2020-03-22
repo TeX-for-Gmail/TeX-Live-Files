@@ -1,0 +1,9 @@
+name dvi2tty.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dvi2tty
+containersize 69280
+containerchecksum 17c0c7c2c0170013b1aef2cdeef45c2829a17d355d2fc7259c170d99200a792d12a8e6c875b8932e47042e72c34523f200548c51de50d131149575e87c78dead
+binfiles arch=x86_64-linux size=43
+ bin/x86_64-linux/disdvi
+ bin/x86_64-linux/dvi2tty

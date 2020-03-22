@@ -1,0 +1,22 @@
+name recycle
+category Package
+revision 15878
+shortdesc A font providing the "recyclable" logo
+longdesc This single-character font is provided as Metafont source, and
+longdesc in Adobe Type 1 format. It is accompanied by a trivial LaTeX
+longdesc package to use the logo at various sizes.
+execute addMap recycle.map
+containersize 9820
+containerchecksum 3bc28ed41a8205534d34593429429768bdfa64e61cc212017ba4be32f7a985e8d65ab296137cffbb7ad5be4dec90bbfd30d675ab314bb79ec0ea10b277c33d66
+doccontainersize 768
+doccontainerchecksum 3bbe68b48915c6fa662fb72072eb9e130613587e86d3d4172766c8fe690a995d23d252cbda9a226a7716c9da8741b3ed0e18eae1cab2f547d08265ee493a64dc
+runfiles size=8
+ texmf-dist/fonts/map/dvips/recycle/recycle.map
+ texmf-dist/fonts/source/public/recycle/recycle.mf
+ texmf-dist/fonts/tfm/public/recycle/recycle.tfm
+ texmf-dist/fonts/type1/public/recycle/recycle.pfb
+ texmf-dist/tex/latex/recycle/recycle.sty
+catalogue-ctan /fonts/recycle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-mf font-type1 font-specialist

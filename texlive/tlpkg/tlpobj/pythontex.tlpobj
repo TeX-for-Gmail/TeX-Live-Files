@@ -1,0 +1,45 @@
+name pythontex
+category Package
+revision 44860
+shortdesc Run Python from within a document, typesetting the results
+longdesc The package allows you to enter Python code within a LaTeX
+longdesc document, execute the code, and access its output in the
+longdesc original document. Python code is only executed when it has
+longdesc been modified, or when it meets user-specified criteria. Code
+longdesc may be divided into user-defined sessions, which automatically
+longdesc run in parallel. Errors and warnings are synchronized with the
+longdesc LaTeX document, so that they refer to the document's line
+longdesc numbers. External dependencies can be tracked, so that code is
+longdesc re-executed when the data it depends on is modified. PythonTeX
+longdesc also provides syntax highlighting for code in LaTeX documents
+longdesc via the Pygments syntax highlighter. The package provides a
+longdesc depythontex utility, that creates a copy of the document in
+longdesc which all Python code has been replaced by its output. This is
+longdesc useful for journal submissions, sharing documents, and
+longdesc conversion to other formats.
+depend pythontex.ARCH
+containersize 64788
+containerchecksum a5ab9d196f7916cd856907e002ba3a67240f99739132444306b657bcd1f22d305d9246c766fa3fc1f4706ff3a1d23abfa6e7334ea2dfb5dfbc9c772bbfbb6025
+doccontainersize 1543832
+doccontainerchecksum 4a79de9023f8b12a22ff6ab14295e580118ba749a465884fce3f43a2bdfa8c3f7a4e131223f191863f2f3b3049f2b6d83d7c52bfcd3e4b3d90698591c61a8e6c
+srccontainersize 82424
+srccontainerchecksum a1fe4099a2508da8e901de36a302c368ac1ad9990f896e0d36dd5fe911c7bc3de43d2c19ebca5f7ec078ffc03797fb4d600d34501f568fa68fa87d0019584660
+runfiles size=149
+ texmf-dist/scripts/pythontex/depythontex.py
+ texmf-dist/scripts/pythontex/depythontex2.py
+ texmf-dist/scripts/pythontex/depythontex3.py
+ texmf-dist/scripts/pythontex/pythontex.py
+ texmf-dist/scripts/pythontex/pythontex2.py
+ texmf-dist/scripts/pythontex/pythontex3.py
+ texmf-dist/scripts/pythontex/pythontex_2to3.py
+ texmf-dist/scripts/pythontex/pythontex_engines.py
+ texmf-dist/scripts/pythontex/pythontex_install.py
+ texmf-dist/scripts/pythontex/pythontex_utils.py
+ texmf-dist/tex/latex/pythontex/pythontex.sty
+catalogue-also perltex
+catalogue-contact-repository https://github.com/gpoore/pythontex
+catalogue-ctan /macros/latex/contrib/pythontex
+catalogue-date 2017-07-21 08:12:38 +0200
+catalogue-license lppl1.3
+catalogue-topics callback
+catalogue-version 0.16

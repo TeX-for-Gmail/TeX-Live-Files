@@ -1,0 +1,31 @@
+name dejavu-otf
+category Package
+revision 45991
+shortdesc Support for the ttf and otf DejaVu fonts
+longdesc Package dejavu-otf supports the free ttf-fonts from the DejaVu
+longdesc project which are available from GitHub or already part of your
+longdesc system (Windows/Linux/...) and the OpenType version of the
+longdesc TeXGyre Math, which is part of any TeX distribution.. Following
+longdesc font files are supported: DejaVuSans-BoldOblique.ttf
+longdesc DejaVuSans-Bold.ttf DejaVuSansCondensed-BoldOblique.ttf
+longdesc DejaVuSansCondensed-Bold.ttf DejaVuSansCondensed-Oblique.ttf
+longdesc DejaVuSansCondensed.ttf DejaVuSans-ExtraLight.ttf
+longdesc DejaVuSansMono-BoldOblique.ttf DejaVuSansMono-Bold.ttf
+longdesc DejaVuSansMono-Oblique.ttf DejaVuSansMono.ttf
+longdesc DejaVuSans-Oblique.ttf DejaVuSans.ttf
+longdesc DejaVuSerif-BoldItalic.ttf DejaVuSerif-Bold.ttf
+longdesc DejaVuSerifCondensed-BoldItalic.ttf
+longdesc DejaVuSerifCondensed-Bold.ttf DejaVuSerifCondensed-Italic.ttf
+longdesc DejaVuSerifCondensed.ttf DejaVuSerif-Italic.ttf DejaVuSerif.ttf
+longdesc texgyredejavu-math.otf
+containersize 2036
+containerchecksum d0d32f3c9d53a1a61e6e717a6275f3fc934c0815fddc3b36fe2afbf7702e5128d4cf15e8cdfe8b02009a6fb7c203ea42b134eeeb080b9765ff99c4143f887744
+doccontainersize 334020
+doccontainerchecksum 212663371f747b03694327a40de3bec0be8efd5cda15c0cc343284f3a427890e8d16c4223098fc16a260b837a9d522c9cd35876a4c1004e09ee9ee29c05ec7b3
+runfiles size=2
+ texmf-dist/tex/latex/dejavu-otf/dejavu-otf.sty
+catalogue-ctan /fonts/dejavu-otf
+catalogue-date 2018-01-07 14:49:11 +0100
+catalogue-license lppl1.3
+catalogue-topics font-absent font-otf font-ttf font-sans font-serif font-mono
+catalogue-version 0.04

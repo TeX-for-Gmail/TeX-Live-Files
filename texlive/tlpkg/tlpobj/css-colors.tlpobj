@@ -1,0 +1,18 @@
+name css-colors
+category Package
+revision 43961
+shortdesc Named colors for web-safe design
+longdesc This package defines web-safe colors for use with D.P.
+longdesc Carlisle's color package. It is intended for both authors and
+longdesc package writers (e.g. to create Beamer color themes).
+containersize 2296
+containerchecksum b5e000180b583470bc6721601321f81a2f11e70388f05fd85a482b491e1d3ea536db0fbb96a6715fcca81e5bcbaf289af9540c82a2201befac1d2254fbc4cfb0
+doccontainersize 2090184
+doccontainerchecksum d08c0212f4c36eb114b25128ac8516cb7181ac73a2ea61ee4ed1eafdfa7fed15a2b928d6d0f63bdbf2b4beb93a843fc8dd16b959297a4fccff89c428647f4ddd
+runfiles size=2
+ texmf-dist/tex/latex/css-colors/css-colors.sty
+catalogue-ctan /macros/latex/contrib/css-colors
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lpplgpl
+catalogue-topics colour
+catalogue-version 1.02

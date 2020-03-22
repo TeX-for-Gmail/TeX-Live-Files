@@ -1,0 +1,21 @@
+name dnaseq
+category Package
+revision 17194
+shortdesc Format DNA base sequences
+longdesc Defines a means of specifying sequences of bases. The bases may
+longdesc be numbered (per line) and you may specify that subsequences be
+longdesc coloured. For a more 'vanilla-flavoured' way of typesetting
+longdesc base sequences, the user might consider the seqsplit package.
+containersize 1780
+containerchecksum b4a83c42e16aa734611dd8295aa033904828ac1825ccdd41f297586c0667ebec4a43606740fde56bd01f58ffee1b1f4afa647ce196ed042a5dfdb641f0ee2d7d
+doccontainersize 209036
+doccontainerchecksum 089352ea3210231ad158ecb0bc17d5ba0a9efe49ee4c609554f08dceff9ef534185a7f9f17526910d3b602c4c6c358f211fec4cfe27bd6df61555bce4f9d795f
+srccontainersize 2500
+srccontainerchecksum f4357ef3a23d8b1c7ca3168441ddda57fe725c4c17022807464e61035b89a8a8334684144d86f3d6ff0f3955c1c928903b80a61e6b1792cab633d6dab51d44df
+runfiles size=1
+ texmf-dist/tex/latex/dnaseq/dnaseq.sty
+catalogue-ctan /macros/latex/contrib/dnaseq
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics molbio
+catalogue-version 0.01

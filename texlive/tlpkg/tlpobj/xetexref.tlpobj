@@ -1,0 +1,17 @@
+name xetexref
+category Package
+revision 50244
+shortdesc Reference documentation of XeTeX
+longdesc The package comprises reference documentation for XeTeX
+longdesc detailing its extended features.
+containersize 472
+containerchecksum d7c7d2a404de1fd609f172dc0f8173cfb6a255a220700cb4d8659002e2793a01e43caa7bb483fa343a85a84ba545edd7e7c985b92045855285f1704eafb20df1
+doccontainersize 160552
+doccontainerchecksum 818383480f2e20d7e00a8ad77423e9326cdd130ec1d1dba0dcb536fd13e7e287b4e8a67460eb510ed786b3d1e7f65f92c1627cdec94860ba0622ee2b92c91974
+catalogue-contact-bugs https://github.com/wspr/xetexref/issues
+catalogue-contact-repository https://github.com/wspr/xetexref/
+catalogue-contact-support http://lists.tug.org/xetex
+catalogue-ctan /info/xetexref
+catalogue-date 2019-03-05 08:57:15 +0100
+catalogue-license lppl1.3c
+catalogue-topics documentation xetex

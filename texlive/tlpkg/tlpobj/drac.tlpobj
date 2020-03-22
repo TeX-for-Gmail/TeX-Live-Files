@@ -1,0 +1,24 @@
+name drac
+category Package
+revision 15878
+shortdesc Declare active character substitution, robustly
+longdesc The package provides macros \DeclareRobustActChar and
+longdesc \ReDeclareRobActChar. One uses \DeclareRobustActChar in the
+longdesc same way one would use \DeclareRobustCommand; the macro
+longdesc \protects the active character when it appears in a moving
+longdesc argument. \ReDeclareRobActChar redefines an active character
+longdesc previously defined with \DeclareRobustActChar, in the same way
+longdesc that \renewcommand works for ordinary commands.
+containersize 1368
+containerchecksum f45c94e222a6bcae0d87ab5aebf0f594f1674a49787391dfb9cce32f9b36a0aa6a81e84ea4ca345e0918ff2166e36738ae9969e4d9e4653bbb99ac6a7f0cc63f
+doccontainersize 588784
+doccontainerchecksum 7e6debf9580d7c145d8f95329aeadd63012bcfe3ac04fb9c4a3e815391757051ce021e4e2659c96fd7ff5066e3e324ac947cfaca16e52bf5895fd5724f81f552
+srccontainersize 10284
+srccontainerchecksum a56b3648bc75174179ac74eda67d84226985d18863270cdf6b6c1688ff1405389ad27f20abdc6a41f68520e1d95890fe021d1896d00a5c44a6a4ec2b9c380944
+runfiles size=1
+ texmf-dist/tex/latex/drac/drac.sty
+catalogue-ctan /macros/latex/contrib/drac
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1

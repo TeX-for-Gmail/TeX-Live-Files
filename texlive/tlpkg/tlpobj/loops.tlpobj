@@ -1,0 +1,19 @@
+name loops
+category Package
+revision 30704
+shortdesc General looping macros for use with LaTeX
+longdesc The package provides efficient looping macros for processing
+longdesc both csv (separated-values) and nsv/tsv (non-separated values)
+longdesc lists. CSV lists which have associated parsers may be processed
+longdesc with the tools of the package.
+containersize 11928
+containerchecksum 60ee6999e43ba9082c5a283dac5a930c9075b24f6bc7cd3f719b0336b01dfcb17fb2d5e3c82b9f1636c9bb3e6c923607a3d9237d08fbaf17bbfc1196d0a75281
+doccontainersize 8240
+doccontainerchecksum 9d70b3ae88d64bf2710157db88113224a95947aa03f11a2eb659c61109a451e2a93b2aa5ffd6ce9cf2f1b5fc8e0ef815850a0a9f27c7ec5ddbfbff1fe98ecaa4
+runfiles size=13
+ texmf-dist/tex/latex/loops/loops.sty
+catalogue-ctan /macros/latex/contrib/loops
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics list-supp macro-supp csv-support
+catalogue-version 1.3

@@ -1,0 +1,23 @@
+name sffms
+category Package
+revision 15878
+shortdesc Typesetting science fiction/fantasy manuscripts
+longdesc The class is designed for typesetting science fiction and
+longdesc fantasy manuscripts. Sffms now includes several options for
+longdesc specific publishers as well as extensive documentation aimed at
+longdesc new LaTeX users.
+containersize 3376
+containerchecksum ea7fbce545b9e9dc8b804e293239fdd491bf1293875fa841afc5a33ddcac7acddf243194e36f8958df4d23c71ad9b83348fda57dc261f211b49fc137b66ff6b2
+doccontainersize 156244
+doccontainerchecksum e1702249f2516dde93887403833f9261f73e90ce04bb97d4052de1a28b9f5bcd5729d1d9a68759ea92271b46cbbebed39565e8c30248af4c894c347e4b9b75a9
+srccontainersize 15740
+srccontainerchecksum 50fec199dddd2509682af8910db1cecaba7359be24a1666e156715e4613571c6f48c27eb813efaab2d6a4fd01e0e9d110021a42afca501a75a2ee02f7c80499e
+runfiles size=4
+ texmf-dist/tex/latex/sffms/sffdumb.sty
+ texmf-dist/tex/latex/sffms/sffms.cls
+ texmf-dist/tex/latex/sffms/sffsmart.sty
+catalogue-ctan /macros/latex/contrib/sffms
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class publisher
+catalogue-version 2.0

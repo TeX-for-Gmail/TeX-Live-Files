@@ -1,0 +1,20 @@
+name vwcol
+category Package
+revision 36254
+shortdesc Variable-width multiple text columns
+longdesc The package provides a crude environment (vwcol) for
+longdesc typesetting multicolumn paragraph text of various column widths
+longdesc on a single page.
+containersize 3140
+containerchecksum 3963b738e1214f7a495daff6476102e6b25e86034c552b5f4e4314af55e4af073ed94a72e969dfd1fba16baa0264577234917f7dfd074dc85f9c56c5f2409903
+doccontainersize 272620
+doccontainerchecksum a4d55b62caf4968d3e8329fd06f8857f646c5a867fbab23ea9bd7fb57c5b88b5f3a918642bc608eb1ccd936dc2e36edc50a5662667b8bb35cc59ba1739b2e7bd
+srccontainersize 11468
+srccontainerchecksum 8a605a7250f939789fd863abf6fa2b5da37b8f723460ef2e56ed93dc826363ec1bad03f5bd2af266ede11ccda04546e6174c0dd79282ba41ad6c3d9923ccd51c
+runfiles size=3
+ texmf-dist/tex/latex/vwcol/vwcol.sty
+catalogue-ctan /macros/latex/contrib/vwcol
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics multicol
+catalogue-version 0.2

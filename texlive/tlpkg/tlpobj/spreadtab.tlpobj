@@ -1,0 +1,21 @@
+name spreadtab
+category Package
+revision 50147
+shortdesc Spreadsheet features for LaTeX tabular environments
+longdesc The package allows the user to construct tables in a manner
+longdesc similar to a spreadsheet. The cells of a table have row and
+longdesc column indices and these can be used in formulas to generate
+longdesc values in other cells.
+containersize 21928
+containerchecksum e662188fc94f3f31031238a9b20ce617b01adb65dfcb5ba00cc0f90555a151957747e9b24803436d0815528d945e3a65684ebffc04dc5de2552989c81bc80846
+doccontainersize 1089920
+doccontainerchecksum e7e1184c6d5013a5f991325e1f47b509b90f32022530281263bd5b1c0d9c9082a872f9b6ece3198ccdca555e1187546762c8fb4fcec9a75f72894f6fb49825c4
+runfiles size=25
+ texmf-dist/tex/latex/spreadtab/spreadtab.sty
+catalogue-contact-bugs https://framagit.org/unbonpetit/spreadtab/issues
+catalogue-contact-repository https://framagit.org/unbonpetit/spreadtab/tree/master
+catalogue-ctan /macros/latex/contrib/spreadtab
+catalogue-date 2019-02-27 09:37:31 +0100
+catalogue-license lppl1.3c
+catalogue-topics table
+catalogue-version 0.5

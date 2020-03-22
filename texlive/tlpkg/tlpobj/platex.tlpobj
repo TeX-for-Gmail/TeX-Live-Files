@@ -1,0 +1,70 @@
+name platex
+category Package
+revision 50831
+shortdesc pLaTeX2e and miscellaneous macros for pTeX
+longdesc The bundle provides pLaTeX2e and miscellaneous macros for pTeX
+longdesc and e-pTeX. This is a community edition forked from the
+longdesc original ASCII edition (ptex-texmf-2.5).
+depend ptex
+depend babel
+depend cm
+depend hyphen-base
+depend latex
+depend latex-fonts
+depend ptex-fonts
+depend platex.ARCH
+execute AddFormat name=platex engine=eptex options="*platex.ini"           patterns=language.dat           fmttriggers=babel,cm,hyphen-base,latex,latex-fonts,ptex-fonts
+containersize 35632
+containerchecksum 28d7cda769befc445e9ac4a1987d61f465746c68fb6c10fa56ee09990ce4b99644bebde4dbab96966ef01b5cffb92749cd5759f502039b31f704269778f410f7
+doccontainersize 1560452
+doccontainerchecksum 9900ea588e1ebf44f5fca78050ffa15b7c493eeb13fca5ad907d1ccfac152cbdf5065d682b698728de090ec4f03f775443695fa5b0e8c029586cfb446b12804b
+srccontainersize 119124
+srccontainerchecksum d44ba7038baf70de0b4e92d89463f0c87465bf7da43496db50b63049004f89903dbb87eb3b18a4b6ee451a038b8f15f07df5bdfda086033108df652f6a72539c
+runfiles size=140
+ texmf-dist/tex/platex/base/exppl2e.sty
+ texmf-dist/tex/platex/base/jarticle.cls
+ texmf-dist/tex/platex/base/jarticle.sty
+ texmf-dist/tex/platex/base/jbk10.clo
+ texmf-dist/tex/platex/base/jbk11.clo
+ texmf-dist/tex/platex/base/jbk12.clo
+ texmf-dist/tex/platex/base/jbook.cls
+ texmf-dist/tex/platex/base/jbook.sty
+ texmf-dist/tex/platex/base/jltxdoc.cls
+ texmf-dist/tex/platex/base/jreport.cls
+ texmf-dist/tex/platex/base/jreport.sty
+ texmf-dist/tex/platex/base/jsize10.clo
+ texmf-dist/tex/platex/base/jsize11.clo
+ texmf-dist/tex/platex/base/jsize12.clo
+ texmf-dist/tex/platex/base/jt1gt.fd
+ texmf-dist/tex/platex/base/jt1mc.fd
+ texmf-dist/tex/platex/base/jy1gt.fd
+ texmf-dist/tex/platex/base/jy1mc.fd
+ texmf-dist/tex/platex/base/kinsoku.tex
+ texmf-dist/tex/platex/base/oldpfont.sty
+ texmf-dist/tex/platex/base/pfltrace.sty
+ texmf-dist/tex/platex/base/pl209.def
+ texmf-dist/tex/platex/base/platex.ltx
+ texmf-dist/tex/platex/base/platexrelease.sty
+ texmf-dist/tex/platex/base/plcore.ltx
+ texmf-dist/tex/platex/base/pldefs.ltx
+ texmf-dist/tex/platex/base/plext.sty
+ texmf-dist/tex/platex/base/plnews.cls
+ texmf-dist/tex/platex/base/ptrace.sty
+ texmf-dist/tex/platex/base/tarticle.cls
+ texmf-dist/tex/platex/base/tarticle.sty
+ texmf-dist/tex/platex/base/tbk10.clo
+ texmf-dist/tex/platex/base/tbk11.clo
+ texmf-dist/tex/platex/base/tbk12.clo
+ texmf-dist/tex/platex/base/tbook.cls
+ texmf-dist/tex/platex/base/tbook.sty
+ texmf-dist/tex/platex/base/treport.cls
+ texmf-dist/tex/platex/base/treport.sty
+ texmf-dist/tex/platex/base/tsize10.clo
+ texmf-dist/tex/platex/base/tsize11.clo
+ texmf-dist/tex/platex/base/tsize12.clo
+ texmf-dist/tex/platex/config/platex.ini
+catalogue-contact-repository https://github.com/texjporg/platex
+catalogue-ctan /language/japanese/platex
+catalogue-date 2019-04-06 08:27:33 +0200
+catalogue-license bsd3
+catalogue-topics format class japanese

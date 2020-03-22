@@ -1,0 +1,28 @@
+name biblatex-luh-ipw
+category Package
+revision 32180
+shortdesc BibLaTeX styles for social sciences
+longdesc The bundle is a small collection of styles for BibLaTeX. It was
+longdesc designed for citations in the Humanities, following the
+longdesc guidelines of style of the institutes for the social sciences
+longdesc of the Leibniz University Hannover/LUH (especially the
+longdesc Institute of Political Science). The bundle depends on BibLaTeX
+longdesc (version 1.1 at least) and cannot be used without it.
+containersize 5372
+containerchecksum e58e2522d9a4711454166c816b971bbf6bab1f8d1c7eea122933c8b7955a49ad294df410fe0a75375134b77d442bd5214ee25d56d766be7e5843e4ac14d7ef5a
+doccontainersize 358604
+doccontainerchecksum bbfa55884d3dd3167618f6f9595c301e5faeab0a35cd058cc68922a2aa8362cb3a9d035eaea06ee43c428dd89d23538b15bd4c79c1e095ad10aa4d1d7184f92d
+runfiles size=11
+ texmf-dist/tex/latex/biblatex-luh-ipw/bbx/authoryear-luh-ipw.bbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/bbx/standard-luh-ipw.bbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/bbx/verbose-inote-luh-ipw.bbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/cbx/authoryear-luh-ipw.cbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/cbx/standard-luh-ipw.cbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/cbx/verbose-inote-luh-ipw.cbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/lbx/english-luh-ipw.lbx
+ texmf-dist/tex/latex/biblatex-luh-ipw/lbx/german-luh-ipw.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-luh-ipw
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex humanities
+catalogue-version 0.3

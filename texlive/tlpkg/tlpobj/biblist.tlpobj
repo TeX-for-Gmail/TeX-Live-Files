@@ -1,0 +1,18 @@
+name biblist
+category Package
+revision 17116
+shortdesc Print a BibTeX database
+longdesc The package provides the means of listing an entire BibTeX
+longdesc database, avoiding the potentially large (macro) impact
+longdesc associated with \nocite{*}.
+containersize 8332
+containerchecksum 02f006139b475cb5d4ec2bf85ec098de78f5bed7242ec693317ad4e01acb62a8c5479f295a8a1409fccd41b327daa75a2639b67d9838777b8355e6bd40af478c
+doccontainersize 207180
+doccontainerchecksum b5bdd51d7acb738569671f13dbd25fc7b98a8e2e03e324e9501a20ac34cf1ae3578fcd622be73a80467e47a64a81f4d897c4e167b07a5ff5d06635b09dbec51d
+runfiles size=6
+ texmf-dist/tex/latex/biblist/biblist.sty
+catalogue-also listbib
+catalogue-ctan /macros/latex209/contrib/biblist
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-util

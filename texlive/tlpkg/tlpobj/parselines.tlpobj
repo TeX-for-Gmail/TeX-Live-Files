@@ -1,0 +1,20 @@
+name parselines
+category Package
+revision 21475
+shortdesc Apply a macro to each line of an environment
+longdesc The package defines an environment "parse lines" which
+longdesc processes each line of an environment with a macro. An example
+longdesc of shading the lines of an environment is given.
+containersize 1872
+containerchecksum 81d18bfa1f70157ca04383a2f6e4cf228f23d878a9e157e79ea0bbbb743090046f5058ff0731ac42f881f5cef13063fa0ff2fa9b80992b334e02dd7f2a1a33d2
+doccontainersize 134028
+doccontainerchecksum b6dfad3ceac162f9c122c2b18fa168469cb6c4befce1c4b2c8f003507ff4b2aed30e6728bf29f04545a080efada1fd98a9c8c064f4ac1eea521fb486624e60b2
+srccontainersize 9128
+srccontainerchecksum 454fd4c9032ff1075237294f346d55fdd0926c316813c3eaa487e1649db569455f89a364b9688d024567a15edfd16c397bb1ab76652b46112791874bae5db36f
+runfiles size=1
+ texmf-dist/tex/latex/parselines/parselines.sty
+catalogue-ctan /macros/latex/contrib/parselines
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics decoration macro-supp
+catalogue-version 1.4

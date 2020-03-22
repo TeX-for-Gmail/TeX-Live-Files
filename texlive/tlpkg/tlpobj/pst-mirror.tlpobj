@@ -1,0 +1,20 @@
+name pst-mirror
+category Package
+revision 32997
+shortdesc Images on a spherical mirror
+longdesc The package provides commands and supporting PostScript
+longdesc material for drawing images as if reflected by a spherical
+longdesc mirror.
+containersize 12180
+containerchecksum edb6796eb96047fe09833056c409527df06d63dd69e9c2b600c1301b43b6e5c858d1061e9a138c89ab47657682f9ee67995a02abfab5251356e2eb8de68f5316
+doccontainersize 6752668
+doccontainerchecksum a9e22f2e00f67f12c69df3a6dd4377d25b8c130c4afa8c995c8961ba426f69f0c286460925c7c782a30b2a23ca5f2d4a46a5dbfaf72955952f561df2545c38b8
+runfiles size=21
+ texmf-dist/dvips/pst-mirror/pst-mirror.pro
+ texmf-dist/tex/generic/pst-mirror/pst-mirror.tex
+ texmf-dist/tex/latex/pst-mirror/pst-mirror.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-mirror
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use pstricks
+catalogue-version 1.01

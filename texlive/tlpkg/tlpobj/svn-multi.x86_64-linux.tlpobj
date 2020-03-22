@@ -1,0 +1,8 @@
+name svn-multi.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of svn-multi
+containersize 344
+containerchecksum ef74acf61df44e3996e3e6765a5897744187c7144176eacfdc8fd6fba7ed2388c96922a3a9c6fae965064450f898241de10dc75e97bd3ecde6bb72d258b080f7
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/svn-multi

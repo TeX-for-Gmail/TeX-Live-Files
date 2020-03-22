@@ -1,0 +1,22 @@
+name tablestyles
+category Package
+revision 34495
+shortdesc Styles for tables with new commands
+longdesc This package tries to introduce a separation of text and style
+longdesc in tables by defining reusable table commands and a simple
+longdesc interface to define a style for a table. Furthermore the
+longdesc package defines commonly used column styles and a bugfix
+longdesc command for lists in tables.
+containersize 2112
+containerchecksum 429d9e66e9dcc06814e75b08d1fcc9630de6cc614337c73fdc06588479e47e7df72dfab33a91fb7cb230f9e1ed0bade3d8e56fa423c1f2fcf0bac6f246620069
+doccontainersize 452888
+doccontainerchecksum 43c5dedd804a0aec1b7ad289d8113bca94d6fac7e9b5b8628880e2d7d7e4f0e29cde12864747cfcdf24ceeee0e143652c2acb2b448bfce0630b6915e2bed237c
+srccontainersize 9872
+srccontainerchecksum 26b5e4b276a202ba2b351287ce310b52a256659c55f88f68259ec358636c117d36dd8834542d385450c531d4db1d5e42e053a11e2a9c21c43fc72ce38c453072
+runfiles size=2
+ texmf-dist/tex/latex/tablestyles/tablestyles.sty
+catalogue-ctan /macros/latex/contrib/tablestyles
+catalogue-date 2017-11-18 19:32:57 +0100
+catalogue-license lppl1.3
+catalogue-topics table
+catalogue-version 0.1

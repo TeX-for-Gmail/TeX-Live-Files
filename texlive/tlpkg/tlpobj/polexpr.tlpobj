@@ -1,0 +1,27 @@
+name polexpr
+category Package
+revision 50013
+shortdesc A parser for polynomial expressions
+longdesc The package provides \poldef: a parser for polynomial
+longdesc expressions based upon the \xintdeffunc mechanism of the
+longdesc package xintexpr. The parsed expressions use the operations of
+longdesc algebra (inclusive of composition of functions) with standard
+longdesc operators, fractional numbers (possibly in scientific notation)
+longdesc and previously defined polynomial functions or other constructs
+longdesc as recognized by the \xintexpr numerical parser. The
+longdesc polynomials are then not only genuine \xintexpr numerical
+longdesc functions but additionally are also known to the package via
+longdesc their coefficients. This allows dedicated macros to implement
+longdesc polynomial algorithmics.
+containersize 22348
+containerchecksum 93cbffd695c765a14cbec16010d3804a1733377628b5b552cb0b110b629d415a07e993e73ce0ba4ed7df217d16a6eb3c0f3a00616d11b10d003a0cd8239467dd
+doccontainersize 42428
+doccontainerchecksum 1d8f3bb80a538411abc72a30657f1f32b60164c807579ef4b346484f12d8797dcb4ad90472c872bdeeb450b44e32d08bcb06dca5334f4b54c528794b94be4376
+runfiles size=28
+ texmf-dist/tex/latex/polexpr/polexpr.sty
+catalogue-also polynom
+catalogue-ctan /macros/latex/contrib/polexpr
+catalogue-date 2019-02-12 20:32:28 +0100
+catalogue-license lppl1.3c
+catalogue-topics maths
+catalogue-version 0.7.4

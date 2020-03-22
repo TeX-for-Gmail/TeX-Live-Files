@@ -1,0 +1,22 @@
+name har2nat
+category Package
+revision 17356
+shortdesc Replace the harvard package with natbib
+longdesc This small package allows a LaTeX document containing the
+longdesc citation commands provided by the Harvard package to be
+longdesc compiled using the natbib package. Migration from harvard to
+longdesc natbib thus can be achieved simply by replacing
+longdesc \usepackage{harvard} with \usepackage{natbib}
+longdesc \usepackage{har2nat} It is important that har2nat be loaded
+longdesc after natbib, since it modifies natbib commands.
+containersize 1136
+containerchecksum b3e76b7c4a3a241f716de344481c9927daaa73badc2f40cade074402629cdb3ed02568d9cb3d6276b0abd59ddcb34254fda419f859633281870ebc394c4a5a14
+doccontainersize 216528
+doccontainerchecksum 927ff5d03cb3559dcda63aa2745958722ab9233c58e55cdeaf7e1c441146991d3edca9c3a40fae2cc147e5e69d0c44c0d357ed37ef0e02bea41952474b36f88f
+runfiles size=1
+ texmf-dist/tex/latex/har2nat/har2nat.sty
+catalogue-ctan /macros/latex/contrib/har2nat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-supp
+catalogue-version 1.0

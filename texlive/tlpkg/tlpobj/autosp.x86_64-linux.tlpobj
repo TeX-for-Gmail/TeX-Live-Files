@@ -1,0 +1,9 @@
+name autosp.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of autosp
+containersize 19312
+containerchecksum a4cdc96d4d6dce7e129e387fe65121671408da9f455bc121af5254dbb869b9f37f6e77a95d66a4b16bd937407f4f4687c37fbacb4b9e19883bd8a0a24f1bac10
+binfiles arch=x86_64-linux size=13
+ bin/x86_64-linux/autosp
+ bin/x86_64-linux/tex2aspc

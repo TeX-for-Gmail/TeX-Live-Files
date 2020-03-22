@@ -1,0 +1,67 @@
+name levy
+category Package
+revision 21750
+catalogue levy-font
+shortdesc Fonts for typesetting classical greek
+longdesc These fonts are derivatives of Kunth's CM fonts. Macros for use
+longdesc with Plain TeX are included in the package; for use with LaTeX,
+longdesc see lgreek (with English documentation) or levy (with German
+longdesc documentation).
+containersize 34736
+containerchecksum a71294df1b2bdb1402892ebc0c82dd60275cf41f6844cdd284e1ba73c8515e98258118c5a1e5158fb6d09acdc53427eb4e3f62f24591fd2eafc90d0bb69b71ea
+doccontainersize 24736
+doccontainerchecksum e69a1e2e421100a50416f86bda40702aa9a4d5c5b0b8c783e328e56e1ce587f832cad984fee2cad259603e893413155bc4539e853e1df0d95c89e9167c67b2e1
+runfiles size=82
+ texmf-dist/fonts/source/public/levy/a.mf
+ texmf-dist/fonts/source/public/levy/b.mf
+ texmf-dist/fonts/source/public/levy/d.mf
+ texmf-dist/fonts/source/public/levy/digits.mf
+ texmf-dist/fonts/source/public/levy/e.mf
+ texmf-dist/fonts/source/public/levy/f.mf
+ texmf-dist/fonts/source/public/levy/g.mf
+ texmf-dist/fonts/source/public/levy/gen_acc.mf
+ texmf-dist/fonts/source/public/levy/gen_sigma.mf
+ texmf-dist/fonts/source/public/levy/graccent.mf
+ texmf-dist/fonts/source/public/levy/grbase.mf
+ texmf-dist/fonts/source/public/levy/grbld10.mf
+ texmf-dist/fonts/source/public/levy/grbld8.mf
+ texmf-dist/fonts/source/public/levy/grbld9.mf
+ texmf-dist/fonts/source/public/levy/greek.mf
+ texmf-dist/fonts/source/public/levy/grpunct.mf
+ texmf-dist/fonts/source/public/levy/grreg10.mf
+ texmf-dist/fonts/source/public/levy/grreg8.mf
+ texmf-dist/fonts/source/public/levy/grreg9.mf
+ texmf-dist/fonts/source/public/levy/grtt10.mf
+ texmf-dist/fonts/source/public/levy/h.mf
+ texmf-dist/fonts/source/public/levy/i.mf
+ texmf-dist/fonts/source/public/levy/j.mf
+ texmf-dist/fonts/source/public/levy/k.mf
+ texmf-dist/fonts/source/public/levy/l.mf
+ texmf-dist/fonts/source/public/levy/lig.mf
+ texmf-dist/fonts/source/public/levy/lower.mf
+ texmf-dist/fonts/source/public/levy/m.mf
+ texmf-dist/fonts/source/public/levy/n.mf
+ texmf-dist/fonts/source/public/levy/o.mf
+ texmf-dist/fonts/source/public/levy/p.mf
+ texmf-dist/fonts/source/public/levy/q.mf
+ texmf-dist/fonts/source/public/levy/r.mf
+ texmf-dist/fonts/source/public/levy/s.mf
+ texmf-dist/fonts/source/public/levy/t.mf
+ texmf-dist/fonts/source/public/levy/u.mf
+ texmf-dist/fonts/source/public/levy/upper.mf
+ texmf-dist/fonts/source/public/levy/w.mf
+ texmf-dist/fonts/source/public/levy/x.mf
+ texmf-dist/fonts/source/public/levy/y.mf
+ texmf-dist/fonts/source/public/levy/z.mf
+ texmf-dist/fonts/tfm/public/levy/grbld10.tfm
+ texmf-dist/fonts/tfm/public/levy/grbld8.tfm
+ texmf-dist/fonts/tfm/public/levy/grbld9.tfm
+ texmf-dist/fonts/tfm/public/levy/grreg10.tfm
+ texmf-dist/fonts/tfm/public/levy/grreg8.tfm
+ texmf-dist/fonts/tfm/public/levy/grreg9.tfm
+ texmf-dist/tex/generic/levy/greekmacros.tex
+ texmf-dist/tex/generic/levy/slgreek.sty
+catalogue-ctan /fonts/greek/levy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics font font-mf font-greek

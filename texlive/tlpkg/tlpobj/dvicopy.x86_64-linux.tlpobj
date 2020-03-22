@@ -1,0 +1,8 @@
+name dvicopy.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dvicopy
+containersize 53472
+containerchecksum 4ca885a080fc8270207c88110ad4ada39da31fcbcc32a3b95ee099d4cc91fbda0547490a1e9c256721b43bb19e89242a39c690380571032278fec265aab32ab1
+binfiles arch=x86_64-linux size=30
+ bin/x86_64-linux/dvicopy

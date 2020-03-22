@@ -1,0 +1,21 @@
+name texbytopic
+category Package
+revision 15878
+shortdesc Freed version of the book TeX by Topic
+longdesc An invaluable book, originally published by Addison-Wesley (who
+longdesc have released their copyright -- their version of the book went
+longdesc out of print in the 1990s). The book describes itself as "a
+longdesc TeXnician's reference", and covers the way TeX (the engine)
+longdesc works in as much detail as most ordinary TeX programmers will
+longdesc ever need to know. A printed copy of the book may be had (for a
+longdesc modest price) via lulu.com (see the package home page for
+longdesc details).
+containersize 680
+containerchecksum d6d7373a50b85b4dcf30f9d6cd1f3ec3a4cbbe72f53158387b99ab5cae5372d1c7a7954d03a0ee06b9af6df9784cd9a06f73658a6286a737674f5046883a9ab6
+doccontainersize 1132796
+doccontainerchecksum 29b3ea490b6c67a4c1d6dd2b744978536e3b847beda3a901873db7723c7c21ae4063b800d30d2d009e77a0e6fb199a3fb0d16d1f7f8d9a09722cfd7702c73c67
+catalogue-contact-home http://www.eijkhout.net/texbytopic/texbytopic.html
+catalogue-ctan /info/texbytopic
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license fdl
+catalogue-topics book-src tut-plaintex ref-latex

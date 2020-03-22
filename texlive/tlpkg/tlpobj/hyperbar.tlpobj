@@ -1,0 +1,22 @@
+name hyperbar
+category Package
+revision 48147
+shortdesc Add interactive Barcode fields to PDF forms
+longdesc The package extends the hyperref functionality for creating
+longdesc interactive forms to allow adding Barcode form fields supported
+longdesc by some modern PDF readers. Currently, only pdfTeX is
+longdesc supported.
+containersize 2444
+containerchecksum 80077002a3bdc99339749e2f76687a0f8597a786fd3ca3f5207ec44dc2037dbec1e696ab58d77ee6b067d6e958357cb8f0c9805621c3feeb40dde004851311b3
+doccontainersize 442692
+doccontainerchecksum 0598acd8fb945605b204c5c99982db63f4fc06fc82c47f7b301ead30be0474c7dde5eb4f78f3aa698160cd068d38aa2aabe3a1fae3c49cc32194e7cd796839c2
+srccontainersize 3884
+srccontainerchecksum 99555f8a939783db613ceaf509fbf2d95352ce8e774e750a9d552717eb538a64663a905a063b6b93aa83384ce322079656c61eeccc9678bdee47b2c56e52220b
+runfiles size=2
+ texmf-dist/tex/latex/hyperbar/hyperbar.sty
+catalogue-also hyperref
+catalogue-ctan /macros/latex/contrib/hyperbar
+catalogue-date 2018-07-07 05:11:29 +0200
+catalogue-license lppl1.3c
+catalogue-topics hyper pdf-feat pdf-forms
+catalogue-version 0.1

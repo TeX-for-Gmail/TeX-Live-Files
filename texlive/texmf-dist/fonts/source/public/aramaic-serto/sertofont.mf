@@ -1,0 +1,1700 @@
+% Syriac Serto FONT `sertofont.mf'
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Designed and (c) by Johannes Heinecke
+%                     <johannes(dot)heinecke(at)wanadoo(dot)fr>
+% Please send any improvements, corrections, suggestions, enhancements etc.
+% to the Author!
+%
+% Version 0.7 as of 29th September 2007
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+input sertomacros;
+
+%% Endarabeske für beth etc
+%def arabesque (suffix $)(expr length) =
+%  z$aa = (x$, y$-.5basestroke);
+%  z$ac = (x$, y$+.5basestroke);
+%  z$ab = (x$-length*hu, y$aa);
+%  z$ad = (x$-(length-.2)*hu, y$ac);
+%  z$ae = (x$ab-hu, y$ad+vu);
+%  fill z$aa--z$ab{left}..{up}z$ae{dir -45}..{right}z$ad--z$ac--cycle;
+%  labels($aa, $ab, $ac, $ad, $ae); 
+%enddef;
+%
+%% baseline, if needed
+%def baseline (suffix $)(expr length) =
+%  z$bz = z$;  % to allow several baselines from one point
+%  z$ba = (x$, y$-.5basestroke);
+%  z$bc = (x$, y$+.5basestroke);
+%  z$bb = (x$-length*hu, y$ba);
+%  z$bd = (x$-length*hu, y$bc);
+%  fill z$ba--z$bb--z$bd--z$bc--cycle;
+%  labels($ba, $bb, $bc, $bd);
+%enddef;
+%
+%% dalath/resh dot
+%def sertodot (suffix $) (expr size) =
+%  z$ca = (x$-.3hu, y$+.4vu); penpos$ca(size*basestroke, 45);
+%  z$cb = (x$+.3hu, y$-.4vu); penpos$cb(size*basestroke, 45);
+%  penstroke z$ca.e..z$cb.e;
+%  labels($ca, $cb)
+%enddef;
+%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Character Definitions: %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Order: alphabetically, isolated-final-medial-initial
+
+% olaf - isolated
+sertochar "olaf - isolated '";
+beginchar(65, 2hu#, 8vu#, 0);
+    z1 = (.5hu, 0); penpos1(basestroke, 0);
+    z2 = (.4hu, 2vu); penpos2(.9basestroke, 0);
+    z3 = (hu, 5vu); penpos3(.5basestroke, 10);
+    %z4 = (.4hu, 7.5vu); penpos4(basestroke, 45);
+    z4 = (.4hu, 7.5vu); penpos4(1.2basestroke, 45);
+    penstroke z1e..z2e..z3e..z4e;
+    penlabels(range 1 thru 4);
+endchar;
+
+% olaf - final
+sertochar "olaf - final '"; 
+beginchar(66, 2hu#, 8vu#, 0);
+    %z1 = (2hu, .5vu); penpos1(basestroke, 90);
+    %z2 = (1.1hu, 1.1vu); penpos2(.9basestroke, 40);
+    %z3 = (.5hu, 4vu); penpos3(.7basestroke, 0);
+    %z4 = (.5hu, 8vu); penpos4(.7basestroke, 0);
+    %z5r = z2l;
+    %z5l = (0, y2l);
+    %z6 = (-.3hu, -vu); penpos6(.4basestroke, -45);
+    %penstroke z1e{left}..z2e..z3e..z4e;
+    %penstroke z4e..z3e..z5e..z6e;
+
+    z1 = (2hu, .5vu); penpos1(basestroke, 90);
+    z2 = (x1-1.5hu, 2.5vu); penpos2(basestroke, 0);
+    z3 = (x2, 4.5vu); penpos3(basestroke, 0);
+    z4l = z3l + (0, 3.2vu);
+    z4r = z3r + (0, 3.8vu);
+    z14l = z13l + (0, 3.8vu);
+    z14r = z13r + (0, 3.2vu);
+
+
+    z6 = (-.8hu, -1.5vu); penpos6(.2basestroke, -45);
+
+    penstroke z4e..z3e..z2e{down}..{right}z1e;
+    penstroke z2e{down}..z6e;
+    %penstroke z4e..z3e..z5e..z6e;
+    penlabels(range 1 thru 6);
+endchar;
+
+
+def bethcommon =
+    z1 = (6hu, .5vu); penpos1(basestroke, -90);
+    %z2 = (x1+.5hu, 4vu/3); penpos2(basestroke, 30);
+    z2 = (x1+.5basestroke, 4basestroke/3); penpos2(basestroke, 30);
+    z4 = (3hu, 3.4vu); penpos4(basestroke, 90);
+    z5 = (.7hu, 2.5vu); penpos5(.45basestroke, 135);
+    penstroke z1e{right}..z2e..z4e..z5e;
+    penlabels(range 1 thru 5);
+enddef;
+
+% beth - isolated
+sertochar "beth - isolated b";
+beginchar(67, 8hu#, 4vu#, 0);
+    bethcommon;
+    arabesque(1, 5);
+endchar;
+
+% beth - final
+sertochar "beth - final b";
+beginchar(68, 8hu#, 4vu#, 0);
+    bethcommon;
+    baseline(1, -2);
+    arabesque(1, 5);
+endchar;
+
+% beth - medial
+sertochar "beth - medial b";
+beginchar(69, 8hu#, 4vu#, 0);
+    bethcommon;
+    z6 = z1; 
+    baseline(1, 6);
+    baseline(6, -2);
+    penlabels(6);
+endchar;
+
+% beth - initial
+sertochar "beth - initial b";
+beginchar(70, 8hu#, 4vu#, 0);
+    bethcommon;
+    baseline(1, 6);
+endchar;
+
+
+
+def gammalcommon =
+    z1 = (2.5hu, 1.25vu); penpos1(basestroke, -135);
+    z3 = (7.25hu, -2.25vu); penpos3(.6basestroke, -120);
+    %z4r = z3r;
+    z5r = z3r;
+    %z4l = (x4r+1.5hu, y4r);
+    z5l = (x5r, y5r-.7hu);
+    z6 = (3.5hu, -1.45vu); penpos6(.8basestroke, 45);
+    %z7 = (hu, .5vu); 
+    z7l = (hu, -.3hu); 
+    penpos7(.9basestroke, 50);
+
+    penstroke z1e{dir -45}..z3e;
+    penstroke z3e{dir -32}..z5e;
+    penstroke z5e{left}..z6e..z7e;
+
+    penlabels(range 1 thru 7);
+enddef;
+
+def gammalarabesque =
+    z8 = (x7l, 2.5vu);
+    fill z7l{z7l-z6l}..z8 & z8{dir -100}..{z6r-z7r}z7r--cycle;
+    penlabels(8)
+enddef;
+%endinput;
+% gamal - isolated
+sertochar "gamal - isolated g";
+beginchar(71, 7hu#, 1vu#, 3vu#);
+    gammalcommon;
+    gammalarabesque;
+endchar;
+
+% gamal - final
+sertochar "gamal - final g";
+beginchar(72, 7hu#, 1vu#, 3vu#);
+    gammalcommon;
+    gammalarabesque;
+
+    z9 = (4hu, .5vu); penpos9(basestroke, -90);
+    baseline(9, -3);
+    penstroke z9e{left}..z1e;
+
+    penlabels(9);
+endchar;
+
+% gamal - medial
+sertochar "gamal - medial g";
+beginchar(73, 7hu#, 1vu#, 3vu#);
+    gammalcommon;
+    z8 = (0, .5vu); penpos8(basestroke, 90);
+    penstroke z7e{z7e-z6e}..{left}z8e;
+    z9 = (4hu, .5vu); penpos9(basestroke, -90);
+    baseline(9, -3);
+    penstroke z9e{left}..z1e;
+
+    penlabels(9);
+    penlabels(8)
+endchar;
+
+
+% gamal - initial
+sertochar "gamal - initial g";
+beginchar(74, 7hu#, 1vu#, 3vu#);
+    gammalcommon;
+    z8 = (0, .5vu); penpos8(basestroke, 90);
+    penstroke z7e{z7e-z6e}..{left}z8e;
+    penlabels(8)
+endchar;
+
+
+def dr_isolated_common =
+    %z1 = (.5hu, -1vu);
+    z2 = (2.5hu, 2vu);
+    z3 = (1hu, 4vu);
+    z4 = (0, 2.5vu);
+    z5 = (1hu, 1vu);
+    z1 = (.6hu, -.7vu);
+    %fill z4{down}..z5..{dir -135}z1
+    % & z1{dir 45}..z2{up}..z3{left}..cycle;
+    fill z4{down}..z5..{dir -115}z1{dir 45}..z2{up}..z3{left}..cycle;
+    penlabels(range 1 thru 5);
+
+enddef;
+
+% dalath - isolated
+sertochar "dalath - isolated d";
+beginchar(75, 4hu#, 4vu#, 2vu#);
+    dr_isolated_common;
+    z6 = (1hu, y1-1.2vu);
+    sertodot(6, 1);
+    penlabels(6);
+endchar;
+
+
+def dr_final_common =
+    z1 = (3.5hu, .5vu); penpos1(basestroke, 90);
+    z2 = (hu, 1.5vu); penpos2(1.2basestroke, 45);
+    penstroke z1e{left}..z2e;
+
+    z3 = (x2r, -vu);
+    %fill z2r{dir -80}..z3 & z3..{dir 130}z2l--cycle;
+    fill z2r{dir -80}..{right}z1r & z1r--z1l
+     & z1l{left}..z3 & z3..{dir 130}z2l--cycle;
+
+    penlabels(range 1 thru 3);
+enddef;
+
+% dalath - final
+sertochar "dalath - final d";
+beginchar(76, 3.5hu#, 2vu#, 3vu#);
+    dr_final_common;
+    z4 = (x3, y3-1.2vu);
+    sertodot(4, 1);
+    penlabels(4);
+endchar;
+
+
+
+
+
+def heecommon =
+    z1 = (5.5hu, 0); penpos1(.2basestroke, 0);
+    z2 = (6hu, 2.8vu); penpos2(.6basestroke, 0);
+    z3 = (5.5hu, 4.5vu); penpos3(basestroke, 90);
+    z4 = (2.5hu, .5vu); penpos4(basestroke, 90);
+    z5 = (.2hu, y2); penpos5(.5basestroke, 0);
+    z6 = (x4, y3); penpos6(basestroke, -90);
+    z7 = (5hu, 3vu); penpos7(.9basestroke, -135);
+    penstroke z1e..z2e..z3e & z3e{dir -105}..z4e..z5e..z6e..z7e;
+    penlabels(range 1 thru 7);
+enddef;
+
+
+% he isolated
+sertochar "he - isolated h";
+beginchar(77, 7hu#, 5vu#, 0);
+    heecommon;
+endchar;
+
+% he final
+sertochar "he - final h";
+beginchar(78, 7.5hu#, 5vu#, 0);
+    heecommon;
+    z8 = (x1+.5hu, 2vu); penpos8(basestroke, 90);
+    z9 = (x1+2hu, .5vu); penpos9(basestroke, 90);
+    penstroke z8e..{right}z9e;
+    penlabels(8, 9);
+endchar;
+
+def wawcommon (suffix $) =
+    pickup serto_pen;
+    bot z$a = (x$ + 2hu, y$);
+    lft z$b = (x$, y$ + 2vu);
+    top z$c = (x$a, y$ + 5vu);
+    rt z$d = (x$ + 4hu, y$ + 2vu);
+    draw z$a..z$b..z$c..z$d..cycle;
+
+    penlabels($a, $b, $c, $d);
+enddef;
+
+
+% waw isolated
+sertochar "waw - isolated w";
+beginchar(79, 5hu#, 5vu#, 0);
+    z1 = (0, 0);
+    wawcommon(1);
+endchar;
+
+% waw final
+sertochar "waw - final w";
+beginchar(80, 5hu#, 5vu#, 0);
+    z1 = (0, 0);
+    wawcommon(1);
+    z5 = (.6[x1a,x1d], vu); penpos5(basestroke, 50);
+    z6 = (5hu, .5vu); penpos6(basestroke, 90);
+    penstroke z6e{left}..z5e;
+    penlabels(5, 6);
+endchar;
+
+
+
+
+% o-waw isolated
+sertochar "waw - isolated o";
+beginchar(159, 5hu#, 5vu#, 0);
+    z1 = (0, 0);
+    wawcommon(1);
+    z7 = (x1c, 7hu);
+    sertodot(7, 1);
+endchar;
+
+% o-waw final
+sertochar "waw - final o";
+beginchar(160, 5hu#, 5vu#, 0);
+    z1 = (0, 0);
+    wawcommon(1);
+    z5 = (.6[x1a,x1d], vu); penpos5(basestroke, 50);
+    z6 = (5hu, .5vu); penpos6(basestroke, 90);
+    z7 = (x1c, 7hu);
+    sertodot(7, 1);
+
+    penstroke z6e{left}..z5e;
+    penlabels(5, 6, 7);
+endchar;
+
+
+
+def zaincommon =
+    z1 = (2hu, .5vu); penpos1(basestroke, 90);
+    z2 = (1.1hu, 1.1vu); penpos2(.9basestroke, 40);
+    z3 = (.5hu, 4vu); penpos3(.7basestroke, 0);
+    z5r = z2l;
+    z5l = (0, y2l);
+    z6 = (-.3hu, -1.3vu); penpos6(.3basestroke, -45);
+
+    penstroke z3e{down}..z5e..z6e;
+    penlabels(range 1 thru 6);
+enddef;
+
+% zain - isolated
+sertochar "zain - isolated z";
+beginchar(81, 2hu#, 4vu#, 1.5vu#);
+    zaincommon;
+endchar;
+
+% zain - final
+sertochar "zain - final z";
+beginchar(82, 2hu#, 4vu#, 1.5vu#);
+    zaincommon;
+    penstroke z1e..z2e..{up}z3e;
+endchar;
+
+def hhethcommon (expr xoffs, init) =
+    if init = 1:
+       z1 = (xoffs + 3.8hu, 2.4vu); 
+       z11 = (xoffs + 4.5hu, 2.2vu); 
+    else:
+       z1 = (xoffs + 4.3hu, 2.6vu); 
+       z11 = (xoffs + 4.7hu, y1); 
+    fi;
+
+    %z1 = (xoffs + 4.5hu, 2.6vu); penpos1(.2basestroke, 0);
+    %z3 = (x1-3hu, y1); penpos3(.2basestroke, -180);
+    %z2 = (.5[x3,x1], .5vu); penpos2(basestroke, -90);
+    %z4 = (1.5[x1,x3], y2); penpos4(basestroke, -270);
+    %penstroke z1e{down}..z2e..{up}z3e; 
+    %penstroke z3e{down}..{left}z4e;
+
+    z2 = (xoffs + 3hu, (vu-basestroke)/2);
+    z3 = (xoffs + 1.5hu, .5vu);
+    z4 = (xoffs, y2);
+    z5 = (x4, y2+basestroke);
+    z6 = (x3-.2basestroke, 2.6vu);
+    z7 = (x3+.2basestroke, y6);
+    z8 = (x2, y5);
+    if init = 0:
+       z12 = (xoffs+6hu, y5);
+       z13 = (x12, y2);
+       z14 = (xoffs+4.5hu, y3);
+       fill z11{down}..{right}z12--z13{left}..z14 &
+            z14..z2{left}..z3 &
+            z3..{left}z4--z5{right}..{up}z6--z7{down}..{right}z8..z1--cycle;
+    else:
+       fill z11..z2{left}..z3 &
+            z3..{left}z4--z5{right}..{up}z6--z7{down}..{right}z8..z1--cycle;
+    fi;
+
+    penlabels(range 1 thru 14);
+enddef;
+
+% .heth isolated
+sertochar ".heth - isolated .h";
+beginchar(83, 6.8hu#, 3vu#, 0);
+    hhethcommon(1.2hu, 1);
+    z10 = (.5[z4,z5]);
+    arabesque(10, .2);
+endchar;
+
+% .heth final
+sertochar ".heth - final .h";
+beginchar(84, 7.2hu#, 3vu#, 0);
+    hhethcommon(1.2hu, 0);
+    z10 = (.5[z4,z5]);
+    arabesque(10, .2);
+endchar;
+
+% .heth medial
+sertochar ".heth - medial .h";
+beginchar(85, 6hu#, 3vu#, 0);
+    hhethcommon(0hu, 0);
+endchar;
+
+% .heth initial
+sertochar ".heth - initial .h";
+beginchar(86, 5.5hu#, 3vu#, 0);
+    hhethcommon(0hu, 1);
+endchar;
+
+
+
+def tethcommon (expr xoffs) =
+    z1 = (xoffs+3.5hu, 8vu); penpos1(basestroke, 0);
+    z2 = (x1-1.5hu, 1.5vu); penpos2(.5basestroke, 0);
+%    z3 = (x1-3hu, -3vu); penpos3(basestroke, 0);
+%    z4 = (x1-hu, -4.5vu); penpos4(.7basestroke, 90);
+    z4 = (x1-hu, -3.5vu); penpos4(.7basestroke, 90);
+    z3 = (x1-3hu, y4+1.5vu); penpos3(basestroke, 0);
+    z5 = (x1+.5hu, 0); penpos5(basestroke, 225);
+    z6 = (x2, .5vu); penpos6(basestroke, 270);
+    z7 = (xoffs, .5vu); penpos7(basestroke, 270);
+    penstroke z1e{down}..z2e..z3e..z4e..z5e..{left}z6e..z7e;
+
+    penlabels(range 1 thru 7);
+enddef;
+
+% .teth isolated
+sertochar ".teth - isolated .t";
+beginchar(87, 6.2hu#, 8vu#, 4vu#);
+    tethcommon(1.2hu);
+    arabesque(7, .2);
+endchar;
+
+% .teth final
+sertochar ".teth - final .t";
+beginchar(88, 8.2hu#, 8vu#, 4vu#);
+    tethcommon(1.2hu);
+    arabesque(7, .2);
+    z8 = (8.2hu, .5vu); penpos8(basestroke, 90);
+    penstroke z8e{left}..{up}z1e;
+endchar;
+
+% .teth medial
+sertochar ".teth - medial .t";
+beginchar(89, 7hu#, 8vu#, 4vu#);
+    tethcommon(0hu);
+    z8 = (7hu, .5vu); penpos8(basestroke, 90);
+    penstroke z8e{left}..{up}z1e;
+endchar;
+
+% .teth initial
+sertochar ".teth - initial .t";
+beginchar(90, 5hu#, 8vu#, 4vu#);
+    tethcommon(0hu);
+endchar;
+
+
+
+def iodhcommon (expr xoffs) =
+    z1 = (xoffs, .5(vu-basestroke)); 
+    z2 = (x1, .5(vu+basestroke));
+    z21 = (x1-1hu, y2);
+    z3 = (x1+hu, 2.5basestroke);
+    z4 = (x1+2hu, y2);
+    z5 = (x1+2.2hu, .5vu);
+    z6 = (x1+1.5hu, y1);
+
+    fill z1--z21{right}..z3--z4{z4-z3} % ..z5{down}
+           ..{left}z6--cycle;
+
+    penlabels(range 1 thru 21);
+enddef;
+
+% iod isolated
+sertochar "iod - isolated y";
+beginchar(105, 6hu#, 2.5vu#, 0);
+    iodhcommon(3hu);
+    z7 = (.5[z1, z2]);
+    %baseline(7, 1)
+    arabesque(7, 2);
+endchar;
+
+% iod final
+sertochar "iod - final y";
+beginchar(106, 6hu#, 2.5vu#, 0);
+    iodhcommon(3hu);
+    z8 = (.5[z1, z2]);
+    arabesque(8, 2);
+
+    z7 = (x1 + 1.5hu, .5[y1, y2]);
+    baseline(7, -1.5)
+endchar;
+
+% iod medial
+sertochar "iod - medial y";
+beginchar(107, 4hu#, 2.5vu#, 0);
+    iodhcommon(1hu);
+    z8 = (.5[z1, z2]);
+    baseline(8, 1)
+    z7 = (x1 + 1.5hu, .5[y1, y2]);
+    baseline(7, -1.5)
+endchar;
+
+% iod initial
+sertochar "iod - initial y";
+beginchar(108, 4hu#, 2.5vu#, 0);
+    iodhcommon(1hu);
+    z7 = (.5[z1, z2]);
+    baseline(7, 1)
+endchar;
+
+
+
+% kaf - isolated
+sertochar "kaf - isolated k (needs improvement)";
+beginchar(109, 6hu#, 2.5vu#, 3vu#);
+    z1 = (3hu, (vu-basestroke)/2); 
+    z2 = (x1, .5vu+.5basestroke);
+    z21 = (x1-hu, y2);
+    z3 = (x1+hu, 2.5basestroke);
+    z4 = (x1+2hu, y2);
+    z5 = (x1+2.2hu, .5basestroke);
+    z6 = (x1+1.5hu, y1);
+
+    fill z1--z21{right}..z3--z4{z4-z3} % ..z5{down}
+           ..{left}z6--cycle;
+    z7 = (x1, .5vu);
+    arabesque(7, 2);
+
+    z8 = (3.5[z3, z2]);
+    z9 = (x8+.2hu, y8-.2vu);
+    fill z2--z8--z9--z4--cycle;
+    penlabels(range 1 thru 9);
+endchar;
+
+% kaf - final
+sertochar "kaf - final k (needs improvement)";
+beginchar(110, 6hu#, 2.5vu#, 3vu#);
+    z1 = (3hu, 0); 
+    z2 = (x1, .5vu+.5basestroke);
+    z21 = (x1-hu, y2); 
+    z3 = (x1+hu, 2.5basestroke);
+    z4 = (x1+2hu, y2);
+    z5 = (x1+2.2hu, .5basestroke);
+    z6 = (x1+1.5hu, 0);
+
+    fill z1--z21{right}..z3--z4{z4-z3} % ..z5{down}
+           ..{left}z6--cycle;
+
+    z7 = (x1, .5vu);
+    arabesque(7, 2);
+    baseline(7, -3);
+
+    z8 = (3.5[z3, z2]);
+    z9 = (x8+.2hu, y8-.2vu);
+    fill z2--z8--z9--z4--cycle;
+    penlabels(range 1 thru 21);
+endchar;
+
+
+def kafcommon =
+    z1 = (1.5hu, 2vu); penpos1(basestroke, 0);
+    z3 = (5.5hu, y1+.5hu); penpos3(basestroke, -180);
+    z2 = (.5[x1,x3], 4vu); penpos2(.4basestroke, -90);
+    z4 = (x2+hu, .5vu); penpos4(basestroke, -270);
+    penstroke z1e{up}..z2e..z3e..{left}z4e;
+    penlabels(range 1 thru 5);
+enddef;
+
+% kaf - medial
+sertochar "kaf - medial k";
+beginchar(111, 7hu#, 4vu#, 0);
+    kafcommon;
+    z5 = (7hu, y4);
+    baseline(5, 7)
+endchar;
+
+% kaf - initial
+sertochar "kaf - initial k";
+beginchar(112, 7hu#, 4vu#, 0);
+    kafcommon;
+    baseline(4, 4.5)
+endchar;
+
+
+
+
+def lamadfinalcommon =
+    z1 = (.5hu, 7vu); penpos1(basestroke, 40);
+    z2 = (6.5hu, 1vu); penpos2(basestroke, 40);
+    z3 = (9hu, 1vu); penpos3(.2basestroke, 120);
+
+    z4 = (x1+3hu, y1); penpos4(basestroke, 40);
+    z5 = (x2+3hu, y2); penpos5(basestroke, 40);
+
+    penstroke z1e--z2e{z2-z1}..z3e;
+    penstroke z4e--z5e;
+
+    penlabels(range 1 thru 5);
+enddef;
+
+
+sertochar "lamad - isolated";
+beginchar(113, 11.5hu#, 7vu#, 0);
+    lamadfinalcommon;
+    z6 = (whatever[z4, z5]); penpos6(basestroke, 40);
+    y6l = 0;
+    penstroke z5e--z6e;
+    penlabels(6);
+endchar;
+
+sertochar "lamad - final";
+beginchar(114, 10.5hu#, 7vu#, 0);
+    lamadfinalcommon;
+    z6 = (x5+1hu, .5vu); penpos6(basestroke, 90);
+    penstroke z5e{z5-z4}..z6e;
+    penlabels(6);
+endchar;
+
+
+def lamadnonfinalcommon =
+    z1 = (.5hu, 7vu); penpos1(basestroke, 40);
+    z2 = (5hu, 1vu); penpos2(basestroke, 40);
+    penstroke z1e--z2e;
+
+    penlabels(range 1 thru 2);
+enddef;
+
+sertochar "lamad - medial";
+beginchar(115, 6.5hu#, 7vu#, 0);
+    lamadnonfinalcommon;
+    z3 = (6.5hu, .5vu); penpos3(basestroke, 90);
+    % penstroke z2e{z2-z1}..{right}z3e;
+    % z1e--z2e is already drawn in Cainnonfinalcommon
+    % we redraw it to avoit some white pixel on z2e.
+    penstroke z1e--z2e..{right}z3e;  
+
+%    z4 = (whatever[z1l, z2l]); penpos4(basestroke, 90);
+%    y4l = .5(vu-basestroke);
+%    z5 = (0, .5vu); penpos5(basestroke, 90);
+%    penstroke z4e--z5e;
+
+    z10 = (x2-1.5hu, basestroke+.5vu);
+    z4 = (whatever[z1, z2]); penpos4(basestroke, 40);
+    z10 = (whatever[z4r, z4l]);
+    z5 = (x10, .5vu); penpos5(basestroke, -90);
+    z6 = (0, .5vu); penpos6(basestroke, -90);
+    penstroke z4e..{left}z5e..z6e;
+
+    penlabels(3, 4, 5, 6, 10);
+endchar;
+
+sertochar "lamad - initial";
+beginchar(116, 7hu#, 7vu#, 0);
+    lamadnonfinalcommon;
+    z3 = (whatever[z1, z2]); penpos3(basestroke, 40);
+    y3l = .5(vu-basestroke);
+    penstroke z2e--z3e;
+
+%    z4 = (whatever[z1l, z3l]); penpos4(basestroke, 90);
+%    y4l = y3l;
+%    z5 = (0, .5vu); penpos5(basestroke, 90);
+%    penstroke z4e--z5e;
+
+    z10 = (x2-1.5hu, basestroke+.5vu);
+    z4 = (whatever[z1, z3]); penpos4(basestroke, 40);
+    z10 = (whatever[z4r, z4l]);
+    z5 = (x10, .5vu); penpos5(basestroke, -90);
+    z6 = (0, .5vu); penpos6(basestroke, -90);
+    penstroke z4e..{left}z5e..z6e;
+    penlabels(3, 4, 5, 6, 10);
+endchar;
+
+def mimcommon (expr final, exOne) =
+%    z1 = (.5hu, 4.5vu); penpos1(basestroke, 45);
+%    z2 = (5hu, .5vu); penpos2(basestroke, 90);
+%    z3 = (7hu, 2.25vu); penpos3(.5basestroke, 180);
+%    z4 = (x2, 4vu); penpos4(basestroke, 270);
+%    if final = 0:
+%       z5 = (3hu, y3); penpos5(.5basestroke, 360);
+%    else:
+%       z5 = (2.5hu, 2vu); penpos5(basestroke, 315);
+%    fi;
+%    z7 = (3hu, 1.5vu); penpos7(basestroke, 45);
+%
+%    z6 = (1hu, -3vu); penpos6(.4basestroke, 315);
+
+    z1 = (exOne, 4.5vu); penpos1(basestroke, 45);
+    z2 = (x1+4.5hu, .5vu); penpos2(basestroke, 90);
+    z3 = (x2+2hu, 2.25vu); penpos3(.5basestroke, 180);
+    z4 = (x2, 4vu); penpos4(basestroke, 270);
+    if final = 0:
+       z5 = (x1+2.5hu, y3); penpos5(.5basestroke, 360);
+    else:
+       z5 = (x1+2hu, 2vu); penpos5(basestroke, 315);
+    fi;
+    z7 = (x1+2.5hu, 1.5vu); penpos7(basestroke, 45);
+
+    z6 = (x1+.5hu, -3vu); penpos6(.4basestroke, 315);
+
+
+    if final = 0:
+       penstroke z1e--z7e{z7-z1}..z2e{right}..z3e{up}..z4e{left}..z5e..{right}z2e;
+    else:
+       penstroke z1e--z7e{z7-z1}..z2e{right}..z3e{up}..z4e{left}..{z6-z5}z5e;
+    fi;
+    penlabels(range 1 thru 7);
+enddef;
+
+sertochar "mim - isolated";
+beginchar(117, 8hu#, 4.5vu#, 3vu#);
+    mimcommon(1, 0.5hu);
+    penstroke z5e--z6e;
+endchar;
+
+sertochar "mim - final";
+beginchar(118, 8hu#, 4vu#, 1vu#);
+    mimcommon(1, 0.5hu);
+    penstroke z5e--z6e;
+    baseline(2, -3);
+endchar;
+
+sertochar "mim - medial";
+beginchar(119, 8hu#, 4vu#, 0);
+    mimcommon(0, 0.5hu);
+    z8 = (0, y2);
+    baseline(8, -8);
+endchar;
+
+sertochar "mim - initial";
+beginchar(120, 8.5hu#, 4vu#, 0);
+    mimcommon(0, 1hu);
+    baseline(2, 5.5);
+endchar;
+
+
+
+def nunnonfinalcommon =
+    z1 = (1.25hu, 4vu); penpos1(1.1basestroke, 20);
+    z2 = (1.5hu, 1.1vu); penpos2(basestroke, 0);
+    z3 = (0.9hu, .5vu); penpos3(basestroke, -90);
+    z4 = (0, .5vu); penpos4(basestroke, -90);
+
+    penstroke z1e{down}..{down}z2e..{left}z3e--z4e;
+    penlabels(range 1 thru 4);
+enddef;
+
+sertochar "nun - isolated";
+beginchar(121, 3.5hu#, 1vu#, 4vu#);
+    z1 = (.5hu, .5vu); penpos1(1.3basestroke, 42);
+    z2 = (x1+1.5hu, -2vu); penpos2(basestroke, 45);
+    z3 = (x1+5hu, -4.2vu); penpos3(.4basestroke, 80);
+    penstroke z1e..z2e..z3e;
+    penlabels(range 1 thru 3);
+endchar;
+
+sertochar "nun - final";
+beginchar(122, 5hu#, 1vu#, 4vu#);
+    z1 = (.5hu, 0vu); penpos1(basestroke, 0);
+    z4 = (1.1hu, .5vu); penpos4(basestroke, -90);
+    z2 = (1.5hu, -2vu); penpos2(basestroke, 45);
+    z3 = (5hu, -4.2vu); penpos3(.25basestroke, 80);
+    penstroke z1e..z2e..z3e;
+    penstroke z4e{left}..z1e;
+    baseline(4, -3.9);
+    penlabels(range 1 thru 4);
+endchar;
+
+sertochar "nun - medial";
+beginchar(129, 3hu#, 4vu#, 0);
+    nunnonfinalcommon;
+    baseline(4, -3);
+endchar;
+
+sertochar "nun - initial";
+beginchar(130, 3hu#, 4vu#, 0);
+    nunnonfinalcommon;
+endchar;
+
+
+
+
+%def qofsemkathcommon (expr xoffs) =
+%    z1 = (xoffs+2hu, .5vu); penpos1(basestroke, -90);
+%    z2 = (x1+1.25hu, 2vu); penpos2(.5basestroke, 0);
+%    z3 = (x1, y1+3.5hu); penpos3(basestroke, 90);
+%    z4 = (xoffs+.25hu, y2); penpos4(basestroke, -180);
+%
+%    penstroke z1e..z2e..z3e..z4e..{right}cycle;
+%    penlabels(range 1 thru 4);
+%enddef;
+
+def penpoint (suffix $) (expr xval, yval, large, angle) =
+      z$ = (xval, yval); penpos$(large, angle);
+enddef;
+
+def semkathcommon (expr xoffs) =
+   penpoint(1, xoffs, .5vu, basestroke, -90);
+   penpoint(11, xoffs+2hu, y1, basestroke, -90);
+   penpoint(2, xoffs+3hu, 1.2vu, .4basestroke, -45);
+   penpoint(3, xoffs+2.25hu, 4vu, basestroke, 90);
+   penpoint(4, xoffs-.25hu, .4vu, .4basestroke, 135);
+
+   penstroke z1e..z11e{right}...z2e..{left}z3e..{dir 245}z4e;
+
+   penpoint(5, xoffs-hu, y3, basestroke, -90);
+   penpoint(6, x5-1.4hu, 3vu, .4basestroke, -45);
+   penpoint(7, xoffs-1.4hu, y1, basestroke, 90);
+   penpoint(8, xoffs, y1, basestroke, 90);
+
+   penstroke z4e{dir 65}..{left}z5e..z6e..{right}z7e...z8e;
+
+   penlabels(range 1 thru 11);
+enddef;
+
+%def semkathcommon (expr xoffs) =
+%    qofsemkathcommon(xoffs);
+%    z5 = (x1+2.5hu, y1); penpos5(basestroke, -90);
+%    z6 = (x5+1.5hu, y2); penpos6(basestroke, 0);
+%    z7 = (x5, y3); penpos7(basestroke, 90);
+%    z8 = (x2, y2+.5vu); penpos8(.5basestroke, 145);
+%
+%    penstroke z1e--z5e{right}..z6e..z7e..z8e;
+%    penlabels(range 5 thru 8);
+%enddef;
+
+sertochar "semkath - isolated";
+beginchar(131, 9hu#, 4.5vu#, 0);
+    semkathcommon(4.5hu);
+    arabesque(7, 2);
+endchar;
+
+sertochar "semkath - final";
+beginchar(132, 9hu#, 4.5vu#, 0);
+    semkathcommon(4.5hu);
+    arabesque(7, 2);
+    baseline(11, -2.5);
+endchar;
+
+sertochar "semkath - medial";
+beginchar(133, 8.5hu#, 4.5vu#, 0);
+    semkathcommon(4hu);
+    baseline(11, -2.5);
+    baseline(8, 4);
+endchar;
+
+sertochar "semkath - initial";
+beginchar(134, 8.5hu#, 4.5vu#, 0);
+    semkathcommon(4hu);
+    baseline(8, 4);
+endchar;
+
+
+def Cainfinalcommon =
+    z1 = (.5hu, 4vu); penpos1(basestroke, 40);
+    z2 = (3hu, 1vu); penpos2(basestroke, 40);
+    z3 = (6hu, 1vu); penpos3(.2basestroke, 120);
+
+    z4 = (x1+2.5hu, y1); penpos4(basestroke, 40);
+    z5 = (x2+2.5hu, y2); penpos5(basestroke, 40);
+
+    penstroke z1e--z2e{z2-z1}..z3e;
+    penstroke z4e--z5e;
+
+    penlabels(range 1 thru 5);
+enddef;
+
+
+sertochar "`e - isolated";
+beginchar(135, 7.5hu#, 4vu#, 0);
+    Cainfinalcommon;
+    z6 = (whatever[z4, z5]); penpos6(basestroke, 40);
+    y6l = 0;
+    penstroke z5e--z6e;
+    penlabels(6);
+endchar;
+
+sertochar "`e - final";
+beginchar(136, 6.5hu#, 4vu#, 0);
+    Cainfinalcommon;
+    z6 = (x5+1hu, .5vu); penpos6(basestroke, 90);
+    penstroke z5e{z5-z4}..z6e;
+    penlabels(6);
+endchar;
+
+
+def Cainnonfinalcommon =
+    z1 = (.5hu, 4vu); penpos1(basestroke, 40);
+    z2 = (3hu, 1vu); penpos2(basestroke, 40);
+    penstroke z1e--z2e;
+
+    penlabels(range 1 thru 2);
+enddef;
+
+sertochar "`e - medial";
+beginchar(137, 4.5hu#, 4vu#, 0);
+    Cainnonfinalcommon;
+
+    z3 = (4.5hu, .5vu); penpos3(basestroke, 90);
+    %penstroke z2e{z2-z1}..{right}z3e;
+    % z1e--z2e is already drawn in Cainnonfinalcommon
+    % we redraw it to avoit some white pixel on z2e.
+    penstroke z1e--z2e..{right}z3e;  
+
+    %z4 = (whatever[z1l, z2l]); penpos4(basestroke, 90);
+    %y4l = 0;
+    %z5 = (0, .5vu); penpos5(basestroke, 90);
+    %penstroke z4e--z5e;
+    z10 = (x2-1.5hu, basestroke+.5vu);
+    z4 = (whatever[z1, z2]); penpos4(basestroke, 40);
+    z10 = (whatever[z4r, z4l]);
+    z5 = (x10, .5vu); penpos5(basestroke, -90);
+    z6 = (0, .5vu); penpos6(basestroke, -90);
+    penstroke z4e..{left}z5e..z6e;
+
+    penlabels(3, 4, 5, 6, 10);
+endchar;
+
+sertochar "`e - initial";
+beginchar(138, 5hu#, 4vu#, 0);
+    Cainnonfinalcommon;
+    z3 = (whatever[z1, z2]); penpos3(basestroke, 40);
+    y3l = 0;
+    penstroke z2e--z3e;
+
+%    z4 = (whatever[z1l, z3l]); penpos4(basestroke, 90);
+%    y4l = 0;
+%    z5 = (0, .5vu); penpos5(basestroke, 90);
+%    penstroke z4e--z5e;
+
+    z10 = (x2-1.5hu, basestroke+.5vu);
+    z4 = (whatever[z1, z2]); penpos4(basestroke, 40);
+    z10 = (whatever[z4r, z4l]);
+    z5 = (x10, .5vu); penpos5(basestroke, -90);
+    z6 = (0, .5vu); penpos6(basestroke, -90);
+    penstroke z4e..{left}z5e..z6e;
+
+    penlabels(3, 4, 5, 6, 10);
+endchar;
+
+
+%def pecommon (expr xoffs) =
+%    %z1 = (xoffs, .5hu); penpos1(basestroke, -90);
+%    z2 = (xoffs+2hu, .5hu); penpos2(basestroke, -90);
+%    z3 = (x2+2hu, 3hu); penpos3(basestroke, 0);
+%    z4 = (x2, 4.75hu); penpos4(.5basestroke, 90);
+%    z5 = (xoffs+.5hu, 3.5hu); penpos5(basestroke, 180);
+%    z6 = (x4, y3-.5hu);  penpos6(basestroke, 270);
+%    z7r = z3; penpos7(.4basestroke, 315);
+%
+%    penstroke z2e{right}..{up}z3e..z4e..z5e..{right}z6e..z7e;
+%    penlabels(range 2 thru 7);
+%enddef;
+
+def pecommon (expr xoffs) =
+    pickup pe_pen;
+
+    z1 = (xoffs, .5vu);
+    z2 = z1 + (2hu, 0);
+    z21 = z2 + (.5hu, 1.5vu);
+    z3 = z1 + (0, 3.5hu);
+    z4 = z1 + (-hu, 2.5vu);
+    z5 = (x2-.4hu, 3.2hu);
+
+    draw z1---z2..z21..z3..z4..tension 1.3..z5;
+
+    penlabels(range 1 thru 12);
+enddef;
+
+
+sertochar "pe - isolated";
+beginchar(139, 5.5hu#, 5hu#, 0);
+    pecommon(2hu);
+    arabesque(1, 1);
+endchar;
+
+sertochar "pe - final";
+beginchar(140, 6hu#, 5hu#, 0);
+    pecommon(2hu);
+    arabesque(1, 1);
+    baseline(2, -2);
+endchar;
+
+sertochar "pe - medial";
+beginchar(141, 6hu#, 5hu#, 0);
+    pecommon(2hu);
+    baseline(1, 2);
+    baseline(2, -2);
+endchar;
+
+
+sertochar "pe - initial";
+beginchar(142, 6hu#, 5hu#, 0);
+    pecommon(2hu);
+    baseline(1, 2);
+endchar;
+
+
+def sadecommon (expr xoffs, iso) =
+    z1 = (xoffs, -2vu); penpos1(1.4basestroke, -80);
+    z2 = (x1+3hu, -3.5vu); penpos2(.8basestroke, -90);
+    z3 = (x1+4.5hu, -2.25vu); penpos3(.5basestroke, -45);
+    z4 = (x3-.25hu, -.75vu); penpos4(basestroke, 45);
+    z5 = (x3-.5hu, .5vu); penpos5(.6basestroke, 0);
+
+    if iso = 0: % isolated sade
+      z6 = (x4, 1.5vu); penpos6(.8basestroke, 32);
+      z7 = (x6-.5hu, y6+vu); penpos7(basestroke, 70);
+      penstroke z1e..{right}z2e..z3e..z4e..z5e..z6e..z7e;
+    else: % final sade
+      z6 = (x4-.3hu, 1vu); penpos6(.8basestroke, 32);
+      penstroke z1e..{right}z2e..z3e..z4e..z5e..{dir 122}z6e;
+      z7 = (xoffs+5.5hu, .5vu); penpos7(basestroke, 90);
+      penstroke z6e..{right}z7e;
+    fi;
+
+    penlabels(range 1 thru 7);
+enddef;
+
+sertochar ".sade - isolated";
+beginchar(143, 5.5hu#, 2vu#, 4vu#);
+    sadecommon(0, 0);
+endchar;
+
+sertochar ".sade - final";
+beginchar(144, 5hu#, 2vu#, 4vu#);
+    sadecommon(0, 1);
+endchar;
+
+
+
+%def qoffinalcommon (expr xoffs) =
+%   qofsemkathcommon(xoffs);
+%   z5 = (xoffs, .5vu); penpos5(basestroke, -90);
+%   arabesque(5, .75);
+%   z6 = (x4l, 1.5hu); penpos6(.4basestroke, -45);
+%   penstroke z5e{right}..z6e;
+%
+%   penlabels(5, 6);
+%enddef;
+
+%def qofnonfinalcommon (expr xoffs) =
+%   qofsemkathcommon(xoffs);
+%   z5 = (xoffs, .5vu); penpos5(basestroke, -90);
+%   baseline(5, 1.5);
+%   z6 = (x4l, 1.5hu); penpos6(.4basestroke, -45);
+%   penstroke z5e{right}..z6e;
+%
+%   penlabels(5, 6);
+%enddef;
+
+def qofright  =  % works only if called after wawcommon
+   z7 = (.6[x1a,x1d], .8vu); penpos7(basestroke, 50);
+   z6 = (x1a+3hu, .5vu); penpos6(basestroke, 90);
+   penstroke z6e{left}..z7e;
+   penlabels(6, 7);
+enddef;
+
+def qoffinalcommon (expr xoffs) =
+   z1 = (xoffs+.25hu, 0);
+   wawcommon(1);
+
+   z5 = (xoffs, .5vu); penpos5(basestroke, -90);
+   arabesque(5, .75);
+   z4 = .5[z1a, z1b]; penpos4(.4basestroke, -45);
+   penstroke z5e{right}..z4e;
+
+   penlabels(1, 4, 5);
+enddef;
+
+def qofnonfinalcommon (expr xoffs) =
+   z1 = (xoffs+.25hu, 0);
+   wawcommon(1);
+
+   z5 = (xoffs, .5vu); penpos5(basestroke, -90);
+   baseline(5, .5);
+   z4 = .5[z1a, z1b]; penpos4(.4basestroke, -45);
+   %z6 = (x4l, 1.5hu); penpos6(.4basestroke, -45);
+   penstroke z5e{right}..z4e;
+
+   penlabels(5, 6);
+enddef;
+
+sertochar "qof - isolated";
+beginchar(145, 7hu#, 5vu#, 0);
+   qoffinalcommon(1.75hu);
+endchar;
+
+
+sertochar "qof - final";
+beginchar(146, 7hu#, 5vu#, 0);
+   qoffinalcommon(1.75hu);
+   qofright;
+%   z7 = (.6[x1a,x1d], .8vu); penpos7(basestroke, 50);
+%   z6 = (x1a+3hu, .5vu); penpos6(basestroke, 90);
+%   penstroke z6e{left}..z7e;
+%
+%   penlabels(6, 7);
+endchar;
+
+sertochar "qof - medial";
+beginchar(147, 5.75hu#, 5vu#, 0);
+   qofnonfinalcommon(.5hu);
+   qofright;
+endchar;
+
+sertochar "qof - initial";
+beginchar(148, 6hu#, 5vu#, 0);
+   qofnonfinalcommon(.5hu);
+endchar;
+
+
+% resh - isolated
+sertochar "resh - isolated";
+beginchar(149, 4hu#, 6vu#, 0);
+    dr_isolated_common;
+    z6 = (1hu, y3+1.2vu);
+    sertodot(6, 1);
+    penlabels(6);
+endchar;
+
+% resh - final
+sertochar "resh - final";
+beginchar(150, 3hu#, 4vu#, 1vu#);
+    dr_final_common;
+    z4 = (x3, y2r+1.2vu);
+    sertodot(4, 1);
+    penlabels(4);
+endchar;
+
+
+def shincommon (expr xoffs) =
+    z1 = (xoffs, .5vu);
+    z2 = (x1+1.5hu, 2vu);
+    z3 = (x1, 2vu+basestroke);
+    z4 = (x1-1.5hu, y2);
+
+    fill z1{dir 45}..{up}z2..z3..z4{down}..{dir 315}cycle;
+
+    z5 = (x1-hu, y1); penpos5(basestroke, -90);
+    z6r = z1 + (basestroke-hu, basestroke-hu); penpos6(hu, -45);
+    penstroke z5e{right}..z6e;
+
+    z7l = z1 + (-(basestroke-hu), basestroke-hu); penpos7(hu, 45);
+    z8 = (x1+hu, y1); penpos8(basestroke, 90);
+    penstroke z8e{left}..z7e;
+
+    penlabels(range 1 thru 8);
+enddef;
+
+
+def shinfinal (expr xoffs) =
+   shincommon(xoffs);
+   arabesque(5, .75);
+enddef;
+
+def shinnonfinal (expr xoffs) =
+   shincommon(xoffs);
+   baseline(5, 1.5);
+enddef;
+
+
+def shininit (suffix $)(expr length) =
+  z$aa = (x$, y$-.5basestroke);
+  z$ac = (x$, y$+.5basestroke);
+  z$ab = (x$+length*hu, y$aa);
+  z$ad = (x$+(length-.2)*hu, y$ac);
+  z$ae = (x$ab+hu, y$ad+.5vu);
+  fill z$aa--z$ab{right}..{up}z$ae{dir 225}..{left}z$ad--z$ac--cycle;
+  penlabels($aa, $ab, $ac, $ad, $ae);
+enddef;
+
+sertochar "shin - isolated";
+beginchar(151, 5.75hu#, 3vu#, 0);
+    shinfinal(2.75hu);
+    shininit(8, .25);
+endchar;
+
+sertochar "shin - final";
+beginchar(152, 4.75hu#, 3vu#, 0);
+    shinfinal(2.75hu);
+    baseline(8, -1);
+endchar;
+
+sertochar "shin - medial";
+beginchar(153, 4.5hu#, 3vu#, 0);
+    shinnonfinal(2.5hu);
+    baseline(8, -1);
+endchar;
+
+sertochar "shin - initial";
+beginchar(154, 5.5hu#, 3vu#, 0);
+    shinnonfinal(2.5hu);
+    shininit(8, .25);
+endchar;
+
+
+def taucommon =
+   z1 = (0, 0);
+   z2 = (4.5hu, .5vu); penpos2(basestroke, 67);
+   z3 = (1hu, 1.1vu);
+   %z4 = (1hu, 8vu); penpos4(basestroke, 20);
+   z4 = (1hu, 8vu); penpos4(basestroke, 20);
+   z5l = z1;
+   z5r = z3;
+
+   penstroke z4e{down}..z5e & z5e{dir 17}..z2e;
+
+   penlabels(range 1 thru 5);
+enddef;
+
+sertochar "tau - isolated";
+beginchar(155, 5.75hu#, 8vu#, 0);
+    taucommon;
+endchar;
+
+sertochar "tau - final";
+beginchar(156, 6.5hu#, 8vu#, 0);
+    taucommon;
+    z6 =  (x2+2hu, y2); penpos6(basestroke, 90);
+    %z7 =  (x6+hu, y6); penpos7(basestroke, 90);
+    penstroke z4e{dir -50}..tension 1.8 ..{right}z6e; %---z7e;
+    penlabels(6, 7)
+
+endchar;
+
+
+
+% resh doubledotted - isolated
+sertochar "resh doubledotted - isolated";
+beginchar(157, 4hu#, 6vu#, 0);
+    dr_isolated_common;
+    z6 = (.6hu, y3+1.2vu);
+    z7 = z6 + (1.5hu, 0);
+    sertodot(6, 1);
+    sertodot(7, 1);
+    penlabels(6, 7);
+endchar;
+
+% resh doubledotted- final
+sertochar "resh doubledotted - final";
+beginchar(158, 3hu#, 4vu#, 1vu#);
+    dr_final_common;
+    z4 = (x3-.7hu, y2r+1.2vu);
+    z5 = z4 + (1.5hu, 0);
+    sertodot(4, 1);
+    sertodot(5, 1);
+    penlabels(4, 4);
+endchar;
+
+
+
+% ligatures
+sertochar "olaf lamad - initial";
+beginchar(171, 9.5hu#, 7vu#, 0);
+    lamadnonfinalcommon;
+    z3 = (whatever[z1, z2]); penpos3(basestroke, 40);
+    y3l = 0;
+    penstroke z2e--z3e;
+
+    z11 = (x1+2.5hu, y1);  penpos11(basestroke, 40);
+    z13 = (x3+2.5hu, y3); penpos13(basestroke, 40);
+    penstroke z11e--z13e;
+
+    z4 = (whatever[z1l, z3l]); penpos4(basestroke, 90);
+    y4l = 0;
+    z5 = (0, .5vu); penpos5(basestroke, 90);
+    penstroke z4e--z5e;
+    penlabels(3, 4, 5, 11, 13);
+endchar;
+
+def lamadolafcommon =
+    z1 = (1.5hu, .5vu); penpos1(basestroke, 90);
+    z2 = (x1-hu, 1.5vu); penpos2(basestroke, 0);
+    z12 = (x1+hu, y2); penpos12(basestroke, 180);
+    %z3 = (x2, 4.5vu); penpos3(.8basestroke, 0);
+    %z13 = (x12, y3); penpos13(.8basestroke, 180);
+    z3 = (x2, 4.5vu); penpos3(basestroke, 0);
+    z13 = (x12, y3); penpos13(basestroke, 180);
+    %z4 = (x2, 8vu); penpos4(basestroke, 20);
+    %z14 = (x12, y4); penpos14(basestroke, 200);
+    z4l = z3l + (0, 3.2vu);
+    z4r = z3r + (0, 3.8vu);
+    z14l = z13l + (0, 3.8vu);
+    z14r = z13r + (0, 3.2vu);
+ 
+    %z6 = (-.3hu, -vu); penpos6(.4basestroke, -45);
+    z6 = (-.8hu, -1.5vu); penpos6(.2basestroke, -45);
+
+    penstroke z4e..z3e..z2e{down}..z1e..{up}z12e..z13e..z14e;
+    penstroke z2e{down}..z6e;
+
+    penlabels(range 1 thru 14);
+enddef;
+
+sertochar "lamad olaf - isolated";
+beginchar(172, 4hu#, 8vu#, 0);
+    lamadolafcommon;
+endchar;
+
+
+sertochar "lamad olaf - final";
+beginchar(173, 4hu#, 8vu#, 0);
+    lamadolafcommon;
+    z7 = z1 + (2.5hu, 0); penpos7(basestroke, 270);
+
+    penstroke z12e{down}..{right}z7e;
+
+    penlabels(7);
+endchar;
+
+
+
+% Plural Sign
+sertochar "sey=ame";
+beginchar(7, 3hu#, 6vu#, 0);
+    z4 = (hu, 5.7vu);
+    z5 = z4 + (1.5hu, 0);
+    sertodot(4, 1);
+    sertodot(5, 1);
+    penlabels(4, 4);
+endchar;
+
+
+
+
+%% Vowels
+input syriacvowels;
+
+
+%sertochar "peto.ho a";
+%beginchar(1, 3hu#, 5vu#, 0);
+%    pickup vowel_pen;
+%    z11 = (0, 3vu);
+%    z12 = (x1+3hu, y1+3vu);
+%    z1 = (.1[z11,z12]);
+%    z2 = (.9[z11,z12]);
+%    z3 = (.3[z11,z12]);
+%    z4 = (.7[z11,z12]);
+%    %z5 = (x1+.5hu, y2);
+%    z16 = (.5[z11,z12]); % Hilfspunkt
+%    z6 = z16 + 2hu*dir(angle(z2-z1)+90);
+%    draw z1--z2;
+%    draw z3--z6--z4;
+%    penlabels(1,2,3,4,6)
+%endchar;
+%
+%
+%sertochar "revo.so e";
+%beginchar(2, 3hu#, 6vu#, 0);
+%   pickup vowel_pen;
+%   z1 = (0, 4vu);
+%   z2 = (x1+2.2hu, y1+vu);
+%   z3 = (x1+3hu, y1-vu);
+%   z4 = z2 + whatever*dir(-110);
+%   z4 = whatever[z1,z3];
+%
+%   draw z1..z2..z3;
+%   draw z2--z4;
+%
+%   penlabels(1,2,3,4);
+%endchar;
+%
+%
+%sertochar ".hevo.so i";
+%beginchar(3, 3hu#, 6vu#, 0);
+%   pickup vowel_pen;
+%
+%   z1 = (.8hu, 3vu);
+%   z2 = z1 + (2.9hu, 1.5vu);
+%   z3 = z1 + (-.8hu, 1vu);
+%   z4 = z3 + (3hu, 1.5vu);
+%   z5 = .4[z3, z4];
+%   z6 = .5[z1, z2];
+%
+%   draw z1--z2;
+%   draw z3--z4;
+%   draw z5--z6;
+%
+%   penlabels(1,2,3,4,5,6);
+%endchar;
+%
+%sertochar "zeqopo o";
+%beginchar(4, 3hu#, 6vu#, 0);
+%   pickup vowelII_pen;
+%
+%   z1 = (0, 3vu);
+%   z2 = z1 + (2hu, 3vu);
+%   z3 = z1 + (1.3hu, 1.5vu);
+%
+%   draw z1{dir 30}..{dir 135}z2..{right}z3;
+%   penlabels(1,2,3);
+%endchar;
+%
+%sertochar "`e.so.so u";
+%beginchar(5, 3hu#, 8vu#, 0);
+%   pickup vowel_pen;
+%
+%   z1 = (0, 5vu);
+%   z2 = z1 + (3hu, 3vu);
+%   z3 = .47[z1, z2];
+%   z4 = z1 + (2.5hu, -.5vu);
+%
+%   draw z1--z2;
+%   draw z3--z4;
+%
+%   pickup vowelIII_pen;
+%   z5 = z1 + (1.4hu, 0);
+%   z6 = z5 - (.5hu, .6vu);
+%
+%   draw z5..z6..cycle;
+%
+%   penlabels(range 1 thru 6)
+%endchar;
+%
+%
+%sertochar "qu^s^soyo (hard sign)";
+%beginchar(6, 1hu#, 4vu#, 0);
+%    z1 = (.5hu, 4vu);
+%    sertodot(1, 1.2);
+%endchar;
+%
+%
+%sertochar "peto.ho a invers";
+%beginchar(17, 3hu#, 5vu#, 0);
+%    pickup vowel_pen;
+%    z11 = (0, 1vu);
+%    z12 = (x1+3hu, y1+3vu);
+%    z1 = (.1[z11,z12]);
+%    z2 = (.9[z11,z12]);
+%    z3 = (.3[z11,z12]);
+%    z4 = (.7[z11,z12]);
+%    %z5 = (x1+.5hu, y2);
+%    z16 = (.5[z11,z12]); % Hilfspunkt
+%    z6 = z16 - 2hu*dir(angle(z2-z1)+90);
+%    draw z1--z2;
+%    draw z3--z6--z4;
+%    penlabels(1,2,3,4,6)
+%endchar;
+%
+%
+%sertochar "revo.so e invers";
+%beginchar(18, 3hu#, 6vu#, 0);
+%   pickup vowel_pen;
+%   z1 = (0, 4vu);
+%   z2 = (x1+hu, y1-2.2vu);
+%   z3 = (x1+3hu, y1-vu);
+%   z4 = z2 + whatever*dir(-110);
+%   z4 = whatever[z1,z3];
+%
+%   draw z1..z2..z3;
+%   draw z2--z4;
+%
+%   penlabels(1,2,3,4);
+%endchar;
+%
+%
+%sertochar ".hevo.so i";
+%beginchar(19, 3hu#, 4vu#, 0);
+%   pickup vowel_pen;
+%
+%   z1 = (.8hu, 1vu);
+%   z2 = z1 + (2.9hu, 1.5vu);
+%   z3 = z1 + (-.8hu, 1vu);
+%   z4 = z3 + (3hu, 1.5vu);
+%   z5 = .4[z3, z4];
+%   z6 = .5[z1, z2];
+%
+%   draw z1--z2;
+%   draw z3--z4;
+%   draw z5--z6;
+%
+%   penlabels(1,2,3,4,5,6);
+%endchar;
+%
+%sertochar "zeqopo o invers";
+%beginchar(20, 3hu#, 6vu#, 0);
+%   pickup vowelII_pen;
+%
+%   z1 = (2.5hu, 5vu);
+%   z2 = z1 - (2hu, 3vu);
+%   z3 = z1 - (1.3hu, 1.5vu);
+%
+%   draw z1{dir -150}..{dir -45}z2..{left}z3;
+%   penlabels(1,2,3);
+%endchar;
+%
+%sertochar "`e.so.so u invers";
+%beginchar(21, 3hu#, 8vu#, 0);
+%   pickup vowel_pen;
+%
+%   z1 = (3hu, 5vu);
+%   z2 = z1 - (3hu, 3vu);
+%   z3 = .47[z1, z2];
+%   z4 = z1 - (2.5hu, -.5vu);
+%
+%   draw z1--z2;
+%   draw z3--z4;
+%
+%   pickup vowelIII_pen;
+%   z5 = z1 - (1.4hu, 0);
+%   z6 = z5 + (.5hu, .6vu);
+%
+%   draw z5..z6..cycle;
+%
+%   penlabels(range 1 thru 6)
+%endchar;
+%
+%
+%
+%sertochar "rukko_ho (soft sign)";
+%beginchar(22, 1hu#, 2vu#, 0);
+%    z1 = (.5hu, 0vu);
+%    sertodot(1, 1.2);
+%endchar;
+
+
+
+sertochar "mvatlono (silent bar below)";
+beginchar(23, 4hu#, 2vu#, 0);
+    penpoint(1, 0, .5vu, basestroke, 75);
+    penpoint(2, 3hu, .5vu, basestroke, 75);
+    penstroke z1e--z2e;
+endchar;
+
+sertochar "mvatlono (silent bar above)";
+beginchar(8, 4hu#, 2vu#, 0);
+    penpoint(1, 0, .5vu, basestroke, 75);
+    penpoint(2, 3hu, .5vu, basestroke, 75);
+    penstroke z1e--z2e;
+endchar;
+
+
+
+% interpunction
+sertochar "full stop";
+beginchar(46, 3hu#, 1vu#, 0);
+    z1 = (1hu, 1vu);
+    sertodot(1, 1);
+endchar;
+
+sertochar "colon";
+beginchar(58, 3hu#, 4vu#, 0);
+    z1 = (1hu, 1vu);
+    z2 = (1hu, 4vu);
+    sertodot(1, 1);
+    sertodot(2, 1);
+endchar;
+
+
+
+sertochar "underscore";
+beginchar(95, 5hu#, 4vu#, 0);
+    pickup punct_pen;
+    bot z1 = (0,0);
+    bot z2 = (5hu,0);
+    draw z1--z2;
+%    penpoint(1, 0, .2hu, .4basestroke, 90);
+%    penpoint(2, 5hu, .2hu, .4basestroke, 90);
+%    penstroke z1e--z2e;
+endchar;
+
+sertochar "stretch";
+beginchar(45, 3hu#, 1vu#, 0);
+    penpoint(1, 0, .5vu, basestroke, 90);
+    penpoint(2, 3hu, .5vu, basestroke, 90);
+    penstroke z1e--z2e;
+endchar;
+
+
+
+def paraIplusII (suffix $)=
+    pickup para_pen;
+    z$a = z$ + (2hu, 0);
+    z$b = z$ + (0, 2vu);
+    z$c = z$a + (0, 4vu);
+    z$d = z$b + (4hu, 0);
+    %sertodot(8, 1);
+    drawdot z$a;
+    drawdot z$b;
+    drawdot z$c;
+    drawdot z$d;
+    penlabels($a, $b, $c, $d);
+enddef;
+
+sertochar "end paragraph 1";
+beginchar(33, 6hu#, 5vu#, 0);
+    pickup punct_pen;
+    z1 = (.5hu, .5vu);
+    z2 = z1 + (4hu, 4vu);
+    z3 = z1 + (0, 4vu);
+    z4 = z1 + (4hu, 0);
+    draw z1--z2;
+    draw z3--z4;
+    penlabels(1,2,3,4);
+    paraIplusII(1);
+endchar;
+
+sertochar "end paragraph 2";
+beginchar(34, 6hu#, 5vu#, 0);
+    z1 = (.5hu, .5vu);
+    penlabels(1);
+    paraIplusII(1);
+endchar;
+
+sertochar "end paragraph 3";
+beginchar(35, 6hu#, 5vu#, 0);
+    pickup para_pen;
+    z1 = (1hu, 1vu);
+    z2 = z1 + (3hu, 3vu);
+    z3 = z1 + (0, 3vu);
+    z4 = z1 + (3hu, 0);
+    drawdot z1;
+    drawdot z2;
+    drawdot z3;
+    drawdot z4;
+    penlabels(1,2,3,4);
+endchar;
+
+sertochar "end paragraph 4";
+beginchar(36, 6hu#, 5vu#, 0);
+    pickup para_pen;
+    z1 = (2.5hu, 1vu);
+    z2 = z1 + (0, 3vu);
+    drawdot z1;
+    drawdot z2;
+
+    pickup punct_pen;
+    z3 = (.5hu, 2.5vu);
+    z4 = z3 + (4hu, 0);
+    draw z3--z4;
+    penlabels(1,2,3,4);
+endchar;
+
+
+sertochar "end paragraph 5";
+beginchar(37, 8hu#, 3vu#, 0);
+    pickup para_pen;
+    z1 = (2hu, 1.5vu);
+    z2 = z1 + (4hu, 1vu);
+    drawdot z1;
+    drawdot z2;
+
+    pickup punct_pen;
+    z3 = (0, 2vu);
+    z4 = z3 + (2hu, 1vu);
+    z5 = z3 + (4hu, 0);
+    z6 = z3 + (6hu, -1vu);
+    z7 = z3 + (8hu, 0);
+    draw z3..z4..z5..z6..z7;
+    penlabels(range 1 thru 7);
+endchar;
+
+
+
+sertochar "end paragraph 6";
+beginchar(38, 3hu#, 6vu#, 1vu#);
+    pickup para_pen;
+    z1 = (1.5hu, .5vu);
+    z2 = z1 + (-1hu, 4vu);
+    drawdot z1;
+    drawdot z2;
+
+    pickup punct_pen;
+    z3 = (0, -1vu);
+    z4 = z3 + (1hu, 3.5vu);
+    z5 = z4 + (1hu, 3.5vu);
+
+    draw z3{up}..z4..{up}z5;
+    penlabels(range 1 thru 5);
+endchar;
+endinput;

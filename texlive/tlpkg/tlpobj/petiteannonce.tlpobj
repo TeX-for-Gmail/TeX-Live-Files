@@ -1,0 +1,18 @@
+name petiteannonce
+category Package
+revision 25915
+shortdesc A class for small advertisements
+longdesc The class enables you to create the sort of adverts that you
+longdesc pin on a noticeboard, with tear-off strips at the bottom where
+longdesc you can place contact details.
+containersize 3328
+containerchecksum 8ff32eaddcc84973851b93f0c1c1b250b596a080669ef60ea2c115098c4984d426e37240ae8781fa3b95ce494e9fecccdd259fd25b47402498028f2b8e5f9fe3
+doccontainersize 193556
+doccontainerchecksum d171f31889fbf07b727c78a99bc91a2e6a8231faa25944a600ddb17ba32273ffa40a39a56e6e9b2c35ebfd0bb396ee699ebd9ab179577ab07e63feb8686d4af5
+runfiles size=3
+ texmf-dist/tex/latex/petiteannonce/petiteannonce.cls
+catalogue-ctan /macros/latex/contrib/petiteannonce
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics advert
+catalogue-version 1.0001

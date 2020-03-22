@@ -1,0 +1,29 @@
+name pxjodel
+category Package
+revision 50009
+shortdesc Help change metrics of fonts from japanese-otf
+longdesc This package changes the setup of the japanese-otf package so
+longdesc that the TFMs for direct input are all replaced by new ones
+longdesc with prefixed names; for exmaple, nmlminr-h will be replaced by
+longdesc foo--nmlminr-h, where foo is a prefix specified by the user.
+longdesc This function will assist users who want to use the
+longdesc japanese-otf package together with tailored TFMs of Japanese
+longdesc fonts. The "jodel" part of the package name stands for
+longdesc "japanese-otf deluxe". Here "deluxe" is the name of
+longdesc japanese-otf's option for employing multi-weight Japanese font
+longdesc families. This option is probably the most likely reason for
+longdesc using japanese-otf. So pxjodel is really about japanese-otf's
+longdesc "deluxe" option, hence the name. It is not related to yodel
+longdesc singing, although some sense of word-play is intended.
+containersize 2516
+containerchecksum 321d79fd65b7c6476336981a60d094970c444ca72397ceeea663dee1ed0180a8d489c7635ffc721cb7c85e44ccd57bb6186185420980fe3fa5ca4b48cc9a8c52
+doccontainersize 126080
+doccontainerchecksum 78d8accbdfced5fd933c24708f0bc8e100a1799934ffb82efdbc830dcd1b6cbd9a71ce939092b7385d60ac6f29e52f2a4c1f9ce4010bd432566c8a69305298b4
+runfiles size=2
+ texmf-dist/tex/latex/pxjodel/pxjodel.sty
+catalogue-contact-repository https://github.com/zr-tex8r/PXjodel
+catalogue-ctan /language/japanese/pxjodel
+catalogue-date 2019-02-17 05:29:19 +0100
+catalogue-license mit
+catalogue-topics font-mgmt japanese font-sel font-use font-cjk
+catalogue-version 0.2a

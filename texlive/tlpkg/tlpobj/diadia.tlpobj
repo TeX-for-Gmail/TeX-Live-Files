@@ -1,0 +1,32 @@
+name diadia
+category Package
+revision 37656
+shortdesc Package to keep a diabetes diary
+longdesc The diadia package allows you to keep a diabetes diary.
+longdesc Usually, this means keeping record of certain medical values
+longdesc like blood sugar, blood pressure, pulse or weight. It might
+longdesc also include other medical, pharmaceutical or nutritional data
+longdesc (HbA1c, insulin doses, carbohydrate units). The diadia package
+longdesc supports all of this plus more - simply by adding more columns
+longdesc to the data file! It is able to evaluate the data file and
+longdesc typesets formatted tables and derived plots. Furthermore, it
+longdesc supports medication charts and info boxes. Supported languages:
+longdesc English, German. Feel free to provide other translation files!
+depend diadia.ARCH
+containersize 6364
+containerchecksum 55a246d4e3ab86d6300210d830ce464a935bb83c9ffd29b5387f0a56f5c82d4c5a71cf107f78ffe0cde07f17897e2f949acf1fe70da9da7c7992b330a07b1c68
+doccontainersize 452484
+doccontainerchecksum e7487bb47fbe8aee714304150c00866780782a9ad32bf6ccbb02799aeb251345ce1cf042e8b4d7b4011083a3be2fe3b16b78f25a4a4206d173ac1384716592ab
+runfiles size=10
+ texmf-dist/scripts/diadia/diadia.lua
+ texmf-dist/tex/latex/diadia/diadia-english.trsl
+ texmf-dist/tex/latex/diadia/diadia-fallback.trsl
+ texmf-dist/tex/latex/diadia/diadia-german.trsl
+ texmf-dist/tex/latex/diadia/diadia.cfg
+ texmf-dist/tex/latex/diadia/diadia.sty
+catalogue-contact-repository https://bitbucket.org/kleberj/diadia/
+catalogue-ctan /macros/latex/contrib/diadia
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics data-disp
+catalogue-version 1.1

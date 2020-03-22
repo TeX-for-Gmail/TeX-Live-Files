@@ -1,0 +1,32 @@
+name pgf-cmykshadings
+category Package
+revision 48982
+shortdesc Support for CMYK and grayscale shadings in PGF/TikZ
+longdesc This package provides support for CMYK and grayscale shadings
+longdesc for the pgf package. By default pgf only supports RGB shadings.
+longdesc The package attempts to produce shadings consistent with the
+longdesc currently selected xcolor colour model. The rgb, cmyk, and gray
+longdesc colour models from the xcolor package are supported.
+containersize 6648
+containerchecksum 58a1c73f4ad2f0a64538683be8227b429fbe24d4a91c39949e37caa356a30ff1e70b6e00647b8a87eff26bcf99a99d65b0ac8c8710a6a85d89942a247bf3af26
+doccontainersize 467892
+doccontainerchecksum 107029c601a5e889b6156c417a45013ecf47f7e2db4c35ca276467922e8c41ed8a23a118c5949095bc421fa15e41cccf9f6e57d2052434c44d81781532db73bc
+srccontainersize 10700
+srccontainerchecksum c11c49bb5635a619ec9421013416f3ab18b2f4caecf2cc70bc393e858f95bece057279af6cce8c0664474e3d258c60e259c30ddd7415172ccb95a369a1565f0d
+runfiles size=20
+ texmf-dist/tex/latex/pgf-cmykshadings/pgf-cmykshadings.sty
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-common-postscript.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-dvipdfm.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-dvipdfmx.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-dvips.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-luatex.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-pdftex.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-textures.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-vtex.def
+ texmf-dist/tex/latex/pgf-cmykshadings/pgfsys-cmykshadings-xetex.def
+catalogue-contact-repository https://github.com/dcpurton/pgf-cmykshadings
+catalogue-ctan /graphics/pgf/contrib/pgf-cmykshadings
+catalogue-date 2018-10-24 09:04:01 +0200
+catalogue-license lppl1.3c
+catalogue-topics colour pgf-tikz
+catalogue-version 1.1a

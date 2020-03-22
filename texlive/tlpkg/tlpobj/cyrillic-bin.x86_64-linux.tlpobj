@@ -1,0 +1,9 @@
+name cyrillic-bin.x86_64-linux
+category TLCore
+revision 29820
+shortdesc x86_64-linux files of cyrillic-bin
+containersize 376
+containerchecksum 71af40d25999c6683d31b48eea601cf4505dafd92e4ead6f87a9456313f8172479a2f58e63df37d585e36bfa4e783d45fb91f429fbe30f007a7133b4837ffdb3
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/rubibtex
+ bin/x86_64-linux/rumakeindex

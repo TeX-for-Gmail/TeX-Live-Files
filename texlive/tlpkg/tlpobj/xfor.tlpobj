@@ -1,0 +1,21 @@
+name xfor
+category Package
+revision 15878
+shortdesc A reimplementation of the LaTeX for-loop macro
+longdesc The package redefines the LaTeX internal \@for macro so that
+longdesc the loop may be prematurely terminated. The action is akin to
+longdesc the C/Java break statement, except that the loop does not
+longdesc terminate until the end of the current iteration
+containersize 1716
+containerchecksum 6e3ebe83dc39a87aa86d5f173f56893ab1678253dc18dedf16c5d4a2df864e21b9b6e84c6bda56e2c624106efb2f73c110964948e4d553848bbebae87f05bff8
+doccontainersize 102224
+doccontainerchecksum e75b3d57c09e1580282f4002b684645aa21aeed4f90626b7e439f30dd79edec9c6f23492eef83b67e9ccb885c001caca6201d43b5182632a5b38ba5f67488b52
+srccontainersize 4904
+srccontainerchecksum 508dd3c696da5287cee35fbeca12aa60667908f1f456a9d1333197e76b707902d281e83146b81e0a095c168054ec96013074f5b0bc236e35cb17732f4158e2ae
+runfiles size=1
+ texmf-dist/tex/latex/xfor/xfor.sty
+catalogue-ctan /macros/latex/contrib/xfor
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.05

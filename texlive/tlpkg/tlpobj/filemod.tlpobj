@@ -1,0 +1,28 @@
+name filemod
+category Package
+revision 24042
+shortdesc Provide file modification times, and compare them
+longdesc The package provides macros to read and compare the
+longdesc modification dates of files. The files may be .tex files,
+longdesc images or other files (as long as they can be found by LaTeX).
+longdesc It uses the \pdffilemoddate primitive of pdfLaTeX to find the
+longdesc file modification date as PDF date string, parses the string
+longdesc and returns the value to the user. The package will also work
+longdesc for DVI output with recent versions of the LaTeX compiler which
+longdesc uses pdfLaTeX in DVI mode. The functionality is provided by
+longdesc purely expandable macros or by faster but non-expandable ones.
+containersize 3528
+containerchecksum 4ec27d16dc551d42f9ff326d20f78c48d73e7324af65f6ccb9e662dcd399394c631d9a742aef8a2efc235dfd769a04d22b4ba37eb8a2cd06631cba298540c08b
+doccontainersize 277228
+doccontainerchecksum 88c1d8c61ed1759617c9cec7cecbb28459dd5e06f139ba3ca2f98d7b6357a15fc89dd90daf26e5f4d17f33fe9673a8c17363fb757ecb71d9e530f0e153ec486e
+runfiles size=8
+ texmf-dist/tex/generic/filemod/filemod-expmin.tex
+ texmf-dist/tex/generic/filemod/filemod.tex
+ texmf-dist/tex/latex/filemod/filemod-expmin.sty
+ texmf-dist/tex/latex/filemod/filemod.sty
+catalogue-also stampinclude
+catalogue-ctan /macros/latex/contrib/filemod
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-tool
+catalogue-version 1.2

@@ -1,0 +1,24 @@
+name burmese
+category Package
+revision 25185
+shortdesc Basic Support for Writing Burmese
+longdesc This package provides basic support for writing Burmese. The
+longdesc package provides a preprocessor (written in Perl), an Adobe
+longdesc Type 1 font, and LaTeX macros.
+execute addMap burmese.map
+containersize 54644
+containerchecksum 7bce3a31febfc6a959ba4779d975cf93276a0bd1115e06a50a3c8d705e49e8d6747ecebc7eac2147f021a538dda1bb241d8f320ef1486229c930141e06d6ae26
+doccontainersize 133020
+doccontainerchecksum 4a7f3628efd913a362786564dd260dc1a63e51a397af3d92222db6f758b7a7792b13e58422d2604ae98f615fb5fc42e77f265e505236db9bc981d7951e0ee1ed
+srccontainersize 3436
+srccontainerchecksum 066d164d97f4fa9e1050d75c3c20997be859718a2be37c465010040f969b2d3aa17edc3c241f5aca45d91dd12517d72a731d02954088ee83ff5aeec3be0b0fcd
+runfiles size=18
+ texmf-dist/fonts/map/dvips/burmese/burmese.map
+ texmf-dist/fonts/tfm/public/burmese/burm.tfm
+ texmf-dist/fonts/type1/public/burmese/burm.pfb
+ texmf-dist/tex/latex/burmese/birm.sty
+ texmf-dist/tex/latex/burmese/ubirm.fd
+catalogue-ctan /language/burmese
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics burmese

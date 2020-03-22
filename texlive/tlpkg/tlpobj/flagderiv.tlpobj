@@ -1,0 +1,22 @@
+name flagderiv
+category Package
+revision 15878
+shortdesc Flag style derivation package
+longdesc The flagderiv package is used to create mathematical
+longdesc derivations using the flag/flagpole notation. The package
+longdesc features an intuitive command syntax, opening and closing
+longdesc multiple flagpoles, different comment styles, customizable
+longdesc symbols and label namespaces.
+containersize 2080
+containerchecksum a7618ffc60c548fb98a581324901af09defd9226a655163d967e251b090b6ea74d91ec10bbe1e5d685a83d147818ecbf8b66d84c972cacaf3e270baf39293200
+doccontainersize 183708
+doccontainerchecksum 8c9731aec45eb594b95e1c89a1967f169bf8394664977059af0fd77aa40ebf3769200925382694e221a32ced470161f505420539b5e3f7f00be4688e308ff54a
+srccontainersize 12256
+srccontainerchecksum c81038f892b37dc2759251cc14d8bfe11d0aff056b95204cfe1a4434ef1bdc6fb3c035edca0e01282ca019193871dd6044a8b9b64f3b6051c24f041700f2b71e
+runfiles size=2
+ texmf-dist/tex/latex/flagderiv/flagderiv.sty
+catalogue-ctan /macros/latex/contrib/flagderiv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths
+catalogue-version 0.10

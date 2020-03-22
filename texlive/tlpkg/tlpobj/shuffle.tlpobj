@@ -1,0 +1,26 @@
+name shuffle
+category Package
+revision 15878
+shortdesc A symbol for the shuffle product
+longdesc The bundle provides a LaTeX package and a font (as Metafont
+longdesc source) for the shuffle product which is used in some part of
+longdesc mathematics and physics.
+containersize 3644
+containerchecksum 62b456ae961d34908fc25cc085bfa04d39e70f2641d65dc8e0eda419ec96a328798cc258162ebe065285f3ee1088e6076525ccbd8c0f7c0800024f371bdee65d
+doccontainersize 279692
+doccontainerchecksum 1b6427fa0cf98651a219f1cf6f15a400c09ea924bf0dcea7d48ce0665a5f1828ad64513f87089ea48d02d489d8020c90c661bac60c069601be437c77364813d4
+srccontainersize 3264
+srccontainerchecksum 250729a95e91eef9c1f9b5364aa3b0a1f03a75805845c773f82b26c3782764d6f866f33391aed2f0cbb167d016b06593c015e6fb2aa9b7ababf33f215fb92647
+runfiles size=9
+ texmf-dist/fonts/source/public/shuffle/shuffle.mf
+ texmf-dist/fonts/source/public/shuffle/shuffle10.mf
+ texmf-dist/fonts/source/public/shuffle/shuffle7.mf
+ texmf-dist/fonts/tfm/public/shuffle/shuffle10.tfm
+ texmf-dist/fonts/tfm/public/shuffle/shuffle7.tfm
+ texmf-dist/tex/latex/shuffle/Ushuffle.fd
+ texmf-dist/tex/latex/shuffle/shuffle.sty
+catalogue-ctan /fonts/shuffle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics maths physics
+catalogue-version 1.0

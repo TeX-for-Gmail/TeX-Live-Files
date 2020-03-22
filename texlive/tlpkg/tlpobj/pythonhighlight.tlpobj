@@ -1,0 +1,16 @@
+name pythonhighlight
+category Package
+revision 43191
+shortdesc Highlighting of Python code, based on the listings package
+longdesc Highlighting of Python code, based on the listings package.
+containersize 2180
+containerchecksum 1018d4383ba04f92d383d2c4f51d30f091528f7a89ff23614e0ebc9e488ef3cc8167de12a42e6a6465c2b3937d849bd5eecc94cab0a9b8003569b06ae2c91632
+doccontainersize 1444
+doccontainerchecksum 31297eb541060d760fd61ebe169b840cf182f8f857986aba5a2a578373037d3c99ee12ec9c707ab1f9d29564925821665997ea45f728273007f61a5f0bea5180
+runfiles size=2
+ texmf-dist/tex/latex/pythonhighlight/pythonhighlight.sty
+catalogue-also listings
+catalogue-ctan /macros/latex/contrib/pythonhighlight
+catalogue-date 2017-02-11 05:22:12 +0100
+catalogue-license other-free
+catalogue-topics listing

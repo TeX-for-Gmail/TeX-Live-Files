@@ -1,0 +1,26 @@
+name nag
+category Package
+revision 24741
+shortdesc Detecting and warning about obsolete LaTeX commands
+longdesc Old habits die hard. All the same, there are commands, classes
+longdesc and packages which are outdated and superseded. The nag package
+longdesc provides routines to warn the user about the use of such
+longdesc obsolete things. As an example, we provide an extension that
+longdesc detects many of the "sins" described in l2tabu.
+containersize 7800
+containerchecksum a2d239ed1e12fd1b082c8df5531c9b83cf55c39b13781aa01848f3fd06136a9522598abf9e63580a93fb12ad7c392061b14d5e96b4d4f4dcf8180180280224a0
+doccontainersize 438652
+doccontainerchecksum 9a4859b67182b40428f720e2e955b591fd3fdf30acbe7c3214548766312833b3ebd5a046d1ca2e2b824e3bad95bde635a1cd112e8023395333cdcdb9cdf55ba9
+srccontainersize 17648
+srccontainerchecksum 969b7e463e6e8eca51af114ba51d538d0a1f7b9ed3cb5dfecab92ec7eb913a872b740b2f434e854a7c11b31c7b3364120379a5732220833235912e73ee202878
+runfiles size=10
+ texmf-dist/tex/latex/nag/nag-abort.cfg
+ texmf-dist/tex/latex/nag/nag-experimental.cfg
+ texmf-dist/tex/latex/nag/nag-l2tabu.cfg
+ texmf-dist/tex/latex/nag/nag-orthodox.cfg
+ texmf-dist/tex/latex/nag/nag.sty
+catalogue-ctan /macros/latex/contrib/nag
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics latex-qual
+catalogue-version 0.7

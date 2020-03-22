@@ -1,0 +1,17 @@
+name plain-doc
+category Package
+revision 28424
+catalogue csname-doc
+shortdesc A list of plain.tex cs names
+longdesc The document constitutes a list of every control sequence name
+longdesc (csname) described in the TeXbook, together with an indication
+longdesc of whether the csname is a primitive TeX command, or is defined
+longdesc in plain.tex
+containersize 488
+containerchecksum bae58c957de52e1a45f91d8ea49579ea9c5b50b641331ae8d27146b6bbda1cf93e09abe58a011164ef99e5513cc32d346da7d693e975271e1892674aa5799406
+doccontainersize 4172
+doccontainerchecksum 03f17a65680e4fedd76abf2ec46dbac4b7871c3106c74d3d7c7f200bd6124146b2f78848a3761eaf63b2c909eb5925b78441d73a48a4437ef496b8643777d847
+catalogue-ctan /info/plain-doc/csname.txt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics tut-plaintex

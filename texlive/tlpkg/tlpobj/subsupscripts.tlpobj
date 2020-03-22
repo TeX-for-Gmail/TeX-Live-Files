@@ -1,0 +1,18 @@
+name subsupscripts
+category Package
+revision 16080
+shortdesc A range of sub- and superscript commands
+longdesc The package provides a comprehensive and flexible set of
+longdesc commands for combinations of left and right sub- and
+longdesc superscripts.
+containersize 896
+containerchecksum a1578fb66e6068955c4aa69b8ccb951e79fe55616ceaac8d5f01b62d8c6e862d816e0e1ff6c387bad8b8416a3993699872b0ee3df4f432a733ded0eaa60424fe
+doccontainersize 101524
+doccontainerchecksum b1424b69633b1c09fde52a38c2e50b6c744671292875688b295586bfcd340283c03a122c83298e8be9bf714201db35f0000c41720a6db49cc09591ae69a3d176
+runfiles size=1
+ texmf-dist/tex/latex/subsupscripts/subsupscripts.sty
+catalogue-ctan /macros/latex/contrib/subsupscripts
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics subsup-pos maths physics
+catalogue-version 1.0

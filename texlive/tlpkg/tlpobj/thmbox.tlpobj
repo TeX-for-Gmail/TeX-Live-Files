@@ -1,0 +1,21 @@
+name thmbox
+category Package
+revision 15878
+shortdesc Decorate theorem statements
+longdesc The package defines an environment thmbox that presents
+longdesc theorems, definitions and similar objects in boxes decorated
+longdesc with frames and various aesthetic features. The standard macro
+longdesc \newtheorem may be redefined to use the environment.
+containersize 2416
+containerchecksum 83ceeb0cf84ff75afb734f41be5a5309692c6804a5a20627c54cc8760f8ac5e205cf1a24097c8b8624823668796092d620f5ffbc488f63b87e7cbf9365279aac
+doccontainersize 93936
+doccontainerchecksum ad8e0710a15781eb3164527dd16ecc2050d3cd3317c386841ad8612a9ebc6055a1501272e3b01bcbc6a7f1ffa80455bf2ccdc0cc9ff4428c9688e9f6404a16ff
+srccontainersize 8324
+srccontainerchecksum 1b559b9286a97c3157d568982513541028d96cfd5d67ac541909586251ac3729574c23a05ebdfc42ab06a92ab2ea0cef878b1f42983d06fd48f825962de57cb6
+runfiles size=2
+ texmf-dist/tex/latex/thmbox/thmbox.sty
+catalogue-also shadethm
+catalogue-ctan /macros/latex/contrib/thmbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-theorem decoration

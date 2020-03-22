@@ -1,0 +1,14 @@
+name ascii-chart
+category Package
+revision 20536
+shortdesc An ASCII wall chart
+longdesc The document may be converted between Plain TeX and LaTeX
+longdesc (2.09) by a simple editing action.
+containersize 412
+containerchecksum ffc1634e3e5313eb0cf04caaa227d6477cf81ba9b6eb887b2897b6740999f1f338b2dc53e6da735876f9c3b130394be59b0a285309d61909a73fdb0d6f28a8cc
+doccontainersize 26064
+doccontainerchecksum 51b11a22dd963336fd93a87e2948d05f291b4191253a474b9d6f70ec31a2645801fb5f6fb6238f6a9b2979dbaba4a6ec8ac15a41c4e8867645dfa54408f18373
+catalogue-ctan /info/ascii-chart
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics documentation

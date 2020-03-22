@@ -1,0 +1,14 @@
+name patgen2-tutorial
+category Package
+revision 16490
+shortdesc A tutorial on the use of Patgen 2
+longdesc This document describes the use of Patgen 2 to create
+longdesc hyphenation patterns for wide ranges of languages.
+containersize 412
+containerchecksum 4a157b6351e15274fc2972e80cfca740b4abdce0fc643a499fad8588af71441887974ac258627b9ef215ff9be8e33bb045f134554a6c0382b74f6af3275ab04b
+doccontainersize 61632
+doccontainerchecksum 4c375722cc01baaca61acb9d93baae99f7776483a6492d19b7cfbb13038a40ec3c76bc8580cc455e9233e89d0c29194f8c41e51078d3996a3e72431d9113a64c
+catalogue-ctan /info/patgen2
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tutorial

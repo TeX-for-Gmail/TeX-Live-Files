@@ -1,0 +1,23 @@
+name modref
+category Package
+revision 15878
+shortdesc Customisation of cross-references in LaTeX
+longdesc The package contains macros which allow authors to easily
+longdesc customise how cross-references appear in their document, both
+longdesc in general (across all cross-references) and for particular
+longdesc types of references (identified by a prefix in the reference
+longdesc label), in a very generic manner.
+containersize 2604
+containerchecksum ef5d822fedbd5026903fb7d2630a837a3a1b0222150ee1a9f72a54e13d626a0387abd1fc20b18a257714c63cb65868ac885f8340d35c5453b42323da3b9b0782
+doccontainersize 148376
+doccontainerchecksum f7539376630672b6fc67821045eb8c891b4781d233e1b914f8fc5c255fdcc57ecb6e5ef4d36ae72ceac185e8d2e4aee42741538f27fb3ab1f5160855cfbc8def
+srccontainersize 14244
+srccontainerchecksum 370a7287ed60084ce3d92ef722bb1b1c5f49faf6563a154dc2fa2442a60eb2ab06ea1c82d63e5c887b8aea859f9e647a5d80455f9cc87746d2c9be25f4920b47
+runfiles size=2
+ texmf-dist/tex/latex/modref/modref.sty
+catalogue-also refstyle
+catalogue-ctan /macros/latex/contrib/modref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics label-ref
+catalogue-version 1.0

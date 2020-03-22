@@ -1,0 +1,28 @@
+name lisp-on-tex
+category Package
+revision 38722
+shortdesc Execute LISP code in a LaTeX document
+longdesc The package provides a LISP interpreter written using TeX
+longdesc macros; it is provided as a LaTeX package. The interpreter
+longdesc static scoping, dynamic typing, and eager evaluation.
+containersize 13164
+containerchecksum 67817d9894ac5bc8d456ce2b114eba81b0c444bf53422c4acb5066b42cd5cd55d73c46fb2b443db9fe3b13bebb58d6fd7f2bb31686dc4ac2295447285295c602
+doccontainersize 142988
+doccontainerchecksum fb3a8ef4ada38d910b3055f408059daf700946c84b17873846175e6cd3075ad7f3889d2af154adc3a7898ac33646251bdbe0d8cda17ccf354dee526a96476432
+runfiles size=22
+ texmf-dist/tex/latex/lisp-on-tex/lisp-arith.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-gc.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-latexutil.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-mod-fpnum.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-mod-l3regex.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-on-tex.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-prim.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-read.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-simple-alloc.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-string.sty
+ texmf-dist/tex/latex/lisp-on-tex/lisp-util.sty
+catalogue-ctan /macros/latex/contrib/lisp-on-tex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license bsd
+catalogue-topics exec-foreign
+catalogue-version 2.0

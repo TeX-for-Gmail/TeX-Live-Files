@@ -1,0 +1,19 @@
+name underoverlap
+category Package
+revision 29019
+shortdesc Position decorations over and under expressions
+longdesc The package overcomes TeX's inherent limitations in commands
+longdesc that place decorations (such as braces) at arbirary positions
+longdesc over and under expressions, overlapping as necessary.
+containersize 3392
+containerchecksum 3f94b5d33cfaa7f48441ba656e9498ea17ee5ca404e39486004e43bed71bab5f2140b391191e4d6f9575ca23e09b83bce343433c02cc394844270e563aab70c3
+doccontainersize 271816
+doccontainerchecksum 5214981a15d7f15cd361f007505a4a0060a2952d75ea28f4eaef01c19a5b79736512a2b0a8c5e6ece2d08c364780256963276a9bc9ea980e13ba292e3d0b8bc2
+runfiles size=4
+ texmf-dist/tex/latex/underoverlap/underoverlap.sty
+catalogue-contact-repository https://github.com/mhelvens/latex-underoverlap
+catalogue-ctan /macros/latex/contrib/underoverlap
+catalogue-date 2017-06-28 04:59:58 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.0.1-r1

@@ -1,0 +1,31 @@
+name tkz-euclide
+category Package
+revision 22830
+shortdesc Tools for drawing Euclidean geometry
+longdesc The tkz-euclide package is a set of files designed to give math
+longdesc teachers and students easy access to the programming of
+longdesc Euclidean geometry with TikZ.
+containersize 17732
+containerchecksum 59ec42eeb1bbdafd1b4c8cc386260d6db02d799e21a4d4a4e43e44edd3adce0b6ee67902b8e9c713738b3371cad22cf69f90f61e0ea55d9815f689afc2c5cac8
+doccontainersize 755372
+doccontainerchecksum 44dd15fa046d3efb34de0050589ed1358e3b8db121aa64ac07a40ee83364fc8df5af30126ba58bd9fda22bb4dfde7b55170d5949b8cbee41f69de1a7a4e7d515
+runfiles size=38
+ texmf-dist/tex/latex/tkz-euclide/tkz-euclide.sty
+ texmf-dist/tex/latex/tkz-euclide/tkz-lib-symbols.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-addpoints.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-angles.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-arcs.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-circles.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-lines.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-polygons.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-protractor.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-sectors.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-obj-vectors.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-tools-intersections.tex
+ texmf-dist/tex/latex/tkz-euclide/tkz-tools-transformations.tex
+catalogue-also eukleides pst-eucl
+catalogue-ctan /macros/latex/contrib/tkz/tkz-euclide
+catalogue-date 2018-09-19 18:55:04 +0200
+catalogue-license lppl
+catalogue-topics maths graphics-use
+catalogue-version 1.16c

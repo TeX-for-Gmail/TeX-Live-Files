@@ -1,0 +1,19 @@
+name lstbayes
+category Package
+revision 48160
+shortdesc Listings language driver for Bayesian modeling languages
+longdesc The package provides language drivers for the listings package
+longdesc for several languages not included in that package: BUGS, JAGS,
+longdesc and Stan.
+containersize 2920
+containerchecksum 8089546f54a849fdd2b8cd1bb2430927a03249f1acb72bd9d37e9ce42770be2413c6ba8186a45eda8f52a3ba2f34e01e6073ed7acce5883d9407e4ccd86cc12e
+doccontainersize 269280
+doccontainerchecksum 9e256d20493164eb1ed01bb6f7dc7f555d9617492fe14688c0852b85e27c1f8f7f1978b1352ea3294bea41f77ce505c6a5bf2910514240e62ce19c47c8da0ee6
+srccontainersize 4168
+srccontainerchecksum 9378291c820b65d1f1f126a47d6db40ad757009d71327f84e5b78fc4309d77272231cc892fb6881426130d6571b0e7caca7ee910117a9e2660cef42f6f0d7827
+runfiles size=3
+ texmf-dist/tex/latex/lstbayes/lstbayes.sty
+catalogue-ctan /macros/latex/contrib/lstbayes
+catalogue-date 2018-07-07 10:31:36 +0200
+catalogue-license lppl1.3
+catalogue-topics listing

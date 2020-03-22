@@ -1,0 +1,21 @@
+name matlab-prettifier
+category Package
+revision 34323
+shortdesc Pretty-print Matlab source code
+longdesc The package extends the facilities of the listings package, to
+longdesc pretty-print Matlab and Octave source code. (Note that support
+longdesc of Octave syntax is not complete.)
+containersize 4140
+containerchecksum 840d860303925d148c10a980218018ed14e2d0ba2b1638f8328308a0400e8862ced7cd28822fd81c3c3533d2ef4cd37e1c4009065b1300011898fefb407ac202
+doccontainersize 663904
+doccontainerchecksum 22b783fbe09f661d1e5034cb623fab29e54df35b4f0379579f430b17a80236a843c15201b6583bf58f22ae39dba34d7f5a4f8482b1c6d185822940c67ac06942
+srccontainersize 21700
+srccontainerchecksum 25daf7d57d376a2a218a48c275b07459b512bb0e6ab95e78969883a3ca26f010c2e3204c0fe9af0922a50b48aa0f87c6b47973cc7adf9678d351faf9e263a9d3
+runfiles size=4
+ texmf-dist/tex/latex/matlab-prettifier/matlab-prettifier.sty
+catalogue-also matlabweb
+catalogue-ctan /macros/latex/contrib/matlab-prettifier
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics listing
+catalogue-version 0.3

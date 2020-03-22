@@ -1,0 +1,22 @@
+name rccol
+category Package
+revision 15878
+shortdesc Decimal-centered optionally rounded numbers in tabular
+longdesc The rccol package provides decimal-centered numbers:
+longdesc corresponding digits and decimal separators aligned.
+longdesc Furthermore, rounding to the desired precision is possible. The
+longdesc package makes use of the fltpoint package (as well as the LaTeX
+longdesc required array package).
+containersize 2160
+containerchecksum 0a712f0918b4c0e4cf8cc2a0d442a681c6cd4d00b50478751512ed4588f070566f005717196f694c8d07e79f8ab6a49be6ddbda8db71af65e30cfbbceeab6d2e
+doccontainersize 143228
+doccontainerchecksum 56c43ee9f49764ce50da6b1b4fd736cfff16a1cf3907fc7189807e5c946f1c25c593ddc1aa22c2ce2e0799f7057efe2df35bfb9aef0fa1c31724110a352fe4cd
+srccontainersize 9172
+srccontainerchecksum bc0f7ee1a6fec9adf6d8ae77fb174fb0334030fcc504af46bb2cb88516c05b4b9539748b381a029b657f22d7ce6313b0f19471ef85b1064139e6cb7862c726e9
+runfiles size=2
+ texmf-dist/tex/latex/rccol/rccol.sty
+catalogue-ctan /macros/latex/contrib/rccol
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics table maths
+catalogue-version 1.2c

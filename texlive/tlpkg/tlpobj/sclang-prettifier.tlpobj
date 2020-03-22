@@ -1,0 +1,21 @@
+name sclang-prettifier
+category Package
+revision 35087
+shortdesc Prettyprinting SuperCollider source code
+longdesc Built on top of the listings package, the package allows
+longdesc effortless prettyprinting of SuperCollider source code in
+longdesc documents typeset with LaTeX & friends.
+containersize 2248
+containerchecksum 77f8909b870fbaa4f1a0414f75f08ac602051d26c0c935be8661be8820a0b77734b614b9f5c8333b1f1fd12f57a6ee3c4c403f151bc60300e454673a2a4235c2
+doccontainersize 513152
+doccontainerchecksum 7680fa17762f17d2d7f3c9d3062bd194394bbbfbee36e4704e8b95b2be568cab51fd1dac9d90c6034919b3ec61f75f0f7689478c16f53ac7b4ee820768eaffa8
+srccontainersize 9276
+srccontainerchecksum 8a9188cccf4eece9844156747bdf8414bd42227cdb64ae79ce2e95c729ebed16c9af14abb943cb1caaaebb693bde4d39e39d1302afc0595444d16b3bafa98131
+runfiles size=2
+ texmf-dist/tex/latex/sclang-prettifier/sclang-prettifier.sty
+catalogue-also listings
+catalogue-ctan /macros/latex/contrib/sclang-prettifier
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics listing synt-hlt
+catalogue-version 0.1

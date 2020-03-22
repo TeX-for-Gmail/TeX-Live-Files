@@ -1,0 +1,22 @@
+name pst-magneticfield
+category Package
+revision 49780
+shortdesc Plotting a magnetic field with PSTricks
+longdesc pst-magneticfield is a PSTricks related package to draw the
+longdesc magnetic field lines of Helmholtz coils in a two or three
+longdesc dimensional view. There are several parameters to create a
+longdesc different output. For more informations or some examples read
+longdesc the documentation of the package.
+containersize 5464
+containerchecksum cc2a45978e49d93e677f4b028afeaaf89a0ec5748f545cb575fcd339cf92e1b08d870be79d80a5cf464b29b4e51d5ac5196bfe0665408da1108abf4da4f57222
+doccontainersize 22816204
+doccontainerchecksum cb757378708fea31eb6e644eedb62a23de45c756d0d4fbd902d40a4fd9bb8189ec1a513e5d12748ee2264bc6a35eec67a7bebb8d59128a367025a6dbc6f5551a
+runfiles size=6
+ texmf-dist/dvips/pst-magneticfield/pst-magneticfield.pro
+ texmf-dist/tex/generic/pst-magneticfield/pst-magneticfield.tex
+ texmf-dist/tex/latex/pst-magneticfield/pst-magneticfield.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-magneticfield
+catalogue-date 2019-01-20 22:09:22 +0100
+catalogue-license lppl
+catalogue-topics physics pstricks
+catalogue-version 1.16

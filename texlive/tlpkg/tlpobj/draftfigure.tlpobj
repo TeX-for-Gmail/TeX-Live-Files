@@ -1,0 +1,23 @@
+name draftfigure
+category Package
+revision 44854
+shortdesc Replace figures with a white box and additional features
+longdesc With this package you can control the outcome of a figure which
+longdesc is set to draft and modify the display with various options.
+containersize 1828
+containerchecksum e8ced947e69803243543657185e8fb28e67776dc9eee5e095126ec712fa368c32903f53243aaabb7308c895cf8e0c10a6d89c33e6b6c5d109f0300dab5213e60
+doccontainersize 163348
+doccontainerchecksum f0a9a59ee326746802fb33412c44148ed8c836a24653df6685ecb69bc76870cae63ac8955274705639e658491566da0d0633ee8d57cf57d58fe43a971252ee05
+runfiles size=1
+ texmf-dist/tex/latex/draftfigure/draftfigure.sty
+catalogue-contact-announce https://github.com/LukasCBossert/draftfigure
+catalogue-contact-bugs https://github.com/LukasCBossert/draftfigure/issues
+catalogue-contact-development https://github.com/LukasCBossert/draftfigure
+catalogue-contact-home https://github.com/LukasCBossert/draftfigure/
+catalogue-contact-repository https://github.com/LukasCBossert/draftfigure
+catalogue-contact-support https://github.com/LukasCBossert/draftfigure
+catalogue-ctan /macros/latex/contrib/draftfigure
+catalogue-date 2018-01-07 14:52:23 +0100
+catalogue-license lppl1.3
+catalogue-topics comp-supp editorial layout
+catalogue-version 0.2

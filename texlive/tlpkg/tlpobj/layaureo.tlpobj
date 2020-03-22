@@ -1,0 +1,22 @@
+name layaureo
+category Package
+revision 19087
+shortdesc A package to improve the A4 page layout
+longdesc This package produces a wide page layout for documents that use
+longdesc A4 paper size. Moreover, LayAureo provides both a simple hook
+longdesc for leaving an empty space which is required if pages are
+longdesc bundled by a press binding (use option binding=length), and an
+longdesc option called big which it forces typearea to become maximum.
+containersize 1748
+containerchecksum 849b0e0fbd15b45cb31ed4856b0eaa190c26437a1965da2c860af62b65cbb000b590320611e96c5a6c4cc63c029c31fb352ec44d96e0704eb52c70ee460abcd3
+doccontainersize 126876
+doccontainerchecksum b4333e1361b352689dfd67e13a694a304449eac61ef8189957356bd94e5745f4c15fa38bc21219c8a21805dbecd44a51e719bbcd884b850ba1276759bdebeb94
+srccontainersize 8972
+srccontainerchecksum 054df6aade854320987e605aad0a641778336ef918ef086dd097db8d1a2fc8d623f0335aa4ffb98942e157438ba06b6e75411b48db541779fc2a6e08e5b1c594
+runfiles size=1
+ texmf-dist/tex/latex/layaureo/layaureo.sty
+catalogue-ctan /macros/latex/contrib/layaureo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics layout
+catalogue-version 0.2

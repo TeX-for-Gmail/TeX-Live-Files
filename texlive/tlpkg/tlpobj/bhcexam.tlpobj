@@ -1,0 +1,21 @@
+name bhcexam
+category Package
+revision 39041
+shortdesc An exam class designed for Mathematics Teachers in China
+longdesc The class based on the exam class, and is specially designed
+longdesc for High School Mathematics Teachers in China.
+containersize 3832
+containerchecksum 83841b8ee51766a9fd7acaef2f2c2662a969e5e6460a54db66e1b70138041eb799eda2e4881b0a2102a00019464a26253ca7d36d7858d2d56684f104bc570be3
+doccontainersize 3436
+doccontainerchecksum 167f5a65edce24e367d6cfb7ebea877b13b1d9cb6f406689c9bdcf364aca0ed04d86c0c1cd3694986dab2ac10230818cbf58f8039568c3e5d9b6b4b98bb93ec6
+srccontainersize 8508
+srccontainerchecksum ff1583e92e3cc10efe9baaacb523e87ca1884db4203eac09d23c246c1dfa01c5f828d595d03f88241ba4bf80b9cd7b5c62ebffc43e497bebd04144f80d5aefed
+runfiles size=4
+ texmf-dist/tex/latex/bhcexam/BHCexam.cfg
+ texmf-dist/tex/latex/bhcexam/BHCexam.cls
+catalogue-also exam
+catalogue-ctan /macros/latex/contrib/bhcexam
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exam
+catalogue-version 0.4

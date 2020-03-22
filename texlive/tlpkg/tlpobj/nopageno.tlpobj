@@ -1,0 +1,22 @@
+name nopageno
+category Package
+revision 18128
+shortdesc No page numbers in LaTeX documents
+longdesc LaTeX's standard styles use two page styles, one on normal
+longdesc pages and one on 'opening' pages with \maketitle or \chapter,
+longdesc etc. Unfortunately there is only easy access to changing one of
+longdesc these two so if you want something other than 'plain' on the
+longdesc opening pages you must use \thispagestyle on each such page.
+longdesc The fancyhdr package does provide a more flexible interface,
+longdesc but if you just want an empty page style on all pages then this
+longdesc package will do the job.
+containersize 1020
+containerchecksum 0e152caa8b8df06444f50e2f9ca93f18088a0c58e2d5936f612a770b90cdb8f4bb0142064f56573d8569eee274adbc2703037ce4d7477c24d23c7c8de8748a62
+doccontainersize 170376
+doccontainerchecksum 5988c42840efc02f816ca0f9ff7ad2d731c66563c0c4de21b857de975bbec08962cef4ed1dad096abc39ecd8489d3a34a66809e98f49b0a280c186d03e6540a2
+runfiles size=1
+ texmf-dist/tex/latex/nopageno/nopageno.sty
+catalogue-ctan /macros/latex/contrib/nopageno
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics page-nos

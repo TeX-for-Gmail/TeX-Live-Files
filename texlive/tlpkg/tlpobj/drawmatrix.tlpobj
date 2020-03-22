@@ -1,0 +1,22 @@
+name drawmatrix
+category Package
+revision 44471
+shortdesc Draw visual representations of matrices in LaTeX
+longdesc The package provides macros to visually represent matrices.
+longdesc Various options allow to change the visualizations, e.g.,
+longdesc drawing rectangular, triangular, or banded matrices.
+containersize 2456
+containerchecksum 6be4d4ee6970956dd2f3b31d31ca0cfbad268e2f98ae64fd87a49de9ab26765447531121aa0edc157779f3f9c0dd76ab2ec3f747912f4204aab9e2e7181368f6
+doccontainersize 313708
+doccontainerchecksum 07eec69024d4daff597f2a937178f66413e6dc4974a2044f983e809b046f09140db7eaf3cfd68833bd95be0d56b4a564dfc9ad4d771fa124f55ea3783eafca1b
+srccontainersize 5136
+srccontainerchecksum 8125f7c3b0867df9d8f21e45d89a03e6ff0f946d946646c26b0ca825a30c62051264f45e5c2da5bbd45b35afbc2f7f7120e9ea3d2d289f6a228385860d25f523
+runfiles size=3
+ texmf-dist/tex/latex/drawmatrix/drawmatrix.sty
+catalogue-contact-bugs https://github.com/elmar-peise/drawmatrix/issues
+catalogue-contact-repository https://github.com/elmar-peise/drawmatrix
+catalogue-ctan /macros/latex/contrib/drawmatrix
+catalogue-date 2017-06-05 22:45:20 +0200
+catalogue-license mit
+catalogue-topics matrix
+catalogue-version 1.5.0

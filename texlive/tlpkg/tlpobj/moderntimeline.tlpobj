@@ -1,0 +1,20 @@
+name moderntimeline
+category Package
+revision 50228
+shortdesc Timelines for use with moderncv
+longdesc The package provides commands to configure and to draw time
+longdesc line diagrams; such diagrams are designed to fit into
+longdesc Curriculum Vitae documents written using the moderncv class.
+containersize 2304
+containerchecksum a38ab33c0ad2384699954688bed05d9ece3ba54107c962dd5e76fcb586699887ad5553dd12f801553ffab5e7a459cda9a9178c0d37d6eae3796766fed428058f
+doccontainersize 184868
+doccontainerchecksum dd5f43c4287f5a5a23366c3cb982afdbf3385da2c19967e3a77ab42476536d2ba44887fe5fa657f18285448b0d7d3ef99b6f7003328924967529478e174625d7
+srccontainersize 6048
+srccontainerchecksum 4a794bd422b800ad7cfc41c47838798b6e1f3eeb9f7de10c4c6f99d4f2127b8f22e0d31875bd82595e6a99d5995648a70bb006c41dbc70c50379e8d37570222f
+runfiles size=2
+ texmf-dist/tex/latex/moderntimeline/moderntimeline.sty
+catalogue-ctan /macros/latex/contrib/moderntimeline
+catalogue-date 2019-03-04 12:36:05 +0100
+catalogue-license lppl1.3
+catalogue-topics cv diagram
+catalogue-version 0.10

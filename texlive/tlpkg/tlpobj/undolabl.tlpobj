@@ -1,0 +1,19 @@
+name undolabl
+category Package
+revision 36681
+shortdesc Override existing labels
+longdesc The package allows the user to override existing labels (for
+longdesc example, those generated automatically).
+containersize 2356
+containerchecksum b753a9d8a4809118a76b9651c5c7994aebe5c95019b408c59b356135ab34fe4e463099280ea43fc4e47692e32af9570be929999a661fe80ce993f25b85547e10
+doccontainersize 355088
+doccontainerchecksum d7aa3497adacd6a5e10dfc9ac19762ba3fdabc74eb1d50c22dcd05e8d4a02d0723efe3c7e297050ab607525ad3611cddf87cc50d640394c4489d765fffbbe8b8
+srccontainersize 11852
+srccontainerchecksum dbbfbc331830b1d006d746a7ad0a7578ebeb805f7c8b1fc54cc5a502c878fc8b026ff781e05b5510b2331be529eabbd6b0308811b5471f9e4571cf1172a011b8
+runfiles size=2
+ texmf-dist/tex/latex/undolabl/undolabl.sty
+catalogue-ctan /macros/latex/contrib/undolabl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref
+catalogue-version 1.0l

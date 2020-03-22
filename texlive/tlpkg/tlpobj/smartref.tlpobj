@@ -1,0 +1,26 @@
+name smartref
+category Package
+revision 20311
+shortdesc Extend LaTeX's \ref capability
+longdesc The package extends the LaTeX labelling system: whenever a
+longdesc label is set, the values of counters (selected by the user) are
+longdesc recorded, along with the label. The value of these counters can
+longdesc be recalled with a command similar to \pageref. The package
+longdesc also adds commands \s[name]ref (for each counter [name] that
+longdesc the user has selected); these commands display something only
+longdesc if the value of the [name] counter is changed from when the
+longdesc label was set. Many commands are provided to serve as a macro
+longdesc programming environment for using the extended labels.
+containersize 3100
+containerchecksum 149dd95ca0677a4e273df64a589d1424b8dd89983adf3a3ef81f8236d1b594d35b851b4255fd9f0d05b4feb82db59d816408e3ca59f2b86b73a5724a8e937367
+doccontainersize 319192
+doccontainerchecksum 07eaecd9e924e5912e8e3a3ba6479412282e1408cbb59699b9e83006768c4042b173d38da2e8dd2c707b392cb48d99e4be25985023db4de80d69450fe95a338b
+runfiles size=3
+ texmf-dist/tex/latex/smartref/byname.sty
+ texmf-dist/tex/latex/smartref/smartref.sty
+catalogue-also zref
+catalogue-ctan /macros/latex/contrib/smartref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics label-ref counter-mgmt
+catalogue-version 1.9

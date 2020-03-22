@@ -1,0 +1,20 @@
+name biblatex-lni
+category Package
+revision 49935
+shortdesc LNI style for BibLaTeX
+longdesc BibLaTeX style for the Lecture Notes in Informatics, which is
+longdesc published by the Gesellschaft fur Informatik (GI e.V.).
+containersize 2904
+containerchecksum 9089117cc653cb9251622299b20d79525ae9623661de402732c9b9f47b2b296cc0b756bda279487f5d042316693ac624b18352dcfd04e6cec436a402b9bbba57
+doccontainersize 9700
+doccontainerchecksum 23435bb5cdcc7cfaa58d732582e23d3a23589ee064122b231794f17ecd0137e7a4a0e21057835d3925c149d637a7bd12270b4dd05cff6259f103498e0989ac66
+runfiles size=6
+ texmf-dist/tex/latex/biblatex-lni/LNI-english.lbx
+ texmf-dist/tex/latex/biblatex-lni/LNI-ngerman.lbx
+ texmf-dist/tex/latex/biblatex-lni/LNI.bbx
+ texmf-dist/tex/latex/biblatex-lni/LNI.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-lni
+catalogue-date 2019-02-03 22:46:22 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex journalpub
+catalogue-version 0.5

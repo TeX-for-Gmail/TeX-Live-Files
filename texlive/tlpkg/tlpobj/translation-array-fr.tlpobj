@@ -1,0 +1,13 @@
+name translation-array-fr
+category Package
+revision 24344
+shortdesc French translation of the documentation of array
+longdesc A French translation of the documentation of array.
+containersize 384
+containerchecksum d32d6b397916bf631d65171f4f7de4bdb6049eec5414d1a9adbbe88d147ce2e4930a4f17b70c5c12b7ef9c3300d9eb099d63fb14ccd5478c6bfcd0557074b343
+doccontainersize 638988
+doccontainerchecksum 7d9b2e43f4fde3e6a3b7436a55b2095fbc4ffa31223019c1cbfdf3d623c48be406858cdb96c8693e10fd0023050ddfbb09b463a9a3804879945ac0d6aa616be4
+catalogue-ctan /info/translations/array/fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics table matrix french-doc translation

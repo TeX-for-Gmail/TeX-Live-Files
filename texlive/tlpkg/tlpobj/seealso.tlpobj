@@ -1,0 +1,21 @@
+name seealso
+category Package
+revision 43595
+shortdesc Improve the performance of \see macros with makeindex
+longdesc The package amends the \see and \seealso macros that are used
+longdesc in building indexes with makeindex, to deal with repetitions,
+longdesc and to ensure page numbers are present in the actual index
+longdesc entries. on these indirecty
+containersize 2240
+containerchecksum 4d52687aa57245d3be55bf486b100d61fe2e2d979447c2f123f566c3aeb13657e531ace55fe5d00eab57cebe89cfd3729a71dc7177831b5192b8c0fde452d7df
+doccontainersize 251844
+doccontainerchecksum 6baba95b6b08ef95f2966d227161ea39a4084b46371967057266ddae155b115fbe4fcf148e1afc4629e33f54d0329ebb6169f1be4fdcb801d869b212d056cc61
+srccontainersize 11592
+srccontainerchecksum 981ed17cba32b2bdc4848c099038193dba2b39d04210cbb2851400044654234c75c160f9c775af2fad6b76b80c85c782fe6ea75a61728ab67193dcf414b0b4d8
+runfiles size=2
+ texmf-dist/tex/latex/seealso/seealso.sty
+catalogue-ctan /macros/latex/contrib/seealso
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics index
+catalogue-version 1.2

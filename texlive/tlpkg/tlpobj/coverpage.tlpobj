@@ -1,0 +1,34 @@
+name coverpage
+category Package
+revision 15878
+shortdesc Automatic cover page creation for scientific papers
+longdesc The package CoverPage was created to supplement scientific
+longdesc papers with a cover page containing bibliographical
+longdesc information, a copyright notice, and/or some logos of the
+longdesc author's institution. The cover page is created (almost)
+longdesc automatically; this is done by parsing BibTeX information
+longdesc corresponding to the main document and reading a configuration
+longdesc file in which the author can set information like the
+longdesc affiliation he or she is associated with. The cover page
+longdesc consists of header, body and footer; all three are macros which
+longdesc can be redefined using \renewcommand, thus allowing easy
+longdesc customization of the package. Additionally, it should be
+longdesc stressed that the cover page layout is totally independent of
+longdesc the main document and its page layout. This package requires
+longdesc four other packages (keyval, url, textcomp, and verbatim), but
+longdesc all of them are standard packages and should be part of every
+longdesc LaTeX installation.
+containersize 3676
+containerchecksum 6ba22fe89f292ef65ec41a958a93a8ab729954fab33f10677954791bb2be8bcbca71ba4953b6ec47066d3b92e444ebbef9b5f465952076ff0c679706f0ba406a
+doccontainersize 280964
+doccontainerchecksum 01346bc57d5742be2196c8768106fc06534ce03571dc1e3e9d48957ba6d0e1a3aab1a4ac070d4e545f058d1b3833e908398fff62d3ce6bd462b927646ff1e60e
+srccontainersize 10320
+srccontainerchecksum cd47f6d17ab585e84244164bed3b905163157e911dec81ddcd630f23f0b520763b9972b3430f25ff4039e27310eac21e6257727aa4544b7a0e40e7020fc72b42
+runfiles size=3
+ texmf-dist/tex/latex/coverpage/CoverPage.cfg
+ texmf-dist/tex/latex/coverpage/CoverPage.sty
+catalogue-ctan /macros/latex/contrib/coverpage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics journalpub
+catalogue-version 1.01

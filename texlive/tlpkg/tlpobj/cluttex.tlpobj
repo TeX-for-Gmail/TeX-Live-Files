@@ -1,0 +1,27 @@
+name cluttex
+category Package
+revision 50090
+shortdesc An automation tool for running LaTeX
+longdesc This is another tool for the automation of LaTeX document
+longdesc processing, like latexmk or arara. The main feature of this
+longdesc tool is that it does not clutter your working directory with
+longdesc .aux or .log or other auxiliary files. It has of course the
+longdesc usual features of automation tools: It automatically re-runs
+longdesc (La)TeX for cross-references. MakeIndex, BibTeX, Biber, or
+longdesc makeglossaries will be executed if a corresponding option is
+longdesc set. Furthermore, cluttex can watch input files for changes
+longdesc (using an external program).
+depend cluttex.ARCH
+containersize 15424
+containerchecksum 55658b1a3d8056a5fce19ab229c677aa518cc6a45325f2260795ea1deace3c078f9a1314015f7193d65d1dc4200affe25ddcaf4b42c692625077e7588a5b51c5
+doccontainersize 656408
+doccontainerchecksum 585a25b8b9daf71dc86cd8fcc3f4d8441d00b11a52256b66d8a964a221a65b3c77cf2d77f6ce9d3150f4d9fb5daeb922c7886705b3110c83f427f8e29952c627
+runfiles size=21
+ texmf-dist/scripts/cluttex/cluttex.lua
+catalogue-contact-bugs https://github.com/minoki/cluttex/issues
+catalogue-contact-repository https://github.com/minoki/cluttex
+catalogue-ctan /support/cluttex
+catalogue-date 2019-02-22 09:26:57 +0100
+catalogue-license gpl3
+catalogue-topics compilation use-lua
+catalogue-version 0.2

@@ -1,0 +1,16 @@
+name fmp
+category Package
+revision 15878
+shortdesc Include Functional MetaPost in LaTeX
+containersize 1752
+containerchecksum b87a361454199c16e1fbf97bd2b82f8b5569bbd71b7beaa780a6d88357e9262f77c9c3ce17d2ab0ad9b043ed7a1dd721e533c516e1b927f0439e13ced6598a30
+doccontainersize 130300
+doccontainerchecksum 461ee793dc8156b0ecd6931b9d4c56f368ce4938838b042abae5d6475ca3739c4fe47517168dba742f03c98229376f59f8654a89f1d65ab394c0dd907ac48ba1
+srccontainersize 8216
+srccontainerchecksum 912cfb9e0d4669c5d128ace088190ab4c5f90e371b45f1e399346816d606ef3f96901775a51b5f89a8670abd1b08e159587c9eab4ee6383c12e260d26e070034
+runfiles size=2
+ texmf-dist/tex/latex/fmp/fmp.sty
+catalogue-ctan /macros/latex/contrib/fmp
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license lppl
+catalogue-topics graphics-inline

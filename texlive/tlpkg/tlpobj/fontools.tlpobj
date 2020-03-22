@@ -1,0 +1,32 @@
+name fontools
+category Package
+revision 50695
+shortdesc Tools to simplify using fonts (especially TT/OTF ones)
+longdesc This package provides a few tools to ease using fonts
+longdesc (especially TrueType/OpenType ones) with LaTeX and fontinst:
+longdesc afm2afm - reencode .afm files; designed to replace fontinst's
+longdesc \reencodefont for big .afm files; autoinst - simplify the use
+longdesc of the LCDF TypeTools by creating a command file for otftotfm,
+longdesc plus .fd and .sty files; and ot2kpx - extract all kerning pairs
+longdesc from an OpenType font.
+depend fontools.ARCH
+containersize 37976
+containerchecksum dfac8a1fbbdd130ec176c5517a94583c250021c2f6f9f2e04dfc4424e7b69185fc8818118e69d3d9e738748039a62b467f3ca506ab89b25f34f4de463dd4ed91
+doccontainersize 117664
+doccontainerchecksum a2cb863d13f30ba1d479642e08c700be94c36afec29c94b01ff5e83854ee873d4ad9b87ae931ee8c4c0f7b23988dd909059c67948e1cf4ca428a41d6d3889645
+runfiles size=44
+ texmf-dist/fonts/enc/dvips/fontools/fontools_lgr.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ly1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ot1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t1.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2a.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2b.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_t2c.enc
+ texmf-dist/fonts/enc/dvips/fontools/fontools_ts1.enc
+ texmf-dist/scripts/fontools/afm2afm
+ texmf-dist/scripts/fontools/autoinst
+ texmf-dist/scripts/fontools/ot2kpx
+catalogue-ctan /fonts/utilities/fontools
+catalogue-date 2019-04-01 20:26:36 +0200
+catalogue-license gpl2
+catalogue-topics font-devel

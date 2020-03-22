@@ -1,0 +1,23 @@
+name printlen
+category Package
+revision 19847
+shortdesc Print lengths using specified units
+longdesc \printlength{length} prints the value of a LaTeX length in the
+longdesc units specified by \uselengthunit{unit} ('unit' may be any TeX
+longdesc length unit except for scaled point, viz., any of: pt, pc, in,
+longdesc mm, cm, bp, dd or cc). When the unit is pt, the printed length
+longdesc value will include any stretch or shrink; otherwise these are
+longdesc not printed. The 'unit' argument may also be PT, in which case
+longdesc length values will be printed in point units but without any
+longdesc stretch or shrink values.
+containersize 1868
+containerchecksum bbb48c169f31a1f93024195056c323ce67afa1fcc00f309ef1b820dd40e0b86ca98d05f6cd4af66379682813a3807f24295a803fdc91d8b9f19972e1520d5eaf
+doccontainersize 245536
+doccontainerchecksum 25d00eec6c6bd069675cf7d980886b12444e41d18a83ed8e650923d839da8dca21dff65b110105458767b95c50b52a0143b2f7d88b6567ab3aa9953f4ec32a88
+runfiles size=2
+ texmf-dist/tex/latex/printlen/printlen.sty
+catalogue-ctan /macros/latex/contrib/printlen
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics debug-supp doc-debug
+catalogue-version 1.1a

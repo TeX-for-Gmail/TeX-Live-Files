@@ -1,0 +1,9 @@
+name dvips.x86_64-linux
+category TLCore
+revision 50790
+shortdesc x86_64-linux files of dvips
+containersize 144536
+containerchecksum b23b1448a8b10c983689f9d321c5a50089aba5a367fd4d161dedb26f68c36b493fd767abb5fa9df6d24c34d5a6176b7ecad9b669c7ed2c0ef097c7e9d92e2a04
+binfiles arch=x86_64-linux size=92
+ bin/x86_64-linux/afm2tfm
+ bin/x86_64-linux/dvips

@@ -1,0 +1,21 @@
+name othelloboard
+category Package
+revision 23714
+shortdesc Typeset Othello (Reversi) diagrams of any size, with annotations
+longdesc The package enables the user to generate high-quality Othello
+longdesc (also known as Reversi) board diagrams of any size. The
+longdesc diagrams support annotations, including full game transcripts.
+longdesc Automated board or transcript creation, from plain text formats
+longdesc standard to WZebra (and other programs) is also supported.
+containersize 6276
+containerchecksum c975c73b8737f008b7f31af86e6c8a89de3f907c6fe782f075b04819bd936da3853a8ecf15935c04970777a4873b5baa38f9c675cc8943190df84ddc511dedba
+doccontainersize 209224
+doccontainerchecksum af025805142a845bde22a5fe095fb96cd533d69c50bfcea8716dd7d61fc95c41727c16127c2f2b60c5bf2b55870d698db54d307c2b025aff3e251419ed58a3ce
+runfiles size=18
+ texmf-dist/tex/latex/othelloboard/othelloboard.sty
+catalogue-also othello
+catalogue-ctan /macros/latex/contrib/othelloboard
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics games
+catalogue-version 1.2

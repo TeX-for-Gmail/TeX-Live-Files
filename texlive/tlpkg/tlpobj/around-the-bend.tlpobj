@@ -1,0 +1,15 @@
+name around-the-bend
+category Package
+revision 15878
+shortdesc Typeset exercises in TeX, with answers
+longdesc This is a typeset version of the files of the aro-bend, plus
+longdesc three extra questions (with their answers) that Michael Downes
+longdesc didn't manage to get onto CTAN.
+containersize 472
+containerchecksum 8fdfb83017cafe87778ea8a9e7147d6b73ead7019dfc9dc8b620858a67a2a02991e291d622aefc77723f6faa8a66b132313a100d298a2f6327473df4e0fb17f1
+doccontainersize 450496
+doccontainerchecksum acec7325203a96ab3937cb687e3265b5cdf6d77af5740e1e187f993fcdcbb9db743835e9ab579b6c8b0534311ba94f3d1591330bedf1c2f9eb9e6955ad070f9c
+catalogue-ctan /info/challenges/AroBend
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exercise

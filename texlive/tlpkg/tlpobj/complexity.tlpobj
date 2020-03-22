@@ -1,0 +1,23 @@
+name complexity
+category Package
+revision 45322
+shortdesc Computational complexity class names
+longdesc Complexity is a LaTeX package that defines commands to typeset
+longdesc Computational Complexity Classes such as $\P$ and $\NP$ (as
+longdesc well as hundreds of others). It also offers several options
+longdesc including which font classes are typeset in and how many are
+longdesc defined (all of them or just the basic, most commonly used
+longdesc ones). The package has no dependencies other than the standard
+longdesc ifthen package.
+containersize 5604
+containerchecksum 352e1a308e159e432c3123afeba8b173b28e164c81b4874273ddd3f8bb8c8866ef33ba7c06e061d52a3845eafb3307b045b82c9da5ea6a812f3808417fa074d6
+doccontainersize 265392
+doccontainerchecksum 2ffc63af2d86b7dc121c6e122ee1d23387c4c73a6ba65b226413671b86644d0cd9e9ec646b3eef49d9c4b2d64575d83ff45f3691337ba1dea6835945ca80de13
+runfiles size=8
+ texmf-dist/tex/latex/complexity/complexity.sty
+ texmf-dist/tex/latex/complexity/mycomplexity.sty
+catalogue-ctan /macros/latex/contrib/complexity
+catalogue-date 2017-09-16 18:13:49 +0200
+catalogue-license lppl1.3c
+catalogue-topics graphics-symb
+catalogue-version 0.81a

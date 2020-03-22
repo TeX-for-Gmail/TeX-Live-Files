@@ -1,0 +1,20 @@
+name babel-ukrainian
+category Package
+revision 47585
+shortdesc Babel support for Ukrainian
+longdesc The package provides support for use of babel in documents
+longdesc written in Ukrainian. The support is adapted for use under
+longdesc legacy TeX engines as well as XeTeX and LuaTeX.
+containersize 5068
+containerchecksum 6729384e1029580ee8ff2337508cb5998e8a385de25da4d5969341869f22f17180b03a98a403b583ac5b7a965c2a07d5c96b0aff1b93b82cdcb549b4915ceb4e
+doccontainersize 450616
+doccontainerchecksum f36acbe23a159e2a9547d7cd5b64d529c49a35353f5a84082a303204f8a55f088f1beb0aa75d852595768a3ad10de34763329a22e2c87c5081ce2d6fa4076309
+srccontainersize 19232
+srccontainerchecksum 110d08aa4e84718e04223e4e4745a968c2bbf3d7f453430ee02eec57a96fe952046dc9101b95f90a7de84bf6a4dbd65e8697e1980f0d85eee84233554de31370
+runfiles size=5
+ texmf-dist/tex/generic/babel-ukrainian/ukraineb.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/ukrainian
+catalogue-date 2018-04-11 21:43:45 +0200
+catalogue-license lppl1.3c
+catalogue-topics multilingual-addon ukrainian
+catalogue-version 1.4c

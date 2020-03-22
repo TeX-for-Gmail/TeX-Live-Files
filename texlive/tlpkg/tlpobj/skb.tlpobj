@@ -1,0 +1,37 @@
+name skb
+category Package
+revision 22781
+shortdesc Tools for a repository of long-living documents
+longdesc The package provides macros that help to build a document
+longdesc repository for long living documents. It focuses on structure
+longdesc and re-use of text, code, figures etc. The basic concept is
+longdesc first to separate structure from content (i.e., text about a
+longdesc topic from the structure it is presented by) and then
+longdesc separating the content from the actual published document, thus
+longdesc enabling easy re-use of text blocks in different publications
+longdesc (i.e., text about a protocol in a short article about this
+longdesc protocol as well as in a book about many protocols); all
+longdesc without constantly copying or changing text. As a side effect,
+longdesc using the document classes provided, it hides a lot of LaTeX
+longdesc from someone who just wants to write articles and books.
+containersize 6468
+containerchecksum 5c2e0e7310898e258505cf438ad91650fbcef6b720e9d05b9ddd241ceca3eea0ccc3a71b6ac38acee58d8e205b8352ad7abbdc277596ac74f6a5cf0ca805a0d7
+doccontainersize 1398720
+doccontainerchecksum 29aa9629f84a481cee1871b92b49e1a34683092759864f1e612ef4f7b3862a9ddf567b2d20fae3f99d5946de43055de2dae8ad326000e344383c854eb9ff4f20
+srccontainersize 21144
+srccontainerchecksum fd0f3a1d4cf3fa189ef0fc8bbbb35586a39aabbc733fba3aa9d3fc48d920c416316a4a19d88583ea42b1a4c38baf4ec75cf0eec78b68a5434f3ac4578d56ea9f
+runfiles size=12
+ texmf-dist/tex/latex/skb/skb.cfg
+ texmf-dist/tex/latex/skb/skb.sty
+ texmf-dist/tex/latex/skb/skbarticle.cls
+ texmf-dist/tex/latex/skb/skbbeamer.cls
+ texmf-dist/tex/latex/skb/skbbook.cls
+ texmf-dist/tex/latex/skb/skblncsbeamer.cls
+ texmf-dist/tex/latex/skb/skblncsppt.cls
+ texmf-dist/tex/latex/skb/skbmoderncv.cls
+catalogue-contact-repository http://sourceforge.net/projects/latex-skb
+catalogue-ctan /macros/latex/contrib/skb
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics archival
+catalogue-version 0.52

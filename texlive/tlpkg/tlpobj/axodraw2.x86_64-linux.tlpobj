@@ -1,0 +1,8 @@
+name axodraw2.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of axodraw2
+containersize 23852
+containerchecksum 4b4af8a154bee6abd7248e854ed575a63781d06586d0261c89c371537510675eb080cbc9cd4f8e33097d1ac07777417943c27c398549ba43592c3da40bd7737e
+binfiles arch=x86_64-linux size=16
+ bin/x86_64-linux/axohelp

@@ -1,0 +1,14 @@
+name compactbib
+category Package
+revision 15878
+shortdesc Multiple thebibliography environments
+longdesc Allows a second bibliography, optionally with a different
+longdesc title, after the main bibliography.
+containersize 1860
+containerchecksum dbc3bb28178a656b400a2a72e48ec813d6e282ddba7c70bb4dd0b5ed7f76e9e0be1dffb0ecf43e4893210453ef420c1b1d859c287663cad6bfe8c7f46dc8d86b
+runfiles size=2
+ texmf-dist/tex/latex/compactbib/compactbib.sty
+catalogue-ctan /macros/latex/contrib/compactbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-supp

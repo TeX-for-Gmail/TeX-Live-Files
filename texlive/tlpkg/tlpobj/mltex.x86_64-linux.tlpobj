@@ -1,0 +1,9 @@
+name mltex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of mltex
+containersize 336
+containerchecksum c16f85e5f863befe32f24f46589edbcef130e0be1462947f98f11f7bdd94fd8d703060b38f18a05a7abe11ec7604eb0cc4eb3b901c06d10f8d244c75b8548b91
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/mllatex
+ bin/x86_64-linux/mltex

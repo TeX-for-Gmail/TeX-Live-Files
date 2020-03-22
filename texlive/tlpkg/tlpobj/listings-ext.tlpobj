@@ -1,0 +1,26 @@
+name listings-ext
+category Package
+revision 29349
+shortdesc Automated input of source
+longdesc The package provides a means of marking a source, so that
+longdesc samples of it may be included in a document (by means of the
+longdesc listings package) in a stable fashion, regardless of any change
+longdesc to the source. The markup in the source text defines tags for
+longdesc blocks of source. These tags are processed by a shell script to
+longdesc make a steering file that is used by the package when LaTeX is
+longdesc being run.y
+depend listings-ext.ARCH
+containersize 4856
+containerchecksum c68752d0e7a1ffb7d08f153bf337849164d0287f20ff8f092635ad7083b2e5a6c487bcd9dff913dd029f4ea92750768d23583eed53a0c2d3bf012e4db059708c
+doccontainersize 103704
+doccontainerchecksum 82491f81dfc89950d085f7cc41dabdf7b895b23c8a69f80c1b4f4c420fe8f036ac181b56e3ab60496910d0f1165ce19b2f94c5e268dc1d59e352ab6747e3bee5
+srccontainersize 22652
+srccontainerchecksum fab34f07d6384a5474f3ac30e2e00a75398418668134ac1041cabded6209c9521244e1637e4037e7346bc70b3247ebcd90526d5e34fc3c4e388fa978382bf228
+runfiles size=5
+ texmf-dist/scripts/listings-ext/listings-ext.sh
+ texmf-dist/tex/latex/listings-ext/listings-ext.sty
+catalogue-ctan /macros/latex/contrib/listings-ext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics listing
+catalogue-version 67

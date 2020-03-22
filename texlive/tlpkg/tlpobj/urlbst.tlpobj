@@ -1,0 +1,27 @@
+name urlbst
+category Package
+revision 29803
+shortdesc Web support for BibTeX
+longdesc Supports a new BibTeX 'webpage' entry type and 'url',
+longdesc 'lastchecked', and 'eprint' and 'DOI' fields. The Perl script
+longdesc urlbst can be used to add this support to an arbitrary .bst
+longdesc file which has a reasonably conventional structure. The result
+longdesc is meant to be robust rather than pretty.
+depend urlbst.ARCH
+containersize 13244
+containerchecksum 84a2ad97ff9be1cdf9ba3f31c2cb3147a4625b5a569325bf8d766b6f008b6488e9d798ccdc9259c82e0c762e1df55b58051a9feb09b2d5c7d734ab2ea5c2c560
+doccontainersize 216068
+doccontainerchecksum 75f3282c52d57f743c75dc8022c80a5c138ad9c0947ab23085459b360366fc28b27395a8ade1bab442620c4f0892f3cf99298b6fbccd33d96af713a48db0f360
+srccontainersize 18292
+srccontainerchecksum fc530cb6dcffe3e726aa1b0f73b0bff384e9e5476200387b4877747e6271688de1bf3be657c4fcc4daab0c59955d7d5c8558a9a78951d0cea768ea9aceb96d4c
+runfiles size=39
+ texmf-dist/bibtex/bst/urlbst/abbrvurl.bst
+ texmf-dist/bibtex/bst/urlbst/alphaurl.bst
+ texmf-dist/bibtex/bst/urlbst/plainurl.bst
+ texmf-dist/bibtex/bst/urlbst/unsrturl.bst
+ texmf-dist/scripts/urlbst/urlbst
+catalogue-ctan /biblio/bibtex/contrib/urlbst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics bibtex-sty
+catalogue-version 0.7

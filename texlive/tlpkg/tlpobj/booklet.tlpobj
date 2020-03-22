@@ -1,0 +1,24 @@
+name booklet
+category Package
+revision 15878
+shortdesc Aids for printing simple booklets
+longdesc Pages of a document processed with the booklet package will be
+longdesc reordered and scaled so that they can be printed as four pages
+longdesc per physical sheet of paper, two pages per side. The resulting
+longdesc sheets will, when folded in half, assemble into a booklet.
+longdesc Instructions on producing the manual itself as a booklet are
+longdesc included.
+containersize 3184
+containerchecksum be6bc46fa76c0a1ecbfe199b1a1a6f0cedf14a8d583e9ab8ffd75d4cf8ae22e404b289224ed8fa6cd9e143119760d50131e97228cfe75ea56d5ab2f540e8ea8b
+doccontainersize 207680
+doccontainerchecksum fb6d74ee03f303433e61fe1afe297cf5e343f95e3834fbdee483522a183d403fb6bac8bfd1d0ca687c448d522d370f5216caba2b52b066ac1657b8dc2fc3df1a
+srccontainersize 23512
+srccontainerchecksum 7b63195d047c6d05cec02af6d44c77e9fbc0a198717a5ed3383f6d662946cb8de9b7659916ab6d7951eeeedfe00abcd68eb006012de3e083d767acffdc0f3cbe
+runfiles size=3
+ texmf-dist/tex/latex/booklet/bkltprnt.sty
+ texmf-dist/tex/latex/booklet/booklet.sty
+catalogue-ctan /macros/latex/contrib/booklet
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 0.7b

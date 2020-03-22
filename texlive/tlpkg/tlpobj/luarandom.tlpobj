@@ -1,0 +1,19 @@
+name luarandom
+category Package
+revision 49419
+shortdesc Create lists of random numbers
+longdesc This package can create lists of random numbers for any given
+longdesc interval [a;b]. It is possible to get lists with or without
+longdesc multiple numbers. The random generator will be initialized by
+longdesc the system time. The package can only be used with LuaLaTeX!
+containersize 1392
+containerchecksum 54019dd968b2cf3b6ab9a3777e609789c04a0d369b1ae938df152ded3bf54607140fe6265b81ca2a75f458e9b8144000f0bf2e9d77fb00aa923f7ce9569c423f
+doccontainersize 50272
+doccontainerchecksum f7fa30cd6668674cfee8116bdacd3c457fe6e1a3ef4a1c0da603db2fbaae77d187bfc5b4867aea0410a906238769d7138672b89b51eccc9fc4d110a079784092
+runfiles size=1
+ texmf-dist/tex/lualatex/luarandom/luarandom.sty
+catalogue-ctan /macros/luatex/latex/luarandom
+catalogue-date 2018-12-19 05:04:41 +0100
+catalogue-license lppl1.3
+catalogue-topics luatex random calculation
+catalogue-version 0.01

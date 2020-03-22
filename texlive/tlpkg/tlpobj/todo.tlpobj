@@ -1,0 +1,20 @@
+name todo
+category Package
+revision 17746
+shortdesc Make a to-do list for a document
+longdesc The package allows you to insert "to do" marks in your
+longdesc document, to make lists of such items, and to cross-reference
+longdesc to them.
+containersize 1900
+containerchecksum e3cd06aa47c36344602a0dccfb48e43c0639cadcb91aa9e787d552c6d3ecca95da3b0f3af8d0f479caad41f657bbcc30016dfd3f80f42285fe8ab02e0a904601
+doccontainersize 179880
+doccontainerchecksum c747b4cdcbe8533338a9120b06120b0daa68940ace4cf44d87882d5b5a5a42e2c062c667d2e3fbf8979e1385cd55dfd8747f4fcb044a4112f4b2a79588d0463e
+srccontainersize 7408
+srccontainerchecksum 7f70973e13cba6c532d45af7f5c21264adfb75542a7a68e9bf23508955a553efee723edfe098c4a87015c463c99d4063a9bce6888e7bc9018999ab4721a524ce
+runfiles size=2
+ texmf-dist/tex/latex/todo/todo.sty
+catalogue-ctan /macros/latex/contrib/todo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics notes editorial
+catalogue-version 2.142

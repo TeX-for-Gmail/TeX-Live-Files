@@ -1,0 +1,24 @@
+name pkuthss
+category Package
+revision 48124
+shortdesc LaTeX template for dissertations in Peking University
+longdesc The package provides a simple, clear and flexible LaTeX
+longdesc template for dissertations in Peking University.
+containersize 16112
+containerchecksum 3714a72dce39b7f72c4bdd8355d077822a41c332682e4e6b09bc81f16a61cf5017315428e942e26a36f8bff79a818b9e35b0674e01412f7c29f1bc94258d4636
+doccontainersize 509372
+doccontainerchecksum 7077cebfe115ef19f1d0b1a333babe00f75b47c878d5c316bce75a80b75a53ee19814baa506b7587d18216d928a25f2e8722f244ac2ef5d32d7a7375d76be0e8
+runfiles size=12
+ texmf-dist/tex/latex/pkuthss/pkulogo.eps
+ texmf-dist/tex/latex/pkuthss/pkulogo.pdf
+ texmf-dist/tex/latex/pkuthss/pkuthss-gbk.def
+ texmf-dist/tex/latex/pkuthss/pkuthss-utf8.def
+ texmf-dist/tex/latex/pkuthss/pkuthss.cls
+ texmf-dist/tex/latex/pkuthss/pkuword.eps
+ texmf-dist/tex/latex/pkuthss/pkuword.pdf
+catalogue-contact-repository https://gitlab.com/CasperVector/pkuthss
+catalogue-ctan /macros/latex/contrib/pkuthss
+catalogue-date 2018-07-02 09:18:23 +0200
+catalogue-license other-free
+catalogue-topics dissertation class chinese
+catalogue-version 1.8.0

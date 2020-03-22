@@ -1,0 +1,24 @@
+name tabto-ltx
+category Package
+revision 50188
+shortdesc "Tab" to a measured position in the line
+longdesc \tabto{<length>} moves the typesetting position to <length>
+longdesc from the left margin of the paragraph. If the typesetting
+longdesc position is already further along, \tabto starts a new line;
+longdesc the command \tabto* will move position backwards if necessary,
+longdesc so that previous text may be overwritten. The command
+longdesc \TabPositions may be used to define a set of tabbing positions,
+longdesc after which the command \tab advances typesetting position to
+longdesc the next defined 'tab stop'.
+containersize 3488
+containerchecksum 3679dfd17ada1f2959def0c8eb9d434b84e5bec7245d7e5059e1d1b975248ef54ee04b6178cedaa8228805892f323aeb33d57bcfd4c37bdfb7d57f43a516da23
+doccontainersize 53812
+doccontainerchecksum bf428fe02b3e1779a5ae685690527102f3d728095f55c3af0c54cc42d6c33430a52a0a27f57003cfe30eca3bfadc36343784ec93224c12ae612d2e24b4ec5e0b
+runfiles size=2
+ texmf-dist/tex/latex/tabto-ltx/tabto.sty
+catalogue-also tabto-generic
+catalogue-ctan /macros/latex/contrib/tabto
+catalogue-date 2019-03-01 08:38:06 +0100
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 1.4

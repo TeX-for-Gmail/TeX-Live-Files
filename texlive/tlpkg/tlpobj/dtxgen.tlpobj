@@ -1,0 +1,19 @@
+name dtxgen
+category Package
+revision 38419
+shortdesc Creates a template for a self-extracting .dtx file
+longdesc The bash script dtxgen creates a template for a self-extracting
+longdesc .dtx file. It is useful for those who plan to create a new
+longdesc Documented LaTeX Source (.dtx) file.
+depend dtxgen.ARCH
+containersize 5696
+containerchecksum e4d1bf82d1a64eafb67f3f0ff570b1b7eb8b45e869891482ba5e37ebb33312e2aabd22f433d1401e3f02e12b1ba9814c543899c52f7fbf8d191ac78d4856f2a3
+doccontainersize 46204
+doccontainerchecksum a6f57e26b579a34aa61a76ac3e3539c53ee47427a02e39bb39ab4ead1e28135106c0b7a88a9de2211fefc6f5df84a0f1b5b797e3efdcf54d73426eef23cd0a3a
+runfiles size=4
+ texmf-dist/scripts/dtxgen/dtxgen
+catalogue-ctan /support/dtxgen
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics file-mgmt
+catalogue-version 1.07

@@ -1,0 +1,27 @@
+name tracklang
+category Package
+revision 47704
+shortdesc Language and dialect tracker
+longdesc The tracklang package is provided for package developers who
+longdesc want a simple interface to find out which languages the user
+longdesc has requested through packages such as babel or polyglossia.
+longdesc This package does not provide any translations! Its purpose is
+longdesc simply to track which languages have been requested by the
+longdesc user. Generic TeX code is in tracklang.tex for non-LaTeX users.
+containersize 17260
+containerchecksum a3a608019270fed7ee5d72615d491371a24f2843b0c94908d2c02c91ab3be9ed58aaac68e7cee8a8ced1247fc956e6d860b1e87d0bd51d958cf5e62dbad0437b
+doccontainersize 916780
+doccontainerchecksum 43e4b03365cfa613b630e36f94c4baee286063836de7e7cd08d31e9fd5b5c57fccb2f4c0b82cd9c31559fe0abfb09a7d16a5378c035baf10cdebf3c0135616d9
+srccontainersize 51860
+srccontainerchecksum 1d47691f4ae9153d6666b6ebe2315d42391852ddc2fbc9e912484e3974df1faa790327a470d5a6be549196f158591554bf8f4ceff4abb31491b0d2a02069debf
+runfiles size=33
+ texmf-dist/tex/generic/tracklang/tracklang-region-codes.tex
+ texmf-dist/tex/generic/tracklang/tracklang-scripts.tex
+ texmf-dist/tex/generic/tracklang/tracklang.tex
+ texmf-dist/tex/latex/tracklang/tracklang-scripts.sty
+ texmf-dist/tex/latex/tracklang/tracklang.sty
+catalogue-ctan /macros/generic/tracklang
+catalogue-date 2018-05-14 05:05:55 +0200
+catalogue-license lppl1.3
+catalogue-topics package-devel class-supp
+catalogue-version 1.3.6

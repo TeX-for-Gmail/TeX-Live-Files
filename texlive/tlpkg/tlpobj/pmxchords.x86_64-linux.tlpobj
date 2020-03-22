@@ -1,0 +1,8 @@
+name pmxchords.x86_64-linux
+category Package
+revision 32405
+shortdesc x86_64-linux files of pmxchords
+containersize 340
+containerchecksum 9ac21da158084b5d0ec8ebde603dc919f6768025add7f779b05e445c8a090a48e4db90b03f04f043d9bbc6ae030eb8dd48f8fb54a62ac4903c098c3d6f5c45a4
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pmxchords

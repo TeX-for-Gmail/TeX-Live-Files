@@ -1,0 +1,9 @@
+name dtl.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dtl
+containersize 20736
+containerchecksum 9d9992be6d01d8a4f0f7548debf11f052280c8f965fcc6384b96e1d4f5dcb0369a6aab22796f332e079ec532f391c12cb481aa76c4497060add5f2b9d2333979
+binfiles arch=x86_64-linux size=17
+ bin/x86_64-linux/dt2dv
+ bin/x86_64-linux/dv2dt

@@ -1,0 +1,23 @@
+name hrlatex
+category Package
+revision 18020
+shortdesc LaTeX support for Croatian documents
+longdesc This package simplifies creation of new documents for the
+longdesc (average) Croatian user. As an example, a class file hrdipl.cls
+longdesc (designed for the graduation thesis at the University of
+longdesc Zagreb) and sample thesis documents are included.
+containersize 3528
+containerchecksum 14bd6fdf4a60ec599971b1f5ee7ae5fc649b0d1382f9dff8bf9905f4623f3964c2d552bbc4485680d22cf04651a5e49b71220ec2c05e6599356b6dcee6e4d122
+doccontainersize 98316
+doccontainerchecksum ecd67675466d365f00e49b775ae3e5264e2d10d574dbbe913d52b3a5b553fe942e06fcca26cb2357fa76688c55fc4268bf7d18f5cb2a90663bfe47c11a5bbde7
+srccontainersize 3768
+srccontainerchecksum 01f47918a1926f36840fd4d78debc70cbe09fd2a52b06ede7b40d7c3ce0d42e6385d54cd2cc96eed8bc222ebcbd2e7ab191c41f8c8df82f9b5ff93d2e0f54a16
+runfiles size=4
+ texmf-dist/tex/latex/hrlatex/fsbispit.cls
+ texmf-dist/tex/latex/hrlatex/fsbmath.sty
+ texmf-dist/tex/latex/hrlatex/hrlatex.sty
+catalogue-ctan /language/croatian/hrlatex
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics croatian
+catalogue-version 0.23

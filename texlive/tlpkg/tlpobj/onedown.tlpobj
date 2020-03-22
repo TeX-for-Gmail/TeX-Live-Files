@@ -1,0 +1,36 @@
+name onedown
+category Package
+revision 50104
+shortdesc Typeset Bridge Diagrams
+longdesc This is a comprehensive package to draw all sorts of bridge
+longdesc diagrams, including hands (stand alone or arround a compass),
+longdesc bidding tables (stand alone or in connection with
+longdesc hands/compass), trick tables, and expert quizzes. Features:
+longdesc Works for all fontsizes from \ssmall to \HUGE. Different fonts
+longdesc for hands, bidding diagrams, compass, etc. are possible.
+longdesc Annotations to card and bidding diagrams. Automated check on
+longdesc consistency of suit and hands. Multilingual output of bridge
+longdesc terms. Extensive documentation: User manual, Reference manual,
+longdesc and Examples.
+containersize 17336
+containerchecksum e19fb9cccc481df8609b32fe79de5fcf5f963c0908e9ef7316b9d363d66f1e39bc3fcf85df9ca3f280d948b8ed6d59bcd646a1a11647c366a96764f4271153a4
+doccontainersize 2058648
+doccontainerchecksum 89c1065b82d603f3ad337519fc92866686457463152f06fd1c9e2aacc43a6d49cf28c9c2bed11af67d623ec945dfd59269baa5b63a5f3c15bdba682c0fa12894
+srccontainersize 48260
+srccontainerchecksum 6ef509399c88093917715fc32b725d3ee671be045a8ef70ae13a89345a9efd0bdf53698a2b86abbedacc1a4d21e141a363b31b53f70bd9a9c26e11333b698922
+runfiles size=35
+ texmf-dist/tex/latex/onedown/ODw-danish.trsl
+ texmf-dist/tex/latex/onedown/ODw-dutch.trsl
+ texmf-dist/tex/latex/onedown/ODw-english.trsl
+ texmf-dist/tex/latex/onedown/ODw-fallback.trsl
+ texmf-dist/tex/latex/onedown/ODw-french.trsl
+ texmf-dist/tex/latex/onedown/ODw-german.trsl
+ texmf-dist/tex/latex/onedown/ODw-norwegian.trsl
+ texmf-dist/tex/latex/onedown/ODw-swedish.trsl
+ texmf-dist/tex/latex/onedown/ODw-turkish.trsl
+ texmf-dist/tex/latex/onedown/onedown.sty
+catalogue-ctan /macros/latex/contrib/onedown
+catalogue-date 2019-02-23 19:45:42 +0100
+catalogue-license lppl1.3
+catalogue-topics games
+catalogue-version 1.3

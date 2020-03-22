@@ -1,0 +1,20 @@
+name theoremref
+category Package
+revision 30640
+shortdesc References with automatic theorem names
+longdesc The theoremref package provides variants of the \label and \ref
+longdesc commands for theorem-like environments, capable of
+longdesc automatically typesetting references including the theorem name
+longdesc (apart from the theorem number). The scheme is particularly
+longdesc valuable if the author decides to change a lemma to a
+longdesc proposition or a theorem (or whatever).
+containersize 4124
+containerchecksum ec3f8bea432fc0a72d008884e8879bf22db5c2be3694d298828a493e1b4cde2dd591f35887e4aba646f44db47a75f87a08ec7e269cec77be66cb45798137c85a
+doccontainersize 333032
+doccontainerchecksum ec478b840b200dd0e731545f039c8ac01d9f088b7644350cc3366aece722b924187ca0701ad15be3a428131bc3025d1af9bb0440e8a487e0272c8d7997924200
+runfiles size=3
+ texmf-dist/tex/latex/theoremref/theoremref.sty
+catalogue-ctan /macros/latex/contrib/theoremref
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lpplgpl2
+catalogue-topics label-ref maths-theorem

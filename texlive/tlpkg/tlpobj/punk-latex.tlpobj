@@ -1,0 +1,19 @@
+name punk-latex
+category Package
+revision 27389
+shortdesc LaTeX support for punk fonts
+longdesc The package and .fd file provide support for Knuth's punk
+longdesc fonts. That bundle also offers support within LaTeX; the
+longdesc present package is to be preferred.
+containersize 888
+containerchecksum e44098c082465aa620d436a41306c9a1f36075c2612aa045e7c958151fc62e9a740584d9a9dd94b0c5631c00d406762a8e35f672931cccd3c09fe95850f3a2ba
+doccontainersize 150276
+doccontainerchecksum 36a3341d2dca08941a923a1f407b422e96438e79ba5e3911a89f13d48317ec5aa0f5afccc7539b0882996fb872b38bc3653f1e5b088805e5ef7c9d96a4546d01
+runfiles size=2
+ texmf-dist/tex/latex/punk-latex/ot1pnk.fd
+ texmf-dist/tex/latex/punk-latex/punk.sty
+catalogue-ctan /macros/latex/contrib/punk-latex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font-supp
+catalogue-version 1.1

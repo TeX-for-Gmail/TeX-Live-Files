@@ -1,0 +1,8 @@
+name diadia.x86_64-linux
+category Package
+revision 37645
+shortdesc x86_64-linux files of diadia
+containersize 340
+containerchecksum a0b06858ace3358a1869cc83306e745e3b9b1f6a44918f83217046441f6b98fc6ee12e6323bb791c3c06dbcb5a3b6c87826f9d97b0a71507831b69e0fc601ac2
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/diadia

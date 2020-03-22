@@ -1,0 +1,17 @@
+name latexcheat-de
+category Package
+revision 35702
+shortdesc A LaTeX cheat sheet, in German
+longdesc This is a translation to German of Winston Chang's LaTeX cheat
+longdesc sheet (a reference sheet for writing scientific papers). It has
+longdesc been adapted to German standards using the KOMA script document
+longdesc classes.
+containersize 544
+containerchecksum 84de8075c1ba86467c8b34ed614462953ca8b9a237bb84453b2f9a1482eebfdb628c3e460d38da126416cc111387d68d3f479c5806ecbf06d079e47c35b88ca6
+doccontainersize 528444
+doccontainerchecksum dda8002178b55e155f7ce1f49f57f928b6c5097007daf36aa473c1a2d07aef4c3ec5e1c238537c0531731af0cb0d51804b0c0310be63954f112f266e737c7d37
+catalogue-contact-repository https://github.com/tammon/Deutsches-LaTeX-Cheat-Sheet
+catalogue-ctan /info/latexcheat/latexcheat-de
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics german-doc tut-cheat

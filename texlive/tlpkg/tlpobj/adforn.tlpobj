@@ -1,0 +1,28 @@
+name adforn
+category Package
+revision 20019
+shortdesc OrnementsADF font with TeX/LaTeX support
+longdesc The bundle provides the Ornements ADF font in PostScript type 1
+longdesc format with TeX/LaTeX support files. The font is licensed under
+longdesc GPL v2 or later with font exception. (See NOTICE, COPYING,
+longdesc README.) The TeX/LaTeX support is licensed under LPPL. (See
+longdesc README, manifest.txt.)
+execute addMap OrnementsADF.map
+containersize 36784
+containerchecksum 2baac5e84209908f7a435e8ac945964d12e08f4d3c8be1880304f5d12dd768fb435734e5f123228497d1e099f39b8644de7f1f0447aef7dfffba4c9c38026695
+doccontainersize 360280
+doccontainerchecksum 805fdcc1fe76cdddaacd5f6530409bf2e9a019b00c61ff4f965ca19e498d88ff1c6dd414d3be208aa3c2e097c4ceaa9ca97ef4f8234bd96b6a99225f4ae89085
+runfiles size=18
+ texmf-dist/fonts/afm/arkandis/adforn/OrnementsADF.afm
+ texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc
+ texmf-dist/fonts/map/dvips/adforn/OrnementsADF.map
+ texmf-dist/fonts/tfm/arkandis/adforn/OrnementsADF.tfm
+ texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb
+ texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfm
+ texmf-dist/tex/latex/adforn/adforn.sty
+ texmf-dist/tex/latex/adforn/uornementsadf.fd
+catalogue-ctan /fonts/adforn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-ornmnt font-type1
+catalogue-version 1.001-b-2

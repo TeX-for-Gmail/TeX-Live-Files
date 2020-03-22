@@ -1,0 +1,21 @@
+name t-angles
+category Package
+revision 15878
+shortdesc Draw tangles, trees, Hopf algebra operations and other pictures
+longdesc A LaTeX2e package for drawing tangles, trees, Hopf algebra
+longdesc operations and other pictures. It is based on emTeX or TPIC
+longdesc \specials. Therefore, it can be used with the most popular
+longdesc drivers, including emTeX drivers, dviwin, xdvi and dvips, and
+longdesc (using some code from ConTeXt) it may also be used with
+longdesc pdfLaTeX.
+containersize 5684
+containerchecksum dae9953288c0067e233ca26d2d5e7ea32207790eb16bcff2f0f56180dd9a65e70c234de48652d053a858ec92940c3c5fea10c699c697b65a249a8c84fa050b71
+doccontainersize 117652
+doccontainerchecksum 32dc9adfda93bee5e61eb062e6970f6e093a09016a6ddf32f82d110b7717916fcc92f961c8be682958d1f3f345e02ad49cde4a85ad4a0d0add08a0bc80109d8f
+runfiles size=6
+ texmf-dist/tex/latex/t-angles/t-angles.sty
+catalogue-contact-home http://www.math.ksu.edu/~lub/
+catalogue-ctan /macros/latex/contrib/t-angles
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics maths graphics-in-tex

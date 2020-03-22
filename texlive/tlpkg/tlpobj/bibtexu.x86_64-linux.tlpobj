@@ -1,0 +1,8 @@
+name bibtexu.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of bibtexu
+containersize 5360820
+containerchecksum d02931ce00c55c6e2d86faa2205c2976b4b6f6493d80c75ce187bc621574afc7efc4d000c5b7aec90e36943bbe52fd3b84b16bf3d589e27fd702db6cc4e61f3d
+binfiles arch=x86_64-linux size=4849
+ bin/x86_64-linux/bibtexu

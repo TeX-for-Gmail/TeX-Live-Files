@@ -1,0 +1,23 @@
+name lplfitch
+category Package
+revision 31077
+shortdesc Fitch-style natural deduction proofs
+longdesc The package provides macros for typesetting natural deduction
+longdesc proofs in "Fitch" style, with subproofs indented and offset by
+longdesc scope lines. The proofs from use of the package are in the
+longdesc format used in the textbook Language, Proof, and Logic by Dave
+longdesc Barker-Plummer, Jon Barwise, and John Etchemendy.
+containersize 1964
+containerchecksum 189b9d6000d4b762a3c64652bb05f9465d5c789b7e2413e8f0ca281a8d4729a3044aa955ad7eb82c7b8513bd547bb76c2ad2b609e902b07f8f4f018698e17071
+doccontainersize 227352
+doccontainerchecksum a690ee2c1f9cf5eb36693a4a9385c047a31d29387930211bf6384d7cbedb3d1f1696c0c04269b02ef29b13ebccc69bbc329772f3fee209a1b1d51768484f9a50
+srccontainersize 8048
+srccontainerchecksum b06b45d992045111d1a8aed78267519f8b959415b00b94f75602b35cb7d37c47092e726db881d9094e82d3e25492513db66b210603730f8119d10e60819ec89e
+runfiles size=2
+ texmf-dist/tex/latex/lplfitch/lplfitch.sty
+catalogue-contact-repository https://github.com/rzach/lplfitch
+catalogue-ctan /macros/latex/contrib/lplfitch
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 0.9

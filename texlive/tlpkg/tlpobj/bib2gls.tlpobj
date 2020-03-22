@@ -1,0 +1,39 @@
+name bib2gls
+category Package
+revision 49293
+shortdesc Command line application to convert .bib files to glossaries-extra.sty resource files
+longdesc This Java command line application may be used to extract
+longdesc glossary information stored in a .bib file and convert it into
+longdesc glossary entry definition commands. This application should be
+longdesc used with glossaries-extra.sty's 'record' package option. It
+longdesc performs two functions in one: selects entries according to
+longdesc records found in the .aux file (similar to bibtex),
+longdesc hierarchically sorts entries and collates location lists
+longdesc (similar to makeindex or xindy). The glossary entries can then
+longdesc be managed in a system such as JabRef, and only the entries
+longdesc that are actually required will be defined, reducing the
+longdesc resources required by TeX. The supplementary application
+longdesc convertgls2bib can be used to convert existing .tex files
+longdesc containing definitions (\newglossaryentry etc.) to the .bib
+longdesc format required by bib2gls.
+depend bib2gls.ARCH
+containersize 1105168
+containerchecksum c678a2ae885ccf0aabaeb0ddb21583aabbc1e5b8747929c52bc772f5efc93410710b8d510dba8d24583bc3905922a60a74e907fcbe7f178676f867553a4eee9d
+doccontainersize 4549104
+doccontainerchecksum 2b99664ffecbed65d55fc83526b7689a977b46136c03b66f461a2374e257800a1fa9ccd6676a5a3b82b784430ccb8be0bcf5e5c788ca03c2486778a4c95ac13b
+srccontainersize 1090796
+srccontainerchecksum 17277a1efb65a9817c77f10321c2d320cd35e28261861c3747209e161e29d28baf21854aac0ee1a5aed130158e4c22b6fab5cba300686d725f4abe91093db193
+runfiles size=311
+ texmf-dist/scripts/bib2gls/bib2gls.jar
+ texmf-dist/scripts/bib2gls/bib2gls.sh
+ texmf-dist/scripts/bib2gls/convertgls2bib.jar
+ texmf-dist/scripts/bib2gls/convertgls2bib.sh
+ texmf-dist/scripts/bib2gls/resources/bib2gls-en.xml
+ texmf-dist/scripts/bib2gls/texparserlib.jar
+catalogue-contact-home http://www.dickimaw-books.com/software/bib2gls/
+catalogue-contact-repository https://github.com/nlct/bib2gls
+catalogue-ctan /support/bib2gls
+catalogue-date 2018-11-30 22:37:53 +0100
+catalogue-license gpl3+
+catalogue-topics bibtex-util glossary
+catalogue-version 1.8

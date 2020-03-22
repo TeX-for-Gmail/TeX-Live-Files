@@ -1,0 +1,19 @@
+name platexcheat
+category Package
+revision 49557
+shortdesc A LaTeX cheat sheet, in Japanese
+longdesc This is a translation to Japanese of Winston Chang's LaTeX
+longdesc cheat sheet (a reference sheet for writing scientific papers).
+longdesc It has been adapted to Japanese standards using pLaTeX, and
+longdesc also attached additional information of "standard LaTeX"
+longdesc (especially about math-mode).
+containersize 568
+containerchecksum 1409c7311eaa82811236d869b04e9f55fa2a96804faacef4820072a4813055e70ecce0e8c155ec19016f1ed4e57bebe0b362c5457d1258f317a40fc475d42aff
+doccontainersize 531356
+doccontainerchecksum bfe47b947a915099de15e5519a3aff201b327c31d29c1966d4fd3e9b73581792d918b461ed1944aaf5e8a5eb7956c38579a3fd972f189b1e3abb903c7c904cbe
+catalogue-contact-repository https://github.com/wtsnjp/platexcheat
+catalogue-ctan /info/latexcheat/platexcheat
+catalogue-date 2019-01-04 05:30:11 +0100
+catalogue-license mit
+catalogue-topics tut-cheat
+catalogue-version 3.1

@@ -1,0 +1,21 @@
+name postcards
+category Package
+revision 21641
+shortdesc Facilitates mass-mailing of postcards (junkmail)
+longdesc A modification of the standard LaTeX letter class which prints
+longdesc multiple, pre-stamped, 5.5" by 3.5" postcards (a US standard
+longdesc size) via the envlab and mailing packages. An address database
+longdesc is employed to address the front side of each postcard and a
+longdesc message is printed on the back side of all. An illustrative
+longdesc example is provided.
+containersize 1860
+containerchecksum 0e358697b47ee74afb9fb6bd339ea4a76457c78a76a37de6039ac44cd9ce1fc28a3866c42d988ccebf025d0e08c4c092a2b647cce4841662242f740f12297338
+doccontainersize 1364
+doccontainerchecksum 936c1f923bea76aa323d2c8ce9949cea3364eeb1a145e735ff5bdf609de4c54cc78125392e9e3cc914180815bb9dd5bae63e50c0000b2143fe7de94c199bc50e
+runfiles size=1
+ texmf-dist/tex/latex/postcards/postcards.cls
+catalogue-also formlett akletter dinbrief g-brief textmerg
+catalogue-ctan /macros/latex/contrib/postcards
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter

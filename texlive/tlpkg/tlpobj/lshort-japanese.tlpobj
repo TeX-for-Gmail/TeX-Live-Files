@@ -1,0 +1,12 @@
+name lshort-japanese
+category Package
+revision 36207
+shortdesc Japanese version of A Short Introduction to LaTeX2e
+containersize 368
+containerchecksum 25de64f37ca5811ce39c8efc3e895c1deea317c8dd02ac3e091a41ff11ab7a4730a0e476d323d8375c41fd60401cf441c2c15d614a090092d66413701500d43c
+doccontainersize 515744
+doccontainerchecksum 83292d42fa21614a055420eeb372ae5cf21a9a15b999e0b39f1063f63ee7fe53f77ce771a8aa649e860827214138fbd435161cb3dc4b3fdf2b75775979d904cd
+catalogue-ctan /info/lshort/japanese
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license gpl
+catalogue-topics tut-latex japanese-doc

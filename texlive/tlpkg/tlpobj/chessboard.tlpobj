@@ -1,0 +1,27 @@
+name chessboard
+category Package
+revision 33801
+shortdesc Print chess boards
+longdesc This package offers commands to print chessboards. It can print
+longdesc partial boards, hide pieces and fields, color the boards and
+longdesc put various marks on the board. It has a lot of options to
+longdesc place pieces on the board. Using exotic pieces (e.g., for fairy
+longdesc chess) is possible. The documentation includes an example of an
+longdesc animated chessboard, for those whose PDF viewer can display
+longdesc animations.
+containersize 20572
+containerchecksum f5ac3342bb9ad4b472b7d9a8b0f42b25eb6f5133ea76f76bbd75b876f9a10ca7ffe01ebb818000051a723a728a6fb20a367b298353b7679069049449c282460a
+doccontainersize 1624
+doccontainerchecksum e23955eaed83ae9668fca5753f08ab71a57dcc187cdec4669ccbb544dbe34f231259c743b01680c52cb07d7918fe3b1ccfc550b22edfe46417e06b4826532eb1
+srccontainersize 20780
+srccontainerchecksum 9d9582811fb6d4756aeed68e185e4f2e9457e218ad260d1a6bd4b09c1d21ae5ce7b2f12b71b5f835283961b45110fbe58cf683a18e8abefe1309ccb90f95f02e
+runfiles size=48
+ texmf-dist/tex/latex/chessboard/chessboard-keys-main.sty
+ texmf-dist/tex/latex/chessboard/chessboard-keys-pgf.sty
+ texmf-dist/tex/latex/chessboard/chessboard-pgf.sty
+ texmf-dist/tex/latex/chessboard/chessboard.sty
+catalogue-ctan /macros/latex/contrib/chessboard
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.7

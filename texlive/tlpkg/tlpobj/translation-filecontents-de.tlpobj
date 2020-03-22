@@ -1,0 +1,13 @@
+name translation-filecontents-de
+category Package
+revision 24010
+shortdesc German version of filecontents
+longdesc This is a "translation" of the filecontents documentation.
+containersize 400
+containerchecksum 78dd9ee41d9b06438e01ec12f716929c4cf0fbf6ff209f45fadce9fad4bac0d1b31732b3f66896bf7526dac7532504e0913dbb69c3c7e13830e81297b2761935
+doccontainersize 214452
+doccontainerchecksum 17ed1c39c549b43c31c13dfd6ffbd968ecbdd3e64b00cbc66b0a8914726f4baa7faf98edf30c23ed81850cee98a732bbdd70ef667973163ccee0b35c160fdc64
+catalogue-ctan /info/translations/filecontents/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics file-mgmt german-doc translation

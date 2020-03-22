@@ -1,0 +1,24 @@
+name ran_toks
+category Package
+revision 44429
+shortdesc Randomise token strings
+longdesc The package provides means of randomising lists of tokens, or
+longdesc lists of chunks of tokens. Two mechanisms for defining chunks
+longdesc are provided: the macro \ranToks command accepts an argument
+longdesc containing tokens to be randomised; and the \bRTVToks/\eRTVToks
+longdesc commands delimit a collection of tokens for randomising; each
+longdesc group inside a rtVw constitutes one of these (typically larger)
+longdesc token sets.
+containersize 3896
+containerchecksum 145ef7d6307f0b949fa488d2510223bd055419b5677745aaf04f322a817562320829f931136b9f651e501726202a00da68d9b5bc13f4346c9de9361611d427e1
+doccontainersize 211164
+doccontainerchecksum a8e8b19485b3609cc8df896cc8eed9af31177866648d94f10c20b2be1c8ad23c48ba2d8e9004168cd6a67646b68aca48abe78dfdc668216904bd0f4f982b27f9
+srccontainersize 7648
+srccontainerchecksum 83a0c7f284b019b2c4ae6469f48b275c35e31d4f4cd2c61eef5d906f5bb41c46ba73fec3c4c34fe3ae745f5bf1156ed77021556c2e9ff4cf03dab3752bfe3c34
+runfiles size=3
+ texmf-dist/tex/latex/ran_toks/ran_toks.sty
+catalogue-ctan /macros/latex/contrib/ran_toks
+catalogue-date 2017-05-18 22:38:32 +0200
+catalogue-license lppl1
+catalogue-topics macro-supp
+catalogue-version 1.1

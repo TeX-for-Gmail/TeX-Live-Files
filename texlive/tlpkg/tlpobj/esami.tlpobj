@@ -1,0 +1,31 @@
+name esami
+category Package
+revision 47639
+shortdesc Typeset exams with scrambled questions and answers
+longdesc The package enables the user to typeset exams with multiple
+longdesc choice, open questions and many other types of exercise. Both
+longdesc questions and answers may be randomly distributed within the
+longdesc exam, and the solutions are typeset automatically. Exercises
+longdesc may contain a wide number of random parameters and it is
+longdesc possible to do arithmetical operations on them. The package is
+longdesc localised in Italian, English, French, German, Greek, Serbian,
+longdesc and Spanish.
+containersize 20980
+containerchecksum bbf24974b4feaba88b92b3179af6bdb45b86053ae8037fa41c99d0823cf3c79807283c01370365ea0264ba1eee3c4c289fadc5c2619900e85657366c14920a7d
+doccontainersize 1432948
+doccontainerchecksum d9f57db15517f47d648e4ef91111a843fdd7f0d0706d1a863f5b4f7c65008c00507c552975c01b60c00cc724e63aea24f7a6b40930148bc981e200866cc30ac7
+runfiles size=28
+ texmf-dist/tex/latex/esami/es-UKenglish.lng
+ texmf-dist/tex/latex/esami/es-USenglish.lng
+ texmf-dist/tex/latex/esami/es-french.lng
+ texmf-dist/tex/latex/esami/es-german.lng
+ texmf-dist/tex/latex/esami/es-greek.lng
+ texmf-dist/tex/latex/esami/es-italian.lng
+ texmf-dist/tex/latex/esami/es-serbian.lng
+ texmf-dist/tex/latex/esami/es-spanish.lng
+ texmf-dist/tex/latex/esami/esami.sty
+catalogue-ctan /macros/latex/contrib/esami
+catalogue-date 2018-05-07 15:16:29 +0200
+catalogue-license lppl
+catalogue-topics exam
+catalogue-version 2.5

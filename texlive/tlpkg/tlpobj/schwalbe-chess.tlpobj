@@ -1,0 +1,20 @@
+name schwalbe-chess
+category Package
+revision 49602
+shortdesc Typeset the German chess magazine "Die Schwalbe"
+longdesc The package is based on chess-problem-diagrams, which in its
+longdesc turn has a dependency on the bartel-chess-fonts.
+containersize 6940
+containerchecksum aa32ef2ad2e939250a91d9c8a8278f640f6d3ab935dbaaf0684f299331d336b287e7a6b6330f0e232407ab4af6371d2feb2666a92ed5d962be8bc1e07b4cc811
+doccontainersize 183676
+doccontainerchecksum ef7d55e273b0b61c94e2df009976f636dc67939555c67a3a79f0df4e76a5d1f8db8474506e16041492ea6e4588972a375972bcccfbeccf943dac664efd48291a
+srccontainersize 14188
+srccontainerchecksum 03c43c6667646c44f40b553d8af01a3c463142ec442a1979552186f34973b4e0e4058407e159b89969d3b5bd1179bf98f4dad2257bd9343b5c8d40da53547174
+runfiles size=10
+ texmf-dist/tex/latex/schwalbe-chess/schwalbe.cls
+ texmf-dist/tex/latex/schwalbe-chess/schwalbe.sty
+catalogue-ctan /macros/latex/contrib/schwalbe-chess
+catalogue-date 2019-01-04 16:33:55 +0100
+catalogue-license lppl1.2
+catalogue-topics journalpub games class
+catalogue-version 2.3

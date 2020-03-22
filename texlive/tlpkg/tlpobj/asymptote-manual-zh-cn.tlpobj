@@ -1,0 +1,14 @@
+name asymptote-manual-zh-cn
+category Package
+revision 15878
+shortdesc A Chinese translation of the asymptote manual
+longdesc This is an (incomplete, simplified) Chinese translation of the
+longdesc Asymptote manual.
+containersize 400
+containerchecksum c04fc953a0a9035c238b9f80873d9fc605b23b322e898ae55b8eda7537f0172076e512022b163e3cd397ce2e4e721afa2e981454db53511c1a7347a017185df5
+doccontainersize 898452
+doccontainerchecksum 0f82e25773a14b0f81b34354f16931834d0496b2c6636c498c6af686f46e7ff93a274739a1a4c189433c9df1ae91ca010f0887081c81f2ac9006a105c7fd4ac9
+catalogue-ctan /info/asymptote-manual-zh-cn
+catalogue-date 2018-10-09 06:05:44 +0200
+catalogue-license lgpl
+catalogue-topics chinese-doc

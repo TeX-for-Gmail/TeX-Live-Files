@@ -1,0 +1,20 @@
+name glossaries-serbian
+category Package
+revision 35665
+shortdesc Serbian language module for glossaries package
+longdesc Serbian language module for glossaries package.
+containersize 1868
+containerchecksum 7360d33c1d3912802be171ecf8c218fad45719ee6dfa0596904484ebf9dcebcc0d926112e40fca76a196ec6081fafc4524c81b366008fd20207f8150dd82be29
+doccontainersize 128784
+doccontainerchecksum 1ce493838bdc59521728b6856d2cc2df26f44f3bcfcfc04d32fc20d3e416639b1420e1451acad8b8bb0597336a77b553ac599ec0c541527ab4d8e56765f07f3f
+srccontainersize 2512
+srccontainerchecksum 9097fda313f9cd3e0db095c27fa534269e2460c6b5efa3e6681471590591b0931c52f28374ee33404ae0491297d1047dac8b7ce7a525a46b01873210b6242515
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-serbian/glossaries-serbian-noenc.ldf
+ texmf-dist/tex/latex/glossaries-serbian/glossaries-serbian-utf8.ldf
+ texmf-dist/tex/latex/glossaries-serbian/glossaries-serbian.ldf
+catalogue-ctan /macros/latex/contrib/glossaries-serbian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

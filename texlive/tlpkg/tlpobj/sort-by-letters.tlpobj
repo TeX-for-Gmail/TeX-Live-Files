@@ -1,0 +1,25 @@
+name sort-by-letters
+category Package
+revision 27128
+shortdesc Bibliography styles for alphabetic sorting
+longdesc This bundle contains several bibliography styles for separating
+longdesc a document's references by the first letter of the first
+longdesc author/editor in the bibliography entry. The styles are adapted
+longdesc from standard ones or from natbib ones.
+containersize 11200
+containerchecksum 41e7db4a4c5242493aeb099ca103f4540e038b1e91ec0296629f4dab1ad013f98b26b664c7d661dd2f53c1e5c749509763c46f51bb823225a104c125a9f75f4d
+doccontainersize 1520
+doccontainerchecksum e2b6c68a42b9364d44dfa06ea93d8c8ea2444d97a3cf3c111065b720d3706b36315a7c8650877f1d6a2a72c1aa42268af4f17fc4632032e1e3c0a2d0fa08e577
+runfiles size=48
+ texmf-dist/bibtex/bst/sort-by-letters/abbrv-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/alpha-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/apalike-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/frplainnat-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/plain-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/plainnat-letters.bst
+ texmf-dist/bibtex/bst/sort-by-letters/siam-letters.bst
+catalogue-also alphabib
+catalogue-ctan /biblio/bibtex/contrib/sort-by-letters
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty

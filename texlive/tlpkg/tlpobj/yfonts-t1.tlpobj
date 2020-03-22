@@ -1,0 +1,27 @@
+name yfonts-t1
+category Package
+revision 36013
+shortdesc Old German-style fonts, in Adobe type 1 format
+longdesc This package comprises type 1 versions of the Gothic,
+longdesc Schwabacher and Fraktur fonts of Yannis Haralambous' set of old
+longdesc German fonts.
+execute addMap yfrak.map
+containersize 145940
+containerchecksum ec4cfa0d4f08f506b3bf7a3acc8e303ba51c7761f32498f040e062264e595bebe64a4f5adc7d6ab5aa2180c55b817d0124d5b07b276cb39c775539113a08f490
+doccontainersize 952
+doccontainerchecksum dd37c5163de0bdcce937a1866a48d9f924faff81da11e566e9525a6d5a81ae82419ee7eaebdff1cd8512957a878f849f43e9cd71dd39625e6dc0e2ba18f4ac9b
+runfiles size=50
+ texmf-dist/dvips/yfonts-t1/config.yfrak
+ texmf-dist/fonts/afm/public/yfonts-t1/yfrak.afm
+ texmf-dist/fonts/afm/public/yfonts-t1/ygoth.afm
+ texmf-dist/fonts/afm/public/yfonts-t1/yswab.afm
+ texmf-dist/fonts/map/dvips/yfonts-t1/yfrak.map
+ texmf-dist/fonts/type1/public/yfonts-t1/yfrak.pfb
+ texmf-dist/fonts/type1/public/yfonts-t1/ygoth.pfb
+ texmf-dist/fonts/type1/public/yfonts-t1/yswab.pfb
+catalogue-also mfnfss yfonts
+catalogue-ctan /fonts/ps-type1/yfonts
+catalogue-date 2017-11-24 06:13:30 +0100
+catalogue-license other-free
+catalogue-topics font font-type1 font-gothic
+catalogue-version 1.0

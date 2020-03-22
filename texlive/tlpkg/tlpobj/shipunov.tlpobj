@@ -1,0 +1,52 @@
+name shipunov
+category Package
+revision 29349
+shortdesc A collection of LaTeX packages and classes
+longdesc The bundle collects packages and classes, along with one
+longdesc bibliography style and examples and scripts for converting TeX
+longdesc files. Many of the files in the collection are designed to
+longdesc support field biologists and/or Russian writers, while others
+longdesc have wider application. The collection includes (among others):
+longdesc altverse, a simple verse typesetting package; autolist, which
+longdesc provides various list formatting facilities; biokey, which
+longdesc provides a mechanism for typesetting biological identification
+longdesc lists; biolist, which typesets species lists; boldline, which
+longdesc typesets heavier separating lines in tables; cassete, which
+longdesc lays out audio cassette inserts; classif2, which typesets
+longdesc classification lists; drcaps, which provides dropped capital
+longdesc macros; etiketka, a class for typesetting business-card-sized
+longdesc information (including business cards); flower, for typesetting
+longdesc lists of flower formulae; isyntax; numerus; punct; sltables,
+longdesc which develops on the stables package, for use in a LaTeX
+longdesc context; and starfn.
+containersize 18960
+containerchecksum fb50254e920a844282a1daf66bbc53d3ee1675b0c67ee50e57532c141e1a41616e2f06c106996a44301c1aa44a355e5c644a221605bea06c20ce6503c0784f79
+doccontainersize 2000396
+doccontainerchecksum 27ae22f82b52043024644139a2d39a14dc559a57758fc2ff5c16a0f79366d08a9af9c05c80695c03e97eeee4ca367045777ef844acce6bae36ab35c41da66cf2
+runfiles size=29
+ texmf-dist/bibtex/bst/shipunov/rusnat.bst
+ texmf-dist/scripts/shipunov/biokey2html.bat
+ texmf-dist/scripts/shipunov/biokey2html.sh
+ texmf-dist/scripts/shipunov/biokey2html1.pl
+ texmf-dist/scripts/shipunov/biokey2html2.pl
+ texmf-dist/scripts/shipunov/biokey2html3.pl
+ texmf-dist/tex/latex/shipunov/altverse.sty
+ texmf-dist/tex/latex/shipunov/autolist.sty
+ texmf-dist/tex/latex/shipunov/biokey.sty
+ texmf-dist/tex/latex/shipunov/biolist.sty
+ texmf-dist/tex/latex/shipunov/boldline.sty
+ texmf-dist/tex/latex/shipunov/cassete.cls
+ texmf-dist/tex/latex/shipunov/classif2.sty
+ texmf-dist/tex/latex/shipunov/drcaps.sty
+ texmf-dist/tex/latex/shipunov/etiketka.cls
+ texmf-dist/tex/latex/shipunov/flower.sty
+ texmf-dist/tex/latex/shipunov/isyntax.sty
+ texmf-dist/tex/latex/shipunov/numerus.sty
+ texmf-dist/tex/latex/shipunov/punct.sty
+ texmf-dist/tex/latex/shipunov/sltables.sty
+ texmf-dist/tex/latex/shipunov/starfn.sty
+catalogue-ctan /macros/latex/contrib/shipunov
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics collection
+catalogue-version 1.1

@@ -1,0 +1,29 @@
+name ted
+category Package
+revision 15878
+shortdesc A (primitive) token list editor
+longdesc Just like sed is a stream editor, ted is a token list editor.
+longdesc Actually, it is not as powerfull as sed, but its main feature
+longdesc is that it really works with tokens, not only characters. The
+longdesc ted package provides two user macros: \Substitute and
+longdesc \ShowTokens. The first is maybe the most useful: it performs
+longdesc substitutions in token lists (even inside braces). The second
+longdesc displays each token of the list (one per line) with its catcode
+longdesc (in the list, not just the current one), and can be useful for
+longdesc debugging or for TeX learners. Ted is designed to work well
+longdesc even if strange tokens (that is, unusual {charcode, catcode}
+longdesc pairs or tokens with a confusing meaning) occur in the list.
+containersize 3148
+containerchecksum 42b0fcded19e05d5cf316fdfc0f1f6474816b656a57bfb5214a76f47e644bc16a42bfa95a21b80251723e2c30651a284d873d898e84c277922120a9169d274df
+doccontainersize 165928
+doccontainerchecksum a36387e2520d7afadeb270f7393ef45ac1b26673840d541a50ecf864304d529b24be7d107070c96cfa123801284ffc53c9daa60753640fcd2ad6367f88887069
+srccontainersize 15216
+srccontainerchecksum b134ab90045781a2a686206d4de20ebf63ffd678d47d81815365f67eecce60984d7e17e3b9098e42f06876b1f711609bfa4133efb4b74705f25ba0e4323984bf
+runfiles size=3
+ texmf-dist/tex/latex/ted/ted.sty
+catalogue-also patch
+catalogue-ctan /macros/latex/contrib/ted
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics debug-supp
+catalogue-version 1.06

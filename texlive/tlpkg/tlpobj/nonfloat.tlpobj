@@ -1,0 +1,21 @@
+name nonfloat
+category Package
+revision 17598
+shortdesc Non-floating table and figure captions
+longdesc Adjusts the figure and table environments to ensure that
+longdesc centered objects as one line captions are centered as well.
+longdesc Also the vertical spaces for table captions above the table are
+longdesc changed.
+containersize 1484
+containerchecksum 39f8f0a4d9ef1cf8f1dc02c63612980f25cee80cb545bf405d9d2a080256ba6799ff3030c98c26e6f2aaa10ac71015e58e4233bf84703b290220b12db45c70c0
+doccontainersize 306696
+doccontainerchecksum 2d090fa397a385cb32c26957b5c4c05ba8443fb1bb7ce7e3eda777ddc2d3af11ec3ae6297bf014f40e71d4668044ab729a6dedd74e8802ce9089b59d57663374
+srccontainersize 5596
+srccontainerchecksum be5e0b078adb8c530d8255bcc72daf50ad8cbb48343fa76f132e1b75fd64d033c7caf287b6901f1bc49422956f6901dec0f7e7b7639dd71c10c1a76ec958aaf6
+runfiles size=1
+ texmf-dist/tex/latex/nonfloat/nonfloat.sty
+catalogue-ctan /macros/latex/contrib/nonfloat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics float
+catalogue-version 1.0

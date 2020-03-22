@@ -1,0 +1,30 @@
+name tabvar
+category Package
+revision 28908
+shortdesc Typesetting tables showing variations of functions
+longdesc This LaTeX package is meant to ease the typesetting of tables
+longdesc showing variations of functions as they are used in France.
+execute addMap tabvar.map
+containersize 8888
+containerchecksum c03d57d066a5955ffe24900f97de82f9bd96d8ebc20ff7b9c11c1e5a858d8f4a50b171f687e041d629a7dbf43da708bd03aa0405419c9879b9a5bddf23021cb7
+doccontainersize 590652
+doccontainerchecksum 700e42e3e8d37e1b4e11af90f8f76bc2c3234984aa39b229138b5bd86418797bb8102b4624a43d3ca1738a7f848f1e09164c077d7224819250c7e034c10b4103
+srccontainersize 11240
+srccontainerchecksum 2f20de4b18e444112088d089c92675f3f5ed4f93c1e630b708e3e88a777aa38e2c84d98ec0605a7e446cfc7a99c346190b559e72f4735c7d776151e76a38a987
+runfiles size=13
+ texmf-dist/fonts/afm/public/tabvar/tabvar.afm
+ texmf-dist/fonts/map/dvips/tabvar/tabvar.map
+ texmf-dist/fonts/tfm/public/tabvar/tabvar.tfm
+ texmf-dist/fonts/type1/public/tabvar/tabvar.pfb
+ texmf-dist/metapost/tabvar/tabvar.mp
+ texmf-dist/tex/latex/tabvar/tabvar.1
+ texmf-dist/tex/latex/tabvar/tabvar.2
+ texmf-dist/tex/latex/tabvar/tabvar.3
+ texmf-dist/tex/latex/tabvar/tabvar.cfg
+ texmf-dist/tex/latex/tabvar/tabvar.sty
+catalogue-also tablor tableaux tableauvariations tkz-tab
+catalogue-ctan /macros/latex/contrib/tabvar
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths-tabvar
+catalogue-version 1.7

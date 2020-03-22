@@ -1,0 +1,23 @@
+name finstrut
+category Package
+revision 21719
+shortdesc Adjust behaviour of the ends of footnotes
+longdesc The LaTeX internal command \@finalstrut is used automatically
+longdesc used at the end of footnote texts to insert a strut to avoid
+longdesc mis-spacing of multiple footnotes. Unfortunately the command
+longdesc can cause a blank line at the end of a footnote. The package
+longdesc provides a solution to this problem.
+containersize 3352
+containerchecksum 8b360a3426056b61e58e577cc68ba9e2f55b63a3b4a0a2eb76ebee53e9ff327da9235e9da5cbb85e3cf369cd48354c00a79cd46110ba4adb4b64192b7ff7b603
+doccontainersize 174356
+doccontainerchecksum 8cc27d82f7125b5ee82585f97385924737406e45d9739ec9cd57b76736e902a588c7258628bdcc4841e3e23f359a4d8ad22a31ed6f821f1d1c59798f4e8f3d56
+srccontainersize 2704
+srccontainerchecksum c06f1b10815444ed51b13d83258e1f3d246da65a581a0946e7a05a9c8432e78ae395efe18ff6c0a84db8fdf6016ab8dbcc6f3242e72936f46e522d1074ff1b87
+runfiles size=2
+ texmf-dist/tex/latex/finstrut/finstrut.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/finstrut
+catalogue-date 2017-05-06 08:18:57 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.5

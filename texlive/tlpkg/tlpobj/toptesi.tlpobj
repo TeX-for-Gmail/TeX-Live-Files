@@ -1,0 +1,38 @@
+name toptesi
+category Package
+revision 49211
+shortdesc Bundle for typesetting multilanguage theses
+longdesc This bundle contains everything needed for typesetting a
+longdesc bachelor, master, or PhD thesis in Italian (or in any other
+longdesc language supported by LaTeX: the bundle is constructed to
+longdesc support multilingual use). The infix strings may be selected
+longdesc and specified at will by means of a configuration file, so as
+longdesc to customize the layout of the front page to the requirements
+longdesc of a specific university. Thanks to its language management,
+longdesc the bundle is suited for multilanguage theses that are becoming
+longdesc more and more frequent thanks to the double degree programs of
+longdesc the European Community Socrates programs. Toptesi is designed
+longdesc to save the PDF version of a thesis in PDF/A-1b compliant mode
+longdesc and with all the necessary metadata.
+containersize 19492
+containerchecksum 4e6338483c0488d0f7e5902998f99fe0de88a7a03c971956d062eb14607674c9d322421df4abec0a2c1ce6d9dbaa8aa255c7e9b807c12f39cfc1d6ce01b5ab3a
+doccontainersize 5898292
+doccontainerchecksum bbf551d2649e86a88ff4b234f05477bc53bc76bd26635c044ffe66feb38c3c0c3c83e7624814f3443253df38a01128df90d2e313adcf85efa624ecc404b15a73
+srccontainersize 91644
+srccontainerchecksum 0b634b76e30d17141e07d42e439a88eb24d40b1b2ae6151f15a7b61c4c6c7e08e21159a2460f6bc7e6cffaa9be82dbda420a0d1551f35b7f0636a34f6039e42e
+runfiles size=39
+ texmf-dist/tex/latex/toptesi/topcoman.sty
+ texmf-dist/tex/latex/toptesi/topfront.sty
+ texmf-dist/tex/latex/toptesi/toptesi-dottorale.sty
+ texmf-dist/tex/latex/toptesi/toptesi-magistrale.sty
+ texmf-dist/tex/latex/toptesi/toptesi-monografia.sty
+ texmf-dist/tex/latex/toptesi/toptesi-scudo.sty
+ texmf-dist/tex/latex/toptesi/toptesi-sss.sty
+ texmf-dist/tex/latex/toptesi/toptesi.cfg
+ texmf-dist/tex/latex/toptesi/toptesi.cls
+ texmf-dist/tex/latex/toptesi/toptesi.sty
+catalogue-ctan /macros/latex/contrib/toptesi
+catalogue-date 2018-11-21 16:45:50 +0100
+catalogue-license lppl1.3c
+catalogue-topics dissertation class
+catalogue-version 6.2.09

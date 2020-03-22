@@ -1,0 +1,23 @@
+name chletter
+category Package
+revision 20060
+shortdesc Class for typesetting letters to Swiss rules
+longdesc The class enables composition of letters fitting into Swiss C5
+longdesc & C6/5 windowed envelopes. No assumption is made about the
+longdesc language used. The class is based on the standard LaTeX classes
+longdesc and is compatible with the LaTeX letter class. It is not
+longdesc limited to letters and may be used as a generic document class;
+longdesc it is used with the chextras package.
+containersize 3724
+containerchecksum a32f71d89ee69ad60de6173f415d0a3aca7563107cfed71aab0ae99972a2ead442bc75f848ddf07c26c5d464b2224afed5ce976bf037049764f722396e9666d9
+doccontainersize 132172
+doccontainerchecksum 05cf8a4f37eb51cc00d9c254dcb817c41167eeb7643f7a793d1a841bd2c8a3715ced2036b974533521f48be48ae493e52ef0809789d36155d1ffc9624db538d5
+srccontainersize 16892
+srccontainerchecksum 6e4c5063d7710fe5842ba684705d4b94478a9d468e68d60fe0b2ad23fdf717841421bb034317cf240269b77e4351eadce854145fe7e4300b2f9b698a6617679c
+runfiles size=3
+ texmf-dist/tex/latex/chletter/chletter.cls
+catalogue-ctan /macros/latex/contrib/chletter
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter swiss
+catalogue-version 2.0

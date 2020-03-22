@@ -1,0 +1,21 @@
+name rank-2-roots
+category Package
+revision 48515
+shortdesc Draw (mathematical) rank 2 root systems
+longdesc This package concerns mathematical drawings arising in
+longdesc representation theory. The purpose of this package is to ease
+longdesc drawing of rank 2 root systems, with Weyl chambers, weight
+longdesc lattices, and parabolic subgroups. Required packages are tikz,
+longdesc etoolbox, expl3, pgfkeys, pgfopts, xparse, and xstring.
+containersize 4028
+containerchecksum 43d76c8461a724c48e5e510701032c01a5bfa645734402b0fa0d0766f2d0cb7520f2e3d29d6c3abfe44ec369988445aab9216135f70c43a18fdec152cb4ae92b
+doccontainersize 400892
+doccontainerchecksum f9e58f16b30b075b19929a9ad1ac0c47e53b2aea038e34db69dde6d64e1cf3281fda597499dd07aea03b3bb325c06a1c7abbfdca42a80f03fa2a3d272bf52e5b
+runfiles size=5
+ texmf-dist/tex/latex/rank-2-roots/rank-2-roots.sty
+catalogue-contact-home http://euclid.ucc.ie/mckay/
+catalogue-ctan /graphics/pgf/contrib/rank-2-roots
+catalogue-date 2018-09-01 06:52:31 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths pgf-tikz
+catalogue-version 1.0

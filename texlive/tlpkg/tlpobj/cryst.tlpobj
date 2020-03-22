@@ -1,0 +1,20 @@
+name cryst
+category Package
+revision 15878
+shortdesc Font for graphical symbols used in crystallography
+longdesc The font is provided as an Adobe Type 1 font, and as Metafont
+longdesc source. Instructions for use are available both in the README
+longdesc file and (with a font diagram) in the documentation.
+containersize 35496
+containerchecksum 49e1c9d0cb6909e421446230bf71123fa71b4aad1d90b1c7614fc465651f701d91f576c2edd8b6840d1c78dfa5557cd604e61a5e745e1ccb2f60bde9e66117ed
+doccontainersize 31468
+doccontainerchecksum 55c765a9a4799f719383473700a0ef5627ec8873fc9fbd4ffd191d205d24b29d57255d90687176789240a3c4a547a3a57ed341a0558d99aa01dbcff0fc7dffc1
+runfiles size=23
+ texmf-dist/fonts/afm/public/cryst/cryst.afm
+ texmf-dist/fonts/source/public/cryst/cryst.mf
+ texmf-dist/fonts/tfm/public/cryst/cryst.tfm
+ texmf-dist/fonts/type1/public/cryst/cryst.pfb
+catalogue-ctan /fonts/cryst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-mf font-symbol

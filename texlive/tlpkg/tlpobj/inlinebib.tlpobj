@@ -1,0 +1,20 @@
+name inlinebib
+category Package
+revision 22018
+shortdesc Citations in footnotes
+longdesc A BibTeX style and a LaTeX package that allow for a full
+longdesc bibliography at the end of the document as well as citation
+longdesc details in footnotes. The footnote details include "op. cit."
+longdesc and "ibid." contractions.
+containersize 6760
+containerchecksum 42e158a9ff10dc165345bd08b18fc0f90b463482fbb824872289edf93269b36b04faaf35cd12538e83ef1e509b7400ee61e604c5849922106368624c6c20f507
+doccontainersize 19896
+doccontainerchecksum 2a00d2f51daca68362b5243d8cc485bff6f64fbb9156d1a221d75dc5eec001c3377e6d67afe5d6384ba3f7504eafd65919f5afca8e1170f8b584eb101c947faf
+runfiles size=8
+ texmf-dist/bibtex/bst/inlinebib/inlinebib.bst
+ texmf-dist/tex/latex/inlinebib/inlinebib.sty
+ texmf-dist/tex/latex/inlinebib/pageranges.sty
+catalogue-ctan /biblio/bibtex/contrib/inlinebib
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics cite-foot

@@ -1,0 +1,8 @@
+name fragmaster.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of fragmaster
+containersize 340
+containerchecksum 709f4314101389f90508df1be21b64d94d103ac373b16d90a9ddaa8fc74a6cd7a0f50db5add7edfcb8f18404d78c561885e8c736c16fd2b14488cc53bf60727d
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/fragmaster

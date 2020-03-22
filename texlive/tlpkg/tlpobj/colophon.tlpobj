@@ -1,0 +1,27 @@
+name colophon
+category Package
+revision 47913
+shortdesc Provides commands for producing a colophon
+longdesc Colophons are a once-common design device by which a book (or
+longdesc document) designer gave some information to his readers about
+longdesc the design and makeup of the text. It typically includes the
+longdesc publisher (if not included elsewhere in the document), font
+longdesc size, leading size, measure, and of course font face
+longdesc identification. Sometimes it includes information about the
+longdesc tools used, as well. This package provides some highly
+longdesc configurable macros, with sensible defaults, for producing
+longdesc colophons without having to muck around with a lot of manual
+longdesc code.
+containersize 2028
+containerchecksum e85dfdef7eefa2fedd6af7c0b6eb71200485b5190268de3a89cbec8dd15f8e66b3260430660f6cb860e2712d3e20e5a8d0b874592a71b116dc07de6e28161474
+doccontainersize 377660
+doccontainerchecksum aba1badf34551d8340f733bb9e365a99c56c473f96ed69deadda917232ea8313df800579cb347e074ff0836553bdeb49f60330883581fb3cc7a3eeedc736d1ba
+srccontainersize 7080
+srccontainerchecksum 8764595f95806d0aa8cd956bdfbec118f16376c936ae457d3d28c072eb8e2d6f0e7028fdb91ab301dfb587a721cc40fae13f56f5245b418413187f8776624855
+runfiles size=2
+ texmf-dist/tex/latex/colophon/colophon.sty
+catalogue-ctan /macros/latex/contrib/colophon
+catalogue-date 2018-06-03 15:59:08 +0200
+catalogue-license lppl1.3
+catalogue-topics typeset-tool
+catalogue-version 1.1

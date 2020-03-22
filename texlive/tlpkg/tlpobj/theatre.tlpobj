@@ -1,0 +1,17 @@
+name theatre
+category Package
+revision 45363
+shortdesc A sophisticated package for typesetting stage plays
+longdesc This package enables the user to typeset stage plays in a way
+longdesc that permits to create highly customized printouts for each
+longdesc actor.
+containersize 500
+containerchecksum d450ef176d5543581316ff36590eba2ed829a3f2b8a019fa8ca379af0ae2aa4df4e4e3068b52ed91edec4df33d08aa78b1f5f21d0fdf33d0aa718704e3de2851
+doccontainersize 124012
+doccontainerchecksum cb4920d5acfe0e1288c7d459d15b06b9ced1130b56ea92c9ed49376743cee7e3fbb694362bac51f2660269992d64717effc5d8e9f52a21337fe7eed51a4622f6
+catalogue-contact-home https://christian.hinque.fr/wp/latex/
+catalogue-ctan /macros/latex/contrib/theatre
+catalogue-date 2017-09-22 05:04:31 +0200
+catalogue-license lppl1.2
+catalogue-topics drama-script
+catalogue-version 0.1

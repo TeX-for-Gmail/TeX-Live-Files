@@ -1,0 +1,26 @@
+name tablvar
+category Package
+revision 49493
+shortdesc Typesetting pretty tables of signs and variations according to French usage
+longdesc tablvar is a complete and easy to use package for typesetting
+longdesc pretty tables of signs and variations according to French
+longdesc usage. The syntax is similar to that on array environment and
+longdesc uses intuitive position commands to draw arrows automatically
+longdesc (with PSTricks by default or TikZ in option). Many
+longdesc functionalities are provided for drawing twin bars, single bars
+longdesc crossing the zeros, areas where the function is not defined,
+longdesc placing special values,... The design of tables can be
+longdesc customized.
+containersize 3644
+containerchecksum 70c51d2c5434fc88787c011dfb532b551a9c792724e978a74b285c35b271b6544fb325661238ab966bedf61b9c55c670f2d9ab1ec58f92da655c4df770ee38bb
+doccontainersize 157840
+doccontainerchecksum b0615a5ce06687ed7394b582f7429309ffae7e1d0dcf58e062cae794e57a5153aec76a1c6f5aeddc13d4c051babcf9bdffd61fa0bc1e3267d3d06a49b8088c9c
+srccontainersize 15384
+srccontainerchecksum 48312b7b5d25d6041678b1838f3f30ef3db502bfdbcd0833c84a9bb76ffde194773b179fcc2a2eca8e5299db889956ab9357ed6f37424973784d5951b22eddfa
+runfiles size=3
+ texmf-dist/tex/latex/tablvar/tablvar.sty
+catalogue-ctan /macros/latex/contrib/tablvar
+catalogue-date 2018-12-25 09:41:14 +0100
+catalogue-license lppl1.3
+catalogue-topics maths-tabvar maths french
+catalogue-version 1.0

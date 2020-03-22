@@ -1,0 +1,94 @@
+name tengwarscript
+category Package
+revision 34594
+shortdesc LaTeX support for using Tengwar fonts
+longdesc The package provides "mid-level" access to tengwar fonts,
+longdesc providing good quality output. Each tengwar sign is represented
+longdesc by a command, which will place the sign nicely in relation to
+longdesc previous signs. A transcription package is available from the
+longdesc package's home page: writing all those tengwar commands would
+longdesc quickly become untenable. The package supports the use of a
+longdesc wide variety of tengwar fonts that are available from the net;
+longdesc metric and map files are provided for all the supported fonts.
+containersize 32276
+containerchecksum c6a29d928b1f25dc4b8893f9fc803f3a5deef9e8e9aa4803153fbae5cdd7170eea819eafba8a165203e48c8b2f443c55ce682df9f7e968ab621f2cf7eb082108
+doccontainersize 472140
+doccontainerchecksum 35825a4c1cac91c088daea643e8a8901f0c3ea15c44e8a9328883c22c1fddab95fb32a65372af3979698f81e68d77b34764a1c5748460a28396480075cb594d1
+srccontainersize 24200
+srccontainerchecksum 4afbd079f20f9989a817acf49b46409bfab6ba0b328249eedf428a5a11e127fedc6c763c87db08b8b7c453562400878ea0c54d6d66c6bb7d407aa498a78dda38
+runfiles size=125
+ texmf-dist/fonts/enc/dvips/tengwarscript/tengwaralt.enc
+ texmf-dist/fonts/enc/dvips/tengwarscript/tengwarcap.enc
+ texmf-dist/fonts/enc/dvips/tengwarscript/tengwarscript.enc
+ texmf-dist/fonts/map/dvips/tengwarscript/tengwarscript.map
+ texmf-dist/fonts/tfm/public/tengwarscript/Elfica32.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/Parmaite.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/Parmaite_alt.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/Parmaite_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarFormal12.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarFormalA12.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarFormal_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarGothika050.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarNoldor.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarNoldorAlt.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarNoldorCapitals1.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarNoldorCapitals2.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarNoldor_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarQuenya.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarQuenyaAlt.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarQuenyaCapitals1.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarQuenyaCapitals2.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarQuenya_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarSindarin.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarSindarinAlt.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarSindarinCapitals1.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarSindarinCapitals2.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarSindarin_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/TengwarTelerin.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/UnicodeParmaite.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tngan.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tngan_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tngana.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganab.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganabi.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganai.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganb.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganb_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganbi.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tnganbi_full.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tngani.tfm
+ texmf-dist/fonts/tfm/public/tengwarscript/tngani_full.tfm
+ texmf-dist/fonts/vf/public/tengwarscript/Parmaite_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/TengwarFormal_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/TengwarNoldor_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/TengwarQuenya_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/TengwarSindarin_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/tngan_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/tnganb_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/tnganbi_full.vf
+ texmf-dist/fonts/vf/public/tengwarscript/tngani_full.vf
+ texmf-dist/tex/latex/tengwarscript/annatar.cfg
+ texmf-dist/tex/latex/tengwarscript/annatarbold.cfg
+ texmf-dist/tex/latex/tengwarscript/annatarbolditalic.cfg
+ texmf-dist/tex/latex/tengwarscript/annataritalic.cfg
+ texmf-dist/tex/latex/tengwarscript/elfica.cfg
+ texmf-dist/tex/latex/tengwarscript/formal.cfg
+ texmf-dist/tex/latex/tengwarscript/gothika.cfg
+ texmf-dist/tex/latex/tengwarscript/noldor.cfg
+ texmf-dist/tex/latex/tengwarscript/noldorcapI.cfg
+ texmf-dist/tex/latex/tengwarscript/noldorcapII.cfg
+ texmf-dist/tex/latex/tengwarscript/parmaite.cfg
+ texmf-dist/tex/latex/tengwarscript/quenya.cfg
+ texmf-dist/tex/latex/tengwarscript/quenyacapI.cfg
+ texmf-dist/tex/latex/tengwarscript/quenyacapII.cfg
+ texmf-dist/tex/latex/tengwarscript/sindarin.cfg
+ texmf-dist/tex/latex/tengwarscript/sindarincapI.cfg
+ texmf-dist/tex/latex/tengwarscript/sindarincapII.cfg
+ texmf-dist/tex/latex/tengwarscript/teleri.cfg
+ texmf-dist/tex/latex/tengwarscript/tengwarscript.sty
+ texmf-dist/tex/latex/tengwarscript/unicodeparmaite.cfg
+catalogue-ctan /macros/latex/contrib/tengwarscript
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-invented font-supp
+catalogue-version 1.3.1

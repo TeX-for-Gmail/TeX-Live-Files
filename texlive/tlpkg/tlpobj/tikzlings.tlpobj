@@ -1,0 +1,40 @@
+name tikzlings
+category Package
+revision 50841
+shortdesc A collection of cute little animals and similar creatures
+longdesc A collection of LaTeX packages for drawing cute little animals
+longdesc and similar creatures using TikZ. Currently, the following
+longdesc TikZlings are included: bear cat coati hippo koala marmot moles
+longdesc mouse owl panda penguin pig rhino sloth snowman These little
+longdesc drawings can be customized in many ways.
+containersize 18332
+containerchecksum 0c7c5af85cbdc6b5146e67083a8ab5485c3d0aab78d677ad8ef53f6419530e96385542d1317da04bf783a4c94b61152ebb8fd037ad8bd0ee472531476646177c
+doccontainersize 466836
+doccontainerchecksum 2b60d87c6925d1465588f244fdb3bee6912ebe02d89bed593caad9a8b8710b0d18a9aaef903395af9fa85207f0278054fb6a8d94b6572acdc60b30e7f8d9c6c2
+runfiles size=46
+ texmf-dist/tex/latex/tikzlings/tikzlings-addons.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-bears.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-cats.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-coatis.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-hippos.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-koalas.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-marmots.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-mice.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-moles.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-owls.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-pandas.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-penguins.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-pigs.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-rhinos.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-sloths.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings-snowmans.sty
+ texmf-dist/tex/latex/tikzlings/tikzlings.sty
+catalogue-also tikzducks tikzmarmots
+catalogue-contact-bugs https://github.com/samcarter/tikzlings/issues
+catalogue-contact-repository https://github.com/samcarter/tikzlings
+catalogue-contact-support https://github.com/samcarter/tikzlings/issues
+catalogue-ctan /graphics/pgf/contrib/tikzlings
+catalogue-date 2019-04-07 10:07:47 +0200
+catalogue-license lppl1.3c
+catalogue-topics graphics pgf-tikz
+catalogue-version 0.2

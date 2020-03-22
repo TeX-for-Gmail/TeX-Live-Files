@@ -1,0 +1,19 @@
+name hexgame
+category Package
+revision 15878
+shortdesc Provide an environment to draw a hexgame-board
+longdesc Hex is a mathematical game invented by the Danish mathematician
+longdesc Piet Hein and independently by the mathematician John Nash.
+longdesc This package defines an environment that enables the user to
+longdesc draw such a game in a trivial way.
+containersize 1672
+containerchecksum b16abb669f6bb5c3111e6c333353cc37a76431c49920a4cd22af79f6237f78a5c56124c5854b7665e9dcf963fb2715c488dd7ef4df86d5582aa7b3dbe3d08822
+doccontainersize 29044
+doccontainerchecksum 0fad11a5510dd1a2ceec227c46c3f8c0c387ab3e2819bd70765d363ca5f97822147bfac62e69de773a96d24a881394c35c1542a8f08a1828a82f94aaa7f02644
+runfiles size=2
+ texmf-dist/tex/latex/hexgame/hexgame.sty
+catalogue-ctan /macros/latex/contrib/hexgame
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.0

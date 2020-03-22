@@ -1,0 +1,22 @@
+name eqnalign
+category Package
+revision 43278
+shortdesc Make eqnarray behave like align
+longdesc The package makes eqnarray environment behave like align from
+longdesc amsmath'. It is intended for quick-fixing documents that use
+longdesc eqnarray. In cases where it fails, manual conversion to align
+longdesc is required, but these cases should be seldom.
+containersize 1724
+containerchecksum 6793d24d272ff5f95b4e37fa3f4206e7358e0f5b51c51bcf4c61908e3fa554d8c8a53d888c7d7b1adde09f5d308c19944e93abccdb7846c88544abc90bbe4924
+doccontainersize 288116
+doccontainerchecksum 65847f34d7d1c76dd4d87ebd7e46aa1bb9e9a34ecf04cac6e58c18f9f4949d3e82325dac982f6d704fe6013e2acf718f0372873e547434c15a4a07c07ace27c9
+srccontainersize 4692
+srccontainerchecksum 124449d3ce1f3b120f152c1eee49447f640f97d01f1d5a6f79ef72d1465cdd31de896049a5a7163e4e366ca9454b0f78723c4a94a24b8d83e2c4540d613bfaa3
+runfiles size=1
+ texmf-dist/tex/latex/eqnalign/eqnalign.sty
+catalogue-also eqnarray amsmath
+catalogue-ctan /macros/latex/contrib/eqnalign
+catalogue-date 2017-02-22 05:31:05 +0100
+catalogue-license lppl1.3
+catalogue-topics maths maths-syseqn
+catalogue-version 1.0a

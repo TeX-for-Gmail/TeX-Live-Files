@@ -1,0 +1,29 @@
+name ulthese
+category Package
+revision 48802
+shortdesc Thesis class and templates for Universite Laval
+longdesc The package provides a class based on memoir to prepare theses
+longdesc and memoirs compliant with the presentation rules set forth by
+longdesc the Faculty of Graduate Studies of Universite Laval, Quebec,
+longdesc Canada. The class also comes with an extensive set of templates
+longdesc for the various types of theses and memoirs offered at Laval.
+longdesc Please note that the documentation for the class and the
+longdesc comments in the templates are all written in French, the
+longdesc language of the target audience.
+containersize 59760
+containerchecksum f9deb1c8debcb02e0604f86c5ccff6ff01b00cd8602cdc4e09b2ef014b31242d3f25022045d751602e6a96181bd5671b362e2e90ec6416c03f8582c081e70803
+doccontainersize 250456
+doccontainerchecksum 5a947ac3eaf12ae39f12311f85a28eaa34767baa2004db4a26981d4f79cc1d47b2f8094b866b548f12677b1984127a746659af579f45199f6bc829018e695688
+srccontainersize 26524
+srccontainerchecksum 01df5161afd917d78ab8230cc5dd1dc503f64888f131bda4ad1edbbe62a7b5217295965bf9e34d372dffbd399653da017019962f3576efa841caea90587e3b87
+runfiles size=47
+ texmf-dist/tex/latex/ulthese/ul_p.eps
+ texmf-dist/tex/latex/ulthese/ul_p.pdf
+ texmf-dist/tex/latex/ulthese/ulthese.cls
+catalogue-also memoir babel
+catalogue-contact-repository https://gitlab.com/vigou3/ulthese
+catalogue-ctan /macros/latex/contrib/ulthese
+catalogue-date 2018-10-01 05:30:04 +0200
+catalogue-license lppl1.3c
+catalogue-topics dissertation class french
+catalogue-version 5.1

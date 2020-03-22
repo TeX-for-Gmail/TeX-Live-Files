@@ -1,0 +1,18 @@
+name statex
+category Package
+revision 20306
+shortdesc Statistics style
+longdesc A package defining many macros for items of significance in
+longdesc statistical presentations. An updated, but incompatible,
+longdesc version of the package is available: statex2.
+containersize 4884
+containerchecksum 66fb0e346ddd4902ac98a90fb7d0b0193d8c8166aa30774dca1f5b6007a3e19c3b98e25bbc88abc379e199720b6c9a2c73caabbc515db2a54b2a8b437c5b270a
+doccontainersize 177212
+doccontainerchecksum 9851bb7e2e9af03affa1f4b5750817543be9e985e02d06ca4908ee1ebcf0eea2b8d75a25cefdde3492efc52d86be5bde6fc2f6a99f935c183cf3fc9041ee0e25
+runfiles size=4
+ texmf-dist/tex/latex/statex/statex.sty
+catalogue-ctan /macros/latex/contrib/statex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics statistics
+catalogue-version 1.6

@@ -1,0 +1,24 @@
+name thesis-qom
+category Package
+revision 49124
+shortdesc Thesis style of the University of Qom, Iran
+longdesc This package provides a class file for writing theses and
+longdesc dissertations according to the University of Qom Graduate
+longdesc Schools's guidelines for the electronic submission of master
+longdesc theses and PhD dissertations. The class should meet all the
+longdesc current requirements and is updated whenever the university
+longdesc guidelines change. The class needs XeLaTeX in conjunction with
+longdesc the following fonts: XB Niloofar, IranNastaliq, IRlotus, XB
+longdesc Zar, XB Titre, and Yas.
+containersize 14060
+containerchecksum 5afaa0d05b88dbe2d3e5dc2450d1d01b57a24f54be4437c2e9c71afa6c8b1f10144c674de2d8062c6d4a5b7a5140b1fac6ba82bb68c03ecb6560d8afd1384cae
+doccontainersize 1248052
+doccontainerchecksum 7bfe521b8f1df650304080e50805f48437e9b22b5b06f3f2fc309bc770ea0370d0e5acf2977c4332e0ca3d7b664c2dc8161f31f057a910069ba1cb585225145d
+runfiles size=15
+ texmf-dist/tex/xelatex/thesis-qom/thesis-qom.cls
+catalogue-contact-repository https://github.com/javadr/thesis-qom
+catalogue-ctan /macros/xetex/latex/thesis-qom
+catalogue-date 2018-11-10 11:03:25 +0100
+catalogue-license lppl1.3c
+catalogue-topics dissertation class xetex
+catalogue-version 0.42

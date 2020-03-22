@@ -1,0 +1,25 @@
+name xellipsis
+category Package
+revision 47546
+shortdesc Extremely configurable ellipses with formats for various style manuals
+longdesc The xellipsis package provides a system for configuring
+longdesc (almomst) every possible aspect of ellipses, including
+longdesc preceding and proceeding characters; the character itself;
+longdesc distances before and after each of these; and number of
+longdesc characters. It comes with both a compatibility option for
+longdesc standard LaTeX \ldots as well as preset package options for the
+longdesc Chicago Manual of Style (Turabian); the Bluebook; and MLA
+longdesc guidelines.
+containersize 1716
+containerchecksum 3bff74473b4e7fdc7a349fd54e7703b77282381d9ff5eac233d5eb7cefe98f4abc5ea4fd309b8693bd7245471c565545e0ab437a5f8e5cc1b89368c914078d54
+doccontainersize 348152
+doccontainerchecksum 20d238f8281b93643af570c3dd09a9cdf9822af0da6a9d06b3b9d09196ac4c7fcff2efa3271f763caf42e54f9c72d2087c491cacc5ea4666cef1060c12ecab3a
+srccontainersize 7092
+srccontainerchecksum ae58f20d0aaec99bb7e56a0a5b277210d5b9efb8e2677e9e22caa08ebe9576befe19e4b7409625aee00b30cdbe1d90ae61623e86d3fcd255df96dbb7c89291c3
+runfiles size=1
+ texmf-dist/tex/latex/xellipsis/xellipsis.sty
+catalogue-ctan /macros/latex/contrib/xellipsis
+catalogue-date 2018-04-16 09:00:25 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting
+catalogue-version 2.0

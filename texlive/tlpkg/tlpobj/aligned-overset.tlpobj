@@ -1,0 +1,20 @@
+name aligned-overset
+category Package
+revision 47290
+shortdesc Fix alignment at \overset or \underset
+longdesc This package allows the base character of \underset or \overset
+longdesc to be used as the alignment position for the amsmath aligned
+longdesc math environments.
+containersize 1256
+containerchecksum 3998cd5515ad43e559da91bd1f25b835743299ec13fcf22ee9cb3aadc44c285f428ee701f5b27141c4d03c97b31a31e8620a2911854a1781ee5543a99073fed4
+doccontainersize 378812
+doccontainerchecksum d44ff38fe36352e1498e12eb56652e935cfeeb9ce6af5711bebe7844b1b7ba16864c8dac3c3b5f2e2bd6fee86de38c7555d5796940b834ce1ad396f5d2cb536e
+srccontainersize 1900
+srccontainerchecksum 56584744fe5700505608c6ced57fed83fa189c9e755b63521f466f40e1080a35032b007831316e4b080cf93ef36958873924246a4cdfe2b0f129effda75380b6
+runfiles size=1
+ texmf-dist/tex/latex/aligned-overset/aligned-overset.sty
+catalogue-ctan /macros/latex/contrib/aligned-overset
+catalogue-date 2018-04-04 16:01:59 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths
+catalogue-version 0.1.0

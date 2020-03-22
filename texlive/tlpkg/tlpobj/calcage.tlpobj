@@ -1,0 +1,22 @@
+name calcage
+category Package
+revision 27725
+shortdesc Calculate the age of something, in years
+longdesc The package calculates the age of someone or something in
+longdesc years. Internally it uses the datenumber package to calculate
+longdesc the age in days; conversion from days to years is then
+longdesc performed, taking care of leap years and such odd things.
+containersize 1464
+containerchecksum d3f6d46166f2b37e6ee8ff9185c6ddf5ed99ca2b32c7520966fa9a3db95d3a9517e39f5e8f928332a8dba490274c4fe48e62b6ce83ca10d0fbdb9a4218e0d92b
+doccontainersize 279664
+doccontainerchecksum 4c3f1ed751005a5fc19e0ae40dfeb010ca211dbbdb7ac11c01525c7643f1e993346f1af21d411705ebcb119f8b1c20e4ad35384d2be9618fbe6db2de99e6eb45
+srccontainersize 5820
+srccontainerchecksum aa49d205c8366ad92a46195c113e69fe123979560ae92a51589718136bc8df8b3b00e0aad4d6643ca36d217be02fa61529c4a1779d6826a52f80d29649fc50ac
+runfiles size=1
+ texmf-dist/tex/latex/calcage/calcage.sty
+catalogue-contact-repository https://github.com/ypid/latex-packages/tree/master/calcage
+catalogue-ctan /macros/latex/contrib/calcage
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time
+catalogue-version 0.90

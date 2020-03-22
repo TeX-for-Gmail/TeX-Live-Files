@@ -1,0 +1,18 @@
+name citeref
+category Package
+revision 47407
+shortdesc Add reference-page-list to bibliography-items
+longdesc The package does its job without using the indexing facilities,
+longdesc and needs no special \cite-replacement package.
+containersize 2264
+containerchecksum 5f56fb1d813962358c737023e06bc2fa249712d8ef984f835073e11b075b676e845596a61ac312991e646d72068670b60eb002f78ac322f66d8e5a9bce185063
+doccontainersize 66208
+doccontainerchecksum 21d1a8063586b09ba953ac5df96a3b1552c586d66c5f2af517b1b1ceb75b40f173bd411654dd313c6aeebabc35db7543ea8edcbc8705ae104c7f63e5a5b3cf57
+runfiles size=1
+ texmf-dist/tex/latex/citeref/citeref.sty
+catalogue-also backref
+catalogue-ctan /macros/latex/contrib/citeref
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license bsd4
+catalogue-topics bibtex-supp
+catalogue-version 1.1

@@ -1,0 +1,69 @@
+name obnov
+category Package
+revision 33355
+shortdesc Obyknovennaya Novaya fonts
+longdesc The Obyknovennaya Novaya (Ordinary New Face) typeface was
+longdesc widely used in the USSR for scientific and technical
+longdesc publications, as well as textbooks. The fonts are encoded to
+longdesc KOI8-R (which is a long-established Russian font encoding,
+longdesc rather than a TeX/LaTeX encoding). To use the fonts, the user
+longdesc needs Cyrillic font support.
+containersize 58304
+containerchecksum 8adb7a1e6183576b4ed9d709b2f64cc778217602c807fce0daaa62b59786d5629fded5e7ad4824cdee90ad5333b9fff4fd47d462e38005fcd1026af8838f04ed
+doccontainersize 808596
+doccontainerchecksum 6fca30705b614ede4e055a39b92deac91daa6e9ca0922725f29c801e58b4a1ddc7176148b03de147aa906289962a3ff45a743828c0636d7f8fa3279b88e5103a
+runfiles size=680
+ texmf-dist/fonts/source/public/obnov/obn10.mf
+ texmf-dist/fonts/source/public/obnov/obn12.mf
+ texmf-dist/fonts/source/public/obnov/obn17.mf
+ texmf-dist/fonts/source/public/obnov/obn7.mf
+ texmf-dist/fonts/source/public/obnov/obn_lcyw_code.mf
+ texmf-dist/fonts/source/public/obnov/obnb10.mf
+ texmf-dist/fonts/source/public/obnov/obnb12.mf
+ texmf-dist/fonts/source/public/obnov/obnb17.mf
+ texmf-dist/fonts/source/public/obnov/obnb7.mf
+ texmf-dist/fonts/source/public/obnov/obnit10.mf
+ texmf-dist/fonts/source/public/obnov/obnit12.mf
+ texmf-dist/fonts/source/public/obnov/obnit17.mf
+ texmf-dist/fonts/source/public/obnov/obnit7.mf
+ texmf-dist/fonts/source/public/obnov/obnitb10.mf
+ texmf-dist/fonts/source/public/obnov/obnitb12.mf
+ texmf-dist/fonts/source/public/obnov/obnitb17.mf
+ texmf-dist/fonts/source/public/obnov/obnsc10.mf
+ texmf-dist/fonts/source/public/obnov/obnsc12.mf
+ texmf-dist/fonts/source/public/obnov/obnsc17.mf
+ texmf-dist/fonts/source/public/obnov/obnsc7.mf
+ texmf-dist/fonts/source/public/obnov/obnsl10.mf
+ texmf-dist/fonts/source/public/obnov/obnsl12.mf
+ texmf-dist/fonts/source/public/obnov/obnsl17.mf
+ texmf-dist/fonts/source/public/obnov/obnsl7.mf
+ texmf-dist/fonts/tfm/public/obnov/obn10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obn12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obn17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obn7.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnb10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnb12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnb17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnb7.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnit10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnit12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnit17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnit7.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnitb10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnitb12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnitb17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsc10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsc12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsc17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsc7.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsl10.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsl12.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsl17.tfm
+ texmf-dist/fonts/tfm/public/obnov/obnsl7.tfm
+ texmf-dist/tex/latex/obnov/lcyw.cmap
+ texmf-dist/tex/latex/obnov/lcywobn.fd
+catalogue-ctan /fonts/obnov
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-cyrillic cyrillic
+catalogue-version 0.11

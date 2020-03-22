@@ -1,0 +1,25 @@
+name jfmutil
+category Package
+revision 50002
+shortdesc Utility to process pTeX-extended TFM and VF
+longdesc This program provides functionality to process data files (JFM
+longdesc and VF) that form logical fonts used in (u)pTeX. The functions
+longdesc currently available include: The mutual conversion between
+longdesc Japanese virtual fonts (pairs of VF and JFM) and files in the
+longdesc "ZVP format", which is an original text format representing
+longdesc data in virtual fonts. This function can be seen as a
+longdesc counterpart to the vftovp/vptovf programs. The mutual
+longdesc conversion between VF files alone and files in the "ZVP0
+longdesc format", which is a subset of the ZVP format.
+depend jfmutil.ARCH
+containersize 25264
+containerchecksum af6f5a94b795af993a189276825388da3f0592563fdfde1b3f66ab1763a375ed691c51c2f4dbcd5496be7131de68f7069c7c6a748be2836a374d75b876312c01
+doccontainersize 9456
+doccontainerchecksum 20de3ee13d4f214a0576fc05833a074f345ede24c589a3711319b14baa33ad7e961b1d083105ee9c8b8262f59af76b1dfd821a4cd903a25054f26499c84139ad
+runfiles size=26
+ texmf-dist/scripts/jfmutil/jfmutil.pl
+catalogue-ctan /fonts/utilities/jfmutil
+catalogue-date 2019-02-11 14:03:12 +0100
+catalogue-license mit
+catalogue-topics font-proc
+catalogue-version 1.2.2

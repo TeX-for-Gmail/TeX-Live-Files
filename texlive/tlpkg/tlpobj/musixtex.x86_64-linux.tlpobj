@@ -1,0 +1,9 @@
+name musixtex.x86_64-linux
+category Package
+revision 37026
+shortdesc x86_64-linux files of musixtex
+containersize 360
+containerchecksum 57dee9581407233fb989d0a260248f9fbe0771fbf8742f3cd9d47abaaab08257146d681704601b32da35da97d927360ceec9a6103088d15e56630d853bb3a2c1
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/musixflx
+ bin/x86_64-linux/musixtex

@@ -1,0 +1,16 @@
+name presentations-en
+category Package
+revision 29803
+shortdesc Examples from the book Presentations with LaTeX
+longdesc This bundle contains all the examples, as source, eps and pdf,
+longdesc of the author's book "Presentations with LaTeX", from the
+longdesc Dante-Edition series, Published by Lehmanns Media.
+containersize 484
+containerchecksum 47c4c3e2b1dea3473daf00f1577a2cdbfff2a3a64d5f39507a9486fd2e77dbcd8ea1e3bdf4069aeee620a62047b1890eecd588b50bad2f1c33b739f7721b205b
+doccontainersize 830668
+doccontainerchecksum f9d3b24aabc47cfaa0487d683708fed12489e1aca7e7107ba9bf058864f0dc5967fc7a84eab59888567bd47b06ce96a75dd50a132e6e929d206e30c30585d346
+catalogue-also presentations
+catalogue-ctan /info/examples/Presentations_en
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics presentation book-ex

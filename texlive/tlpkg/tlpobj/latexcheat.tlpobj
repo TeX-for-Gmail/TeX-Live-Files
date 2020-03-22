@@ -1,0 +1,16 @@
+name latexcheat
+category Package
+revision 15878
+shortdesc A LaTeX cheat sheet
+longdesc A LaTeX reference sheet for writing scientific papers. Unlike
+longdesc many other such sheets, this sheet does not focus on
+longdesc typesetting mathematics (though it does list some symbols).
+containersize 464
+containerchecksum 530041d286048809968d91b20fd40c5ec41eb440fec25bf08f92af0f0fd5e1481a1344ba3c659da4477de353d222f3cb160d75eea2241ccf19b05e63e059ed6f
+doccontainersize 155812
+doccontainerchecksum 28abbdc3b53c245b0cfb6ab68549661a72d37df004a5c760f5021e91b1df892b02872c7e20f328c7dd4624edff96f3b1fadfb46cf35d080c6b7c5635dc36adfc
+catalogue-ctan /info/latexcheat/latexcheat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tut-cheat
+catalogue-version 1.13

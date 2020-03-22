@@ -1,0 +1,18 @@
+name begriff
+category Package
+revision 15878
+shortdesc Typeset Begriffschrift
+longdesc The package defines maths mode commands for typesetting Frege's
+longdesc Begriffschrift.
+containersize 2468
+containerchecksum ed1060e0ce9bad28f98481eed44f8bd98f6b8be91dd5dc87d5c34a6cc57e724d175fa909fd6ff514399eb81bd8f28450f7c9a6c6a9bc991f35d617a8a25de8ed
+doccontainersize 40204
+doccontainerchecksum af28c20897e297af4ca1fb13bb286ff0eece9e2f06f5b734062716c0c5f5b7dd673d046a5a47c907f9a845a7257393f3328d46c4ea2ac0ae6b0eff1244e97256
+runfiles size=2
+ texmf-dist/tex/latex/begriff/begriff.sty
+catalogue-also frege grundgesetze bguq
+catalogue-ctan /macros/latex/contrib/begriff
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths logic
+catalogue-version 1.6

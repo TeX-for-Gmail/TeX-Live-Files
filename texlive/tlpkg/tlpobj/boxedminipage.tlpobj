@@ -1,0 +1,18 @@
+name boxedminipage
+category Package
+revision 17087
+shortdesc A package for producing framed minipages
+longdesc The package defines the boxedminipage environment -- like
+longdesc minipage, but with a frame around it.
+containersize 1332
+containerchecksum 374033f9b8b88c55db6de9247d065f7841d49c8b7d42386694752e78b4bb2f4a311e42d5ca3c1e0dd5e694fddb0c18bf9ae6ccb39dc80bf075086e18fe39bf59
+doccontainersize 116348
+doccontainerchecksum 6fe8b0c04117d6b70972ca973e9a71cb33f2ea3f2789460aecb1f0702b896a3cf1d2e6d31533a13819caf1636c5e33ca40f60156992770e243be509dff765644
+runfiles size=1
+ texmf-dist/tex/latex/boxedminipage/boxedminipage.sty
+catalogue-also boxedminipage2e
+catalogue-ctan /macros/latex/contrib/boxedminipage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics boxing
+catalogue-version 2

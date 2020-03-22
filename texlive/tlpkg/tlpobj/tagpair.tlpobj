@@ -1,0 +1,21 @@
+name tagpair
+category Package
+revision 42138
+shortdesc Word-by-word glosses, translations, and bibliographic attributions
+longdesc This package provides environments and commands for pairing
+longdesc lines, bottom lines, and tagged lines, intended to be used in
+longdesc particular for word-by-word glosses, translations, and
+longdesc bibliographic attributions, respectively. This LaTeX package is
+longdesc inspired by Marcel R. van der Goot's classic Plain TeX macros
+longdesc in gloss.tex.
+containersize 1244
+containerchecksum 146c2e957965fb7ad9976a4b3b6c40d28b8d0cdaf0c8b9627f51dd55ba88b32ad7490bf000bb853a416b5dcc091243b9d6e92999431327a05879adcf89809d7f
+doccontainersize 68912
+doccontainerchecksum af9dcc1c1dd0a5e44d3f436569cf5d36f8154b70219340dd914feb3d8c036164f1bd70eeb6819bb51a06c0f5c5dcab1b3ede8be4b4d22b2536529474d0d841ab
+runfiles size=1
+ texmf-dist/tex/latex/tagpair/tagpair.sty
+catalogue-ctan /macros/latex/contrib/tagpair
+catalogue-date 2016-09-23 21:04:55 +0200
+catalogue-license lppl1.3
+catalogue-topics text-layout
+catalogue-version 1.1

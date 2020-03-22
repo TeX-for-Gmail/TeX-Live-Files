@@ -1,0 +1,17 @@
+name cmdstring
+category Package
+revision 15878
+shortdesc Get command name reliably
+longdesc Extracts the letters of a command's name (e.g., foo for command
+longdesc \foo), in a reliable way.
+containersize 872
+containerchecksum b05a8f8d326a6546b7c865e4cbc1afdfb0fa50993f4ad5e3b3a1e1781be9ed7590e1dd17b18d58f8a96c83aa2fe6218328b2df3e193e2dc7923d051374ebc9ba
+doccontainersize 346136
+doccontainerchecksum c102fcd054597d84d98a4f74656f36a9e1aa53623bebaa4ef39f341ddb889062a0e0c705074a4909bf50ae3cdc9a0e0da06fc6b12fde10bcaf5391fe6c792818
+runfiles size=1
+ texmf-dist/tex/latex/cmdstring/cmdstring.sty
+catalogue-ctan /macros/latex/contrib/cmdstring
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 1.1

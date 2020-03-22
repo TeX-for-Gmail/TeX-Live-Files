@@ -1,0 +1,19 @@
+name musikui
+category Package
+revision 47472
+shortdesc Easy creation of "arithmetical restoration" puzzles
+longdesc This package permits to easily typeset arithmetical
+longdesc restorations using LaTeX. This package requires the graphicx
+longdesc package.
+containersize 2392
+containerchecksum 602132bc51f1ed20f045bf0c822f201f7bbf3386f9181599894e66cb3c59f4ed15364013a5e30bfc59b22ab3fe4931872b779d1e7f34b8dbcd1eabe058b1f5e3
+doccontainersize 430404
+doccontainerchecksum 29cc8526543698f218e8c9c20b424fb2b05d3ee0a67c70a2afadd33dc49f0030ceb440b349898b8bd66a53a5682aa8289d081e4502fa5ccdfe481b4e2430de03
+runfiles size=2
+ texmf-dist/tex/latex/musikui/musikui.sty
+catalogue-contact-repository https://github.com/puripuri2100/musikui.sty
+catalogue-ctan /macros/latex/contrib/musikui
+catalogue-date 2018-05-03 05:20:47 +0200
+catalogue-license lppl
+catalogue-topics puzzle maths
+catalogue-version 1

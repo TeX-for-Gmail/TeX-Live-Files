@@ -1,0 +1,19 @@
+name dotarrow
+category Package
+revision 15878
+shortdesc Extendable dotted arrows
+longdesc The package can draw dotted arrows that are extendable, in the
+longdesc same was as \xrightarrow.
+containersize 1592
+containerchecksum 43ff7e4e163764e703673312a1213c50f0a77da98f3f36b726e87042d082f3d2433e35156e1c963d1c6287aa4cea5ccc64f140f89b82569b0552f406b29813c9
+doccontainersize 75524
+doccontainerchecksum 7b5a4d0b2b31f55e657eed5b7cc0185a8895df77895bbe40f27c4d29d1086c9fef1779f7c4c726faae25821972fac418c379e9e68ad4cd059b1c6f5b0420e9fc
+srccontainersize 2828
+srccontainerchecksum 3d756e93ba60153727d1719f3eb77d278ecae65c08f18529a6352707b655bf39f01152f13b60490ce21ba358e2021681a64de8e9fa6f46f9f4bae5b3a754f1a9
+runfiles size=2
+ texmf-dist/tex/latex/dotarrow/DotArrow.sty
+catalogue-ctan /macros/latex/contrib/dotarrow
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-symbol
+catalogue-version 0.01a

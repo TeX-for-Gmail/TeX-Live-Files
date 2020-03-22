@@ -1,0 +1,20 @@
+name namespc
+category Package
+revision 15878
+shortdesc Rudimentary C++-like namespaces in LaTeX
+longdesc The namespc package adds rudimentary C++-like namespace
+longdesc functionality to LaTeX. It may be used to declare local LaTeX
+longdesc commands, which can be made accessible in a later contexts
+longdesc without defining them globally.
+containersize 976
+containerchecksum 71ec09a2aee5f299e9620b9b90558bca11415cdbf4304d0e5777896f85cf4e30cc39508fd69ff831a86707e230cfca1773fd9a8bc50c37f310f8bfeff629d2d6
+doccontainersize 82880
+doccontainerchecksum 4bd240f3ce155ea517fc267af1925f2e84f7af694a1ee4a068a2679d97cb6f97fd77f8812017e05f33c935bb54a34459a9deeaaf43cdb4ed69d792676316734f
+srccontainersize 3492
+srccontainerchecksum 33579dd40ba708e2e8a727f923f727f893f2f8e9562d369b1e025b50300250010d2829217a7aa72c1ee5781f3ed501e60b010cfc3cf3211b4bed1168494fa4ab
+runfiles size=1
+ texmf-dist/tex/latex/namespc/namespc.sty
+catalogue-ctan /macros/latex/contrib/namespc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics latex-devel

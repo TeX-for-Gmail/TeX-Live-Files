@@ -1,0 +1,19 @@
+name memexsupp
+category Package
+revision 15878
+shortdesc Experimental memoir support
+longdesc A package of code proposed as supporting material for memoir.
+longdesc The package is intended as a test bed for such code, which may
+longdesc in the fullness of time be adopted into the main memoir
+longdesc release.
+containersize 1836
+containerchecksum 74931ebb1a146edadcde19d8c404ff8df750c4eb8f2f59fa83e6da9f8dc6567005d51f58e4b7bd2cdfa6b960adb072e9fee7b1842142076df88887c3c2b41051
+doccontainersize 121636
+doccontainerchecksum 645bb189fca1c74e249745ad42c470dcd5d9fa4412a6dfefbcb6377555047bdbcf005f1c07977762e0026e8a4f8ea49e6965a7d50b0d5d5e7efd0228ac2141a0
+runfiles size=1
+ texmf-dist/tex/latex/memexsupp/memexsupp.sty
+catalogue-ctan /macros/latex/contrib/memexsupp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics test-dist
+catalogue-version 0.1

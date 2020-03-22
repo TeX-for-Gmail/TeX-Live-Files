@@ -1,0 +1,16 @@
+name first-latex-doc
+category Package
+revision 15878
+shortdesc A document for absolute LaTeX beginners
+longdesc The document leads a reader, who knows nothing about LaTeX,
+longdesc through the production of a two page document. The user who has
+longdesc completed that first document, and wants to carry on, will find
+longdesc recommendations for tutorials.
+containersize 496
+containerchecksum 39641224689a1d45d59b5643e5037599d03df3ecbe95090d565778758d334bddf832e867a25c1688adbee1f99eea23b3ed21fd6729fb3d4e50f1503537c9a400
+doccontainersize 503812
+doccontainerchecksum 497080fdad8195bdc43bef476f9e678b49d83829f10a6653c9443d327cb0da8505623e941cd3038349b6307ee37a65ce1a3d3eb48e4c6262f9d636d10d96e17b
+catalogue-ctan /info/first-latex-doc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics tut-latex

@@ -1,0 +1,43 @@
+name uantwerpendocs
+category Package
+revision 50626
+shortdesc Course texts, master theses, and exams in University of Antwerp style
+longdesc These class files implement the house style of the University
+longdesc of Antwerp. This package originated from the Faculty of Applied
+longdesc Engineering. Using these class files will make it easy for you
+longdesc to make and keep your documents compliant to this version and
+longdesc future versions of the house style of the University of
+longdesc Antwerp.
+containersize 1370036
+containerchecksum 3e68ebd8c69898f98aa489e9e55c0c4362f0ebb3d9bc088bd4da8bc26d19c1911ba1a208d6998d5922f674c9468ba932a335e3a31d93d7d187b6e438389d24a0
+doccontainersize 1172088
+doccontainerchecksum e39aa1b6c9443c1ba66582d925b9122e6367329d477ea0a68bbe70e17ce81d23a84e32892189ebb2c9ecf55b6a075c63afb5f7d4c7b516bbceda7d6b03d10839
+srccontainersize 29372
+srccontainerchecksum 923cc8aa3f2f422511ca93868a8e9795dfaaa5363e11fd9da0d7ea68c3173c9baf2ef9feb754cf263be531a3654755e5dea69c169d59510fbe7d2c3cb3fa2f9f
+runfiles size=779
+ texmf-dist/tex/latex/uantwerpendocs/4E_PMS302_BR_ENG_RGB.eps
+ texmf-dist/tex/latex/uantwerpendocs/4E_PMS302_BR_ENG_RGB.pdf
+ texmf-dist/tex/latex/uantwerpendocs/4E_PMS302_BR_NED_RGB.eps
+ texmf-dist/tex/latex/uantwerpendocs/4E_PMS302_BR_NED_RGB.pdf
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_DUI_CMYK.eps
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_DUI_CMYK.pdf
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_ENG_CMYK.eps
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_ENG_CMYK.pdf
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_FRA_CMYK.eps
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_FRA_CMYK.pdf
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_NED_CMYK.eps
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_NED_CMYK.pdf
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_SPA_CMYK.eps
+ texmf-dist/tex/latex/uantwerpendocs/UA_HOR_SPA_CMYK.pdf
+ texmf-dist/tex/latex/uantwerpendocs/keyboard.jpg
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpenbamathesis.cls
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpencoursetext.cls
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpenexam.cls
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpenletter.cls
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpenmasterthesis.cls
+ texmf-dist/tex/latex/uantwerpendocs/uantwerpenphdthesis.cls
+catalogue-ctan /macros/latex/contrib/uantwerpendocs
+catalogue-date 2019-03-28 19:50:55 +0100
+catalogue-license lppl1.3
+catalogue-topics class dissertation essay letter exam
+catalogue-version 2.3

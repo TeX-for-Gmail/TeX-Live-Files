@@ -1,0 +1,20 @@
+name latexgit
+category Package
+revision 41920
+shortdesc A LaTeX git wrapper
+longdesc This package provides several macros to fetch git information
+longdesc and typeset it. The macros defined by LaTeXgit can be helpful
+longdesc to documentation authors and others to whom clear document
+longdesc versioning is important.
+containersize 1716
+containerchecksum 5076ebf74361a6997536988c5204a72ffd761a40c33acac03bf2a104bfac3661c91b320f47bd264d607df7dceff41a18670e7c18cf19cbb27fba1d5f273c58ca
+doccontainersize 438680
+doccontainerchecksum dafc932c2d0184c848b7f7ca549a300f273fc7e358c6bfbc6b5698aaeded12071a722c856255889438e1dafd1c64d6c2adcd60766f8e1a1652a74591d5e74161
+srccontainersize 4856
+srccontainerchecksum 58097f88d70518c49bb0900c595eea40241a600745a8fb8a9c6f47a3deccc97aacb195305ec48fb54acbb95324b2ef27b35467bf90c27c88a960efd6d579a0ca
+runfiles size=2
+ texmf-dist/tex/latex/latexgit/latexgit.sty
+catalogue-ctan /macros/latex/contrib/latexgit
+catalogue-date 2016-08-31 04:53:42 +0200
+catalogue-license gpl3
+catalogue-topics version-control doc-mgmt

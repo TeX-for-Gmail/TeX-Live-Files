@@ -1,0 +1,22 @@
+name din1505
+category Package
+revision 19441
+shortdesc Bibliography styles for German texts
+longdesc A set of bibliography styles that conformt to DIN 1505, and
+longdesc match the original BibTeX standard set (plain, unsrt, alpha and
+longdesc abbrv), together with a style natdin to work with natbib.
+containersize 16420
+containerchecksum cb9b819eb69ce4870dd36da844b1d24e4f678ad05f43eabbe861e9de5b53258e45e70530ca76c0aa9fcf54232e8f33dc55623f94c1d9e5fc3dfc48481093c3cc
+doccontainersize 2380
+doccontainerchecksum 4479f5ea1e1ade4bc7951d5722e397a688e75293da55ec57dd0f3d32add2bd551844da81336be0a77cc783e4c9af958be46501c4b78adbbf8a5463770b5cbb2c
+runfiles size=67
+ texmf-dist/bibtex/bst/din1505/abbrvdin.bst
+ texmf-dist/bibtex/bst/din1505/alphadin.bst
+ texmf-dist/bibtex/bst/din1505/natdin.bst
+ texmf-dist/bibtex/bst/din1505/plaindin.bst
+ texmf-dist/bibtex/bst/din1505/unsrtdin.bst
+catalogue-also dinat
+catalogue-ctan /biblio/bibtex/contrib/german/din1505
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty

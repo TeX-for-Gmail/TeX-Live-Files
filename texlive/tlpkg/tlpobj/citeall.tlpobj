@@ -1,0 +1,17 @@
+name citeall
+category Package
+revision 45975
+shortdesc Cite all entries of a bbl created with BibLaTeX
+longdesc This small package allows to cite all entries of a bbl-file
+longdesc created with BibLaTeX (v1.9).
+containersize 2060
+containerchecksum 2549b398c98f82833849a45716d55a776ab3b7927fdc400c2e6d43c45fb0cf628bd66bdade7ca63bcaa2e98807914f7adb958c6a06c27762fb0ee70452d4d280
+doccontainersize 110028
+doccontainerchecksum f1eaf5ed48bf3fd2bc336b7d91dde09b5cfa9a1901bd6315d4abf032439571a89f1d7c4794ed0256ef1aff0456d275e68326e81627f164652c84de2900165a98
+runfiles size=2
+ texmf-dist/tex/latex/citeall/citeall.sty
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/citeall
+catalogue-date 2017-12-03 20:33:16 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.4

@@ -1,0 +1,18 @@
+name kix
+category Package
+revision 21606
+shortdesc Typeset KIX codes
+longdesc Implements KIX codes as used by the Dutch PTT for bulk mail
+longdesc addressing. (Royal Mail 4 State Code.) KIX is a registered
+longdesc trade mark of PTT Post Holdings B. V.
+containersize 1304
+containerchecksum dd819518a80ca0486a191361625b58f91d00ccac88a2f69269bd6e1753f6c87dd3c97d39a14a5dc3768c9ecccbc981106eba1f495cb7870103a828ea69ed8bef
+doccontainersize 123796
+doccontainerchecksum 3d3816d395e69ec83c88fe55801cab052b12f5e38702edafec2d3f9225c80a31165dca553b60401dedac7689c583feb00615e41c7179fd19ccdc420fbd5e6d86
+runfiles size=1
+ texmf-dist/tex/latex/kix/kix.sty
+catalogue-also pst-barcode kixfont
+catalogue-ctan /macros/latex/contrib/kix
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics barcode

@@ -1,0 +1,63 @@
+name old-arrows
+category Package
+revision 42872
+shortdesc Computer Modern old-style arrows with smaller arrowheads
+longdesc This package provides Computer Modern old-style arrows with
+longdesc smaller arrowheads, associated with the usual LaTeX commands.
+longdesc It can be used in documents that contain other amssymb arrow
+longdesc characters that also have small arrowheads. It is also possible
+longdesc to use the usual new-style Computer Modern arrows together with
+longdesc the old-style ones.
+execute addMap oasy.map
+containersize 32044
+containerchecksum 2b67317d41349c6d601d8ddcba6ba58cf503756f5bb2f4343c1447cbe4e24c8949a4de58e7cf3863a730bfa809dd09f5f1ce9944e3dc5d4de104e4817d6add17
+doccontainersize 861792
+doccontainerchecksum d142a95119386f85d1e6ff0f6a24bcf09b9bf7ec83a581ca43be67376cd4a44453d090e4eedf97bcba1026827eff29f97add3a6ed676833b02b718da4811a3ef
+runfiles size=55
+ texmf-dist/fonts/afm/public/old-arrows/oabsy10.afm
+ texmf-dist/fonts/afm/public/old-arrows/oabsy5.afm
+ texmf-dist/fonts/afm/public/old-arrows/oabsy7.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy10.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy5.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy6.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy7.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy8.afm
+ texmf-dist/fonts/afm/public/old-arrows/oasy9.afm
+ texmf-dist/fonts/enc/dvips/old-arrows/oasy.enc
+ texmf-dist/fonts/map/dvips/old-arrows/oasy.map
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy10.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy5.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy6.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy7.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy8.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oabsy9.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy10.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy5.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy6.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy7.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy8.tfm
+ texmf-dist/fonts/tfm/public/old-arrows/oasy9.tfm
+ texmf-dist/fonts/type1/public/old-arrows/oabsy10.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oabsy10.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oabsy5.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oabsy5.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oabsy7.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oabsy7.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy10.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy10.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy5.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy5.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy6.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy6.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy7.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy7.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy8.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy8.pfm
+ texmf-dist/fonts/type1/public/old-arrows/oasy9.pfb
+ texmf-dist/fonts/type1/public/old-arrows/oasy9.pfm
+ texmf-dist/tex/latex/old-arrows/old-arrows.sty
+catalogue-ctan /fonts/old-arrows
+catalogue-date 2017-01-05 17:35:49 +0100
+catalogue-license lppl1.3
+catalogue-topics font-symbol-maths font-type1
+catalogue-version 2.0

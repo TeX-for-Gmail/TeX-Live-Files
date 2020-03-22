@@ -1,0 +1,14 @@
+name fancyhdr-it
+category Package
+revision 21912
+shortdesc Italian translation of fancyhdr documentation
+longdesc The translation is of documentation provided with the fancyhdr
+longdesc package.
+containersize 396
+containerchecksum 6899f3c11ed4a8f7476fe954166ea7576446b670d0b22737766927fcd29eb24e6143ff3031b974856562a7ff55e68f208164729618a4d28d28b856919f2a666b
+doccontainersize 260656
+doccontainerchecksum cda5ff0581545e4eca9787b27dddcdad226b5dc9a630773b13073e9248b7b30b985fa5f5fc1bc5380e5a0d96f06c666d4e7e73168afbc2fa4ed0dd202967dafa
+catalogue-ctan /info/translations/fancyhdr/it
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics italian-doc

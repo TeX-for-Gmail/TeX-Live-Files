@@ -1,0 +1,24 @@
+name punknova
+category Package
+revision 24649
+shortdesc OpenType version of Knuth's Punk font
+longdesc The font was generated from a MetaPost version of the sources
+longdesc of the 'original' punk font. Knuth's original fonts generated
+longdesc different shapes at random. This isn't actually possible in an
+longdesc OpenType font; rather, the font contains several variants of
+longdesc each glyph, and uses the OpenType randomize function to select
+longdesc a variant for each invocation.
+containersize 814008
+containerchecksum bcb37b02258ba406e8ef3965619c99193c08a4e1d11f771b3c6b06716eac16134be81585220a581176d9e8b4d7f488730ada3b5963238ff982be400cbb41d888
+doccontainersize 141900
+doccontainerchecksum 64df58c8996563a447ed7a012c6dd8f5248c8a7db06089d776e8ce64d516b4a0c4bf9042f587c996c7ab61582bba919551d352c9ca75f8696bcac5ad0e34866c
+runfiles size=424
+ texmf-dist/fonts/opentype/public/punknova/punknova-bold.otf
+ texmf-dist/fonts/opentype/public/punknova/punknova-boldslanted.otf
+ texmf-dist/fonts/opentype/public/punknova/punknova-regular.otf
+ texmf-dist/fonts/opentype/public/punknova/punknova-slanted.otf
+catalogue-ctan /fonts/punknova
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-otf font-novelty
+catalogue-version 1.003

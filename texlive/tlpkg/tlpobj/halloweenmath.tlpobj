@@ -1,0 +1,24 @@
+name halloweenmath
+category Package
+revision 44043
+shortdesc Scary and creepy math symbols with AMS-LaTeX integration
+longdesc The package defines a handful of commands for typesetting
+longdesc mathematical symbols of various kinds, ranging from 'large'
+longdesc operators to extensible arrow-like relations and growing
+longdesc arrow-like math accents that all draw from the classic
+longdesc Halloween-related iconography (pumpkins, witches, ghosts, cats,
+longdesc and so on) while being, at the same time, seamlessly integrated
+longdesc within the rest of the mathematics produced by (AmS-)LaTeX.
+containersize 9148
+containerchecksum f56079b815307a59054559a0edc8c0d3e9e4138b0d961f81282a80af5ae579e4e3a2b18a3722cda0b49c014b834c6bb76971862e7e0740e0130b2f89d27318e8
+doccontainersize 889092
+doccontainerchecksum 0ec7d77114ab6296be8c7b38b2a6dad0cf5cdaa9c8bc833df52e89971b5d71e3cd6f026e02d480e8cbf1ce1b4231563463524745ce0f76be279340cc03550d4d
+srccontainersize 36540
+srccontainerchecksum 84dce1251e7fa939233322d5a74b41225e9a2d786af0f49b8a4b8df962ee1fda46ac492122fb361a4184ffa2c6dfd5bf2967f577b3a9b675900f3ede8015d790
+runfiles size=11
+ texmf-dist/tex/latex/halloweenmath/halloweenmath.sty
+catalogue-ctan /macros/latex/contrib/halloweenmath
+catalogue-date 2017-04-25 15:13:11 +0200
+catalogue-license lppl1.3
+catalogue-topics maths maths-symbol
+catalogue-version 0.10a

@@ -1,0 +1,20 @@
+name miller
+category Package
+revision 18789
+shortdesc Typeset miller indices
+longdesc Typeset miller indices, e.g., <1-20>, that are used in material
+longdesc science with an easy syntax. Minus signs are printed as bar
+longdesc above the corresponding number.
+containersize 1456
+containerchecksum a1415d82a2a81c3dccdea1b59c4c0e8d2cb3902dbc6816cf7615fa3e571de26168a6a066f52bad94c38595102afcd1447721095bd084befc20b3fb3ad420e129
+doccontainersize 260992
+doccontainerchecksum 3f888fed2b909c269ead9e5191a788828048a21103c881a9b769fb0e8a3c0f3e6c41467827143f6b79a45d2497e3ac21d5c6da8727be3c987ab8a1fdbcec59ca
+srccontainersize 2884
+srccontainerchecksum 06e15ff6c146685a8b4d13c5d4e23de4ea343afe684924694f86104f362df7dfaa975b25e850b685e05efeeddf2ed079038cafff8a495116f27dd756e4dceab3
+runfiles size=1
+ texmf-dist/tex/latex/miller/miller.sty
+catalogue-ctan /macros/latex/contrib/miller
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics mat-sci
+catalogue-version 1.2

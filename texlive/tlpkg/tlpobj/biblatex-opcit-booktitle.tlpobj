@@ -1,0 +1,25 @@
+name biblatex-opcit-booktitle
+category Package
+revision 48983
+shortdesc Use op. cit. for the booktitle of a subentry
+longdesc The default citation styles verbose-trad1+; verbose-trad2 ;
+longdesc verbose-trad3 use the op. cit. form in order to have a shorter
+longdesc reference when a title has already been cited. However, when
+longdesc you cite two entries which share the same booktitle but not the
+longdesc same title, the op. cit. mechanism does not work. This package
+longdesc enables to obtain references like this: Author1, Title, in
+longdesc Booktitle, Location, Publisher, Year, pages xxx Author2,
+longdesc Title2, in Booktitle, op. cit, pages.
+containersize 2788
+containerchecksum 4779618979e358380b2d9d2163a8e62274093bc4e7d7a959364b1980d86110233f3927a80e2dac7390ec43d0626f92311d5923657872d25bdcab5d93dd84956a
+doccontainersize 109536
+doccontainerchecksum 81990177b6cb92dde0e2d1371fa6e5ad6685c9750eac87063e336fd3412b46eca40e091bf2222631f6abcef995fd04c82a3cfd3f87baa2b069c74457edf7f13a
+runfiles size=3
+ texmf-dist/tex/latex/biblatex-opcit-booktitle/biblatex-opcit-booktitle.sty
+catalogue-contact-bugs https://git.framasoft.org/maieul/biblatex-opcit-booktitle/issues
+catalogue-contact-repository https://git.framasoft.org/maieul/biblatex-opcit-booktitle
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-opcit-booktitle
+catalogue-date 2018-10-24 14:20:48 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio biblatex
+catalogue-version 1.9.0

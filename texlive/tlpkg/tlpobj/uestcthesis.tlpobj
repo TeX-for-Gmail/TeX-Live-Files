@@ -1,0 +1,19 @@
+name uestcthesis
+category Package
+revision 36371
+shortdesc Thesis class for UESTC
+longdesc The class is for typesetting a thesis at the University of
+longdesc Electronic Science and Technology of China.
+containersize 17228
+containerchecksum aaeb270174e260230d527379ef0a7581ec9f78387aae8505ed5e88a04586dfbb1d90cb923181f34e92d5100bcece0da66e17452218f0c83bbb12b38cc517f3b5
+doccontainersize 4250444
+doccontainerchecksum e68e86bb446c1e79111948b004ece03e2110166d01966d562b1bac6c932385aeaa682f04262eccd822e01b93c66c77be53c947c1dbdbf5ce129a74efdacf5df6
+runfiles size=31
+ texmf-dist/bibtex/bst/uestcthesis/uestcthesis.bst
+ texmf-dist/tex/latex/uestcthesis/uestcthesis.cls
+catalogue-contact-repository https://github.com/shifujun/UESTCthesis
+catalogue-ctan /macros/latex/contrib/uestcthesis
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation chinese
+catalogue-version 1.1.0

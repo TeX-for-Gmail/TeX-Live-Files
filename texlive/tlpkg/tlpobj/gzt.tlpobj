@@ -1,0 +1,33 @@
+name gzt
+category Package
+revision 47381
+shortdesc Bundle of classes for "La Gazette des Mathematiciens"
+longdesc This bundle provides two classes and BibLaTeX styles for the
+longdesc French journal "La Gazette des Mathematiciens": gzt for the
+longdesc complete issues of the journal, aimed at the Gazette's team,
+longdesc gztarticle, intended for authors who wish to publish an article
+longdesc in the Gazette. This class's goals are to faithfully reproduce
+longdesc the layout of the Gazette, thus enabling the authors to be able
+longdesc to work their document in actual conditions, and provide a
+longdesc number of tools (commands and environments) to facilitate the
+longdesc drafting of documents, in particular those containing
+longdesc mathematical formulas.
+containersize 33624
+containerchecksum 7e0f493dca3e9916f28509b94bef393e8ff7be95f55e8da937b4922139ae77f4f4197586c3bff343f1fe1d22dcb4a803e2d4a3a115d201cc0f2c5fd71ba8a836
+doccontainersize 631344
+doccontainerchecksum 388aa99642bb838ae4a81a665bb90019c6e31b3aabefbc2c49396edc98d8fe2d00986023699b849162a69db6e6dafff26602f61540758510acb1aefcd883c4e6
+srccontainersize 42644
+srccontainerchecksum f6c4b16c47fd5773f6a25822d7cea758b5e612603e8004ae462b4e40ce4ef45e6fcbe8ff62b41828bbc3c7b83b8596919eb88864833546b9d785b865c475b312
+runfiles size=66
+ texmf-dist/tex/latex/gzt/gzt.cfg
+ texmf-dist/tex/latex/gzt/gzt.cls
+ texmf-dist/tex/latex/gzt/gzt.dbx
+ texmf-dist/tex/latex/gzt/gzt.lbx
+ texmf-dist/tex/latex/gzt/gztarticle.cls
+ texmf-dist/tex/latex/gzt/images/README-PICTOGRAMS.md
+ texmf-dist/tex/latex/gzt/images/gzt-logo.pdf
+catalogue-ctan /macros/latex/contrib/gzt
+catalogue-date 2018-04-08 13:24:08 +0200
+catalogue-license lppl1.3
+catalogue-topics journalpub class french
+catalogue-version 0.98

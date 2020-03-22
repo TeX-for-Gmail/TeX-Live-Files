@@ -1,0 +1,25 @@
+name SIunits
+category Package
+revision 15878
+shortdesc International System of Units
+longdesc Typeset physical units following the rules of the International
+longdesc System of Units (SI). The package requires amstext, for proper
+longdesc representation of some values. Note that the package is now
+longdesc superseded by siunitx; siunits has maintenance-only support,
+longdesc now.
+containersize 6064
+containerchecksum b804d61bcdcc9d6f4559a05d8bfa7d8f7a3c378a618e5cd068b29e2661968b7564c36ce2e3d97f7fc7af15c11e89ac61e88ff25318d8c08536181d1f546f260d
+doccontainersize 250180
+doccontainerchecksum 09c35a6d2e2d90701ac099eaf06116d4bf5b93652c512969dfe2afae74c9c04d70dcda8a5053d707aed0724fba0a8d9c3487a51fc617fd1a757c596a99b974dc
+srccontainersize 34544
+srccontainerchecksum 82081b1c503098847bc5f24c2749fb6abd1a739ccd21b01464119b7b6a92bfbb51666d0f5d14aa335e23a03b72b5eae8fefccf9c790819a4f8cf14b37ff297ad
+runfiles size=8
+ texmf-dist/tex/latex/SIunits/SIunits.cfg
+ texmf-dist/tex/latex/SIunits/SIunits.sty
+ texmf-dist/tex/latex/SIunits/binary.sty
+catalogue-also sistyle
+catalogue-ctan /macros/latex/contrib/SIunits
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics typesetting scientific-docs
+catalogue-version 1.36

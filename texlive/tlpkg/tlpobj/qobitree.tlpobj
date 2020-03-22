@@ -1,0 +1,17 @@
+name qobitree
+category Package
+revision 15878
+shortdesc LaTeX macros for typesetting trees
+longdesc Provides commands \branch and \leaf for specifying the elements
+longdesc of the tree; you build up your tree with those commands, and
+longdesc then issue the \tree command to typeset the whole.
+containersize 2884
+containerchecksum cd229c1611f269f904d73d276b8b36fb60a373130a3b5bf78508daf85d5ce50cdc4841a25e30c5a0925344eefd93f638e635be2878478f575f32fc458fa9a0dd
+doccontainersize 3656
+doccontainerchecksum b3b587bbe835456cb6298804cac2a8d61c85d4bad6550cd355e6a9ba155e7b691c5b2f5f919ded355b21dde9c4009ee30466bcfc5cb6d81e0af0fdeb97aa3b64
+runfiles size=6
+ texmf-dist/tex/latex/qobitree/qobitree.tex
+catalogue-ctan /macros/latex/contrib/qobitree
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree

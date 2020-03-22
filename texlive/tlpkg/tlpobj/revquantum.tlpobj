@@ -1,0 +1,24 @@
+name revquantum
+category Package
+revision 43505
+shortdesc Hacks to make writing quantum papers for revtex4-1 less painful
+longdesc This package provides a number of useful hacks to solve common
+longdesc annoyances with the revtex4-1 package, and to define notation
+longdesc in common use within quantum information. In doing so, it
+longdesc imports and configures a number of commonly-available and used
+longdesc packages, and where reasonable, provides fallbacks. It also
+longdesc warns when users try to load packages which are known to be
+longdesc incompatible with revtex4-1.
+containersize 3948
+containerchecksum 0e69ce3a2a4a1c289d494e081cd28e9c14c84a45717880e92292cc94803783a350bbe33426c4f5e7ebf64e5b28876e656ab2f1ce681b86c27c7a3c6700563a41
+doccontainersize 252604
+doccontainerchecksum 16b8ff06bbc2155a853a26a0b622e3f89bb7d35439945948128fb37d342d293951526d415a3da9a01381f841dd61287317e52dddda8e8fa6e0eaa5d6a0006dc2
+srccontainersize 8792
+srccontainerchecksum 47e7a900aaa9198875acb1a0727bd30b64c0d41e9c33cd6240c29b8d67b17960f1ff05f717701385f627e6827881d365c01ed68b1adea8bd3e1b5423700f9bc6
+runfiles size=3
+ texmf-dist/tex/latex/revquantum/revquantum.sty
+catalogue-ctan /macros/latex/contrib/revquantum
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics physics journalpub
+catalogue-version 0.11

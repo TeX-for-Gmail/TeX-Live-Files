@@ -1,0 +1,22 @@
+name bibleref-lds
+category Package
+revision 25526
+shortdesc Bible references, including those to the scriptures of the Church of Jesus Christ of Latter Day Saints
+longdesc The package extends the bibleref-mouth package to support
+longdesc references to the scriptures of The Church of Jesus Christ of
+longdesc Latter-day Saints (LDS). The package requires bibleref-mouth to
+longdesc run, and its reference syntax is the same as that of the parent
+longdesc package.
+containersize 3636
+containerchecksum ba3c4e41b566d0a26bd9f0d11d8e776fe04a18aac451435ff0283ff273971138407753bd6806f34708c5a2f0c1b2581c71de46bbc2e0c8063c9838b3d946f2ca
+doccontainersize 269992
+doccontainerchecksum 6fd81f90d0c94644231e911ab44827b77864842a3fa91127fb53114179488e5ffd66a404a1b5afee513e0cd3f4c83f38cae547e6dd6484403926c4c46b5cdec7
+srccontainersize 8524
+srccontainerchecksum 0494b05fd3881cc273e8232c398e80ddca4c1286b10aef5d341c6c3573ee40cd5ad1b7a2ae0aab9fd505f94a4bf98643453648b7cc52fda09f5e705a8b4da863
+runfiles size=5
+ texmf-dist/tex/latex/bibleref-lds/bibleref-lds.sty
+catalogue-ctan /macros/latex/contrib/bibleref-lds
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 1.0

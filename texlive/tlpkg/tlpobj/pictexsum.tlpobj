@@ -1,0 +1,16 @@
+name pictexsum
+category Package
+revision 24965
+shortdesc A summary of PicTeX commands
+longdesc The document summarises the commands of PicTeX. While it is no
+longdesc substitute for the PicTeX manual itself (available from
+longdesc Personal TeX inc.), the document is a useful aide-memoire for
+longdesc those who have read the manual.
+containersize 488
+containerchecksum a24861e4b6184084fffa783918db485e5c7cacf7a6528681e7d8d4212287f1f6687604bd4f347e9e34ab7d29867dec2b30c9871a13b9bedae31b5dbb82ba1ed2
+doccontainersize 192368
+doccontainerchecksum 148b7c29cb8189174442b95cd39b0d5fdf9f937a7a44a17314b93cce555cf3db459e21ae2c4eb9098c15551bd7aada2804855d68f9408fdbe974f6c12dd724a2
+catalogue-ctan /info/pictex/summary
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics documentation

@@ -1,0 +1,18 @@
+name jablantile
+category Package
+revision 16364
+shortdesc Metafont version of tiles in the style of Slavik Jablan
+longdesc This is a small Metafont font to implement the modular tiles
+longdesc described by Slavik Jablan. For an outline of the theoretical
+longdesc structure of the tiles, see (for example) Jablan's JMM 2006
+longdesc Exhibit.
+containersize 3672
+containerchecksum 40fb96443b2194adf8477a68d9d435101dfa42471d02ec48a37968d21e12802ff1feffa830484642b457562392b6ea147d394734acdffd735a8a5db421d0eefd
+doccontainersize 13880
+doccontainerchecksum 00e753a85f3521ac0c6f336e0e563bd0a68a5e2ae756dfce72d3cf59a01eb9654b6f5c9ad9b83047d3d4f7743b7cce6f2d0d734510532db13942ef6619ae813f
+runfiles size=7
+ texmf-dist/fonts/source/public/jablantile/jablantile.mf
+catalogue-ctan /fonts/jablantile
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-mf font-novelty

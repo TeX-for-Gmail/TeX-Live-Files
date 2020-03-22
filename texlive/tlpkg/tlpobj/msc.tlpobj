@@ -1,0 +1,23 @@
+name msc
+category Package
+revision 15878
+shortdesc Draw MSC diagrams
+longdesc The package should be useful to all people that prepare their
+longdesc texts with LaTeX and want to draw Message Sequence Charts in
+longdesc their texts. The package is not an MSC editor; it simply takes
+longdesc a textual description of an MSC and draws the corresponding
+longdesc MSC. The current version of the MSC macro package supports the
+longdesc full MSC2000 language.
+containersize 17840
+containerchecksum cfd66ed08d144698d11905ddf987f44782752e412d5ecb0a85fc27e569cedd4918ac05f19d986e0fa6e17065bf871e805094251eebd5d27653047d436541600d
+doccontainersize 413856
+doccontainerchecksum 9485a70d19aa2754ae4e12e4311d4a03367c57a7bbba69cfc50a38aa50d6d9160aeb812c4a63b23f7da0e726b07cf836ac9df7b66b4c847b9cad0e7d66aff23b
+runfiles size=29
+ texmf-dist/bibtex/bib/msc/biblio.bib
+ texmf-dist/tex/latex/msc/msc.sty
+catalogue-contact-home http://satoss.uni.lu/mscpackage/
+catalogue-ctan /macros/latex/contrib/msc
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics comp-net
+catalogue-version 1.16

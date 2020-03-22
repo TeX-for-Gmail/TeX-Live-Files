@@ -1,0 +1,21 @@
+name dvicopy
+category TLCore
+revision 50602
+shortdesc Copy DVI files, flattening VFs
+longdesc DVICOPY is a utility program that allows one to take a DVI file
+longdesc that references composite fonts (VF) and convert it into a DVI
+longdesc file that does not contain such references. It also serves as a
+longdesc basis for writing DVI drivers (much like DVItype).
+depend dvicopy.ARCH
+containersize 608
+containerchecksum 34e16ff93daa924658b433affc70fdab01bd8d6c1d537cf1787389b8de34e7348aaa91a39ba3f3671d25d216420421a5ca73cff5de254fbf25a8433e20fda322
+doccontainersize 18264
+doccontainerchecksum a85e3cf8ee5e500264ffaffddf8ebe6642373f29fcca42c346654f304f34b9389f2e190014eacd215ca0d78debe44859e05696789b9f703fd6eaefc9bebd4ff7
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-repository http://tug.org/svn/texlive/trunk/Build/source/texk/web2c/
+catalogue-contact-support http://lists.tug.org/tex-k
+catalogue-ctan /obsolete/dviware/dvicopy
+catalogue-date 2019-01-02 05:45:25 +0100
+catalogue-license gpl
+catalogue-topics dvi-proc
+catalogue-version 1.5

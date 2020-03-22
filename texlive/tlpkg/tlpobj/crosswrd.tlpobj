@@ -1,0 +1,21 @@
+name crosswrd
+category Package
+revision 16896
+shortdesc Macros for typesetting crossword puzzles
+longdesc The package provides a LaTeX method of typesetting crosswords,
+longdesc and assists the composer ensure that the grid all goes together
+longdesc properly. Brian Hamilton Kelly's original was written for LaTeX
+longdesc 2.09, and needed to be updated to run with current LaTeX.
+containersize 3616
+containerchecksum 889334e046aa6371df566c814faa98fdf4931c85be3d49e04d932f02bb71bffaa929614398469be04bf6426ec05ccbfcdbe0ad9798017f9504fba5f3781521e6
+doccontainersize 215628
+doccontainerchecksum 0d4d1e8c1577ee23f7fc60ab8c106121978e986945b8dd399faef4ca55e60a7ed3ba65220ef56ad11b7a100690f89692f0c1ad80c845e2aa04d81c8664a6cd27
+srccontainersize 19500
+srccontainerchecksum edb2825137c510f1ed32b9380b3e59ac492a76ed35d2a1b16ef486a8287338c1afd8b26cee9d1ae447eff3dd12de14cd7f75d97db74ef5f084286c7f5cd8478c
+runfiles size=3
+ texmf-dist/tex/latex/crosswrd/crosswrd.sty
+catalogue-ctan /macros/latex/contrib/crosswrd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games cwpuzzle
+catalogue-version 3.0

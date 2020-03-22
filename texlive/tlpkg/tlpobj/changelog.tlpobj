@@ -1,0 +1,22 @@
+name changelog
+category Package
+revision 49529
+shortdesc Provides a changelog environment
+longdesc This package provides a changelog environment (which itself
+longdesc provides a version environment) to represent a changelog. The
+longdesc package supports multiple authors, unreleased changes, and
+longdesc yanked (revoked) releases. Inspired by keepachangelog.com.
+containersize 2624
+containerchecksum 736b0838cc3d32b08b4d3dfdd06258619067ae2acb4696c9826fe90a424083ac0b39a5e601fffe505dfa42690fea1f540788767e331b27f04e359487593f85fc
+doccontainersize 245692
+doccontainerchecksum f97d54e4e14a877b56b4a3c5274b0d4bca3b1424ce33832528e6341833892a996630929eabe347c37ca383a6249884d49350cfd7a4116f44ec8ece6cb97ad459
+runfiles size=3
+ texmf-dist/tex/latex/changelog/changelog-doc.sty
+ texmf-dist/tex/latex/changelog/changelog.sty
+catalogue-contact-bugs https://github.com/9999years/latex-changelog/issues
+catalogue-contact-repository https://github.com/9999years/latex-changelog
+catalogue-ctan /macros/latex/contrib/changelog
+catalogue-date 2018-12-28 23:15:31 +0100
+catalogue-license gpl3
+catalogue-topics version-control doc-mgmt
+catalogue-version 1.0.0

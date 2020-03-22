@@ -1,0 +1,19 @@
+name cntformats
+category Package
+revision 34668
+shortdesc A different way to read counters
+longdesc The package offers package or class authors a way to format
+longdesc counters with 'patterns'. These patterns do not affect 'normal'
+longdesc LaTeX treatment of counters.
+containersize 2688
+containerchecksum f829d6452faa20a514bfe43a8b002d4d728b57e0d6c44de7ba8aebaa96d9a40fc0ac26ca6ef637ab9efd3f133c70cd4d5b9c81dd382ed8adcd5abd1b2fb5d6cd
+doccontainersize 427824
+doccontainerchecksum 4d6c9b8ad41dea1e14eec71570afdeb28fb834191587ba964642628674526a5ac82d6ceb972d5d89e0faeb3fb46da26361dea45f8757523f58765dfbdb773a3d
+runfiles size=3
+ texmf-dist/tex/latex/cntformats/cntformats.sty
+catalogue-contact-repository https://github.com/cgnieder/cntformats/
+catalogue-ctan /macros/latex/contrib/cntformats
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics numbers
+catalogue-version 0.7

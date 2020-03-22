@@ -1,0 +1,23 @@
+name rlepsf
+category Package
+revision 19082
+shortdesc Rewrite labels in EPS graphics
+longdesc A macro package for use with epsf.tex which allows PostScript
+longdesc labels in an Encapsulated PostScript file to be replaced by TeX
+longdesc labels. The package provides commands \relabel (simply replace
+longdesc a PostScript string), \adjustrelabel (replace a PostScript
+longdesc string, with position adjustment), and \extralabel (add a label
+longdesc at given coordinates). You can, if you so choose, use the
+longdesc facilities of the labelfig package in place of using
+longdesc \extralabel.
+containersize 3012
+containerchecksum 198037c1fd20eaa28b727054607241b7ada10c9dbf4d48cd36f295a8b51a7d4f94859d2349d3d4e831a74e0da025ccaaf91fb53a3074a704f7a3216bb7df0cf1
+doccontainersize 59272
+doccontainerchecksum fc06c857011fe01b07180c9530a334e021f5b9c034c65e15959e173a409670947c7aa406bf751d64d5d77d462139f4835824aa53203381d27d4ecb0e51463e7f
+runfiles size=2
+ texmf-dist/tex/generic/rlepsf/rlepsf.tex
+catalogue-also psfrag
+catalogue-ctan /macros/generic/rlepsf
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics

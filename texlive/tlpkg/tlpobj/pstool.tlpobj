@@ -1,0 +1,27 @@
+name pstool
+category Package
+revision 46393
+shortdesc Support for psfrag within pdfLaTeX
+longdesc The package works in the same sort of way as pst-pdf, but it
+longdesc also processes the PostScript graphics with psfrag to add
+longdesc labels within the graphic, before conversion. Thus the bundle
+longdesc replaces two steps of an ordinary workflow. (Naturally, the
+longdesc package requires that \write 18 is enabled.) Pstool ensures
+longdesc that each version of each graphic is compiled once only (the
+longdesc graphic is (re-)compiled only if it has changed since the
+longdesc previous compilation of the document). This drastically speeds
+longdesc up the running of the package in the typical case (though the
+longdesc first run of any document is inevitably just as slow as with
+longdesc any similar package).
+containersize 6984
+containerchecksum a97af35dfce4a137af97071b49e58c31739e6f271afc62a455db473e573148d25fc27937ce680c6f400a200151ffd73867d5dd8781b12a63c68b7bf256cff5d1
+doccontainersize 373708
+doccontainerchecksum 613cc4899b1d76e0686cd269568cfc0dda437cec0e50571086b3d44659dc4b3e3d567dec88b5420e4c802d676f21c2428b3930fb6bb3f7d7faa14c029d35d43e
+runfiles size=6
+ texmf-dist/tex/latex/pstool/pstool.sty
+catalogue-contact-repository https://github.com/wspr/pstool
+catalogue-ctan /macros/latex/contrib/pstool
+catalogue-date 2018-01-20 10:12:28 +0100
+catalogue-license lppl1.3c
+catalogue-topics graphics-epspdf graphics-text
+catalogue-version 1.5e

@@ -1,0 +1,18 @@
+name firamath-otf
+category Package
+revision 50732
+shortdesc Use OpenType math font Fira Math
+longdesc The package offers XeTeX/LuaTeX support for the Sans Serif
+longdesc OpenType Fira Math Font.
+containersize 1336
+containerchecksum dbbb13d184e2a407bcbc2681bc9c5ff0e83017141792e956013254dcc50815f5b913bb2e40d6c09421883db774e9ce5e5ed17f6602ee902f485069fbd570936e
+doccontainersize 124236
+doccontainerchecksum 699e10d44b1e36505e872070c2799e1191e995ca6ae26058e7d069c96500a9c0914614750f6af076abd3a30b281409613a846c314a64bef047b3e313b0a4cc97
+runfiles size=1
+ texmf-dist/tex/latex/firamath-otf/firamath-otf.sty
+catalogue-also firamath
+catalogue-ctan /fonts/firamath-otf
+catalogue-date 2019-04-03 15:40:23 +0200
+catalogue-license lppl1.3
+catalogue-topics font-use font-otf font-sans font-maths
+catalogue-version 0.02a

@@ -1,0 +1,31 @@
+name bundledoc
+category Package
+revision 47819
+shortdesc Bundle together all the files needed to build a LaTeX document
+longdesc The bundledoc package is a post-processor for the snapshot
+longdesc package that bundles together all the classes, packages and
+longdesc files needed to build a given LaTeX document. It reads the .dep
+longdesc file that snapshot produces, finds each of the files mentioned
+longdesc therein, and archives them into a single .tar.gz (or .zip, or
+longdesc whatever) file, suitable for moving across systems,
+longdesc transmitting to a colleague, etc. A script, arlatex, provides
+longdesc an alternative "archiving" mechanism, creating a single LaTeX
+longdesc file that contains all of the ancillary files of a LaTeX
+longdesc document, together with the document itself, using the
+longdesc filecontents* environment.
+depend bundledoc.ARCH
+containersize 12276
+containerchecksum fd342f56a110ed29a4562057910c9bde89a3a70dc619381005dd38610736f9dd43a3c2c25dbdaf557b648e3d126d943418969dacfa26e6627fe8f9f767a9004d
+doccontainersize 80972
+doccontainerchecksum 384a9519a3aaa328444dfb569e86d037ca283d2d24529057bcbd1dccb41a3ba7bda027c01bc986b0932da77198ca13e9d7c4f4859d898a284577796255baa9c9
+runfiles size=14
+ texmf-dist/scripts/bundledoc/arlatex
+ texmf-dist/scripts/bundledoc/bundledoc
+ texmf-dist/tex/latex/bundledoc/miktex.cfg
+ texmf-dist/tex/latex/bundledoc/texlive-unix-arlatex.cfg
+ texmf-dist/tex/latex/bundledoc/texlive-unix.cfg
+catalogue-ctan /support/bundledoc
+catalogue-date 2018-05-23 08:34:52 +0200
+catalogue-license lppl1.3c
+catalogue-topics bundle
+catalogue-version 3.3

@@ -1,0 +1,18 @@
+name tikzcodeblocks
+category Package
+revision 47265
+shortdesc Helps to draw codeblocks like scratch, NEPO and PXT in TikZ
+longdesc tikzcodeblocks is a LaTeX package for typesetting blockwise
+longdesc graphic programming languages like scratch, nepo or pxt.
+containersize 5784
+containerchecksum 709d531084b03a8bd1b645699de70a24ccd6c57050bd5d7b9697c778ea702e846adfe288983970a745b8745eeffe6acda3d0024fac65ec4e99475c736c5fc2e8
+doccontainersize 480132
+doccontainerchecksum 26ac33c604e51ed31a5b36c174350b1860b8b01169470cc1b50ce49808f7c8d84886110299bea82e72b3a5f0c18ac0f897d879aaabad1a4712dd94af47b3b10c
+runfiles size=7
+ texmf-dist/tex/latex/tikzcodeblocks/tikzcodeblocks.sty
+catalogue-also scratch
+catalogue-ctan /graphics/pgf/contrib/tikzcodeblocks
+catalogue-date 2018-04-03 13:13:53 +0200
+catalogue-license lppl1.3c
+catalogue-topics pgf-tikz
+catalogue-version 0.12

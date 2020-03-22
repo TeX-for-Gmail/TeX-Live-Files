@@ -1,0 +1,19 @@
+name glossaries-dutch
+category Package
+revision 35685
+shortdesc Dutch language module for glossaries package
+longdesc Dutch language module for glossariesr package.
+containersize 1656
+containerchecksum 0e3d2607caa6032c8c768c1bd7c84808f6b836d6c167b1e0c720b57c3033c175269663f6e21edc248676bb2b73142c20c85cb6c3011586cf17d876e540a435dc
+doccontainersize 155320
+doccontainerchecksum c2d6ce929bb9e7482413886967beb598b6cfb4a2f84d5a2e5edd7039b94e397ba9ad2e63954178d6fae91c5e3aeb080a68ed466b609ba0adddf98003f570cfd1
+srccontainersize 2364
+srccontainerchecksum 5088bafba48d95e4392a5891ba3566d37a708cc7ed002243995d67ad6f6cd1eed19f6a572e5e3234c8e4ce58e815b4cc79e97d2644bc5341911388f7b80030aa
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-dutch/glossaries-dutch.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-dutch
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.1

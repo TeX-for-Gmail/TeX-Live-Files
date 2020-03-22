@@ -1,0 +1,32 @@
+name snapshot
+category Package
+revision 15878
+shortdesc List the external dependencies of a LaTeX document
+longdesc The snapshot package helps the owner of a LaTeX document obtain
+longdesc a list of the external dependencies of the document, in a form
+longdesc that can be embedded at the top of the document. It provides a
+longdesc snapshot of the current processing context of the document,
+longdesc insofar as it can be determined from inside LaTeX. If a
+longdesc document contains such a dependency list, then it becomes
+longdesc possible to arrange that the document be processed always with
+longdesc the same versions of everything, in order to ensure the same
+longdesc output. This could be useful for someone wanting to keep a
+longdesc LaTeX document on hand and consistently reproduce an identical
+longdesc DVI file from it, on the fly; or for someone wanting to shield
+longdesc a document during the final stages of its production cycle from
+longdesc unexpected side effects of routine upgrades to the TeX system.
+containersize 3952
+containerchecksum 9c9d7b00450375f1f7af6b30203d4c9811dfbb1d1d7901406b3e703e88af7003e39eb2ffb78334110b687e0e8070e176c2024ea7c6cd6b6ffb433567eefa50c1
+doccontainersize 104224
+doccontainerchecksum fbabe2c204f19558d6868a6a868ed6ef916770492cc7035dee79e58f36e0b0195efc542fbb119ae22f045bb00208d588766ba6ca3bfc51ac8ba7f55ed3ad33e0
+srccontainersize 9444
+srccontainerchecksum 52195965051697b5c95db6fa258a886b6f9f0a766502b5f5bb91369722a1f367f10b4d0dadd0ab8f4eb2e85982c7a005daf1841a5020658dab6af522acddc137
+runfiles size=3
+ texmf-dist/tex/latex/snapshot/snapshot.sty
+catalogue-also bundledoc
+catalogue-contact-home http://www.ams.org/publications/authors/tex/snapshot
+catalogue-ctan /macros/latex/contrib/snapshot
+catalogue-date 2018-04-11 14:09:31 +0200
+catalogue-license lppl
+catalogue-topics file-mgmt
+catalogue-version 1.14

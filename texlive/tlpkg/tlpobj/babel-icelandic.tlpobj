@@ -1,0 +1,20 @@
+name babel-icelandic
+category Package
+revision 39387
+shortdesc Babel support for Icelandic
+longdesc The package provides the language definition file for support
+longdesc of Icelandic in babel. Some shortcuts are defined, as well as
+longdesc translations to Icelandic of standard "LaTeX names".
+containersize 4232
+containerchecksum 5b6c47c195209906aa93885cbec937cd9fdf4601c6aac0530f6b7a0cb6ce5606a711db4ae716aa0c70ec53f88c504a53e60037c8b89fd5fc9c384f6a3caab70e
+doccontainersize 316496
+doccontainerchecksum fe2c431e823db51376bca55859783b79a647ac9b0bdae2971d4f29870e46df7640b07e8a37345ab4b629082a8a34fc9efedb52581ea986d1344bff980b5fa0e4
+srccontainersize 10984
+srccontainerchecksum 7254517649b58e0011da88490eb3a1d54196b005939598a3220107941a820b88ad29f5ef1f79e1d5b5702e8aa6eb7fcddae451651f89b83e1cbef6f7373c0549
+runfiles size=3
+ texmf-dist/tex/generic/babel-icelandic/icelandic.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/icelandic
+catalogue-date 2018-01-13 10:17:26 +0100
+catalogue-license lppl1.3
+catalogue-topics icelandic
+catalogue-version 1.2b

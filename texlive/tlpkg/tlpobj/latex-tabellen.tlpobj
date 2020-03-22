@@ -1,0 +1,13 @@
+name latex-tabellen
+category Package
+revision 16979
+shortdesc LaTeX Tabellen
+longdesc The examples from the book <<Tabellen mit LaTeX>>, 2nd ed.
+containersize 384
+containerchecksum ca056b194690d7b71429022c4b80b9d171cd7aa2e580921eed556a11fc2e3162106a06d61333dc69495d801120c35528fdc74b9c282cb6baa3391595e5f28d76
+doccontainersize 45788
+doccontainerchecksum 7f3f4ee26f1f9f6bd6d27cbde4193d8e2607a34ee2ebcbc44934b17673b60375a566828461ce672fe8d4404e32784cc62a54b51873645592079aedaa7c82e081
+catalogue-ctan /info/examples/Tabellen2
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex

@@ -1,0 +1,22 @@
+name cookingsymbols
+category Package
+revision 35929
+shortdesc Symbols for recipes
+longdesc The package provides 11 symbols for typesetting recipes: oven,
+longdesc gasstove, topheat, fanoven, gloves and dish symbol (among
+longdesc others). The symbols are defined using Metafont.
+containersize 3584
+containerchecksum 9b43ffdce038ebb001c0ab6198fa2d92ad6f1ec6040f1c315a53fbfd29367e5c851f4015c36b0cdb2eea84f4a8dc90aa3d5126a09f93766d614931bbf555f982
+doccontainersize 378876
+doccontainerchecksum fb6794942d016d12f527b86947c7fae9947a7cf9122a7b26d39bfeb6d5f55a7cccc11b666101b0c80a92c7385ae8305bcb4d792baa0974b738af80697ad12891
+srccontainersize 5616
+srccontainerchecksum b2e8ff3274ffaff3a3f5b3de1ab95a534247878f163cba8cac9af0cb49c59c54f9ac7b362c75dbc394a3c942864b3255ed28310ac5ba842b5b63ea0d0d80f7d5
+runfiles size=5
+ texmf-dist/fonts/source/public/cookingsymbols/cookingsymbols.mf
+ texmf-dist/fonts/tfm/public/cookingsymbols/cookingsymbols.tfm
+ texmf-dist/tex/latex/cookingsymbols/cookingsymbols.sty
+catalogue-ctan /macros/latex/contrib/cookingsymbols
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-symbol cooking
+catalogue-version 1.1

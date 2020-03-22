@@ -1,0 +1,20 @@
+name eskd
+category Package
+revision 15878
+shortdesc Modern Russian typesetting
+longdesc The class offers modern Russian text formatting, in accordance
+longdesc with accepted design standards. Fonts not (apparently)
+longdesc available on CTAN are required for use of the class.
+containersize 3760
+containerchecksum d0c1745172683bcacfb061f48bee10f78dbc849657295f5e7714cca949afd586c441f727e909c627b595ccdb50b81d813538e6837a00809ee884ffe1acd6b25e
+doccontainersize 262316
+doccontainerchecksum 01a0be9d02e7fece62cfd1bc8ceb26b2036f3d2e374794f3c4aacbfe004cf4059346510009760fe48fc0141c4e9f3cf1e40088203d31b7bbb31ec375cf5f70ea
+srccontainersize 7596
+srccontainerchecksum 88b3edc0487b638142ba353ef108558b8fa6d420f2560a4fb1c189829af87d877a8900566c042556b15d654d11d2a0def58fa958fb9b234fca84419b2621cba4
+runfiles size=5
+ texmf-dist/tex/latex/eskd/eskd.cls
+catalogue-also eskdx
+catalogue-ctan /macros/latex/contrib/eskd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class russian

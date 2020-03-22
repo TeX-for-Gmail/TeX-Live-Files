@@ -1,0 +1,18 @@
+name etdipa
+category Package
+revision 36354
+shortdesc Simple, lightweight template for scientific documents
+longdesc This package provides a complete working directory for the
+longdesc scientific documentation of arbitrary projects. It was
+longdesc originally developed to provide a template for Austrian
+longdesc "Diplomarbeiten" or "Vorwissenschaftliche Arbeiten", which are
+longdesc scientfic projects of students at a secondary school.
+containersize 556
+containerchecksum 88502eeb78f2f5901cdfc192638501690aea861de2105445de226261c62f526d6602ab5c63f02974d067e229b12441ee6663b54769236a1e0e125896b869301d
+doccontainersize 1019908
+doccontainerchecksum 6aa2ecdb393932a485857222e66471b9c52388e726edffd0b4357e340e8a5092af96ad1847486a58d6a8485a4ce0e80e25e80ad58f60991004136739d26aa996
+catalogue-ctan /macros/latex/contrib/etdipa
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics scientific-docs
+catalogue-version 2.6

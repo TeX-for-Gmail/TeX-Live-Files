@@ -1,0 +1,18 @@
+name iwhdp
+category Package
+revision 37552
+shortdesc Halle Institute for Economic Research (IWH) Discussion Papers
+longdesc The document class is for creating Discussion Papers of the
+longdesc Halle Institute for Economic Research (IWH) in Halle, Germany.
+longdesc The class offers options for both English and German texts.
+containersize 10284
+containerchecksum 7153fd75ec63a6abbb4d2bbda8a5eb150f4b202b72baec8361a810d28aac5690f76e4099ff3a616a44077337ace469d6a111d4e42ad8d68428144b7fdee58575
+doccontainersize 396092
+doccontainerchecksum f75a9d0ea4b69de5a82659e18a0ea04544c93b056c52efac534e16490a5ac78b329d700f2ed7b3e8564a72331489106bb7e735c44b3e24ff943c6ec0b89eaef2
+runfiles size=9
+ texmf-dist/tex/latex/iwhdp/iwhdp.cls
+catalogue-ctan /macros/latex/contrib/iwhdp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics misc-paper class
+catalogue-version 0.50

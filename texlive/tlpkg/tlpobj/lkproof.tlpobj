@@ -1,0 +1,19 @@
+name lkproof
+category Package
+revision 20021
+shortdesc LK Proof figure macros
+longdesc The package defines a pair of commands \infer and \deduce, that
+longdesc are used in constructing LK proof diagrams.
+containersize 2732
+containerchecksum 58c211cf1ed20b36e69ceffc8568fc1cbdb51cb812af79d16a64cbe8a8e7e672a2d49e672501b2cb23ef72c4a04c59017e17e538061159c8b9e797624f8334ca
+doccontainersize 258344
+doccontainerchecksum 01c3f1b50147c73294dabf83d79811862d4742f5a76f69ff6f6a1d5a2b0a8462e3728ba6e4d6fea57d3703c638f6cf04568948d45d4ec8d1dfe59571ff2933b6
+runfiles size=2
+ texmf-dist/tex/latex/lkproof/proof.sty
+catalogue-also proofs
+catalogue-contact-home http://research.nii.ac.jp/~tatsuta/index-e.html
+catalogue-ctan /macros/latex/contrib/lkproof
+catalogue-date 2018-02-03 19:33:36 +0100
+catalogue-license gpl
+catalogue-topics logic
+catalogue-version 3.1

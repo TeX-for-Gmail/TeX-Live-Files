@@ -1,0 +1,23 @@
+name mftinc
+category Package
+revision 15878
+shortdesc Pretty-print Metafont source
+longdesc The mft program pretty-prints Metafont source code into a TeX
+longdesc file. The mftinc package facilitates incorporating such files
+longdesc into a LaTeX2e document. In addition, mftinc provides routines
+longdesc for improved comment formatting and for typesetting font
+longdesc tables.
+containersize 2936
+containerchecksum 64fa5f38398a626d5a351be7ad866c75feb4549f836932dc936cb99f921e7b8abe5b3d6fc1e1e6c427344606ee5dacaf067d8678e7b199fa1ff8d5c94cbffa49
+doccontainersize 251032
+doccontainerchecksum 0846744cfd86bbcd8b6ad90d58bfe5788a79f43d05f3cf6f438fdef50cc4872ad8ec4d32005ced9ea9c424f3e86a799d79b0baf2a9544a3018531a99cd81fd5e
+srccontainersize 17248
+srccontainerchecksum 50ca90a2f48970b3cca5552a361337ed138b4a9e31bca2766eb429cdceac2a09adc1cafa6c444c514fabe71c38ed82a63b847e1da014f2c131a15c362efaf09f
+runfiles size=2
+ texmf-dist/tex/latex/mftinc/mftinc.sty
+catalogue-also docmfp
+catalogue-ctan /macros/latex/contrib/mftinc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics listing
+catalogue-version 1.0a

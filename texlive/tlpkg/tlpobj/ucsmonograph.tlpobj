@@ -1,0 +1,25 @@
+name ucsmonograph
+category Package
+revision 49389
+shortdesc Typesetting academic documents from the University of Caxias do Sul
+longdesc This is a LaTeX class for typesetting academic documents
+longdesc according to the ABNT (Brazilian Technical Standards
+longdesc Association) standards and the UCS (University of Caxias do
+longdesc Sul) specifications.
+containersize 4260
+containerchecksum e7d128e550f797aa566e1364102c5625ceb268f7e3d8ac78f03734d5721e92628ddb22942afb4355ba6dbf68cade8b129148a41ba777f925a4c51743db12bdff
+doccontainersize 412928
+doccontainerchecksum 500317f88c5162f201b22d0d511fadd2e2a024c72fb7ad30c15d6f251a6c350bee724f62701341d78dd4ac2d718b231994a98319fbbd8b79caa639272e2627dc
+srccontainersize 13036
+srccontainerchecksum c802f694093eb71d8cce30ac2ff2672ac07ed40196575f89d192864d5fbae7e5bc5e0910042798cf4ddae7481e812c62b50c5ebf245c59dda1d3f9b992cf1497
+runfiles size=4
+ texmf-dist/tex/latex/ucsmonograph/ucsmonograph.cls
+catalogue-also abntex2
+catalogue-contact-bugs https://github.com/HenriqueBaron/ucsmonograph/issues
+catalogue-contact-repository https://github.com/HenriqueBaron/ucsmonograph
+catalogue-contact-support https://tex.stackexchange.com/users/153467/henrique-baron
+catalogue-ctan /macros/latex/contrib/ucsmonograph
+catalogue-date 2018-12-11 07:40:11 +0100
+catalogue-license lppl1.3c
+catalogue-topics class dissertation portuguese-br
+catalogue-version 1.2.1

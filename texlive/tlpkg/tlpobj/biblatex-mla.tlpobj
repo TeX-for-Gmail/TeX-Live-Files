@@ -1,0 +1,25 @@
+name biblatex-mla
+category Package
+revision 42445
+shortdesc MLA style files for BibLaTeX
+longdesc The package provides BibLaTeX support for citations in the
+longdesc format specified by the MLA handbook.
+containersize 15540
+containerchecksum b6e3f7b5323e0246c1b2e1ee1c767b624e59d4d1ab9aac4bc24d59c15d1f8228695ccc072b30bbe1f4a2de24fb6eeee3c81095fa572f3e27a09f0de7c5b3994e
+doccontainersize 1273944
+doccontainerchecksum 87e9b73615b404f8b676b8a4158edac551f8dd3712e1f6ecaec473789df884c85d6ba48eafad428eebce10ff6f0c13b382fb4e4c79cc960b860565bedf7f935f
+runfiles size=44
+ texmf-dist/tex/latex/biblatex-mla/american-mla.lbx
+ texmf-dist/tex/latex/biblatex-mla/english-mla.lbx
+ texmf-dist/tex/latex/biblatex-mla/italian-mla.lbx
+ texmf-dist/tex/latex/biblatex-mla/mla-new.bbx
+ texmf-dist/tex/latex/biblatex-mla/mla-new.cbx
+ texmf-dist/tex/latex/biblatex-mla/mla.bbx
+ texmf-dist/tex/latex/biblatex-mla/mla.cbx
+ texmf-dist/tex/latex/biblatex-mla/portuguese-mla.lbx
+ texmf-dist/tex/latex/biblatex-mla/spanish-mla.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-mla
+catalogue-date 2016-11-06 18:51:22 +0100
+catalogue-license lppl
+catalogue-topics linguistic journalpub biblatex
+catalogue-version 1.9

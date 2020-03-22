@@ -1,0 +1,33 @@
+name titlesec
+category Package
+revision 40129
+shortdesc Select alternative section titles
+longdesc A package providing an interface to sectioning commands for
+longdesc selection from various title styles. E.g., marginal titles and
+longdesc to change the font of all headings with a single command, also
+longdesc providing simple one-step page styles. Also includes a package
+longdesc to change the page styles when there are floats in a page. You
+longdesc may assign headers/footers to individual floats, too.
+containersize 20848
+containerchecksum f0e5cf51f52e9e36f7eac396c0f3520be6d315d9b3ecb7bcf7d61993228ec6c8b13a136191383337ad6a5965f247d589d91a55cf55b0f64364134189888655f3
+doccontainersize 347460
+doccontainerchecksum a31b9295b59816a950ef3625479abdec38c686427644e3ce9962f598b498fca4f7fbcd5bf2b89d79abdbc3c51ce5bf5488a79b4effdced038c027c573d646b21
+runfiles size=30
+ texmf-dist/tex/latex/titlesec/block.tss
+ texmf-dist/tex/latex/titlesec/drop.tss
+ texmf-dist/tex/latex/titlesec/frame.tss
+ texmf-dist/tex/latex/titlesec/leftmargin.tss
+ texmf-dist/tex/latex/titlesec/margin.tss
+ texmf-dist/tex/latex/titlesec/rightmargin.tss
+ texmf-dist/tex/latex/titlesec/titleps.sty
+ texmf-dist/tex/latex/titlesec/titlesec.sty
+ texmf-dist/tex/latex/titlesec/titletoc.sty
+ texmf-dist/tex/latex/titlesec/ttlkeys.def
+ texmf-dist/tex/latex/titlesec/ttlps.def
+ texmf-dist/tex/latex/titlesec/wrap.tss
+catalogue-also fancyhdr titleps sectsty titletoc tocloft
+catalogue-ctan /macros/latex/contrib/titlesec
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics headings page-hf
+catalogue-version 2.10.2

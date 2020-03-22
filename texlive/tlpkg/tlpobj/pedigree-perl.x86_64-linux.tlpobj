@@ -1,0 +1,8 @@
+name pedigree-perl.x86_64-linux
+category Package
+revision 25962
+shortdesc x86_64-linux files of pedigree-perl
+containersize 344
+containerchecksum 5a14b0f04b21c4b74e6cc8dc30a7869bac6786ef703b325a4b839b74dc27d309259d9325f39aa8f235759c5ca4e6c4f1a949f4e5bdea0af133d07b7d6f40cd28
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pedigree

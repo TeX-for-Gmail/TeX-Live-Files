@@ -1,0 +1,25 @@
+name mathfont
+category Package
+revision 50698
+shortdesc Use TrueType and OpenType fonts in math mode
+longdesc This package provides a flexible interface for changing the
+longdesc font of math mode characters. The package allows the user to
+longdesc specify a default unicode font for each of six basic classes of
+longdesc Latin and Greek characters, and it provides additional support
+longdesc for unicode alphanumeric symbols. Crucially, mathfont is
+longdesc compatible with both LuaLaTeX and XeLaTeX, and it provides
+longdesc several font-loading commands that allow the user to change
+longdesc fonts locally or for individual symbols within math mode.
+containersize 6384
+containerchecksum 3bb85dd755bffc8048078955aa23ae003b835a18a01872004a1fbbc6bdd8600df1141132e80b31f80866de314d1cda462435d5a63d87bd249bfa62f4f95fa63c
+doccontainersize 385284
+doccontainerchecksum 0e9b30de30595e54300da8d35619d3ebb423a1742a23eeccaeaeaad9708e485328b5da2a97d65be526b260a6845c2190d5a2f4a0df0833d7c66ee3a652eba849
+srccontainersize 22660
+srccontainerchecksum 8d1b6c030ea025289c54b629f8b3306376f4b6743545c4e6ef7497a5a10a78ba6946b8467d57b32d6e031f93138777185478e6496a0b81c953e174ae2db35985
+runfiles size=11
+ texmf-dist/tex/latex/mathfont/mathfont.sty
+catalogue-ctan /macros/latex/contrib/mathfont
+catalogue-date 2019-04-01 21:00:47 +0200
+catalogue-license lppl1.3c
+catalogue-topics font-mgmt font-use maths
+catalogue-version 1.4

@@ -1,0 +1,22 @@
+name rcsinfo
+category Package
+revision 15878
+shortdesc Support for the revision control system
+longdesc A package to extract RCS (Revision Control System) information
+longdesc and use it in a LaTeX document. For users of LaTeX2HTML
+longdesc rcsinfo.perl is included.
+containersize 3120
+containerchecksum 6070a3f0b434b5339e527161b7c1e18dd21b23a9b57817a2699bc13369bf35110868e38d3e487b7b0b58ddb12699599a6e8ac4314b150ff2c8049ade5124f786
+doccontainersize 148308
+doccontainerchecksum c7d149405b9824f7fb9a453386477ee3ebb7e265b29a004eeab687695667a9e8ddd7ca91ffdb4fe7f60716e6c1f2b39004aae82777c58cb60532bb2ace2bc846
+srccontainersize 13612
+srccontainerchecksum bb38328d3124adb4ca1734912bd0fb15040e7d390d886d3817ed547d08e4f6e5a134db6e4279ab2cf0a5b8d0216afaea475c3dceed7381bbc84adbd63bbf3b82
+runfiles size=4
+ texmf-dist/tex/latex/rcsinfo/rcsinfo.cfg
+ texmf-dist/tex/latex/rcsinfo/rcsinfo.sty
+catalogue-also rcs
+catalogue-ctan /macros/latex/contrib/rcsinfo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics version-control doc-mgmt
+catalogue-version 1.11

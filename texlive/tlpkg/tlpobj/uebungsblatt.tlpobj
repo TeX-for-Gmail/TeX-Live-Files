@@ -1,0 +1,24 @@
+name uebungsblatt
+category Package
+revision 15878
+shortdesc A LaTeX class for writing exercise sheets
+longdesc This package implements a LaTeX class for writing exercise
+longdesc sheets for a lecture. Features: - quick typesetting of exercise
+longdesc sheets or their revisions, - simple user friendly commands, -
+longdesc elegant page formatting, - automatic numbering of exercises and
+longdesc sub-exercises, - the number of the exercise sheet is extracted
+longdesc automatically from the file name, - static information about
+longdesc the lectures and the authors needs to provided at one point
+longdesc only.
+containersize 3948
+containerchecksum e9ce935da13de8106d63f233349bd29e954538ad17de7505be14a4b5a2efa1e1aabd3ef46871e98d2f5d4730bcf6c49998187924328eed19a35a95bffdcb8d70
+doccontainersize 226580
+doccontainerchecksum 2853eae6fdddf889b305166c6c09351e8e7d7fb087c68a5ab9f4a7a282118200a5120c215708e7d2b9d4487457aa6330d11ec7f7a8e0139719b67217732f2633
+runfiles size=4
+ texmf-dist/tex/latex/uebungsblatt/uebungsblatt.cls
+ texmf-dist/tex/latex/uebungsblatt/uebungsblatt.sty
+catalogue-ctan /macros/latex/contrib/uebungsblatt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exercise
+catalogue-version 1.5.0

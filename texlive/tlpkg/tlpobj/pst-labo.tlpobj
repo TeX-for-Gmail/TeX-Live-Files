@@ -1,0 +1,21 @@
+name pst-labo
+category Package
+revision 39077
+shortdesc Draw objects for Chemistry laboratories
+longdesc Pst-labo is a PSTricks related package for drawing basic and
+longdesc complex chemical objects. The documentation of the package is
+longdesc illuminated with plenty of illustrations together with their
+longdesc source code, making it an easy read.
+containersize 10140
+containerchecksum a8bc971be59f1072657d9cf9d26056ba800023858df1d060ccc7e31d2c533337520e9583de00085842dfafe84a590e0c90706ac00bc98da282a5454fac76aade
+doccontainersize 2742752
+doccontainerchecksum 1b35f244a45fd18eeba484f925292358b5582f0ba18a9c6622afc67ed287e74d0c1c876ff78c19de0e9b53f55c86f30f47a6d179e0142e79aad5c5799e497ba5
+runfiles size=14
+ texmf-dist/tex/generic/pst-labo/pst-labo.tex
+ texmf-dist/tex/generic/pst-labo/pst-laboObj.tex
+ texmf-dist/tex/latex/pst-labo/pst-labo.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-labo
+catalogue-date 2018-09-15 12:46:50 +0200
+catalogue-license lppl
+catalogue-topics chemistry graphics-use
+catalogue-version 2.04

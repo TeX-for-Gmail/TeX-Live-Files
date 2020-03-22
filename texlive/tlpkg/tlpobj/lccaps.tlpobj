@@ -1,0 +1,28 @@
+name lccaps
+category Package
+revision 46432
+shortdesc Lowercased (spaced) small capitals
+longdesc This little package serves the purpose of providing a uniform
+longdesc method to use lowercased small capitals and spaced lowercased
+longdesc small capitals. It relies on the iftex, textcase, and microtype
+longdesc packages and comes with four new user macros: \textlcc, the
+longdesc main feature: lowercased small capitals; \spacedcaps, a prefix
+longdesc to small capitals text commands to slightly increase their
+longdesc spacing; \textslcc and \textssc, which are shortcuts for
+longdesc \spacedcaps\textlcc and \spacedcaps\textsc (accordingly).
+containersize 1544
+containerchecksum 98d57c77a3ca19a067c04c9cef06d632e56f42daaa70ec729a7cbf3ff68ef3e7ab95e1d0d25cf853d85dd1916668dd5601ba6feb889d1eda344b3ebcb31da333
+doccontainersize 151000
+doccontainerchecksum ce14177476624831de64a12ef858516a2df28a3e194748a1c759d7a41743a93e03a7d96bff3acd85f9db0f5d4c96a53aff7b73077e131bc6fa807c8b36844bef
+srccontainersize 2980
+srccontainerchecksum cb0f4f8400542d9d15e55dd8d9b55ecc1aad60dfda5de9ab342e8e02d075123e9b32b1c19dbed700ad8626d754a11be6e694a86b6eef757db3a6f47f9f5a22d8
+runfiles size=1
+ texmf-dist/tex/latex/lccaps/lccaps.sty
+catalogue-contact-bugs https://github.com/giannotr/lccaps/issues
+catalogue-contact-home https://github.com/giannotr/lccaps
+catalogue-contact-repository https://github.com/giannotr/lccaps.git
+catalogue-ctan /macros/latex/contrib/lccaps
+catalogue-date 2018-01-26 07:47:53 +0100
+catalogue-license lppl1.3c
+catalogue-topics font-supp
+catalogue-version 1.0

@@ -1,0 +1,23 @@
+name ogham
+category Package
+revision 24876
+shortdesc Fonts for typesetting Ogham script
+longdesc The font provides the Ogham alphabet, which is found on a
+longdesc number of Irish and Pictish carvings dating from the 4th
+longdesc century AD. The font is distributed as Metafont source, which
+longdesc has been patched (with the author's permission) for stability
+longdesc at different output device resolutions. (Thanks are due to
+longdesc Peter Flynn and Dan Luecking.)
+containersize 1888
+containerchecksum fe651bcbdb0e8f9ded07fdc412f1273cc8d473894f06af69ae65ac4c6895daba3f61571eac9a49d16de043ae6ed6e03ea386f11dd6b395347d98784bece4c8b1
+doccontainersize 11932
+doccontainerchecksum 6d406cd0a2ba68946be8d2eb148a6c9286a164ae701f66802ecabe6661807ea54eba175617e00920d37a88dee376c1bfcecef6184320ef1790716d53e5a07871
+runfiles size=3
+ texmf-dist/fonts/source/public/ogham/ogham.mf
+ texmf-dist/fonts/tfm/public/ogham/ogham.tfm
+catalogue-contact-repository https://github.com/rf-latex/ogham
+catalogue-contact-support https://github.com/rf-latex/ogham/issues
+catalogue-ctan /fonts/ogham
+catalogue-date 2018-09-15 15:44:01 +0200
+catalogue-license pd
+catalogue-topics font font-mf font-archaic

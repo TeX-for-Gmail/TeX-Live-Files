@@ -1,0 +1,19 @@
+name rulercompass
+category Package
+revision 32392
+shortdesc A TikZ library for straight-edge and compass diagrams
+longdesc The package defines some commands and styles to support drawing
+longdesc straight-edge and compass diagrams with TikZ.
+containersize 3888
+containerchecksum 8f2e8d9a4d61c3c79e3ef29ae554db2696b9c374fe10f59fe2a4baea33c679a0678a95c30ea1d4310662bb5af6a1b02d88db7bb43610545b1ffb39fba19b5001
+doccontainersize 481212
+doccontainerchecksum 6077a3c137269e5be37b62879c394d800f4bc80cacd1d9600b2aa81503958e2fa29f0364db58c1418bc206db916f84f46cbcf70d0f30a9276a6e78d154150425
+srccontainersize 6072
+srccontainerchecksum 75765738f4d3b635468d8e1ebda805e0fc6e2bd3eccfbcc1594fcce89908834572aeec85fea189368d02d05ba1fff6d0e2bb454ad25bce2b92a45cffd74a979c
+runfiles size=4
+ texmf-dist/tex/latex/rulercompass/tikzlibraryrulercompass.code.tex
+catalogue-ctan /graphics/pgf/contrib/rulercompass
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-in-tex
+catalogue-version 1

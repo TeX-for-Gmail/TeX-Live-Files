@@ -1,0 +1,8 @@
+name tpic2pdftex.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of tpic2pdftex
+containersize 4292
+containerchecksum 0178b3e1bae658987947d438df32467d8ff3f6d6d0d68ab1f74c49996948e04b26c2d193b1c7c24aeccfd65dd87935bdf18db94416cb730460d880ee3cad1fc8
+binfiles arch=x86_64-linux size=4
+ bin/x86_64-linux/tpic2pdftex

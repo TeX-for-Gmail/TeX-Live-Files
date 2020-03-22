@@ -1,0 +1,22 @@
+name bxjaholiday
+category Package
+revision 49924
+shortdesc Support for Japanese holidays
+longdesc This LaTeX package provides a command to convert dates to names
+longdesc of Japanese holidays. Another command, converting dates to the
+longdesc day of the week in Japanese, is available as a free gift.
+longdesc Further (lower-level) APIs are provided for expl3. The package
+longdesc supports pdfTeX, XeTeX, LuaTeX, pTeX, and upTeX.
+containersize 5532
+containerchecksum d028523087abe4587c8eaf877eb2dd0f4c12fc12055c29bc1bbf615e855155a77266df8cdf50bb458600bab0264836346a6d98fc183aafc92b546cfc7bcc1bdf
+doccontainersize 90320
+doccontainerchecksum 398bc4686c7c3b121260cbaf379ca66f7f64911b18d771c04507287d3cce834256662dd8f72f1f55601648cc364703f88a0713d9dab19c53cf19c252e2919fd1
+runfiles size=9
+ texmf-dist/tex/latex/bxjaholiday/bxjaholiday.sty
+catalogue-contact-bugs https://github.com/wtsnjp/BXjaholiday/issues
+catalogue-contact-repository https://github.com/wtsnjp/BXjaholiday
+catalogue-ctan /language/japanese/BX/bxjaholiday
+catalogue-date 2019-02-05 05:26:48 +0100
+catalogue-license mit
+catalogue-topics japanese date-time expl3
+catalogue-version 1.0.0

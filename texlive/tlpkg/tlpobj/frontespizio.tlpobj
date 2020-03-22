@@ -1,0 +1,26 @@
+name frontespizio
+category Package
+revision 24054
+shortdesc Create a frontispiece for Italian theses
+longdesc Typesetting a frontispiece independently of the layout of the
+longdesc main document is difficult. This package provides a solution by
+longdesc producing an auxiliary TeX file to be typeset on its own and
+longdesc the result is automatically included at the next run. The
+longdesc markup necessary for the frontispiece is written in the main
+longdesc document in a frontespizio environment. Documentation is mainly
+longdesc in Italian, as the style is probably apt only to theses in
+longdesc Italy.
+containersize 5464
+containerchecksum 6045214cc6a8325d8c828c2591fb43995f098803b031adf50bf8b4dddfa0047ce110dd25e5db71b068376893b7ee83a70806713a83b90a26c4d1c8553e4f00f2
+doccontainersize 885988
+doccontainerchecksum beb8cec7ff51ff9b85e2a650bd7931070c126ea3b126051eb63194e8a071f6dd92d0014953afd85b0e73095208fdcefbf202d9c0ac22003f71d7f7a72f4a4034
+srccontainersize 22604
+srccontainerchecksum 690c42ad3b6db68c8d4305fd9c402126013a26a28049f5cdbaccc455effacf9bbf86ba77d91c518d88b72e48930939389ec33620e8adf06eb20762606ad53daf
+runfiles size=5
+ texmf-dist/tex/latex/frontespizio/frontespizio.sty
+catalogue-also toptesi
+catalogue-ctan /macros/latex/contrib/frontespizio
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics dissertation typesetting
+catalogue-version 1.4a

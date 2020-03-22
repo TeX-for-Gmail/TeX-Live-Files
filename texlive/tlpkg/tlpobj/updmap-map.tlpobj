@@ -1,0 +1,20 @@
+name updmap-map
+category Package
+revision 49917
+shortdesc auto-generated font map files
+longdesc These map files are regenerated every time a new font is added.
+longdesc There is no need to rebuild formats or update binaries because
+longdesc of such updates, hence this separate package.
+containersize 210588
+containerchecksum 619178599a2fbb946740ed094c318adb211ff16f787ddf9074c9a62c80c732259009e654a6433d4554527838e282c979a1c817884c4311bea6526327cdd4af3d
+runfiles size=5488
+ texmf-dist/fonts/map/dvipdfmx/updmap/kanjix.map
+ texmf-dist/fonts/map/dvips/updmap/builtin35.map
+ texmf-dist/fonts/map/dvips/updmap/download35.map
+ texmf-dist/fonts/map/dvips/updmap/ps2pk.map
+ texmf-dist/fonts/map/dvips/updmap/psfonts.map
+ texmf-dist/fonts/map/dvips/updmap/psfonts_pk.map
+ texmf-dist/fonts/map/dvips/updmap/psfonts_t1.map
+ texmf-dist/fonts/map/pdftex/updmap/pdftex.map
+ texmf-dist/fonts/map/pdftex/updmap/pdftex_dl14.map
+ texmf-dist/fonts/map/pdftex/updmap/pdftex_ndl14.map

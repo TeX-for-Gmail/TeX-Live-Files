@@ -1,0 +1,20 @@
+name method
+category Package
+revision 17485
+shortdesc Typeset method and variable declarations
+longdesc The package supports typesetting of programming language method
+longdesc and variable declarations. It supports declarations in German,
+longdesc French and English.
+containersize 2792
+containerchecksum 9b71ed52073f831431ef6a3a81afe7efac97a6dd39d772b8f48cfa639dfec01411a5654830fcbaef6a3bef7aeb718bbbc38cbd18c592a080e67175dabc7e9919
+doccontainersize 339016
+doccontainerchecksum 2a211d1325322bfaf57c81a534f29fde51ef2e0dad8d7697c3af9fe10745c5f6245bb689b65d54c39a66b34ccec69d055f201aba34b2a4957ce2fea0827eab45
+srccontainersize 7108
+srccontainerchecksum ba90537e63493073509e9407aeecb28797370d75aada1835d5fbbbf991ea9b933226950765b61ab831a708d5fddc10c2fccd624d2872148bb77759a3595cd275
+runfiles size=3
+ texmf-dist/tex/latex/method/method.sty
+catalogue-ctan /macros/latex/contrib/method
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics listing
+catalogue-version 2.0b

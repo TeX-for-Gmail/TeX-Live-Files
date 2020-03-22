@@ -1,0 +1,23 @@
+name datetime2-swedish
+category Package
+revision 36700
+shortdesc Swedish language module for the datetime2 package
+longdesc This module provides the "swedish" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2564
+containerchecksum b904b21b593e529ffb714f3762ca5b8de37e87fe25df593873defa43de3995d1c72b0500217182728eaee6030cacaca969376a5623bc0baf48fe33aafafc0a66
+doccontainersize 83536
+doccontainerchecksum 7d6f2468aaa20da4e086201c0ffa6e6ae031e2a23db7fcccbb9ee8776c59b56a51cda9a03dfcce9fbf81b618f2e7543272f4ae88871f2b5380d1b98ff89e451f
+srccontainersize 4812
+srccontainerchecksum bcdb2b0eb40b7acad86b37e215cf4bd3c5376cad8fbd10d7f1af32a5983243aa28d950116d40abf4ae10bd28e32c10022297b77ca40daeab15b6f88ed33758d0
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-swedish/datetime2-swedish-ascii.ldf
+ texmf-dist/tex/latex/datetime2-swedish/datetime2-swedish-utf8.ldf
+ texmf-dist/tex/latex/datetime2-swedish/datetime2-swedish.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-swedish
+catalogue-date 2018-01-07 11:39:41 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.0

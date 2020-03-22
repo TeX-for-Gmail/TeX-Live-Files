@@ -1,0 +1,27 @@
+name hyphen-dutch
+category TLCore
+revision 50792
+catalogue nehyph
+shortdesc Dutch hyphenation patterns.
+longdesc Hyphenation patterns for Dutch in T1/EC and UTF-8 encodings.
+longdesc These patterns don't handle cases like 'menuutje' > 'menu-tje',
+longdesc and don't hyphenate words that have different hyphenations
+longdesc according to their meaning.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=dutch 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-nl.tex 	file_patterns=hyph-nl.pat.txt 	file_exceptions=hyph-nl.hyp.txt
+containersize 38176
+containerchecksum 59208104882c6090d38ec7b3e6e4d43a11190cc3deb1e17709d6a64990f4e70ebb17eacc045dbceebb85dde6bccd19a1f6952cfb3fb0b4975f13ab630df1defd
+runfiles size=68
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-nl.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-nl.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-nl.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nl.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nl.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nl.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nl.pat.txt
+catalogue-ctan /language/hyphenation/nehyph.tex
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics hyphenation dutch
+catalogue-version 1.1

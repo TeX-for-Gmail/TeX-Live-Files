@@ -1,0 +1,18 @@
+name mla-paper
+category Package
+revision 20885
+shortdesc Proper MLA formatting
+longdesc The package formats articles using the MLA style. The aim is
+longdesc that students and other academics in the humanities should be
+longdesc able to typeset their materials, properly, with minimal effort
+longdesc on their part.
+containersize 2300
+containerchecksum 01e6bcd07d5dc7ead0ddb4f5d8ad537738bf0b863d2b43f04f0136a33627941b377e53d29808cd284dee3601bc7839c3f0697178ca586578207f9efb60a6f70c
+doccontainersize 2004
+doccontainerchecksum 1367bb1bc5dd62faa89294141b74c7d2c9f5fd0acbfc37285421f9ff514ab67201de9c6a9070c5aeec396f0923afc8e10c5ec307fe89ad016ac167f33247154e
+runfiles size=2
+ texmf-dist/tex/latex/mla-paper/mla.sty
+catalogue-ctan /macros/latex/contrib/mla-paper
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics gen-paper

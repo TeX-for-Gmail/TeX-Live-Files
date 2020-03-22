@@ -1,0 +1,24 @@
+name kotex-utils
+category Package
+revision 38727
+shortdesc Utility scripts and support files for typesetting Korean
+longdesc The bundle provides scripts and support files for index
+longdesc generation in Korean language typesetting. The files belong to
+longdesc the ko.TeX bundle.
+depend kotex-utf
+depend kotex-utils.ARCH
+containersize 30480
+containerchecksum 569e9677ef0f346e5a53f4cc84302a8ddf2b4ad85708f4ab8ba7d076ebf339ec60998a41fa92fa815167e9bfc37085ebfd921dd13a60b017a0574e4a5d205802
+doccontainersize 45472
+doccontainerchecksum a46c5d09d119fa2fe8b9acea87a37776536e3216b776af6b7037fc5b0a522af5c1a58baf081e60f06c9a4054e8ac2372458c276c779038a030dc92efdfa3aef6
+runfiles size=75
+ texmf-dist/makeindex/kotex-utils/kotex.ist
+ texmf-dist/makeindex/kotex-utils/memucs-manual.ist
+ texmf-dist/scripts/kotex-utils/jamo-normalize.pl
+ texmf-dist/scripts/kotex-utils/komkindex.pl
+ texmf-dist/scripts/kotex-utils/ttf2kotexfont.pl
+catalogue-ctan /language/korean/kotex-utils
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics korean index
+catalogue-version 2.1.0

@@ -1,0 +1,23 @@
+name cals
+category Package
+revision 43003
+shortdesc Multipage tables with wide range of features
+longdesc The package is a set of macros to typeset multipage tables with
+longdesc repeatable headers and footers, with cells spanned over rows
+longdesc and columns. Decorations are supported: padding, background
+longdesc color, width of separation rules. The code is compatible with
+longdesc multicol and bidi.
+containersize 5096
+containerchecksum 75321e774560d7a205a7bf6b7d2d512c6aa9b5f38f6116813ff43ebd4d1fed23ebe26c235b278ee5723062e49630fc5f9480dccbe5bdfa44f5168f18657ddadc
+doccontainersize 486132
+doccontainerchecksum 15accc06e3de07dc535078300efbffe305d8e26a3aa0e81304de37090500210932f08c24454d0bcb5d93ced903832891b6f987525eb64d04b1a7bfe577071153
+srccontainersize 18716
+srccontainerchecksum 59a99cfdb7923d0e9edfa656f53825194b3c1ad0cc554e28ce792783d3196b525a9e7dc0e5ef8dd824e4d35b39a71946c579978520c7fb87de24f1e8b91c1253
+runfiles size=6
+ texmf-dist/tex/latex/cals/cals.sty
+catalogue-also longtable supertabular
+catalogue-ctan /macros/latex/contrib/cals
+catalogue-date 2017-01-20 11:13:03 +0100
+catalogue-license lppl1.3
+catalogue-topics table table-long
+catalogue-version 2.4.2

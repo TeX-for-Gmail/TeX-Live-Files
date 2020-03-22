@@ -1,0 +1,18 @@
+name biblatex-nature
+category Package
+revision 48940
+shortdesc BibLaTeX support for Nature
+longdesc The bundle offers styles that allow authors to use BibLaTeX
+longdesc when preparing papers for submission to the journal Nature.
+containersize 3272
+containerchecksum 265427460a57fa3cba846b3e7dd4fddf9639c11e223cba5e7f47da5b18ed1d348a70c29204378ab560f2eeacfdb12257c25482a1c3d9836f9025d0ddf987b511
+doccontainersize 385628
+doccontainerchecksum 9053472af9e07e4c297ce0650c7d9d20b85dfe22645652a9be49e950bc9718160433e6ffa01e5d0dec04a036425e31d4b7e6c31de9fc7553a730720fe54eb36a
+runfiles size=6
+ texmf-dist/tex/latex/biblatex-nature/nature.bbx
+ texmf-dist/tex/latex/biblatex-nature/nature.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-nature
+catalogue-date 2018-10-19 10:44:44 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex journalpub
+catalogue-version 1.3c

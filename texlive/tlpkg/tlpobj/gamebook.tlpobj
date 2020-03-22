@@ -1,0 +1,20 @@
+name gamebook
+category Package
+revision 24714
+shortdesc Typeset gamebooks and other interactive novels
+longdesc This package provides the means in order to lay-out gamebooks
+longdesc with LaTeX. A simple gamebook example is included with the
+longdesc package, and acts as a tutorial.
+containersize 1696
+containerchecksum 4af22bc285bac3f368778dae5c91cf6a1999748a6dfa5fba96e166ed320e124c33f2b6d6bee16ad8d00d0f8067b24bb3567a1aba849b74a6b02fed3bb85dbc0a
+doccontainersize 219896
+doccontainerchecksum 58493c9b39343846913263f53b3bfe0fd89e4adb4154580d1bb0ff5d32b5b91ddc75511a0241fa3b98faef8b2d9d7c1846aca486e0c7262f8b3ea7a6bfddc619
+srccontainersize 4640
+srccontainerchecksum 793f5cb23ef53b3d24d10ac5d52cf1e8bf90438571e23b5171c778ac720fb2c52a03a90e1f83f353df0b5410e94b5551d0855284df72c34a0f212842a3f96c41
+runfiles size=1
+ texmf-dist/tex/latex/gamebook/gamebook.sty
+catalogue-ctan /macros/latex/contrib/gamebook
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics games
+catalogue-version 1.0

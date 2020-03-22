@@ -1,0 +1,22 @@
+name luacode
+category Package
+revision 25193
+shortdesc Helper for executing lua code from within TeX
+longdesc Executing Lua code from within TeX with directlua can sometimes
+longdesc be tricky: there is no easy way to use the percent character,
+longdesc counting backslashes may be hard, and Lua comments don't work
+longdesc the way you expect. The package provides the \luaexec command
+longdesc and the luacode(*) environments to help with these problems.
+containersize 2188
+containerchecksum b107c9cf774608782c1ba1ce3ebea8d330ff9762046eaa9b9de112b704df1d0da1bd7e33b15e9d847f232b7594d53fb2678cdb78b23d87aaac73cc2517ac8e1e
+doccontainersize 412328
+doccontainerchecksum 622a2417490fb818d5021bb519ea7ac8d886df5002534c4d269268ca4d2119ccc15b029111edb42d04a546e7a46a60bc8eaa6a0a108e9231cc49fc2141ed8ec7
+srccontainersize 9016
+srccontainerchecksum fe53aa46157e24f7f637584faa0c18de62ce3857d9841598f51e09a03354e9cd44bb8fc150e91d5b9ad6d1ca150a065fb1507847cc385ca67bf67679669d7ef0
+runfiles size=2
+ texmf-dist/tex/lualatex/luacode/luacode.sty
+catalogue-ctan /macros/luatex/latex/luacode
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics lua-supp luatex
+catalogue-version 1.2a

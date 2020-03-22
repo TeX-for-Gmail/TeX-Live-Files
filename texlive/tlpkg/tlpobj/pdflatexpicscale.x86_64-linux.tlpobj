@@ -1,0 +1,8 @@
+name pdflatexpicscale.x86_64-linux
+category Package
+revision 41779
+shortdesc x86_64-linux files of pdflatexpicscale
+containersize 348
+containerchecksum f4325f360b5a5541871d5b9365c8b9f74e5e6e6f696c0a81210d2861b46be59f28adbbe620319c6da2efac95871883a287734e4c04026622c84c64be753b35e0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pdflatexpicscale

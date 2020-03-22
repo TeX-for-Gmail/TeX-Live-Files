@@ -1,0 +1,24 @@
+name spverbatim
+category Package
+revision 15878
+shortdesc Allow line breaks within \verb and verbatim output
+longdesc LaTeX's \verb macro treats its argument as an unbreakable unit
+longdesc of text. This can lead to poor typesetting, especially when the
+longdesc argument is long. The spverbatim package provides an \spverb
+longdesc macro that is analogous to \verb and an spverbatim environment
+longdesc that is analogous to verbatim with the difference being that
+longdesc \spverb and spverbatim allow LaTeX to break lines at space
+longdesc characters.
+containersize 1196
+containerchecksum 0b26e941f77264ae2db7cdcf2c4459c26601f6079e0bad24a3ea0edbd22157c324bbf50426a794655dc1aee710092cd9b662bb401838186e42657fcef5c1121f
+doccontainersize 101460
+doccontainerchecksum 245825f18ae835b984eb6474b927a579f80b6c6feefbfe02a53f8b7ea5a48023e1bdb43b39f090afe4ae42937d053cbebfec6ff97d7732d754287401a95fc641
+srccontainersize 3612
+srccontainerchecksum 23f8eb04b0debee1c9babc4ee6720740a4e64a28969365c27c96113cd777e0565b19d8f6db233470cc600733b1831463881d86eaf4b4119cf60bd3fbbf3d0597
+runfiles size=1
+ texmf-dist/tex/latex/spverbatim/spverbatim.sty
+catalogue-ctan /macros/latex/contrib/spverbatim
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics verbatim
+catalogue-version 1.0

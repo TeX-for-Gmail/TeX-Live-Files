@@ -1,0 +1,30 @@
+name notes
+category Package
+revision 42428
+shortdesc Mark sections of a document
+longdesc The package provides environments to highlight significant
+longdesc portions of text within a document, by putting the text in a
+longdesc box and adding an icon in the margin. (The icons are provided
+longdesc as 'fig' sources, processable by xfig.)
+containersize 6912
+containerchecksum 7b569f27ec34c103c5808036a6ffd7f97f9171287883f38c048b8eabbd979559fbf15b20c7002dc9b8b0577889482c4347e4986e076079809a4a5656aed46101
+doccontainersize 75084
+doccontainerchecksum 4e66790b76290925f49ab7f56175e2d41a20e715c43518edbae39e444d02b945ec05ca918574f52fbb6ca10fbbb060242c688fb9344094df2e025de83272322b
+srccontainersize 5768
+srccontainerchecksum f5405540929d6d99471bac43d89b01ed7ba59bdb8f1e7d978dc9a43a563e6b16c9cc4645d291054308f06b3d4df10547e09a72081c210063d37810da511dcac1
+runfiles size=11
+ texmf-dist/tex/latex/notes/hand.eps
+ texmf-dist/tex/latex/notes/hand.pdf
+ texmf-dist/tex/latex/notes/hand.png
+ texmf-dist/tex/latex/notes/info.eps
+ texmf-dist/tex/latex/notes/info.pdf
+ texmf-dist/tex/latex/notes/info.png
+ texmf-dist/tex/latex/notes/notes.sty
+ texmf-dist/tex/latex/notes/warn.eps
+ texmf-dist/tex/latex/notes/warn.pdf
+ texmf-dist/tex/latex/notes/warn.png
+catalogue-ctan /macros/latex/contrib/notes
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics decoration
+catalogue-version 1.0.1

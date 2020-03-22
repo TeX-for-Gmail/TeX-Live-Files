@@ -1,0 +1,16 @@
+name romanneg
+category Package
+revision 20087
+shortdesc Roman page numbers negative
+longdesc Causes the page numbers in the DVI file (as defined by \count0)
+longdesc to be negative when roman pagenumbering is in effect.
+containersize 1208
+containerchecksum 4195303ca32b46d722bb148ce4079bbea7cec08fc74a7b0cb6232dcce517b7b5a10753be22fbaab62ec11d894955e1368f3a6dc2a2474cf9b9450e035bb73c11
+doccontainersize 184164
+doccontainerchecksum cd583b94911ed57e6c61689d437fb4a55a868813fad5791dfa7231b4cbd8b7d22cf4e6f3fe90e2cd36eb08202f4058abf93b5df2d74e1841070378dc9c31db64
+runfiles size=1
+ texmf-dist/tex/latex/romanneg/romanneg.sty
+catalogue-ctan /macros/latex/contrib/romanneg
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics page-nos

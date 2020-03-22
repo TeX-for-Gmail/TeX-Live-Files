@@ -1,0 +1,16 @@
+name geometry-de
+category Package
+revision 21882
+shortdesc German translation of the geometry package
+longdesc German translation of the geometry package, by Hans-Martin
+longdesc Haase of the University of Jena.
+containersize 436
+containerchecksum 462a81975ad340106b5e35d6d57e6102d31baf494b203426bb8783ca82b7f02e0656ccda608d558e91693a771e14ceaa02094f365328296b721147eab83fdd3f
+doccontainersize 443132
+doccontainerchecksum afcbc17a2cf01ec949cc2ad427335f092f65b3187a7a0225971a9ebe53402b19629767dcc3b1935f7d019cd1dcaa72b46931efccfcd2aa61c4fbffce2034e4dd
+catalogue-also geometry vmargin typearea
+catalogue-ctan /macros/latex/contrib/geometry-de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics geometry german-doc translation
+catalogue-version 1.1

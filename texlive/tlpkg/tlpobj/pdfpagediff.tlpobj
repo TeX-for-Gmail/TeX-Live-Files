@@ -1,0 +1,16 @@
+name pdfpagediff
+category Package
+revision 37946
+shortdesc Find difference between two PDF's
+longdesc Find difference between two PDF's
+containersize 2924
+containerchecksum ce28e8160b14d0833b57445392237dceab536108a9d96942dcc0adf5305c149ba08269d697ab8508d8ba05dbc59dd972dd242cf7c4cd12e3d3e857eb885e5277
+doccontainersize 740816
+doccontainerchecksum dbdfc61b7f7bcafa597e439085f9624a48b734b2adbf53dd58ba6186b3597180b7ad3fc757acbd07c6466276a9e865bc154245e84d28b1e291004cdde64f55ea
+runfiles size=2
+ texmf-dist/tex/latex/pdfpagediff/pdfpagediff.sty
+catalogue-ctan /macros/latex/contrib/pdfpagediff
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics pdf-view pdfprocess
+catalogue-version 1.4

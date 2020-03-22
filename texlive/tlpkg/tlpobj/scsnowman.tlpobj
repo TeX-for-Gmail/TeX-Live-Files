@@ -1,0 +1,21 @@
+name scsnowman
+category Package
+revision 47953
+shortdesc Snowman variants using TikZ
+longdesc This LaTeX package provides a command \scsnowman which can
+longdesc display many variants of "snowman" ("yukidaruma" in Japanese).
+longdesc TikZ is required for drawing these snowmen.
+containersize 6136
+containerchecksum 87f207b478799ed88deaed71b60bced2158d6bf4406e6cbbd533f9110004cb8ceec71ded31d3706d8033bc53b1f0f31cb25877af9c58d27a5f350ab79572328b
+doccontainersize 480336
+doccontainerchecksum 5050ca6200a7531bfbc31dfd9f06d4b6503e832fc09a7132ec76a5ebc09bb0fe4743ef09740ff9646d4fe93a31ee9fcdef6091fc5c50e379c86d529d5df51f25
+runfiles size=9
+ texmf-dist/tex/latex/scsnowman/scsnowman-normal.def
+ texmf-dist/tex/latex/scsnowman/scsnowman.sty
+ texmf-dist/tex/latex/scsnowman/sctkzsym-base.sty
+catalogue-contact-repository https://github.com/aminophen/scsnowman
+catalogue-ctan /graphics/pgf/contrib/scsnowman
+catalogue-date 2018-06-07 18:24:21 +0200
+catalogue-license bsd2
+catalogue-topics pgf-tikz
+catalogue-version 1.2d

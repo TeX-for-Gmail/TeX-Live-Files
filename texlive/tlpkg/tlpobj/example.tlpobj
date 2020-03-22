@@ -1,0 +1,16 @@
+name example
+category Package
+revision 33398
+shortdesc Typeset examples for TeX courses
+longdesc The package makes it easier to produce examples for TeX course.
+longdesc It provides an example environment, which typesets its contents
+longdesc on the left of the page, and prints it verbatim on the right.
+containersize 5516
+containerchecksum 2f790c1bb8934e1127ba64c61ccf0d9ed503c01cb8975c114257a2179db7d88b4c969475b0e357d17785fcf7e42487e991e176df3dd7a1be5db4cdf87abb9cad
+runfiles size=4
+ texmf-dist/tex/latex/example/example.sty
+catalogue-also examplep
+catalogue-ctan /macros/latex209/contrib/misc/example.sty
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl
+catalogue-topics listing

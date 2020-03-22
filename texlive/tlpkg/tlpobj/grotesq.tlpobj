@@ -1,0 +1,41 @@
+name grotesq
+category Package
+revision 35859
+catalogue urw-grotesq
+shortdesc URW Grotesq font pack for LaTeX
+longdesc The directory contains a copy of the Type 1 font "URW Grotesq
+longdesc 2031 Bold' released under the GPL by URW, with supporting files
+longdesc for use with (La)TeX.
+execute addMap ugq.map
+containersize 47696
+containerchecksum 30d0d52c98f44945ed40f45f1e73ed60e6b98a8a74dbf57cdae5c2d400ef613f8bed2b89b3b6afbf7b98e449738f637911dc1becf0c0dd33c21a23ecac9a9767
+doccontainersize 2796
+doccontainerchecksum d41ae946f315d87b483a03d8b5a1034706f5bda765c69fa692f117b79bd5046b409e42c7b17577ee086ec98795e8a93acd761e30815c6083520b4bd244c33cd5
+runfiles size=44
+ texmf-dist/fonts/afm/urw/grotesq/ugqb8a.afm
+ texmf-dist/fonts/afm/urw/grotesq/ugqb8a.afm.org
+ texmf-dist/fonts/map/dvips/grotesq/ugq.map
+ texmf-dist/fonts/tfm/urw/grotesq/ugqb7t.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqb8a.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqb8c.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqb8r.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqb8t.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqbo7t.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqbo8c.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqbo8r.tfm
+ texmf-dist/fonts/tfm/urw/grotesq/ugqbo8t.tfm
+ texmf-dist/fonts/type1/urw/grotesq/ugqb8a.pfb
+ texmf-dist/fonts/type1/urw/grotesq/ugqb8a.pfm
+ texmf-dist/fonts/vf/urw/grotesq/ugqb7t.vf
+ texmf-dist/fonts/vf/urw/grotesq/ugqb8c.vf
+ texmf-dist/fonts/vf/urw/grotesq/ugqb8t.vf
+ texmf-dist/fonts/vf/urw/grotesq/ugqbo7t.vf
+ texmf-dist/fonts/vf/urw/grotesq/ugqbo8c.vf
+ texmf-dist/fonts/vf/urw/grotesq/ugqbo8t.vf
+ texmf-dist/tex/latex/grotesq/ot1ugq.fd
+ texmf-dist/tex/latex/grotesq/t1ugq.fd
+ texmf-dist/tex/latex/grotesq/ts1ugq.fd
+catalogue-ctan /fonts/urw/grotesq
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-sans font-type1

@@ -1,0 +1,20 @@
+name biblatex-nejm
+category Package
+revision 49839
+shortdesc BibLaTeX style for the New England Journal of Medicine (NEJM)
+longdesc This is a BibLaTeX numeric style based on the design of the New
+longdesc England Journal of Medicine (NEJM).
+containersize 2036
+containerchecksum 97443b036769ffe3487cefa6cb5647eadfb8cdb20db0f6607028298b196a0df1ddf1fdee85e3f163a138da47f28019ab32147f65a5f7cb23b46596c96a772799
+doccontainersize 156060
+doccontainerchecksum bfcf854e7545237dab17bfe3cd2045a1914397a02e5fa31bde2bce8c0e44c474fe0389e2cb8cd59516f4db9a3b538524f8321723a49c41233de637075bb41720
+srccontainersize 508
+srccontainerchecksum 7a2cd3e8205c9b081e9a9601240dffd3943eef31cab5339de92be61fd023f3889958292ba8698760e8d8e6cf196f306b76e34c677d6aa2074271d11cbd78f799
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-nejm/nejm.bbx
+ texmf-dist/tex/latex/biblatex-nejm/nejm.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-nejm
+catalogue-date 2019-01-22 06:24:59 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 0.5.0

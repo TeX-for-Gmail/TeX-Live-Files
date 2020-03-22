@@ -1,0 +1,21 @@
+name selectp
+category Package
+revision 20185
+shortdesc Select pages to be output
+longdesc Defines a command \outputonly, whose argument is a list of
+longdesc pages to be output. With the command present (before
+longdesc \begin{document}), only those pages are output. This package
+longdesc was inspired by code published by Knuth in TUGboat 8(2) (July
+longdesc 1987).
+containersize 4196
+containerchecksum 1674c9c9d7afbc851f8c4fad1b46a1ec18161eb48375d892c947416ee97791addf92f75a69090c95a0f08bbaac1a7a745af93a7bcf91e2e0f8117ed3f3106dc9
+doccontainersize 280200
+doccontainerchecksum 7c99f0400841cb1d88af4c239f43eaec7c0b2358c2e581866d4361cd86b9eff413bc9e07d8df630ddff8d4f37193896bd430f4c357d9cc04591295f18ebd09aa
+runfiles size=3
+ texmf-dist/tex/latex/selectp/selectp.sty
+catalogue-also selectpage pagesel
+catalogue-ctan /macros/latex/contrib/selectp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics page-control
+catalogue-version 1.0

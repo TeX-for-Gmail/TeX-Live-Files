@@ -1,0 +1,24 @@
+name newunicodechar
+category Package
+revision 47382
+shortdesc Definitions of the meaning of Unicode characters
+longdesc The package provides a friendly interface for defining the
+longdesc meaning of Unicode characters. The document should be processed
+longdesc by (pdf)LaTeX with the unicode option of inputenc or inputenx,
+longdesc or by XeLaTeX/LuaLaTeX. The command provided is
+longdesc \newunicodechar{<char>}{<code>} where <char> is a
+longdesc directly-typed Unicode character, and <code> is its
+longdesc replacement.
+containersize 2116
+containerchecksum 8e1748abc585f51033a857db126c4b18f0c42e015d7193f8bc7b69493fb13a218db38da97f3a6733df01dbc247093beb544651a050c5a690f3cd5479c4ad9e6a
+doccontainersize 389624
+doccontainerchecksum 9ec3bdc81587e8b2553dd4ff45ca4ba0bb504ded0726aa44d1e88423cdf425124334d04ebfbdbbe57b576b0fa52cfe1771c97308f146ea19d89d41eb4475eb9e
+srccontainersize 6964
+srccontainerchecksum 0464584e516c8f5d9c7ab4db114fbe3ea9e07d33c1544109ebd0d3b25e4e3ddac222dd69b6a8222e290ae2b6a7d7166a76b54ff9fbe7ffd5225368986e2af6d4
+runfiles size=2
+ texmf-dist/tex/latex/newunicodechar/newunicodechar.sty
+catalogue-ctan /macros/latex/contrib/newunicodechar
+catalogue-date 2018-04-08 14:20:27 +0200
+catalogue-license lppl1.3c
+catalogue-topics inputenc unicode
+catalogue-version 1.2

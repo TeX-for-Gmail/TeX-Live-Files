@@ -1,0 +1,19 @@
+name showdim
+category Package
+revision 28918
+shortdesc Variants on printing dimensions
+longdesc A package for LaTeX providing a number of commands for printing
+longdesc the value of a TeX dimension. For example,
+longdesc \tenthpt{\baselineskip} yields the current value of
+longdesc \baselineskip rounded to the nearest tenth of a point.
+containersize 1652
+containerchecksum 07c409f3d30def6894a787d9c2f7366abf6ee4248386e9d5b2e4f7858d692c7cd3e72871ff02c73a39a190ac36ccbaf5fe16e8e1b7b328be80a9ba041d12feb7
+doccontainersize 928
+doccontainerchecksum ba76568009149bec7484b4dbe7bede8e516a2c2ad20c77c70f0357e865c66751aa4f3d8c92c59effa1ac12e03b3b8c500c65708547ddf52458b0ce90def8fc98
+runfiles size=1
+ texmf-dist/tex/latex/showdim/showdim.sty
+catalogue-ctan /macros/latex/contrib/showdim/showdim.sty
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics debug-supp
+catalogue-version 1.2

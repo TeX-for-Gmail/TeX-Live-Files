@@ -1,0 +1,28 @@
+name a2ping
+category TLCore
+revision 49161
+shortdesc Advanced PS, PDF, EPS converter
+longdesc a2ping is a Perl script command line utility written for Unix
+longdesc that converts many raster image and vector graphics formats to
+longdesc EPS or PDF and other page description formats. Accepted input
+longdesc file formats are: PS (PostScript), EPS, PDF, PNG, JPEG, TIFF,
+longdesc PNM, BMP, GIF, LBM, XPM, PCX, TGA. Accepted output formats are:
+longdesc EPS, PCL5, PDF, PDF1, PBM, PGM, PPM, PS, markedEPS, markedPS,
+longdesc PNG, XWD, BMP, TIFF, JPEG, GIF, XPM. a2ping delegates the
+longdesc low-level work to Ghostscript (GS), pdftops and sam2p. a2ping
+longdesc fixes many glitches during the EPS to EPS conversion, so its
+longdesc output is often more compatible and better embeddable than its
+longdesc input.
+depend a2ping.ARCH
+containersize 30616
+containerchecksum 983084ca3d70eff729d81d5d52a74e1bf1f95e384916bc81d17be81290f70c1da5ac891c1665a2451975f36fd56ea0036e1d0dc46b2e98b61ddc660ac044c23c
+doccontainersize 39740
+doccontainerchecksum daeefb01a0197e3b7751614cb84e2926f670d36b7e8a389bfbbe39cbd941c4d10ef5112593bfb88e11fa15f7f7bb07f2538c7d0a68cefe1482bbdaf02d475512
+runfiles size=25
+ texmf-dist/scripts/a2ping/a2ping.pl
+catalogue-contact-repository https://github.com/pts/a2ping
+catalogue-ctan /graphics/a2ping
+catalogue-date 2018-03-10 05:45:42 +0100
+catalogue-license gpl
+catalogue-topics graphics-prep
+catalogue-version 2.83p

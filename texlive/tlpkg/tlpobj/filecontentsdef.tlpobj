@@ -1,0 +1,29 @@
+name filecontentsdef
+category Package
+revision 42107
+shortdesc filecontents + macro + verbatim
+longdesc The package provides two environments called filecontentsdef
+longdesc and filecontentshere. They are derived from the LaTeX
+longdesc filecontents environment as provided by Scott Pakin's
+longdesc filecontents package. In addition to the file creation they
+longdesc either store the (verbatim) contents in a macro
+longdesc (filecontentsdef) or typeset them (verbatim) on the spot
+longdesc (filecontentshere). The author developed the package to display
+longdesc TeX code verbatim in documentation and the same time produce
+longdesc the corresponding files during the LaTeX run in order to embed
+longdesc them in the PDF as file attachment annotations (by using Scott
+longdesc Pakin's package attachfile).
+containersize 2180
+containerchecksum 31e1274a39ab665259e6e06c0dd10c88dae547d6e7c17b68711a75d1a42fb8050fbf40f152d80c5670e55b27a94c3b8f2f344951d4b9ffea0b4bdc56422c6b13
+doccontainersize 73160
+doccontainerchecksum 3ec7cf9fcb59c7650c673c7bdce26270f6cb95b38ca4e3dc8bd0575c433ef32cbade03e90a87f9d1b18d2fabfa9e2d8513d33574f7738894e7b237f51836a333
+srccontainersize 9832
+srccontainerchecksum 4a70fa5c4295b7635923b9b0fce87484624139b70e31f000e720c049dc980064ab41561eb7e95306321bff60b3e136bee972dc1884d41b9bc0db714b6d5a75f7
+runfiles size=2
+ texmf-dist/tex/latex/filecontentsdef/filecontentsdef.sty
+catalogue-also filecontents
+catalogue-ctan /macros/latex/contrib/filecontentsdef
+catalogue-date 2016-09-23 11:17:19 +0200
+catalogue-license lppl1.3
+catalogue-topics file-mgmt
+catalogue-version 1.2

@@ -1,0 +1,81 @@
+name libris
+category Package
+revision 19409
+shortdesc Libris ADF fonts, with LaTeX support
+longdesc LibrisADF is a sans-serif family designed to mimic Lydian. The
+longdesc bundle includes: fonts, in Adobe Type 1, TrueType and OpenType
+longdesc formats, and LaTeX support macros, for use with the Type 1
+longdesc versions of the fonts. The LaTeX macros depend on the
+longdesc nfssext-cfr bundle. GPL licensing applies the fonts themselves;
+longdesc the support macros are distributed under LPPL licensing.
+execute addMap yly.map
+containersize 239832
+containerchecksum 1a754d896846d0db358cf4f878928dcb511d76a7de6e7dfabee71970908e3ed7caab98f854695318ead334e052282b690712069597f42505b00c41e328ad141d
+doccontainersize 502560
+doccontainerchecksum 04378b8461d6ea0284f038974fed6ae6fc48fc362f63dfb8b8d57a81a721da7bf17ca3aeabb198c373a68a4c8e5516b66f12c240e081dabcf1b9c79fd2d2b388
+srccontainersize 10060
+srccontainerchecksum 8ccb8a6beb30c508d582dc905136cc8b1b053a8d71a7701bdeccb0ff1eecfa69e32d7167b871d4e38eb0c98ef49c8ee9a00a9ea3bbc30e51c8a81d903ac147ff
+runfiles size=169
+ texmf-dist/fonts/afm/arkandis/libris/ylyb8a.afm
+ texmf-dist/fonts/afm/arkandis/libris/ylybi8a.afm
+ texmf-dist/fonts/afm/arkandis/libris/ylyr8a.afm
+ texmf-dist/fonts/afm/arkandis/libris/ylyri8a.afm
+ texmf-dist/fonts/enc/dvips/libris/libris-supp.enc
+ texmf-dist/fonts/enc/dvips/libris/t1-cfr-yly.enc
+ texmf-dist/fonts/enc/dvips/libris/ts1-euro-yly.enc
+ texmf-dist/fonts/map/dvips/libris/yly.map
+ texmf-dist/fonts/tfm/arkandis/libris/ylyb-t1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyb-ts1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyb8c.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyb8s.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyb8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybi-t1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybi-ts1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybi8c.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybi8s.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybi8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybiw8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylybw8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyr-t1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyr-ts1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyr8c.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyr8s.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyr8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyri-t1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyri-ts1.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyri8c.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyri8s.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyri8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyriw8t.tfm
+ texmf-dist/fonts/tfm/arkandis/libris/ylyrw8t.tfm
+ texmf-dist/fonts/type1/arkandis/libris/ylyb8a.pfb
+ texmf-dist/fonts/type1/arkandis/libris/ylyb8a.pfm
+ texmf-dist/fonts/type1/arkandis/libris/ylybi8a.pfb
+ texmf-dist/fonts/type1/arkandis/libris/ylybi8a.pfm
+ texmf-dist/fonts/type1/arkandis/libris/ylyr8a.pfb
+ texmf-dist/fonts/type1/arkandis/libris/ylyr8a.pfm
+ texmf-dist/fonts/type1/arkandis/libris/ylyri8a.pfb
+ texmf-dist/fonts/type1/arkandis/libris/ylyri8a.pfm
+ texmf-dist/fonts/vf/arkandis/libris/ylyb8c.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyb8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylybi8c.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylybi8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylybiw8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylybw8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyr8c.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyr8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyri8c.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyri8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyriw8t.vf
+ texmf-dist/fonts/vf/arkandis/libris/ylyrw8t.vf
+ texmf-dist/tex/latex/libris/libris.sty
+ texmf-dist/tex/latex/libris/t1yly.fd
+ texmf-dist/tex/latex/libris/t1ylyw.fd
+ texmf-dist/tex/latex/libris/ts1yly.fd
+ texmf-dist/tex/latex/libris/ts1ylyw.fd
+catalogue-contact-home http://arkandis.tuxfamily.org/tugfonts.htm
+catalogue-ctan /fonts/libris
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics font font-type1 font-supp
+catalogue-version 1.007

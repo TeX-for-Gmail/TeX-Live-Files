@@ -1,0 +1,7 @@
+page p1 easy
+page p2 easy
+startpuzzles
+typesetpage p1
+typesetpage p2
+startsolutions
+typesetsolpage p1 p2 last

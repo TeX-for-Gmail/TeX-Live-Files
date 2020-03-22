@@ -1,0 +1,20 @@
+name sidecap
+category Package
+revision 15878
+shortdesc Typeset captions sideways
+longdesc Defines environments called SCfigure and SCtable (analogous to
+longdesc figure and table) to typeset captions sideways. Options include
+longdesc outercaption, innercaption, leftcaption and rightcaption.
+containersize 3448
+containerchecksum c0b775c16ea9acc7de952c6d08d49f57ac4517d5a78e822255176ee1f570c17d584b34821a255ec10e7fbb9334fc7904147bc4d613ad4db9553a3917f737b924
+doccontainersize 151364
+doccontainerchecksum 5bee3d448386a2bd508dcae495c6fb83806542680db7c5fe8cf35ea09a955df01e5c01fa64c28b64f0bb9a3dc0411fc68a835e1b0ae9d46c1387f544538d26de
+srccontainersize 8216
+srccontainerchecksum b69fcf81ba9d05c20c64b7d71369ff25a0cc8185c914935cc986635ccf1ca9ce709cbe2f12f5e671a5b946f121950b3f6c6edb9d28e736959c5ccdf7fdbea405
+runfiles size=3
+ texmf-dist/tex/latex/sidecap/sidecap.sty
+catalogue-ctan /macros/latex/contrib/sidecap
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics caption rotation
+catalogue-version 1.6f

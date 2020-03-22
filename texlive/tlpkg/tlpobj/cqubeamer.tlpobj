@@ -1,0 +1,23 @@
+name cqubeamer
+category Package
+revision 47630
+shortdesc LaTeX Beamer Template for Chongqing University
+longdesc This package provides a LaTeX beamer template designed for
+longdesc researchers of Chongqing University. It can be used for
+longdesc academic reports, conferences, or thesis defense, and can be
+longdesc helpful for delivering a speech. It should be used with the
+longdesc XeTeX engine.
+containersize 3104
+containerchecksum 6dd13c29855533c100146e712431d64e4d55bfe9c49b2199a63f292933e6666c0fcd15e17e56b534e648a64b5117b8bf211a1f0f595d83db54e587977590a2ce
+doccontainersize 2510176
+doccontainerchecksum 38cbdd297bf4ff67d0404b75c497416eddaf18d4430ea49af8413ef504e8463a3127e3d42aa12f2920a12d13c03935d6aab5b036d398322428659918b5058444
+runfiles size=3
+ texmf-dist/tex/xelatex/cqubeamer/cqubeamer.sty
+catalogue-also cquthesis
+catalogue-contact-bugs https://github.com/CQUtug/CQUBeamer
+catalogue-contact-repository https://github.com/Godblesswz/CQUBeamerTemplate
+catalogue-ctan /macros/xetex/latex/cqubeamer
+catalogue-date 2018-05-12 04:59:36 +0200
+catalogue-license mitcc-by-4
+catalogue-topics presentation xetex doc-templ chinese
+catalogue-version 1.0

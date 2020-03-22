@@ -1,0 +1,8 @@
+name tex4ebook.x86_64-linux
+category Package
+revision 37771
+shortdesc x86_64-linux files of tex4ebook
+containersize 340
+containerchecksum 99a43ad76caf33d2ecc215bb8861edab835e642f5ad421c801908d0ec033f2a1560fe623b947b69860fd2b39d9b787289d50a33e5e909c3dc7ef44f135094454
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/tex4ebook

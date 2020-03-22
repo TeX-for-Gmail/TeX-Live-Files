@@ -1,0 +1,27 @@
+name fonttable
+category Package
+revision 44799
+shortdesc Print font tables from a LaTeX document
+longdesc This is a package version of nfssfont.tex (part of the LaTeX
+longdesc distribution); it enables you to print a table of the
+longdesc characters of a font and/or some text (for demonstration or
+longdesc testing purposes), from within a document. (Packages such as
+longdesc testfont and nfssfont.tex provide these facilities, but they
+longdesc run as interactive programs: the user is expected to type
+longdesc details of what is needed.) Note that the package mftinc also
+longdesc has a \fonttable function; the documentation explains how avoid
+longdesc a clash with that package.
+containersize 5752
+containerchecksum f8db43eedd7f9e43b0cfb8c37e2687321fe236daa4bee898141c305dd2e59fb40bf3e8b3cabde561c75fb65dd053de33e45b90a8ab9518b0b30aedf35f6af1f2
+doccontainersize 310452
+doccontainerchecksum 1d2b27ac253df62568087abb8f9e0f0054e3bb98cb62e65784192b281722e69e8565fa569eef4d061684e8965e0b05a0cd6dcbf7e632af7f68f97e8d4747426e
+srccontainersize 14348
+srccontainerchecksum 56210bc42e0716196bed05a35ef9ff7ffb40a17a8cfe8cef4d31e2c8ea28bfb75ee035bb887ca62387460cb7f99eb4f2b408cea767ce824124116caa6ae7d15e
+runfiles size=4
+ texmf-dist/tex/latex/fonttable/fonttable.sty
+catalogue-contact-repository https://github.com/wspr/herries-press
+catalogue-ctan /macros/latex/contrib/fonttable
+catalogue-date 2017-07-14 12:50:17 +0200
+catalogue-license lppl1.3c
+catalogue-topics font-devel
+catalogue-version 1.6c

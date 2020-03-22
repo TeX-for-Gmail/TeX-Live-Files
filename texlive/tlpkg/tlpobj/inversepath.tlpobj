@@ -1,0 +1,20 @@
+name inversepath
+category Package
+revision 15878
+shortdesc Calculate inverse file paths
+longdesc The package calculates inverse relative paths. Such things may
+longdesc be useful, for example, when writing an auxiliary file to a
+longdesc different directory.
+containersize 1420
+containerchecksum d0d95399067922172799d17cc9b9b4fa7a79cf2928630c63441114c479bc60e72b3e5133b54f8f7925cbf90f5b419c89e07699ecf8e8269b43f969e584698043
+doccontainersize 73972
+doccontainerchecksum a9dba77a8aa851a5e915e368c5090fc83fd894c22efedffce97ee0915b4ec50fa72efc30f377891b5efc0749c12018228ce400cd4024369cfb81ff3fe62567b8
+srccontainersize 4432
+srccontainerchecksum de5bfe7ac5967f4ab02dd0931c5799c6c68c5c7a57d8b6c40a205e76546d8a23a6ac6be292c6a1cd4c8475bbf0eb229b6d198eabc66a17b2ea4b0ffd0c798323
+runfiles size=1
+ texmf-dist/tex/latex/inversepath/inversepath.sty
+catalogue-ctan /macros/latex/contrib/inversepath
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.2

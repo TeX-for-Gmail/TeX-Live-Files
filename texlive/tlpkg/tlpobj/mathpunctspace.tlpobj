@@ -1,0 +1,18 @@
+name mathpunctspace
+category Package
+revision 46754
+shortdesc Control the space after punctuation in math expressions
+longdesc This package provides a mechanism to control the space after
+longdesc commas and semicolons in mathematical expressions.
+containersize 1356
+containerchecksum 81d1fa6ce0e96190516f2440517d554e259013869065a4242c55bcc06f2d9eab1f8102464da71fe72dd0d231248b637d54733b2a11b832d2153f151dc5513339
+doccontainersize 190188
+doccontainerchecksum ce318466af0c6690a905c92e9f24f9a7c2891c4afac7c51eead8ebf211bf13e2c20d368782ed41f20a2bb2d6f3a6cd6bf44eb6a0c848ff8006564ec98aeae2d7
+runfiles size=2
+ texmf-dist/tex/latex/mathpunctspace/mathpunctspace.sty
+catalogue-contact-repository https://github.com/yuw/texmf-mathpunctspace
+catalogue-ctan /macros/latex/contrib/mathpunctspace
+catalogue-date 2018-02-27 20:50:56 +0100
+catalogue-license bsd2
+catalogue-topics maths typesetting
+catalogue-version 1.1

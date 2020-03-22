@@ -1,0 +1,62 @@
+name wsuipa
+category Package
+revision 25469
+shortdesc International Phonetic Alphabet fonts
+longdesc The package provides a 7-bit IPA font, as Metafont source, and
+longdesc macros for support under TeXt1 and LaTeX. The fonts (and
+longdesc macros) are now largely superseded by the tipa fonts.
+containersize 36108
+containerchecksum 7488fab88bb273463ffa45819fb486aa3c95d7202d8ffe2a8aa8f2a1b00555e70bbc5a008a72cb60ddc1759dbca60bed05d2a21b4308e75490e965e71a84ee7f
+doccontainersize 76996
+doccontainerchecksum b24aa32e2e7b466d7afc827aed570deb70b41163cbe6ce975d8df77e9dcc92b453e5f0d5f0edd5a2f05c006939003849b7b44c2e3f8a86ffd61a51ff307466e5
+runfiles size=102
+ texmf-dist/fonts/source/public/wsuipa/iaccent.mf
+ texmf-dist/fonts/source/public/wsuipa/igreekl.mf
+ texmf-dist/fonts/source/public/wsuipa/iparoman.mf
+ texmf-dist/fonts/source/public/wsuipa/iromanl.mf
+ texmf-dist/fonts/source/public/wsuipa/iromanp.mf
+ texmf-dist/fonts/source/public/wsuipa/iromanu.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa10.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa11.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa12.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa17.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa8.mf
+ texmf-dist/fonts/source/public/wsuipa/wbxipa9.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa10.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa11.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa12.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa17.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa8.mf
+ texmf-dist/fonts/source/public/wsuipa/wslipa9.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa10.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa11.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa12.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa17.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa8.mf
+ texmf-dist/fonts/source/public/wsuipa/wsuipa9.mf
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa10.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa11.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa12.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa17.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa8.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wbxipa9.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa10.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa11.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa12.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa17.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa8.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wslipa9.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa10.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa11.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa12.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa17.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa8.tfm
+ texmf-dist/fonts/tfm/public/wsuipa/wsuipa9.tfm
+ texmf-dist/tex/latex/wsuipa/ipa.sty
+ texmf-dist/tex/latex/wsuipa/ipalmacs.sty
+ texmf-dist/tex/latex/wsuipa/uipa.fd
+catalogue-also wsuipa2tipa
+catalogue-ctan /fonts/wsuipa
+catalogue-date 2017-10-29 15:25:02 +0100
+catalogue-license other-free
+catalogue-topics font font-mf phonetic

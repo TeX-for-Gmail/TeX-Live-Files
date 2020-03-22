@@ -1,0 +1,30 @@
+name jslectureplanner
+category Package
+revision 49963
+shortdesc Creation and management of university course material
+longdesc The jslectureplanner package facilitates the generation and
+longdesc management of university course material. It provides an
+longdesc interface to set up and access centralized course data that can
+longdesc be reused in all course documents. Furthermore, the package is
+longdesc able to calculate the session dates of a whole semester and
+longdesc generate course programs, if the course is held weekly and the
+longdesc date of the first lecture is specified. Moreover, the package
+longdesc can be used to generate a sectioned course bibliography via
+longdesc BibLaTeX. The bundle also includes a package jsmembertable.sty
+longdesc that helps in generating course member and presence lists.
+containersize 11960
+containerchecksum a60f38383f72ab069fbed0de38fd139bfe2c446c0dbf566e3e78c842bacc27b0a49e0595e4764645018a73f57dde31c4f945e2ae77978827e35014a1d69aad57
+doccontainersize 1179020
+doccontainerchecksum f52f3c0212cdffbab4ebb12ac99a07e3f496774d89039fadcacd2d96d9f15fd508c7d7a759e440fc69a4b17aeb7b38781fe6a2566217bfbac6b59782e1e4ed0f
+runfiles size=21
+ texmf-dist/tex/latex/jslectureplanner/cologne.lps
+ texmf-dist/tex/latex/jslectureplanner/english.lps
+ texmf-dist/tex/latex/jslectureplanner/german-default.lps
+ texmf-dist/tex/latex/jslectureplanner/jslectureplanner.sty
+ texmf-dist/tex/latex/jslectureplanner/jsmembertable.sty
+catalogue-contact-repository https://github.com/jspitz/jslectureplanner
+catalogue-ctan /macros/latex/contrib/jslectureplanner
+catalogue-date 2019-02-09 05:50:04 +0100
+catalogue-license lppl1.3
+catalogue-topics teaching
+catalogue-version 1.8

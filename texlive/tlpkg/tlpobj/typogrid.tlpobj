@@ -1,0 +1,20 @@
+name typogrid
+category Package
+revision 24994
+shortdesc Print a typographic grid
+longdesc Draws a grid on every page of the document; the grid divides
+longdesc the page into columns, and may be used for fixing measurements
+longdesc of layout.
+containersize 1764
+containerchecksum 4ef0239ae626245b25e43819bc05da7d22d89d1e33b94402f8bf2b24e2518bfa7ce6626d0c9deffba5d461dd65db0160bd9134b78cd9ba930d0e6315cd761b9c
+doccontainersize 296420
+doccontainerchecksum d228343668d98616c6cab8a1c4b0cea313b4a7d2f25699a0f54f64b660b10869d2669d98f7f5b992ddff5a3202139ef1e278ebd40b3dd76466c6154a59804c90
+srccontainersize 3776
+srccontainerchecksum 23aa23ca0ca597a03ffbcd0ea79c1341d52aecd41d363e6daeea8b35c74d59a4edcb6a0f2dd7fc05e0a1018ce375f77ef7c831cf093292dd3785f486b2397388
+runfiles size=2
+ texmf-dist/tex/latex/typogrid/typogrid.sty
+catalogue-ctan /macros/latex/contrib/typogrid
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics layout-show
+catalogue-version 0.21

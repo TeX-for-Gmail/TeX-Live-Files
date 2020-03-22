@@ -1,0 +1,29 @@
+name guitlogo
+category Package
+revision 27458
+shortdesc Macros for typesetting the GuIT logo
+longdesc Guit provides some commands useful to correctly write the logo
+longdesc of GUIT -- "Gruppo Utilizzatori Italiani di TeX" (Italian TeX
+longdesc User Group), using the default document color or any other
+longdesc color the user may ever choose, in conformity with logo's
+longdesc scheme as seen on the Group web site
+longdesc (http://www.guit.sssup.it). Likewise, commands are provided
+longdesc that simplify the writing of GuIT acronym's complete expansion,
+longdesc of the addresses of Group's internet site and public forum and
+longdesc 'GuITmeeting' logo. Optionally, using hyperref, the outputs of
+longdesc the above cited commands can become hyperlinks to Group's site.
+longdesc Documentation is available in Italian, only.
+containersize 3332
+containerchecksum 9012385e513850655806330c3cf3570d513a1866e4a1d324a683287906367c7fde7f5488c2ba6ea705bdad09d1b837511b99cc9c40befdeb1b776834e0d5627c
+doccontainersize 446096
+doccontainerchecksum 710759ebaf7c09e9d867ce68ff9f73abe7909ea7a2b9a4441eeb205343011cad3a08d7f2fdef5b43bb6ba08e0a58252458298b4102750198bb949feca0757388
+srccontainersize 17728
+srccontainerchecksum bc2da4fbc92637164a0abcf32d46822d0d6cca05335fee19520414e552fcd6a4d1e5cef5c84f6983da96191849a6fae45e1c9535cc0acff0a393056bd124e090
+runfiles size=4
+ texmf-dist/tex/latex/guitlogo/guit.cfg
+ texmf-dist/tex/latex/guitlogo/guit.sty
+catalogue-ctan /macros/latex/contrib/GuIT/GuITlogo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics logo
+catalogue-version 0.9.2

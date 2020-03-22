@@ -1,0 +1,22 @@
+name exp-testopt
+category Package
+revision 15878
+shortdesc Expandable \@testopt (and related) macros
+longdesc The package provides an expandable variant of the LaTeX kernel
+longdesc command \@testopt, named \@expandable@testopt, and a more
+longdesc general \@expandable@ifopt, both intended for package writers.
+longdesc Also we have a variant of \newcommand which uses these macros
+longdesc to check for optional arguments.
+containersize 1764
+containerchecksum 26b5af9bdd06a3bbd231b1b55c4ae8929efa06655656747b804425e802fa7d07355e510ac673590cef235cceaf88fc03e1493f4bee9c99ce2a32c32b9a3f9aca
+doccontainersize 85660
+doccontainerchecksum f4f7cda5cc8b3f8900cb12989834e5b1702f751248f58fe65a8d65ab69eb2a4118002212eefb609e251d4437579e635173366beb471e32d07d45c5c645ca506c
+srccontainersize 6200
+srccontainerchecksum a41951719a9a4bc391216d3c5ed796b0f285a1a7049fa3617bae689127cffd32590ebd3212bf24b221bd7214128aaf564fa62e0a511f98f03961c16a39bc6fb9
+runfiles size=1
+ texmf-dist/tex/latex/exp-testopt/exp-testopt.sty
+catalogue-ctan /macros/latex/contrib/exp-testopt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 0.3

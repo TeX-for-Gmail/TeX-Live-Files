@@ -1,0 +1,74 @@
+name langsci
+category Package
+revision 50706
+shortdesc Typeset books for publication with Language Science Press
+longdesc This packages allows you to typeset monographs and edited
+longdesc volumes for publication with Language Science Press
+longdesc (http://www.langsci-press.org). It includes all necessary files
+longdesc for title pages, frontmatter, main content, list of references
+longdesc and indexes. Dust jackets for BoD and Createspace
+longdesc (print-on-demand service providers) can also be produced.
+containersize 89588
+containerchecksum de35684ed71408adbda8f7238c80bd4e453761e18dd4083ec4680ac8cae711dfd0aa8339cc0ee211c231b17729d6e85316845586f6f6ee70e5c0577d84b1c9ad
+doccontainersize 201980
+doccontainerchecksum 439ac71163f1dad47fd4f2eb533f4a17a84bf3258f31baecf941242ea845d37b55ee88e8b879b3cdd070caca8f98b6b5d591c07889214ec1d64e32c3112d8476
+runfiles size=107
+ texmf-dist/tex/xelatex/langsci/langsci-advertisement.tex
+ texmf-dist/tex/xelatex/langsci/langsci-avm.sty
+ texmf-dist/tex/xelatex/langsci/langsci-basic.sty
+ texmf-dist/tex/xelatex/langsci/langsci-bidi.sty
+ texmf-dist/tex/xelatex/langsci/langsci-cgloss.sty
+ texmf-dist/tex/xelatex/langsci/langsci-colors.def
+ texmf-dist/tex/xelatex/langsci/langsci-forest-setup.sty
+ texmf-dist/tex/xelatex/langsci/langsci-gb4e.sty
+ texmf-dist/tex/xelatex/langsci/langsci-glyphs.sty
+ texmf-dist/tex/xelatex/langsci/langsci-hyphenation-de.tex
+ texmf-dist/tex/xelatex/langsci/langsci-hyphenation-fr.tex
+ texmf-dist/tex/xelatex/langsci/langsci-hyphenation-pt.tex
+ texmf-dist/tex/xelatex/langsci/langsci-hyphenation-universal.tex
+ texmf-dist/tex/xelatex/langsci/langsci-lgr.sty
+ texmf-dist/tex/xelatex/langsci/langsci-linguex.sty
+ texmf-dist/tex/xelatex/langsci/langsci-optional.sty
+ texmf-dist/tex/xelatex/langsci/langsci-series.def
+ texmf-dist/tex/xelatex/langsci/langsci-subparts.sty
+ texmf-dist/tex/xelatex/langsci/langsci-tbls.sty
+ texmf-dist/tex/xelatex/langsci/langsci-textipa.sty
+ texmf-dist/tex/xelatex/langsci/langsci-tikz.sty
+ texmf-dist/tex/xelatex/langsci/langsci-tobi.sty
+ texmf-dist/tex/xelatex/langsci/langsci-unified.bbx
+ texmf-dist/tex/xelatex/langsci/langsci-unified.cbx
+ texmf-dist/tex/xelatex/langsci/langsci_logo_nocolor.pdf
+ texmf-dist/tex/xelatex/langsci/langsci_spinelogo_nocolor.pdf
+ texmf-dist/tex/xelatex/langsci/langscibook.cls
+ texmf-dist/tex/xelatex/langsci/tbls-alarm.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-book.eps
+ texmf-dist/tex/xelatex/langsci/tbls-book.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-bulb.eps
+ texmf-dist/tex/xelatex/langsci/tbls-bulb.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-bulbon.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-code.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-explore.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-filter.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-glass.eps
+ texmf-dist/tex/xelatex/langsci/tbls-glass.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-glass2.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-law.eps
+ texmf-dist/tex/xelatex/langsci/tbls-law.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-more.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-pencil.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-people.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-plus.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-r.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-receipt.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-refresh.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-report.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-test.pdf
+ texmf-dist/tex/xelatex/langsci/tbls-tree.pdf
+catalogue-contact-bugs https://github.com/langsci/langscibook/issues
+catalogue-contact-home http://www.langsci-press.org
+catalogue-contact-repository https://github.com/langsci/langscibook
+catalogue-contact-support mailto:support@langsci-press.org
+catalogue-ctan /macros/xetex/latex/langsci
+catalogue-date 2019-04-02 09:46:01 +0200
+catalogue-license lppl1.3
+catalogue-topics journalpub book-pub class

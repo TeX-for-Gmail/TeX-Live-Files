@@ -1,0 +1,18 @@
+name pdflatexpicscale
+category Package
+revision 46617
+shortdesc Support software for downscaling graphics to be included by pdfLaTeX
+longdesc The package provides a script to scale pictures down to a
+longdesc target resolution before creating a PDF document with pdfLaTeX.
+depend pdflatexpicscale.ARCH
+containersize 3124
+containerchecksum d36dcc4d70156d52bcaf668d620c8eee5db8914473f943412ea5ad5c8bde673a6715fd5a69d13e502a5d4fe0b1e0e55099432c4e0e5e02bd5f6155ca5804c3f3
+doccontainersize 86376
+doccontainerchecksum 64440f794e88c08bfeeac75d6d4174eccb800125c8d57e3b0be3ac6883c04790d422cb05cbed6be7335ab2e4d2e6bb2c8c0137c04160db126674960ddb7603e1
+runfiles size=2
+ texmf-dist/scripts/pdflatexpicscale/pdflatexpicscale.pl
+catalogue-ctan /support/pdflatexpicscale
+catalogue-date 2018-02-12 13:02:17 +0100
+catalogue-license lppl
+catalogue-topics graphics-prep
+catalogue-version 0.32

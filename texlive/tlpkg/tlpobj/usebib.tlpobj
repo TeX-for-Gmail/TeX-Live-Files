@@ -1,0 +1,23 @@
+name usebib
+category Package
+revision 25969
+shortdesc A simple bibliography processor
+longdesc The package is described by its author as "a poor person's
+longdesc replacement for the more powerful methods provided by BibLaTeX
+longdesc to access data from a .bib file". Its principle commands are
+longdesc \bibinput (which specifies a database to use) and \usebibdata
+longdesc (which typesets a single field from a specified entry in that
+longdesc database.
+containersize 1836
+containerchecksum 94e0ded0c7e7ac10f2d8ff9324afcfdd2dad8247cf31cd6b404d9c2b12e223e6f435ec9d3dfad0ab510b943050444f5206788540a948e44f44c5d011596cd34d
+doccontainersize 254984
+doccontainerchecksum 3b489185729ac7d93ebbfd632b77eeb865b39043b2b68d920a6ef561ac55701a44d362b84c1fb83a2f59770442a655b779c6e49287c9d2859c44140e61c543e6
+srccontainersize 5932
+srccontainerchecksum a0c64ad5a7479da4906b848a31ceb02b047a98e8e2c505ee748f2eed4ba27dc8b6d89d8ee3a171566417315cc2b83810f514f1a0c11f1bd4a28b57cca03676df
+runfiles size=1
+ texmf-dist/tex/latex/usebib/usebib.sty
+catalogue-ctan /macros/latex/contrib/usebib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio
+catalogue-version 1.0a

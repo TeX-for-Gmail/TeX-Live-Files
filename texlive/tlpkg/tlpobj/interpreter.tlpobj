@@ -1,0 +1,30 @@
+name interpreter
+category Package
+revision 27232
+shortdesc Translate input files on the fly
+longdesc The package preprocesses input files to a Lua(La)TeX run, on
+longdesc the fly. The user defines Lua regular expressions to search for
+longdesc patterns and modify input lines (or entire paragraphs)
+longdesc accordingly, before TeX reads the material. In this way,
+longdesc documents may be prepared in a non-TeX language (e.g., some
+longdesc lightweight markup language) and turned into 'proper' TeX for
+longdesc processing. The source of the documentation is typed in such a
+longdesc lightweight language and is thus easily readable in a text
+longdesc editor (the PDF file is also available, of course); the
+longdesc transformation to TeX syntax via Interpreter's functions is
+longdesc explained in the documentation itself. Interpreter is
+longdesc implemented using the author's gates (lua version), and works
+longdesc for plain TeX and LaTeX, but not ConTeXt.
+containersize 6224
+containerchecksum 6dbbf39f9f0f357f45ae275458f03abfee625720b5f2dd3bbb5a78f60f4c0e8972d153c8d1647f147403f7c665e25147fd0c576cccb226a74630348a9f0a7381
+doccontainersize 122152
+doccontainerchecksum 3408bcb3cd3e6da67294c830870534d3cd620b7abc3ad35d4833e30c831bf93d11dc06d00547888268870c75f6a6e2e861448a0fa197e3e5a3c10aaccc6e4dd8
+runfiles size=8
+ texmf-dist/tex/luatex/interpreter/interpreter.lua
+ texmf-dist/tex/luatex/interpreter/interpreter.sty
+ texmf-dist/tex/luatex/interpreter/interpreter.tex
+catalogue-ctan /macros/luatex/generic/interpreter
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics foreign-import macro-supp luatex
+catalogue-version 1.2

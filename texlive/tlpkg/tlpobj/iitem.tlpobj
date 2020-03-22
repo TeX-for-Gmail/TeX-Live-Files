@@ -1,0 +1,25 @@
+name iitem
+category Package
+revision 29613
+shortdesc Multiple level of lists in one list-like environment
+longdesc The package defines multiple level lists within one list-like
+longdesc environment. instead of writing \begin{enumerate} \item 1
+longdesc \begin{enumerate} \item 2 \begin{enumerate} \item 3
+longdesc \begin{enumerate} \item 4 \end{enumerate} \end{enumerate} \item
+longdesc 2.1 \end{enumerate} \item 1.1 \begin{enumerate} \item 2
+longdesc \end{enumerate} \end{enumerate} this package allows you to
+longdesc write \begin{enumerate} \item 1 \iitem 2 \iiitem 3 \ivtem 4
+longdesc \iitem 2.1 \item 1.1 \iitem 2 \end{enumerate}
+containersize 1416
+containerchecksum b2b37e68db2b33e414ecbfb9078b60ce5571b7ae931ca828a3c668ea7cccd7b93a2919cadc7723daa3f63a7015939a8046973ade140fba01025dde0d5212edd0
+doccontainersize 379776
+doccontainerchecksum f9f001123e1f49bd90cb3b24448e423068565c9256129e23126791e2ea2bc39788ff5769939d90018087beb1b31fbf3568c6d4962f2e92205717c84aeee54a21
+srccontainersize 4728
+srccontainerchecksum e24eb4a7a6a635b95b6a1b40d27651eccf86a6c5276aad3ca46cfde08185371fdb34ac2732d87750db74605c14e087d2102399e23ad85a236a68dd5987784c0f
+runfiles size=1
+ texmf-dist/tex/latex/iitem/iitem.sty
+catalogue-ctan /macros/latex/contrib/iitem
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list
+catalogue-version 1.0

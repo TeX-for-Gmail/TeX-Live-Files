@@ -1,0 +1,33 @@
+name etoc
+category Package
+revision 50317
+shortdesc Completely customisable TOCs
+longdesc The package gives the user complete control of how the entries
+longdesc of the table of contents should be constituted from the name,
+longdesc number, and page number of each sectioning unit. The layout is
+longdesc controlled by the definition of 'line styles' for each
+longdesc sectioning level used in the document. The package provides its
+longdesc own custom line styles (which may be used as examples), and
+longdesc continues to support the standard formatting inherited from the
+longdesc LaTeX document classes, but the package can also allow the user
+longdesc to delegate the details to packages dealing with list making
+longdesc environments (such as enumitem). The package's default global
+longdesc style typesets tables of contents in a multi-column format,
+longdesc with either a standard heading, or a ruled title (optionally
+longdesc with a frame around the table). The \tableofcontents command
+longdesc may be used arbitrarily many times in the same document, while
+longdesc \localtableofcontents provides a 'local' table of contents.
+containersize 10500
+containerchecksum f513ad397a4c48add5b1eb21714bacc54989532a9ef56ae2e7d02254e325acb430a1bfdbd9d90ec8bd20c5ed473c7f8a73b3f2ff615690ba85ae2c69acd283f5
+doccontainersize 1100220
+doccontainerchecksum e4363e5790dbe31c12e3c4392285fc3edcc3390af6ca66d5fc98008110c35c9f9eaea38ed401315b9403368ca4a977f4a926ec59cf76f70424c6e59bc52aca14
+srccontainersize 120476
+srccontainerchecksum 895ad1979e26e8fde07f5df98b338c661b849e4f67f5db77df7176aa7bbf37183c377acf19d9fd92259ce413c4efe5fb0269a854213e565925d826c9822a7939
+runfiles size=14
+ texmf-dist/tex/latex/etoc/etoc.sty
+catalogue-also titletoc tocbasic
+catalogue-ctan /macros/latex/contrib/etoc
+catalogue-date 2019-03-10 10:50:41 +0100
+catalogue-license lppl1.3c
+catalogue-topics toc-etc etex
+catalogue-version 1.09

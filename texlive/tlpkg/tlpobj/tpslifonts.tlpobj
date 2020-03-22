@@ -1,0 +1,31 @@
+name tpslifonts
+category Package
+revision 42428
+shortdesc A LaTeX package for configuring presentation fonts
+longdesc This package aims to improve of font readability in
+longdesc presentations, especially with maths. The standard cm maths
+longdesc fonts at large design sizes are difficult to read from far
+longdesc away, especially at low resolutions and low contrast color
+longdesc choice. Using this package leads to much better overall
+longdesc readability of some font combinations. The package offers a
+longdesc couple of 'harmonising' combinations of text and maths fonts
+longdesc from the (distant) relatives of computer modern fonts, with a
+longdesc couple of extras for optimising readability. Text fonts from
+longdesc computer modern roman, computer modern sans serif, SliTeX
+longdesc computer modern sans serif, computer modern bright, or concrete
+longdesc roman are available, in addition to maths fonts from computer
+longdesc modern maths, computer modern bright maths, or Euler fonts. The
+longdesc package is part of the TeXPower bundle.
+containersize 5356
+containerchecksum 0394101636f394f04c38b6677f921136f74e3c8abccff199d4c972ede085c3915e2fe9bbc5b239044dd8f24b405cfc34b5c736a7cd03b749b6aeaf7feb15f5e4
+doccontainersize 15044
+doccontainerchecksum e5be9024a02669212044844ad0e99b72faae15c62fb0c9065c8a5e3beb852968cf4cd4744d01890534df5a540bd1066749d999e919afd7d791b4e9ca7dd3c26c
+srccontainersize 10492
+srccontainerchecksum d55ebdf58c24f9d68f7a69fab79b8486c46d4d23714d9e1d2365320457ca60275449492482d5d28c4c8a2c884074bbe74874f509c60d66f49b6deb2a06925c9d
+runfiles size=8
+ texmf-dist/tex/latex/tpslifonts/tpslifonts.sty
+catalogue-ctan /macros/latex/contrib/texpower/tpslifonts
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics presentation font-use
+catalogue-version 0.6

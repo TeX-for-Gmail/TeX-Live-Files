@@ -1,0 +1,15 @@
+name latex-web-companion
+category Package
+revision 29349
+catalogue lwc-examples
+shortdesc Examples from The LaTeX Web Companion
+longdesc The source of the examples printed in the book, together with
+longdesc necessary supporting files.
+containersize 432
+containerchecksum 5f45c7f74a0e97b938009ada69146875e141edd556165b62185553b0ce5f590d5ca6f93a875dae1c546ebc788156d5cfc69c46535000adfe6933abe79a2fb06d
+doccontainersize 272788
+doccontainerchecksum a972860f65d763c6fb45e9726e5dd7b8234509b90634f45b8b25e090da92d0ac577bf8b33ea7b0a0f91e4e5639bf62c07086dc36708ae697c1e16e644acc83f0
+catalogue-ctan /info/examples/lwc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex

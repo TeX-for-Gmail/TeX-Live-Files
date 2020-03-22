@@ -1,0 +1,25 @@
+name grayhints
+category Package
+revision 49052
+shortdesc Produce 'gray hints' to a variable text field
+longdesc The package provides JavaScript code snippets to create 'gray
+longdesc hints'. Gray hints, as the author terms them, are text that
+longdesc appears initially in a text field that gives a short hint as to
+longdesc what the contents of the text field should be. For example, a
+longdesc text field might contain the hint 'First Name', or a date field
+longdesc might read 'yyyy/mm/dd'. As soon as the field comes into focus,
+longdesc the hint disappears. It reappears when the field is blurred and
+longdesc the user did not enter any text into the field. The package
+longdesc works for dvips/Distiller, pdfLaTeX, LuaLaTeX, and XeLaTeX.
+containersize 3296
+containerchecksum 45d0736b5b600aa3ae524e0ff2471846cf48105464710fc7bb7f8d27326275d1accc63b5a0726c5d43e5af487207eba105e1d5e4f59913a1b27d33e950122574
+doccontainersize 496384
+doccontainerchecksum 85a6b8e44ec045ec00b7526f034e5b15d71fc8e439bfbbd43e1c8f85d4400318d8dfeee4bece211705c351e2b5afc9ddc89073fa14c1d90756bdf458d7b5b100
+srccontainersize 7708
+srccontainerchecksum 7342b60e1957297f41970fa2af45a8736f438e6560e4cb6bd279516fa40ca283d7cd60e5faad2959aba12958c0fa70a95d94bb9c48e7ad47956bbc646af82173
+runfiles size=3
+ texmf-dist/tex/latex/grayhints/grayhints.sty
+catalogue-ctan /macros/latex/contrib/grayhints
+catalogue-date 2018-11-03 09:41:55 +0100
+catalogue-license lppl1.2
+catalogue-topics misc-support pdf-forms adobe-distiller

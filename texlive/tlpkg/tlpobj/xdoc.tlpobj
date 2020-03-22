@@ -1,0 +1,46 @@
+name xdoc
+category Package
+revision 15878
+shortdesc Extending the LaTeX doc system
+longdesc Xdoc is a project to rewrite the implementation of the LaTeX
+longdesc doc package (in a broader sense) to make its features more
+longdesc general and flexible. For example, where doc only provides
+longdesc commands for documenting macros and environments, xdoc also
+longdesc provides commands for similarly documenting package options and
+longdesc switches. This is furthermore done in such a way that it is
+longdesc very easy to add more such commands for documenting things,
+longdesc such as e.g., templates (an important concept in the future
+longdesc LaTeX3) and program components for other languages (functions,
+longdesc classes, procedures, etc.). A side effect is that many minor
+longdesc bugs in doc are fixed. The design aims to take advantage of
+longdesc many still experimental features of future versions of LaTeX,
+longdesc but since these are neither reasonably stable nor widely
+longdesc available, the configuration interfaces and package author
+longdesc commands of xdoc are likely to change. To still provide a
+longdesc stable interface for other packages to build upon, the actual
+longdesc package names include a "major version number" of sorts. The
+longdesc drop-in replacement package for standard doc is xdoc2; it
+longdesc requires nothing outside standard LaTeX2e. The
+longdesc docindex/docidx2e package changes the index and list of changes
+longdesc typesetting so that none of the formatting has to be controlled
+longdesc via the index style file. The docindex package provides control
+longdesc of formatting via templates (nice interface, but requires
+longdesc several experimental packages), whereas the docidx2e package
+longdesc has traditional raw macro interfaces and works with standard
+longdesc LaTeX2e.
+containersize 11976
+containerchecksum 8cee132082c70214560ca8377766f45e6f15da2af18e0e9d68205d094b2a6af4d50150bfa6d145f78d92bb95c8657ad9fab1cbb8e76b75859f44ac1039464cca
+doccontainersize 836680
+doccontainerchecksum cb7fc71f84f88a1035e91500e9b7ccf0c425733227e4106c7bd87eb30b25c8fdae6bce046f22e5a07ec919ee0527f264dcd826b7e6468eaf21a791e7dc0e7ab8
+srccontainersize 70084
+srccontainerchecksum d82f9fe7cf0a2faaf0cc6a5f1f1d5916bc3eecef63e6e983f62c4b17d36b17f31251af6e704811af2094cc43fada5597b0ceb432a4b38c4b066ab041d7a5c578
+runfiles size=17
+ texmf-dist/makeindex/xdoc/docindex.ist
+ texmf-dist/tex/latex/xdoc/docidx2e.sty
+ texmf-dist/tex/latex/xdoc/docindex.sty
+ texmf-dist/tex/latex/xdoc/xdoc2.sty
+catalogue-ctan /macros/latex/contrib/xdoc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-supp
+catalogue-version prot2.5

@@ -1,0 +1,11 @@
+name ps2pk.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of ps2pk
+containersize 89252
+containerchecksum 306652a1c1f14263c437c2130b539e40071bde010b09263fae0fe01673effb2f329c254915607d9f8a6e4077301a5dfa450c9bddbb6ea0a9a0b7568678e74d14
+binfiles arch=x86_64-linux size=56
+ bin/x86_64-linux/mag
+ bin/x86_64-linux/pfb2pfa
+ bin/x86_64-linux/pk2bm
+ bin/x86_64-linux/ps2pk

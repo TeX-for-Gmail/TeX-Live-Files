@@ -1,0 +1,20 @@
+name dichokey
+category Package
+revision 17192
+shortdesc Construct dichotomous identification keys
+longdesc The package can be used to construct dichotomous identification
+longdesc keys (used especially in biology for species identification),
+longdesc taking care of numbering and indentation of successive key
+longdesc steps automatically. An example file is provided, which
+longdesc demonstrates usage.
+containersize 1956
+containerchecksum 8ed4f0010546af68390f93642cab4495226387fd7461383e32fd3dfa72867050d0da05ba90cb768c6893afeac9bfe55d23b7299ef4a76432e8d11252012b47a4
+doccontainersize 210124
+doccontainerchecksum 16a75d20463a0b0b508c2d50aa67a77999cab525e003704ab34663d1f0212c39432caab0e4df1c69b540be014bc86901031c7c8f647ff18ceda77dcef7239233
+runfiles size=2
+ texmf-dist/tex/latex/dichokey/dichokey.sty
+catalogue-also identkey
+catalogue-ctan /macros/latex/contrib/dichokey
+catalogue-date 2018-10-29 07:40:45 +0100
+catalogue-license pd
+catalogue-topics biology

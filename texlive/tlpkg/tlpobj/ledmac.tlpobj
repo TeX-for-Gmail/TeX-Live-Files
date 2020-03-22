@@ -1,0 +1,29 @@
+name ledmac
+category Package
+revision 41811
+shortdesc Typeset scholarly editions
+longdesc A macro package for typesetting scholarly critical editions.
+longdesc The ledmac package is a LaTeX port of the plain TeX EDMAC
+longdesc macros. It supports indexing by page and line number and simple
+longdesc tabular- and array-style environments. The package is
+longdesc distributed with the related ledpar and ledarab packages. The
+longdesc package is now superseded by reledmac.
+containersize 25456
+containerchecksum b465117d5634dc4eeaefbc2c12a4d0fb892f4a27ed66057938701fe51e4dedfb5b7f28d796145d89a59b2667cf61c7175803f72e5970cf81244329130d173136
+doccontainersize 2362392
+doccontainerchecksum 7e7fa49106457f13aed11bcf80a1e38f000f5161e9a67bdbb174371db63a3953109f26da3cef8781d2c13abb4b86d5cb0c2b1b41e6f2cd3584512bed1a67cf6a
+srccontainersize 142344
+srccontainerchecksum 918f3009f11e3fa2b5531c5cf8ffe9d835e331793abe1241f01f01b14d990ffd1f3aac6ec153b17f77099f38c284965209cff8f9105c340bfdadc85f78fd5d5c
+runfiles size=41
+ texmf-dist/tex/latex/ledmac/afoot.sty
+ texmf-dist/tex/latex/ledmac/ledarab.sty
+ texmf-dist/tex/latex/ledmac/ledmac.sty
+ texmf-dist/tex/latex/ledmac/ledpar.sty
+catalogue-also ednotes poemscol
+catalogue-contact-bugs https://github.com/bidi-tex/ledmac/issues
+catalogue-contact-repository https://github.com/bidi-tex/ledmac
+catalogue-ctan /macros/latex/contrib/ledmac
+catalogue-date 2018-11-28 20:05:21 +0100
+catalogue-license lppl1.3
+catalogue-topics crit-ed
+catalogue-version 0.19.4

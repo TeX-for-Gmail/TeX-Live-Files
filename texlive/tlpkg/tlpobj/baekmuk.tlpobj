@@ -1,0 +1,21 @@
+name baekmuk
+category Package
+revision 42106
+shortdesc Baekmuk Korean TrueType fonts
+longdesc Baekmuk TrueType fonts (Korean) These fonts were retrieved from
+longdesc http://kldp.net/baekmuk/
+containersize 8736988
+containerchecksum e10fef8fcee389514d759d7b985df3e84d3459a357fc3b4b6bec5c3814aea175aa8f313ab63e6048e60cfa5fe1cb1ddc0ae0410801893ec0e7ff5eabd7283c9f
+doccontainersize 1656
+doccontainerchecksum 0a69ee489e8ee9fea0fedd80bdbcc7a13505b5e3cc12fae3d56e09a852bc54eb0e64ba73f4c085e5286fb048114eb81aacc2aa34b27d72b4a72b966e188d78c5
+runfiles size=6983
+ texmf-dist/fonts/truetype/public/baekmuk/batang.ttf
+ texmf-dist/fonts/truetype/public/baekmuk/dotum.ttf
+ texmf-dist/fonts/truetype/public/baekmuk/gulim.ttf
+ texmf-dist/fonts/truetype/public/baekmuk/hline.ttf
+catalogue-contact-home http://kldp.net/baekmuk
+catalogue-ctan /fonts/baekmuk
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics font font-ttf korean
+catalogue-version 2.2

@@ -1,0 +1,28 @@
+name ttfutils
+category TLCore
+revision 50602
+shortdesc convert TrueType to TFM and PK fonts
+longdesc Utilities: ttf2afm ttf2pk ttf2tfm ttfdump. FreeType is the
+longdesc underlying library.
+depend ttfutils.ARCH
+containersize 108724
+containerchecksum cb133e9067cc3b2d99dc2910d3722fd87d53bf38e664fdc80cbdd7ff1787047f0e71bbc60018802cae34cc5d6eeaeaddd0cac6ae23f980d0eb7316f6c342ce38
+doccontainersize 137960
+doccontainerchecksum 27f3dc442a1892a903d5ebab16c82b0221efddd0def20b817ad1b33975d960219424ec1e6a408dc774e377aee99e905f6a850ce4a30ad1ed302acf442f09461d
+runfiles size=219
+ texmf-dist/fonts/enc/ttf2pk/base/T1-WGL4.enc
+ texmf-dist/fonts/sfd/ttf2pk/Big5.sfd
+ texmf-dist/fonts/sfd/ttf2pk/EUC.sfd
+ texmf-dist/fonts/sfd/ttf2pk/HKSCS.sfd
+ texmf-dist/fonts/sfd/ttf2pk/KS-HLaTeX.sfd
+ texmf-dist/fonts/sfd/ttf2pk/SJIS.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UBg5plus.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UBig5.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UGB.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UGBK.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UJIS.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UKS-HLaTeX.sfd
+ texmf-dist/fonts/sfd/ttf2pk/UKS.sfd
+ texmf-dist/fonts/sfd/ttf2pk/Unicode.sfd
+ texmf-dist/ttf2pk/VPS.rpl
+ texmf-dist/ttf2pk/ttf2pk.cfg

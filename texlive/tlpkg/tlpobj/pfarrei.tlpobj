@@ -1,0 +1,30 @@
+name pfarrei
+category Package
+revision 31934
+shortdesc LaTeX support of pastors' and priests' work
+longdesc In "Die TeXnische Komodie" (issue 1/2013) Christian Justen
+longdesc described his use of LaTeX in his work as priest (similar
+longdesc requirements may be encountered in the work of pastors and
+longdesc other ministers of religion). One point was to arrange A5 pages
+longdesc onto A4 landscape paper, either side-by-side or as a booklet.
+longdesc Justen made two bash scripts for this job; the package provides
+longdesc one texlua script for both requirements. (Note that file
+longdesc a5toa4.tlu should have execute permissions in any
+longdesc installation.)
+depend pfarrei.ARCH
+containersize 4632
+containerchecksum f6046dc96672b60ed272dd6fe23a4a51032f039d3aeaff3f8b5e2407c99fe1f43c568a03564a7c20212a97bbfa4ecbd0dcb7f5f44593e1485c8e5d9197467a6c
+doccontainersize 499400
+doccontainerchecksum d50ff4603d51eb72d1d12e7f5b1440fa3d7abb1ab74fdf441d7e4a474df91247a1ccad504a14438bc0c3c6354c8f8674f180b5d9d826ff09a8749db3cf0d08c4
+srccontainersize 13448
+srccontainerchecksum 1e4008782161066066fc4cb1b029a36f6a18eb0d5d52f11a2a70d04d4778de6ed1a80ea1fef5d8cc86c2e13b8cbcb1cf8ce43e58ff4431b16ca23c3fdafb9884
+runfiles size=6
+ texmf-dist/scripts/pfarrei/a5toa4.tlu
+ texmf-dist/scripts/pfarrei/pfarrei.tlu
+ texmf-dist/tex/latex/pfarrei/a5toa4.tex
+ texmf-dist/tex/latex/pfarrei/pfarrei.sty
+catalogue-ctan /macros/latex/contrib/pfarrei
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics compact-print
+catalogue-version r36

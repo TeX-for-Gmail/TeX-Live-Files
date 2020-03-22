@@ -1,0 +1,22 @@
+name lazylist
+category Package
+revision 17691
+shortdesc Lists in TeX's "mouth"
+longdesc The package was developed to provide flexible lists, whose
+longdesc ordering can be altered on the fly. The implementation involves
+longdesc a pile of lambda-calculus and list-handling macros of an
+longdesc incredibly obtuse nature. The TUGboat paper serves as a manual
+longdesc for the macros. Having said all of which, confidence is
+longdesc enhanced by the knowledge that the TeX code was formally
+longdesc verified.
+containersize 1680
+containerchecksum 5ceccebce9cf3ff0574c471141f94b919d14a7faf1b5c7b5e09eb079aee11cb95bdfa7d8b26fb83e99875818d842cbd64733ab7cf7b7024f04f661f732a3fb04
+doccontainersize 120736
+doccontainerchecksum 1ecf491370fd7ba0fcd3ef1ce11df768509c32bc9bf14978e3d6f36e39094570144b897337bbc481bfeb8b74354b36f66d561a33e255ba50aae0a5c42f002e7e
+runfiles size=1
+ texmf-dist/tex/latex/lazylist/lazylist.sty
+catalogue-ctan /macros/latex/contrib/lazylist
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics list
+catalogue-version 1.0a

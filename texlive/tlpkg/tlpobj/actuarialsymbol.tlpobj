@@ -1,0 +1,31 @@
+name actuarialsymbol
+category Package
+revision 44607
+shortdesc Actuarial symbols of life contingencies and financial mathematics
+longdesc This package provides commands to compose actuarial symbols of
+longdesc life contingencies and financial mathematics characterized by
+longdesc subscripts and superscripts on both sides of a principal
+longdesc symbol. The package also features commands to easily and
+longdesc consistently position precedence numbers above or below
+longdesc statuses in symbols for multiple lives contracts. Since the
+longdesc actuarial notation can get quite involved, the package defines
+longdesc a number of shortcut macros to ease entry of the most common
+longdesc elements. Appendix A of the package documentation lists the
+longdesc commands to typeset a large selection of symbols of life
+longdesc contingencies. This package requires actuarialangle.
+containersize 2756
+containerchecksum 9a13298a81b661de746416d9282904dee69f01b7ffcbba0e4c29d951872308e4f3452c21e0e58e457a8d77091538a6db2924601eac72b37e527db88dcc2f7967
+doccontainersize 280856
+doccontainerchecksum 888e4d03aad110db759d6fdeae162fbfd3f8aeba3672a8bd7ba61096026219f449318e3b2405456458936fd7ed3526e9c3c24686a107277bb236a8e11005a9d1
+srccontainersize 15772
+srccontainerchecksum 5f3832361c9e9abb9b7ac206977d3dcc9bb56903f5649db92fdcc0a3fdee3a5a7e9208051291d0a1820b3d803b539b3862bbba109751eef7b8fa6f764138171d
+runfiles size=2
+ texmf-dist/tex/latex/actuarialsymbol/actuarialsymbol.sty
+catalogue-contact-bugs https://github.com/vigou3/actuarialsymbol/issues
+catalogue-contact-home https://vigou3.github.io/actuarialsymbol
+catalogue-contact-repository https://github.com/vigou3/actuarialsymbol
+catalogue-ctan /macros/latex/contrib/actuarialsymbol
+catalogue-date 2017-06-14 22:39:00 +0200
+catalogue-license lppl1.3c
+catalogue-topics graphics-symb
+catalogue-version 1.0a

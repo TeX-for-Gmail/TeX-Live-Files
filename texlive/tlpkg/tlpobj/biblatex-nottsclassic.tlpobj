@@ -1,0 +1,19 @@
+name biblatex-nottsclassic
+category Package
+revision 41596
+shortdesc Citation style for the University of Nottingham
+longdesc This citation-style covers the citation and bibliography rules
+longdesc of the University of Nottingham.
+containersize 3056
+containerchecksum a0da4bac443dcbc2c0d8b97d4eed21c171e876cdaee3699a0652c905088056802bc12e1f16965b6b2063e1ca0dee808f5f5e9fd9e5f6da7f956548fd5bf0b222
+doccontainersize 110820
+doccontainerchecksum d0b6de2439ff0698b14781deecd260d5851b44da80a10827e0b0bf5ff21ddbe46b979dae9afe988ec1520387668a802a777fba28a830b0e0a7ce60988bfe375a
+runfiles size=4
+ texmf-dist/tex/latex/biblatex-nottsclassic/nottsclassic-english.lbx
+ texmf-dist/tex/latex/biblatex-nottsclassic/nottsclassic.bbx
+ texmf-dist/tex/latex/biblatex-nottsclassic/nottsclassic.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-nottsclassic
+catalogue-date 2016-07-07 05:47:40 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 0.1

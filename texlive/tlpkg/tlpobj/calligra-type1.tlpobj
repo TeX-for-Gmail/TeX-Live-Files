@@ -1,0 +1,20 @@
+name calligra-type1
+category Package
+revision 24302
+shortdesc Type 1 version of Calligra
+longdesc This is a conversion (using mf2pt1) of Peter Vanroose's
+longdesc handwriting font.
+execute addMap calligra.map
+containersize 59668
+containerchecksum 325764734735203d4e355d33b30a289d699fa10377212e39bf33d3195f2dfdebd4397785d69d6ca392e040cd2fd5bad20b0055b5f92620149fc96ed0d6d337a7
+doccontainersize 736
+doccontainerchecksum c1acbd3ae35c423b9414b5e132e1a164d4b102ecf9d7305548bb5d203a8d3a25309e2aa5a5d09277d310b9446013ca2db65f9ce6d5783432ed325838bfc9a48f
+runfiles size=19
+ texmf-dist/fonts/afm/public/calligra-type1/callig15.afm
+ texmf-dist/fonts/map/dvips/calligra-type1/calligra.map
+ texmf-dist/fonts/type1/public/calligra-type1/callig15.pfb
+catalogue-ctan /fonts/calligra-type1
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-calligraphic font-type1
+catalogue-version 001.000

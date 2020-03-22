@@ -1,0 +1,18 @@
+name labyrinth
+category Package
+revision 33454
+shortdesc Draw labyrinths and solution paths
+longdesc The labyrinth package provides code and an environment for
+longdesc typesetting simple labyrinths with LaTeX, and generating an
+longdesc automatic or manual solution path.
+containersize 2348
+containerchecksum 06c61f5a0a2b39d644d5b741877f445dea48fefaaddfb7f60251ecb328f16ba2ec6f09731608ac5ca7b288fe77fc193984dad25b8f0ad0da5f35bdd43fb2f8ee
+doccontainersize 228388
+doccontainerchecksum 980a3bef8b8eb51cd454c835ba09205f8dedab92f747db9704c72d5433db75f68df298ee4ca06c6d68e0cb4c4b733c882d14bbbb9d877406163b0f95730a10ce
+runfiles size=2
+ texmf-dist/tex/latex/labyrinth/labyrinth.sty
+catalogue-ctan /macros/latex/contrib/labyrinth
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.0

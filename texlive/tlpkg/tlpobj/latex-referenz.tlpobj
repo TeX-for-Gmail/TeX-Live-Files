@@ -1,0 +1,17 @@
+name latex-referenz
+category Package
+revision 36671
+shortdesc Examples from the book "LaTeX Referenz"
+longdesc This bundle contains all the examples, as source, eps and pdf,
+longdesc of the author's book "LaTeX Referenz" (2nd ed.), published by
+longdesc DANTE/Lehmanns. The examples can be run, using the example
+longdesc class (ttctexa.cls) in the distribution.
+containersize 520
+containerchecksum b61dfd5317eaf0ef7add1f80506492390d5ba0c01480e83d384e60ac0aff39710945ab81e030e7882fafa77a2913d88efd31f3cf05729ddc09c63243e825260f
+doccontainersize 98676
+doccontainerchecksum e71abe8a8384be7b0e343657e992b7703d30b38bfcb1dfb689954bdf84581336e099059bdb14af464c951777a8a6809f1161955868dd2f3b219fee3d2046ef94
+catalogue-ctan /info/examples/LaTeX-Referenz
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics book-ex
+catalogue-version 2

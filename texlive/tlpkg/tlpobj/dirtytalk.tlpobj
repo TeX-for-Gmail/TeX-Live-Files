@@ -1,0 +1,20 @@
+name dirtytalk
+category Package
+revision 20520
+shortdesc A package to typeset quotations easier
+longdesc The package provides a macro to typeset quotations, using the
+longdesc command \say{stuff}. The quotation mark glyphs are inserted by
+longdesc the macro; nested quotations are detected.
+containersize 1168
+containerchecksum d5cf28f17a68cd064a290769aff11e656debe87ff0c04e61d4dd4fe87d285daab6dab9516b80b33b03680d50c420a4f3a9858ed5d2d3d5c96fa7fbf9989d29d6
+doccontainersize 393132
+doccontainerchecksum 8cdbdbfca4bdc58a560703b6406c98334ea0b5d9920cbc98ea0fdb7b56c9f1d48844167201829cef83fa84f0e21530baf2fcf4a3f8f8b5e44c5e792864ebf94f
+srccontainersize 3564
+srccontainerchecksum 448c9b5765cb054981e306b795f7747e6e5a9219f00a4698d6f5ee36ebc56c80a1adc857212b3baa1a065b9a8f585f9938e2d20d8f6d30f8d17aff9fc80b11c4
+runfiles size=1
+ texmf-dist/tex/latex/dirtytalk/dirtytalk.sty
+catalogue-ctan /macros/latex/contrib/dirtytalk
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics quote-marks
+catalogue-version 1.0

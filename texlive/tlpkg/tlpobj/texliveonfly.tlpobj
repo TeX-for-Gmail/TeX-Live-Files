@@ -1,0 +1,24 @@
+name texliveonfly
+category Package
+revision 26313
+shortdesc On-the-fly download of missing TeX live packages
+longdesc The package provides a script that performs 'on the fly'
+longdesc downloads of missing packages, while a document is being
+longdesc compiled. (This feature is already available in the MikTeX
+longdesc distribution for Windows machines.) To use the script, replace
+longdesc your (LaTeX) compilation command with texliveonfly.py file.tex
+longdesc (default options are --engine=pdflatex and
+longdesc --arguments="-synctex=1 -interaction=nonstopmode", which may
+longdesc all be changed). The script is designed to work on Linux
+longdesc distributions.
+depend texliveonfly.ARCH
+containersize 6148
+containerchecksum e02a1214775f209c0698e62fb7f0ae91c9ad14024c076dd6a5ca73fad4c92ebbf9bbb0f281869cb0c073538c66edae2af23245f1bd0e1f939c80841269625af6
+doccontainersize 700
+doccontainerchecksum f89f82a59f726b226101275b1aeaec00b99ea1302ee5ff8c021e4696b4abad39d1a95b544a4bc45483440591e1266cfba4d5c3c3bbc769f193671a46aa7458b2
+runfiles size=5
+ texmf-dist/scripts/texliveonfly/texliveonfly.py
+catalogue-ctan /support/texliveonfly
+catalogue-date 2018-11-12 17:15:52 +0100
+catalogue-license gpl3
+catalogue-topics distribution

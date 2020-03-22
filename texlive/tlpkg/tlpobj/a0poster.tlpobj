@@ -1,0 +1,22 @@
+name a0poster
+category Package
+revision 15878
+shortdesc Support for designing posters on large paper
+longdesc Provides fonts in sizes of 12pt up to 107pt and also makes sure
+longdesc that in math formulas the symbols appear in the right size. Can
+longdesc also create a PostScript header file for dvips which ensures
+longdesc that the poster will be printed in the right size. Supported
+longdesc sizes are DIN A0, DIN A1, DIN A2 and DIN A3.
+containersize 3328
+containerchecksum 95c13cc0fc3e4c8b76e02aef0622af10a420b9b536807effad3fa99822ebe1babdc7219536178a349aeb671f3bbdcf9e339ddcfa73c7afc71dafc2b2d7486996
+doccontainersize 118124
+doccontainerchecksum d17f3a87682008d8110bb5562aefee406d84b15e3678e165cc3f50e0280aad0736ff0b9b9847d9dc47cf08d3db9a28be71b76f9a5c61c8f3dad0aac187b23434
+runfiles size=4
+ texmf-dist/tex/latex/a0poster/a0poster.cls
+ texmf-dist/tex/latex/a0poster/a0size.sty
+catalogue-also sciposter
+catalogue-ctan /macros/latex/contrib/a0poster
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics poster
+catalogue-version 1.22b

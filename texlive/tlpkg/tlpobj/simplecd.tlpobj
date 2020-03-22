@@ -1,0 +1,23 @@
+name simplecd
+category Package
+revision 29260
+shortdesc Simple CD, DVD covers for printing
+longdesc The package provides printable cut-outs for various CD, DVD and
+longdesc other disc holders. The name of the package comes from its
+longdesc implementation and ease of use; it was designed just for text
+longdesc content, but since the text is placed in a \parbox in a tabular
+longdesc environment cell, a rather wide range of things may be placed.
+containersize 6232
+containerchecksum 5fe4024ce7991242fd60b8a87c88605f68ef9595895857b56981b35dabe96c97f9af684fc5ca9c3089ba96791e076512ccd549ce70071d215eaed4e731145b30
+doccontainersize 915604
+doccontainerchecksum 5cd208f8869dc989542bf028c216fbddec5bfb285ffc18c25cfea928035946e903cc2b61de630125d8e8deea772f7f20cab552505538eaa5d3aecaef8192abec
+srccontainersize 17260
+srccontainerchecksum 9b26b5fb78bfeb1115af219615c7bcf2ee85c5878ff18807444642e103abccda517c3d701bdfd655f5f9e3d1dc0374c316db96d5d7b0ab9addad74b8d7ecb5f3
+runfiles size=9
+ texmf-dist/tex/latex/simplecd/simplecd.sty
+catalogue-also cd cdcover
+catalogue-ctan /macros/latex/contrib/simplecd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics covers covers
+catalogue-version 1.4

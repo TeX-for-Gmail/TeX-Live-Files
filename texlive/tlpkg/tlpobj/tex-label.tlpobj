@@ -1,0 +1,18 @@
+name tex-label
+category Package
+revision 16372
+shortdesc Place a classification on each page of a document
+longdesc Enables the user to place a 'classification' label on each
+longdesc page, at the bottom to the right of the page number
+containersize 940
+containerchecksum 513310d4dc5240d0b290d0acc941455ba64e069d19c223670d05a632033aba8de367d5dce6acf073af4df476876d3ee414dcf9f1f579738bf9bdfe6738c19d36
+doccontainersize 36596
+doccontainerchecksum bc705cf6812515923d60cf44b75830bd3ea78f078c9ef88ded3e94f060155e1fbf5dc1485cbaa8530e1f10b41b421e70bcec6c61066ee98b498aba7ea8799dc4
+srccontainersize 420
+srccontainerchecksum 07c29de4e85fc21404dad1da3a01a5037b641526110fe5410899c60aeae6a92836de322895afc83824df60f431955a4da959c4d4c21cf17dc32929f445cc1ed8
+runfiles size=1
+ texmf-dist/tex/latex/tex-label/tex-label.sty
+catalogue-ctan /macros/latex/contrib/tex-label
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics security

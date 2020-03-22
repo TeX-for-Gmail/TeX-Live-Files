@@ -1,0 +1,8 @@
+name makedtx.x86_64-linux
+category Package
+revision 38769
+shortdesc x86_64-linux files of makedtx
+containersize 340
+containerchecksum a34185b5a72fc5c0aa70daefc812b0622b1df310e9f6addab8825bb5b90a9cf8ba113593bd628b84926a3cbed5a9bd11df8f948ee01295e44f61bffb6ee4acbc
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/makedtx

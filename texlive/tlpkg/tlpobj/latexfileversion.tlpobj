@@ -1,0 +1,21 @@
+name latexfileversion
+category Package
+revision 29349
+shortdesc Prints the version and date of a LaTeX class or style file
+longdesc This simple shell script prints the version and date of a LaTeX
+longdesc class or style file. Syntax: latexfileversion <file> This
+longdesc programme handles style files (extension .sty), class files
+longdesc (extension .cls), and other TeX input files. The file extension
+longdesc must be given.
+depend latexfileversion.ARCH
+containersize 1652
+containerchecksum 3a017b8a367864358370f0063957c301014df2aa039566ef33ae78dcf428235ccc2a88e19c917c940e186371e2c0b747887cb04e7cb78b9a04ac1720dbd94cf9
+doccontainersize 928
+doccontainerchecksum b1df01f8bc7daed937cd20d1ab7cce443a3d1fbb58e04cb18f0c0b30ef0795c988cf51bf49ace2f960c173f6a95fe982ee9d29d7650dcde21784c788165094c1
+runfiles size=1
+ texmf-dist/scripts/latexfileversion/latexfileversion
+catalogue-ctan /support/latexfileversion
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics file-mgmt
+catalogue-version 0.3

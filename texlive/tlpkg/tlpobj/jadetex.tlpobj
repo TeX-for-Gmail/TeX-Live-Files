@@ -1,0 +1,60 @@
+name jadetex
+category Package
+revision 48634
+shortdesc Macros supporting Jade DSSSL output
+longdesc Macro package on top of LaTeX to typeset TeX output of the Jade
+longdesc DSSSL implementation.
+depend latex
+depend passivetex
+depend pdftex
+depend tex
+depend amsfonts
+depend babel
+depend cm
+depend colortbl
+depend cyrillic
+depend dehyph
+depend ec
+depend fancyhdr
+depend graphics
+depend graphics-cfg
+depend graphics-def
+depend hyperref
+depend hyphen-base
+depend ifxetex
+depend latex-fonts
+depend latexconfig
+depend marvosym
+depend oberdiek
+depend psnfss
+depend stmaryrd
+depend symbol
+depend tex-ini-files
+depend tipa
+depend tools
+depend ulem
+depend url
+depend wasysym
+depend zapfding
+depend jadetex.ARCH
+execute AddFormat name=jadetex engine=pdftex patterns=language.dat           options="*jadetex.ini"           fmttriggers=amsfonts,babel,cm,colortbl,cyrillic,dehyph,ec,fancyhdr,graphics,graphics-cfg,graphics-def,hyperref,hyphen-base,ifxetex,latex,latex-fonts,latexconfig,marvosym,oberdiek,passivetex,psnfss,stmaryrd,symbol,tex-ini-files,tipa,tools,ulem,url,wasysym,zapfding
+execute AddFormat name=pdfjadetex engine=pdftex patterns=language.dat           options="*pdfjadetex.ini"           fmttriggers=amsfonts,babel,cm,colortbl,cyrillic,dehyph,ec,fancyhdr,graphics,graphics-cfg,graphics-def,hyperref,hyphen-base,ifxetex,latex,latex-fonts,latexconfig,marvosym,oberdiek,passivetex,psnfss,stmaryrd,symbol,tex-ini-files,tipa,tools,ulem,url,wasysym,zapfding
+containersize 29692
+containerchecksum 7a284d9eb0639b64299b59a3b29cf939786590ee7eb289a7f67793ac10b8945272116015d7ac8732870eca5a2751e17e9d69946664620cd8617d056f505ab85a
+doccontainersize 31788
+doccontainerchecksum 00014ee9e648cd179c8435c1eb90c804f8904ed890ab1c3f93ce8a8e04785a493682b4191c1790a1c0945761fa193b6c6f759e852e43445e896b0c97870247d4
+srccontainersize 19312
+srccontainerchecksum a9e70b48db9ee9fe389889acf512bb9db9010fa61e19aea210129098781d8f6f211548b1392ed2299945d7bf24cc213d43fab2fc7f792ccdeb8dce6ec1dab09f
+runfiles size=60
+ texmf-dist/tex/jadetex/base/dsssl.def
+ texmf-dist/tex/jadetex/base/jadetex.ini
+ texmf-dist/tex/jadetex/base/jadetex.ltx
+ texmf-dist/tex/jadetex/base/pdfjadetex.ini
+ texmf-dist/tex/jadetex/base/uentities.sty
+ texmf-dist/tex/jadetex/base/ut1omlgc.fd
+catalogue-contact-repository http://jadetex.sourceforge.net/
+catalogue-ctan /macros/jadetex
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics foreign-import
+catalogue-version 3.13

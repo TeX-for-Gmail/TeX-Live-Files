@@ -1,0 +1,21 @@
+name mcite
+category Package
+revision 18173
+shortdesc Multiple items in a single citation
+longdesc The mcite package allows the user to collapse multiple
+longdesc citations into one, as is customary in physics journals. The
+longdesc package requires a customised BibTeX style for its work; the
+longdesc documentation explains how to do that customisation.
+containersize 2656
+containerchecksum 71276681ec29d3d77450a8c343d64a1ea734bb48de0d693a4e9ca795e4a4c9a3d5f4103b5641c8684d49b5c95f56bfd08bd12e1d7e37d06f9170008b51804897
+doccontainersize 138716
+doccontainerchecksum 8c5ae4b1beb334ecba3294108345bd616746ee651f03d39a7bd5f5cac97f671a861fb046e29ae7565863aecf4b043ebe25bf9a4180889c39e48735251e430004
+srccontainersize 7060
+srccontainerchecksum 9f6e6edf49906bf3300123f8fe265ac8f8580c6838d59f7147e9337e67bff71325ee41a3993b3d1cdc9c036b5d519834261fb0a2a9cfe4d3afdbe070b454af8f
+runfiles size=2
+ texmf-dist/tex/latex/mcite/mcite.sty
+catalogue-ctan /macros/latex/contrib/mcite
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics cite-supp
+catalogue-version 1.6

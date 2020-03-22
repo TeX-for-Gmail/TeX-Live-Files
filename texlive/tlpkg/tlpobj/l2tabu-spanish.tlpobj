@@ -1,0 +1,16 @@
+name l2tabu-spanish
+category Package
+revision 15878
+shortdesc Spanish translation of "Obsolete packages and commands"
+longdesc A Spanish translation of the l2tabu practical guide to LaTeX2e
+longdesc by Mark Trettin. A list of obsolete packages, commands and
+longdesc usages.
+containersize 448
+containerchecksum 73cecbb031be2d421c25a7d6a5c04d08e30d83a88b4132682d434a879da915f1d4af56980f1bf04f7df5a3e881ecdd940a058a2dcf89b5e9f48c378eb322da06
+doccontainersize 227412
+doccontainerchecksum a6886d54c0f5e1915ff9efbc4974ab1ef7f6dc026d67a0596ed47ac9e94da098e690bc70d5ed3e45a4d8cbd0f877f0cd6cd3a3757288dfc2df284e9c040b7c1e
+catalogue-ctan /info/l2tabu/spanish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics spanish-doc
+catalogue-version 1.1

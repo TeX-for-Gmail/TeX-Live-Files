@@ -1,0 +1,20 @@
+name tableaux
+category Package
+revision 42413
+shortdesc Construct tables of signs and variations
+longdesc The package uses PSTricks; the user may define the width of the
+longdesc table, the number of lines and the height of each line.
+longdesc Placement of labels within the boxes may be absolute, or as a
+longdesc percentage of the width; various other controls are available.
+containersize 2920
+containerchecksum 1846fe9da749b92700be07c094556fd296d47123df3a5d6823570056e6ce2ca8ef365b70f6ab2a8577602d1be338867fd2610403f89729dd51632d404951f84f
+doccontainersize 57272
+doccontainerchecksum cfa58a8e76dd61659f6c13ea6b3f97ae484715b735028c513576312dfa7dfe92c8c15a0858077e3ff2399807274dd5a836182ea65b948a976f6384bd8d1b19d6
+runfiles size=3
+ texmf-dist/tex/latex/tableaux/minimum.sty
+ texmf-dist/tex/latex/tableaux/tableau.sty
+catalogue-also tablor tkz-tab tableauvariations tabvar
+catalogue-ctan /macros/latex/contrib/tableaux
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-tabvar

@@ -1,0 +1,18 @@
+name dviljk
+category TLCore
+revision 50602
+shortdesc DVI to Laserjet output
+longdesc A dvi driver for the LaserJet printers, using kpathsea
+longdesc recursive file searching. Note: this program will not compile
+longdesc simply with the sources in this distribution; it needs a full
+longdesc (current) kpathsea distribution environment, such as is
+longdesc available from the TeX Live source tree.
+depend dviljk.ARCH
+containersize 532
+containerchecksum 9c94578a0e4a43663cf1d3e05447d51ee84b892bb78ac105321b471e21417dd636bf8746d04c0decce06293f8ae8d8f60e0127b52796310a9c9dfc512158ab4c
+doccontainersize 74944
+doccontainerchecksum fa77f151e69f8baccbd01f8beb29c0143283892d42f5b0213909c7d434688a4e4c5e121ef9b8b73d93ebb211ca03a454ce309efd447a7d351968cbe9066b5ae8
+catalogue-ctan /dviware/dviljk
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics dvi-print

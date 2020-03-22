@@ -1,0 +1,22 @@
+name kantlipsum
+category Package
+revision 45866
+shortdesc Generate sentences in Kant's style
+longdesc The package spits out sentences in Kantian style; the text is
+longdesc provided by the Kant generator for Python by Mark Pilgrim,
+longdesc described in the book "Dive into Python". The package is
+longdesc modelled on lipsum, and may be used for similar purposes.
+containersize 23768
+containerchecksum 91fde97e7056454d9750b0751fbd3b81c7eb063ea57a8acfe9b3128de4569763426ec0acfbc7bc435cfa2bc6ea484fbfe4f1231ab25ef1a54353dd4af3f74675
+doccontainersize 568908
+doccontainerchecksum 39442708cdbbd0b69ad2eb647bcf0b2a8a68ff1e4c0783b3899b7bfde589af40c3c877a4655d4ed941393a96f1e94e7bb0a47f10e30b7ed5393522629a1e1daf
+srccontainersize 27380
+srccontainerchecksum 8305c6652ae38ead4d0ea7d0a5e323a778465e888ce6a40cd73c46cc7b39f2bf472be46d5cd78076719b3b13fe9c5240a21000b71a65c940fcdaa03e64fc22bd
+runfiles size=47
+ texmf-dist/tex/latex/kantlipsum/kantlipsum.sty
+catalogue-also blindtext
+catalogue-ctan /macros/latex/contrib/kantlipsum
+catalogue-date 2017-11-20 16:29:24 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp dummy-gen
+catalogue-version 0.7

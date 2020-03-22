@@ -1,0 +1,23 @@
+name babel-greek
+category Package
+revision 42010
+shortdesc Babel support for documents written in Greek
+longdesc The file provides modes for monotonic (single-diacritic) and
+longdesc polytonic (multiple-diacritic) modes of writing. Provision is
+longdesc made for Greek function names in mathematics, and for
+longdesc classical-era symbols.
+containersize 5736
+containerchecksum 20550086fe3f970ecd38d4b7104abe8c40ef1b12c4b139dd612e76808707b2590184436d4d4b9b1f67b23b618e86c2513434d144c73920af552f8b03523f039a
+doccontainersize 1023936
+doccontainerchecksum 44017bf5fdc55f37a3e8b14e385b7e36a8f8180b1adbf7c20523c8d7de0d830c0b4dcaea7b50230129318c0fb39363dbbed4a7e1a5525cc834ae721f40bc4383
+srccontainersize 20004
+srccontainerchecksum 96aa89aff00bf8302f44aba32723317bcc79de85901c70c8aed262d9149dbbe069e01173aafda71144716bbbe8fb599e42d33a0b68dc8930666dca136cb20619
+runfiles size=7
+ texmf-dist/tex/generic/babel-greek/athnum.sty
+ texmf-dist/tex/generic/babel-greek/greek.ldf
+ texmf-dist/tex/generic/babel-greek/grmath.sty
+catalogue-ctan /macros/latex/contrib/babel-contrib/greek
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1.3
+catalogue-topics greek multilingual-addon
+catalogue-version 1.9g

@@ -1,0 +1,17 @@
+name hanoi
+category Package
+revision 25019
+shortdesc Tower of Hanoi in TeX
+longdesc The Plain TeX program (typed in the shape of the towers of
+longdesc Hanoi) serves both as a game and as a TeX programming exercise.
+longdesc As a game it will solve the towers with (up to) 15 discs (with
+longdesc 15 discs, 32767 moves are needed).
+containersize 1496
+containerchecksum efc8c4892ea4cc8ae395907fc428fe74d535d689a68b3b21422c5c944d4defd57747e519dbca9bd2df2dd010b99e3132afceadee36d547fc11b04480147626c4
+runfiles size=1
+ texmf-dist/tex/plain/hanoi/hanoi.tex
+catalogue-ctan /macros/plain/contrib/hanoi
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics games
+catalogue-version 20120101

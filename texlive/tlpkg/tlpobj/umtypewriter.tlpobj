@@ -1,0 +1,22 @@
+name umtypewriter
+category Package
+revision 18651
+shortdesc Fonts to typeset with the xgreek package
+longdesc The UMTypewriter font family is a monospaced font family that
+longdesc was built from glyphs from the CB Greek fonts, the CyrTUG
+longdesc Cyrillic alphabet fonts ("LH"), and the standard Computer
+longdesc Modern font family. It contains four OpenType fonts which are
+longdesc required for use of the xgreek package for XeLaTeX.
+containersize 338592
+containerchecksum 44dc925eccfa4010566bc751bf202fbea6b369beb57c6851bffce2dab757bbcf415d601de44f97e929e046cdba1720ecd7bb6ca12c992674d33b43b9e0ce77ff
+runfiles size=197
+ texmf-dist/fonts/opentype/public/umtypewriter/UMTypewriter-Bold.otf
+ texmf-dist/fonts/opentype/public/umtypewriter/UMTypewriter-BoldItalic.otf
+ texmf-dist/fonts/opentype/public/umtypewriter/UMTypewriter-Italic.otf
+ texmf-dist/fonts/opentype/public/umtypewriter/UMTypewriter-Oblique.otf
+ texmf-dist/fonts/opentype/public/umtypewriter/UMTypewriter-Regular.otf
+catalogue-ctan /fonts/umtypewriter
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license ofl
+catalogue-topics font font-mono font-otf font-greek font-cyrillic font-cm
+catalogue-version 001.002

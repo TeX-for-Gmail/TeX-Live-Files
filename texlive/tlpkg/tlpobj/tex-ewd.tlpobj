@@ -1,0 +1,18 @@
+name tex-ewd
+category Package
+revision 15878
+shortdesc Macros to typeset calculational proofs and programs in Dijkstra's style
+longdesc Edsger W. Dijkstra and others suggest a unique style to present
+longdesc mathematical proofs and to construct programs. This package
+longdesc provides macros that support calculational proofs and
+longdesc Dijkstra's "guarded command language".
+containersize 3388
+containerchecksum 9850acafe002f1b6b147d00aee55e4cd9c1813edbea0f570282119fd8b2f134d3a48c113cc9957c69905c4e88a06097c45829026342d7ec88838870eedd7fc44
+doccontainersize 7684
+doccontainerchecksum 05f6414dd2309401d1800e2b053d7907703e144f829c2e7623a7c98c1313da50c0a659c25fa0d9a0fcb8b50891c575b47d8fb8a90b925e105ed9a6f8c45b8667
+runfiles size=2
+ texmf-dist/tex/generic/tex-ewd/dotnot.tex
+catalogue-ctan /macros/generic/tex-ewd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license bsd
+catalogue-topics maths

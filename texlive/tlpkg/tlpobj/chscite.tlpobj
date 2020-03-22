@@ -1,0 +1,22 @@
+name chscite
+category Package
+revision 28552
+shortdesc Bibliography style for Chalmers University of Technology
+longdesc The package, heavily based on the harvard package for
+longdesc Harvard-style citations, provides a citation suite for students
+longdesc at Chalmers University of Technology that follows given
+longdesc recommendations.
+containersize 6344
+containerchecksum 809c76b1bb47e194c43c869b27352578fb5490f6a9a8bbc2fae662b357bd36a099f5114765611d73fae87a846526781ceb7b45aa8968836c543e15f13e7ad7a8
+doccontainersize 191012
+doccontainerchecksum 215085d808b75d0d7f3e7e95830c63172606fd43e1e30a20e376f43d12959da71e8e77a6f06a6058d8ab9f9406f1260262af3e904ff65254e5d2635ca6d15975
+srccontainersize 9476
+srccontainerchecksum cf81a7ceda538e9a3a8bb0a78927c493d42993bb295680792ba643d6f771722e0fbe342bf59cd3104cccb63b1ece7905418b998c1af1dbd7c879cce024681f9f
+runfiles size=9
+ texmf-dist/bibtex/bst/chscite/chscite.bst
+ texmf-dist/tex/latex/chscite/chscite.sty
+catalogue-ctan /macros/latex/contrib/chscite
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.2
+catalogue-topics bibtex-supp
+catalogue-version 2.9999

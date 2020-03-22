@@ -1,0 +1,32 @@
+name uppunctlm
+category Package
+revision 42334
+shortdesc Always keep upright shape for some punctuation marks and Arabic numerals
+longdesc The package provides a mechanism to keep punctuation always in
+longdesc upright shape even if italic was specified. It is directed to
+longdesc Latin Modern fonts, and provides .tfm, .vf, .fd, and .sty
+longdesc files. Here a list of punctuation characters always presented
+longdesc in upright shapes: comma, period, semicolon, colon,
+longdesc parentheses, square brackets, and Arabic numerals.
+containersize 13992
+containerchecksum 522b68bd32887ba14ecd927c49c5fd57a84a1c0f9b8a0bfad65a4d377b68a7bd449754dd411a72fd83e5736e32e2c47cb1f54155f72395c465e4e09ad1d09dea
+doccontainersize 156432
+doccontainerchecksum d0f67dba683a40a6392121cd53b58df6d7ec6ffd8bf52df60f53537fc1b389de178dfceb1e772dfc9e292cc543448dac3a85cc6b712283b384ccfec4655c988e
+runfiles size=32
+ texmf-dist/fonts/tfm/public/uppunctlm/ec-uplmri10.tfm
+ texmf-dist/fonts/tfm/public/uppunctlm/ec-uplmri12.tfm
+ texmf-dist/fonts/tfm/public/uppunctlm/ec-uplmri7.tfm
+ texmf-dist/fonts/tfm/public/uppunctlm/ec-uplmri8.tfm
+ texmf-dist/fonts/tfm/public/uppunctlm/ec-uplmri9.tfm
+ texmf-dist/fonts/vf/public/uppunctlm/ec-uplmri10.vf
+ texmf-dist/fonts/vf/public/uppunctlm/ec-uplmri12.vf
+ texmf-dist/fonts/vf/public/uppunctlm/ec-uplmri7.vf
+ texmf-dist/fonts/vf/public/uppunctlm/ec-uplmri8.vf
+ texmf-dist/fonts/vf/public/uppunctlm/ec-uplmri9.vf
+ texmf-dist/tex/latex/uppunctlm/t1uplmr.fd
+ texmf-dist/tex/latex/uppunctlm/uppunctlm.sty
+catalogue-ctan /fonts/uppunctlm
+catalogue-date 2017-04-03 17:41:54 +0200
+catalogue-license gfsl
+catalogue-topics font font-virtual
+catalogue-version 0.1

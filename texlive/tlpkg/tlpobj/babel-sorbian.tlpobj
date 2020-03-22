@@ -1,0 +1,22 @@
+name babel-sorbian
+category Package
+revision 30294
+shortdesc Babel support for Upper and Lower Sorbian
+longdesc The package provides language definitions file for support of
+longdesc both Upper and Lower Sorbian, in babel. Some shortcuts are
+longdesc defined, as well as translations to the relevant language of
+longdesc standard "LaTeX names".
+containersize 3156
+containerchecksum 1c76a622852d0354112805a1db3b2ed6ac23656a754e2909c4bfceb0ab84db201f18d37d8c9fce527ea52fc4c2b302ff943353ec4cd5ab45da76dd4755a09be3
+doccontainersize 215620
+doccontainerchecksum f79448d484de1fb95394dd28c833661d6c9a686148b544fe28a60af17ffb50d36902d4b7b8b62772466d7588dfedf31e772d0ce5b32270732d0d2453dc7d0fd8
+srccontainersize 6236
+srccontainerchecksum 736c15e75d097f9475da38d80c495b28af4457736534092759750cffd2fed2ea54fbb4bcec656666f13cc2d61e82af59ea0ae665e30f73b251eb4fb35d44a8e3
+runfiles size=4
+ texmf-dist/tex/generic/babel-sorbian/lsorbian.ldf
+ texmf-dist/tex/generic/babel-sorbian/usorbian.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/sorbian
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1.3
+catalogue-topics sorbian
+catalogue-version lower sorbian:1.0g, upper:1.0k

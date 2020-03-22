@@ -1,0 +1,30 @@
+name tex-locale
+category Package
+revision 48500
+shortdesc Localisation support for TeX and LaTeX documents
+longdesc This package uses both tracklang and texosquery to look up the
+longdesc locale information from the operating system and provide
+longdesc commands that can access locale-dependent information, such as
+longdesc the currency symbol and decimal separator. The file
+longdesc tex-locale.tex provides generic TeX code. The LaTeX package
+longdesc tex-locale.sty can additionally load babel or polyglossia with
+longdesc the locale's language setting, as well as various other
+longdesc packages such as fontspec (XeLaTeX/LuaLaTeX) or fontenc +
+longdesc inputenc (pdfLaTeX).
+containersize 12328
+containerchecksum 0e3aca622bb6fb49a06a3aea1d997414add9272dd39c10c3a1d80956dece59882993b24366a1126acab80f8a7c8328a30756f727210f829f5eb838ac0b9cb1a6
+doccontainersize 940332
+doccontainerchecksum d3898da3687603b1f1f3f2f5b203d01c985ab0c3e39eeb05dc7c855c14fad8b73649777e4a0b7844c242bc8946cab80b585987eda37a1c10e3ba75c6955fee23
+srccontainersize 44596
+srccontainerchecksum b24a01b9845f79a86c12911e71ef179a4dd8f5a8284d067b760a8ac3cb906cbf2465ae3617e0196d9163348f3a865fea4e5869adac9921088b13d738803f87f4
+runfiles size=23
+ texmf-dist/tex/generic/tex-locale/tex-locale.tex
+ texmf-dist/tex/latex/tex-locale/tex-locale-encodings.def
+ texmf-dist/tex/latex/tex-locale/tex-locale-scripts-enc.def
+ texmf-dist/tex/latex/tex-locale/tex-locale-support.def
+ texmf-dist/tex/latex/tex-locale/tex-locale.sty
+catalogue-ctan /macros/generic/tex-locale
+catalogue-date 2018-08-28 05:08:56 +0200
+catalogue-license lppl1.3
+catalogue-topics env-query sys-supp
+catalogue-version 1.0

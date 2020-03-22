@@ -1,0 +1,15 @@
+name eqname
+category Package
+revision 20678
+shortdesc Name tags for equations
+longdesc The \eqname command provides a name tag for the current
+longdesc equation, in place of an equation number. The name tag will be
+longdesc picked up by a subsequent \label command.
+containersize 972
+containerchecksum 1717aa83439019ba2c07ced56ca5dc969a68b78c9a711d97d0a168d432c6e26b53f30b2a3f6f8d241acf465fe8817d7e4fc4238982a68bf2ae143c5fdc2ca72e
+runfiles size=1
+ texmf-dist/tex/latex/eqname/eqname.sty
+catalogue-ctan /macros/latex/contrib/gene/eqname
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics maths

@@ -1,0 +1,25 @@
+name lion-msc
+category Package
+revision 44131
+shortdesc LaTeX class for B.Sc. and M.Sc. reports at Leiden Institute of Physics (LION)
+longdesc LaTeX class for B.Sc. and M.Sc. reports at Leiden Institute of
+longdesc Physics (LION). The purpose of this class is twofold: It
+longdesc creates a uniform layout of the student theses from our
+longdesc department. More importantly it contains several fields on the
+longdesc front-page that the user needs to fill that are used in the
+longdesc university administration (name, student number and name of
+longdesc supervisor) Students are free to change the layout of the text
+longdesc but should leave the title page as it is.
+containersize 45288
+containerchecksum 0b33aa3b27ed50cf7d85d251b6c3a9909dba406892c66eab142ea12b894f62214c2265431f3ee3a21afcc031829cd8bb09c6363811b50e13f6a564dc8c2ac5c1
+doccontainersize 1997016
+doccontainerchecksum b994f14cbc776ebffaa540b0cb3fe3e2bd1a62165926791673e1132fd3aa686c6cc1eeb6108181e01ba58d3ed512e8b43191dff98807b85bca25bbcfd13a46a5
+runfiles size=20
+ texmf-dist/bibtex/bst/lion-msc/lion-msc.bst
+ texmf-dist/tex/latex/lion-msc/lion-msc-logo.pdf
+ texmf-dist/tex/latex/lion-msc/lion-msc.cls
+catalogue-ctan /macros/latex/contrib/lion-msc
+catalogue-date 2018-01-07 14:49:11 +0100
+catalogue-license lppl1.3
+catalogue-topics class dissertation class class class
+catalogue-version 0.27

@@ -1,0 +1,30 @@
+name missaali
+category Package
+revision 42810
+shortdesc A late medieval OpenType textura font
+longdesc This package contains the free OpenType Textura font Missaali
+longdesc and a style file for using it with XeLaTeX. Textura is a
+longdesc typeface based on the textus quadratus form of the textualis
+longdesc formata that late medieval scribes used for the most valuable
+longdesc manuscripts. The font Missaali is based on Textura that German
+longdesc printer Bartholomew Ghotan used for printing missals and
+longdesc psalters in the 1480s. This font has two intended use cases: as
+longdesc a Gothic display font; and for emulating late-medieval
+longdesc manuscripts. In addition to the basic textura letters, the font
+longdesc contains a large number of abbreviation sigla as well as a set
+longdesc of Lombardic initials. As modern typesetting algorithms are not
+longdesc intended for creating 15th century style layout, the package
+longdesc contains a XeLaTeX style file that makes it easier to achieve
+longdesc the classic incunabula look.
+containersize 63496
+containerchecksum d16285296232f45ba3eef2e427ecac59b248f9788abd5b2e9b9007f2013bcc52ceb482063290e3ebe6ea625adefdd05b5948546e0a4c17377a6e4de30ecca041
+doccontainersize 7898860
+doccontainerchecksum c786638ba6c5d03395e8efdcc1295ec7b7470daa058b7bdaff4452e4524cc2467606bd7eea5591826c8aa50ed22baecd18319dfdb28bcaed6d2afce176e984a1
+runfiles size=68
+ texmf-dist/fonts/opentype/public/missaali/Missaali-Regular.otf
+ texmf-dist/tex/latex/missaali/missaali.sty
+catalogue-ctan /fonts/missaali
+catalogue-date 2016-12-31 06:02:05 +0100
+catalogue-license ofllppl1.3
+catalogue-topics font-otf font-archaic
+catalogue-version 1.004

@@ -1,0 +1,19 @@
+name multiaudience
+category Package
+revision 38035
+shortdesc Several versions of output from the same source
+longdesc This package allows to generate several versions of the same
+longdesc document for different audiences.
+containersize 1520
+containerchecksum 58610f5b5138f7713fcd3e21fac721d0cc0a796e928bd5bd89e5981e08a0d4d6888f6f4f2dc2c6b9afecfbf0366462109be7a497ff6017e3b76ba83b361fe2f1
+doccontainersize 488772
+doccontainerchecksum 5db8176fc1c40091db428b73bbb8bb3eb2e7b14b8c8a681e7d5dcf04d990873fbe456d389e468456650faae3939e38d1217057485d60750cb29aef89e8e15b69
+srccontainersize 5124
+srccontainerchecksum acb69d29f8f12a205b4560700330d0a94593595056784275a79531351c674ecb560cb453956a5eb088f09a666ba4c72a2bc64a79b954d13263559093d06d33a7
+runfiles size=1
+ texmf-dist/tex/latex/multiaudience/multiaudience.sty
+catalogue-ctan /macros/latex/contrib/multiaudience
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics cond-comp
+catalogue-version 1.03

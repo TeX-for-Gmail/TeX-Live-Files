@@ -1,0 +1,8 @@
+name exceltex.x86_64-linux
+category Package
+revision 25860
+shortdesc x86_64-linux files of exceltex
+containersize 340
+containerchecksum 0171a2f498f3f76b7c75865dad7438027523f3860d64306fdf40307694589df5871a8198afadf796a99fba0e117dcd189577f6d75aba0355d53c3f11f61b0b93
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/exceltex

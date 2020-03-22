@@ -1,0 +1,25 @@
+name gcite
+category Package
+revision 15878
+shortdesc Citations in a reader-friendly style
+longdesc The package allows citations in the German style, which is
+longdesc considered by many to be particularly reader-friendly. The
+longdesc citation provides a small amount of bibliographic information
+longdesc in a footnote on the page where each citation is made. It
+longdesc combines a desire to eliminate unnecessary page-turning with
+longdesc the look-up efficiency afforded by numeric citations. The
+longdesc package makes use of BibLaTeX, and is considered experimental;
+longdesc comment is invited.
+containersize 1884
+containerchecksum 169d9e96121d80bcbe7580e7ff447e8df252b19dca5b304514a792764344df679e9275b1a552d67070d3f5b0fc41c70a6cf1ce9c90358dd9ab58878643be6015
+doccontainersize 164560
+doccontainerchecksum d9b50778855efc00ba4d6d6f48891865853b8de8e55c3432140b0ba69767c6c13ab934c2be43b2556a862bbb5413ddccce158ec4130576617a75708919f1ab0c
+srccontainersize 7576
+srccontainerchecksum 44e8fdfff2e015a9bb034496454016f8f03e08e2f5b8ca907670447694877a383ca99a5673db107397dba07142e99cf01d9ee59a4a360d6146a389de7d103cb1
+runfiles size=1
+ texmf-dist/tex/latex/gcite/gcite.sty
+catalogue-ctan /macros/latex/exptl/gcite
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex german
+catalogue-version 1.0.1

@@ -1,0 +1,43 @@
+name dantelogo
+category Package
+revision 38599
+shortdesc A font for DANTE's logo
+longdesc The DANTE font for the logo of DANTE (http://www.dante.de), the
+longdesc German speaking TeX users group. The font includes only the
+longdesc five characters d, a, n, t, and e. dantelogo.sty provides an
+longdesc interface for LuaLaTeX/XeLaTeX/pdfLaTeX.
+execute addMap dante.map
+containersize 17044
+containerchecksum 883c5d6f8368bed41002eae123329954fe38cc23a5e6db7feecd57c16540b6b9277cf7d13af6ce8f63994c11148708e1d3dd10ddd9d17457b015d40477f91eac
+doccontainersize 203152
+doccontainerchecksum 4612de774c6a39c7f09dfc99aa182fd37d9f3e32dece37726f1e87e48e5faae246f2959992267f5b2cb685c26177e47c5112fbe42b8f1ac3a60da92e6276a681
+runfiles size=37
+ texmf-dist/fonts/enc/dvips/dantelogo/dante.enc
+ texmf-dist/fonts/map/dvips/dantelogo/dante.map
+ texmf-dist/fonts/opentype/public/dantelogo/DANTE-Bold-Italic.otf
+ texmf-dist/fonts/opentype/public/dantelogo/DANTE-Bold.otf
+ texmf-dist/fonts/opentype/public/dantelogo/DANTE-Italic.otf
+ texmf-dist/fonts/opentype/public/dantelogo/DANTE.otf
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Bold--texnansx--base.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Bold--texnansx.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Bold-Italic--texnansx--base.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Bold-Italic--texnansx.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Bold.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Italic--texnansx--base.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE-Italic--texnansx.tfm
+ texmf-dist/fonts/tfm/public/dantelogo/DANTE.tfm
+ texmf-dist/fonts/type1/public/dantelogo/DANTE-Bold-Italic.pfb
+ texmf-dist/fonts/type1/public/dantelogo/DANTE-Bold.pfb
+ texmf-dist/fonts/type1/public/dantelogo/DANTE-Italic.pfb
+ texmf-dist/fonts/type1/public/dantelogo/DANTE.pfb
+ texmf-dist/fonts/vf/public/dantelogo/DANTE-Bold--texnansx.vf
+ texmf-dist/fonts/vf/public/dantelogo/DANTE-Bold-Italic--texnansx.vf
+ texmf-dist/fonts/vf/public/dantelogo/DANTE-Italic--texnansx.vf
+ texmf-dist/tex/latex/dantelogo/OT1DANTE.fd
+ texmf-dist/tex/latex/dantelogo/T1DANTE.fd
+ texmf-dist/tex/latex/dantelogo/dantelogo.sty
+catalogue-ctan /fonts/dantelogo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-otf font-type1
+catalogue-version 0.03

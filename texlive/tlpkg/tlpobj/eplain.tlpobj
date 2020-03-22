@@ -1,0 +1,40 @@
+name eplain
+category Package
+revision 48634
+shortdesc Extended plain TeX macros
+longdesc An extended version of the plain TeX format, adding support for
+longdesc bibliographies, tables of contents, enumerated lists, verbatim
+longdesc input of files, numbered equations, tables, two-column output,
+longdesc footnotes, hyperlinks in PDF output and commutative diagrams.
+longdesc Eplain can also load some of the more useful LaTeX packages,
+longdesc notably graphics, graphicx (an extended of version of
+longdesc graphics), color, autopict (a package instance of the LaTeX
+longdesc picture code), psfrag, and url.
+depend pdftex
+depend babel
+depend cm
+depend dehyph
+depend hyphen-base
+depend knuth-lib
+depend latex-fonts
+depend plain
+depend eplain.ARCH
+execute AddFormat name=eplain engine=pdftex patterns=language.dat           options="-translate-file=cp227.tcx *eplain.ini"           fmttriggers=babel,cm,dehyph,hyphen-base,knuth-lib,latex-fonts,plain
+containersize 42084
+containerchecksum 0eefdc4aebe99e2296d27e4c81a5112fa3b896b8352ef225e94bae464bb72517c47f07cfe1a9beccfdb7c1200d8547b9157bda729881cea07de9c9897fdd3224
+doccontainersize 993284
+doccontainerchecksum d906efdebf758ea2176317727e2fc896c8ddf0630474c3f808228d17ce0d335fec3db0036539b4051d8ce4149ff6ab3a295ae8ff8963638b950352872a30e39b
+srccontainersize 381044
+srccontainerchecksum e11e49a737afb64c9e112f91f51df12b96c1a810d02fd3d8f04580614b2993ba81c3af83f84b7957135a423ea33acc76f6670f6d87fb78af24f05aa50660437c
+runfiles size=50
+ texmf-dist/tex/eplain/arrow.tex
+ texmf-dist/tex/eplain/btxmac.tex
+ texmf-dist/tex/eplain/eplain.aux
+ texmf-dist/tex/eplain/eplain.ini
+ texmf-dist/tex/eplain/eplain.tex
+catalogue-contact-home http://tug.org/eplain/
+catalogue-ctan /macros/eplain
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2
+catalogue-topics plain-ext format
+catalogue-version 3.8

@@ -1,0 +1,22 @@
+name textglos
+category Package
+revision 30788
+shortdesc Typeset and index linguistic gloss abbreviations
+longdesc The package provides a set of macros for in-line linguistic
+longdesc examples (as opposed to interlinear glossing, set apart from
+longdesc the main text). It prevents hyphenated examples from breaking
+longdesc across lines and consistently formats phonemic examples,
+longdesc orthographic examples, and more.
+containersize 1832
+containerchecksum 1652260a3e946a8847ceb7f937893bad27a24737d9b3573466f7369ce9cdbf900af0ef6c7f0bf3033200664da736e8232c3fbf6db61bb7d51acec1010d13a3e0
+doccontainersize 421316
+doccontainerchecksum 922ce1569fce889bc4608e9a5da4a45b7c3d2e80303ac36167efe6767c266844664de00384447e288da70383fe91261e5914394a6fdf8644349f785600271e5e
+srccontainersize 7652
+srccontainerchecksum 0dc80a20fcb8926b9bf586808bff2403452e43471983d0bf49bebd310d2bf78cb1e61cd4674f7bfcf86d94ee083d2c8e0099554858549dc5c6703d0f4ca57dbb
+runfiles size=1
+ texmf-dist/tex/latex/textglos/textglos.sty
+catalogue-ctan /macros/latex/contrib/textglos
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics linguistic
+catalogue-version 1.0

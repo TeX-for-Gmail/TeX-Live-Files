@@ -1,0 +1,42 @@
+name othello
+category Package
+revision 15878
+shortdesc Modification of a Go package to create othello boards
+longdesc A package (based on Kolodziejska's go), and fonts (as Metafont
+longdesc source) are provided.
+containersize 5456
+containerchecksum cddd446d5b63ed22ebc4e561e43fa8b4b1ab2cdb1ecc45ab98e60d6799646845a9d432aa45248e7cf70bfc4aea10cd42960a8846479df46a7cd701f792b4ca74
+doccontainersize 12056
+doccontainerchecksum 8ba85bf32ff739e4588512c2b33bf242b00e3f38a7ddb1b3f5582cd19b925e1adf52b4243857f1ef4b9d8198e8dc80a9aff8a63a7b3ff926978dc7e5c81262de
+runfiles size=41
+ texmf-dist/fonts/source/public/othello/ot.mf
+ texmf-dist/fonts/source/public/othello/ot10.mf
+ texmf-dist/fonts/source/public/othello/ot15.mf
+ texmf-dist/fonts/source/public/othello/ot1bla10.mf
+ texmf-dist/fonts/source/public/othello/ot1bla15.mf
+ texmf-dist/fonts/source/public/othello/ot1bla20.mf
+ texmf-dist/fonts/source/public/othello/ot1black.mf
+ texmf-dist/fonts/source/public/othello/ot1neu.mf
+ texmf-dist/fonts/source/public/othello/ot1neu10.mf
+ texmf-dist/fonts/source/public/othello/ot1neu15.mf
+ texmf-dist/fonts/source/public/othello/ot1neu20.mf
+ texmf-dist/fonts/source/public/othello/ot1whi10.mf
+ texmf-dist/fonts/source/public/othello/ot1whi15.mf
+ texmf-dist/fonts/source/public/othello/ot1whi20.mf
+ texmf-dist/fonts/source/public/othello/ot1white.mf
+ texmf-dist/fonts/tfm/public/othello/ot10.tfm
+ texmf-dist/fonts/tfm/public/othello/ot15.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1bla10.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1bla15.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1bla20.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1neu10.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1neu15.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1neu20.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1whi10.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1whi15.tfm
+ texmf-dist/fonts/tfm/public/othello/ot1whi20.tfm
+ texmf-dist/tex/latex/othello/othello.sty
+catalogue-ctan /macros/latex/contrib/othello
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics games font font-mf font-specialist

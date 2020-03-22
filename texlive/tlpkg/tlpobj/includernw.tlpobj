@@ -1,0 +1,22 @@
+name includernw
+category Package
+revision 47557
+shortdesc Include .Rnw inside .tex
+longdesc This package is for including .Rnw (knitr/sweave)-files inside
+longdesc .tex-files. It requires that you have R and the R-package knitr
+longdesc installed. Note: This package will probably not work on
+longdesc Windows. It is tested only on OS X, and will probably also work
+longdesc on standard Linux distros.
+containersize 3116
+containerchecksum a2b43d658ed62ff3a301a1b190cc46f04a4a46f413ed4af3e0f84f1873efc6841cd23fc07d68a90cca50b6ed00ccf654aef9dcb6a8b4863277b06c7e8c666e6b
+doccontainersize 157728
+doccontainerchecksum 8ebde646868cebadd8d50cfca25cd8d924c0112129ea86b0ca3ae5b9f9f4e4fec3c1e464486ec0f92e5cf7b7fe3df1fceb1a7967bfec755c57645e6909705c0b
+runfiles size=2
+ texmf-dist/tex/latex/includernw/includeRnw.sty
+catalogue-contact-bugs https://github.com/Strauman/includeRnw/issues
+catalogue-contact-repository https://github.com/Strauman/includeRnw
+catalogue-ctan /macros/latex/contrib/includernw
+catalogue-date 2018-05-01 13:33:04 +0200
+catalogue-license lppl1.3c
+catalogue-topics subdocs statistics compilation
+catalogue-version 0.1.0

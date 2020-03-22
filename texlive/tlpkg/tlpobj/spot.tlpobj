@@ -1,0 +1,21 @@
+name spot
+category Package
+revision 22408
+shortdesc Spotlight highlighting for Beamer
+longdesc The package allows dramatic highlighting of words and phrases
+longdesc by painting shapes around them. It is chiefly intended for use
+longdesc in Beamer presentations, but it can be used in other document
+longdesc classes as well.
+containersize 2520
+containerchecksum 95a7bf0a9e04e7157fe27499a7a2d2bf3e8d86f284e9c2d150c40b5efc1786d4820af20ccde7f5b649a775d7a13d25a78347138a200335fc0b9e4165dd3e1f0e
+doccontainersize 233272
+doccontainerchecksum 26ee8b13622a46078e8199c818dc353801af36afdbf67707a6942202fa458e7cbe9a000a4ea022d0dc4ec6ddb3a63c6adadf240cf207778765e47b2db636ea5b
+srccontainersize 9784
+srccontainerchecksum 96438aef76ade4df7f4f49d819f96792a28dcf3a0f5e50498f854c047a7754accd31d679d034886eafbfd32c0d4eb941e8a888a1ea94fb332b8b48912d0f673f
+runfiles size=2
+ texmf-dist/tex/latex/spot/spot.sty
+catalogue-ctan /macros/latex/contrib/beamer-contrib/spot
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics presentation
+catalogue-version 1.1

@@ -1,0 +1,23 @@
+name mtgreek
+category Package
+revision 17967
+shortdesc Use italic and upright greek letters with mathtime
+longdesc This package is an add-on to the MathTime a style to provide
+longdesc TeX support for the use of the MathTime(tm) fonts (formerly
+longdesc distributed by YandY, Inc.). The MathTime package has uppercase
+longdesc Greek letters hardwired to be upright and only upright; this
+longdesc package provides a switch to choose between the two kinds of
+longdesc Greek uppercase letters.
+containersize 1744
+containerchecksum fbc20f61e1d4e9d3ebf4a92216c7c007f2aec2b2cac0aca6e08f0e1ea5f6f405a32d947efcea0057a025a138afc85e0d1486191ee82fa9a0e9f2f6e2542a9e11
+doccontainersize 160144
+doccontainerchecksum 49631058e9bfc59dd38a7e0e2134f6d9ddf68779a6f8087a056a89fef975154510496415b782102dfeae6b5563527fb6178ce301b004fe33a4dfa8dbeb4474ac
+srccontainersize 2800
+srccontainerchecksum d69c6248a4d8fbb9a64cd539e7f66db5373f9551d27c98b755377594f9b1680a323719599f5963972d169399a0686b5e6f500148cc54881d23d8adb3b91bf4f9
+runfiles size=1
+ texmf-dist/tex/latex/mtgreek/mtgreek.sty
+catalogue-ctan /macros/latex/contrib/mtgreek
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp greek
+catalogue-version 1.1+

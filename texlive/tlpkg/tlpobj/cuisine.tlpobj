@@ -1,0 +1,20 @@
+name cuisine
+category Package
+revision 34453
+shortdesc Typeset recipes
+longdesc Typeset recipes with the ingredients lined up with their method
+longdesc step (somewhat similarly to the layout used in cooking).
+containersize 3000
+containerchecksum cb594c2ef79a1d1614ad2b7bedff3b5bd9853bf36947751c880c36c73a458152eb7036861d0292614992623192841c28a3f4010bc0c4107fd8a4277154a1baf5
+doccontainersize 256720
+doccontainerchecksum 9e4f55bf8199b4bd06847dd39e67e91a8a6885b3903c9ea772199d9b9fd9d7cade173dff6f785d143b4e7c3b154477622a4c2cad14576b22068a6729693a8227
+srccontainersize 11764
+srccontainerchecksum 1df5e248af42513b212d4c18cd95c8c9f2155598604624cf3b5e5e5b020643bdbb9c3addf03d8ff111c14185234d42f0db8a06a9de040fa0b58cec3895f32731
+runfiles size=4
+ texmf-dist/tex/latex/cuisine/cuisine.sty
+catalogue-also recipe
+catalogue-ctan /macros/latex/contrib/cuisine
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cooking
+catalogue-version 0.7

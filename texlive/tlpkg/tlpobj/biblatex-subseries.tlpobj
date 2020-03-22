@@ -1,0 +1,23 @@
+name biblatex-subseries
+category Package
+revision 43330
+shortdesc Manages subseries with BibLaTeX
+longdesc Some publishers organize book series with subseries. In this
+longdesc case, two numbers are associated with one volume: the number
+longdesc inside the series and the number inside the subseries. That is
+longdesc the case of the series Corpus Scriptorium Christianorum
+longdesc Orientalium published by Peeters. This package provides new
+longdesc fields to manage such system.
+containersize 1384
+containerchecksum 37955d7e547fceb3e3856f5e367d39a4952ee0d604652963db2a54466e9d6c1effb6b2c195ffd1dd15eec5552df97419a09763bc51af06c6726dbe40a6e3bbae
+doccontainersize 70196
+doccontainerchecksum 94bf4807e0623c35690ef7b1fd879710a762630224c0a52ee4e7b4a96c27001a9653de2c7d2ecd2a12cda448bfbdc336c54bcc8fb6674782af017cddfdc8e5fb
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-subseries/subseries.bbx
+ texmf-dist/tex/latex/biblatex-subseries/subseries.dbx
+catalogue-contact-repository https://git.framasoft.org/maieul/biblatex-subseries
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-subseries
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex biblio
+catalogue-version 1.2.0

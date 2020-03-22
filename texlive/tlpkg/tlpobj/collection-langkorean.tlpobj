@@ -1,0 +1,19 @@
+name collection-langkorean
+category Collection
+revision 42106
+shortdesc Korean
+longdesc Support for Korean; additional packages in collection-langcjk.
+depend collection-langcjk
+depend baekmuk
+depend cjk-ko
+depend kotex-oblivoir
+depend kotex-plain
+depend kotex-utf
+depend kotex-utils
+depend lshort-korean
+depend nanumtype1
+depend uhc
+depend unfonts-core
+depend unfonts-extra
+containersize 388
+containerchecksum 6234b292f8b36a13d1a3543fb8ba19cb3cdab2fa30df008f1e33e62f4e6f291280b9f3e85aa21e5400ddd59392e698ddbf8c9c642934242402e93d6e3661d914

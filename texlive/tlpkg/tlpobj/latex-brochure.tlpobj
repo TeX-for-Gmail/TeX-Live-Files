@@ -1,0 +1,17 @@
+name latex-brochure
+category Package
+revision 40612
+shortdesc A publicity flyer for LaTeX
+longdesc The document is designed as a publicity flyer for LaTeX, but
+longdesc also serves as an interesting showcase of what LaTeX can do.
+longdesc The flyer is designed for printing, double-sided, on A3 paper,
+longdesc which would then be folded once.
+containersize 500
+containerchecksum de98a91947d5cb919b6a2c6e6a87f63499c8c5975992d039bb8d2a4662ed597cbdad99668b006cf775f71af936e5ad285958b48b57eac61783460fe37ed76298
+doccontainersize 6200016
+doccontainerchecksum f057b86b61ee1f50430cdb83a56c27896e052047bbc93c4f09884b7d76f16f73cb1b570341faa2b8c771c0d42bb4d6450b8715c921fe866a57727eb4ffdd329a
+catalogue-also latex-veryshortguide
+catalogue-ctan /info/latex-brochure
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics advert

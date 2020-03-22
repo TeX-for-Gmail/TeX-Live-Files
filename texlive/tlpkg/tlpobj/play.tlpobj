@@ -1,0 +1,20 @@
+name play
+category Package
+revision 15878
+shortdesc Typeset drama using LaTeX
+longdesc A class and style file that supports the typesetting of plays,
+longdesc including options for line numbering.
+containersize 2196
+containerchecksum 040468367a783e7bc49dd4b51e22a72c41ff2985a52e2551b3be6780767e17c8d11178f097cc66f5683033eb03cc2ebc2c08c1f4477daa7b8f9e22d8a40dd385
+doccontainersize 552
+doccontainerchecksum 97c882b12ab350c5b0fe066e04ea7c2c136b1dc7ca29e51d8f89ed695769c9ef1ed255c3c109ff71838bde91d25167a398230cd25809f1374ca306fbd9ae68fa
+srccontainersize 4972
+srccontainerchecksum 3bf9b5449611ce72af26a68c99a7ea813c7eebce59336d5c7bf65da1a870e6c26238f803ba8e07ee2a084826e6bee7ec819a919e7abbbbf11946f611cab17a03
+runfiles size=3
+ texmf-dist/tex/latex/play/play.cls
+ texmf-dist/tex/latex/play/play.sty
+catalogue-also xmlplay
+catalogue-ctan /macros/latex/contrib/play
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics drama-script

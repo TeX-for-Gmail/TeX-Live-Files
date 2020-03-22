@@ -1,0 +1,30 @@
+name forms16be
+category Package
+revision 45178
+shortdesc Initialize form properties using big-endian encoding
+longdesc This package provides support for UTF-16BE Unicode character
+longdesc encoding (called a big-endian character string) for the text
+longdesc string type (PDF Reference, version 1.7, beginning on page
+longdesc 158). Text strings are used in "text annotations, bookmark
+longdesc names, article threads, document information, and so forth" (to
+longdesc partially quote page 158). The particular application is to set
+longdesc property values of form fields, at least those properties that
+longdesc take the text strings as its value. The package contains
+longdesc support for Basic Latin plus the ability to enter any unicode
+longdesc character using the notation \uXXXX, where XXXX are four hex
+longdesc digits. The Package works for dvips/Distiller, pdfLaTeX,
+longdesc LuaLaTeX, and XeLaTeX.
+containersize 2164
+containerchecksum 2afb4f5190fe55ef12e9b220c77ef0ca21b01c1c0e2e9e7bc269f06b6f6572f5078cbdd025671a36db3d0fe395fdeb7564ef7c6275bea69d109a306152baa554
+doccontainersize 1201520
+doccontainerchecksum 5a56a9f864ea2bb95d5199a9b54acf8d2d4aee073057c51abf96facee9e741057124c60a5d22417aa3209bf9ea804e115552035fbfb2a22032229acedba1159d
+srccontainersize 4784
+srccontainerchecksum 0f5eb36894db0ecffa38c260c059d8b864794eae0b5a43417da87c7487b2115e6e2e3cd96e85bf495efe5f39a2870216bbff40094b3deb8593126e853d7993e6
+runfiles size=2
+ texmf-dist/tex/latex/forms16be/forms16be.sty
+ texmf-dist/tex/latex/forms16be/uni4basic-latin.def
+catalogue-ctan /macros/latex/contrib/forms16be
+catalogue-date 2018-06-12 05:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics form-fillin pdf-feat adobe-distiller
+catalogue-version 1.2

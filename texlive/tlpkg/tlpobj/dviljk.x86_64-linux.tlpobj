@@ -1,0 +1,13 @@
+name dviljk.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dviljk
+containersize 87640
+containerchecksum aa60f982565509d631fb8d24fd9057e3983a9558df7d71f956007e4846757985b88f6a2046fd85696cc1f1ddb80bbd0696c1ccb4382909e7fc5f9e2dea99d97b
+binfiles arch=x86_64-linux size=127
+ bin/x86_64-linux/dvihp
+ bin/x86_64-linux/dvilj
+ bin/x86_64-linux/dvilj2p
+ bin/x86_64-linux/dvilj4
+ bin/x86_64-linux/dvilj4l
+ bin/x86_64-linux/dvilj6

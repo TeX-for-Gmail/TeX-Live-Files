@@ -1,0 +1,20 @@
+name gu
+category Package
+revision 15878
+shortdesc Typeset crystallographic group-subgroup-schemes
+longdesc The package simplifies typesetting of simple crystallographic
+longdesc group-subgroup-schemes in the Barnighausen formalism. It
+longdesc defines a new environment stammbaum, wherein all elements of
+longdesc the scheme are defined. Afterwards all necessary dimensions are
+longdesc calculated and the scheme is drawn. Currently two steps of
+longdesc symmetry reduction are supported.
+containersize 6148
+containerchecksum 243eb6ca0af62518d60134a8fa66f91ab05e39c96fa9c0ebeb2232d27f46679da0a634b64273608028bef7f80bfaaf049dcd9f0cd935d5f66b0d5054b2d21a20
+doccontainersize 724360
+doccontainerchecksum 151f9765d6da2312a10523ffca06cb4e0529d4ebf8189e9ddc00f86510c9cd13be9a04e47b85dc8cd815461c17f7e4b8be9604a1a605c86d7228d1113f985a23
+runfiles size=8
+ texmf-dist/tex/latex/gu/gu.sty
+catalogue-ctan /macros/latex/contrib/gu
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics crystallography

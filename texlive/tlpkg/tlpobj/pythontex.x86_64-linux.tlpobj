@@ -1,0 +1,9 @@
+name pythontex.x86_64-linux
+category Package
+revision 31638
+shortdesc x86_64-linux files of pythontex
+containersize 364
+containerchecksum d6f8d47872f3d2978917d74155adfd292a20b990c3b05a3c41860e5648226e258640662c08a3d803c8fcaf949bf0cc7e63d367b86b71a5ab99a1bf7161004f4a
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/depythontex
+ bin/x86_64-linux/pythontex

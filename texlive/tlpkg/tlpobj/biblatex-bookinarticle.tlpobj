@@ -1,0 +1,21 @@
+name biblatex-bookinarticle
+category Package
+revision 40323
+shortdesc Manage book edited in article
+longdesc This package provides three new BibLaTeX entry types -
+longdesc @bookinarticle, @bookinincollection and @bookinthesis - to
+longdesc refer to a modern edition of an old book, where this modern
+longdesc edition is provided in a @article, @incollection or in a
+longdesc @thesis. The package is now superseded by biblatex-bookinother.
+containersize 1968
+containerchecksum 8a7bfae09d95434d6db671e4037a2f1d5c1ba9cae5982e286389364ee2ff24f9a2daee78c69e529efd06be37d2e6a6f860820361feb42f5b84157dda2ef0988f
+doccontainersize 104796
+doccontainerchecksum 727228b915e6b370a74b4d38dffde3bbb7ae47973c33263bafab2aa6b640102775dbeeea7f09c046903dbfe86dbdfcdd8e0418d125a51678e603425328cd2da1
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-bookinarticle/biblatex-bookinarticle.sty
+catalogue-contact-repository https://github.com/maieul/biblatex-bookinarticle
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-bookinarticle
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 1.3.1a

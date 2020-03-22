@@ -1,0 +1,27 @@
+name txuprcal
+category Package
+revision 43327
+shortdesc Upright calligraphic font based on TX calligraphic
+longdesc This small package provides a means of loading as \mathcal an
+longdesc uprighted version of the calligraphic fonts from the TX font
+longdesc package. A scaled option to provided to allow arbitrary
+longdesc scaling.
+execute addMap TXUprCal.map
+containersize 51556
+containerchecksum f6840ff0846b52130b65c81513d4bf358dfea413ac6d7f324eab592b96d5277d7036e5d991dbfc1ecf6376fd35baaf0351818eed69a21b6ba88e25f878a41ef1
+doccontainersize 86800
+doccontainerchecksum f5bd216c689b0368bbbfe29f7fbd57bb7c02344d8696af488fdd7f1078fc5ad9ac7ad5565f1408b7b7d19224093d1418c1e3d8920b8cb0cece770811576c894a
+runfiles size=19
+ texmf-dist/fonts/map/dvips/txuprcal/TXUprCal.map
+ texmf-dist/fonts/tfm/public/txuprcal/txUprCal-Bold.tfm
+ texmf-dist/fonts/tfm/public/txuprcal/txUprCal-Regular.tfm
+ texmf-dist/fonts/type1/public/txuprcal/txuprcal-bold.pfb
+ texmf-dist/fonts/type1/public/txuprcal/txuprcal-reg.pfb
+ texmf-dist/tex/latex/txuprcal/txuprcal.sty
+ texmf-dist/tex/latex/txuprcal/utxuprcal.fd
+catalogue-also txfonts
+catalogue-ctan /fonts/txuprcal
+catalogue-date 2017-03-09 05:20:00 +0100
+catalogue-license gpl3
+catalogue-topics font-maths font-type1
+catalogue-version 1.00

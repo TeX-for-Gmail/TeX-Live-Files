@@ -1,0 +1,26 @@
+name simpler-wick
+category Package
+revision 39074
+shortdesc Simpler Wick contractions
+longdesc In every quantum field theory course, there will be a chapter
+longdesc about Wick's theorem and how it can be used to convert a very
+longdesc large product of many creation and annihilation operators into
+longdesc something more tractable and normal ordered. The contractions
+longdesc are denoted with a square bracket over the operators which are
+longdesc being contracted, which used to be rather annoying to typeset
+longdesc in LaTeX as the only other package available was simplewick,
+longdesc which is rather unwieldy. This package provides a simpler
+longdesc syntax for Wick contractions.
+containersize 2612
+containerchecksum 2bead248c2380e19fb19012ba2cf7a41fdd113f48a372011c27ebac0820236500c5e49e5235e2c52fcc5a0f9c79f61cbf76a5d6de86322bc40382f5499216783
+doccontainersize 58000
+doccontainerchecksum d8a45e06707d3e6c39e36d83020f0a2d4654cab508d91e47022320e67454d08958cfd6d3872c5ae40539f29b03080915e136746452afb9f2e74fe8be2ec20bc1
+runfiles size=2
+ texmf-dist/tex/latex/simpler-wick/simpler-wick.sty
+catalogue-also simplewick
+catalogue-contact-repository https://jp-ellis.github.io/projects/simpler-wick/
+catalogue-ctan /macros/latex/contrib/simpler-wick
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics physics
+catalogue-version 1.0.0

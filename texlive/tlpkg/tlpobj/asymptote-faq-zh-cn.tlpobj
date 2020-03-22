@@ -1,0 +1,13 @@
+name asymptote-faq-zh-cn
+category Package
+revision 15878
+shortdesc Asymptote FAQ (Chinese translation)
+longdesc This is a Chinese translation of the Asymptote FAQ
+containersize 380
+containerchecksum 1efc7098392ac5cad5eeaa0dcf527bd158e3f7497ff1992603b833ff63d5cfa61fe5e7bc33c5cc0c441c13fc03dfe1e18a334411be6ad2f5acc94c902e9ccf2c
+doccontainersize 373604
+doccontainerchecksum b7dbcf256cffae9cc8f5027934946929b4be7a8794fb8364892802eeff4e7cf970ca8549ef442a35f173ada61533b51c2da301bf2ce931107a7ce0c564ce0c60
+catalogue-ctan /info/asymptote-faq-zh-cn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics chinese-doc

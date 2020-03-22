@@ -1,0 +1,21 @@
+name multiobjective
+category Package
+revision 15878
+shortdesc Symbols for multiobjective optimisation etc
+longdesc The package provides a series of operators commonly used in
+longdesc papers related to multiobjective optimisation, multiobjective
+longdesc evolutionary algorithms, multicriteria decision making and
+longdesc similar fields.
+containersize 1436
+containerchecksum 80b0f340f19dff329cd9f0fc32cbb9a8cf690243aa925d6687b9da345984f9eba9c0db7b62fedd2a54f077d841b9cbe91e47c98140f1cfeebdb16fc05408898d
+doccontainersize 95288
+doccontainerchecksum 3a7c68054a85bbad36b6516c52ea74c35ce11c5ffd6f3d1f235ecc2ea55209343a4ff609857877094fb7f8861e8b7c54c8c979d06cc3b3583fb64e997372ae9c
+srccontainersize 2968
+srccontainerchecksum 99b9d17438d9f3f8a6ac40d0e705371d255af957fa5dc78dd6d98c89b515cb5af7377b5ac11558c84c7908b7efc7faadc9be83b86c2a255ba8c4033a69be3f4c
+runfiles size=1
+ texmf-dist/tex/latex/multiobjective/multiobjective.sty
+catalogue-ctan /macros/latex/contrib/multiobjective
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-symbol
+catalogue-version 1.0

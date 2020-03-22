@@ -1,0 +1,21 @@
+name glossaries-magyar
+category Package
+revision 35665
+shortdesc Magyar language module for glossaries package
+longdesc Magyar language module for glossariesr package.
+containersize 1940
+containerchecksum 66847635e1f00af9191cef210c19ed154dc1e5405ef0d2ad38485a913626ab9cd93b7c35395feedefcc04bfd1b46112e6410154c2ff26be51553619326d1e55e
+doccontainersize 130892
+doccontainerchecksum a6bc19bf794943b1b15c8cbece363f644671f912bb71d8b2f0a9e75d05886ae4af4846c78cd060099bb78872e4d7991a9a3274fd1343a07bf73c3ba1d475241a
+srccontainersize 2560
+srccontainerchecksum e0e90ed2fb01df98b20a7807a0dc1155b108c35788ea952f753ee9033d2c7e516086c6380b8617411392198c5469b57b96aa35f8903e44ce44d30f5758acb75f
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-magyar/glossaries-magyar-noenc.ldf
+ texmf-dist/tex/latex/glossaries-magyar/glossaries-magyar-utf8.ldf
+ texmf-dist/tex/latex/glossaries-magyar/glossaries-magyar.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-magyar
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

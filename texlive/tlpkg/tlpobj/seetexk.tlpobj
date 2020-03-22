@@ -1,0 +1,23 @@
+name seetexk
+category TLCore
+revision 50602
+catalogue dvibook
+shortdesc Utilities for manipulating DVI files
+longdesc The collection comprises: dvibook, which will rearrange the
+longdesc pages of a DVI file into 'signatures' as used when printing a
+longdesc book; dviconcat, for concatenating pages of DVI file(s);
+longdesc dviselect, which will select pages from one DVI file to create
+longdesc a new DVI file; dvitodvi, which will rearrange the pages of a
+longdesc DVI file to create a new file; and libtex, a library for
+longdesc manipulating the files, from the old SeeTeX project. The
+longdesc utilities are provided as C source with Imakefiles, and an
+longdesc MS-DOS version of dvibook is also provided.
+depend seetexk.ARCH
+containersize 644
+containerchecksum b3dea76f239ec78da4eb15d4bea4dd1171c3193e9d9e82a1ecc5d5ed747e421a7a3dc96e422839772d2f825e862b8a71befbacb7cd816405d707f654c7e5a32c
+doccontainersize 68816
+doccontainerchecksum 39504cee7a077e16d10b2d4d1f393b1b90e7c21c7452f761dde1117f4b8668962b1baeac4b834b71b481fd170059e4e60f2d529e523e40503d26704ff15a7dcf
+catalogue-ctan /dviware/dvibook
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics dvi-proc

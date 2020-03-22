@@ -1,0 +1,25 @@
+name nucleardata
+category Package
+revision 47307
+shortdesc Provides data about atomic nuclides for documents
+longdesc The package provides data and commands for including nuclear
+longdesc and atomic mass and energy data in LaTeX documents. It uses the
+longdesc PythonTeX package and requires pythontex.exe to be called with
+longdesc the TeX file as the argument.
+containersize 128004
+containerchecksum 68f9d542701bb9d2db956e70784dfce8a14058b5cab5c8316f9d76d59d20de4bc7fa05f22cfe318312b9ecd823a0d0b5cd084b809bcd615217f14e9e0ba76de8
+doccontainersize 407408
+doccontainerchecksum 3d03a8b301c91fcc3e8221f913574b4542e0aa645d83e443d117ad0d69b7198c4780207f0a5e36f7e24f538a249097e1ac4d828e192f6dd22684e905ce9f1cb6
+srccontainersize 132560
+srccontainerchecksum cf26f591795ce6db64ee7548c0384764c42f2eda260b5e5c1d56f7f08c54e13fef84616ea0a3bf9a9bfbf95ca139adf675eaae3047c80faf49e14d6330cb25c9
+runfiles size=120
+ texmf-dist/tex/latex/nucleardata/elementlist.csv
+ texmf-dist/tex/latex/nucleardata/massdata.csv
+ texmf-dist/tex/latex/nucleardata/nucleardata.hd
+ texmf-dist/tex/latex/nucleardata/nucleardata.pytxcode
+ texmf-dist/tex/latex/nucleardata/nucleardata.sty
+catalogue-ctan /macros/latex/contrib/nucleardata
+catalogue-date 2018-04-05 06:30:46 +0200
+catalogue-license lppl1.3
+catalogue-topics callback physics chemistry
+catalogue-version 1.1

@@ -1,0 +1,34 @@
+name biblatex-dw
+category Package
+revision 42649
+shortdesc Humanities styles for BibLaTeX
+longdesc A small collection of styles for the BibLaTeX package. It was
+longdesc designed for citations in the humanities and offers some
+longdesc features that are not provided by the standard BibLaTeX styles.
+longdesc The styles are dependent on BibLaTeX (at least version 0.9b)
+longdesc and cannot be used without it. Eine kleine Sammlung von Stilen
+longdesc fur das Paket BibLaTeX. Es ist auf geisteswissenschaftliche
+longdesc Zitierweise zugeschnitten und bietet einige Funktionen, die von
+longdesc den Standard-Stilen von BibLaTeX nicht direkt bereitgestellt
+longdesc werden. Das Paket baut vollstandig auf BibLaTeX auf und kann
+longdesc nicht ohne BibLaTeX (mindestens in der Version 0.9b) verwendet
+longdesc werden.
+containersize 16432
+containerchecksum faa43e5f4de281747e5cbc22fdcbfb7d03c5c04d68245340e084c4e34f1ff9917c6ccf22a06ae4eefc41f7a5315db15aa8b51f2a8c3ed7c68cd033308fbe99be
+doccontainersize 1124296
+doccontainerchecksum d29c64dac41255066a844639e4330193811c62049e4b38600951346d4c126a495fab78458bd322fb3defc4352b765c1a7e7a73b7c64bdfde3a90f3e5a74e4e4c
+runfiles size=35
+ texmf-dist/tex/latex/biblatex-dw/bbx/authortitle-dw.bbx
+ texmf-dist/tex/latex/biblatex-dw/bbx/footnote-dw.bbx
+ texmf-dist/tex/latex/biblatex-dw/bbx/standard-dw.bbx
+ texmf-dist/tex/latex/biblatex-dw/cbx/authortitle-dw.cbx
+ texmf-dist/tex/latex/biblatex-dw/cbx/footnote-dw.cbx
+ texmf-dist/tex/latex/biblatex-dw/cbx/standard-dw.cbx
+ texmf-dist/tex/latex/biblatex-dw/lbx/english-dw.lbx
+ texmf-dist/tex/latex/biblatex-dw/lbx/german-dw.lbx
+catalogue-contact-home http://biblatex.dominik-wassenhoven.de
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-dw
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics biblatex humanities
+catalogue-version 1.7

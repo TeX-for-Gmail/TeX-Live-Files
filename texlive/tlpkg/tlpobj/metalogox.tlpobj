@@ -1,0 +1,25 @@
+name metalogox
+category Package
+revision 49774
+shortdesc Adjust TeX logos, with font detection
+longdesc This package extends the metalogo package to automatically
+longdesc adjust the appearance of the logos TeX, LaTeX, LaTeX2e,
+longdesc XeLaTeX, and LuaLaTeX, depending on the font detected or the
+longdesc option given to metalogox. Most of the serif and sans fonts
+longdesc listed at The LaTeX Font Catalogue are supported. The package
+longdesc depends on metalogo, xparse, and etoolbox.
+containersize 4232
+containerchecksum d2f6bb89071ae56b0083e5b38a629e6089d5d2c73fc9206181b2aa3071e0a4a350a3f5266997063a011d41e4d369745ec5f246d8f3b723c00c8dfa84452e7cea
+doccontainersize 426460
+doccontainerchecksum d55aa00226b6c7773cb275d33ed698e2617b82af5a2b060b58af7468e8be2d9c65bb8b052b66c28a94551fd51867a34e2c6b9d0147161e3df9cd05a03567a59f
+srccontainersize 8896
+srccontainerchecksum b6354ba439f3514a491c271294436f01aac26f77225455d1fb1a91d55a5353d63f2de6d3814bec21c0f043c95186411353c87992387f2e174d9cb03057ef0560
+runfiles size=7
+ texmf-dist/tex/latex/metalogox/metalogox.sty
+catalogue-also metalogo
+catalogue-contact-home http://bdtechconcepts.com/
+catalogue-ctan /macros/latex/contrib/metalogox
+catalogue-date 2019-01-28 05:39:57 +0100
+catalogue-license lppl1.3
+catalogue-topics logo
+catalogue-version 1.00

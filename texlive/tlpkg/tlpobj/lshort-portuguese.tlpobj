@@ -1,0 +1,15 @@
+name lshort-portuguese
+category Package
+revision 22569
+shortdesc Introduction to LaTeX in Portuguese
+longdesc This is the Portuguese translation of A Short Introduction to
+longdesc LaTeX2e.
+containersize 412
+containerchecksum 2c2d56eb0313dff9c2c102ef9d80d8e6029e35ab1ed8df5442c68b80fe4d746b3fb36b91b40cd831127e3004e1015ef61bb4b1c655d4e521f699ffc301f6d98c
+doccontainersize 2187228
+doccontainerchecksum d9519e2dc7632c1d933c62696aec95402ba0cce9fe6ab74758073f23ff474cede7af24d97c9a480e734f801547c062956cd4541dd61064d004f00410de88bc15
+catalogue-ctan /info/lshort/portuguese
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics portuguese-doc tut-latex
+catalogue-version 5.01.0

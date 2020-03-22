@@ -1,0 +1,20 @@
+name eqlist
+category Package
+revision 32257
+shortdesc Description lists with equal indentation
+longdesc This package provides a list environment which sets a
+longdesc description-like list in which the indentation corresponds to
+longdesc the longest item of the list.
+containersize 1240
+containerchecksum 1af830f51ce25946ac8bc6a4cca323dffeff20389ec998b74afd49a8edab5ad7a453818d4799e55ca564153a87b85e2a6b03ed67e53cc5ae6fa74c45edf3aeae
+doccontainersize 64524
+doccontainerchecksum a5b22b8e9300064d77d02ca6f5652659293c6fedb792be2f0664a2383b3167ed7bf8796af26edfabfdcab8d75ddf30f3815be36e8f38fda30f1609b56c16ac61
+srccontainersize 6648
+srccontainerchecksum 15817915c95c5f609c3def3bce324e6ca362408aa862e7b3548a67225bc1c33bf8a5c8f924dcbb1951958beaccbf86071b4e866f0e7a4d55a09456412fe70223
+runfiles size=1
+ texmf-dist/tex/latex/eqlist/eqlist.sty
+catalogue-ctan /macros/latex/contrib/eqlist
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list list-descr
+catalogue-version 2.1

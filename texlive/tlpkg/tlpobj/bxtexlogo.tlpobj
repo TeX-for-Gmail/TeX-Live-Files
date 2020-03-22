@@ -1,0 +1,27 @@
+name bxtexlogo
+category Package
+revision 47230
+shortdesc Additional TeX-family logos
+longdesc The hologo package provides many useful logos of popular (and
+longdesc not so popular) TeX-family software. However, its interface is
+longdesc a bit cumbersome because you must type \hologo{BibTeX} instead
+longdesc of \BibTeX. This package makes it possible to import some of
+longdesc the logos provided by hologo as single commands, such as
+longdesc \BibTeX. Additionally, the package provides logos of some
+longdesc TeX-family software that is popular mainly in Japan. These
+longdesc logos can be imported in the same way as those provided by the
+longdesc \hologo command. bxtexlogo depends on hologo and cjhebrew (if
+longdesc \logoAleph and \logoLamed are used).
+containersize 5748
+containerchecksum d3144e28a695f0e9939ac3074679558757f2272f0a2f2ad958481981389fae44a663c07fb914b13a890a736989bbb9946d22e1c9bd5d3ffba1db010fa451ee58
+doccontainersize 426348
+doccontainerchecksum 59ee17c9147587d1eb1052dcf4624517cb575c49163a24f3dcbf27785f75b325c0de1c079c0b214cc6a63dd9d5862578303170eea91b0903d3b803c044078ee5
+runfiles size=5
+ texmf-dist/tex/latex/bxtexlogo/bxtexlogo.sty
+catalogue-also hologo
+catalogue-contact-home https://github.com/zr-tex8r/BXtexlogo
+catalogue-ctan /macros/latex/contrib/bxtexlogo
+catalogue-date 2018-04-03 05:07:13 +0200
+catalogue-license mit
+catalogue-topics logo
+catalogue-version 0.4

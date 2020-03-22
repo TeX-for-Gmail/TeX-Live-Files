@@ -1,0 +1,23 @@
+name pst-osci
+category Package
+revision 15878
+shortdesc Oscgons with PSTricks
+longdesc This PSTricks package enables you to produce oscilloscope
+longdesc "screen shots". Three channels can be used to represent the
+longdesc most common signals (damped or not): namely sinusoidal,
+longdesc rectangular, triangular, dog's tooth (left and right oriented).
+longdesc The third channel allows you to add, to subtract or to multiply
+longdesc the two other signals. Lissajous diagrams (XY-mode) can also be
+longdesc obtained.
+containersize 3432
+containerchecksum d36d987ca50c50c0840660070dd7eefd4ff49f4e86b1a6f33bb9e549a1468f4992a7eff6de56307e5d5bf4e8063534cf4f658df8e98571a1d86fde3555a67e08
+doccontainersize 1332868
+doccontainerchecksum 80d99115c7c3fdcafef8f4be99b3066799cb40571e219158abb48de0ba405a0c977d0158c20e2b550895d1e63580bc7366338fbbbe7add2c3a89abf618583ecc
+runfiles size=5
+ texmf-dist/tex/generic/pst-osci/pst-osci.tex
+ texmf-dist/tex/latex/pst-osci/pst-osci.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-osci
+catalogue-date 2018-09-15 13:01:24 +0200
+catalogue-license lppl
+catalogue-topics graphics-use pstricks
+catalogue-version 2.82

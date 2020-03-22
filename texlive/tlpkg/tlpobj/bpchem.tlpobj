@@ -1,0 +1,21 @@
+name bpchem
+category Package
+revision 45120
+shortdesc Typeset chemical names, formulae, etc
+longdesc The package provides support for typesetting simple chemical
+longdesc formulae, those long IUPAC compound names, and some chemical
+longdesc idioms. It also supports the labelling of compounds and
+longdesc reference to labelled compounds.
+containersize 3168
+containerchecksum 3359bc429ec00bdf3b26810e373fd9bba8f562d4782d16adf2706b59ec1cd153f0fd565c26319bac0cf5065b6a2ea99ad5cf6461fba62a7bae8355fad7d8279b
+doccontainersize 356700
+doccontainerchecksum c8edfa3e5fd901ef705b6b55dd2278eabd996e2b3aa76ec5da9c34c07db95909b67f31990684883edd256f7a5eb7c29450886472fafbd0ff91f8e81abc4dc93e
+srccontainersize 5368
+srccontainerchecksum 0f2629325312dc8e7d05d593bf97ddba9b18d0709d0c29fd5df2b7e5077a15624d98edbca24e20c039e7e72bfc21e676c7bfdb6d29f7c84efd4c40f41d3d930c
+runfiles size=2
+ texmf-dist/tex/latex/bpchem/bpchem.sty
+catalogue-ctan /macros/latex/contrib/bpchem
+catalogue-date 2017-08-23 16:08:38 +0200
+catalogue-license lppl
+catalogue-topics chemistry
+catalogue-version 1.1

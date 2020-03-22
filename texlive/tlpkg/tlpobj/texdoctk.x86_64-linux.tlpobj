@@ -1,0 +1,8 @@
+name texdoctk.x86_64-linux
+category TLCore
+revision 29820
+shortdesc x86_64-linux files of texdoctk
+containersize 340
+containerchecksum 3d45517e2573b7eee9d7963d5a30e9f28e096dd0ef05a979827d8dc0acac4ab99061c686c5daf48790231813b7149665e3f3c7c96d2cdf56302a06b7f8fb8b1d
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texdoctk

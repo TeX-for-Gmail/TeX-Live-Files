@@ -1,0 +1,53 @@
+name nicetext
+category Package
+revision 38914
+shortdesc Minimal markup for simple text (Wikipedia style) and documentation
+longdesc The bundle offers "minimal" markup syntax for various simple
+longdesc kinds of text. The user will typically involve little more than
+longdesc is printed, and will still get LaTeX quality. The bundle
+longdesc provides four packages: wiki addresses general texts, marked up
+longdesc in the simple style used on Wikipedia; niceverb is yet another
+longdesc means of documenting LaTeX packages: it offers syntax-aware
+longdesc typesetting of meta-variables (macro arguments) and for
+longdesc referring to commands (and their syntax) in footnotes, section
+longdesc titles etc.; fifinddo aims to parse plain text or (La)TeX files
+longdesc using TeX, and to write the results to an external file; the
+longdesc package is used by another member of the bundle: makedoc, which
+longdesc provides the means to produce typeset documentation direct from
+longdesc package files.
+containersize 54740
+containerchecksum 04a555a82287a39249cf6b0e18d890329098a1d0d6957fe9a1c535024b63a5f50b6487dc1fe4fd69d87908abd385b0366474ebe3af0b31f41f6a35c519a6ba9c
+doccontainersize 2473836
+doccontainerchecksum 96cd1694ae0cb116bb4620f7cdc1f9e24385886c78cf87466cd329c5ca0d78111005ff89e9be50f07078eaedb69c4f3d495b1fc5063a1a69e483b86a6c8534b1
+srccontainersize 28908
+srccontainerchecksum d7c556fb2fc34e7eca9038667842825053ac03478e32a6a58cdda2209b33ece494071e47d54bb24f7c085f90b45375bb5db7781db642bd9f8cf661853d077f60
+runfiles size=62
+ texmf-dist/tex/latex/nicetext/fifinddo.sty
+ texmf-dist/tex/latex/nicetext/makedoc.cfg
+ texmf-dist/tex/latex/nicetext/makedoc.sty
+ texmf-dist/tex/latex/nicetext/mdoccorr.cfg
+ texmf-dist/tex/latex/nicetext/nicetext.RLS
+ texmf-dist/tex/latex/nicetext/niceverb.sty
+ texmf-dist/tex/latex/nicetext/run/README-run.txt
+ texmf-dist/tex/latex/nicetext/run/arseneau.tex
+ texmf-dist/tex/latex/nicetext/run/atari.cfg
+ texmf-dist/tex/latex/nicetext/run/atari.txt
+ texmf-dist/tex/latex/nicetext/run/copyfile.cfg
+ texmf-dist/tex/latex/nicetext/run/copyfile.tex
+ texmf-dist/tex/latex/nicetext/run/fddial0g.sty
+ texmf-dist/tex/latex/nicetext/run/fdtxttex.cfg
+ texmf-dist/tex/latex/nicetext/run/fdtxttex.tex
+ texmf-dist/tex/latex/nicetext/run/fdtxttex.tpl
+ texmf-dist/tex/latex/nicetext/run/lines.txt
+ texmf-dist/tex/latex/nicetext/run/makedoc.tpl
+ texmf-dist/tex/latex/nicetext/run/sample.txt
+ texmf-dist/tex/latex/nicetext/run/substr.tex
+ texmf-dist/tex/latex/nicetext/run/u8atablg.fdf
+ texmf-dist/tex/latex/nicetext/wiki.sty
+catalogue-also easylatex txt2latex makedtx doc gmdoc
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/nicetext
+catalogue-date 2017-05-06 09:07:27 +0200
+catalogue-license lppl1.3
+catalogue-topics markup
+catalogue-version r0.67

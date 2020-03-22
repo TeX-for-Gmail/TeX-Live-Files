@@ -1,0 +1,18 @@
+name withargs
+category Package
+revision 42756
+shortdesc Ephemeral macro use
+containersize 5924
+containerchecksum 6d30bb4adc63ebb1441c9547439757feb93a276fa53b7c203d688954e526602d5fd0916b37ee94cba8fb96db8935c02705ec12fdf2b22b48ce01dbd21f208d43
+doccontainersize 475376
+doccontainerchecksum d046bdb103f4fab24f41a730cbe585d9d8bcdf2c47f60bd545619c83a8c200ac82b4a7422423cbec8b0473a86a3f92fa6e91a7a769a580e127857cc647d864b6
+runfiles size=7
+ texmf-dist/tex/latex/withargs/withargs-dry.sty
+ texmf-dist/tex/latex/withargs/withargs-packagedoc.cls
+ texmf-dist/tex/latex/withargs/withargs.sty
+catalogue-contact-repository https://github.com/mhelvens/latex-withargs
+catalogue-ctan /macros/latex/contrib/withargs
+catalogue-date 2017-06-28 04:59:31 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.2.0

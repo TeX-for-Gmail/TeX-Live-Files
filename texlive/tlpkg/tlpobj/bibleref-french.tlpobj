@@ -1,0 +1,19 @@
+name bibleref-french
+category Package
+revision 50075
+shortdesc French translations for bibleref
+longdesc The package provides translations and alternative typesetting
+longdesc conventions for use of bibleref in French.
+containersize 4600
+containerchecksum 0e7d9a9a6db26612cc2a78c526980aee6b1f47312e02317b5d9791a9386c1799622df36283337c57d33bf4935cf24b1cf65999875479973b8f1309392d97b3a6
+doccontainersize 643708
+doccontainerchecksum 133644d3298435d9ceaa1443cea19dbf7465ef82a4fdde4c7f2e1f950735fe220e6dafb0512505f8762725bbbc0062413b646204ca728fcf9481dfcb51a9ef35
+srccontainersize 7940
+srccontainerchecksum d17db1b6a96b8a4c69217e1685e653a03ed2536e146fc10788521a9fa95b44cced0abaff6ba965e654f4d69cc68d03f75956f619cfd8d2735c8ab605876cda09
+runfiles size=8
+ texmf-dist/tex/latex/bibleref-french/bibleref-french.sty
+catalogue-ctan /macros/latex/contrib/bibleref-french
+catalogue-date 2019-02-20 11:57:53 +0100
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 2.3.2

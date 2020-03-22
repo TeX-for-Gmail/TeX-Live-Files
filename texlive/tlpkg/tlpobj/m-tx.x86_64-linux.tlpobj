@@ -1,0 +1,9 @@
+name m-tx.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of m-tx
+containersize 43488
+containerchecksum 6ec3b3b05be7d8aa20b975085dc0834e0fbac26f937b03317ff39bec4928f95add0ee49a2b21ffd876e7e7d902858052d4abd5ef480d313f87739d9fd1a26ff5
+binfiles arch=x86_64-linux size=33
+ bin/x86_64-linux/m-tx
+ bin/x86_64-linux/prepmx

@@ -1,0 +1,15 @@
+name happy4th
+category Package
+revision 25020
+shortdesc A firework display in obfuscated TeX
+longdesc The output PDF file gives an amusing display, as the reader
+longdesc pages through it.
+containersize 436
+containerchecksum 45492a6becc7496ec6ca6adca474aa141b9c68b06aeed46bb1459f15b6cd1df9e4e2de3842a91ae0121d83269c1fe4f772418a93da67031bd14b6649f3a80657
+doccontainersize 52364
+doccontainerchecksum 78fe311673e370b867ad209fc1c62acd7aeb515e4b145bb7c487d30c121715994803e6dd540bcbf1b9b0776014327c7ca2f6c03437d9ff0b40f477ebff9cf254
+catalogue-ctan /macros/plain/contrib/happy4th
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics games frivolous
+catalogue-version 20120102

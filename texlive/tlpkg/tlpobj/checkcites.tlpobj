@@ -1,0 +1,21 @@
+name checkcites
+category Package
+revision 45131
+shortdesc Check citation commands in a document
+longdesc The package provides a lua script written for the sole purpose
+longdesc of detecting undefined and unused references from LaTeX
+longdesc auxiliary or bibliography files.
+depend checkcites.ARCH
+containersize 5328
+containerchecksum 30cc60a17fadb14921a2134f60a70947727a8da100a47da50342f24b2071749a4a207994b0053a7d20e00a0eed0b9c985d8ce9f9a7e7ac874bd684a319b03847
+doccontainersize 224684
+doccontainerchecksum 56e2279cf3c522dbb86bb95e3a86ba7782bf422616568c806c97dbcd43437f75749771b50c2e53b7e247536ef9691157f00334d5f85b890ce588a5fdd01fe81e
+runfiles size=6
+ texmf-dist/scripts/checkcites/checkcites.lua
+catalogue-contact-bugs https://github.com/cereda/checkcites/issues
+catalogue-contact-repository https://github.com/cereda/checkcites
+catalogue-ctan /support/checkcites
+catalogue-date 2017-08-25 17:01:28 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp
+catalogue-version 2.0

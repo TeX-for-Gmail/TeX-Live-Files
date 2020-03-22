@@ -1,0 +1,18 @@
+name idxcmds
+category Package
+revision 38115
+shortdesc Semantic commands for adding formatted index entries
+longdesc The package provides commands for adding formatted index
+longdesc entries; it arises from the author's work on large documents.
+containersize 2392
+containerchecksum ec7d58e5f52472b0d359f84afcba179ce3428638ad8c45293b7de2346d4ba84c3b22792bec27a10328dee9f0f186c2536d562ec47e9f6aa2103e708788a553f3
+doccontainersize 413600
+doccontainerchecksum 9c55acca21ba10f051c678f0e59d68f4a1231c744d7b470f7a905c81226a23ae0eee03b02b9466b5fb6c92af1e884a95d1f6644401f83a50441b7c77becf0874
+runfiles size=3
+ texmf-dist/tex/latex/idxcmds/idxcmds.sty
+catalogue-contact-repository https://bitbucket.org/cgnieder/idxcmds/
+catalogue-ctan /macros/latex/contrib/idxcmds
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics index
+catalogue-version 0.2c

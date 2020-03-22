@@ -1,0 +1,9 @@
+name pdfcrop.x86_64-linux
+category Package
+revision 14387
+shortdesc x86_64-linux files of pdfcrop
+containersize 360
+containerchecksum 931ffba4c56dfd49a7d3397e43c2d28c12c73db1a3000ce99ae1bde5f6b6b7ac8e232afb0a7f4e171e873a94f96f515d7b5fbdccfa0f3e92904cb71207aaaaef
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/pdfcrop
+ bin/x86_64-linux/rpdfcrop

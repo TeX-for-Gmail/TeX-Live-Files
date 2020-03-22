@@ -1,0 +1,22 @@
+name geschichtsfrkl
+category Package
+revision 42121
+shortdesc BibLaTeX style for historians
+longdesc The package provides a BibLaTeX style, (mostly) meeting the
+longdesc requirements of the History Faculty of the University of
+longdesc Freiburg (Germany).
+containersize 5320
+containerchecksum 24cad33dfcbdb8ab91a80509771bd130ea6682a14fea5510ea202af73155653471deab91abb43a302b9717c252475db58135ad465f28509adae5d8583bf98e0b
+doccontainersize 642508
+doccontainerchecksum 6d1097dd0047c029100358bd3161f2ca515a09cf9a62b2633d4797059688bd5c30e4eab11c31081faeefacf892415c5d9a4985d20245ea9cf79b4197925ed2e7
+srccontainersize 24896
+srccontainerchecksum 28c6a7181bb91d32ddcdbed7dd9824c8a63a351acc39f4c2e60ca507630fc23b0afe62380a64618d882fe742388d5537a435dc0b6738ba8d5288c5f2894a4064
+runfiles size=9
+ texmf-dist/tex/latex/geschichtsfrkl/geschichtsfrkl.bbx
+ texmf-dist/tex/latex/geschichtsfrkl/geschichtsfrkl.cbx
+ texmf-dist/tex/latex/geschichtsfrkl/geschichtsfrkldoc.sty
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/geschichtsfrkl
+catalogue-date 2016-09-21 12:39:48 +0200
+catalogue-license lppl
+catalogue-topics humanities biblatex
+catalogue-version 1.4

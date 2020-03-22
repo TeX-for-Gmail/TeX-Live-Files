@@ -1,0 +1,25 @@
+name frege
+category Package
+revision 27417
+shortdesc Typeset fregean Begriffsschrift
+longdesc The package defines a number of new commands for typesetting
+longdesc fregean Begriffsschrift in LaTeX. It is loosely based on the
+longdesc package begriff, and offers a number of improvements including
+longdesc better relative lengths of the content stroke with respect to
+longdesc other strokes, content strokes that point at the middle of
+longdesc lines rather than the bottom, a greater width for the assertion
+longdesc stroke as compared to the content stroke, a more intuitive
+longdesc structure for the conditional, greater care taken to allow for
+longdesc the linewidth in the spacing of formulas.
+containersize 4528
+containerchecksum 39d359f01256f2399cd9226744aa9735543d5c9eb26104855bb52efaf51b8c720cb85e5be08241d72d3b2e1c2deb9cc7a10dd90ffca789ae91b6ea6b7cffb879
+doccontainersize 142332
+doccontainerchecksum 28c5cb420f25ed57a03f3914ce2286732ab8e06cbb0b8446ab3112ccb79b34814762becb7ac7457593e1b5b1579613a76a8b21fe2c43ac9f08175495ea87bd1c
+runfiles size=17
+ texmf-dist/tex/latex/frege/frege.sty
+catalogue-also bguq begriff grundgesetze
+catalogue-ctan /macros/latex/contrib/frege
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths logic
+catalogue-version 1.3

@@ -1,0 +1,17 @@
+name l2tabu
+category Package
+revision 39597
+shortdesc Obsolete packages and commands
+longdesc The "sins" of LaTeX users, and how to correct them. The
+longdesc document provides a list of obsolete packages and commands.
+longdesc This original is in German; it has been translated into
+longdesc English, French, Italian, and Spanish.
+containersize 500
+containerchecksum 2e94e77ab5c8327396d2ff714f7c6c1e8c91a3ab0f35be411d11f617d39dd815d4bf1c6eb1dd0be5154c1d702697c08b8658c8371dce3dca0349712a5dac2d1b
+doccontainersize 245464
+doccontainerchecksum 84673b59100568d1472f3221ff0cc35b8e8512ece38701f35d60265d316aa52186642def2d66885df47e2f613ae042a86972b7958349b7b2b83e754d72163df6
+catalogue-ctan /info/l2tabu/german
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics german-doc
+catalogue-version 2.4

@@ -1,0 +1,25 @@
+name systeme
+category Package
+revision 49690
+shortdesc Format systems of equations
+longdesc The package allows you to enter systems of equations or
+longdesc inequalities in an intuitive way, and produces typeset output
+longdesc where the terms and signs are aligned vertically. The package
+longdesc works with plain TeX or LaTeX, but e-TeX is required. Cette
+longdesc petite extension permet de saisir des systemes d'equations ou
+longdesc inequations de facon intuitive, et produit un affichage ou les
+longdesc termes et les signes sont alignes verticalement.
+containersize 6832
+containerchecksum a71c84f41447a568cc56b2afe139dc7df23660c329e82c1a0d40e3bcf41ae775b2847f9d391bb591420cc546a36d0a69571a829822932892af1dcedc29e54e38
+doccontainersize 463212
+doccontainerchecksum 4cf7120bd6291edbb101ef1fcdaaeced3a6c771052d8f176b6c11365e1d48699978bc0593354ad9b132e05fc6f14f4074ccd7326492391c49c34a8273f4389c7
+runfiles size=8
+ texmf-dist/tex/generic/systeme/systeme.sty
+ texmf-dist/tex/generic/systeme/systeme.tex
+catalogue-contact-bugs https://framagit.org/unbonpetit/systeme/issues
+catalogue-contact-repository https://framagit.org/unbonpetit/systeme/tree/master
+catalogue-ctan /macros/generic/systeme
+catalogue-date 2019-01-13 21:13:02 +0100
+catalogue-license lppl1.3c
+catalogue-topics maths maths-syseqn simplified
+catalogue-version 0.32

@@ -1,0 +1,26 @@
+name ltb2bib
+category Package
+revision 43746
+shortdesc Converts amsrefs' .ltb bibliographical databases to BibTeX format
+longdesc This package implements a LaTeX command that converts an
+longdesc amsrefs bibliographical database (.ltb) to a BibTeX
+longdesc bibliographical database (.bib). ltb2bib is the reverse of the
+longdesc "amsxport" option in amsrefs. Typical uses are: produce bib
+longdesc entries for some publishers which don't accept amsrefs (Taylor
+longdesc & Francis, for example); import an ltb database in a database
+longdesc management program, e.g. for sorting; access one's ltb database
+longdesc within emacs's RefTeX mode.
+containersize 2420
+containerchecksum 42e634e7c3018b87825e2bae40513eeb757520e1dba1b1b20244bee2d0fadc4663cbfa0dfdf74fa71f7821f47c41bb7c873a64cc68e153f9b7207f6a8bf3f8a9
+doccontainersize 42552
+doccontainerchecksum c26b018043c14022acc64bfaff6377988b5e40d09ac10916479079550bdbcfa5219df13988327679e7647c4a679490645376ed23be0601dc4df0528d45725325
+srccontainersize 4568
+srccontainerchecksum 0ed23f0084e3afbf51cb6a5c6079db62fd8dca9ef12a159b4be1d68ede6b632155ebc0ee9d6fc91cf93d2cddb5463b5d52b14cb72e7c1d61b975c891f710af3f
+runfiles size=2
+ texmf-dist/tex/latex/ltb2bib/ltb2bib.sty
+catalogue-also amsrefs
+catalogue-ctan /biblio/bibtex/utils/ltb2bib
+catalogue-date 2018-01-07 12:06:50 +0100
+catalogue-license lppl1.3
+catalogue-topics biblio
+catalogue-version 0.01

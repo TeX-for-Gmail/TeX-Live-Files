@@ -1,0 +1,19 @@
+name fundus-calligra
+category Package
+revision 26018
+shortdesc Support for the calligra font in LaTeX documents
+longdesc The package offers support for the calligra handwriting font,
+longdesc in LaTeX documents. The package is part of the fundus bundle.
+containersize 1540
+containerchecksum a999f372ef266e66a199935a0783d99293141aa08586a38d65a3748c1a239eca7b0faa74d537085852e79520343ca937943b30ce38820fdc925d75b1a334aabd
+doccontainersize 185644
+doccontainerchecksum 93aa54f12ade2eab798bd84596ec3b366db0a15eb05b5279261af8bc13bc1ce782077de36465e8e29d11ea1b89456ab207c33ab907e5c31af95e63d5d897da88
+srccontainersize 3480
+srccontainerchecksum bc5cfc694592c7a0fb469f752a6ec854d11d9f69588fa6e42390080e88cca3da2fbe888b826ae7a3c07505bc418129237faa791dbf4f3dd9a31cb8e06ad1a9af
+runfiles size=1
+ texmf-dist/tex/latex/fundus-calligra/calligra.sty
+catalogue-ctan /macros/latex/contrib/fundus/calligra
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font-supp
+catalogue-version 1.2

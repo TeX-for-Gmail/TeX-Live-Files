@@ -1,0 +1,20 @@
+name tabularborder
+category Package
+revision 17885
+shortdesc Remove excess space at left and right of tabular
+longdesc The tabular environment is changed so that the outer
+longdesc \tabcolseps are compensated and a \hline has the same length as
+longdesc the text. No @{} is needed.
+containersize 1496
+containerchecksum a30f668ea84238df674c079fea6b05878776b26b4f6465385e26b01b16181825a8cc20767fa45eda8e7870d272875bc9664aed145885dd655d15258aa072ebb7
+doccontainersize 99284
+doccontainerchecksum f0376dfe99c68523332be0e83c0a186d7e3051862fac22785b4ba1273673fb9b1776654a127ba1c617af67063763e5837723ca2f23b3f7dd012628bd40ad0604
+srccontainersize 4216
+srccontainerchecksum 862ea87bf23f2e4f42bc15fb82d9e417b4e51d7fbd555383cb985892b9b40734b38dc4f0dfb09790040c64791beb2cb2c6bbd2df9373c75438929be011748978
+runfiles size=1
+ texmf-dist/tex/latex/tabularborder/tabularborder.sty
+catalogue-ctan /macros/latex/contrib/tabularborder
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics table
+catalogue-version 1.0a

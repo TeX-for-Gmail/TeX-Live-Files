@@ -1,0 +1,12 @@
+name hyphen-arabic
+category TLCore
+revision 50805
+shortdesc (No) Arabic hyphenation patterns.
+longdesc Prevent hyphenation in Arabic.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=arabic 	lefthyphenmin= 	righthyphenmin= 	file=zerohyph.tex 	file_patterns=
+containersize 712
+containerchecksum 1b43cfa50f074441f757b841b00656ab383ccabf5f2fafd8260e4088de13aabe8e2c3e7099e3d84ef0dff49fd312f17fe11e44892f95b6d7e149e2d4cd023171
+runfiles size=1
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-ar.tex

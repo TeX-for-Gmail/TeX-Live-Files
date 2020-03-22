@@ -1,0 +1,8 @@
+name rubik.x86_64-linux
+category Package
+revision 32919
+shortdesc x86_64-linux files of rubik
+containersize 348
+containerchecksum eb43266a9e5cbf24a8b64b50238376291349a964480afc371a342190367e10e337bd8e7bd19a8e9a288378fc14ef90af6ef98964c8e2ff747c8dfb11e34c4d64
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/rubikrotation

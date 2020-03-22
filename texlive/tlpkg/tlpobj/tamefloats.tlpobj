@@ -1,0 +1,24 @@
+name tamefloats
+category Package
+revision 27345
+shortdesc Experimentally use \holdinginserts with LaTeX floats
+longdesc LaTeX's figures, tables, and \marginpars are dangerous for
+longdesc footnotes (and probably also \enlargethispage). Here is a
+longdesc proposal (a 'patch' package) to help, by using \holdinginserts
+longdesc in a simple way. It replaces the original problem with a new
+longdesc one -- it is an experiment to find out whether the new problem
+longdesc is less bad (or it is just a contribution to the discussion,
+longdesc maybe just a summary of previous work). The files provide
+longdesc further information.
+containersize 4372
+containerchecksum bd45962a9caa5b098b6a6a5c0bd3fb964e13cf2744a5fc960a97910183799d532aba24d5f4774ac29eef14bf1439e285010b2e22641167c826d5a36262fc39ef
+doccontainersize 2236
+doccontainerchecksum 2b9d013fcb93682e9be0fb1758fc871b4784eef72a0892383a35073aa177ac29acfda5e54b6a919379b43a3dd0fb0b22dd44476857665efb59b2e9cf27bb679a
+runfiles size=3
+ texmf-dist/tex/latex/tamefloats/tameflts.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/tamefloats
+catalogue-date 2017-05-06 09:30:28 +0200
+catalogue-license lppl1.3
+catalogue-topics experimental float
+catalogue-version 0.42

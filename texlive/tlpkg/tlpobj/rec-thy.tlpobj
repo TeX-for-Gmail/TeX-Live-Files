@@ -1,0 +1,21 @@
+name rec-thy
+category Package
+revision 50047
+shortdesc Commands to typeset recursion theory papers
+longdesc The package provides many macros to express standard notation
+longdesc in recursion theory (otherwise known as computability theory).
+containersize 11108
+containerchecksum cd3d8c9f6b08e4471fb377586ab928c7173e72162269eeb9856d4fd50a2c89a1e1509bd36356ed0d37d89eeecb22391ca17bc5a214813acd3496d4c669f261cc
+doccontainersize 162864
+doccontainerchecksum 257746313876d190f62d50dfea03a614c5b6732d79b7f43b7d6c41be54c8827f82c996570c50907641536e1e5ffe172d495e1f3db94d8d1e13fa5f630225337d
+runfiles size=16
+ texmf-dist/tex/latex/rec-thy/rec-thy.sty
+catalogue-contact-development https://github.com/TruePath/Recursion-Theory-Latex-Package
+catalogue-contact-home https://github.com/TruePath/Recursion-Theory-Latex-Package
+catalogue-contact-repository https://github.com/TruePath/Recursion-Theory-Latex-Package
+catalogue-contact-support https://github.com/TruePath/Recursion-Theory-Latex-Package
+catalogue-ctan /macros/latex/contrib/rec-thy
+catalogue-date 2019-02-17 09:19:28 +0100
+catalogue-license pd
+catalogue-topics maths
+catalogue-version 3.01

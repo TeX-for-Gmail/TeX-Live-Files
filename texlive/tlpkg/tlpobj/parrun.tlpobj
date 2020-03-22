@@ -1,0 +1,19 @@
+name parrun
+category Package
+revision 15878
+shortdesc Typesets (two) streams of text running parallel
+longdesc For typesetting translated text and the original source,
+longdesc parallel on the same page, one above the other.
+containersize 2856
+containerchecksum 1a09e6dbde9c24d88e21fffe24ead7ee7567a2c7bccd2ef33e49eb1bc8eff2befb3828a87616872f63d1d8eeba21814cefc8bbe756b17f887558449aaccb1668
+doccontainersize 105064
+doccontainerchecksum cf284387780c9b2f4a79ebdd781388525aeb2a03ad9d85048061a6c43728bb6f2f4fc840ebb499a44a3fdf612ff4a20f36c17a377f959be813b4ee4d12288fb7
+srccontainersize 6912
+srccontainerchecksum 9a4fb32c53f5bd2f6f79992b4ce076ab211c24e2c0f4ca2665c903b2e3d5268b5615bb5e9c8107d1d44df6a9e50a9f942f61cbb1fd05a388738449e4b312f306
+runfiles size=3
+ texmf-dist/tex/latex/parrun/parrun.sty
+catalogue-also parallel
+catalogue-ctan /macros/latex/contrib/parrun
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics parallel

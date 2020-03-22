@@ -1,0 +1,18 @@
+name biblatex-ijsra
+category Package
+revision 41634
+shortdesc BibLaTeX style for the International Journal of Student Research in Archaeology
+longdesc BibLaTeX style used for the journal International Journal of
+longdesc Student Research in Archaeology.
+containersize 1332
+containerchecksum 040efc5b43e2642251921bcc49db1ae2e00342100d302bca24e2b7b11d1724797f1fe7aa254d01b35d1dfa316f2b0f739664f275031c498b157bb652c6aaef44
+doccontainersize 49096
+doccontainerchecksum 36cef635b4603606d36f13b489320e10fad48869b8cdbe78d6f81ca9f3caee0f3e14e408236b1f18e6c7cbf3cd414ed8eb2863058b31e761b4355c6ff1230dd3
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-ijsra/ijsra.bbx
+ texmf-dist/tex/latex/biblatex-ijsra/ijsra.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-ijsra
+catalogue-date 2016-07-07 05:41:56 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio biblatex
+catalogue-version 0.1

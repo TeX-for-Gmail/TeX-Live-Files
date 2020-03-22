@@ -1,0 +1,26 @@
+name fnumprint
+category Package
+revision 29173
+shortdesc Print a number in 'appropriate' format
+longdesc The package defines two macros which decide to typeset a number
+longdesc either as an Arabic number or as a word (or words) for the
+longdesc number. If the number is between zero and twelve (including
+longdesc zero and twelve) then words will be used; if the number is
+longdesc outside that range, it will be typeset using the package
+longdesc numprint Words for English representation of numbers are
+longdesc generated within the package, while those for German are
+longdesc generated using the package zahl2string.
+containersize 1384
+containerchecksum 7f43363ff861fd4f887df68dd6daae6c97940d4cdd60b19563a966dc7c08cb88356a150eab0cb5b91bd4c3d5d47e324dbbfd43cf45872a5738c5f9b70766e047
+doccontainersize 254544
+doccontainerchecksum 44d6fdf74bf6c231a57b3fad63efa7eb1bdf5b4342cdb38e0d504c4c09190130d37534769e17c3f60bbad668d50aab064bc5c0a1ad99808a6d084dd1921769a9
+srccontainersize 4004
+srccontainerchecksum 3f6465877aa1dbf5ab021e8397725ec83217bd774ee0623e71cf15d746d7d0edeb2f78ce76dfd607568be75b67f4cfa8d3e1ddd29c0ada6d376f7b4fdfad86a9
+runfiles size=1
+ texmf-dist/tex/latex/fnumprint/fnumprint.sty
+catalogue-contact-repository https://github.com/ypid/latex-packages/tree/master/fnumprint
+catalogue-ctan /macros/latex/contrib/fnumprint
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics numbers
+catalogue-version 1.1a

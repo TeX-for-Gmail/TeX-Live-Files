@@ -1,0 +1,27 @@
+name dingbat
+category Package
+revision 27918
+shortdesc Two dingbat symbol fonts
+longdesc The fonts (ark10 and dingbat) are specified in Metafont;
+longdesc support macros are provided for use in LaTeX. An Adobe Type 1
+longdesc version of the fonts is available in the niceframe fonts
+longdesc bundle.
+containersize 9248
+containerchecksum d6bdfc62eff8816e03eaea41ffbabf2d3af7194edbb2f9073c8d8b3d333c75f0b587a74556b916efb40afe41c88a8029f0dd764d7dc5894aa50e66e06fccb77a
+doccontainersize 105752
+doccontainerchecksum 993ef5169759d86641e2a3185064f94df858d81d9b7ba4b0516b22abc51eab887b5d02ca487ad85b007e7ee3117563a257d80b803a361ea1d32857921e794b9f
+srccontainersize 3772
+srccontainerchecksum 01e935a99ff83496cd1e5c9e297d316f879fa8e54808c33a2daa54c78e1afc5048d3fabbf93450d15d6fed09eb59389348da266c751782cf017f383a97214d2a
+runfiles size=14
+ texmf-dist/fonts/source/public/dingbat/ark10.mf
+ texmf-dist/fonts/source/public/dingbat/dingbat.mf
+ texmf-dist/fonts/tfm/public/dingbat/ark10.tfm
+ texmf-dist/fonts/tfm/public/dingbat/dingbat.tfm
+ texmf-dist/tex/latex/dingbat/dingbat.sty
+ texmf-dist/tex/latex/dingbat/uark.fd
+ texmf-dist/tex/latex/dingbat/udingbat.fd
+catalogue-ctan /fonts/dingbat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-symbol
+catalogue-version 1.0

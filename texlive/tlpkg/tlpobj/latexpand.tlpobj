@@ -1,0 +1,20 @@
+name latexpand
+category Package
+revision 50079
+shortdesc Expand \input and \include in a LaTeX document
+longdesc Latexpand is a Perl script that simply replaces \input and
+longdesc \include commands with the content of the input or included
+longdesc file. The script does not deal with \includeonly commands.
+depend latexpand.ARCH
+containersize 5752
+containerchecksum 9248c63fa16b9f9ccfb0243bdc6d56bb80b9887e26d8f1cae53092ecef94f046f554d8c5b9ed6cacf7202dd5be212472f8bddf9eb740f4ce54e521c9baaf75dd
+doccontainersize 3072
+doccontainerchecksum faf4b269446a008ba77d37d8f51ab123171a3cc56d59dc6fae9c5274833e97276c24392064f6f95e8e8eb5b88717d1c4433a915208cd81788364d382aae200c5
+runfiles size=5
+ texmf-dist/scripts/latexpand/latexpand
+catalogue-contact-repository https://gitlab.com/latexpand/latexpand
+catalogue-ctan /support/latexpand
+catalogue-date 2019-02-20 20:34:48 +0100
+catalogue-license bsd
+catalogue-topics file-mgmt
+catalogue-version 1.5

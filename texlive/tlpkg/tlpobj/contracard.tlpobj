@@ -1,0 +1,23 @@
+name contracard
+category Package
+revision 50217
+shortdesc Generate calling cards for dances
+longdesc A package and a class used to typeset traditional country
+longdesc dances, such as contra and square dances, and to create calling
+longdesc cards for the same.
+containersize 5288
+containerchecksum 07c77a1e864c012a88be95a98ef662f5642fd63e84801a994be702f5ae2d62100b02e109ba6c775f2c8d11d75627fdef48acdbd55bdb4735896fd945edc4fdc6
+doccontainersize 182428
+doccontainerchecksum 984acf51897209c3bc3fe4760088a6b9cbae613acf51c5f8c848dae3a3d13e5e8171fc62db25dcea267cadaf9f2ba81d221085ae90a7da1fb5e6d0dd8e243f10
+srccontainersize 18312
+srccontainerchecksum 6a0f0536861da9f012b5600fc1c635a9f9124c25b4a5d9544ca00fbc3770760c0d1de77587452d33c254abec3bee6fd923e31f2bd34581c467f15d1d658a9cae
+runfiles size=8
+ texmf-dist/tex/latex/contracard/contracard.cls
+ texmf-dist/tex/latex/contracard/contracard.sty
+catalogue-contact-bugs https://github.com/samwhited/contracard/issues
+catalogue-contact-repository https://github.com/SamWhited/contracard.git
+catalogue-ctan /macros/latex/contrib/contracard
+catalogue-date 2019-03-03 19:22:34 +0100
+catalogue-license lppl1.3c
+catalogue-topics music class
+catalogue-version 2.0.0

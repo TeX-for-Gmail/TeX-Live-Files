@@ -1,0 +1,18 @@
+name copyrightbox
+category Package
+revision 24829
+shortdesc Provide copyright notices for images in a document
+longdesc The package command \copyrightbox[<placement>]{<image
+longdesc command>}{<text>}, which places the text as a copyright notice
+longdesc relating to the matter created by the image command.
+containersize 1480
+containerchecksum 2ae2afc738cc906d24fca0a6319c98dc1e9382bbde6db3d0c3a371d3de8b92c30b3bf05be04797bc0ed6d905933a50e74809eed52f06cdba5fc5088be033d4a9
+doccontainersize 1691464
+doccontainerchecksum 9b817f2874a35f3e023774d3be32e0f8bf53a26f9daf553525c95ce0c21a64a22c3a716fb20cdc76921ec90b7b5305f305bf44853cf87d13ac38ce853ca00ea4
+runfiles size=1
+ texmf-dist/tex/latex/copyrightbox/copyrightbox.sty
+catalogue-ctan /macros/latex/contrib/copyrightbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics typesetting
+catalogue-version 0.1

@@ -1,0 +1,20 @@
+name imsproc
+category Package
+revision 29803
+shortdesc Typeset IMS conference proceedings
+longdesc The class typesets papers for IMS (Iranian Mathematical
+longdesc Society) conference proceedings. The class uses the XePersian
+longdesc package.
+containersize 14784
+containerchecksum 12ce0d8ccdcd54890f846b501cc5cf7af00f7759c916147c676358b689b852a86a1981b76a14e455a4edece20ad1857100123f91469dfb23ba168177e15fcafc
+doccontainersize 57712
+doccontainerchecksum a4007fe80cca88525dcade8d8201fb82a2c35cafd7bf92a8ebe6b4668ddce6bd43e958e1223d5c212e91ca692df39aae84c4a25b6862afa3aed2f1f646eabba1
+runfiles size=14
+ texmf-dist/tex/xelatex/imsproc/imsproc.cls
+catalogue-contact-bugs https://github.com/bidi-tex/imsproc/issues
+catalogue-contact-repository https://github.com/bidi-tex/imsproc
+catalogue-ctan /macros/xetex/latex/imsproc
+catalogue-date 2018-11-28 19:55:07 +0100
+catalogue-license lppl1.3
+catalogue-topics confproc
+catalogue-version 0.1

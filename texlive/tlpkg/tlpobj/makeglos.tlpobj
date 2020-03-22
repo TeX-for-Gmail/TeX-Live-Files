@@ -1,0 +1,18 @@
+name makeglos
+category Package
+revision 15878
+shortdesc Include a glossary into a document
+longdesc The package provides the means to include a glossary into a
+longdesc document. The glossary is prepared by an external program, such
+longdesc as xindy or makeindex, in the same way that an index is made.
+containersize 808
+containerchecksum 477523d4663e1e4a1fd6bb830e4574d6d116180b06a3199d6ba27f7cf704a1906a2812496e9a7ba8063690a2095fbd5022a5eb8c2448b1e0341c8a961cf05794
+doccontainersize 54248
+doccontainerchecksum c580a23d65422d8405ce011fb6b088f53836811e3da517423f6d0dce098ffbd64c0648318eb9fb74ab637e1796d19247ee87ca8a25c7d306e3dc35a5d6d79f99
+runfiles size=1
+ texmf-dist/tex/latex/makeglos/makeglos.sty
+catalogue-also nomencl glosstex gloss
+catalogue-ctan /macros/latex/contrib/makeglos
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics glossary

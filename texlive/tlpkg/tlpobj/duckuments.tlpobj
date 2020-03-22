@@ -1,0 +1,32 @@
+name duckuments
+category Package
+revision 49936
+shortdesc Create duckified dummy content
+longdesc The package provides facilities to create duckified dummy
+longdesc contents. It was inspired by the question "Getting ducks in
+longdesc example images" on TeX-LaTeX Stack Exchange. The following
+longdesc macros are available: \duckument[key=val] - print a short
+longdesc duckument \blindduck[key=val] - print a paragraph
+longdesc \ducklist(*){environment} - create a list of type environment
+longdesc \ducklistlist(*){environment} - create nested lists
+longdesc \duckitemize - ducklist{itemize} \duckenumerate -
+longdesc ducklist{enumerate} \duckdescription - ducklist{description}
+longdesc \duckumentsCreateExampleFile \duckumentsDrawRandomDucks The
+longdesc package works with pdfTeX, LuaTeX, and XeTeX.
+containersize 468748
+containerchecksum 75a2fc57b1f85bf36bb7ee9634517e32b62ba67e75cabdda3017f8c27b0aafb147e97c84f0945a498b2a71ba640c772fb5ec34afaeab542954b1337fcdbff64b
+doccontainersize 516928
+doccontainerchecksum f7fff4e22250e564737a91f2185949bb260ce9c678578e2403331ffed8642d51fe26528cdcce4be62b5c616c1ce9860e56e16cc1286562c41438435629ff356a
+srccontainersize 9704
+srccontainerchecksum ce2e9b0305ff4a0a117aba6a852ecaa1d0fdb68eaa1adca35f6c4b901af22e004f9372a75e9f353406095249a62101229573f9102057a46922e2f88a2b4958a8
+runfiles size=145
+ texmf-dist/tex/latex/duckuments/duckuments.sty
+ texmf-dist/tex/latex/duckuments/example-image-duck-portrait.pdf
+ texmf-dist/tex/latex/duckuments/example-image-duck.pdf
+catalogue-also lipsum tikzducks
+catalogue-contact-repository https://github.com/Skillmon/ltx_duckuments
+catalogue-ctan /macros/latex/contrib/duckuments
+catalogue-date 2019-02-03 22:30:55 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp dummy-gen
+catalogue-version 0.4c

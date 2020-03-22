@@ -1,0 +1,22 @@
+name latex-papersize
+category Package
+revision 42296
+shortdesc Calculate LaTeX settings for any font and paper size
+longdesc The package is a Python script, whose typical use is when
+longdesc preparing printed material for users with low vision. The most
+longdesc effective way of doing this is to print on (notional) small
+longdesc paper, and then to magnify the result; the script calculates
+longdesc the settings for various font and paper sizes. More details are
+longdesc to be read in the script itself.
+depend latex-papersize.ARCH
+containersize 4612
+containerchecksum cc3c6b563e16f70cab0ec113068d7f870a266c090ef518c06b4e3eced8e8fd9cb7aaa3544ef362ffd4af7f1d033a104daa48d47416061c3a73ba8329cc9a0fbb
+doccontainersize 596
+doccontainerchecksum 662d7a890978bb772a79db7a1d406ce6958970f6cdec352f78347d9ad8df47734ddae444370fa9e93582d4030568cd516ca32125b2d1e0f60aac3ce1c9b930e9
+runfiles size=3
+ texmf-dist/scripts/latex-papersize/latex-papersize.py
+catalogue-ctan /support/latex-papersize
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license apache2
+catalogue-topics layout
+catalogue-version 1.62

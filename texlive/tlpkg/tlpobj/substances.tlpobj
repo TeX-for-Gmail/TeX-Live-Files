@@ -1,0 +1,20 @@
+name substances
+category Package
+revision 40989
+shortdesc A database of chemicals
+longdesc The package provides the means to create a database-like file
+longdesc that contains data of various chemicals. These data may be
+longdesc retrieved in the document; an index of the chemicals mentioned
+longdesc in the document can be created..
+containersize 4780
+containerchecksum c7e3d72a506242b79e99c531bc550c81081d59c5a850af52ca3b86054a5eae42f9f1ac5c7808f54c404bee829f4cafaa1807c46ac7b994cd0f88ade1aec94c5a
+doccontainersize 578964
+doccontainerchecksum b2900ddbd6f8618522db171c5fb8b35ce5e5ab6b51fde609a18e6b5656437709772dba683767ad23ce955463a869c483e5e3fe81e1f9b5f7523f4f0cdb87a4d9
+runfiles size=6
+ texmf-dist/tex/latex/substances/substances-default.def
+ texmf-dist/tex/latex/substances/substances.sty
+catalogue-ctan /macros/latex/contrib/substances
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry expl3
+catalogue-version 0.2a

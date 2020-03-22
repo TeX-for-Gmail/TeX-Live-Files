@@ -1,0 +1,65 @@
+name lhcyr
+category Package
+revision 31795
+shortdesc A non-standard Cyrillic input scheme
+longdesc A collection of three LaTeX 2e styles intended for typesetting
+longdesc Russian and bilingual English-Russian documents, using the lh
+longdesc fonts and without the benefit of babel's language-switching
+longdesc mechanisms. The packages (lhcyralt and lhcyrwin for use under
+longdesc emTeX, and lhcyrkoi for use under teTeX) provide mappings
+longdesc between the input encoding and the font encoding (which is
+longdesc described as OT1). The way this is done does not match the way
+longdesc inputenc would do the job, for output via fontenc to one of the
+longdesc T2 series of font encodings.
+containersize 36192
+containerchecksum 55cf81c051e8f23fe4f085990bc72a5b1dfc276e3ae1721680ad033deae1e3eafb1b9dcff3380ee20b72623b1ab8f117aca66f61441387d914dc29dc91c78448
+srccontainersize 2352
+srccontainerchecksum 18fc370261acff25634107705a36d06ec6367da95526a79fdd78c887234a2f2a6a17147eb317e97effa2ae8fe8e21e8df71cff3da5572055356386d26d2b06d8
+runfiles size=73
+ texmf-dist/tex/latex/lhcyr/karabas.tex
+ texmf-dist/tex/latex/lhcyr/kniga.tex
+ texmf-dist/tex/latex/lhcyr/lhcyralt/README
+ texmf-dist/tex/latex/lhcyr/lhcyralt/lhcyralt-hyphen.cfg
+ texmf-dist/tex/latex/lhcyr/lhcyralt/lhcyralt-rhyphen.tex
+ texmf-dist/tex/latex/lhcyr/lhcyralt/lhcyralt.sty
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhdh.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhfib.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhfr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhss.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhtt.fd
+ texmf-dist/tex/latex/lhcyr/lhcyralt/ot1lhvtt.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/README
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/kcmf.tgz
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/lhcyrkoi-hyphen.cfg
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/lhcyrkoi-rhyphen.tex
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/lhcyrkoi.sty
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/maketfms.sh
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcdh.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcfib.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcfr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcss.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kctt.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/ot1kcvtt.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrkoi/special.kc
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/README
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/lhcyrwin-hyphen.cfg
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/lhcyrwin-rhyphen.tex
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/lhcyrwin.sty
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcdh.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcfib.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcfr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcr.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcss.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wctt.fd
+ texmf-dist/tex/latex/lhcyr/lhcyrwin/ot1wcvtt.fd
+ texmf-dist/tex/latex/lhcyr/otchet.tex
+ texmf-dist/tex/latex/lhcyr/pismo.tex
+ texmf-dist/tex/latex/lhcyr/rusfonts.tex
+ texmf-dist/tex/latex/lhcyr/statya.tex
+catalogue-also koi8
+catalogue-ctan /macros/latex/contrib/lhcyr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics multilingual font-supp

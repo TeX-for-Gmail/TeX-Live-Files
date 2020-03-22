@@ -1,0 +1,56 @@
+name go
+category Package
+revision 28628
+shortdesc Fonts and macros for typesetting go games
+longdesc The macros provide for nothing more complicated than the
+longdesc standard 19x19 board; the fonts are written in Metafont.
+containersize 9012
+containerchecksum 772772146ad95f2ebff85a2f3064615c26300a6a4050c1a6c7207d53e12b41477b0936b1c3d182f1c5db0aebd8499de19e0c23283c2bccf753addb2623dfd1be
+doccontainersize 3724
+doccontainerchecksum c65516b11156d4fef5104a36cb361bf59be244555233cb5d9692892da06d3bdecd0b09866db136aec177a2bcbacfae6bb41c606f6b9da0329a00c614055905d0
+srccontainersize 416
+srccontainerchecksum 54cbaf16bd4a1a9bdd02b7811120cc82269be40e97853d94b1d526eef98e7df8e7ab8de2e7abcdd7e7db4c1f7fdf3d7355d511ed57c44c09643ea291e5b1c6d0
+runfiles size=77
+ texmf-dist/fonts/source/public/go/go.mf
+ texmf-dist/fonts/source/public/go/go10.mf
+ texmf-dist/fonts/source/public/go/go15.mf
+ texmf-dist/fonts/source/public/go/go1bla10.mf
+ texmf-dist/fonts/source/public/go/go1bla15.mf
+ texmf-dist/fonts/source/public/go/go1bla20.mf
+ texmf-dist/fonts/source/public/go/go1black.mf
+ texmf-dist/fonts/source/public/go/go1whi10.mf
+ texmf-dist/fonts/source/public/go/go1whi15.mf
+ texmf-dist/fonts/source/public/go/go1whi20.mf
+ texmf-dist/fonts/source/public/go/go1white.mf
+ texmf-dist/fonts/source/public/go/go20.mf
+ texmf-dist/fonts/source/public/go/go2bla10.mf
+ texmf-dist/fonts/source/public/go/go2bla15.mf
+ texmf-dist/fonts/source/public/go/go2bla20.mf
+ texmf-dist/fonts/source/public/go/go2black.mf
+ texmf-dist/fonts/source/public/go/go2whi10.mf
+ texmf-dist/fonts/source/public/go/go2whi15.mf
+ texmf-dist/fonts/source/public/go/go2whi20.mf
+ texmf-dist/fonts/source/public/go/go2white.mf
+ texmf-dist/fonts/source/public/go/gosign50.mf
+ texmf-dist/fonts/tfm/public/go/go10.tfm
+ texmf-dist/fonts/tfm/public/go/go15.tfm
+ texmf-dist/fonts/tfm/public/go/go1bla10.tfm
+ texmf-dist/fonts/tfm/public/go/go1bla15.tfm
+ texmf-dist/fonts/tfm/public/go/go1bla20.tfm
+ texmf-dist/fonts/tfm/public/go/go1whi10.tfm
+ texmf-dist/fonts/tfm/public/go/go1whi15.tfm
+ texmf-dist/fonts/tfm/public/go/go1whi20.tfm
+ texmf-dist/fonts/tfm/public/go/go20.tfm
+ texmf-dist/fonts/tfm/public/go/go2bla10.tfm
+ texmf-dist/fonts/tfm/public/go/go2bla15.tfm
+ texmf-dist/fonts/tfm/public/go/go2bla20.tfm
+ texmf-dist/fonts/tfm/public/go/go2whi10.tfm
+ texmf-dist/fonts/tfm/public/go/go2whi15.tfm
+ texmf-dist/fonts/tfm/public/go/go2whi20.tfm
+ texmf-dist/fonts/tfm/public/go/gosign50.tfm
+ texmf-dist/tex/latex/go/go.sty
+catalogue-also igo
+catalogue-ctan /fonts/go
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics games font font-symbol font-mf

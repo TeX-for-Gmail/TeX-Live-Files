@@ -1,0 +1,17 @@
+name maths-symbols
+category Package
+revision 37763
+shortdesc Summary of mathematical symbols available in LaTeX
+longdesc A predecessor of the comprehensive symbols list, covering
+longdesc mathematical symbols available in standard LaTeX (including the
+longdesc AMS symbols, if available at compile time).
+containersize 520
+containerchecksum f2028a2b8dad52aee2db1fcf679647192cb926e13cca831a419d876783e492dbc590e4745302addae7d3f01eabf7eaa1fd7cc6f757eff2ab9d9b5c39a1b0b785
+doccontainersize 348784
+doccontainerchecksum b60a66b3cc67e4dde62b0fc0552233ab59b1981ab92cedbe4c0de31a4c9e9d3207cf54ec5d2361f81937867d81bd345e77c4ab3e36fcd8588851765ec3267864
+catalogue-contact-repository https://github.com/davidcarlisle/dpctex/tree/master/maths-symbols
+catalogue-ctan /info/symbols/math
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.2
+catalogue-topics font-index
+catalogue-version 3.4

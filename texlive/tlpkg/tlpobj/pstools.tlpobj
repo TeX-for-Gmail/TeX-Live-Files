@@ -1,0 +1,37 @@
+name pstools
+category TLCore
+revision 50602
+catalogue ps2eps
+shortdesc Produce Encapsulated PostScript from PostScript
+longdesc Produce Encapsulated PostScript Files (EPS/EPSF) from a
+longdesc one-page PostScript document, or any PostScript document. A
+longdesc correct Bounding Box is calculated for the EPS files and some
+longdesc PostScript command sequences that can produce errorneous
+longdesc results on printers are filtered. The input is cropped to
+longdesc include just the image contained in the PostScript file. The
+longdesc EPS files can then be included into TeX documents. Other
+longdesc programs like ps2epsi (a script distributed with ghostscript)
+longdesc don't always calculate the correct bounding box (because the
+longdesc values are put on the PostScript stack which may get corrupted
+longdesc by bad PostScript code) or they round it off, resulting in
+longdesc clipping the image. Therefore ps2eps uses a resolution of 144
+longdesc dpi to get the correct bounding box. The bundle includes
+longdesc binaries for Linux, Solaris, Digital Unix or Windows
+longdesc 2000/9x/NT; for other platforms, the user needs perl,
+longdesc ghostscript and an ANSI-C compiler. Included in the
+longdesc distribution is the bbox program, an application to produce
+longdesc Bounding Box values for rawppm or rawpbm format files.
+depend pstools.ARCH
+containersize 11536
+containerchecksum bb0046118a269ca8781bc5dd539e1dbb7b068bcda185d8d52f9ccc441ae07c96197078b204054fec079fce0d707e86a5b094db07dcf8c894e1b56fdee2db28ba
+doccontainersize 83132
+doccontainerchecksum ba3cb98dad993b56c7013d24fb515489dd5168c66c8e818b3c87922e812509903085ab9fc4f36b9df36b0371a7533822e840552d0a16feaae158d5e6f228370d
+runfiles size=11
+ texmf-dist/scripts/ps2eps/ps2eps.pl
+ texmf-dist/scripts/texlive/ps2frag.sh
+ texmf-dist/scripts/texlive/pslatex.sh
+catalogue-ctan /support/ps2eps
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics ps-manip
+catalogue-version 1.68

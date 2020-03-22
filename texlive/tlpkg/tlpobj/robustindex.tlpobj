@@ -1,0 +1,21 @@
+name robustindex
+category Package
+revision 49877
+shortdesc Create index with pagerefs
+longdesc Third parties often change the page numbers without rerunning
+longdesc makeindex. One would like to make the page numbers in the index
+longdesc entries more robust. This bundle provides robustindex.sty and
+longdesc robustglossary.sty, which use the \pageref mechanism to
+longdesc maintain correct page numbers.
+containersize 5032
+containerchecksum 3aeac1a43261302532d7b5ee309d6cd94f54a2b17954c023bc6a94fa89c51291f3c4fd3276b03aa3ec65f4e21556d302c81aec107fac5dcb477941cb474dbbf3
+doccontainersize 420516
+doccontainerchecksum aab461e990176e1d0cb82573edcfe11a4bf668b2d09edff05f673fa20d24ec76464495bebc64086fe3bb4411d5ec9590f43cd57949bedaa3366f6c7313359f56
+runfiles size=5
+ texmf-dist/tex/latex/robustindex/robustglossary.sty
+ texmf-dist/tex/latex/robustindex/robustindex.sty
+catalogue-contact-home https://www.staff.science.uu.nl/~kalle101/stind.html
+catalogue-ctan /macros/latex/contrib/robustindex
+catalogue-date 2019-01-30 13:41:54 +0100
+catalogue-license lppl1.2
+catalogue-topics index

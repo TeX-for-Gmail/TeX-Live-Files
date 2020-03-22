@@ -1,0 +1,27 @@
+name typicons
+category Package
+revision 37623
+shortdesc Font containing a set of web-related icons
+longdesc This package grants access to 336 web-related icons provided by
+longdesc the included "Typicons" free font, designed by Stephen
+longdesc Hutchings and released under the SIL Open Font License. See
+longdesc http://www.typicons.com for more details about the font itself.
+longdesc This package requires the fontspec package and either the
+longdesc Xe(La)TeX or Lua(La)TeX engine to load the included ttf font.
+longdesc Once the package is loaded, icons can be accessed through the
+longdesc general \ticon command, which takes as argument the name of the
+longdesc desired icon, or through direct commands specific to each icon.
+longdesc The full list of icon designs, names and direct commands is
+longdesc showcased in the manual.
+containersize 59552
+containerchecksum 38b0afff6e88635a2a27502f1abc279fd70e49f36d56bb44114895614cf80184ebf8b627bcd576d128b3557de08b3791c5c2e48f2adac9766f9a809ff0db3cba
+doccontainersize 134792
+doccontainerchecksum 36b9517833fa6c430671fdaf0ad0775813c22ea3b3f56fad96410dd90e052b76d81f0ecd411ec19b567cd664b7ca44b9268d05ce59fb9bea0429c8f91c3a4a55
+runfiles size=39
+ texmf-dist/fonts/truetype/public/typicons/typicons.ttf
+ texmf-dist/tex/latex/typicons/typicons.sty
+catalogue-ctan /fonts/typicons
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-supp-symbol font-symbol font-ttf
+catalogue-version 2.0.7

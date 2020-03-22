@@ -1,0 +1,32 @@
+name trajan
+category Package
+revision 15878
+shortdesc Fonts from the Trajan column in Rome
+longdesc Provides fonts (both as Metafont source and in Adobe Type 1
+longdesc format) based on the capitals carved on the Trajan column in
+longdesc Rome in 114 AD, together with macros to access the fonts. Many
+longdesc typographers think these rank first among the Roman's artistic
+longdesc legacy. The font is uppercase letters together with some
+longdesc punctuation and analphabetics; no lowercase or digits.
+execute addMixedMap trajan.map
+containersize 46804
+containerchecksum 66fe869b94f489a3240078fa28da32fab71767d93befefca62fda3a39ae53ab975b13b7ddf84e490658e915c100f16225ea0ed8e7787b099bf4cb067a9fd4e09
+doccontainersize 172208
+doccontainerchecksum c6b6137d1952660b99bf077eae0ddc0f40b4ea9ff6308e4f461fd0e34c7b4b35b4ad79f3e42e4d0077c9d2947db642d0add032f2413d580748ba786a8abbf029
+srccontainersize 20268
+srccontainerchecksum 36b85f870cd9b006f89df594193877a2188635be840636ae9300f511e5ab2a1ea60eac7f927ccb3e9832ab01972bf585460b47cf7ef30f36a6049ab0ce0fd95b
+runfiles size=25
+ texmf-dist/fonts/afm/public/trajan/trjnr10.afm
+ texmf-dist/fonts/afm/public/trajan/trjnsl10.afm
+ texmf-dist/fonts/map/dvips/trajan/trajan.map
+ texmf-dist/fonts/tfm/public/trajan/trjnr10.tfm
+ texmf-dist/fonts/tfm/public/trajan/trjnsl10.tfm
+ texmf-dist/fonts/type1/public/trajan/trjnr10.pfb
+ texmf-dist/fonts/type1/public/trajan/trjnsl10.pfb
+ texmf-dist/tex/latex/trajan/t1trjn.fd
+ texmf-dist/tex/latex/trajan/trajan.sty
+catalogue-ctan /fonts/trajan
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-archaic font-type1 font-mf
+catalogue-version 1.1

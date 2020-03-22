@@ -1,0 +1,19 @@
+name biblatex-bwl
+category Package
+revision 26556
+shortdesc BibLaTeX citations for FU Berlin
+longdesc The bundle provides a set of BibLaTeX implementations of
+longdesc bibliography and citation styles for the Business
+longdesc Administration Department of the Free University of Berlin.
+containersize 1308
+containerchecksum ca5e20736a70ed02fbdada150433162b64b39b0d95bca623cebda8da821bfe8554f9409cdd49af7559737dbc6d6033bbf6868f5ed809b1004cbeba4bbabbc38f
+doccontainersize 114332
+doccontainerchecksum 32acf8bc10c07532e8d6174f3dd9a1f850acaeaaa5a91d14a1c299f2f5f22e34c619a41fd9ae7a90e097fd5ec30fdbce581f65560e2891f697ddb0106469f50b
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-bwl/bwl-FU.bbx
+ texmf-dist/tex/latex/biblatex-bwl/bwl-FU.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-bwl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bus-study biblatex
+catalogue-version 0.02

@@ -1,0 +1,23 @@
+name luatextra
+category Package
+revision 20747
+shortdesc Additional macros for Plain TeX and LaTeX in LuaTeX
+longdesc The package provides a coherent extended programming
+longdesc environment for use with LuaTeX. It loads packages fontspec,
+longdesc luatexbase and lualibs, and provides additional user-level
+longdesc features and goodies. The package is under development, and its
+longdesc specification may be expected to change.
+containersize 1056
+containerchecksum 03c95a5e42d8fc0ed88704799a36624ebb48b9c7606acbc09de29e5da845ede3f239a6dda43cbfb4377971cecb55b1f5280cf0ea1aae5057f3ab8df2e0870745
+doccontainersize 317312
+doccontainerchecksum f1c0d31fbd66f4e78eb638a9bb336f49de3d19b29bf276fb6fd0d976ba2f33599c1536ec82f7887af1c1ee359b48b1048d400b7faf0cd8016b914f4c5318c849
+srccontainersize 3492
+srccontainerchecksum 2050bf6c907f6f4e210b400cc93b1786a7ea8407eb64e90054b2ac8408d31689fdb1ffcf4859f1bf6c24c298e5d07fcbd201574b9b397de192609dda504502e0
+runfiles size=1
+ texmf-dist/tex/lualatex/luatextra/luatextra.sty
+catalogue-contact-repository https://github.com/lualatex/luatextra
+catalogue-ctan /macros/luatex/latex/luatextra
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license pd
+catalogue-topics luatex
+catalogue-version 1.0.1

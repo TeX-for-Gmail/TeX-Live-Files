@@ -1,0 +1,19 @@
+name emptypage
+category Package
+revision 18064
+shortdesc Make empty pages really empty
+longdesc This package prevents page numbers and headings from appearing
+longdesc on empty pages.
+containersize 1048
+containerchecksum 6379cbd0983ca7b58d2c94ce02a76e054faab1afb2942227469dcf2c4d572d9946921b6d24e9c7d2b5a82cc45e7e380a8ffae671f165ad0e2a3a611b95841352
+doccontainersize 50156
+doccontainerchecksum 11681a155df95f913c3d25cceb32b54ace35bfa5aa7541916c15473b951b02a7417380dfa5c30f5dc3de1259d6cad99859c31bad4c2f2056ffb4608c614a2e14
+srccontainersize 1856
+srccontainerchecksum 1bdfdd32ed844651a109b54c65e7297222cb065a122269bd5c10cf77c6ae0e38b717fe182dad6bd0432b5eafb38b3d8631218599a46bb61a598eef4093a8ce1c
+runfiles size=1
+ texmf-dist/tex/latex/emptypage/emptypage.sty
+catalogue-ctan /macros/latex/contrib/emptypage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics layout
+catalogue-version 1.2

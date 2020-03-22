@@ -1,0 +1,8 @@
+name latex-git-log.x86_64-linux
+category Package
+revision 30983
+shortdesc x86_64-linux files of latex-git-log
+containersize 344
+containerchecksum 6438cdf0fddf8c4f9b4cf949bb291de784958f217cc3dbc6bb0ce131172e6f8c560e27d53f006cf1e4d18877cfe0e4570f28da6823d5834a1a084e19b2364c79
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latex-git-log

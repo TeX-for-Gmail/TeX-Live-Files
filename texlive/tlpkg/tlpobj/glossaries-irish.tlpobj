@@ -1,0 +1,21 @@
+name glossaries-irish
+category Package
+revision 35665
+shortdesc Irish language module for glossaries package
+longdesc Irish language module for glossariesr package.
+containersize 1880
+containerchecksum b59add658270f734a8fcb70bae29ac210c84472f0f7ded62baa647bdbdbcba2e63dab71aca6f8c524eae9e3d80bfa7bf96bef45bef7039c3eeff738055a93acf
+doccontainersize 128536
+doccontainerchecksum 9ce14ee4ca3ac1eed10f8c356fd6561f7ac43abcde46009a6d43245395985f045e9ecb83a38a190ea3a5cabf462a233967993bcaa40211cd7e64791dc2a583a5
+srccontainersize 2612
+srccontainerchecksum cdc7332678be3abc86804b9b674aab88f087791c8418e6273cc07f2c2b4bc8316ad21a3421af9ca2f87f76a3ce42a6fc5e7343e006120dcbe1c7cb14901d7ff9
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-irish/glossaries-irish-noenc.ldf
+ texmf-dist/tex/latex/glossaries-irish/glossaries-irish-utf8.ldf
+ texmf-dist/tex/latex/glossaries-irish/glossaries-irish.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-irish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary irish-gaelic
+catalogue-version 1.0

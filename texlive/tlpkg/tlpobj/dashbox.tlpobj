@@ -1,0 +1,20 @@
+name dashbox
+category Package
+revision 23425
+shortdesc Draw dashed boxes
+longdesc The package can draw boxes that perform like \framebox or
+longdesc \fbox, but use dashed lines. The package can also draw (an
+longdesc illusion of) vertical stacks of boxes.
+containersize 1624
+containerchecksum a52bac248fa26031db34686e57cd3c9be90bc18b41339d7e2dc85a68de1de23a627648599e5fdb207d3364b2b4e3651aaf9c2d90e6c3bd0f0fdcaa30fbc8932d
+doccontainersize 159404
+doccontainerchecksum 26672278ffdbdaee64b82f4e7554b5664ca3410ce8009454cfc229e3590439b4a4e212b77568605adda885761f5ad456bca022f198e259ff9a33b8e0abc1ea6d
+srccontainersize 3964
+srccontainerchecksum 833bcc8f98e6fbf3e205b54311dddb9377026234132e5f988abd25e3ace36b9f3b54a95e98a5c4cc40ef1f049536093b0f779517c6f5a63a08459bf0a7ace741
+runfiles size=2
+ texmf-dist/tex/latex/dashbox/dashbox.sty
+catalogue-ctan /macros/latex/contrib/dashbox
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics boxing
+catalogue-version 1.14

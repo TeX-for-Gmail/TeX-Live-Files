@@ -1,0 +1,52 @@
+name frankenstein
+category Package
+revision 15878
+shortdesc A collection of LaTeX packages
+longdesc Frankenstein is a bundle of LaTeX packages serving various
+longdesc purposes and a BibTeX bibliography style. Descriptions are
+longdesc given under the individual packages: abbrevs, achicago package,
+longdesc achicago bibstyle, attrib, blkcntrl, compsci, dialogue, lips,
+longdesc moredefs, newclude, slemph, titles.
+containersize 137188
+containerchecksum 1d94962185391dc1fa9edcadd67a60d9a4b59592442ffdd45badea6279db8dea101b418ab3e03284e6e88c247fd213887f06e72fb6c4a002a66acaee82d8d4bf
+doccontainersize 1830040
+doccontainerchecksum 8d8a404aa0a61fb76104bc57e1c2b837ddf68516c4d4fdc1af0a84425943f4e23a4f660b28b02e088db8849090e3734915ef7e0216f578a5199cf12115c498cd
+srccontainersize 5588
+srccontainerchecksum 8481205c937e58fc0b46eb25e4f7c8b28becc7ebf2529ab784f0bbb7292dc21faa9ebd1ef3be2a98950f1d2570b23eb13f7d6e134b8c8c5eea25e81c0e6c6eb5
+runfiles size=191
+ texmf-dist/bibtex/bib/frankenstein/frankenstein.bib
+ texmf-dist/bibtex/bst/frankenstein/achicago.bst
+ texmf-dist/tex/latex/frankenstein/abbrevs.cfg
+ texmf-dist/tex/latex/frankenstein/abbrevs.stq
+ texmf-dist/tex/latex/frankenstein/abbrevs.sty
+ texmf-dist/tex/latex/frankenstein/achicago.stq
+ texmf-dist/tex/latex/frankenstein/achicago.sty
+ texmf-dist/tex/latex/frankenstein/allocate.sto
+ texmf-dist/tex/latex/frankenstein/attrib.stq
+ texmf-dist/tex/latex/frankenstein/attrib.sty
+ texmf-dist/tex/latex/frankenstein/blkcntrl.stq
+ texmf-dist/tex/latex/frankenstein/blkcntrl.sty
+ texmf-dist/tex/latex/frankenstein/compsci.cfg
+ texmf-dist/tex/latex/frankenstein/compsci.stq
+ texmf-dist/tex/latex/frankenstein/compsci.sty
+ texmf-dist/tex/latex/frankenstein/dialogue.stq
+ texmf-dist/tex/latex/frankenstein/dialogue.sty
+ texmf-dist/tex/latex/frankenstein/lips.stq
+ texmf-dist/tex/latex/frankenstein/lips.sty
+ texmf-dist/tex/latex/frankenstein/moredefs.stq
+ texmf-dist/tex/latex/frankenstein/moredefs.sty
+ texmf-dist/tex/latex/frankenstein/newclude.stq
+ texmf-dist/tex/latex/frankenstein/newclude.sty
+ texmf-dist/tex/latex/frankenstein/simple.sto
+ texmf-dist/tex/latex/frankenstein/slemph.cfg
+ texmf-dist/tex/latex/frankenstein/slemph.stq
+ texmf-dist/tex/latex/frankenstein/slemph.sty
+ texmf-dist/tex/latex/frankenstein/tag.sto
+ texmf-dist/tex/latex/frankenstein/titles.cfg
+ texmf-dist/tex/latex/frankenstein/titles.stq
+ texmf-dist/tex/latex/frankenstein/titles.sty
+catalogue-also frankenstein-unsupported
+catalogue-ctan /macros/latex/contrib/frankenstein
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license collection
+catalogue-topics collection
