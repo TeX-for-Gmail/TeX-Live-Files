@@ -1,0 +1,22 @@
+name lsc
+category Package
+revision 15878
+shortdesc Typesetting Live Sequence Charts
+longdesc This package is similar to the msc package in that it provides
+longdesc macros for typesetting a variant of sequence diagrams, in this
+longdesc case the Live Sequence Charts of Damm and Harel. The package
+longdesc supports the full LSC language of the original LSC paper, the
+longdesc Klose-extensions for formal verification and some of the
+longdesc Harel-extensions for the Play-In/Play-Out approach (cf. the
+longdesc manual).
+containersize 14224
+containerchecksum f61d81a49c25972e03120cbf6557d356d6df6937af6e0443e47305312485217b6bb5c0818adf248fb860ec5d42c07fc22fdc0c54f9dd1f3bdcb12486350316da
+doccontainersize 187204
+doccontainerchecksum 5d0550421ee0657c378cc1ad8159e16e43644f533e3d8a013d917c494bbb8d11cba79b99fcaa7bdcf8ef5f5deb88d144ed64d75a5682fe4c4187c60c634297f5
+runfiles size=16
+ texmf-dist/bibtex/bib/lsc/lsc.bib
+ texmf-dist/tex/latex/lsc/lsc.sty
+catalogue-ctan /macros/latex/contrib/lsc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics comp-net

@@ -1,0 +1,26 @@
+name poemscol
+category Package
+revision 46433
+shortdesc Typesetting Critical Editions of Poetry
+longdesc The package offers LaTeX macros for typesetting critical
+longdesc editions of poetry. Its features include automatic
+longdesc linenumbering, generation of separate endnotes sections for
+longdesc emendations, textual collations, and explanatory notes, special
+longdesc marking for cases in which page breaks occur during stanza
+longdesc breaks, running headers of the form 'Notes to pp. xx-yy' for
+longdesc the notes sections, index of titles and first lines, and
+longdesc automatic generation of a table of contents.
+containersize 16604
+containerchecksum eb5beade2bf004d83aff77b3c9dcc1c05c286bd2d7084787c8b2192026eaa2b39ed6ac289ec21e5e53e42e72a8ea49efa1361cb2ad5e54fdebe16357f32bab4e
+doccontainersize 692312
+doccontainerchecksum cca8150bf40af109f0b0bd43c166ba8462a97cb719572d165159281b1cdce822116baf42e48900fec10475283d6d081635cbb66d156aebfea6bb292717bf17cf
+srccontainersize 80368
+srccontainerchecksum 8764a8444c076433d62c3d6c88168053b826764eb780788464f79faca7f00ee64f48b07281206fb2f2b132923ca264ce68900bd10a9af71b62fa0ec81d153a5c
+runfiles size=31
+ texmf-dist/tex/latex/poemscol/poemscol.sty
+catalogue-also edmac ledmac ednotes verse
+catalogue-ctan /macros/latex/contrib/poemscol
+catalogue-date 2018-01-24 05:32:51 +0100
+catalogue-license lppl1.3
+catalogue-topics crit-ed
+catalogue-version 2.97

@@ -1,0 +1,22 @@
+name fcolumn
+category Package
+revision 38489
+shortdesc Typesetting financial tables
+longdesc In financial reports, text and currency amounts are regularly
+longdesc put in one table, e.g., a year balance or a profit-and-loss
+longdesc overview. This package provides the settings for automatically
+longdesc typesetting such columns, including the sum line (preceded by a
+longdesc rule of the correct width) using the specifier "f".
+containersize 2760
+containerchecksum f8314ad8dba1fee7dbede4089861cc31fcf71b32a817ac0cdbd6fa4eb2f7bc0a4ac11abc446efb3fb0639ee32b1d00eb366ffe0536c6aa584a206b79c2844789
+doccontainersize 248776
+doccontainerchecksum 38b5db5259b942226fb509c7b6832d11d530e74de3a83ac84402c6acf5a862ea945992c3659237b1f3a7ac76a8d989153673ac85a1d1461c5fcfeb133ca8871b
+srccontainersize 13596
+srccontainerchecksum 0bf0fe6d70e92f04adcc3302d4d09c677ef6899bd4f0979dbe1ecff33caa3c2721d65a4d2217a3f1376f5dc101da76347ad9c1dcae882e309fa38e61c02e74d9
+runfiles size=2
+ texmf-dist/tex/latex/fcolumn/fcolumn.sty
+catalogue-ctan /macros/latex/contrib/fcolumn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics table
+catalogue-version 1.1.1

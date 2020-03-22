@@ -1,0 +1,35 @@
+name quran
+category Package
+revision 49563
+shortdesc An easy way to typeset any part of The Holy Quran
+longdesc This package offers the user an easy way to typeset The Holy
+longdesc Quran. It has been inspired by the lipsum and ptext packages
+longdesc and provides several macros for typesetting the whole or any
+longdesc part of Quran based on its popular division, including surah,
+longdesc ayah, juz, hizb, quarter, and page. Besides the Arabic
+longdesc original, translations to English, German, and Persian are
+longdesc provided, as well as an English transliteration.
+containersize 1202340
+containerchecksum 1b2e08b203093528b1a30eb11bd9caa1360631bbfedcbfde8b46eecc7a0d4ab72844b65aa29738788854981cf35565e332177e3936b9006918328683a04b200e
+doccontainersize 392836
+doccontainerchecksum cd6281eeb6075f934f21885e7441053e179d7080242fb5bc7be55fa6d200957366fdb85fef211e7b9a94a4f7c281bdd556c07f52870fcd1b1c06836b1322aae4
+runfiles size=2077
+ texmf-dist/tex/xelatex/quran/quran-transde.def
+ texmf-dist/tex/xelatex/quran/quran-transen.def
+ texmf-dist/tex/xelatex/quran/quran-transfa.def
+ texmf-dist/tex/xelatex/quran/quran-translt.def
+ texmf-dist/tex/xelatex/quran/quran.sty
+ texmf-dist/tex/xelatex/quran/qurantext-de.translation.def
+ texmf-dist/tex/xelatex/quran/qurantext-en.translation.def
+ texmf-dist/tex/xelatex/quran/qurantext-en.transliteration.def
+ texmf-dist/tex/xelatex/quran/qurantext-fa.translation.def
+ texmf-dist/tex/xelatex/quran/qurantext-simple.def
+ texmf-dist/tex/xelatex/quran/qurantext-uthmani.def
+catalogue-also lipsum ptext
+catalogue-contact-bugs https://github.com/javadr/quran/issues
+catalogue-contact-repository https://github.com/javadr/quran
+catalogue-ctan /macros/xetex/latex/quran
+catalogue-date 2018-12-31 10:29:21 +0100
+catalogue-license lppl1.3
+catalogue-topics arabic macro-supp xetex dummy-gen
+catalogue-version 1.5

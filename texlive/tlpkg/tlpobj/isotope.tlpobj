@@ -1,0 +1,21 @@
+name isotope
+category Package
+revision 23711
+shortdesc A package for typesetting isotopes
+longdesc The package provides a command \isotope for setting the atomic
+longdesc weight and atomic number indications of isotopes. (The naive
+longdesc way of doing the job with (La)TeX mathematics commands produces
+longdesc an unsatisfactory result.)
+containersize 1168
+containerchecksum 27c03c4c6519c038185ee485e94ac51d90c21fd095e4a4cb6d91b06f98e7adb7a423a53b1df035514f58cd0556ab0ecb1afd55c05008e558812d95de2159c8ba
+doccontainersize 520
+doccontainerchecksum e1a6e798f894f9455e5d2144a935ee2960199e65db0499c4a900f888065eacfce72269f6808e01e98be3ea3440144eb4004c53af26d80d6ddda1be5df5492b1f
+srccontainersize 3076
+srccontainerchecksum 555ad9d5db22d4efe1373bf971f441391371c91538b73f3140996d3a2dda85fc3003f6d685c3e54c06be216e5b54493d07f165c0a7adeb00845e79bbd9958c5d
+runfiles size=1
+ texmf-dist/tex/latex/isotope/isotope.sty
+catalogue-ctan /macros/latex/contrib/isotope
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics subsup-pos physics
+catalogue-version 0.3

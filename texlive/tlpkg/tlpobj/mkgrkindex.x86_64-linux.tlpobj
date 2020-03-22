@@ -1,0 +1,8 @@
+name mkgrkindex.x86_64-linux
+category Package
+revision 14428
+shortdesc x86_64-linux files of mkgrkindex
+containersize 340
+containerchecksum 1f963a4f7f87de3e7c44831b7772f28bb62afee2a8d5d851bcc5de1b34466697e0d3689e9b471642ec6c32d24369f8c283a17c073fd1ed7ababbcd2aab347c6f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/mkgrkindex

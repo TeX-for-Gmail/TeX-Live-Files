@@ -1,0 +1,23 @@
+name padcount
+category Package
+revision 47621
+shortdesc Pad numbers with arbitrary characters
+longdesc This package provides some simple macros which will pad numbers
+longdesc (or, indeed, any expanded token) with your choice of character
+longdesc (defaulting to "0") to your choice of number of places
+longdesc (defaults to "2"). This works not only on arabic numerals, but
+longdesc on any expanded list of tokens passed to it. This makes it
+longdesc suitable for, among other things, counters of all kinds.
+containersize 1360
+containerchecksum 9378dbaa1d3a569a3cb4bd70fa1b5a6dcdb0fe089d3a2c3eecef4cfdb776607f42b7fb018461c00781f8b022dd962e790146297f5df29889db13794e25c1cbb0
+doccontainersize 147788
+doccontainerchecksum 68ffec3a80473b3b2899ae262fcbca47198c61bf1363b9c167986cc95214c778fdd49ed65e8fda8f15d48d3d9941ac54c6660f28729dda176123fa1b3f7e8631
+srccontainersize 2952
+srccontainerchecksum 088fd314ec5717f6b40f66762af47a32eb01f40259948945b48bfde12923474cbf0a7aa8389b4ea83127915782bffab4d9cc0be40d2f7d752dca734b0fc0b62e
+runfiles size=1
+ texmf-dist/tex/latex/padcount/padcount.sty
+catalogue-ctan /macros/latex/contrib/padcount
+catalogue-date 2018-05-07 04:39:01 +0200
+catalogue-license lppl1.3c
+catalogue-topics numbers
+catalogue-version 1.0

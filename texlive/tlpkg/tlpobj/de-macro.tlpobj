@@ -1,0 +1,23 @@
+name de-macro
+category Package
+revision 26355
+shortdesc Expand private macros in a document
+longdesc De-macro is a Python script that helps authors who like to use
+longdesc private LaTeX macros (for example, as abbreviations). A
+longdesc technical editor or a cooperating author may balk at such a
+longdesc manuscript; you can avoid manuscript rejection misery by
+longdesc running de-macro on it. De-macro will expand macros defined in
+longdesc \(re)newcommand or \(re)newenvironment commands, within the
+longdesc document, or in the document's "private" package file.
+depend de-macro.ARCH
+containersize 7848
+containerchecksum 5ce9beff85d65654173557af668ff15af6989d9fa6d341fe9c26149d0715ed7cf57bf5b2a59b6cf99e8ec14e4ebb6816e9972268516a0b2a78ee13c6423b3599
+doccontainersize 49764
+doccontainerchecksum 05793930357ad58a57e221696d836895f02dec82cc93b9aa7ea302978bee24410d4b382ff72407faa67f4133c75a84fb2454957de446beca05606776c6581ade
+runfiles size=9
+ texmf-dist/scripts/de-macro/de-macro
+catalogue-ctan /support/de-macro
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics macro-supp
+catalogue-version 1.3

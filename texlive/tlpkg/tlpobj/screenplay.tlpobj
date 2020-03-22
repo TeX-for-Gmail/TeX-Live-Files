@@ -1,0 +1,21 @@
+name screenplay
+category Package
+revision 27223
+shortdesc A class file to typeset screenplays
+longdesc The class implements the format recommended by the Academy of
+longdesc Motion Picture Arts and Sciences.
+containersize 2764
+containerchecksum d14dd76c4b1abd9ff7adbef7e4c3bc1f732156dc2d989787bed7382e0288c44dcde18ce05143e6af03ebe83c753bd2b6682cb4f56c73934ca4209a114eb9e3ef
+doccontainersize 154500
+doccontainerchecksum ed723ffc17a98c8d4a8c960f56a3550ea74db84fdd06d26b08b5c46b12310fdb9b7b7719ffa25e8ddd21f17642f5f64f1c96327066a131c468cee8ff185cb199
+srccontainersize 17316
+srccontainerchecksum f6ada6c467c3a9d11096928dc31c7f71131f0b40146a697bda2a3e194c86070a776323c76c8b6da0edd247f8fcd1a65c286801a7353bb53bc6aa364bb7a75944
+runfiles size=3
+ texmf-dist/tex/latex/screenplay/hardmarg.sty
+ texmf-dist/tex/latex/screenplay/screenplay.cls
+catalogue-also scripttex screenplay-pkg
+catalogue-ctan /macros/latex/contrib/screenplay
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics drama-script class
+catalogue-version 1.6

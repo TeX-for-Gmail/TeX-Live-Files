@@ -1,0 +1,21 @@
+name tablists
+category Package
+revision 15878
+shortdesc Tabulated lists of short items
+longdesc This package offers environments and commands for one-level and
+longdesc two-level lists of short items (e.g., exercises in textbooks).
+longdesc The environments support optional arguments of item numbering
+longdesc similar to the enumerate or paralist packages.
+containersize 2756
+containerchecksum ed0ebef871c7bdffe93e2cc38b823dd13376c53e4388daa8aa1198cb213010594c9bfe468ec0e42901df2dbd1b938e7f037cf49ef2cf6d9ff3bc53502b220a14
+doccontainersize 211336
+doccontainerchecksum afcfa520702fd873b4deb7c4acfbd4290262a0df133c87f01698d20b8d17fd5b5932384124f49fb4d90155da284b873bb3ee1a2281955449f8ca2f278c38d39f
+srccontainersize 8040
+srccontainerchecksum 34ff94c3adfff4188daf4ff906721833dd925c84f107867d7931fe66c58ea8a8438737065f64a9aaf57acb0eeac9e17e8388dee7a0af93476f5add226d4481e7
+runfiles size=2
+ texmf-dist/tex/latex/tablists/tablists.sty
+catalogue-ctan /macros/latex/contrib/tablists
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list-enum
+catalogue-version 0.0e

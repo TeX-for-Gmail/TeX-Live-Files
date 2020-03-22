@@ -1,0 +1,18 @@
+name elpres
+category Package
+revision 46429
+shortdesc A simple class for electronic presentations
+longdesc Elpres is a simple class for electronic presentations to be
+longdesc shown on screen or a beamer. Elpres is derived from article.cls
+longdesc and may be used with LaTeX or pdfLaTeX.
+containersize 1668
+containerchecksum e3b0dfc5c2da908b95a882acf37ccf56abbad0e37c53c4e8ece14b98401be3a84ebc4546b739ed8a3f5c30977522b5650c56f12028fbfff467b4cf0a53877475
+doccontainersize 215432
+doccontainerchecksum bd4b73534eecdc0e02184d0736684e09c688bef1658ddad28b0c1a952a63ebc87546c426e7bf3a9733bd62192d87d500ba3f99463830d3e14f30c0726d80cb6d
+runfiles size=1
+ texmf-dist/tex/latex/elpres/elpres.cls
+catalogue-ctan /macros/latex/contrib/elpres
+catalogue-date 2018-01-24 05:05:36 +0100
+catalogue-license lppl
+catalogue-topics presentation class
+catalogue-version 0.4a

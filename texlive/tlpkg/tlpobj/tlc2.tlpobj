@@ -1,0 +1,16 @@
+name tlc2
+category Package
+revision 26096
+catalogue tlc2-examples
+shortdesc Examples from "The LaTeX Companion", second edition
+longdesc The source of the examples printed in the book, together with
+longdesc necessary supporting files. The book was published by
+longdesc Addison-Wesley, 2004, ISBN 0-201-36299-6.
+containersize 484
+containerchecksum 3ac7d28285b15d7e97839619a449c870b3f96e1c557470ba4bf680016c9834af9f09715e09525b00aa2b951bbe20e5d3b1d0a5e5f957de99c13fdb39f4267e3d
+doccontainersize 114656
+doccontainerchecksum 79eead14f268eab643f676c36b20ba89828928fb3b418956277304ac6cf7145d53b4f97c30605690cddce8660361614b58ac65e8454b7740dde17ff82a053818
+catalogue-ctan /info/examples/tlc2
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex

@@ -1,0 +1,94 @@
+name gothic
+category Package
+revision 49869
+shortdesc A collection of old German-style fonts
+longdesc A collection of fonts that reproduce those used in "old German"
+longdesc printing and handwriting. The set comprises Gothic, Schwabacher
+longdesc and Fraktur fonts, a pair of handwriting fonts, Sutterlin and
+longdesc Schwell, and a font containing decorative initials. In
+longdesc addition, there are two re-encoding packages for Haralambous's
+longdesc fonts, providing T1, using virtual fonts, and OT1 and T1, using
+longdesc Metafont.
+containersize 129612
+containerchecksum 0c3fafd295fb087d3ace144df7253ff09fb3d79091dcd49003964a7ce57308cb4e86f3c3158a5e3d7e509e9958f77d5cc6da03fc41b585ec4ea397822ac29a7a
+doccontainersize 193528
+doccontainerchecksum 8f2495f3f9c72e5a5b01e17e1a9f80bae3ded97b902765dd2fa9b43ff87769a9ac2b972aa660344bcc8e29af3824985c49639477ee96213c0ee7d9d411e8ebad
+srccontainersize 448
+srccontainerchecksum f6e600c736989ac81cde1fd51306ddb520e693b6a5ee8338c3413b5656aaacade8d4f1ca7aa316589c4d49fa8b96b598637792825b03ab0fe3efa4bb584067b2
+runfiles size=246
+ texmf-dist/fonts/source/public/gothic/cmfrabase.mf
+ texmf-dist/fonts/source/public/gothic/cmfrak.mf
+ texmf-dist/fonts/source/public/gothic/cmfraklow.mf
+ texmf-dist/fonts/source/public/gothic/cmfrakmis.mf
+ texmf-dist/fonts/source/public/gothic/cmfraknum.mf
+ texmf-dist/fonts/source/public/gothic/cmfrakoth.mf
+ texmf-dist/fonts/source/public/gothic/cmfrakupp.mf
+ texmf-dist/fonts/source/public/gothic/dcfrak.mf
+ texmf-dist/fonts/source/public/gothic/schwell.mf
+ texmf-dist/fonts/source/public/gothic/su-lig.mf
+ texmf-dist/fonts/source/public/gothic/su-low.mf
+ texmf-dist/fonts/source/public/gothic/su-spec.mf
+ texmf-dist/fonts/source/public/gothic/su-upp.mf
+ texmf-dist/fonts/source/public/gothic/suet14.mf
+ texmf-dist/fonts/source/public/gothic/xxfrak.mf
+ texmf-dist/fonts/source/public/gothic/yfrabase.mf
+ texmf-dist/fonts/source/public/gothic/yfrak.mf
+ texmf-dist/fonts/source/public/gothic/yfraklow.mf
+ texmf-dist/fonts/source/public/gothic/yfrakmis.mf
+ texmf-dist/fonts/source/public/gothic/yfraknum.mf
+ texmf-dist/fonts/source/public/gothic/yfrakoth.mf
+ texmf-dist/fonts/source/public/gothic/yfrakupp.mf
+ texmf-dist/fonts/source/public/gothic/ygotbase.mf
+ texmf-dist/fonts/source/public/gothic/ygoth.mf
+ texmf-dist/fonts/source/public/gothic/ygothgen.mf
+ texmf-dist/fonts/source/public/gothic/ygothlig.mf
+ texmf-dist/fonts/source/public/gothic/ygothlow.mf
+ texmf-dist/fonts/source/public/gothic/ygothmis.mf
+ texmf-dist/fonts/source/public/gothic/ygothnum.mf
+ texmf-dist/fonts/source/public/gothic/ygothupp.mf
+ texmf-dist/fonts/source/public/gothic/yinit.mf
+ texmf-dist/fonts/source/public/gothic/yinitA.mf
+ texmf-dist/fonts/source/public/gothic/yinitB.mf
+ texmf-dist/fonts/source/public/gothic/yinitC.mf
+ texmf-dist/fonts/source/public/gothic/yinitD.mf
+ texmf-dist/fonts/source/public/gothic/yinitE.mf
+ texmf-dist/fonts/source/public/gothic/yinitF.mf
+ texmf-dist/fonts/source/public/gothic/yinitG.mf
+ texmf-dist/fonts/source/public/gothic/yinitH.mf
+ texmf-dist/fonts/source/public/gothic/yinitJ.mf
+ texmf-dist/fonts/source/public/gothic/yinitK.mf
+ texmf-dist/fonts/source/public/gothic/yinitL.mf
+ texmf-dist/fonts/source/public/gothic/yinitM.mf
+ texmf-dist/fonts/source/public/gothic/yinitN.mf
+ texmf-dist/fonts/source/public/gothic/yinitO.mf
+ texmf-dist/fonts/source/public/gothic/yinitP.mf
+ texmf-dist/fonts/source/public/gothic/yinitQ.mf
+ texmf-dist/fonts/source/public/gothic/yinitR.mf
+ texmf-dist/fonts/source/public/gothic/yinitS.mf
+ texmf-dist/fonts/source/public/gothic/yinitT.mf
+ texmf-dist/fonts/source/public/gothic/yinitU.mf
+ texmf-dist/fonts/source/public/gothic/yinitV.mf
+ texmf-dist/fonts/source/public/gothic/yinitW.mf
+ texmf-dist/fonts/source/public/gothic/yinitX.mf
+ texmf-dist/fonts/source/public/gothic/yinitY.mf
+ texmf-dist/fonts/source/public/gothic/yinitZ.mf
+ texmf-dist/fonts/source/public/gothic/yintbase.mf
+ texmf-dist/fonts/source/public/gothic/ysmfrak.mf
+ texmf-dist/fonts/source/public/gothic/yswab.mf
+ texmf-dist/fonts/source/public/gothic/yswabase.mf
+ texmf-dist/fonts/source/public/gothic/yswablow.mf
+ texmf-dist/fonts/source/public/gothic/yswabmis.mf
+ texmf-dist/fonts/source/public/gothic/yswabnum.mf
+ texmf-dist/fonts/source/public/gothic/yswabupp.mf
+ texmf-dist/fonts/tfm/public/gothic/cmfrak.tfm
+ texmf-dist/fonts/tfm/public/gothic/schwell.tfm
+ texmf-dist/fonts/tfm/public/gothic/suet14.tfm
+ texmf-dist/fonts/tfm/public/gothic/yfrak.tfm
+ texmf-dist/fonts/tfm/public/gothic/ygoth.tfm
+ texmf-dist/fonts/tfm/public/gothic/yinit.tfm
+ texmf-dist/fonts/tfm/public/gothic/ysmfrak.tfm
+ texmf-dist/fonts/tfm/public/gothic/yswab.tfm
+catalogue-ctan /fonts/gothic
+catalogue-date 2017-10-29 15:22:05 +0100
+catalogue-license collection
+catalogue-topics font font-mf font-collection font-gothic

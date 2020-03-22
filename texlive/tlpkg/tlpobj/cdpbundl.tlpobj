@@ -1,0 +1,36 @@
+name cdpbundl
+category Package
+revision 46613
+shortdesc Business letters in the Italian style
+longdesc The C.D.P. Bundle can be used to typeset high-quality business
+longdesc letters formatted according to Italian style conventions. It is
+longdesc highly configurable, and its modular structure provides you
+longdesc with building blocks of increasing level, by means of which you
+longdesc can compose a large variety of letters. It is also possible to
+longdesc write letters divided into sections and paragraphs, to include
+longdesc floating figures and tables, and to have the relevant indexes
+longdesc compiled automatically. A single input file can contain several
+longdesc letters, and each letter will have its own table of contents,
+longdesc etc., independant from the other ones.
+containersize 19100
+containerchecksum 142dc5657e1482cdf7392ee7df6967557cf09e5b733b12e8c7559863c2edc66a3439b29c7cf16c2461cc1090090117337f63db899bf7bba0cc23d04bb573c633
+doccontainersize 768180
+doccontainerchecksum 3fbfe5b5a8771bf3a74c6adc7a90e04f6085179c11a6db4ed8ebe644e00e334f447f3d32214d72ac341d18e3c79d3bfcfd788053d2065eeced76ad7c7ce6a9aa
+srccontainersize 68824
+srccontainerchecksum 579575c916a417be5d097d7e766c0cc599856d0b2aa3d4eae5880748c57c7735457aed493d3818974f25f07990b7496b6c5a92ceee39e0116510c420ae69d81f
+runfiles size=28
+ texmf-dist/tex/latex/cdpbundl/articoletteracdp.cls
+ texmf-dist/tex/latex/cdpbundl/cdpaddon.sty
+ texmf-dist/tex/latex/cdpbundl/cdpbabel.sty
+ texmf-dist/tex/latex/cdpbundl/cdpnamesenglish.ldf
+ texmf-dist/tex/latex/cdpbundl/cdpnamesitalian.ldf
+ texmf-dist/tex/latex/cdpbundl/cdpshues-example.def
+ texmf-dist/tex/latex/cdpbundl/cdpshues.cfg
+ texmf-dist/tex/latex/cdpbundl/epson-stylus-740.def
+ texmf-dist/tex/latex/cdpbundl/hp-laserjet-4500.def
+ texmf-dist/tex/latex/cdpbundl/letteracdp.cls
+catalogue-ctan /macros/latex/contrib/cdpbundl
+catalogue-date 2018-02-12 06:16:41 +0100
+catalogue-license lppl
+catalogue-topics letter
+catalogue-version 0.36d

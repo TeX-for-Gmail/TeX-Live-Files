@@ -1,0 +1,28 @@
+name songs
+category Package
+revision 44553
+shortdesc Produce song books for church or fellowship
+longdesc The package provides a means of producing beautiful song books
+longdesc for church or fellowship. It offers: a very easy chord-entry
+longdesc syntax; multiple modes (words-only; words+chords; slides;
+longdesc handouts); measure bars; guitar tablatures; automatic
+longdesc transposition; scripture quotations; multiple indexes (sorted
+longdesc by title, author, important lyrics, or scripture references);
+longdesc and projector-style output generation, for interactive use. A
+longdesc set of example documents is provided.
+containersize 20340
+containerchecksum 8b537a9c13737afaaf2a039943bc214973691ea5228b44b73ee59dc4ffd5ee51e617acc9bac0fa7fb9036ad5ae5dd1399fb358414430989fd7c6eb469d0ad759
+doccontainersize 1161016
+doccontainerchecksum 75094f7af6f689e88899e7c2809c9f1e7e89a88ba2871c73d4743acae3d7fff739174a2b2c2731d8e50d52157cd8eec37b700a427887a019309977528841fdb4
+srccontainersize 93376
+srccontainerchecksum 4c2992d70c3fcc631af3569a3dbc08eb1e067f223fc23ca900299857f1b83ea655e25f0b84a0811d59290f19e5818ab00a7f513ba65f307a8758a24b4eebab24
+runfiles size=26
+ texmf-dist/tex/latex/songs/songs.sty
+catalogue-also songbook
+catalogue-contact-home http://songs.sourceforge.net
+catalogue-contact-repository https://sourceforge.net/projects/songs
+catalogue-ctan /macros/latex/contrib/songs
+catalogue-date 2017-06-13 07:48:52 +0200
+catalogue-license gpl2
+catalogue-topics music chords
+catalogue-version 3.0

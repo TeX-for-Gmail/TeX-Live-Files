@@ -1,0 +1,21 @@
+name luabibentry
+category Package
+revision 31783
+shortdesc Repeat BibTeX entries in a LuaLaTeX document body
+longdesc The package reimplements bibentry, for use in LuaLaTeX.
+containersize 2368
+containerchecksum 00349f5a6f5ecd5478bb718bcfc419953db4f90c9b2a70aab2e2bbce4395d189066b39cca743e5b790f588a3f2a17047a6e233258c4ef389ad6fc5338184af69
+doccontainersize 144328
+doccontainerchecksum 9ec19b99275e3117f07e445e2c039bd504537fd470f62fb7f7f7fc428842ba86ebdbf0bd6a6be7a3b1b99100d209c6c47a9795c776287206afe331601222acad
+srccontainersize 5428
+srccontainerchecksum 628ff69779b5eba6056bb49b3bdb4017a10c3c4afd710319de9ac3168ffa44782969ed67399f8c1a945cbf77f1bc44ea33b0776a9f1f14aa2e5e29afb8cea544
+runfiles size=2
+ texmf-dist/tex/lualatex/luabibentry/luabibentry.lua
+ texmf-dist/tex/lualatex/luabibentry/luabibentry.sty
+catalogue-contact-repository https://github.com/latextemplates/luabibentry
+catalogue-contact-support https://github.com/latextemplates/luabibentry/issues
+catalogue-ctan /macros/luatex/latex/luabibentry
+catalogue-date 2018-03-08 15:27:25 +0100
+catalogue-license lppl1.3
+catalogue-topics cite-supp luatex use-lua
+catalogue-version 0.1a

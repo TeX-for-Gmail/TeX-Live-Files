@@ -1,0 +1,18 @@
+name pst-geometrictools
+category Package
+revision 45319
+shortdesc A PSTricks package to draw geometric tools
+longdesc This PSTricks package facilitates the drawing of protractors,
+longdesc rulers, compasses and pencils.
+containersize 7328
+containerchecksum 1949864f97f21c6cd2a0e706028d5a0ecb4102c0afc5874b78c2bf883aa6698551214ac232f406bad9955e0f0a78f059118a4d950bc4b69bd30ecf9b6fc38606
+doccontainersize 405320
+doccontainerchecksum adf2ae63d32d2cecf77c2aa950c8b827b51d0ae923dfbed7c851f0f0e7d6018216d92cf524b2cb4002c4040dbb579cff552a37cd5ef57cd2d0579b01128a3be6
+runfiles size=14
+ texmf-dist/tex/generic/pst-geometrictools/pst-geometrictools.tex
+ texmf-dist/tex/latex/pst-geometrictools/pst-geometrictools.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-geometrictools
+catalogue-date 2017-09-16 20:46:27 +0200
+catalogue-license lppl1.3c
+catalogue-topics pstricks maths graphics-use
+catalogue-version 1.1

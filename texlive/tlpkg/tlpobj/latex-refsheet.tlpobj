@@ -1,0 +1,16 @@
+name latex-refsheet
+category Package
+revision 45076
+shortdesc LaTeX Reference Sheet for a thesis with KOMA-Script
+longdesc This LaTeX Reference Sheet is for writing a thesis using the
+longdesc KOMA-Script document classes (scrartcl, scrreprt, scrbook) and
+longdesc all the packages needed for a thesis in natural sciences.
+containersize 480
+containerchecksum ea6751fc09aada1b8ebcca08ecdb10279b6df881b3b373b04e8c238609de92b4cdc4f1e7321f178b15637c0b712e9781317af07030f2f9297a3ce23a5f46cb32
+doccontainersize 5020492
+doccontainerchecksum 77149dabb1fe5c4a46591b3b307d02b2e2b33a07267afcdb44b77a2a823dcea9ea76b4be5ddad530151b638cfbcaf5d87ed0fed59a9e8ed99acb0895717bc71a
+catalogue-ctan /info/latex-refsheet
+catalogue-date 2017-08-21 05:22:57 +0200
+catalogue-license lppl1.3c
+catalogue-topics tut-cheat
+catalogue-version 1.2

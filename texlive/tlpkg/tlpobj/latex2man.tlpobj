@@ -1,0 +1,27 @@
+name latex2man
+category Package
+revision 49249
+shortdesc Translate LaTeX-based manual pages into Unix man format
+longdesc Latex2man is a tool to translate UNIX manual pages written with
+longdesc LaTeX into the troff format understood by the UNIX man(1)
+longdesc command. Alternatively HTML, TexInfo, or LaTeX code can be
+longdesc produced too. Output of parts of the text may be supressed
+longdesc using the conditional text feature (for this, LaTeX generation
+longdesc may be used). There is a LaTeX package (latex2man.sty) for
+longdesc writing the man page and a Perl script (latex2man) that does
+longdesc the actual translation.
+depend latex2man.ARCH
+containersize 14088
+containerchecksum 9ce1870958d7de7625fe73dfb735488d2512b048c8c06fed3f87255db0914080675017d24c88a97ec71ddb9cfe6f5769ea378f099d8787e447837a1ff5167436
+doccontainersize 369336
+doccontainerchecksum 214685e6982c7a9c694d74a73d37c58f3947d7304637d2ed44fc616cece6026e5d02763f26e280ab21212d18a962c31b4ac5315fa840f10bf1efcfb782f4dd2a
+runfiles size=17
+ texmf-dist/scripts/latex2man/latex2man
+ texmf-dist/tex/latex/latex2man/latex2man.cfg
+ texmf-dist/tex/latex/latex2man/latex2man.sty
+catalogue-contact-home http://www.informatik-vollmer.de/software/latex2man.php
+catalogue-ctan /support/latex2man
+catalogue-date 2018-11-25 17:55:57 +0100
+catalogue-license lppl1
+catalogue-topics cvt-other
+catalogue-version 1.29

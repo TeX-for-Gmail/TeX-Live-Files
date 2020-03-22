@@ -1,0 +1,18 @@
+name pst-dart
+category Package
+revision 46579
+shortdesc Plotting dart boards
+longdesc pst-dart is a PSTricks related package and draws Dart Boards.
+longdesc Optional arguments are the unit and the fontsize.
+containersize 2156
+containerchecksum f5d41ddf7c5934a00fe8bbbc6dfa468d26e8ac0c06975301f17f31f168c6bf7499dac210f08f815cd01c05eb4a9a376d5c49cd96195a9df56bd3f1156d9ac6b7
+doccontainersize 368236
+doccontainerchecksum 668648d06ab3047e45737908bca5f901b4815f7b7b6745e9bd5387b6867b1fe6dafec3633295e8c164e26cbf06dab2240516a71e3b766a52b9e1ac0e64d1d93c
+runfiles size=3
+ texmf-dist/tex/generic/pst-dart/pst-dart.tex
+ texmf-dist/tex/latex/pst-dart/pst-dart.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-dart
+catalogue-date 2018-02-09 21:04:24 +0100
+catalogue-license lppl
+catalogue-topics pstricks games
+catalogue-version 0.02

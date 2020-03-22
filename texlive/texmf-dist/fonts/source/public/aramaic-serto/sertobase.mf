@@ -1,0 +1,115 @@
+% Serto Base File `sertobase.mf'
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Designed and (c) by Johannes Heinecke
+%                     <johannes(dot)heinecke(at)wanadoo(dot)fr>
+% Please send any improvements, corrections, suggestions, enhancements etc.
+% to the Author!
+%
+% Version 0.2 as of 17thNovember 2001
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+sertobase:=1;         % Es soll nur einmal geladen werden.
+
+newinternal slant;
+
+def font_serto_setup =        % Eigenes Macro
+  define_pixels(stu, hu, vu, basestroke);
+                % mxmiddle, mxtop, mxfeet, mxlow, mxzw);
+  define_blacker_pixels(px1, py1, dpx1, dpy1, pdot, pdash);
+
+  pickup pencircle xscaled .4basestroke yscaled basestroke rotated -45; 
+  serto_pen:=savepen;
+
+  pickup pencircle xscaled .2basestroke yscaled basestroke; 
+  pe_pen:=savepen;
+
+  pickup pencircle xscaled .3basestroke yscaled .4basestroke; 
+  punct_pen:=savepen;
+
+%  pickup pencircle xscaled .8basestroke yscaled 2basestroke rotated 20; 
+%  chaldeanvowels_pen:=savepen;
+%
+%  pickup pencircle xscaled .9basestroke yscaled 1.3basestroke rotated 10; 
+%  chaldeanvowels2_pen:=savepen;
+
+  pickup pencircle xscaled basestroke yscaled basestroke; 
+  para_pen:=savepen;
+  
+
+  pickup pencircle xscaled .5basestroke yscaled .3basestroke; 
+  vowel_pen:=savepen;
+
+  pickup pencircle xscaled .5basestroke yscaled .2basestroke  rotated 30;
+  vowelII_pen:=savepen;
+
+  pickup pencircle xscaled .3basestroke yscaled .2basestroke  rotated 30;
+  vowelIII_pen:=savepen;
+
+  
+%  pickup pencircle xscaled dpx1 yscaled dpy1 rotated -10; 
+%  mxed_digitpen:=savepen;     % Pen for digits and punctuation
+%
+%  pickup pencircle scaled pdot;
+%  mxed_dot:=savepen;          % Pen for dots
+%
+%  pickup pencircle scaled pdash;
+%  mxed_dash:=savepen;         % Pen for lines
+%
+%
+%  pickup pensquare scaled pdash;
+%  mxed_square:=savepen;
+%
+%  pickup pencircle xscaled px1 yscaled py1;
+%  mxed_pencc:=savepen;
+
+  currenttransform:=identity slanted slant yscaled aspect_ratio;
+enddef;
+
+
+
+if known cmbase:
+ def makebox(text rule) =
+  for y=0,h,mxlittle, -d, mxthird:
+    rule((0,y)t_,(r,y)t_); endfor % horizontals
+  for x=0,r,r-mxzw,mxhalf,mxone:
+    rule((x,-d)t_,(x,h)t_); endfor % verticals
+ % for x=u*(1+floor(l/u)) step u until r-1:
+ %  rule((x,-body_depth)t_,(x,body_height)t_); endfor % more verticals
+ % if charic<>0:
+ %  rule((r+charic*pt,h.o_),(r+charic*pt,.5h.o_)); fi % italic correction
+  enddef;
+
+else:
+ def makebox(text r) =
+   % horizontal lines on y-values:
+%   for y=0, h.o_, -d.o_:
+%         r((0, y), (w, y));
+%   endfor 
+
+   for y=0 step vu until h:
+         r((0, y), (w, y));
+   endfor 
+
+%   for y=0 step -vu until -d:
+%         r((0, y), (w, y));
+%   endfor 
+
+   for y=0, -d, h:
+         r((0, y), (w, y));
+   endfor 
+
+
+   % vertical lines on x-values:
+   for x=0 step hu until w:
+           r((x, -d), (x, h)); 
+   endfor
+   r((w, -d), (w, h)); 
+   if charic<>0: r((w+charic*hppp,h.o_),(w+charic*hppp,.5h.o_)); fi
+ enddef;
+fi
+
+
+endinput;

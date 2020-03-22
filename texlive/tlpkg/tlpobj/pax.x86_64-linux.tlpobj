@@ -1,0 +1,8 @@
+name pax.x86_64-linux
+category Package
+revision 10843
+shortdesc x86_64-linux files of pax
+containersize 348
+containerchecksum 6a53c0a36591627324ec5d5726577bc8088073421a4905d7aa86b6b5b08e3657dfd232cf91cf8dd1086fc97c0a832796767862f55e3e921a796d614b230323b9
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pdfannotextractor

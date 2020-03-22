@@ -1,0 +1,8 @@
+name texdiff.x86_64-linux
+category Package
+revision 15506
+shortdesc x86_64-linux files of texdiff
+containersize 336
+containerchecksum 54015561a76b09f8c06cd64a61e20ad436ee75b58ed59a3ec063594da4756a761645bad851bb1f75288944cdd836c270aaf0def2e2c2bc72ddb36ee1834f1476
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texdiff

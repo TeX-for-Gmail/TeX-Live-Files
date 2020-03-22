@@ -1,0 +1,23 @@
+name ordinalpt
+category Package
+revision 15878
+shortdesc Counters as ordinal numbers in Portuguese
+longdesc The package provides a counter style (like \arabic, \alph and
+longdesc others) which produces as output strings like "primeiro"
+longdesc ("first" in Portuguese), "segundo" (second), and so on up to
+longdesc 1999th. Separate counter commands are provided for different
+longdesc letter case variants, and for masculine and feminine gender
+longdesc inflections.
+containersize 1900
+containerchecksum c494aee642949d56d8fe4aa28c18e38faf5f66ca8d9f1990419b7197ba6d8547004bb11c3d7b1d63cfcb7414b5c618af81425e4fd61fcf114dc36f9b7fcfb039
+doccontainersize 258992
+doccontainerchecksum dbcad860dd1fcff2e44f568caac9d3d60f4e9ac2312c672b9e9b46f9b31a2498a7e92bd646df8c622b024aefa8f2ecdc9c24e3f95f72f30f1e9b213d6bc4a53b
+srccontainersize 4580
+srccontainerchecksum c4264de0f61c1d2abb6785f2a19e76578a154bcdb5314a3016c3a8bf700725294847a482f33095bf7173885e765db2afb4a3a34de3fdeb1d0c2a213c1e60b614
+runfiles size=2
+ texmf-dist/tex/latex/ordinalpt/ordinalpt.sty
+catalogue-ctan /macros/latex/contrib/ordinalpt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers portuguese
+catalogue-version 2.1

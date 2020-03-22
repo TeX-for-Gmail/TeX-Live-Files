@@ -1,0 +1,60 @@
+name quotmark
+category Package
+revision 15878
+shortdesc Consistent quote marks
+longdesc The package provides a means of ensuring consistent quote marks
+longdesc throughout your document. The style can be changed either via
+longdesc package option or command, and the package detects language
+longdesc selections (from the babel or ngerman packages), and uses the
+longdesc punctuation marks appropriate for the current language. The
+longdesc author now considers the package obsolete, and recommends use
+longdesc of csquotes in its place.
+containersize 5160
+containerchecksum 9f21ef20aa9354b1347f00a52df65ea691fe4a00b05b794815279c070d05544611ccd8773cb7c9f8146a3a135f3100a06aaec48acacba255bae9a0654a2a9b53
+doccontainersize 140616
+doccontainerchecksum 6507fcf8639e780ab844700f6356abd8eb69df6158ee638d8471a112159f95a3df8f358fa40479eefad0cf09c34fc37d9292904ae159f2a79fea5acb93f6e542
+srccontainersize 8952
+srccontainerchecksum bbc423a9d6f6fca00c5c8dd9ed5dc084d094898ad5b27397147c8dae1f3bcb8a09f137f1c2c7066fb92d1cab1f5d16681612a528fc28ec4e7901b660f6c8eee8
+runfiles size=39
+ texmf-dist/tex/latex/quotmark/quotmark-UKenglish.def
+ texmf-dist/tex/latex/quotmark/quotmark-USenglish.def
+ texmf-dist/tex/latex/quotmark/quotmark-afrikaans.def
+ texmf-dist/tex/latex/quotmark/quotmark-brazil.def
+ texmf-dist/tex/latex/quotmark/quotmark-bulgarian.def
+ texmf-dist/tex/latex/quotmark/quotmark-catalan.def
+ texmf-dist/tex/latex/quotmark/quotmark-croatian.def
+ texmf-dist/tex/latex/quotmark/quotmark-czech.def
+ texmf-dist/tex/latex/quotmark/quotmark-danish.def
+ texmf-dist/tex/latex/quotmark/quotmark-dutch.def
+ texmf-dist/tex/latex/quotmark/quotmark-estonian.def
+ texmf-dist/tex/latex/quotmark/quotmark-finnish.def
+ texmf-dist/tex/latex/quotmark/quotmark-frenchb.def
+ texmf-dist/tex/latex/quotmark/quotmark-germanb.def
+ texmf-dist/tex/latex/quotmark/quotmark-greek.def
+ texmf-dist/tex/latex/quotmark/quotmark-hebrew.def
+ texmf-dist/tex/latex/quotmark/quotmark-icelandic.def
+ texmf-dist/tex/latex/quotmark/quotmark-irish.def
+ texmf-dist/tex/latex/quotmark/quotmark-italian.def
+ texmf-dist/tex/latex/quotmark/quotmark-magyar.def
+ texmf-dist/tex/latex/quotmark/quotmark-ngermanb.def
+ texmf-dist/tex/latex/quotmark/quotmark-norsk.def
+ texmf-dist/tex/latex/quotmark/quotmark-polish.def
+ texmf-dist/tex/latex/quotmark/quotmark-portuges.def
+ texmf-dist/tex/latex/quotmark/quotmark-romanian.def
+ texmf-dist/tex/latex/quotmark/quotmark-russianb.def
+ texmf-dist/tex/latex/quotmark/quotmark-serbian.def
+ texmf-dist/tex/latex/quotmark/quotmark-slovak.def
+ texmf-dist/tex/latex/quotmark/quotmark-slovene.def
+ texmf-dist/tex/latex/quotmark/quotmark-sorbian.def
+ texmf-dist/tex/latex/quotmark/quotmark-spanish.def
+ texmf-dist/tex/latex/quotmark/quotmark-swedish.def
+ texmf-dist/tex/latex/quotmark/quotmark-swiss.def
+ texmf-dist/tex/latex/quotmark/quotmark-turkish.def
+ texmf-dist/tex/latex/quotmark/quotmark-ukraineb.def
+ texmf-dist/tex/latex/quotmark/quotmark-welsh.def
+ texmf-dist/tex/latex/quotmark/quotmark.sty
+catalogue-ctan /macros/latex/contrib/quotmark
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics quotation
+catalogue-version 1.0

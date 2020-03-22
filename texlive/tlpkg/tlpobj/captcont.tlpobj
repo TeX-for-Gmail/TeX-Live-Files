@@ -1,0 +1,26 @@
+name captcont
+category Package
+revision 15878
+shortdesc Retain float number across several floats
+longdesc The captcont package provides the ability to continue the
+longdesc numbering in your float environment (figure, table, etc.) with
+longdesc minimal overhead. This package adds three commands: \caption*,
+longdesc \captcont, and \captcont*. Along with the \caption command,
+longdesc these give full control over the caption numbering, caption
+longdesc text and the entries in the list-of pages. The \caption and
+longdesc \captcont commands generate list-of page entries. The \caption
+longdesc and \caption* commands increment the figure or table counter.
+longdesc Captcont also fully supports the subfigure package.
+containersize 2232
+containerchecksum b5002e8ea4fc8ca1840190e8a2d40540576dc5e17110da473a8981198e3f24c858644b181545be3bed6275cd0e0bb9848a6058adfc8dbef26956e0754c4e4699
+doccontainersize 100532
+doccontainerchecksum 91bdb436163ff745f3aecc67eec747ef5a1853035d86258bbe23a080a92b3393f72b4029bad719765663c94e79217df4edf753be930a3e4b62f0b999c296ea86
+srccontainersize 9796
+srccontainerchecksum 9c9f8b2785ce2620db8e5c373cd2eee4d9aa3cd8eb47c648625ca7250e7ace861d9dbc31432a7dd7d0f6c7ccd48b43aba74df519d72e3fa1a3c9546de946e591
+runfiles size=2
+ texmf-dist/tex/latex/captcont/captcont.sty
+catalogue-ctan /macros/latex/contrib/captcont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics caption
+catalogue-version 2.0

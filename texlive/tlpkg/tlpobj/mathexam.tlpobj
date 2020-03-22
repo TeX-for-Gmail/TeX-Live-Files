@@ -1,0 +1,25 @@
+name mathexam
+category Package
+revision 15878
+shortdesc Package for typesetting exams
+longdesc The package can help you typeset exams (mostly in mathematics
+longdesc and related disciplines where students are required to show
+longdesc their calculations followed by one or more short answers). It
+longdesc provides commands for inclusion of space for calculations, as
+longdesc well as commands for automatic creation of "answer spaces". In
+longdesc addition, the package will automatically create page headers
+longdesc and footers, and will let you include instructions and space
+longdesc for students to put their name.
+containersize 1620
+containerchecksum 30fc0cc9c44f2b7a64860a7d8eeecd25eec7e888f4ebdafade236edebecbd79f5d832566d151243430a60c5995807ea77d34e19cfd5e0d8cb037ca67d3e933bc
+doccontainersize 148812
+doccontainerchecksum 6af2944d12d09f1ab593a7002b9de71d14c5436885b79e5e495dc0ba1fdf9dc6b9080bd009bafff988b019ec3e75da934a7c8c043870fdd52a9a46b36c9d646d
+srccontainersize 5988
+srccontainerchecksum f2324e1f9e0fe8f259b6e1d2a1370ddfec87091c82650432e24b08c598fd6ce57334b88ab53a6049f416ff14c3ccfc7c250029767eccf05456d6c233e665f6a7
+runfiles size=1
+ texmf-dist/tex/latex/mathexam/mathexam.sty
+catalogue-ctan /macros/latex/contrib/mathexam
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exam maths
+catalogue-version 1.00

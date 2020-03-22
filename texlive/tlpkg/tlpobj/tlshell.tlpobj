@@ -1,0 +1,11 @@
+name tlshell
+category Package
+revision 50776
+depend tlshell.ARCH
+postaction shortcut type=menu name="TeX Live Manager"              cmd=TEXDIR/bin/win32/tlshell.exe
+containersize 18584
+containerchecksum b60df04fd42a09a6293c059432ea1a305e6dea0c86a53f46336e238e7a8db8642f323661bfa69890c7ea5889ddc044a034889ec658c19bfcf7a6ec5787b4d1a5
+doccontainersize 464
+doccontainerchecksum b648cfc8d651c9ff0d11be5b237ca7a490c87b3892badb6c6c8d9b8086c9086c2b2dabfe904587b1b0fb90b29bcea203b9b26ab7f0dba295b3eaff1b7f4d7289
+runfiles size=18
+ texmf-dist/scripts/tlshell/tlshell.tcl

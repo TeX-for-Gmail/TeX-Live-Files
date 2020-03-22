@@ -1,0 +1,23 @@
+name cprotect
+category Package
+revision 21209
+shortdesc Allow verbatim, etc., in macro arguments
+longdesc The package defines the macro \cprotect that makes a following
+longdesc macro proof against verbatim in its argument; as, for example,
+longdesc \cprotect\section{\verb"foo"} A similar macro \cprotEnv
+longdesc (applied to the \begin of an environment) sanitises the
+longdesc behavior of fragile environments. Moving arguments, and
+longdesc corresponding "tables of ..." work happily.
+containersize 2864
+containerchecksum f4795674aa97744b0d6ed70bcae83a1ce3b41670a1bff2e67d12825154bcfd7eac2a740996bcb4aa0445697a3e4c17ef3d8606b308b7db3aea263269a7e2eb51
+doccontainersize 584752
+doccontainerchecksum e8a5000eb9a538f95bf6df4e2d68ecd8769974192e8181b6eb40e5f48b2cc3a9b9d405d1c7b611e35c41dac5ca5165a503efb7584ee94289ed3255a9482b2b2e
+srccontainersize 12100
+srccontainerchecksum a9c10d5437f4a9f55680fc3a9841e9dc665b7b642e2831c0bb6239d73ea08312eeae372cf95591d002fa7dd51ae45e7413d9651ea5d60e5837903adf565364e0
+runfiles size=3
+ texmf-dist/tex/latex/cprotect/cprotect.sty
+catalogue-ctan /macros/latex/contrib/cprotect
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics verbatim
+catalogue-version 1.0e

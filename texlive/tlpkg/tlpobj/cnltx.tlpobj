@@ -1,0 +1,39 @@
+name cnltx
+category Package
+revision 38138
+shortdesc LaTeX tools and documenting facilities
+longdesc This is a versatile bundle of packages and classes for
+longdesc consistent formatting of control sequences, package options,
+longdesc source code examples, and writing a package manual (including
+longdesc an index containing the explained control sequences, options,
+longdesc ldots). The bundle also provides several other small ideas of
+longdesc mine such as a mechansim for providing abbreviations etc. Not
+longdesc at least it provides a number of programming tools. The
+longdesc intention behind this bundle mainly is a selfish one:
+longdesc documenting my own packages. The bundle contains an index style
+longdesc file cnltx.ist that should be placed in a directory in a TDS
+longdesc makeindex directory.
+containersize 33992
+containerchecksum cbe777c4dc81f0798ba3d64844e65c84a7623611feb93a14e949375f0cda982d7a973fd662975edc51e508c0cd0d19f24e92bff112f56b765ad4378ae95b8bd4
+doccontainersize 796288
+doccontainerchecksum 1af4a294f758889b8cec97cdc53519fa9eb360e590e5db96cfb25ad2d0d0f89b7b3efa6b6ea986e29819b3023d04f3cf50a0a2e583bcd6fd80a61dfcdbc5dcc1
+runfiles size=50
+ texmf-dist/bibtex/bib/cnltx/cnltx.bib
+ texmf-dist/makeindex/cnltx/cnltx.ist
+ texmf-dist/tex/latex/cnltx/cnltx-base.sty
+ texmf-dist/tex/latex/cnltx/cnltx-doc.cls
+ texmf-dist/tex/latex/cnltx/cnltx-example.sty
+ texmf-dist/tex/latex/cnltx/cnltx-listings.sty
+ texmf-dist/tex/latex/cnltx/cnltx-names.sty
+ texmf-dist/tex/latex/cnltx/cnltx-tools.sty
+ texmf-dist/tex/latex/cnltx/cnltx-translations.sty
+ texmf-dist/tex/latex/cnltx/cnltx.bbx
+ texmf-dist/tex/latex/cnltx/cnltx.cbx
+ texmf-dist/tex/latex/cnltx/cnltx.dbx
+ texmf-dist/tex/latex/cnltx/cnltx.sty
+catalogue-contact-repository https://github.com/cgnieder/cnltx/
+catalogue-ctan /macros/latex/contrib/cnltx
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-supp class expl3
+catalogue-version 0.13

@@ -1,0 +1,51 @@
+name bbold
+category Package
+revision 17187
+shortdesc Sans serif blackboard bold
+longdesc A geometric sans serif blackboard bold font, for use in
+longdesc mathematics; Metafont sources are provided, as well as macros
+longdesc for use with LaTeX. The Sauter font package has Metafont
+longdesc parameter source files for building the fonts at more sizes
+longdesc than you could reasonably imagine. See the blackboard sampler
+longdesc for a feel for the font's appearance.
+containersize 15768
+containerchecksum 1b123e9135179244050ed6f97f17efa2a43c42018b2fa3b01c956a99886ae6696c83df2a0d61ce95cba925c2bb4c734d77253aab165fe9f622695f557fcb0abe
+doccontainersize 153072
+doccontainerchecksum c754e81f83a53c4a1cacbd2638d550ad178e0e26d7feb592585579a27b780e11733a7dc68fd374ac575cc7866a1e5417d3df0d2b973e7278d1012657bf340390
+srccontainersize 4596
+srccontainerchecksum a7a61bb796d3ee618ddc39d471bb29d1b7350a40bd7a97d44d4a1c7cd5e4eb5d5783d2ea46313344468406d1d25c71ac322ac4bbbf7b06aac35bc03651e7ccbb
+runfiles size=45
+ texmf-dist/fonts/source/public/bbold/bbbase.mf
+ texmf-dist/fonts/source/public/bbold/bbgreekl.mf
+ texmf-dist/fonts/source/public/bbold/bbgreeku.mf
+ texmf-dist/fonts/source/public/bbold/bbligs.mf
+ texmf-dist/fonts/source/public/bbold/bblower.mf
+ texmf-dist/fonts/source/public/bbold/bbnum.mf
+ texmf-dist/fonts/source/public/bbold/bbold.mf
+ texmf-dist/fonts/source/public/bbold/bbold10.mf
+ texmf-dist/fonts/source/public/bbold/bbold12.mf
+ texmf-dist/fonts/source/public/bbold/bbold17.mf
+ texmf-dist/fonts/source/public/bbold/bbold5.mf
+ texmf-dist/fonts/source/public/bbold/bbold6.mf
+ texmf-dist/fonts/source/public/bbold/bbold7.mf
+ texmf-dist/fonts/source/public/bbold/bbold8.mf
+ texmf-dist/fonts/source/public/bbold/bbold9.mf
+ texmf-dist/fonts/source/public/bbold/bbparams.mf
+ texmf-dist/fonts/source/public/bbold/bbpunc.mf
+ texmf-dist/fonts/source/public/bbold/bbupper.mf
+ texmf-dist/fonts/tfm/public/bbold/bbold10.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold12.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold17.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold5.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold6.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold7.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold8.tfm
+ texmf-dist/fonts/tfm/public/bbold/bbold9.tfm
+ texmf-dist/tex/latex/bbold/Ubbold.fd
+ texmf-dist/tex/latex/bbold/bbold.sty
+catalogue-also bbm doublestroke mbboard
+catalogue-ctan /fonts/bbold
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license bsd
+catalogue-topics font font-maths font-bbd font-mf
+catalogue-version 1.01

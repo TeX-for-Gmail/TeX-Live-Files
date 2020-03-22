@@ -1,0 +1,16 @@
+name latexcheat-esmx
+category Package
+revision 36866
+shortdesc A LaTeX cheat sheet, in Spanish
+longdesc This is a translation to Spanish (Castellano) of Winston
+longdesc Chang's LaTeX cheat sheet (a reference sheet for writing
+longdesc scientific papers).
+containersize 460
+containerchecksum ab9965189096647e8af9aa58a937fa15595bed32055b3819bfd12334cf60e01d18b12563de8169ea28e3c0a7768864e51631c29bbbe47d45e09ffb2b87c5d524
+doccontainersize 467256
+doccontainerchecksum a45f2db2445e2daec8b31e995669a189c1d201f457e06de7fc2a85ad85686b31fcf70040e7840e1168e29b2e5caf796c45b6ce934780fa5982d0750438263606
+catalogue-ctan /info/latexcheat/latexcheat-esmx
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics spanish-doc tut-cheat
+catalogue-version 2.00

@@ -1,0 +1,24 @@
+name urwchancal
+category Package
+revision 21701
+shortdesc Use URW's clone of Zapf Chancery as a maths alphabet
+longdesc The package allows (the URW clone of) Zapf Chancery to function
+longdesc as a maths alphabet, the target of \mathcal or \mathscr, with
+longdesc accents appearing where they should, and other spacing
+longdesc parameters set to reasonable (not very tight) values. The font
+longdesc itself may be found in the URW basic fonts collection. This
+longdesc package supersedes the pzccal package.
+containersize 1932
+containerchecksum beb82950bda88e7170c7ad753e93859f96190f30e89fbfbe1cdbe37930b07740f70da40124639c6ab14be93fe79c5e87b35296b68c702888d3e9e25100e86a9c
+doccontainersize 23148
+doccontainerchecksum 8f218f76d45a2f3ea9be173ba1c6efcb8a7cff26a43149b7e0ef4fc535a4638cffe69358d8ccac44a3306044720958ea9189996e88a38d560d264f5fba6863ba
+runfiles size=4
+ texmf-dist/fonts/tfm/urw/urwchancal/urwchancal.tfm
+ texmf-dist/fonts/vf/urw/urwchancal/urwchancal.vf
+ texmf-dist/tex/latex/urwchancal/urwchancal.sty
+ texmf-dist/tex/latex/urwchancal/uurwchancal.fd
+catalogue-ctan /fonts/urwchancal
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp-maths
+catalogue-version 1

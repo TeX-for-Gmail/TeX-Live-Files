@@ -1,0 +1,8 @@
+name ctanify.x86_64-linux
+category Package
+revision 24061
+shortdesc x86_64-linux files of ctanify
+containersize 340
+containerchecksum 31edd084842362c213462a14fb344975f287791addbc02db1b0ad4ffe381e461a134b44bc6f15e0fb1e749f73aa2f96cfd6ecd0528e1de3d38aa342df115aaca
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ctanify

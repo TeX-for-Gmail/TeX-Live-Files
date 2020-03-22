@@ -1,0 +1,21 @@
+name glossaries-portuges
+category Package
+revision 36064
+shortdesc Portuges language module for glossaries package
+longdesc Portuges language module for glossaries package.
+containersize 2044
+containerchecksum 64582081553f90a5000992f9db3f79aae7ddfedc6f128ddc09ec7878576b0e17a580f7c58515c2696e2c46ce1ba49c2cd756687c144d0134d91cb6c5e0506ec0
+doccontainersize 164932
+doccontainerchecksum 5f1692f14e2e4a596555cc426a556d069fcf710775d9a039f0143eddbafd0502e4f4a10e677a43589b1f91cddedba6dc9358b6015801e68f1b3d1e908e57dc09
+srccontainersize 2848
+srccontainerchecksum a7cb8046b8ce5d122f691170804acbcd39b5ae367cf66057d12fb24d58f142e2a4cf52a1039de9cd73a0f8c0bf851f07367c180eedb12923ab3398189de29652
+runfiles size=4
+ texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges-noenc.ldf
+ texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges-utf8.ldf
+ texmf-dist/tex/latex/glossaries-portuges/glossaries-portuges.ldf
+ texmf-dist/tex/latex/glossaries-portuges/glossaries-pt-BR.ldf
+catalogue-ctan /macros/latex/contrib/glossaries-portuges
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.1

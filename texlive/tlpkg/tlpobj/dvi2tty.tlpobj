@@ -1,0 +1,18 @@
+name dvi2tty
+category TLCore
+revision 50602
+shortdesc Produce ASCII from DVI
+longdesc A DVI driver to produce an ASCII representation of the
+longdesc document. The original version was written in Pascal, and the
+longdesc present author translated the program to C.
+depend dvi2tty.ARCH
+containersize 504
+containerchecksum 41399ea5ec5d9e32cd032caf70009181bef98b28e29ffee84414914ca436a49bb59caa7e5523ae3c76cb8ede89d89ab74af79dd6ecc89cdf9f0d65605668e9c2
+doccontainersize 35892
+doccontainerchecksum 31cd9e13e873269f27e7e40b681a56022e7c0d776179fedb3c9396bcd9743b9e2b5f3043d6d2858858593aac49e40c16bb27d676f77ded984f4b803dfd9b07eb
+catalogue-contact-repository https://github.com/t-tk/dvi2tty
+catalogue-ctan /dviware/dvi2tty
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2
+catalogue-topics plain-text dvi-proc
+catalogue-version 6.0.0

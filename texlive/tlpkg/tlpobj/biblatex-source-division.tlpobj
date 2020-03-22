@@ -1,0 +1,24 @@
+name biblatex-source-division
+category Package
+revision 45379
+shortdesc References by "division" in classical sources
+longdesc The package enables the user to make reference to "division
+longdesc marks" (such as book, chapter, section), in the document being
+longdesc referenced, in addition to the page-based references that
+longdesc BibTeX-based citations have always had. The citation is made in
+longdesc the same way as the LaTeX standard, but what's inside the
+longdesc square brackets may include the "division" specification, as in
+longdesc \cite[(<division spec.>)<page number>]{<document>}
+containersize 1980
+containerchecksum f7a9b6a9f8fb21a5b9f06e3904ec2147ccd21383c3ced8852b22d0cf62088be103b674466ae571ace6bea52904f6cfb79ef2982bdb16679d02ff1d260d5b3517
+doccontainersize 65448
+doccontainerchecksum 1ae3883454e6aafc91b996de520a4669a06a67cd74b9df7e7cb7d096291d5f1dbe728a2a0fbd3b5968fdebf64946e829c4722bff33ff52ccbf32d8055f042144
+runfiles size=1
+ texmf-dist/tex/latex/biblatex-source-division/biblatex-source-division.sty
+catalogue-contact-bugs https://github.com/maieul/biblatex-source-division/issues
+catalogue-contact-repository https://github.com/maieul/biblatex-source-division
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-source-division
+catalogue-date 2017-09-21 22:32:43 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio biblatex
+catalogue-version 2.4.2

@@ -1,0 +1,49 @@
+name hyper
+category Package
+revision 17357
+shortdesc Hypertext cross referencing
+longdesc Redefines LaTeX cross-referencing commands to insert \special
+longdesc commands for HyperTeX dvi viewers, such as recent versions of
+longdesc xdvi. The package is now largely superseded by hyperref.
+containersize 15680
+containerchecksum 6e5bbad0a682440e28be67fc893a970de315671e1f4987bebff4a163d9c38bb33d8de9557765f1d8c74386556c59e332ef5855a3f1fe36d08eddcbd2a77179df
+doccontainersize 278528
+doccontainerchecksum 41fafe8bcaf651994c45abd0040e2123caf8e33fd2d06fafd310d978c10ae5c705f7dd64d9b4740bacee51f11fe52741ed64f83d6b236d298cb6c932fd3ba06e
+srccontainersize 32960
+srccontainerchecksum 50552c5d6650973719d892d2696ee4885f8fa78d9e9c62e3fabd8ac42f35610c025c508aaa250f52c5c7676cb5e0e6aa4b75efdd19d3c9e1f3b3ac6981ab1342
+runfiles size=49
+ texmf-dist/tex/latex/hyper/amsart.hyp
+ texmf-dist/tex/latex/hyper/amsbook.hyp
+ texmf-dist/tex/latex/hyper/amsdtx.hyp
+ texmf-dist/tex/latex/hyper/amsldoc.hyp
+ texmf-dist/tex/latex/hyper/amsmath.hyp
+ texmf-dist/tex/latex/hyper/amsproc.hyp
+ texmf-dist/tex/latex/hyper/amstex.hyp
+ texmf-dist/tex/latex/hyper/amsthm.hyp
+ texmf-dist/tex/latex/hyper/article.hyp
+ texmf-dist/tex/latex/hyper/book.hyp
+ texmf-dist/tex/latex/hyper/cweb.hyp
+ texmf-dist/tex/latex/hyper/doc.hyp
+ texmf-dist/tex/latex/hyper/fancyheadings.hyp
+ texmf-dist/tex/latex/hyper/ftnright.hyp
+ texmf-dist/tex/latex/hyper/hxt-bc.sty
+ texmf-dist/tex/latex/hyper/hyper.sty
+ texmf-dist/tex/latex/hyper/leqno.hyp
+ texmf-dist/tex/latex/hyper/letter.hyp
+ texmf-dist/tex/latex/hyper/longtable.hyp
+ texmf-dist/tex/latex/hyper/ltnews.hyp
+ texmf-dist/tex/latex/hyper/ltxdoc.hyp
+ texmf-dist/tex/latex/hyper/ltxguide.hyp
+ texmf-dist/tex/latex/hyper/natbib.hyp
+ texmf-dist/tex/latex/hyper/proc.hyp
+ texmf-dist/tex/latex/hyper/report.hyp
+ texmf-dist/tex/latex/hyper/slides.hyp
+ texmf-dist/tex/latex/hyper/subeqnarray.hyp
+ texmf-dist/tex/latex/hyper/theorem.hyp
+ texmf-dist/tex/latex/hyper/upref.hyp
+ texmf-dist/tex/latex/hyper/xr.hyp
+catalogue-ctan /macros/latex/contrib/hyper
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics hyper
+catalogue-version 4.2d

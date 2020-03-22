@@ -1,0 +1,23 @@
+name dyntree
+category Package
+revision 15878
+shortdesc Construct Dynkin tree diagrams
+longdesc The package is intended for users needing to typeset a Dynkin
+longdesc Tree Diagram--a group theoretical construct consisting of
+longdesc cartan coefficients in boxes connected by a series of lines.
+longdesc Such a diagram is a tool for working out the states and their
+longdesc weights in terms of the fundamental weights and the simple
+longdesc roots. The package makes use of the author's coollist package.
+containersize 3120
+containerchecksum 8f8d568cc708e62ae1217188acf3deef05d7bbacf1da04f38c1f5b08d4b2bd0ee465021c923ed314ed284dd2234dce5079b7918c12d3bab72ad5f91749bdfe4c
+doccontainersize 127664
+doccontainerchecksum fde82bf8b97840014737734fb57eec7c37b34ca0d5eeb1a66c27dab16d4a5f1c4a7f7c10fb9c8bb98f3ef56a15645da0ab66cdcb658f69ea32eb84625b25023a
+srccontainersize 8784
+srccontainerchecksum 57d76ba3ff2e85a18fad69126a87b02fecf6f994de63af530831d63a0405abbcfad5ff7b33ff0f13c257b85bea73788e72a4347337c7355a25b85c5e762c25dd
+runfiles size=3
+ texmf-dist/tex/latex/dyntree/dyntree.sty
+catalogue-ctan /macros/latex/contrib/dyntree
+catalogue-date 2018-10-09 06:11:35 +0200
+catalogue-license lgpl
+catalogue-topics tree maths
+catalogue-version 1.0

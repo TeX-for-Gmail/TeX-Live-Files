@@ -1,0 +1,17 @@
+name dynblocks
+category Package
+revision 35193
+shortdesc A simple way to create dynamic blocks for Beamer
+longdesc The package provides full customisation of the aspect and
+longdesc dimensions of blocks inside a presentation.
+containersize 2084
+containerchecksum bda4ad43754e7d4fa87cc4ac5bdb772cd24a4e613bcf7993e3d448a9c884aad5ad484c6dd7739f4c6edb983560181717319dc26376a6025f3847afb588fa47a1
+doccontainersize 377732
+doccontainerchecksum 4f4084cc4dd913bcff3e71286fa4e881c7d577afd8e0669396de2ab18ccbdbc8649117bb931e365fa5999c5c842a71cab18da5573e83c1d721c87256e614c321
+runfiles size=2
+ texmf-dist/tex/latex/dynblocks/dynblocks.sty
+catalogue-ctan /macros/latex/contrib/beamer-contrib/dynblocks
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics presentation
+catalogue-version 0.2b

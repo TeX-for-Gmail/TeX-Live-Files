@@ -1,0 +1,44 @@
+name gnu-freefont
+category Package
+revision 29349
+shortdesc A Unicode font, with rather wide coverage
+longdesc The package provides a set of outline (i.e. OpenType) fonts
+longdesc covering as much as possible of the Unicode character set. The
+longdesc set consists of three typefaces: one monospaced and two
+longdesc proportional (one with uniform and one with modulated stroke).
+containersize 7094080
+containerchecksum c8ced8afc3b1b9108e5a4a82db54a9a28ac6ba5f4f379062b0d9d8b9724716ca98234a345c06c7d809b1ce609f817f0a9acba1ef8e94ecbf8f1301fd3bc9d248
+doccontainersize 161276
+doccontainerchecksum 3b7adbdabaf996fe8e0cff7e1192cb7f5984103398b22af6f859500a0041a0ce2ac0c70bc3f17abb7294ba80e34baa5cc77639500fa03f1a2c1c93548aa2a816
+srccontainersize 4241780
+srccontainerchecksum df7be02fdf1e4559f701b67183237f95c7b6c1b9b22f3b65688bc84d96f97964755397e4cf9039229ecec8b5810d65042ff2d7c101ef7cabbb126e6e9c93b3c5
+runfiles size=4350
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeMono.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeMonoBold.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeMonoBoldOblique.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeMonoOblique.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSans.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSansBold.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSansBoldOblique.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSansOblique.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSerif.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSerifBold.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSerifBoldItalic.otf
+ texmf-dist/fonts/opentype/public/gnu-freefont/FreeSerifItalic.otf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeMono.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeMonoBold.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeMonoBoldOblique.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeMonoOblique.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSans.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSansBold.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSansBoldOblique.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSansOblique.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSerif.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSerifBold.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSerifBoldItalic.ttf
+ texmf-dist/fonts/truetype/public/gnu-freefont/FreeSerifItalic.ttf
+catalogue-contact-repository http://savannah.gnu.org/projects/freefont/
+catalogue-ctan /fonts/gnu-freefont
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl3
+catalogue-topics font font-proportional font-mono font-serif font-otf font-sfd

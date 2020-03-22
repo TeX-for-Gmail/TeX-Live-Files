@@ -1,0 +1,36 @@
+name mwcls
+category Package
+revision 44352
+shortdesc Polish-oriented document classes
+longdesc mwcls is a set of document classes for LaTeX 2e designed with
+longdesc Polish typographical tradition in mind. Classes include:
+longdesc 'mwart' (which is a replacement for 'article'), 'mwrep'
+longdesc (replacing 'report'), and 'mwbk' (replacing 'book'). Most
+longdesc features present in standard classes work with mwcls classes.
+longdesc Some extensions/exceptions include: sectioning commands allow
+longdesc for second optional argument (it is possible to state different
+longdesc texts for running head and for TOC), new environments
+longdesc 'itemize*' and 'enumerate*' for lists with long items, page
+longdesc styles have variants for normal, opening, closing, and blank
+longdesc pages.
+containersize 11340
+containerchecksum 045fbe4985684ff7bad3a7c493fa0b37e412e698ee5eaf31b4ccdf3e185433d185faeb78bbbae7e11b84354e4dcbc24c8f2cf549a64b81ed0b6adfceb4bc8d8a
+doccontainersize 138172
+doccontainerchecksum 17b548e9db8a842c16367cd27b3f5639fdaf418f1967155a72c90e3e91d47a121c87dcf2bf0c6eb9042005d54e04ee40b367e0d81c7e2ff57de04da617f8b1b2
+srccontainersize 35232
+srccontainerchecksum aff2829633113538493a5634fa11d11a65d643e65afe74255ab31141ddd5fb39f6da59764507af10314b1d458c5c75b1f970b808b1e90c53d211cb4bc11f3b55
+runfiles size=42
+ texmf-dist/tex/latex/mwcls/mw10.clo
+ texmf-dist/tex/latex/mwcls/mw11.clo
+ texmf-dist/tex/latex/mwcls/mw12.clo
+ texmf-dist/tex/latex/mwcls/mwart.cls
+ texmf-dist/tex/latex/mwcls/mwbk.cls
+ texmf-dist/tex/latex/mwcls/mwbk10.clo
+ texmf-dist/tex/latex/mwcls/mwbk11.clo
+ texmf-dist/tex/latex/mwcls/mwbk12.clo
+ texmf-dist/tex/latex/mwcls/mwrep.cls
+catalogue-ctan /macros/latex/contrib/mwcls
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.2
+catalogue-topics book-pub class
+catalogue-version 0.75

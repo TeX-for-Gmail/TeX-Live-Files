@@ -1,0 +1,27 @@
+name jvlisting
+category Package
+revision 24638
+shortdesc A replacement for LaTeX's verbatim package
+longdesc This package provides a LaTeX environment listing, an
+longdesc alternative to the built-in verbatim environment. The listing
+longdesc environment is tailored for including listings of computer
+longdesc program source code into documents. The main advantages over
+longdesc the original verbatim environment are: environments
+longdesc automatically fixes leading whitespace so that the environment
+longdesc and program listing can be indented with the rest of the
+longdesc document source, and; listing environments may easily be
+longdesc customised and extended.
+containersize 2552
+containerchecksum 70626cd23359751909ce385a7ed4415c5641e9c303d0dafeb99e36d0151f382c02c2f6818a135bc92fb156d4fa25d1976b2c906074fcc112e56a1a7a458801c2
+doccontainersize 197100
+doccontainerchecksum de6a694c26332d9c97bf4202bec0989370226b7381d080c4d6f5a106cd8f2bf352d756cbe7cede2a4ba3e17f85ad553e5c24e874a00cc1dd307325125e6d0bcb
+srccontainersize 6744
+srccontainerchecksum 776fe9200a5447c151f11ee09b0f3d95aa5f07ccd427607b12ad7069aa70084d99c7d620261797e6c147ab134bf3a151bb739eadc8e3898dc8b16f284c66a965
+runfiles size=2
+ texmf-dist/tex/latex/jvlisting/jvlisting.sty
+catalogue-also verbatim
+catalogue-ctan /macros/latex/contrib/jvlisting
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics listing
+catalogue-version 0.7

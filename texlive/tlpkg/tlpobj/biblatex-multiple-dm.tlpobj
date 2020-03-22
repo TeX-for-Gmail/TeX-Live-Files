@@ -1,0 +1,19 @@
+name biblatex-multiple-dm
+category Package
+revision 37081
+shortdesc Load multiple datamodels in BibLaTeX
+longdesc The package adds the possibility to BibLaTeX to load data
+longdesc models from multiple sources.
+containersize 1088
+containerchecksum 9f83220ae7f2576b4f58394634dea831e5759bf6560ede3244ffb9d18fbf522e9c728c47a4184a43c2dcf6807481a964d7e468e4e6cb921129440bf917925a8f
+doccontainersize 54860
+doccontainerchecksum f33e650b2faac0c7b9d078f0f4fd9da8a58562c6a9a8b13acbb4b23001d2ecdde105c08b6b6e62f138783d61f3e071f8780afee2f170c134c275ae62ca5a597a
+runfiles size=3
+ texmf-dist/tex/latex/biblatex-multiple-dm/biblatex-multiple-dm.sty
+ texmf-dist/tex/latex/biblatex-multiple-dm/multiple-dm.bbx
+ texmf-dist/tex/latex/biblatex-multiple-dm/multiple-dm.dbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-multiple-dm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.0.1

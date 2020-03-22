@@ -1,0 +1,13 @@
+name crossrefware.x86_64-linux
+category Package
+revision 45927
+shortdesc x86_64-linux files of crossrefware
+containersize 460
+containerchecksum a45231ddb8da5ac3fa9b40a80e758311b19effb9eb1cffc2443dcad8e26f995c94950868fc130f1e230be0b218b2e3a08fa67bab161b857231d13ec6764231c5
+binfiles arch=x86_64-linux size=6
+ bin/x86_64-linux/bbl2bib
+ bin/x86_64-linux/bibdoiadd
+ bin/x86_64-linux/bibmradd
+ bin/x86_64-linux/biburl2doi
+ bin/x86_64-linux/bibzbladd
+ bin/x86_64-linux/ltx2crossrefxml

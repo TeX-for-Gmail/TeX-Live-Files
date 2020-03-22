@@ -1,0 +1,22 @@
+name covington
+category Package
+revision 49376
+shortdesc Linguistic support
+longdesc Numerous minor LaTeX enhancements for linguistics, including
+longdesc multiple accents on the same letter, interline glosses
+longdesc (word-by-word translations), Discourse Representation
+longdesc Structures, and example numbering.
+containersize 7844
+containerchecksum 72641ee5d5395dfa1c064a3d0275f909c8be79ed6cc45de3c758bf8aeb1f744ef9c3b846800304a7d6df89607b8c73025b2a5c01c95616ed2902daa0128fbb69
+doccontainersize 555700
+doccontainerchecksum 192153c7b1d4d94e718faf280fd1e4b7eec1cbac4455f5ac7bb6c2d54bd695712670f445b79fd282e72f33ef944a3b178b2d62e14c9f85e5cda1fb6d6ed20530
+runfiles size=8
+ texmf-dist/tex/latex/covington/covington.sty
+catalogue-also gb4e
+catalogue-contact-bugs https://github.com/jspitz/covington/issues
+catalogue-contact-repository https://github.com/jspitz/covington
+catalogue-ctan /macros/latex/contrib/covington
+catalogue-date 2018-12-10 10:20:35 +0100
+catalogue-license lppl1.3
+catalogue-topics linguistic
+catalogue-version 2.0

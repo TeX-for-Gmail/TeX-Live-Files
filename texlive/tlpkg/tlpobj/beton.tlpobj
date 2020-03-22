@@ -1,0 +1,19 @@
+name beton
+category Package
+revision 15878
+shortdesc Use Concrete fonts
+longdesc Typeset a LaTeX2e document with the Concrete fonts designed by
+longdesc Don Knuth and used in his book "Concrete Mathematics".
+containersize 1772
+containerchecksum 23d243f15a79246aa590a7ec65249724a4460ac6e3ac01dba2aeddfc169875dd8392c1374cb8459ff84210d51822430fab9d75a87f0ece20323cd20709de0c14
+doccontainersize 59196
+doccontainerchecksum fa579427c97f930455bc548d5b438f32aa291d98f9d8b391dae686b270e135605cb3ddd6cfb9076cb248a17eabb4e62bcf4f720b2daf829b3d12d6ebc294f832
+srccontainersize 5796
+srccontainerchecksum 79e129919c06ef083e4f8fdcd88a60339591b3f95776feb9cc076e46fb379b5ab10f9b48f3b8a948e9a120412f818dd3d99cc24957d3eaa812bbefb388d91049
+runfiles size=1
+ texmf-dist/tex/latex/beton/beton.sty
+catalogue-also euler
+catalogue-ctan /macros/latex/contrib/beton
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp

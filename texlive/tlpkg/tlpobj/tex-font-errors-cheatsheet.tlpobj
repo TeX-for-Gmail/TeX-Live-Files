@@ -1,0 +1,18 @@
+name tex-font-errors-cheatsheet
+category Package
+revision 18314
+shortdesc Cheat sheet outlining the most common TeX font errors
+longdesc This is a compact three-pages document highlighting the TeX
+longdesc flow of integrating fonts, and explains how some of the most
+longdesc common font-related error messages occur. Also, hints are given
+longdesc on how to address those.
+containersize 548
+containerchecksum 403b4faae7b16b1eea5a4d2a7d77bcd8a6e7a7b5be54299b79635280be8f82f59d281380754a0bd1b9e53ff4fb534fb3bca0cf8bbe1cf0ee88ee4d925fba103d
+doccontainersize 219316
+doccontainerchecksum adc72626fcb4c5a9285ad4a7cfd1c6b984f1aa26c7732f35cdc241f7b00d623f6b646e878317f30d10b9f47f4eee33e923538be58f3c15bee668f4fe652f0170
+catalogue-contact-home https://github.com/nschloe/tex-font-errors-cheatsheet
+catalogue-ctan /info/tex-font-errors-cheatsheet
+catalogue-date 2019-02-13 06:40:43 +0100
+catalogue-license lppl
+catalogue-topics tut-cheat
+catalogue-version 0.1

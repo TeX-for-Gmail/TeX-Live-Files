@@ -1,0 +1,18 @@
+name ksfh_nat
+category Package
+revision 24825
+catalogue ksfh-nat
+shortdesc BibTeX style for KSFH Munich
+longdesc The package supports bibliographies as standard for KSFH
+longdesc (Katholische Stiftungsfachhochschule) Munich. BibTeX entries in
+longdesc article, book, inbook, incollection and misc formats are
+longdesc supported.
+containersize 3968
+containerchecksum 8893133ed49c9b4ba7472bc80a4e5583ec2546838e261fa2cf9aee188a0b00bca45de05c4e969af0b6f222a9668c3a7fac0caadbb180c10500fc53ae8c9f56c6
+runfiles size=6
+ texmf-dist/bibtex/bst/ksfh_nat/ksfh_nat.bst
+catalogue-ctan /biblio/bibtex/contrib/ksfh_nat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-sty
+catalogue-version 1.1

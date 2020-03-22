@@ -1,0 +1,21 @@
+name bnumexpr
+category Package
+revision 49643
+shortdesc Extends eTeX's \numexpr...\relax construct to big integers
+longdesc The package extends e-TeX \numexpr...\relax operation to allow
+longdesc big integers, powers, factorials, truncated division and its
+longdesc associated modulo. By default, bnumexpr loads package xintcore
+longdesc (part of the xint bundle) and uses its arithmetic macros.
+containersize 3720
+containerchecksum c4bf69cf261c8545aeffe69c22e0a018afab5f919aa186efbdae0d0eff6728f36f0ca94831cbef7828e9df349bc2e7eed22c284cb41924b83464efa51418b22e
+doccontainersize 90596
+doccontainerchecksum 2e1430651869f89d3b1ecd146858b004ea04e6506cad29bcc131761b975a89671504b22e7bbe8bdd9e6be1d513f28f85e073a0f123e21e12584782db5242a50c
+srccontainersize 16944
+srccontainerchecksum 25488522b3ad578b8c2fe5e418c5a6d1bf6295de7f16e743dbe90417ca36a8888309a8b6e56bcd93f72c89b02841f0b1326351f6d47840a1fc59042d11641186
+runfiles size=4
+ texmf-dist/tex/latex/bnumexpr/bnumexpr.sty
+catalogue-ctan /macros/latex/contrib/bnumexpr
+catalogue-date 2019-01-07 13:21:12 +0100
+catalogue-license lppl1.3c
+catalogue-topics arithmetic calculation
+catalogue-version 1.2d

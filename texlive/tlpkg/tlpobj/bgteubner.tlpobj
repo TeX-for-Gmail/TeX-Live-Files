@@ -1,0 +1,39 @@
+name bgteubner
+category Package
+revision 44205
+shortdesc Class for producing books for the publisher "Teubner Verlag"
+longdesc The bgteubner document class has been programmed by order of
+longdesc the Teubner Verlag, Wiesbaden, Germany, to ensure that books of
+longdesc this publisher have a unique layout. Unfortunately, most of the
+longdesc documentation is only available in German. Since the document
+longdesc class is intended to generate a unique layout, many things
+longdesc (layout etc.) are fixed and cannot be altered by the user. If
+longdesc you want to use the document class for another purpose than
+longdesc publishing with the Teubner Verlag, this may arrise unwanted
+longdesc restrictions (For instance, the document class provides only
+longdesc two paper sizes: DIN A-5 and 17cm x 24cm; only two font
+longdesc families are supported: Times and European Computer Modern).
+containersize 28968
+containerchecksum 0bf19f7ecb12194c2d112ab15226aaaed3737f99cb2841ab9c755e78e3fe92d43f8c1e3abca566426f1c16bb4a200790d77397129da594239aa9d2f9a6ff0a0a
+doccontainersize 2484192
+doccontainerchecksum a4277960129fff04ba3ef6e24463866ae75ae0b690d8e95f618a7c95a442dd02e84d16793a4f5ac12a945ef3b4bc7af05fdc27e551c0e8c92c141081d6a71cd3
+srccontainersize 74256
+srccontainerchecksum 5d20396e63bdedcf2b94222b8e060c498539f92bd99c9b78fc0e0fa44eb95734dfcad7c16e503f33dbfa8032f49d7a6c1020a8a940077bba36ff73f5ecd45ef3
+runfiles size=70
+ texmf-dist/bibtex/bst/bgteubner/bgteuabbr.bst
+ texmf-dist/bibtex/bst/bgteubner/bgteuabbr2.bst
+ texmf-dist/bibtex/bst/bgteubner/bgteupln.bst
+ texmf-dist/bibtex/bst/bgteubner/bgteupln2.bst
+ texmf-dist/bibtex/bst/bgteubner/bgteupln3.bst
+ texmf-dist/makeindex/bgteubner/bgteubner.ist
+ texmf-dist/makeindex/bgteubner/bgteuglo.ist
+ texmf-dist/makeindex/bgteubner/bgteuglochar.ist
+ texmf-dist/tex/latex/bgteubner/bgteubner.cls
+ texmf-dist/tex/latex/bgteubner/hhfixme.sty
+ texmf-dist/tex/latex/bgteubner/hhsubfigure.sty
+ texmf-dist/tex/latex/bgteubner/ptmxcomp.sty
+catalogue-ctan /macros/latex/contrib/bgteubner
+catalogue-date 2017-05-05 00:16:32 +0200
+catalogue-license lppl
+catalogue-topics class book-pub publisher
+catalogue-version 2.11

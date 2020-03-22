@@ -1,0 +1,8 @@
+name ctie.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of ctie
+containersize 35764
+containerchecksum 90b7a408cddfaa1f397af9054fa4d5a3ced83a54a21eaf6de51bf5ba5215c43f530f6d0b446b406775f86cfaa615790fc889f9228189c90e4d40b1ae4ab7c859
+binfiles arch=x86_64-linux size=21
+ bin/x86_64-linux/ctie

@@ -1,0 +1,19 @@
+name fancylabel
+category Package
+revision 46736
+shortdesc Complex labelling with LaTeX
+longdesc The package provides a complex labelling scheme. It is designed
+longdesc to support the needs of the author's chemschemex package
+containersize 5288
+containerchecksum 950455301b0bf3ea3be0817a45c4e7453ba95c8afd397c1cf9ebf559f160e2828f414f0dca4647a80481f6e8daa0902e24692469023c21ba844afe1edda60b2f
+doccontainersize 230456
+doccontainerchecksum 3a05f2b388eb2a22a0b48b4761b3964c7b0c616eaf0c8adcbd4f375a3dd059b3d3b0831e754842bc084123fff7a12f59c87c5c5b362739c062f36a215dca2ca3
+srccontainersize 10452
+srccontainerchecksum 5d0ae7fd455b679221c1877a5a8fe58da76d3db96de7bb6eaba24c50ef9a0bbc3252858276e4f0c6b81161f65e985911ab1608bca21418335e23189a2ddac425
+runfiles size=9
+ texmf-dist/tex/latex/fancylabel/fancylabel.sty
+catalogue-ctan /macros/latex/contrib/fancylabel
+catalogue-date 2018-02-23 21:24:38 +0100
+catalogue-license lppl1.2
+catalogue-topics label-ref chemistry
+catalogue-version 1.1

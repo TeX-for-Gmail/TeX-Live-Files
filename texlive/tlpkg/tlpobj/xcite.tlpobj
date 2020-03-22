@@ -1,0 +1,19 @@
+name xcite
+category Package
+revision 23783
+shortdesc Use citation keys from a different document
+longdesc The package lets you use citation keys from another document,
+longdesc just as the xr package allows cross-document use of labels.
+containersize 1344
+containerchecksum f49a3b76fac8d4631cca607c354eef956e77c3cbe4e95a9104118072c5e320983bec9412dcd2400c3034a7e4fa8e463cfa53ef1de1a7c39f0d857a242671c0b5
+doccontainersize 207608
+doccontainerchecksum f53c69274392c42c661efa04319999aa43ad7e81f515ac6184325672f4d00d5bf8113aa68f36d4d4c24d9dad393c91c8a6dfe94b95c8edc449642db8cc43f7eb
+srccontainersize 3108
+srccontainerchecksum 6db0c3ab886a2f90dd12e75dc8ad00391e09e8815dbd291b34d1fe9144677ef7b8c4c6bdc964ade6c12bb0dfcc53e2c56fa722ef30c3aa2a303e391e26ce57db
+runfiles size=1
+ texmf-dist/tex/latex/xcite/xcite.sty
+catalogue-ctan /macros/latex/contrib/xcite
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics cite-supp
+catalogue-version 1.0

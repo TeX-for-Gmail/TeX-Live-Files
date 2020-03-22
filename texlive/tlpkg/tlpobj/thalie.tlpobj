@@ -1,0 +1,30 @@
+name thalie
+category Package
+revision 50129
+shortdesc Typeset drama plays
+longdesc The package provides tools to typeset drama plays. It defines
+longdesc commands to introduce characters' lines, to render stage
+longdesc directions, to divide a play into acts and scenes and to build
+longdesc the dramatis personae automatically.
+containersize 5052
+containerchecksum 1ea9207d5b9284f8e7571e9f802e0d0e9c600da3516d40bfe25067dfbf007b0a5c37642d4f24221e0d3cc89835542b3b230cbcac0f2151ac0bae95f2ffed1fa7
+doccontainersize 427448
+doccontainerchecksum c040c19fe0b4e5f18aac0d3edfb62ebbb04b83bab180302f412fd53c62648abc06485ba47d5bd69bbe5e47f946906607865db5fff7d177002924355f8826d8e5
+srccontainersize 18592
+srccontainerchecksum d1801a3d45cd95ba49636f399d183df8fb71a5cb054d9ce280c076d640ed28ca467a49c23b27de196908122bd12f4195de1f22444f45342cef3d74f6e0d4ddd5
+runfiles size=9
+ texmf-dist/tex/latex/thalie/thalie-english.trsl
+ texmf-dist/tex/latex/thalie/thalie-fallback.trsl
+ texmf-dist/tex/latex/thalie/thalie-french.trsl
+ texmf-dist/tex/latex/thalie/thalie-german.trsl
+ texmf-dist/tex/latex/thalie/thalie.sty
+catalogue-also drama dramatist play
+catalogue-contact-bugs https://framagit.org/spalax/thalie/issues
+catalogue-contact-development https://framagit.org/spalax/thalie
+catalogue-contact-home https://framagit.org/spalax/thalie
+catalogue-contact-repository https://framagit.org/spalax/thalie
+catalogue-ctan /macros/latex/contrib/thalie
+catalogue-date 2019-02-24 23:46:17 +0100
+catalogue-license lppl1.3
+catalogue-topics drama-script
+catalogue-version 0.10a

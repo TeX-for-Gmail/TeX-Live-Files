@@ -1,0 +1,14 @@
+name webguide
+category Package
+revision 25813
+shortdesc Brief Guide to LaTeX Tools for Web publishing
+longdesc The documentation constitutes an example of the package's own
+longdesc recommendations (being presented both in PDF and HTML).
+containersize 452
+containerchecksum 0c99e86fcba92d067ddd658893b58463390764b215515068e025563b66f445b23ae11482345bf305106afc1284ffaf32b23a28c8e0f81319002dd6332c8a3848
+doccontainersize 145660
+doccontainerchecksum 933ceaf7bb2400fff1bfc5ec26f60d750e0995680579fe487536ddcf8eca670e2b6d3fb6150b4ad659c6fa594b9db540523a878c74e9aba9be7710b5380e55af
+catalogue-ctan /info/webguide
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics latex-doc

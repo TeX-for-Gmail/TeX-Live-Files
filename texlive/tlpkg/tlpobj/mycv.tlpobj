@@ -1,0 +1,31 @@
+name mycv
+category Package
+revision 26807
+shortdesc A list-driven CV class, allowing TikZ decorations
+longdesc The class provides a set of functionality for writing
+longdesc "curriculum vitae" with different layouts. The idea is that a
+longdesc user can write some custom configuration directives, by means
+longdesc of which is possible both to produce different c.v. layouts and
+longdesc quickly switch among them. In order to process such directives,
+longdesc the class uses a set of lists, provided by the package
+longdesc etextools. Basic support for using TikZ decorations is also
+longdesc provided.
+containersize 8084
+containerchecksum 72e74c30c994441aac708e719e894d01bc3d1a6570863a589dbacae8e3c69f70d192abf7473b58a026b2859f7f10dfd1e56827cc759898248e3cfc9d36f37583
+doccontainersize 512164
+doccontainerchecksum 892d0c10fb8a2dd9a65bb6fa4dd48fc3ea49803a7e633cd390427bfbcc8f16f6d213f9ef511c7202521b518db4c94bfdad5197c30b2c8786bbbb6c6f188293a7
+srccontainersize 8664
+srccontainerchecksum 56901df8931579aae3cc8f51e7c6c6542cca3b1b231512e6cc27b88104c39dea50026f0cf21b2b4251f4e1ddfe4119de7ddbde6f50bde743296bb84195fb5f05
+runfiles size=11
+ texmf-dist/scripts/mycv/mycv_split_contents.pl
+ texmf-dist/tex/latex/mycv/mycv.cls
+ texmf-dist/tex/latex/mycv/mycv_base.def
+ texmf-dist/tex/latex/mycv/mycv_dec.sty
+ texmf-dist/tex/latex/mycv/mycv_misc.def
+ texmf-dist/tex/latex/mycv/mycv_style.sty
+ texmf-dist/tex/latex/mycv/mycv_version.def
+catalogue-ctan /macros/latex/contrib/mycv
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics cv class
+catalogue-version 1.5.6

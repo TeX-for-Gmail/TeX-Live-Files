@@ -1,0 +1,19 @@
+name nlctdoc
+category Package
+revision 44353
+shortdesc Package documentation class
+longdesc The class provides support for the documentation of the
+longdesc author's packages, using koma-script. This class is provided
+longdesc "as is" solely for the benefit of anyone who wants to compile
+longdesc the documentation of those packages.
+containersize 5060
+containerchecksum a13148e7c821353e23d9f378313023aa9140e48108ee7af258a5fd7bca9b42e620ce8eca00c3f6c9a27d78a7a2085fc86f5a2b73456d093b1aea2ff8a2f54159
+doccontainersize 696
+doccontainerchecksum 573ad374a072c3fd99c72a719f05dc37ef0b53742e78b1c3512ec8c495adba78183fcd3cbfe9ab809ad603dbf63d7dc26d7212a44272cf9a1114d0d954bc746c
+runfiles size=5
+ texmf-dist/tex/latex/nlctdoc/nlctdoc.cls
+catalogue-ctan /macros/latex/contrib/nlctdoc
+catalogue-date 2019-01-12 10:21:49 +0100
+catalogue-license lppl
+catalogue-topics doc-supp class
+catalogue-version 1.06

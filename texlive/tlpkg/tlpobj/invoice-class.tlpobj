@@ -1,0 +1,19 @@
+name invoice-class
+category Package
+revision 49749
+shortdesc Produces a standard US invoice from a CSV file
+longdesc This class produces a standard US commercial invoice using data
+longdesc from a CSV file. Invoices can span multiple pages. The class is
+longdesc configurable for different shipping addresses.
+containersize 2752
+containerchecksum d31a445c1696741dbbdeb4f035358cdabc9a4ff74855c432dd2b6d66b0d690e65e400207bafdb643a1ae7bee3b3472393043088521a685251acaf9abadb08769
+doccontainersize 102896
+doccontainerchecksum a3ab71dd11f6aedcb7ce8a89f8b97f8a18ac4c610e3460fd13c1d31b8db0d347d25ff6520af7bd4d37453759d03db384df9e69b281307a36a1d05b4beed0a60f
+runfiles size=2
+ texmf-dist/tex/latex/invoice-class/invoice-class.cls
+catalogue-contact-repository https://github.com/amunn/invoice-class
+catalogue-ctan /macros/latex/contrib/invoice-class
+catalogue-date 2019-01-20 05:26:54 +0100
+catalogue-license lppl1.3
+catalogue-topics invoice csv-support
+catalogue-version 1.0

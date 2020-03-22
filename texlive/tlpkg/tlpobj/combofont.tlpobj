@@ -1,0 +1,23 @@
+name combofont
+category Package
+revision 44746
+shortdesc Add NFSS-declarations of combo fonts to LuaLaTeX documents
+longdesc This highly experimental package can be used to add
+longdesc NFSS-declarations of combo fonts to LuaLaTeX documents. This
+longdesc package may disappear without notice, e.g. if luaotfload
+longdesc changes in a way so that it no longer works, or if LuaTeX
+longdesc changes, or if fontspec itself includes the code. It is also
+longdesc possible that the package's syntax and commands may change in
+longdesc an incompatible way. So if you use it in a production
+longdesc environment: You have been warned.
+containersize 1660
+containerchecksum f871c8ab017335213eff69f8b5afbaad42cc91f1c56628bb3f05de5d5d8f4d970360e8b0ac75165a9add7cb297d15c175f919f87c1d58f832f4399cfc65de7dc
+doccontainersize 92336
+doccontainerchecksum 22ef10619b76b60b5a663582fed6cff1d8080017361fba18a222001e2be425d6c14ab0f6d0b734c1ba8c3806db6443cbaa6c21847555831ce3169bd8c0fb2ad5
+runfiles size=1
+ texmf-dist/tex/lualatex/combofont/combofont.sty
+catalogue-ctan /macros/luatex/latex/combofont
+catalogue-date 2017-07-03 18:05:12 +0200
+catalogue-license lppl1.3c
+catalogue-topics luatex font-mgmt
+catalogue-version 0.2

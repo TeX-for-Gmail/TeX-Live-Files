@@ -1,0 +1,37 @@
+name almfixed
+category Package
+revision 35065
+shortdesc Arabic-Latin Modern Fixed extends TeX-Gyre Latin Modern Mono 10 Regular to full Arabic Unicode support
+longdesc Arabic-Latin Modern Fixed is an extension of TeX-Gyre Latin
+longdesc Modern Mono 10 Regular. Every glyph and OpenType feature of the
+longdesc Latin Modern Mono has been retained, with minor improvements.
+longdesc On the other hand, we have changed the vertical metrics of the
+longdesc font. Although the Arabic script is designed to use the same
+longdesc x-size as Latin Modern Mono, the former script needs greater
+longdesc ascender and descender space. Every Arabic glyph in each
+longdesc Unicode-code block is supported (up to Unicode 7.0): Arabic,
+longdesc Arabic Supplement, Arabic Extended, Arabic Presentation-Forms
+longdesc A, and Arabic Presentation-Forms B. There are two versions of
+longdesc the font: otf and ttf. The ?penType version is for print
+longdesc applications (and usually the default for TeX). The TrueType
+longdesc version is for on-screen applications such as text editors.
+longdesc Hinting in the ttf version is much better for on-screen, at
+longdesc least on Microsoft Windows. The unique feature of Arabic-Latin
+longdesc Modern is its treatment of vowels and diacritics. Each vowel
+longdesc and diacritic (ALM Fixed contains a total of 68 such glyphs)
+longdesc may now be edited horizontally within any text editor or
+longdesc processor. The author believes this is the very first OpenType
+longdesc Arabic font ever to have this capability. Editing complex
+longdesc Arabic texts will now be much easier to input and to proofread.
+containersize 246256
+containerchecksum 1a5e41cac48a33c4336fe03576c49165b47a0bec606b0a15a3563922b964a9a3c2de735cd88cf10423b054b5131193441fbcd64fb2edc47d4944ff33cf6367ef
+doccontainersize 565628
+doccontainerchecksum f51af6e63070fbf94a3f8ed756d544dc7d9460f37b016fcded0d2c56a6cf672d2e60c7b2cb8be9f9942f43e46b5ff2bfb59c6ae301a5d88a8858d6e60a3fbaa9
+runfiles size=222
+ texmf-dist/fonts/opentype/public/almfixed/almfixed.otf
+ texmf-dist/fonts/truetype/public/almfixed/almfixed.ttf
+catalogue-ctan /fonts/almfixed
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gfl
+catalogue-topics font font-otf font-ttf
+catalogue-version 0.92

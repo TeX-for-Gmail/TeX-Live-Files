@@ -1,0 +1,28 @@
+name ctanify
+category Package
+revision 44129
+shortdesc Prepare a package for upload to CTAN
+longdesc Given a list of filenames, ctanify creates a tarball (a .tar.gz
+longdesc file) with the files laid out in CTAN's preferred structure. By
+longdesc default this tarball additionally contains a ZIP (.zip) file
+longdesc with copies of all files laid out in the standard TeX Directory
+longdesc Structure (TDS), which may be used by those intending to
+longdesc install the package, or by those who need to incorporate it in
+longdesc a distribution. (The TDS ZIP file will be installed in the CTAN
+longdesc install/ tree.) Given that CTAN and TeX Live are not fond of
+longdesc .tds.zip files for small and/or otherwise straightforward
+longdesc packages, ctanify has now been provided with an option that
+longdesc prevents the creation and inclusion of such a .tds.zip file.
+depend ctanify.ARCH
+containersize 8236
+containerchecksum 6774b151bb0fb052d41d8447c7e8d378d7f31b0a5aea5f2f00b93669b8c2f629f479ae21d40480fd62f468d866cbe0c6f0dedd8a0248f8d83cd1039131849439
+doccontainersize 57960
+doccontainerchecksum f9b636cb41b126809d808c167410a37052b1c6c385fe4eb8df3b819c0cf2cac2c7c1c74d7ea15d2916c1cbc563e078845e451000e3a08cd9a8e0696a342b22ac
+runfiles size=6
+ texmf-dist/scripts/ctanify/ctanify
+catalogue-also ctanupload
+catalogue-ctan /support/ctanify
+catalogue-date 2017-04-23 06:09:52 +0200
+catalogue-license lppl1.3c
+catalogue-topics ctan
+catalogue-version 1.9.1

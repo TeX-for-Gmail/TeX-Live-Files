@@ -1,0 +1,43 @@
+name bangtex
+category Package
+revision 15878
+shortdesc Writing Bangla and Assamese with LaTeX
+longdesc The bundle provides class files for writing Bangla and Assamese
+longdesc with LaTeX, and Metafont sources for fonts.
+containersize 35324
+containerchecksum e64473076f23f537a3d543aa325b159b6f7c050b626e880628bfa76a705dbbc57dd6dbc1418b4fe0124e90ec4922e90800b42d5f636ed910590fb060e119d962
+doccontainersize 15640
+doccontainerchecksum ccbcc6e4739001b6306dc6559f76f577310e73e515aef27ad39c08e770a9eef54a6cd162343aac83ef3530758b3d7dd4c19b1bf5718a86fd321189ea58a786f4
+runfiles size=78
+ texmf-dist/fonts/source/public/bangtex/bang10.mf
+ texmf-dist/fonts/source/public/bangtex/bangbase.mf
+ texmf-dist/fonts/source/public/bangtex/bangconso.mf
+ texmf-dist/fonts/source/public/bangtex/bangdefs.mf
+ texmf-dist/fonts/source/public/bangtex/bangfala.mf
+ texmf-dist/fonts/source/public/bangtex/banghalf.mf
+ texmf-dist/fonts/source/public/bangtex/bangjuk.mf
+ texmf-dist/fonts/source/public/bangtex/bangkaar.mf
+ texmf-dist/fonts/source/public/bangtex/banglig.mf
+ texmf-dist/fonts/source/public/bangtex/bangmac.mf
+ texmf-dist/fonts/source/public/bangtex/bangnum.mf
+ texmf-dist/fonts/source/public/bangtex/bangpunc.mf
+ texmf-dist/fonts/source/public/bangtex/bangsl10.mf
+ texmf-dist/fonts/source/public/bangtex/bangvow.mf
+ texmf-dist/fonts/source/public/bangtex/bangwd10.mf
+ texmf-dist/fonts/tfm/public/bangtex/bang10.tfm
+ texmf-dist/fonts/tfm/public/bangtex/bangsl10.tfm
+ texmf-dist/fonts/tfm/public/bangtex/bangwd10.tfm
+ texmf-dist/tex/latex/bangtex/bangfont.tex
+ texmf-dist/tex/latex/bangtex/barticle.cls
+ texmf-dist/tex/latex/bangtex/bbk10.clo
+ texmf-dist/tex/latex/bangtex/bbk11.clo
+ texmf-dist/tex/latex/bangtex/bbk12.clo
+ texmf-dist/tex/latex/bangtex/bbook.cls
+ texmf-dist/tex/latex/bangtex/bletter.cls
+ texmf-dist/tex/latex/bangtex/bsize10.clo
+ texmf-dist/tex/latex/bangtex/bsize11.clo
+ texmf-dist/tex/latex/bangtex/bsize12.clo
+catalogue-ctan /language/bengali/bangtex
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics indic

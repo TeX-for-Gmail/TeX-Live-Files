@@ -1,0 +1,19 @@
+name fifinddo-info
+category Package
+revision 29349
+shortdesc German HTML beamer presentation on nicetext and morehype
+longdesc The bundle: exhibits the process of making an "HTML beamer
+longdesc presentation" with the blogdot package from the morehype
+longdesc bundle, and HTML generation based on the fifinddo package.
+containersize 532
+containerchecksum 86767390bc9946b8f8d47dae0334d7cfc21ac2b064b00ab70732f7ca3f50d875a35dbb0e477ef1c014452fc14c177a1c5c6b96ee334c99bbc2bb49eee9ffe6b9
+doccontainersize 257192
+doccontainerchecksum e6635f5cc989bfa0da9b2b0cbd5c3719aa793552f4c1adbc1ee218a78b6b116d2c2046b04254e3294834e63901ece9489b8c86421afd3c58aeb8615b5859ee92
+srccontainersize 23136
+srccontainerchecksum f01f2453c206cc7fefaafd1269c77b43bf1f24a8fef034ebdc40ac2be5c4ef553d2096f4168e7933e63aa816b1397c74fe21d725f0a6bc3d8187c751145a44a7
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /info/fifinddo-info
+catalogue-date 2017-05-06 08:05:02 +0200
+catalogue-license lppl1.3
+catalogue-topics documentation cvt-html
+catalogue-version 1.1b

@@ -1,0 +1,18 @@
+name abraces
+category Package
+revision 27880
+shortdesc Asymmetric over-/underbraces in maths
+longdesc The package provides a character key-driven interface to
+longdesc supplement new constructions of the traditional \overbrace and
+longdesc \underbrace pairs in an asymmetric or arbitrary way.
+containersize 1956
+containerchecksum 8d75830f3230b27fdee0b21cadcc9adf604eba3058607675b23231cc43be6a66d090bd64857b3715703d2aed1e8ecfb618373b89cfee743004f1bbff5c7d21b6
+doccontainersize 199148
+doccontainerchecksum e7392bdf5f19e5dd4dafdc1b058cf0d587d9b1d8400ae01bac3a928e3edef962567e24c53b219206a6cb82f24085da43d18525973b7ccadce05efdfe79b5d524
+runfiles size=2
+ texmf-dist/tex/latex/abraces/abraces.sty
+catalogue-ctan /macros/latex/contrib/abraces
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-symbol
+catalogue-version 1.-

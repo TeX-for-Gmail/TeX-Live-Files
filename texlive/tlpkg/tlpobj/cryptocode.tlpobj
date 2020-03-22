@@ -1,0 +1,22 @@
+name cryptocode
+category Package
+revision 49131
+shortdesc Typesetting pseudocode, protocols, game-based proofs and black-box reductions in cryptography
+longdesc The cryptocode package provides a set of macros to ease the
+longdesc typesetting of pseudocode, algorithms and protocols. In
+longdesc addition it comes with a wide range of tools to typeset
+longdesc cryptographic papers. This includes simple predefined commands
+longdesc for concepts such as a security parameter or advantage terms
+longdesc but also flexible and powerful environments to layout
+longdesc game-based proofs or black-box reductions.
+containersize 14516
+containerchecksum b15b76169656d91a366e17fc832f0b661e0bd31e2d8f61e2431d3e7adab66b24c145c2e84e4c9f9aa8dfbe27655b37c657765e549e04f9de447c5c6cefe38480
+doccontainersize 662880
+doccontainerchecksum 0245804ad3761368a634d7b062a02e5a073ed91499c3792f82670ea6ed18f6790f74d23e5ff4770c1c3af64b3a90d9f3d59ebe88828496ae19fb517dfca1e0f4
+runfiles size=19
+ texmf-dist/tex/latex/cryptocode/cryptocode.sty
+catalogue-ctan /macros/latex/contrib/cryptocode
+catalogue-date 2018-11-11 20:45:37 +0100
+catalogue-license lppl1.3
+catalogue-topics pseudocode
+catalogue-version 0.3.0

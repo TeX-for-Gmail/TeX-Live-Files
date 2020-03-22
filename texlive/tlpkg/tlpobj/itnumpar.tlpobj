@@ -1,0 +1,22 @@
+name itnumpar
+category Package
+revision 15878
+shortdesc Spell numbers in words (Italian)
+longdesc Sometimes we need to say "Capitolo primo" or "Capitolo uno"
+longdesc instead of "Capitolo 1", that is, spelling the number in words
+longdesc instead of the usual digit form. This package provides support
+longdesc for spelling out numbers in Italian words, both in cardinal and
+longdesc in ordinal form.
+containersize 2268
+containerchecksum 73770854d45bf404e874aeda0d0bc95dac7ba266cb012fe4af7c4e7686c078b1314500ddaa767b1652e9b05b02691c93cd24b34d6b145fc30c0a3f56693f6a17
+doccontainersize 127252
+doccontainerchecksum b7c81a74d816508121f0449580e4599092bcf3d176cbf9f754fe9e662d83a5c8b66e52e43b2621338a13b09c44babac6a575f1e8894863402c028dc3ed792486
+srccontainersize 8148
+srccontainerchecksum 72ad2e68d946f5a862e97c3cd3f20f94c23a2a85fa5183a6da9b1f03be60067a482b2f22e7560c5c731df18f910f643f0c991a2b0c09925cc270287290654c86
+runfiles size=2
+ texmf-dist/tex/latex/itnumpar/itnumpar.sty
+catalogue-ctan /macros/latex/contrib/itnumpar
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics italian numbers
+catalogue-version 1.0

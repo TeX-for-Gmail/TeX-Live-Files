@@ -1,0 +1,25 @@
+name hc
+category Package
+revision 15878
+shortdesc Replacement for the LaTeX classes
+longdesc A set of replacements for the default LaTeX classes, based upon
+longdesc the Koma-Script bundle and the seminar class. Includes hcart,
+longdesc hcreport, hcletter, and hcslides.
+containersize 12824
+containerchecksum 17c7037eb04c1d0064dbb637f51947243d1b8f07d46245dfb8f2a38a1ea068ebe41da7e2346ccedf02979003a0a2fa0fbd25eaebf7847b266e21b7c873b032d4
+doccontainersize 43508
+doccontainerchecksum 18aaf579ef82a11ea1e752524d9a04a4a0aa5d6cbb496bde380664723dd30cd421c77dfba1ee6bd88def576c76e202b328198fa6dfb4a9ab451875c3753a515b
+srccontainersize 14060
+srccontainerchecksum 42d3f57fb2c38823875116a67e3e71a3b1aeccdfa00c7a201163325c31fbd47d60a1dd028c6d9102d38d6490424bb118178c7589a433a69ec26e505b805418f8
+runfiles size=35
+ texmf-dist/bibtex/bst/hc/hc-de.bst
+ texmf-dist/bibtex/bst/hc/hc-en.bst
+ texmf-dist/tex/latex/hc/german.hld
+ texmf-dist/tex/latex/hc/hcart.cls
+ texmf-dist/tex/latex/hc/hcletter.cls
+ texmf-dist/tex/latex/hc/hcreport.cls
+ texmf-dist/tex/latex/hc/hcslides.cls
+catalogue-ctan /macros/latex/contrib/hc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics class presentation letter

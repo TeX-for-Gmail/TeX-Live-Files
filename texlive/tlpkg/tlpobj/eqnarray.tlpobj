@@ -1,0 +1,22 @@
+name eqnarray
+category Package
+revision 20641
+shortdesc More generalised equation arrays with numbering
+longdesc Defines an equationarray environment, that allows more than
+longdesc three columns, but otherwise behaves like LaTeX's eqnarray
+longdesc environment. This environment is similar, in some ways, to the
+longdesc align environment of amsmath. The package requires the array
+longdesc package.
+containersize 2196
+containerchecksum f5abd20910152cf65d92c7e44930729c1052f72441f162de2f4ad869f0ff37b669066f43089a1369298e9ebdb536ed62d437b3f34be5b3e417d8b0bf34d9c870
+doccontainersize 101768
+doccontainerchecksum 7ea3d87f81eca28dd52f9e9cf4f7df1ce4f7b9cd82cc40d0a7fff234415b2a3e033fa1c8a11594b2c08e5edf87ae265e5f7a65eb92a79cd523568f37853de30a
+srccontainersize 5628
+srccontainerchecksum 9dd02c43fca4f6e8dba0bd44292c8f97aef4cbf39d521b9df10206a2309e82492f344fb65c35ac0509532e9efb2571aecb2a5894e639de5efa1444bba9916587
+runfiles size=2
+ texmf-dist/tex/latex/eqnarray/eqnarray.sty
+catalogue-ctan /macros/latex/contrib/eqnarray
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics maths maths-syseqn
+catalogue-version 1.3

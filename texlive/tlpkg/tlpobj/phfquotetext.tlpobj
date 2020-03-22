@@ -1,0 +1,24 @@
+name phfquotetext
+category Package
+revision 41869
+shortdesc Quote verbatim text without white space formatting
+longdesc This package provides an environment for displaying block text
+longdesc with special characters, such as verbatim quotes from a referee
+longdesc report which may contain pseudo-(La)TeX code. This behaves like
+longdesc a verbatim environment, except that it displays its content as
+longdesc normal paragraph content, ignoring any white space
+longdesc preformatting.
+containersize 1340
+containerchecksum 809820fd3108cb5b33c5f3129fb3ae8251476161aca5936b966219a49a29204107375a33e6bfc452d2aef8b0cefb30f8ab0e53984f39d5c3228ded25ca19c37e
+doccontainersize 199404
+doccontainerchecksum 501d652782670318fdb45368e01dbf76de7cb46f0f1584bc7dbf1242a71a42e7bc870c5cbf7dcb33d41463c550a0803226860a0aa64e75952f717436e8f6501a
+srccontainersize 4808
+srccontainerchecksum fa812150acf519ca0995afeb9b3dde9c1929b945bb964612319f7065c6c303641e2a245397e7271eb777af9f6cfd310ca1ec7f9974c0bf9c329a0f006df2b9dc
+runfiles size=1
+ texmf-dist/tex/latex/phfquotetext/phfquotetext.sty
+catalogue-contact-repository https://github.com/phfaist/phfqitltx
+catalogue-ctan /macros/latex/contrib/phfquotetext
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics verbatim
+catalogue-version 1.0

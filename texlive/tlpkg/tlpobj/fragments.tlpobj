@@ -1,0 +1,25 @@
+name fragments
+category Package
+revision 15878
+shortdesc Fragments of LaTeX code
+longdesc A collection of fragments of LaTeX code, suitable for inclusion
+longdesc in packages, or (possibly) in users' documents. Included are:
+longdesc checklab, for modifying the label checking code at
+longdesc \end{document}; overrightarrow, defining a doubled over-arrow
+longdesc macro; removefr, for removing 'reset' relations between
+longdesc counters; and subscript, defining a \textsubscript command.
+containersize 2236
+containerchecksum adab94e7cc71c6ed2d881d13254793df16eaa08d1e37e4d3f0344e7a56cf08a4ffdca784871e8939f5db8e868b7166846843492ced0071c9dfbf56e39d20ec0e
+doccontainersize 484
+doccontainerchecksum dcf795392d989fdea695512c8f7011f783ea9091bfcc238ad296b0cdf1775bcf631c3097ede09a138117e39c7fa71da7eb355878c8389bdab2deb76a319102e1
+runfiles size=4
+ texmf-dist/tex/latex/fragments/checklab.tex
+ texmf-dist/tex/latex/fragments/overrightarrow.sty
+ texmf-dist/tex/latex/fragments/removefr.tex
+ texmf-dist/tex/latex/fragments/subscript.sty
+catalogue-contact-repository https://github.com/rf-latex/fragments
+catalogue-contact-support https://github.com/rf-latex/fragments/issues
+catalogue-ctan /macros/latex/contrib/fragments
+catalogue-date 2018-09-13 20:21:43 +0200
+catalogue-license collection
+catalogue-topics collection

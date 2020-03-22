@@ -1,0 +1,23 @@
+name jura
+category Package
+revision 15878
+shortdesc A document class for German legal texts
+longdesc Implements the standard layout for German term papers in law
+longdesc (one-and-half linespacing, 7 cm margins, etc.). Includes
+longdesc alphanum that permits alphanumeric section numbering (e.g., A.
+longdesc Introduction; III. International Law).
+containersize 4016
+containerchecksum 08426bab6c0627e945d620a338c6081a8a21d80567d4a4b686617d0d57c99b1e148f5e5c3406a0337ee4ad61bd795dca353c28b0f33d397c5b47515969fa5951
+doccontainersize 216560
+doccontainerchecksum 4d19c663f73791712d9c24361d8e2a0c2faf25bdac15dcce48825f02468f6a798eff7e147f531368bcc8d7e2a1938202b5614e2434cd46866f359f8349564adc
+srccontainersize 17700
+srccontainerchecksum 7c83d639330c1bd405b2439b5e85dd723f476f8ed5096c8085180f03d63ffdeb834639fc8a49a454d50df9f882f27dd42782741fed89f8bafe45b6222bd43239
+runfiles size=4
+ texmf-dist/tex/latex/jura/alphanum.sty
+ texmf-dist/tex/latex/jura/jura.cls
+catalogue-also juramisc alnumsec jurabib
+catalogue-ctan /macros/latex/contrib/jura
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics dissertation legal german class
+catalogue-version 4.3

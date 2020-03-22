@@ -1,0 +1,18 @@
+name shadowtext
+category Package
+revision 26522
+shortdesc Produce text with a shadow behind it
+longdesc The package introduces a command \shadowtext, which adds a drop
+longdesc shadow to the text that is given as its argument. The colour
+longdesc and positioning of the shadow are customisable.
+containersize 1484
+containerchecksum 59ab708b0f8987838cafe864cdcd68aad5aceb7cb4b3ab2b479ec4fbd15e268ba4fdd1b0143b7c247cc186a825d99ad810839221a391eafd5146f0a46865e23d
+doccontainersize 145128
+doccontainerchecksum a89bd6ab160e364af06e26d9bbb88988c286befb5dfe4e4bdfc7c511811ef4a1ef630708d4a7ff32cb0ab6831dbee54d49a84376ee9366bd422d5689d86db404
+runfiles size=1
+ texmf-dist/tex/latex/shadowtext/shadowtext.sty
+catalogue-ctan /macros/latex/contrib/shadowtext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics decoration
+catalogue-version 0.3

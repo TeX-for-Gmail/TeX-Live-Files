@@ -1,0 +1,29 @@
+name texdraw
+category Package
+revision 50660
+shortdesc Graphical macros, using embedded PostScript
+longdesc TeXdraw is a set of macro definitions for TeX, which allow the
+longdesc user to produce PostScript drawings from within TeX and LaTeX.
+longdesc TeXdraw has been designed to be extensible. Drawing 'segments'
+longdesc are relocatable, self-contained units. Using a combination of
+longdesc the TeX's grouping mechanism and the gsave/grestore mechanism
+longdesc in PostScript, drawing segments allow for local changes to the
+longdesc scaling and line parameters. Using TeX's macro definition
+longdesc capability, new drawing commands can be constructed from
+longdesc drawing segments.
+containersize 18184
+containerchecksum 8e2e28ff2eff54155713b1b679268df1abf11b51cee29cbe73de9431c48248a98ce55b51197e4be6c1dcd7412c5c3135436a30adde0f8c636e921f13f3bacc45
+doccontainersize 242804
+doccontainerchecksum 3093c5756761e7f139ec34230e60c7d5daa37ea9890b83644cfbe3c6251e44fb01d4a84bc02568a258f206c20500fd5139c15efb0999d65233ca55628cc21412
+runfiles size=26
+ texmf-dist/tex/generic/texdraw/blockdiagram.tex
+ texmf-dist/tex/generic/texdraw/texdraw.sty
+ texmf-dist/tex/generic/texdraw/texdraw.tex
+ texmf-dist/tex/generic/texdraw/txdexamp.latex
+ texmf-dist/tex/generic/texdraw/txdexamp.tex
+ texmf-dist/tex/generic/texdraw/txdps.tex
+ texmf-dist/tex/generic/texdraw/txdtools.tex
+catalogue-ctan /graphics/texdraw
+catalogue-date 2019-03-30 09:24:26 +0100
+catalogue-license cc-by-4
+catalogue-topics graphics-in-tex

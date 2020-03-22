@@ -1,0 +1,15 @@
+name colorinfo
+category Package
+revision 15878
+shortdesc Retrieve colour model and values for defined colours
+containersize 2020
+containerchecksum 63bfe1dcdfd85dd1d7d3c7c8d3d345f221bc90bd34bd75888c361d4de97633b9c14d96930b41adf63370403c858f754e740c53d8100b9eb3c5557dd66e6876b3
+doccontainersize 784
+doccontainerchecksum d871a76648cd57af0bd6bd800ee8673ff07b2572ea514a3806731713d9ec4ab368fba2cf540ba71005300d4e02beb180f8eba82c0b060bcaa7a60e54ae601df1
+runfiles size=2
+ texmf-dist/tex/latex/colorinfo/colorinfo.sty
+catalogue-ctan /macros/latex/contrib/colorinfo
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license lppl
+catalogue-topics colour
+catalogue-version 0.3c

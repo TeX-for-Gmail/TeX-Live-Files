@@ -1,0 +1,27 @@
+name umlaute
+category Package
+revision 15878
+shortdesc German input encodings in LaTeX
+longdesc An early package for using alternate input encodings. The
+longdesc author considers the package mostly obsolete, since most of its
+longdesc functions are taken by the inputenc package; however, inputenc
+longdesc doesn't support the roman8 and atari encodings, so umlaute
+longdesc remains the sole source of that support.
+containersize 2884
+containerchecksum 35188d3930b11c0d1b52a5032bcf9cea21a22ce8ca2930f69ad4ab54bcdf56b73858168cc62581aac1173452dd0f7d0da3de8ac21b0ca2255ef324ff63c89091
+doccontainersize 106300
+doccontainerchecksum 89f28b3b90f63ea4f367019f0b65aa1f8e9489ff0d897af6ea29b7455948e3e75ef003a5a2d5b4a88e00a5e415d409a577c03b63a330f93ed6804c99f951c68e
+srccontainersize 5732
+srccontainerchecksum 494ee6d1432d783f9586c80cee044e2857d4d24358c7dcb7d3043945bb3f5331b8eee78a13ee759ed6260518dcdebab33d78bab4cec5d384c4773b502c96fb0b
+runfiles size=8
+ texmf-dist/tex/latex/umlaute/atari.def
+ texmf-dist/tex/latex/umlaute/isolatin.def
+ texmf-dist/tex/latex/umlaute/mac.def
+ texmf-dist/tex/latex/umlaute/pc850.def
+ texmf-dist/tex/latex/umlaute/roman8.def
+ texmf-dist/tex/latex/umlaute/umlaute.sty
+catalogue-ctan /macros/latex/contrib/umlaute
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics inputenc
+catalogue-version 2.1

@@ -1,0 +1,24 @@
+name interval
+category Package
+revision 50265
+shortdesc Format mathematical intervals, ensuring proper spacing
+longdesc When typing an open interval as $]a,b[$, a closing bracket is
+longdesc being used in place of an opening fence and vice versa. This
+longdesc leads to the wrong spacing in, say, $]-a,b[$ or $A\in]a,b[=B$.
+longdesc The package attempts to solve this using: \interval{a}{b} ->
+longdesc [a,b] \interval[open]{a}{b} -> ]a,b[ \interval[open left]{a}{b}
+longdesc -> ]a,b] The package also supports fence scaling and ensures
+longdesc that the enclosing fences will end up having the proper closing
+longdesc and opening types. TeX maths does not do this job properly. The
+longdesc package depends on pgfkeys.
+containersize 1620
+containerchecksum 2a2fe0ebdc4754ca74962270ec48c69e6574c13e446628f34604b13584e7b14ff33add55744f03a1d28443b5ae87ba79926816bf44781951a729913ceeb4d6c9
+doccontainersize 325808
+doccontainerchecksum 22dcf2288d7f888e76967209ef1fd31bef66dcb9784a45126a945c4a0ea302c67ab4a35bd864355b29679131cf2cf36fc6172017599ccf3025c4ae1537362b9b
+runfiles size=1
+ texmf-dist/tex/latex/interval/interval.sty
+catalogue-ctan /macros/latex/contrib/interval
+catalogue-date 2019-03-06 17:01:59 +0100
+catalogue-license lppl1.3
+catalogue-topics maths paren-mgmt
+catalogue-version 0.4

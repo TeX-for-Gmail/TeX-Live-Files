@@ -1,0 +1,19 @@
+name williams
+category Package
+revision 15878
+shortdesc Miscellaneous macros by Peter Williams
+longdesc The bundle provides two packages: antree, which provides macros
+longdesc for annotated node trees, and toklist, which is an
+longdesc implementation of Knuth's token list macros, to be found on
+longdesc pp.378-379 of the TeXbook.
+containersize 2472
+containerchecksum 44ef966e5d8535aa7bb32109b20f47c774995e6368a92e20a68d25c1694ad86b7007bc90877d276c2f15b8aa3c3d11f7fe6aa117c35265b5988205df869af11b
+doccontainersize 792
+doccontainerchecksum c559e587868698c1a635db13b6db265234b3b475937fa1759f9e7e3a8d0644a43543005e9607b5a965bbdc304863d6c7cae6e5cb8345b546dc34afd8c7e2de43
+runfiles size=3
+ texmf-dist/tex/latex/williams/antree.sty
+ texmf-dist/tex/latex/williams/toklist.sty
+catalogue-ctan /macros/latex/contrib/williams
+catalogue-date 2018-12-23 11:59:20 +0100
+catalogue-license lppl
+catalogue-topics tree macro-supp

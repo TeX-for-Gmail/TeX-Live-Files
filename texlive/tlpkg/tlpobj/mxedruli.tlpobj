@@ -1,0 +1,57 @@
+name mxedruli
+category Package
+revision 30021
+shortdesc A pair of fonts for different Georgian alphabets
+longdesc Two Georgian fonts, in both Metafont and Type 1 formats, which
+longdesc cover the Mxedruli and the Xucuri alphabets.
+execute addMap mxedruli.map
+containersize 138692
+containerchecksum f721b48b71ae2eb74104e23989cae84d3316b322ebff4703d9bddf74e0ddacf742e279813977bf29883fd17f01049112169d02aa3e4a9be887c049f8484ca0fe
+doccontainersize 308524
+doccontainerchecksum ea9de17ac138af2fdfbd624e0c516faa2eca674ae1c423cc7f972f87c1bfbd37812e199f68b463c07213fa263636490b7207baf68506514f73fdef1d6c041a49
+runfiles size=112
+ texmf-dist/fonts/afm/public/mxedruli/mxed10.afm
+ texmf-dist/fonts/afm/public/mxedruli/mxedbf10.afm
+ texmf-dist/fonts/afm/public/mxedruli/mxedc10.afm
+ texmf-dist/fonts/afm/public/mxedruli/mxedi10.afm
+ texmf-dist/fonts/afm/public/mxedruli/xuc10.afm
+ texmf-dist/fonts/map/dvips/mxedruli/mxedruli.map
+ texmf-dist/fonts/source/public/mxedruli/mxed.mf
+ texmf-dist/fonts/source/public/mxedruli/mxed10.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedacc.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedbase.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedbf10.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedc10.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedcaps.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedd.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedfont.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedi10.mf
+ texmf-dist/fonts/source/public/mxedruli/mxedp.mf
+ texmf-dist/fonts/source/public/mxedruli/xuc.mf
+ texmf-dist/fonts/source/public/mxedruli/xuc10.mf
+ texmf-dist/fonts/source/public/mxedruli/xucbase.mf
+ texmf-dist/fonts/source/public/mxedruli/xucd.mf
+ texmf-dist/fonts/source/public/mxedruli/xucfont.mf
+ texmf-dist/fonts/source/public/mxedruli/xucl.mf
+ texmf-dist/fonts/source/public/mxedruli/xucp.mf
+ texmf-dist/fonts/tfm/public/mxedruli/mxed10.tfm
+ texmf-dist/fonts/tfm/public/mxedruli/mxedbf10.tfm
+ texmf-dist/fonts/tfm/public/mxedruli/mxedc10.tfm
+ texmf-dist/fonts/tfm/public/mxedruli/mxedi10.tfm
+ texmf-dist/fonts/tfm/public/mxedruli/xuc10.tfm
+ texmf-dist/fonts/type1/public/mxedruli/mxed10.pfb
+ texmf-dist/fonts/type1/public/mxedruli/mxedbf10.pfb
+ texmf-dist/fonts/type1/public/mxedruli/mxedc10.pfb
+ texmf-dist/fonts/type1/public/mxedruli/mxedi10.pfb
+ texmf-dist/fonts/type1/public/mxedruli/xuc10.pfb
+ texmf-dist/tex/latex/mxedruli/mxedruli.sty
+ texmf-dist/tex/latex/mxedruli/umxed.fd
+ texmf-dist/tex/latex/mxedruli/uxuc.fd
+ texmf-dist/tex/latex/mxedruli/xucuri.sty
+catalogue-also georgian-stanier
+catalogue-contact-home http://heinecke.pagesperso-orange.fr/mxedruli/
+catalogue-ctan /fonts/georgian/mxedruli
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics georgian font font-type1 font-mf
+catalogue-version 3.3c

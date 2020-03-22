@@ -1,0 +1,21 @@
+name bropd
+category Package
+revision 35383
+shortdesc Simplified brackets and differentials in LaTeX
+longdesc The package simplifies the process of writing differential
+longdesc operators and brackets in LaTeX. The commands facilitate the
+longdesc easy manipulation of equations involving brackets and allow
+longdesc partial differentials to be expressed in an alternate form.
+containersize 1720
+containerchecksum d6bcf207cddeb6115cab45eab12d48326f067df2fec21386ca29282ccd484e572ee4b5420473079b033bf2b085e134fb42b76b3f18d5b56b47ad765c62b07023
+doccontainersize 61592
+doccontainerchecksum b9ed0de353b0b0e6d7c8e48f3a20c5ee88a0ee9fb1873ced88e89b9c4d73b20701add802442e69aecc419a2c6f433ca12ccea9130abcf895a5568f7b2d66d6a2
+srccontainersize 4136
+srccontainerchecksum b33ad62f68eb425381db0c6724fbcea32b1e37f8dace6737af6e996b7103d19eadabf60873ff367feb9c3a69743d219ce41d5274b8c533d5b5323a971d01a06f
+runfiles size=1
+ texmf-dist/tex/latex/bropd/bropd.sty
+catalogue-ctan /macros/latex/contrib/bropd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 1.2

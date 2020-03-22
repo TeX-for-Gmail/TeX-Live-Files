@@ -1,0 +1,21 @@
+name textopo
+category Package
+revision 23796
+shortdesc Annotated membrane protein topology plots
+longdesc A LaTeX package for setting shaded and annotated membrane
+longdesc protein topology plots and helical wheels.
+containersize 31844
+containerchecksum 89a415b1040ff44f62c452e61abf9a5760929953ff0a4740080f79e8343b2b4f4eef9340e5a83fded39a000947dbe7f2916fb18624c4512c5ab58171708de268
+doccontainersize 578472
+doccontainerchecksum 80bd54a9843fae371884b87710094f72926d5ad8a7e40308e9aa753b01533d3e649ff94831ea75aed264b5f9f5df482e157a1563dc85ab2976cbf9260425c5ce
+srccontainersize 81908
+srccontainerchecksum d426490fee0b747726dfd7df1f6f72677c9aee3d8ba56ec04dd55037aef563297d16d08a821c2e9a1493c5c29ad6b52c5af23b6bb1f4adec754bf530beb81571
+runfiles size=67
+ texmf-dist/tex/latex/textopo/biotex.sty
+ texmf-dist/tex/latex/textopo/textopo.def
+ texmf-dist/tex/latex/textopo/textopo.sty
+catalogue-ctan /macros/latex/contrib/textopo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics molbio chemistry
+catalogue-version 1.5

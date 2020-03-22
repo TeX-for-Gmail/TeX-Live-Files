@@ -1,0 +1,18 @@
+name newenviron
+category Package
+revision 29331
+shortdesc Processing an environment's body
+longdesc The package offers tools for collecting and executing an
+longdesc environment's body.
+containersize 2488
+containerchecksum 4ddcc24de158fb1a5b585c65adf769c3f92c4598355306e08257f4ef62718c6ca7f2dea80d742759601b37133a951d031445a39ed5d8062496459cc2f98a71b4
+doccontainersize 1632
+doccontainerchecksum cadfcd8ecc9c0904bc9a45542a24c1b6907dabacc94f45a1ed1b885557304a27e7e836b55cbebcc6130da0bffeff7c56fd89f0b7a16430dacccd670c8c6ddc7b
+runfiles size=2
+ texmf-dist/tex/latex/newenviron/newenviron.sty
+catalogue-also environ
+catalogue-ctan /macros/latex/contrib/newenviron
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.0

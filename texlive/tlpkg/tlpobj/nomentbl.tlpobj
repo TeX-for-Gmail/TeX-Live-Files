@@ -1,0 +1,21 @@
+name nomentbl
+category Package
+revision 16549
+shortdesc Nomenclature typeset in a longtable
+longdesc Nomentbl typeset nomenclatures in a longtable instead of the
+longdesc makeindex style of nomencl. A nomenclature entry may have three
+longdesc arguments: Symbol, description and physical unit.
+containersize 2456
+containerchecksum 195cd134db2faf9c7405d040d0d3b4a71ec39ac201fad47c855d34d8f734d069c03424ddec6b1af978e7b244b3907f846fbd80fff6063e7b25df3de508fc51ed
+doccontainersize 174560
+doccontainerchecksum 4ea606a78da4c0c4f5c35b38b9a430de8dcea49c8662081a85f3aa575523c40f5951bd54e2c8acb368b52f75a3214c0a4b0d178dc262a64b8f6485852c4458ba
+srccontainersize 6048
+srccontainerchecksum 5cf26c7871ccb841bb8350d594ed9333d7b46c7d2e3db70080ce743fdfd7c7fbfa3c8f7f976bf8f37decc653e54954a5e0a90385fb99ac3428a8dea4a5311719
+runfiles size=3
+ texmf-dist/makeindex/nomentbl/nomentbl.ist
+ texmf-dist/tex/latex/nomentbl/nomentbl.sty
+catalogue-ctan /macros/latex/contrib/nomentbl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics glossary
+catalogue-version 0.4

@@ -1,0 +1,22 @@
+name wnri-latex
+category Package
+revision 22338
+shortdesc LaTeX support for wnri fonts
+longdesc LaTeX support for the wnri fonts.
+containersize 2664
+containerchecksum 1dcecf9ac38a9099625ed6be3955af8b063ee5b5b8d0d3e3ab8c94a8215b72b86a0b5dbe930eb69680917bd3d6652b3f4f08bb377197ab6f3d2fccf2b96aa59e
+doccontainersize 198684
+doccontainerchecksum 924266d547910d25ed5355ec2ef697d271dd992aeb6767d5bcb703d4d07cd34b6844e9a821ed93f5a04237aba1c185fb68926967e78043f390785b619c2389d2
+srccontainersize 4364
+srccontainerchecksum e3c5cfaae7b14a28489344392d66a1e2570c900ffd571c54b4f2d13b16d6dabb5cf58cad9259f8b662a218567982d1ac51ef8b2a757902c36540200fd984a497
+runfiles size=7
+ texmf-dist/tex/latex/wnri-latex/ot1wnr.fd
+ texmf-dist/tex/latex/wnri-latex/ot1wnss.fd
+ texmf-dist/tex/latex/wnri-latex/ot1wntt.fd
+ texmf-dist/tex/latex/wnri-latex/wnri.def
+ texmf-dist/tex/latex/wnri-latex/wnri.sty
+catalogue-ctan /macros/latex/contrib/wnri-latex
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl2
+catalogue-topics font-supp
+catalogue-version 1.0b

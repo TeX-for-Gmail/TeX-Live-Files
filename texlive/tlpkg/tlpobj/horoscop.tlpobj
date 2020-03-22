@@ -1,0 +1,23 @@
+name horoscop
+category Package
+revision 30530
+shortdesc Generate astrological charts in LaTeX
+longdesc The horoscop package provides a unified interface for
+longdesc astrological font packages; typesetting with pict2e of standard
+longdesc wheel charts and some variations, in PostScript- and
+longdesc PDF-generating TeX engines; and access to external calculation
+longdesc software (Astrolog and Swiss Ephemeris) for computing object
+longdesc positions.
+containersize 10008
+containerchecksum 077b7bc742d0526daf7380a080e640de72d61d5e65cac441d3291e1dfee8c0240be8817328e7080fe410fca9ebc8b5d13e8719ed48bd7d412485d7c5d2f67ce0
+doccontainersize 682340
+doccontainerchecksum b7cfdfb772f5423fe4cdcd914a4b0934162ea33542a773b14d91d057efcd05b7febfff46decc3760512b0df95f52180a4de0dea2f0dcc4b504945ee572f832a7
+srccontainersize 71588
+srccontainerchecksum 2e132bba43dce98d65a717f755062ed6f63ecc0775134562d1061fc28d7776fb02baf7502273d1e825306a8a19eecd4d4e94d4603687ebc0df1923b27a213cb1
+runfiles size=14
+ texmf-dist/tex/latex/horoscop/horoscop.sty
+catalogue-ctan /macros/latex/contrib/horoscop
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics astrology
+catalogue-version 0.92

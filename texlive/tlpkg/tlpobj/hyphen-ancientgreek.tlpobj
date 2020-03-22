@@ -1,0 +1,25 @@
+name hyphen-ancientgreek
+category TLCore
+revision 50805
+shortdesc Ancient Greek hyphenation patterns.
+longdesc Hyphenation patterns for Ancient Greek in LGR and UTF-8
+longdesc encodings, including support for (obsolete) Ibycus font
+longdesc encoding. Patterns in UTF-8 use two code positions for each of
+longdesc the vowels with acute accent (a.k.a tonos, oxia), e.g., U+03AE,
+longdesc U+1F75 for eta.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=ancientgreek 	lefthyphenmin=1 	righthyphenmin=1 	file=loadhyph-grc.tex 	file_patterns=hyph-grc.pat.txt 	file_exceptions=
+execute AddHyphen 	name=ibycus 	lefthyphenmin=2 	righthyphenmin=2 	file=ibyhyph.tex 	luaspecial="disabled:8-bit only"
+containersize 38784
+containerchecksum 3c5ef97a9aba775d23a04a61bca2f70f6ce89d50e5862b19b131360b8df3ab92f4607eb758c58b2c5d2141bb7ca8b0c43d42a9a0f0c3e5e5293e51a42d5e7b20
+runfiles size=57
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-grc.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-grc-x-ibycus.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-grc.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-grc.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-grc.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-grc.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-grc.pat.txt
+ texmf-dist/tex/generic/hyphen/grahyph5.tex
+ texmf-dist/tex/generic/hyphen/ibyhyph.tex

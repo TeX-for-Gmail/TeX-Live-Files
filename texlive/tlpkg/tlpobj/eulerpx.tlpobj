@@ -1,0 +1,25 @@
+name eulerpx
+category Package
+revision 43735
+shortdesc A modern interface for the Euler math fonts
+longdesc This package provides the "eulerpx" font, which started as a
+longdesc hybrid of multiple other font packages, notably eulervm and
+longdesc newpxmath. Its purpose is twofold: To use the eulervm symbols
+longdesc for greek and latin, but the newpxmath font for braces and
+longdesc brackets, and the text font for digits and operators; and to
+longdesc make it easy to change between a sans and a serif font for the
+longdesc digits and operators so that the font can be used seamlessly in
+longdesc documents using both. This package was put together with the
+longdesc intent to use it with the Palatino and Optima fonts, but it may
+longdesc work with other combinations, too.
+containersize 2220
+containerchecksum 1dd4c01260b9f2cf7053d7867530b1383a1b1218719a5a58895bb56e61416f9a93199218670e88cb59f0d87e65efdd7f10a218b45a165894c13b99330797296b
+doccontainersize 1960
+doccontainerchecksum d755e9694d0631e80ccf81f78a2832ae22269ded788fd30f0acd83a4044ddb4ee4308c26ae5f79c0510a2986f146d28847eabe200015bb197805d57d149ba20e
+runfiles size=2
+ texmf-dist/tex/latex/eulerpx/eulerpx.sty
+catalogue-ctan /fonts/eulerpx
+catalogue-date 2017-10-09 07:42:22 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp
+catalogue-version 0.2.1

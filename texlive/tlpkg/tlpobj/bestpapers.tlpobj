@@ -1,0 +1,28 @@
+name bestpapers
+category Package
+revision 38708
+shortdesc A BibTeX package to produce lists of authors' best papers
+longdesc Many people preparing their resumes find the requirement
+longdesc "please list five (or six, or ten) papers authored by you". The
+longdesc same requirement is often stated for reports prepared by
+longdesc professional teams. The creation of such lists may be a
+longdesc cumbersome task. Even more difficult is it to support such
+longdesc lists over the time, when new papers are added. The BibTeX
+longdesc style bestpapers.bst is intended to facilitate this task. It is
+longdesc based on the idea that it is easier to score than to sort: We
+longdesc can assign a score to a paper and then let the computer select
+longdesc the papers with highest scores. This work was commissioned by
+longdesc the Consumer Financial Protection Bureau, United States
+longdesc Treasury. This package is in the public domain.
+containersize 7456
+containerchecksum d015369a268cff98571985f319f95df9ffe0255ad222e8c8133252c3ab5537cfc4c3ea11aab13a565c096e92472d7724c0ef23ce6a71f62c7a5fc2b30382a054
+doccontainersize 176932
+doccontainerchecksum cb5e9bbcc83b6081dd0207001d1b39c6e089e2ae168f20d1cc87482560a483e4ea195fbf208c342ba691d3c85ea9f4674b2eb6cf68db9f9d83d3b98bbab60dc3
+runfiles size=9
+ texmf-dist/bibtex/bst/bestpapers/bestpapers-export.bst
+ texmf-dist/bibtex/bst/bestpapers/bestpapers.bst
+catalogue-ctan /biblio/bibtex/contrib/bestpapers
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics bibtex-sty
+catalogue-version 1.0

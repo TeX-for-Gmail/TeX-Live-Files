@@ -1,0 +1,27 @@
+name lni
+category Package
+revision 50754
+shortdesc Official class for the "Lecture Notes in Informatics"
+longdesc This is the official version of the class "lni" for submissions
+longdesc to the Lecture Notes in Informatics published by the
+longdesc Gesellschaft fur Informatik. To use it, download the file
+longdesc lni-author-template.tex and edit it in your favorite LaTeX
+longdesc editor.
+containersize 11648
+containerchecksum 388109e3e6dd7eeba8cdebd9af9ec172ea0939f890f3120443130908fe57d33bf3cbb6858174c4417d4ab44585153bc953c8e1c509da7bc9cfbc6b11b7cea0c8
+doccontainersize 361576
+doccontainerchecksum 60ecf7795b1077754b05b4251bec6614fec3daf7e9abbcb7ff6aad83585aadff953a03ec3ab34e7bcf343e4c6ff91773b5d2a6e532468cecd37dbc93321fc07b
+srccontainersize 24320
+srccontainerchecksum 3249c4fa191992f32396bd96c292e90e85cd5754ff8ceac76a110dc03e749151f962f7c69464704878780d0d44c85c7c14a9bcea9fc636e324fd719b79a6546e
+runfiles size=17
+ texmf-dist/bibtex/bst/lni/lni.bst
+ texmf-dist/bibtex/bst/lni/lnig.bst
+ texmf-dist/tex/latex/lni/lni.cls
+catalogue-also biblatex-lni
+catalogue-contact-bugs https://github.com/gi-ev/LNI/issues
+catalogue-contact-repository https://github.com/gi-ev/LNI
+catalogue-ctan /macros/latex/contrib/lni
+catalogue-date 2019-04-04 10:35:48 +0200
+catalogue-license lppl1.3c
+catalogue-topics journalpub class
+catalogue-version 1.5

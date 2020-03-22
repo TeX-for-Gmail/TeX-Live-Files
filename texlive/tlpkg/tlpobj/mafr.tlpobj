@@ -1,0 +1,22 @@
+name mafr
+category Package
+revision 15878
+shortdesc Mathematics in accord with French usage
+longdesc The package provides settings and macros for typesetting
+longdesc mathematics with LaTeX in compliance with French usage. It
+longdesc comes with two document classes, 'fiche' and 'cours', useful to
+longdesc create short high school documents such as tests or lessons.
+longdesc The documentation is in French.
+containersize 2196
+containerchecksum 802d108e7deaaa1a42b7f1eca5059f9547f0f4edb2eb5f8f3f0b68d03c05662f37d2bf7b25844dcec6b89d6d1f0babe93614cbc87fe1e2ca0ac2153602c0cad7
+doccontainersize 60024
+doccontainerchecksum 5e3a0c42944944fc467e09751c1881dfd16ee526c78e509acbad394725703771893770d11e5aa16b09b6b5d1059331b72ce0f1e85c6ec61677d101276398624c
+runfiles size=3
+ texmf-dist/tex/latex/mafr/cours.cls
+ texmf-dist/tex/latex/mafr/fiche.cls
+ texmf-dist/tex/latex/mafr/mafr.sty
+catalogue-ctan /macros/latex/contrib/mafr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths french exercise
+catalogue-version 1.0

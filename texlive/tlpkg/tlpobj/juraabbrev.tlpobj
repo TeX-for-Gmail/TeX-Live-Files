@@ -1,0 +1,23 @@
+name juraabbrev
+category Package
+revision 15878
+shortdesc Abbreviations for typesetting (German) juridical documents
+longdesc This package should be helpful for people working on (German)
+longdesc law. It helps you to handle abbreviations and creates a list of
+longdesc those (pre-defined) abbreviations that have actually been used
+longdesc in the document
+containersize 3248
+containerchecksum 4d6fd00247c6c915956679674dd029048cb96ac3bc97606c0a299bbaff24a4cbb9440d557eb2945151720265ecb27bf15c638c003e1039dafee56471dfa03945
+doccontainersize 447500
+doccontainerchecksum ede48ff67dacf107baf50be345b042a7b64c815442875281241b7de4c3be56ec40c969e40ec69669f31058bbbe9b27c51cae25938d93bec99a8c57dfb8e9cb75
+srccontainersize 15500
+srccontainerchecksum 3a92a5231317d6f7d7b1afdf5df14997e17217e10b694ad97a9a2f3984b0afdfe5a3edeb4368108e4fb389a98a7f5414409e5fc7d319f4c78802cdc1a350d6a2
+runfiles size=4
+ texmf-dist/makeindex/juraabbrev/laws.ist
+ texmf-dist/tex/latex/juraabbrev/juraabbrev.4ht
+ texmf-dist/tex/latex/juraabbrev/juraabbrev.sty
+catalogue-also jurarsp
+catalogue-ctan /macros/latex/contrib/juraabbrev
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics legal german

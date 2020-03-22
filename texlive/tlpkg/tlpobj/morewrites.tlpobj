@@ -1,0 +1,28 @@
+name morewrites
+category Package
+revision 49531
+shortdesc Always room for a new write stream
+longdesc The package aims to solve the error "No room for a new \write",
+longdesc which occurs when the user, or when the user's packages have
+longdesc 'allocated too many streams' using \newwrite (TeX has a fixed
+longdesc maximum number - 16 - such streams built-in to its code). The
+longdesc package hooks into TeX primitive commands associated with
+longdesc writing to files; it should be loaded near the beginning of the
+longdesc sequence of loading packages for a document. The package uses
+longdesc the l3kernel bundle.
+containersize 5460
+containerchecksum fb1f515fa834c422f628464467411a51c8c9a99f353ab297ca0ac0b63d65a7f2e05ec3e6a649fa35260a6bedb91dedda594654e83e94a28baa62764a38d9ca8c
+doccontainersize 1234300
+doccontainerchecksum 9f4bad59ec0f024d24956481d2f70baa56748c9deb000979490c001cd671dd07fc3712eca1917713775d6b879169050786b22a76e2ce1d8d57a99cd76487d167
+srccontainersize 19712
+srccontainerchecksum 21a6606687ac53e218408cc5790c1b93c9db3cef7b1f17fbfe574ee2f1a1c48e5c21a00d7b4f44f6fc1b98bd77af032be97c1cf48571bc439ee20fa6367d3bf1
+runfiles size=8
+ texmf-dist/tex/latex/morewrites/morewrites.sty
+ texmf-dist/tex/latex/morewrites/primargs.sty
+catalogue-also rvwrite
+catalogue-contact-bugs https://github.com/blefloch/latex-morewrites/issues
+catalogue-contact-repository https://github.com/blefloch/latex-morewrites
+catalogue-ctan /macros/latex/contrib/morewrites
+catalogue-date 2018-12-29 17:13:03 +0100
+catalogue-license lppl1.3c
+catalogue-topics io-mgmt

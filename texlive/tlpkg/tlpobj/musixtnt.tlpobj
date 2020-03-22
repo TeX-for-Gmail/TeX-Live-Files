@@ -1,0 +1,32 @@
+name musixtnt
+category Package
+revision 40307
+shortdesc A MusiXTeX extension library that enables transformations of the effect of notes commands
+longdesc The package includes an archive containing a MusiXTeX extension
+longdesc library musixtnt and C source code, binaries for Windows (32
+longdesc bit and 64 bit) and MacOSX, and documentation for two programs:
+longdesc fixmsxpart and msxlint. musixtnt.tex provides a macro
+longdesc \TransformNotes that enables transformations of the effect of
+longdesc notes commands such as \notes. In general, the effect of
+longdesc \TransformNotes{input}{output} is that notes commands in the
+longdesc source will expect their arguments to match the input pattern,
+longdesc but the notes will be typeset according to the output pattern.
+longdesc An example is extracting single-instrument parts from a
+longdesc multi-instrument score. fixmsxpart corrects note spacing in a
+longdesc single-part MusiXTeX source (possibly derived from a
+longdesc multi-instrument score and as a result having irregular note
+longdesc spacing). msxlint detects incorrectly formatted notes lines in
+longdesc a MusiXTeX source file. This should be used before using
+longdesc \TransformNotes.
+depend musixtex
+depend musixtnt.ARCH
+containersize 1480
+containerchecksum eab6332d626f199e46dcd03ea546abbc4446b41c4b0354c066790ebfde154c6fa90f861dcff77206318b58a31565d884576899629520e78b3285bac673d1f4bf
+doccontainersize 119400
+doccontainerchecksum 2da473ad2425064747187da005e01d6844731c536b75095828a85d358ffb1344331ef483c0cebe79b346b4fa96a358a1e416cce7d7cfcce6b1242cf3c0a3645e
+runfiles size=1
+ texmf-dist/tex/generic/musixtnt/musixtnt.tex
+catalogue-ctan /macros/musixtnt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics music

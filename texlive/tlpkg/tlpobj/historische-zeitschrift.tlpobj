@@ -1,0 +1,25 @@
+name historische-zeitschrift
+category Package
+revision 42635
+shortdesc BibLaTeX style for the journal 'Historische Zeitschrift'
+longdesc The package provides citations according with the house style
+longdesc of the 'Historische Zeitschrift', a German historical journal.
+longdesc The scheme is a fullcite for the first citation and 'Author,
+longdesc Shorttitle (as note N, P)' for later citations (P being the
+longdesc page number). For further details, see the description of the
+longdesc house style at the journal's site. The package depends on
+longdesc BibLaTeX (version 3.3 or higher) as well as etoolbox (version
+longdesc 1.5 or higher).
+containersize 5372
+containerchecksum da501792653c77f7cdac978a348e1267d4abc2e80d8b5565b47fdab4a1e2204f9544bab972a291d191ce26bd29203ff28a6440e2f8969cf1b33a5cea48998b04
+doccontainersize 3708
+doccontainerchecksum 1b091b850e4936e8e6484ca484f740005c66458655a0cbe24938c3f33f23807fe9b7a0ab93b38f6a3481c684e35031398860d5452f6bc3fc8a8e6f4c2e82f927
+runfiles size=10
+ texmf-dist/tex/latex/historische-zeitschrift/historische-zeitschrift.bbx
+ texmf-dist/tex/latex/historische-zeitschrift/historische-zeitschrift.cbx
+ texmf-dist/tex/latex/historische-zeitschrift/historische-zeitschrift.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/historische-zeitschrift
+catalogue-date 2016-12-02 13:27:44 +0100
+catalogue-license lppl
+catalogue-topics journalpub biblatex
+catalogue-version 1.2

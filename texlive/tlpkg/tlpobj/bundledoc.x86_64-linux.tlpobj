@@ -1,0 +1,9 @@
+name bundledoc.x86_64-linux
+category Package
+revision 17794
+shortdesc x86_64-linux files of bundledoc
+containersize 360
+containerchecksum cb28604e5129bc9a49f9903d42df2ad44142408889e37a019f5e4174cb5160390fe1c2e3a025c4b4a8b0278f23e78ec0649509b564f641581d8362d79ec39220
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/arlatex
+ bin/x86_64-linux/bundledoc

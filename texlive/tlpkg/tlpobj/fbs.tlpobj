@@ -1,0 +1,17 @@
+name fbs
+category Package
+revision 15878
+shortdesc BibTeX style for Frontiers in Bioscience
+longdesc A BibTeX style file made with custom-bib to fit Frontiers in
+longdesc Bioscience requirements: all authors, no et al, full author
+longdesc names, initials abbreviated; only abbreviated journal name
+longdesc italicised, no abbreviation dots; only year, no month, at end
+longdesc of reference; and DOI excluded, ISSN excluded.
+containersize 5424
+containerchecksum 2d5bce7890fd8e087e035e60064bf134d8ac7ca2646f7b846df8fca7c594843c2778d0ad1752ffefed40283153194b5da97156e866bb4b8bd10b14c8ee3f2c4d
+runfiles size=7
+ texmf-dist/bibtex/bst/fbs/fbs.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/fbs.bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics journalpub biology bibtex-sty

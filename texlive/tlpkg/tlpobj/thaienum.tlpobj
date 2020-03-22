@@ -1,0 +1,23 @@
+name thaienum
+category Package
+revision 44140
+shortdesc Thai labels in enumerate environments
+longdesc This LaTeX package provides a command to use Thai numerals or
+longdesc characters as labels in enumerate environments. Once the
+longdesc package is loaded with \usepackage{thaienum} you can use labels
+longdesc such as \thainum* or \thaimultialph* in conjunction with the
+longdesc package enumitem. Concrete examples are given in the
+longdesc documentation.
+containersize 1556
+containerchecksum 25f6bd1e6e9586b261721b66b6b193c07f60dc074f7b7b1911b0a8ba4f33815c86945bcb3946ffe153f70f0dbaeec4dca8e5574f8369c754a6151fc271029f3b
+doccontainersize 184444
+doccontainerchecksum 246dbb624a2e2e30bd5468c2596e7b3f7183c7dd9d03eda42fbed88fe51f16b53801ed39f85590d2739a93d48bc413fce5c52685d5425615f650b19f56013261
+runfiles size=1
+ texmf-dist/tex/latex/thaienum/thaienum.sty
+catalogue-contact-bugs https://github.com/abhabongse/latex-thaienum/issues
+catalogue-contact-repository https://github.com/abhabongse/latex-thaienum/
+catalogue-ctan /macros/latex/contrib/thaienum
+catalogue-date 2017-06-06 19:56:03 +0200
+catalogue-license lppl1.3
+catalogue-topics thai list-enum numbers
+catalogue-version 0.2

@@ -1,0 +1,23 @@
+name sympytexpackage
+category Package
+revision 45818
+catalogue sympytex
+shortdesc Include symbolic computation (using sympy) in documents
+longdesc The bundle supports inclusion of symbolic-python (sympy)
+longdesc expressions, as well as graphical output from the sympy
+longdesc plotting module (or from matplotlib).
+containersize 3640
+containerchecksum 14813cf24b562ed135e6d5a0078306f0687cd464915ecc17e61df0bb5d9900d7110e8338c469d4d55664b2fecd1eeb6bb4f359b11fb2a07bad72a442b7698842
+doccontainersize 1844
+doccontainerchecksum c4e7e386852b3acd071d1addea10435985e7722dfffd4933ac2c3821b5a75e8c9500f5c42bb6b3e2315bd06b8d3e2ad12423c2c43547bb51b2f59bd982d7dfd3
+srccontainersize 17088
+srccontainerchecksum 7dfa3975f5c042f7196ef6a76e31b79caeca4101026afc53aed719239e7ce701a7917e733bb77297b569333adccab6b5bc7149befdd6eed4f09d46ea38684579
+runfiles size=4
+ texmf-dist/scripts/sympytexpackage/sympytex.py
+ texmf-dist/tex/latex/sympytexpackage/sympytex.sty
+catalogue-contact-home http://elec.otago.ac.nz/w/index.php/SympyTeX
+catalogue-ctan /macros/latex/contrib/sympytexpackage
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2
+catalogue-topics callback
+catalogue-version 0.3

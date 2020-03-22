@@ -1,0 +1,40 @@
+name esrelation
+category Package
+revision 37236
+shortdesc Provides a symbol set for describing relations between ordered pairs
+longdesc Around 2008, researcher Byron Cook and several colleagues began
+longdesc developing a new set of interrelated algorithms capable of
+longdesc automatically reasoning about the behavior of computer programs
+longdesc and other systems (such as biological systems, circuit designs,
+longdesc etc). At the center of these algorithms were new ideas about
+longdesc the relationships between structures expressable as
+longdesc mathematical sets and relations. Using the language of
+longdesc mathematics and logic, the researchers communicated these new
+longdesc results to others in their community via published papers,
+longdesc research talks, etc. Unfortunately, they found the symbols
+longdesc already available for reasoning about relations lacking (in
+longdesc contrast to sets, which have a long-ago developed and robust
+longdesc symbol vocabulary). Early presentations were unnecessarily
+longdesc cluttered. To more elegantly express these ideas around
+longdesc relations, Cook recruited artist Tauba Auerbach to help develop
+longdesc a set of symbols. This package provides an math symbol font for
+longdesc describing relations between ordered pairs by using Metafont.
+execute addMap esrelation.map
+containersize 33064
+containerchecksum a6d8a0a9bde08e3582826affa52142fe5b5a0dba43c4ff15f5fdd19cb24b561bcdcdd761c2a84238c9b31d3fe0a023949d2d0c716e105852443e06ced9df13f1
+doccontainersize 158904
+doccontainerchecksum 6698e9f57df458d9652ae98abbea08ce1f14c6c31677c32ab8cdf9b8fa0866a57c50028ea36d2c7cde133588358dce0b2bb37b7085995e4bab9ce7d3de1a541c
+srccontainersize 6484
+srccontainerchecksum 17b0495b4b19ca5166835549c62c9c5e1dbcb59e2252e321860dc7254b9ebc9d073f317a344a2a8a4ec772ee1a931a5181d9d3b1af45f913b0ad04ebf189bd3a
+runfiles size=17
+ texmf-dist/fonts/map/dvips/esrelation/esrelation.map
+ texmf-dist/fonts/source/public/esrelation/esrelation.mf
+ texmf-dist/fonts/source/public/esrelation/esrelation10.mf
+ texmf-dist/fonts/tfm/public/esrelation/esrelation10.tfm
+ texmf-dist/fonts/type1/public/esrelation/esrelation10.pfb
+ texmf-dist/tex/latex/esrelation/esrelation.sty
+ texmf-dist/tex/latex/esrelation/uesrelation.fd
+catalogue-ctan /fonts/esrelation
+catalogue-date 2017-10-29 14:49:17 +0100
+catalogue-license lppl1.3
+catalogue-topics font font-mf font-type1 font-maths

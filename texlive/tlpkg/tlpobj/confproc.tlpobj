@@ -1,0 +1,32 @@
+name confproc
+category Package
+revision 29349
+shortdesc A set of tools for generating conference proceedings
+longdesc The confproc collection comprises a class, a BibTeX style, and
+longdesc some scripts for generating conference proceedings. It derives
+longdesc from LaTeX scripts written for the DAFx-06 conference
+longdesc proceedings, largely based on the pdfpages package for
+longdesc including the proceedings papers and the hyperref package for
+longdesc creating a proper table of contents, bookmarks and general
+longdesc bibliography back-references. Confproc also uses many other
+longdesc packages for fine tuning of the table of contents, bibliography
+longdesc and index of authors. The added value of the class resides in
+longdesc its time-saving aspects when designing conference proceedings.
+containersize 16388
+containerchecksum b6e054332f7f6a239a6eb102ae4b022f90d9523628a293517b1d070602290bea8e623379b5c246fcd5b8daae29c9d32d02a8a7637cd704ede5b1b928de4536fd
+doccontainersize 1871032
+doccontainerchecksum 0bd697d12f1740257e89cd5853aac7340659350a6374c32c5fc22da4249ea08b7e176dc499712f4c2cac6641c0161394ff0433513f7ce1942d50ac69021c14aa
+srccontainersize 92900
+srccontainerchecksum f8530a8106931edceb4c5f0b87022092fc85368966e5029ab25e9f2f19cf95a3c97694dcedd5a78d707b4d9e4a9f358a6bc4f92084a49dde7d6100b50e77fd1a
+runfiles size=23
+ texmf-dist/bibtex/bst/confproc/newapave.bst
+ texmf-dist/makeindex/confproc/confproc1.ist
+ texmf-dist/makeindex/confproc/confproc2.ist
+ texmf-dist/tex/latex/confproc/confproc.cfg
+ texmf-dist/tex/latex/confproc/confproc.cls
+ texmf-dist/tex/latex/confproc/newapave.sty
+catalogue-ctan /macros/latex/contrib/conferences/confproc
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics confproc
+catalogue-version 0.8

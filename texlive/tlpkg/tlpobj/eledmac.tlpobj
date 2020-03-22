@@ -1,0 +1,30 @@
+name eledmac
+category Package
+revision 45418
+shortdesc Typeset scholarly editions
+longdesc A package for typesetting scholarly critical editions,
+longdesc replacing the established ledmac package. Ledmac itself was a
+longdesc LaTeX port of the plain TeX EDMAC macros. The package supports
+longdesc indexing by page and by line numbers, and simple tabular- and
+longdesc array-style environments. The package is distributed with the
+longdesc related eledpar package. The package is now superseded by
+longdesc reledmac.
+containersize 39444
+containerchecksum 644df002adf2f39acd9a6704a5c2e18e02f30d17c8e04173fb0f68e9daf5469bb6290c7e98ca181ebd45b40d54dbdf4a14fbbbe7dbe8f945b226ee086efc3972
+doccontainersize 1845796
+doccontainerchecksum 14c8b024b6cc817a025b6a4870d3edcf956ac9e358107c80d29fcab41f343efba5b5832dc22cd11fe2e92bc74b58fc5d67982ab26a60230a5b92af4223543e04
+srccontainersize 164628
+srccontainerchecksum 8d3436d3e3cf377148a52ea77ac93491abc66bfb1271538aa85f6cebc559ca225221b4b7dfaaf33426505b792ca57697d6edf5903b5d0e306434a4c32e06e8bb
+runfiles size=66
+ texmf-dist/tex/latex/eledmac/eledmac.sty
+ texmf-dist/tex/latex/eledmac/eledpar.sty
+catalogue-also ednotes poemscol ledmac
+catalogue-contact-announce http://geekographie.maieul.net/146
+catalogue-contact-bugs https://github.com/maieul/ledmac/issues/
+catalogue-contact-repository https://github.com/maieul/ledmac/
+catalogue-contact-support http://geekographie.maieul.net/146
+catalogue-ctan /macros/latex/contrib/eledmac
+catalogue-date 2017-09-25 19:05:52 +0200
+catalogue-license lppl1.3
+catalogue-topics crit-ed
+catalogue-version 1.24.12

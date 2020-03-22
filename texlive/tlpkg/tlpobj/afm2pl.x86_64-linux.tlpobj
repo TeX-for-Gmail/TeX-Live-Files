@@ -1,0 +1,8 @@
+name afm2pl.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of afm2pl
+containersize 42196
+containerchecksum 064be2db71b0167c1126f82876d8880d5b556376a0d8b2815f5976d344b855723e725eb12df228d8a03486f36bb19c2dfe425cf3a50ec768f6e7046d2f88f21f
+binfiles arch=x86_64-linux size=24
+ bin/x86_64-linux/afm2pl

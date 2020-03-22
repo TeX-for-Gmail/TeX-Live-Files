@@ -1,0 +1,34 @@
+name keyfloat
+category Package
+revision 50534
+shortdesc Provides a key/value interface for generating floats
+longdesc The keyfloat package provides a key/value user interface for
+longdesc quickly creating figures with a single image each, figures with
+longdesc arbitrary contents, tables, subfloats, rows of floats, floats
+longdesc located [H]ere, floats in the [M]argin, and floats with text
+longdesc [W]rapped around them. Key/value combinations may specify a
+longdesc caption and label, a width proportional to \linewidth, a fixed
+longdesc width and/or height, rotation, scaling, a tight or loose frame,
+longdesc an \arraystretch, a continued float, additional supplemental
+longdesc text, and an artist/author's name with automatic index entry.
+longdesc When used with the tocdata package, the name also appears in
+longdesc the List of Figures. Floats may be placed into a row
+longdesc environment, and are typeset to fit within the given number of
+longdesc columns, continuing to the next row if necessary. Nested
+longdesc sub-rows may be used to generate layouts such as two small
+longdesc figures placed vertically next to one larger figure. Subfloats
+longdesc are supported by two environments.
+containersize 6424
+containerchecksum bc19325a6c3ff1df3445790857bb167880930dbaddd6e0e2262a0a9f9be5c401089dc2196f078d9337a0b32956819f7a033a86adeff57a8bc79603d1e51d9d28
+doccontainersize 498956
+doccontainerchecksum 1e0afaea210d14a2b663d014d9d243f1703246890be757286ac22387631941cd55a3f8c571d39dd87285966ead074a8867c9f2e0bdd93e9e076b261b92d35304
+srccontainersize 26564
+srccontainerchecksum c5252e69675ead0546c3ed6df46f1917ccbdd22191c6325f42ab48d1851d9e19479d78a9a1b9b1a0fbf7994ed0585407f2d96146944662d286d24dcab964196f
+runfiles size=9
+ texmf-dist/tex/latex/keyfloat/keyfloat.sty
+catalogue-contact-home http://bdtechconcepts.com
+catalogue-ctan /macros/latex/contrib/keyfloat
+catalogue-date 2019-03-21 21:46:01 +0100
+catalogue-license lppl1.3
+catalogue-topics float
+catalogue-version 2.00

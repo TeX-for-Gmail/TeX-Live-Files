@@ -1,0 +1,30 @@
+name chemarrow
+category Package
+revision 17146
+shortdesc Arrows for use in chemistry
+longdesc This bundle consists of a font (available as Metafont source,
+longdesc MetaPost source, and generated type 1 versions), and a package
+longdesc to use it. The arrows in the font are designed to look more
+longdesc like those in chemistry text-books than do Knuth's originals.
+execute addMap chemarrow.map
+containersize 5212
+containerchecksum 4a95a6b81bd649764dea052984eb21c7f9e89c612ff96d23907eefce29e2d33fe92bd7944d94a6b108213d1820b3340feab35e3646f727288cb1df9b78302990
+doccontainersize 343744
+doccontainerchecksum 882e6c6fbeb5223fc1d2404e8b9ef9bce2c3b2ed1279d2bdc45616476a856c63fe07cdeb42e27f3bc459199f3537fc620ef08c00f4eea83df77502463fc30ca6
+srccontainersize 3136
+srccontainerchecksum 19903052aaa97902f721892bf4a9df8d685db46ffddb4cdeb4df280c24a72d2166bc13408a32d5c760272aee45ad5516b899c0024ff3f077fec6825f94e36736
+runfiles size=9
+ texmf-dist/fonts/afm/public/chemarrow/arrow.afm
+ texmf-dist/fonts/map/dvips/chemarrow/chemarrow.map
+ texmf-dist/fonts/source/public/chemarrow/arrow.mf
+ texmf-dist/fonts/tfm/public/chemarrow/arrow.tfm
+ texmf-dist/fonts/type1/public/chemarrow/arrow.inf
+ texmf-dist/fonts/type1/public/chemarrow/arrow.pfb
+ texmf-dist/fonts/type1/public/chemarrow/arrow.pfm
+ texmf-dist/tex/latex/chemarrow/chemarrow.sty
+catalogue-also chemarr
+catalogue-ctan /macros/latex/contrib/chemarrow
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics chemistry diagram
+catalogue-version 0.9

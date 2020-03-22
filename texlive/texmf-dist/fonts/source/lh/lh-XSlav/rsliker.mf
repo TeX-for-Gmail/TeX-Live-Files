@@ -1,0 +1,810 @@
+% This is rsliker.mf in text format as of 2006/9/6
+% created by LHfonts (TeX4MF) version 3.5
+%
+%
+
+
+beginligtable
+   labelchar (
+          CYR_.YAT
+         ,CYR_.OHRDSN
+    );
+   labelchar (
+          CYR_.L_YUS
+         ,CYR_.IL_YUS
+         ,CYR_.VL_YUS
+      if serifs:
+         ,CYR_.B_YUS
+         ,CYR_.IB_YUS
+      fi
+    );
+            setkern [k#] (
+                   CYR_.OMGA
+                  ,CYR_.OMGA_tlo
+                  ,CYR_.OT
+                  ,CYR_.PSI
+                  ,CYR_.FITA
+                  ,CYR_.OMGA_rnd
+                  ,CYR_.OO_cdot
+                  ,CYR_.OO_cddot
+                  ,CYR_.UKR_E
+                  ,CYR_.KOPPA
+                  ,CYR_.AZ
+             );
+            setkern [kk#] (
+                   CYR_.YAT
+                  ,CYR_.OHRDSN
+                  ,CYR_.OERY
+                  ,CYR_.CHERV
+             );
+   if serifs:
+            setkern [kkk#] (
+                   CYR_.IZH
+                  ,CYR_.IZH_dgr
+                  ,CYR_.IZH_uml
+             );
+   else:
+            setkern [kk#] (
+                   CYR_.IZH
+                  ,CYR_.IZH_dgr
+                  ,CYR_.IZH_uml
+             );
+   fi
+   if not TITLEfont:
+      if SmallCapsfont:
+            setkern [k#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+                  ,CYR_.psi
+                  ,CYR_.ukr_e
+                  ,CYR_.koppa
+                  ,CYR_.az
+                  ,CYR_.cherv
+             );
+            setkern [kk#] (
+                   CYR_.yat
+                  ,CYR_.ohrdsn
+                  ,CYR_.oery
+             );
+            setkern [kkk#] (
+                   CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+             );
+      elseif ROMANfont:
+            setkern [k#] (
+                   CYR_.yat
+                  ,CYR_.ohrdsn
+                  ,CYR_.oery
+             );
+            setkern [kk#] (
+                   CYR_.cherv
+             );
+      else:
+            setkern [k#] (
+                   CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+                  ,CYR_.ng
+                  ,CYR_.yat
+                  ,CYR_.ukr_i
+                  ,CYR_.lat_i
+             );
+      fi
+   fi
+ endligtable;
+
+if concrete:
+fi
+
+beginligtable
+   labelchar (
+          CYR_.OMGA
+         ,CYR_.OMGA_tlo
+         ,CYR_.OT
+         ,CYR_.PSI
+         ,CYR_.FITA
+         ,CYR_.OMGA_rnd
+         ,CYR_.OO_cdot
+         ,CYR_.OO_cddot
+    );
+            setkern [k#] (
+                   CYR_.L_YUS
+                  ,CYR_.VL_YUS
+               if concrete:
+               else:
+               fi
+                  ,CYR_.IZH
+                  ,CYR_.IZH_dgr
+                  ,CYR_.IZH_uml
+               if serifs:
+                  ,CYR_.B_YUS
+               fi
+             );
+   if not TITLEfont:
+      if SmallCapsfont:
+            setkern [k#] (
+               if kapitel:
+               fi
+                   CYR_.l_yus
+                  ,CYR_.Vl_yus
+               if concrete:
+               else:
+                  ,CYR_.olg
+               fi
+                  ,CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+               if serifs:
+                  ,CYR_.b_yus
+               fi
+             );
+      elseif ROMANfont:
+            setkern [k#] (
+               if kapitel:
+               fi
+                   CYR_.l_yus
+                  ,CYR_.Vl_yus
+             );
+      fi
+   fi
+ endligtable;
+
+
+beginligtable
+   labelchar (
+          CYR_.NG
+         ,CYR_.OLG
+    );
+            setkern [kk#] (
+                   CYR_.L_YUS
+                  ,CYR_.VL_YUS
+               if concrete:
+               else:
+               fi
+               if serifs:
+                  ,CYR_.B_YUS
+               fi
+             );
+   if not concrete:
+      if serifs:
+            setkern [k#] (
+                   CYR_.OLG
+             );
+      else:
+            setkern [-u#] (
+                   CYR_.OLG
+             );
+      fi
+   fi
+   if not TITLEfont:
+      if SmallCapsfont:
+            setkern [kk#] (
+               if kapitel:
+               fi
+                   CYR_.l_yus
+                  ,CYR_.Vl_yus
+               if concrete:
+               else:
+                  ,CYR_.olg
+               fi
+                  ,CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+               if serifs:
+                  ,CYR_.b_yus
+               fi
+             );
+      else:
+            setkern [kk#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+                  ,CYR_.ukr_e
+                  ,CYR_.koppa
+                  ,CYR_.az
+                  ,CYR_.psi
+             );
+         if ROMANfont:
+            setkern [kk#] (
+                   CYR_.olg
+                  ,CYR_.b_yus
+               if kapitel:
+               fi
+                  ,CYR_.l_yus
+                  ,CYR_.Vl_yus
+             );
+         else:
+            setkern [kk#] (
+                   CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+             );
+         fi
+      fi
+      if altcoding:
+            setkern [kk#] (
+                   [ASCII "."]
+                  ,[ASCII ","]
+                  ,[ASCII ";"]
+                  ,[ASCII ":"]
+             );
+      fi
+   fi
+ endligtable;
+
+
+beginligtable
+   labelchar (
+          CYR_.IZH
+         ,CYR_.IZH_dgr
+         ,CYR_.IZH_uml
+    );
+   if serifs:
+            setkern [kkk#] (
+                   CYR_.L_YUS
+                  ,CYR_.VL_YUS
+               if concrete:
+               fi
+                  ,CYR_.B_YUS
+             );
+   else:
+            setkern [kk#] (
+                   CYR_.L_YUS
+                  ,CYR_.VL_YUS
+             );
+            setkern [-u#] (
+                   CYR_.OLG
+             );
+   fi
+            setkern [k#] (
+                   CYR_.OMGA
+                  ,CYR_.OMGA_tlo
+                  ,CYR_.OT
+                  ,CYR_.PSI
+                  ,CYR_.FITA
+                  ,CYR_.OMGA_rnd
+                  ,CYR_.OO_cdot
+                  ,CYR_.OO_cddot
+                  ,CYR_.UKR_E
+                  ,CYR_.KOPPA
+                  ,CYR_.AZ
+             );
+   if not TITLEfont:
+      if SmallCapsfont:
+            setkern [kkk#] (
+               if kapitel:
+               fi
+                   CYR_.l_yus
+                  ,CYR_.Vl_yus
+               if concrete:
+               fi
+               if serifs:
+                  ,CYR_.b_yus
+               fi
+             );
+            setkern [kk#] (
+               if concrete:
+                   CYR_.olg
+               fi
+             );
+            setkern [k#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+                  ,CYR_.psi
+                  ,CYR_.ukr_e
+                  ,CYR_.koppa
+                  ,CYR_.az
+             );
+      else:
+         if serifs:
+            setkern [kk#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+             );
+         else:
+            setkern [k#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+             );
+         fi
+         if ROMANfont:
+            if serifs:
+            setkern [kkk#] (
+                   CYR_.olg
+                  ,CYR_.b_yus
+               if kapitel:
+               fi
+                  ,CYR_.l_yus
+                  ,CYR_.Vl_yus
+             );
+            else:
+            setkern [kk#] (
+                   CYR_.olg
+                  ,CYR_.b_yus
+               if kapitel:
+               fi
+                  ,CYR_.l_yus
+                  ,CYR_.Vl_yus
+             );
+            fi
+         else:
+            setkern [kkk#] (
+                   CYR_.izh
+                  ,CYR_.izh_dgr
+                  ,CYR_.izh_uml
+             );
+         fi
+      fi
+      if altcoding:
+            setkern [kk#] (
+                   [ASCII "."]
+                  ,[ASCII ","]
+                  ,[ASCII ";"]
+                  ,[ASCII ":"]
+             );
+      fi
+   fi
+ endligtable;
+
+
+beginligtable
+   labelchar (
+          CYR_.CHERV
+    );
+            setkern [kk#] (
+                   CYR_.L_YUS
+                  ,CYR_.VL_YUS
+                  ,CYR_.OLG
+               if serifs:
+                  ,CYR_.B_YUS
+               fi
+             );
+   if not TITLEfont:
+      if SmallCapsfont:
+            setkern [kk#] (
+               if kapitel:
+               fi
+                   CYR_.l_yus
+                  ,CYR_.Vl_yus
+               if concrete:
+               else:
+               fi
+               if serifs:
+                  ,CYR_.b_yus
+               fi
+             );
+      else:
+            setkern [k#] (
+                   CYR_.omga
+                  ,CYR_.omga_tlo
+                  ,CYR_.ot
+                  ,CYR_.fita
+                  ,CYR_.omga_rnd
+                  ,CYR_.oo_cdot
+                  ,CYR_.oo_cddot
+             );
+            setkern [kk#] (
+                   CYR_.olg
+             );
+      fi
+      if altcoding:
+            setkern [kk#] (
+                   [ASCII "."]
+                  ,[ASCII ","]
+                  ,[ASCII ";"]
+                  ,[ASCII ":"]
+             );
+      fi
+   fi
+ endligtable;
+
+
+beginligtable
+   labelchar (
+          CYR_.LAT_I
+         ,CYR_.UKR_I
+         ,CYR_.VIZHE
+    );
+            setkern [-k#] (
+                   CYR_.LAT_I
+                  ,CYR_.UKR_I
+                  ,CYR_.VIZHE
+             );
+ endligtable;
+
+if TITLEfont: endinput \\ fi;
+
+if SmallCapsfont:
+
+    u#:=lower.u#;
+   k#:=-.5u#; kk#:=-1.5u#; kkk#:=-2u#;
+ 
+
+
+   beginligtable
+      labelchar (
+         if kapitel:
+         fi
+             CYR_.l_yus
+            ,CYR_.il_yus
+            ,CYR_.Vl_yus
+         if SmallCapsfont:
+         fi
+            ,CYR_.yat
+         if SmallCapsfont:
+         fi
+            ,CYR_.ohrdsn
+         if SmallCapsfont:
+         fi
+         if serifs:
+            ,CYR_.b_yus
+            ,CYR_.ib_yus
+         fi
+       );
+               setkern [k#] (
+                      CYR_.omga
+                     ,CYR_.omga_tlo
+                     ,CYR_.ot
+                     ,CYR_.fita
+                     ,CYR_.omga_rnd
+                     ,CYR_.oo_cdot
+                     ,CYR_.oo_cddot
+                     ,CYR_.psi
+                     ,CYR_.ukr_e
+                     ,CYR_.koppa
+                     ,CYR_.az
+                     ,CYR_.yat
+                     ,CYR_.ohrdsn
+                     ,CYR_.oery
+                     ,CYR_.cherv
+                );
+               setkern [kkk#] (
+                      CYR_.izh
+                     ,CYR_.izh_dgr
+                     ,CYR_.izh_uml
+                );
+    endligtable;
+
+   if concrete:
+
+      fi
+
+
+   beginligtable
+      labelchar (
+             CYR_.omga
+            ,CYR_.omga_tlo
+            ,CYR_.ot
+            ,CYR_.fita
+            ,CYR_.omga_rnd
+            ,CYR_.oo_cdot
+            ,CYR_.oo_cddot
+            ,CYR_.psi
+       );
+               setkern [k#] (
+                  if kapitel:
+                  fi
+                      CYR_.l_yus
+                     ,CYR_.Vl_yus
+                     ,CYR_.olg
+                     ,CYR_.izh
+                     ,CYR_.izh_dgr
+                     ,CYR_.izh_uml
+                  if serifs:
+                     ,CYR_.b_yus
+                  fi
+                );
+    endligtable;
+
+
+   beginligtable
+      labelchar (
+             CYR_.ng
+            ,CYR_.olg
+            ,CYR_.cherv
+       );
+               setkern [k#] (
+                  if kapitel:
+                  fi
+                      CYR_.l_yus
+                     ,CYR_.Vl_yus
+                     ,CYR_.olg
+                  if serifs:
+                     ,CYR_.b_yus
+                  fi
+                );
+    endligtable;
+
+
+   beginligtable
+      labelchar (
+             CYR_.izh
+            ,CYR_.izh_dgr
+            ,CYR_.izh_uml
+       );
+               setkern [kkk#] (
+                  if kapitel:
+                  fi
+                      CYR_.l_yus
+                     ,CYR_.Vl_yus
+                  if serifs:
+                     ,CYR_.b_yus
+                  fi
+                );
+               setkern [kk#] (
+                      CYR_.olg
+                );
+               setkern [k#] (
+                      CYR_.omga
+                     ,CYR_.omga_tlo
+                     ,CYR_.ot
+                     ,CYR_.fita
+                     ,CYR_.omga_rnd
+                     ,CYR_.oo_cdot
+                     ,CYR_.oo_cddot
+                     ,CYR_.psi
+                     ,CYR_.ukr_e
+                     ,CYR_.koppa
+                     ,CYR_.az
+                );
+    endligtable;
+
+
+   beginligtable
+      labelchar (
+             CYR_.lat_i
+            ,CYR_.izhe
+            ,CYR_.ukr_i
+       );
+               setkern [-k#] (
+                      CYR_.lat_i
+                     ,CYR_.izhe
+                     ,CYR_.ukr_i
+                );
+    endligtable;
+
+else:
+
+   if ROMANfont:
+
+      if concrete:
+      fi
+
+      beginligtable
+         labelchar (
+                CYR_.ng
+               ,CYR_.olg
+            if kapitel:
+            fi
+          );
+         if serifs:
+         fi
+                  setkern [k#] (
+                         CYR_.olg
+                     if kapitel:
+                     fi
+                        ,CYR_.l_yus
+                        ,CYR_.Vl_yus
+                        ,CYR_.b_yus
+                   );
+         if altcoding:
+                  setkern [kk#] (
+                         [ASCII "."]
+                        ,[ASCII ","]
+                   );
+         fi
+       endligtable;
+
+
+      beginligtable
+         labelchar (
+                CYR_.lat_i
+               ,CYR_.izhe
+          );
+                  setkern [-k#] (
+                         CYR_.ukr_i
+                   );
+       endligtable;
+
+
+      beginligtable
+         labelchar (
+                CYR_.ukr_i
+          );
+                  setkern [-k#] (
+                         CYR_.lat_i
+                        ,CYR_.izhe
+                   );
+                  setkern [-kk#] (
+                         CYR_.ukr_i
+                   );
+       endligtable;
+
+
+      beginligtable
+         labelchar (
+                CYR_.izh
+               ,CYR_.izh_dgr
+               ,CYR_.izh_uml
+          );
+                  setkern [k#] (
+                         CYR_.omga
+                        ,CYR_.omga_tlo
+                        ,CYR_.ot
+                        ,CYR_.fita
+                        ,CYR_.omga_rnd
+                        ,CYR_.oo_cdot
+                        ,CYR_.oo_cddot
+                        ,CYR_.ukr_e
+                        ,CYR_.koppa
+                        ,CYR_.az
+                        ,CYR_.b_yus
+                   );
+                  setkern [kk#] (
+                     if kapitel:
+                     fi
+                         CYR_.l_yus
+                        ,CYR_.Vl_yus
+                   );
+                  setkern [-u#] (
+                         CYR_.olg
+                   );
+         if altcoding:
+                  setkern [kk#] (
+                         [ASCII "."]
+                        ,[ASCII ","]
+                   );
+         fi
+       endligtable;
+
+   else:
+
+
+      beginligtable
+         labelchar (
+                CYR_.ukr_i
+          );
+         labelchar (
+                CYR_.lat_i
+          );
+                  setkern [-k#] (
+                         CYR_.ukr_i
+                   );
+       endligtable;
+
+   fi
+
+
+   beginligtable
+      labelchar (
+         if SmallCapsfont:
+         fi
+             CYR_.yat
+         if SmallCapsfont:
+         fi
+            ,CYR_.ohrdsn
+         if SmallCapsfont:
+         fi
+         if kapitel:
+         fi
+            ,CYR_.l_yus
+            ,CYR_.il_yus
+            ,CYR_.Vl_yus
+       );
+      if ROMANfont:
+               setkern [-u#] (
+                      CYR_.izh
+                     ,CYR_.izh_dgr
+                     ,CYR_.izh_uml
+                );
+               setkern [k#] (
+                      CYR_.yat
+                     ,CYR_.ohrdsn
+                     ,CYR_.oery
+                );
+         if concrete:
+         fi
+      else:
+               setkern [k#] (
+                      CYR_.izh
+                     ,CYR_.izh_dgr
+                     ,CYR_.izh_uml
+                );
+      fi
+               setkern [kk#] (
+                      CYR_.cherv
+                );
+               setkern [k#] (
+                      CYR_.omga
+                     ,CYR_.omga_tlo
+                     ,CYR_.ot
+                     ,CYR_.fita
+                     ,CYR_.omga_rnd
+                     ,CYR_.oo_cdot
+                     ,CYR_.oo_cddot
+                     ,CYR_.psi
+                     ,CYR_.ukr_e
+                     ,CYR_.koppa
+                     ,CYR_.az
+                );
+    endligtable;
+
+
+   beginligtable
+      labelchar (
+             CYR_.omga
+            ,CYR_.omga_tlo
+            ,CYR_.ot
+            ,CYR_.fita
+            ,CYR_.omga_rnd
+            ,CYR_.oo_cdot
+            ,CYR_.oo_cddot
+            ,CYR_.psi
+       );
+      if ROMANfont:
+               setkern [k#] (
+                      CYR_.b_yus
+                  if kapitel:
+                  fi
+                     ,CYR_.l_yus
+                     ,CYR_.Vl_yus
+                );
+      else:
+               setkern [-u#] (
+                      CYR_.psi
+                );
+      fi
+    endligtable;
+
+
+   beginligtable
+      labelchar (
+             CYR_.b_yus
+            ,CYR_.ib_yus
+       );
+               setkern [k#] (
+                      CYR_.omga
+                     ,CYR_.omga_tlo
+                     ,CYR_.ot
+                     ,CYR_.fita
+                     ,CYR_.omga_rnd
+                     ,CYR_.oo_cdot
+                     ,CYR_.oo_cddot
+                     ,CYR_.ukr_e
+                     ,CYR_.koppa
+                     ,CYR_.az
+                     ,CYR_.yat
+                     ,CYR_.ohrdsn
+                     ,CYR_.oery
+                     ,CYR_.izh
+                     ,CYR_.izh_dgr
+                     ,CYR_.izh_uml
+                );
+    endligtable;
+
+fi

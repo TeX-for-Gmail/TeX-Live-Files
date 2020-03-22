@@ -1,0 +1,16 @@
+name tex-virtual-academy-pl
+category Package
+revision 34177
+shortdesc TeX usage web pages, in Polish
+longdesc TeX Virtual Academy is a bundle of Polish documentation in HTML
+longdesc format about TeX and Co. It contains information for beginners,
+longdesc LaTeX packages, descriptions, etc.
+containersize 520
+containerchecksum b9358f50caf39d274c1684d4514fef0439e015588431883955f7aec63d35f7176ed61671f72cda7ae28125b2a977f25ae66b028b21017f106d8f78bbfc7df109
+doccontainersize 1080060
+doccontainerchecksum aa73261fb0ffdbb7cdbf85df354490a72bd95e4d98e4a497e98666e6f5533a7f05a7132533db044ba993d86e03fc21825bc6fa7f262e5a0bcdb6de8114d38eee
+catalogue-contact-home http://www.gust.org.pl/projects/wirtualna-akademia-texowa
+catalogue-ctan /info/tex-virtual-academy-pl
+catalogue-date 2017-11-18 20:45:08 +0100
+catalogue-license fdl
+catalogue-topics documentation polish-doc

@@ -1,0 +1,18 @@
+name havannah
+category Package
+revision 36348
+shortdesc Diagrams of board positions in the games of Havannah and Hex
+longdesc This package defines macros for typesetting diagrams of board
+longdesc positions in the games of Havannah and Hex.
+containersize 2792
+containerchecksum f19498f0f9a7ce349fab4291fef80ff2f2f9eb88c60edeb76174918955fab51f22a0d06b533112e594c0f4cfba23feab58c41fe75e1c4fa2fc4db7cd9f473d0e
+doccontainersize 222808
+doccontainerchecksum ee1a90d491debac3f22f470e5df79e11152d153cef97e8d2e38c5d8a60a1931384d65bb91a6d459e6aeba39741763fa67d589bf9004efc5059699ec621b99e43
+srccontainersize 6160
+srccontainerchecksum 9831ea87fbe6e12af8c7fb49d321049316221f4dd33b79a9495c5205b60ddf2f3593c8dfe2f4157e3934f21e69e3004b05802a0d592ae608b2de69cceb2f0c7c
+runfiles size=3
+ texmf-dist/tex/latex/havannah/havannah.sty
+catalogue-ctan /macros/latex/contrib/havannah
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics games pgf-tikz

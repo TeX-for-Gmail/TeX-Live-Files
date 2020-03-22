@@ -1,0 +1,16 @@
+name sphack
+category Package
+revision 20842
+shortdesc Patch LaTeX kernel spacing macros
+longdesc Change the kernel internal \@bsphack/\@esphack so that it is
+longdesc also invisible in vertical mode.
+containersize 2216
+containerchecksum b2cd588384770e0d95bf6e5c6b67df0ba8160e0a01e3f64932d67debcf9fa836212aafc78c79b8d28aae8124a25aff73f4846db514dbfc0a65a519eba75fc52a
+doccontainersize 243456
+doccontainerchecksum 6b490ee2e736a6bf1ddf32d5db605ab5fe77f079d585c2e377bda73a688a7de575b99d56c6626d9888c395f6a4d181cd0b42e77dd5673c8456bb0e029510b8d9
+runfiles size=2
+ texmf-dist/tex/latex/sphack/sphack.sty
+catalogue-ctan /macros/latex/contrib/sphack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics macro-supp

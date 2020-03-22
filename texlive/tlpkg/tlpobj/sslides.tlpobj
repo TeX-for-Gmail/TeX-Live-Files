@@ -1,0 +1,17 @@
+name sslides
+category Package
+revision 32293
+shortdesc Slides with headers and footers
+longdesc The class provides a variant of the LaTeX standard slides
+longdesc class, in which the user may add headers and footers to the
+longdesc slide.
+containersize 1116
+containerchecksum 5809b9968b16d35d5f76f185687c683512883942f8ff3537a7dafef3a76e5fb017a4bed36dfd102fb5edb93648148861c78f6f7e93aaea8c5cbc8113c05278a7
+doccontainersize 22356
+doccontainerchecksum 4a0fde19b43390f80d6d671933ba51b0be854d774d6f35f3e8fb33653ef7784df85871dc4fdec03f2c734e819af6c1098e8be152e0bd42740ec2f4ae53c38f4a
+runfiles size=1
+ texmf-dist/tex/latex/sslides/sslides.cls
+catalogue-ctan /macros/latex/contrib/sslides
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics presentation

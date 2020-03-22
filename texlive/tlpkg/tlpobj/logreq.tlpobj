@@ -1,0 +1,28 @@
+name logreq
+category Package
+revision 19640
+shortdesc Support for automation of the LaTeX workflow
+longdesc The package helps to automate a typical LaTeX workflow that
+longdesc involves running LaTeX several times, running tools such as
+longdesc BibTeX or makeindex, and so on. It will log requests like
+longdesc "please rerun LaTeX" or "please run BibTeX on file X" to an
+longdesc external XML file which lists all open tasks in a
+longdesc machine-readable format. Compiler scripts and integrated LaTeX
+longdesc editing environments may parse this file to determine the next
+longdesc steps in the workflow in a way that is more efficient than
+longdesc parsing the main log file. In sum, the package will do two
+longdesc things: enable package authors to use LaTeX commands to issue
+longdesc requests, collect all requests from all packages and write them
+longdesc to an external XML file at the end of the document.
+containersize 3204
+containerchecksum 4c9e5f42869e690768515d49f62aa5ef7ff2d9de2f42bd1b574f95b7903958a0506d334300f89b38955fce0c47bc65e4c3e17cfd04c5b6df95406e6b78ecaa2e
+doccontainersize 3792
+doccontainerchecksum 5addb710e2948e67f6369763a74d31bd3cb20d847df6cccef739fad3b34abea8663d00e7304cf47309baa74086a5cfd581bf46610ed3d7123ff74c426fec0131
+runfiles size=3
+ texmf-dist/tex/latex/logreq/logreq.def
+ texmf-dist/tex/latex/logreq/logreq.sty
+catalogue-ctan /macros/latex/contrib/logreq
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics compilation
+catalogue-version 1.0

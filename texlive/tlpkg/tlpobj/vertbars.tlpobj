@@ -1,0 +1,20 @@
+name vertbars
+category Package
+revision 49429
+shortdesc Mark vertical rules in margin of text
+longdesc This package is an extension to lineno, replacing that
+longdesc package's line numbers with bars to the left or right of the
+longdesc text.
+containersize 1220
+containerchecksum 3c3c905c6bcb013a36bc2eede14d84315f49075ab5f63376e9a440e4e7fb281ee5086b5bf1953782641284027dd8e7058e0accdafdc9295a19ebfc0088d8f7e1
+doccontainersize 163000
+doccontainerchecksum de6df3133c801e941cbb00c552cb2cdb1d556f099c402a0a66f460d5c7c1c6e28ec7d983563f20a609a5b5266420dcf8c204d1b6bc685031cc41fe2770a5ea13
+runfiles size=1
+ texmf-dist/tex/latex/vertbars/vertbars.sty
+catalogue-also changebar
+catalogue-contact-repository https://github.com/wspr/herries-press/
+catalogue-ctan /macros/latex/contrib/vertbars
+catalogue-date 2018-12-16 14:58:39 +0100
+catalogue-license lppl1.3c
+catalogue-topics editorial
+catalogue-version 1.0c

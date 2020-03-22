@@ -1,0 +1,19 @@
+name variations
+category Package
+revision 15878
+shortdesc Typeset tables of variations of functions
+longdesc The package provides macros for typesetting tables showing
+longdesc variations of functions according to French usage. These macros
+longdesc may be used by both LaTeX and plain TeX users.
+containersize 1320
+containerchecksum 71252475aec013adf9bf41460753a648420ea70fb093cadc667500a6884adcf0c6661a2d81053a733844a3f8595ccffb5ac5f7680689575d8485c47a1cc1e469
+doccontainersize 75756
+doccontainerchecksum 75d6d8afd13f6751bad23d0adc58355d75e355554dd95971dc16ac148150990e1362ec211a3f3e6fd832ce231dbd08e50ed9d44856c763e47ddb5374b1b182ff
+runfiles size=2
+ texmf-dist/tex/generic/variations/variations.sty
+ texmf-dist/tex/generic/variations/variations.tex
+catalogue-ctan /macros/generic/variations
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics maths-tabvar
+catalogue-version 0.3

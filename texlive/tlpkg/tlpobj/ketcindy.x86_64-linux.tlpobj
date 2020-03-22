@@ -1,0 +1,8 @@
+name ketcindy.x86_64-linux
+category Package
+revision 49033
+shortdesc x86_64-linux files of ketcindy
+containersize 344
+containerchecksum dc5f3f657b8c07f72d8d540672171cf22547b0ae184471c2b51376637119595eeeeaf56e26b25d46399e9cd8cccd4e98ba359291ba8c4cf5c1c3f8633d828ce6
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ketcindy

@@ -1,0 +1,21 @@
+name bxjaprnind
+category Package
+revision 45291
+shortdesc Adjust the position of parentheses at paragraph head
+longdesc In Japanese typesetting, opening parentheses placed at the
+longdesc beginning of paragraphs or lines are treated specially; for
+longdesc example, while the paragraph indent before normal kanji
+longdesc characters is 1em, the indent before parentheses can be 0.5em,
+longdesc 1em or 1.5em deoending on the local rule in effect.
+containersize 2808
+containerchecksum 77f754e9d9cfc643286df17c7102685ee4c893b5b99308da7a8a9033fc043a7ac95a34dc4a253da4f5e6ed29b35a04376eba1635abbbbe6a6e2670d0d47f50b8
+doccontainersize 387396
+doccontainerchecksum 0010c6e9d1041013401f59820795e338d9e0f852b2d29212fda0c66cda3e2dbdf59593547a8d83d9c6d78d48fb0372a4335976ad1fcc190c3c71a3b5607a47a4
+runfiles size=2
+ texmf-dist/tex/latex/bxjaprnind/bxjaprnind.sty
+catalogue-contact-home https://github.com/zr-tex8r/BXjaprnind
+catalogue-ctan /language/japanese/BX/bxjaprnind
+catalogue-date 2017-09-13 08:50:07 +0200
+catalogue-license mit
+catalogue-topics japanese macro-supp
+catalogue-version 0.3b

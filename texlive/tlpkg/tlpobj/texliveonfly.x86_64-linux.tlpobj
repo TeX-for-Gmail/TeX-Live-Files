@@ -1,0 +1,8 @@
+name texliveonfly.x86_64-linux
+category Package
+revision 24062
+shortdesc x86_64-linux files of texliveonfly
+containersize 344
+containerchecksum 408999116542cdeca540692510f27b151057c43b2def2367c62c9f211a2a85aebb7754bd1e299e804742d08cf94e0db4a2cc3dd70c739a2ea3b3e3e49b6aa189
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texliveonfly

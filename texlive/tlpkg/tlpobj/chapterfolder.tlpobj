@@ -1,0 +1,24 @@
+name chapterfolder
+category Package
+revision 15878
+shortdesc Package for working with complicated folder structures
+longdesc This package simplifies working with folder structures that
+longdesc match the chapter/section/subsection structure. It provides
+longdesc macros to define a folder that contains the file for a
+longdesc chapter/section/subsection, and provides macros that allow
+longdesc inclusion without using the full path, rather the path relative
+longdesc to the current folder of the chapter/section/subsection. It
+longdesc makes easy changing the name of a folder, for example.
+containersize 1588
+containerchecksum b5f68c160249e9cd94efc4c664a18c04e627d416b304697859144d6bbc5ef787c0f8721d19cd6aab6c60864dedc65e84b3ea9114b7c823a8131b4bfdfad0c2b8
+doccontainersize 186732
+doccontainerchecksum 43a28dd7182e02ebe0541c7b236046a6c23d55c73e36aa1a0e85954c5efd917667e1916ed0bb7000cbc5285230d162d5e844726282f0bb93ff85dfbde5fe8c57
+srccontainersize 2884
+srccontainerchecksum 179e4fd7966f1bc12fa89fa36a5e292f0d9937bd5ae74dbc9ef5846b0d55fdfd53e998fdb9ea40311dd34c7a99646d2dfb309fc942c6cfa3ada312297975f1e9
+runfiles size=2
+ texmf-dist/tex/latex/chapterfolder/chapterfolder.sty
+catalogue-ctan /macros/latex/contrib/chapterfolder
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-mgmt
+catalogue-version 2.0.1

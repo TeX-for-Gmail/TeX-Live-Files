@@ -1,0 +1,8 @@
+name adhocfilelist.x86_64-linux
+category Package
+revision 28038
+shortdesc x86_64-linux files of adhocfilelist
+containersize 344
+containerchecksum fb87c94cd5ecbd61469d7f9948e21f96c84065b37fed326211a056669aef9e7ac2fecbb3ad93bee763491f51479e9cf0c0a172fae88b7d11b3483815595e421c
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/adhocfilelist

@@ -1,0 +1,32 @@
+name pacioli
+category Package
+revision 24947
+shortdesc Fonts designed by Fra Luca de Pacioli in 1497
+longdesc Pacioli was a c.15 mathematician, and his font was designed
+longdesc according to 'the divine proportion'. The font is uppercase
+longdesc letters together with punctuation and some analphabetics; no
+longdesc lowercase or digits. The Metafont source is distributed in a
+longdesc .dtx file, together with LaTeX support.
+containersize 14936
+containerchecksum a82b391630b5f572d8ded331ae98f480fb0cf7f3eaefdcab3100bc839e2b026f012320e334e82d04e01a27657f36927a4d1570086899ad637f8c47ddd0f22b2f
+doccontainersize 26000
+doccontainerchecksum fa911ec25c0d6cfa62a2d5396aedf893b9078604611ae5d34b06f24740f65fd62895e4d53a10931071d19ddd24244e3c7ee9893f4eff03efd0920fd1c1626610
+srccontainersize 20624
+srccontainerchecksum d9347b85cd548f5861b83ef2f213760805c3cb76fe0313f02935bf28baae72caf2d548459aed2acb7ad5061e49c6e6694e46e88bccc1164e83f63a6f97045d04
+runfiles size=23
+ texmf-dist/fonts/source/public/pacioli/cpclig.mf
+ texmf-dist/fonts/source/public/pacioli/cpcpunct.mf
+ texmf-dist/fonts/source/public/pacioli/cpcr10.mf
+ texmf-dist/fonts/source/public/pacioli/cpcromanp.mf
+ texmf-dist/fonts/source/public/pacioli/cpcromanu.mf
+ texmf-dist/fonts/source/public/pacioli/cpcsl10.mf
+ texmf-dist/fonts/source/public/pacioli/cpctitle.mf
+ texmf-dist/fonts/tfm/public/pacioli/cpcr10.tfm
+ texmf-dist/fonts/tfm/public/pacioli/cpcsl10.tfm
+ texmf-dist/tex/latex/pacioli/ot1cpc.fd
+ texmf-dist/tex/latex/pacioli/pacioli.sty
+ texmf-dist/tex/latex/pacioli/t1cpc.fd
+catalogue-ctan /fonts/pacioli
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-mf font-historical

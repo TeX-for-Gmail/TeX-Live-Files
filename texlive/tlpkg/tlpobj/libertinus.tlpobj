@@ -1,0 +1,19 @@
+name libertinus
+category Package
+revision 48588
+shortdesc Wrapper to use the correct libertinus package according to the used TeX engine
+longdesc This package is only a wrapper for the the two packages
+longdesc libertinus-type1 (pdfLaTeX) and libertinus-otf
+longdesc (LuaLaTeX/XeLaTeX). The Libertinus fonts are similiar to
+longdesc Libertine and Biolinum, but come with math symbols.
+containersize 1032
+containerchecksum ac413716b5316b11d09c30613461ebe432502d4f6b776aa3931a6e8e15ec1afe56d60632a5d9f941ce4acdb89e45914f2b072c95d8160fa1132819b8a0c67bc2
+doccontainersize 18704
+doccontainerchecksum 4a01523a5d8211138e873e15c9ab7c7b1f62900d64c7c75c08daae3114cea4fea5ae3a18d81b3210be78866887ec1cb9d38fe0d4b7e9c7e498f75d65f3eef5dd
+runfiles size=1
+ texmf-dist/tex/latex/libertinus/libertinus.sty
+catalogue-ctan /fonts/libertinus
+catalogue-date 2018-09-14 05:26:10 +0200
+catalogue-license lppl1.3
+catalogue-topics font-serif font-sans font-mono font-maths font-otf
+catalogue-version 0.01

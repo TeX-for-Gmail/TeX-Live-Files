@@ -1,0 +1,24 @@
+name lstaddons
+category Package
+revision 26196
+shortdesc Add-on packages for listings: autogobble and line background
+longdesc The bundle contains a small collection of add-on packages for
+longdesc the listings package. Current packages are: lstlinebgrd: colour
+longdesc the background of some or all lines of a listing; and
+longdesc lstautogobble: set the standard "gobble" option to the indent
+longdesc of the first line of the code.
+containersize 2208
+containerchecksum 8b2b14b28bcc4a3b4f26d2f48bbb59c111d4fd33d5479c20f7e03ac838c6b6631b99b1a5211b383e58dec74d70d9130af2a38e3b85407c4376f81e1b52c212b5
+doccontainersize 366356
+doccontainerchecksum 82bb6745b9f2342628bc83f356313c0de52148eef25ed3ade22f899693abe190de1a09347ebd2d03b06a5976d8c6f42994e2495eb7c4e513ddfa8244ca258cfd
+srccontainersize 5576
+srccontainerchecksum 048555cb2355366b87d527a39ab64ca91226d366d52e2352c1f4d503daced739508e217893dd0d0b405e99b5927efdda0f68c780215c392494dcde20b30a88d9
+runfiles size=2
+ texmf-dist/tex/latex/lstaddons/lstautogobble.sty
+ texmf-dist/tex/latex/lstaddons/lstlinebgrd.sty
+catalogue-contact-repository https://bitbucket.org/martin_scharrer/lstaddons
+catalogue-ctan /macros/latex/contrib/lstaddons
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics listing
+catalogue-version 0.1

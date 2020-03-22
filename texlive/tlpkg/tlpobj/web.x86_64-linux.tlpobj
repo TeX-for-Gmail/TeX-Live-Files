@@ -1,0 +1,9 @@
+name web.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of web
+containersize 78000
+containerchecksum 9fe94e612c34ff0329df43a39a4470a26a12f4607ca6c93d1a381ee5833f0bb8319b9d6f3d2b13b4a996f5130270b257acaeed8b3a267c98be86964218ed532e
+binfiles arch=x86_64-linux size=60
+ bin/x86_64-linux/tangle
+ bin/x86_64-linux/weave

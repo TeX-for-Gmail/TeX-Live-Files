@@ -1,0 +1,17 @@
+name python
+category Package
+revision 27064
+shortdesc Embed Python code in LaTeX
+longdesc The package enables you to embed Python code in LaTeX, and
+longdesc insert the script's output in the document.
+containersize 1940
+containerchecksum 85c300c969fccdff036e2da59ada1040bee6f25c6a8ec3c173ce44084fb9fd812aab79b8fdc0b9fbe2ffbf9485abca57fc5d82caf4ac5a3ff922501b46dec164
+doccontainersize 864
+doccontainerchecksum 8f88b9bc84a71c430486e2e3d2b33a4436cb1ac1257b9ea5629708438b8ac7488839d52fc138e4959575fe13388aa475770a62ca070b4746de8b78c53d5119a1
+runfiles size=1
+ texmf-dist/tex/latex/python/python.sty
+catalogue-ctan /macros/latex/contrib/python
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics callback
+catalogue-version 0.21

@@ -1,0 +1,13 @@
+name lshort-russian
+category Package
+revision 18906
+shortdesc Russian introduction to LaTeX
+longdesc Russian version of A Short Introduction to LaTeX2e.
+containersize 380
+containerchecksum 71e40e2502db0706d5ea1776c49888a05229771eefea3d17b8260d489099249c59ff3b94f53eed14fb7b53806e1c29f99386cb4118bc28e2bacc3dc3875eaec4
+doccontainersize 1307888
+doccontainerchecksum 65183cee479c3f3afc909616f39c6e8a51c4032ed67563709713d8c1d9a6d2f681914c2ace4bacc88cbf37a4bab4fb400b2ec108b257b4e3e67c0f0611de6eb3
+catalogue-ctan /info/lshort/russian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics russian-doc tut-latex

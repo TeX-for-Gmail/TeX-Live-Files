@@ -1,0 +1,22 @@
+name rcs-multi
+category Package
+revision 21939
+shortdesc Typeset RCS version control in multiple-file documents
+longdesc The package enables the user to typeset version control
+longdesc information provided by RCS keywords (e.g., $ID: ... $) in
+longdesc LaTeX documents that contain multiple TeX files. The package is
+longdesc based on the author's svn-multi package.
+containersize 2996
+containerchecksum 156e3f47b8f4eae8cb959bd561cca2c592a43483cdb99fd04a88593ab5fd585a814b0e3416a835ce8d249969eafe119cd80c9c5364f40a9e595aff2c5f2e6f65
+doccontainersize 651132
+doccontainerchecksum 2eafcfc5c0297c021ea7f35abfac9526c4a40cd46efb88ee6f41a5c0f5d68586263d3140db73c1f9026cc0fc856a888369b21f5d85679f5eb60dccbe111938d3
+srccontainersize 13584
+srccontainerchecksum 6fda675809ee257aa7f96a3ddcca5e3ec8577bc337c3f303ee6658bebace26ba271a367b116abc32fcb2633bb5c57a442b2e12fc2bf67b8326ffaa46f08f6ed4
+runfiles size=3
+ texmf-dist/tex/latex/rcs-multi/rcs-multi.sty
+catalogue-also rcs rcsinfo
+catalogue-ctan /macros/latex/contrib/rcs-multi
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics version-control doc-mgmt
+catalogue-version 0.1a

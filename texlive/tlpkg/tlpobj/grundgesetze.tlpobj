@@ -1,0 +1,21 @@
+name grundgesetze
+category Package
+revision 34439
+shortdesc Typeset Frege's Grundgesetze der Arithmetik
+longdesc The package defines maths mode commands for typesetting Gottlob
+longdesc Frege's concept-script in the style of his "Grundgesetze der
+longdesc Arithmetik" (Basic Laws of Arithmetic).
+containersize 2360
+containerchecksum 2fb5c03a405e29d27c929fd3970af300df8134efc584a52dd088adb6e0678979af7c6302cffc590b2471a66e13399f628d257f298f1ffb9689d8aa1d268b9438
+doccontainersize 225144
+doccontainerchecksum cdf228d38f34810d543b0e5135acb75a8ab12de7b706bda79f2abe9b6cdcf1e7c7ccd3f0ddb7cc4cc2560f5fb06c06eacdebcf06af89500953812f2e7a0c8285
+srccontainersize 8100
+srccontainerchecksum 7cd35484acde51219cff50fa78fc202c03ddc761fc2151bca789454e0aa0a2ea4a8088a5c6b9cbe468707f9efcde661c2d4c5357efc161d8454b4749870358e3
+runfiles size=3
+ texmf-dist/tex/latex/grundgesetze/grundgesetze.sty
+catalogue-also begriff frege bguq
+catalogue-ctan /macros/latex/contrib/grundgesetze
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics maths logic
+catalogue-version 1.02

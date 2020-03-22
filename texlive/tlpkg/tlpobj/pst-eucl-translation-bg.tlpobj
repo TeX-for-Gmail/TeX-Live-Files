@@ -1,0 +1,16 @@
+name pst-eucl-translation-bg
+category Package
+revision 19296
+shortdesc Bulgarian translation of the pst-eucl documentation
+longdesc The pst-eucl package documentation in Bulgarian language -
+longdesc Euclidean Geometry with PSTricks.
+containersize 448
+containerchecksum ba2a7a76db77f4db3a548654e53d587b8f5b3dab9fef56b1f8c2640bcace64237e0bea5129025a07a490a2660ccd019fc5e83e3db504c6cd30b12b19df755f8d
+doccontainersize 362324
+doccontainerchecksum 9f6d0153e79a205d0fce5b289fa43317ded0b70abc06139a503b98199584e8cb12b083c8235b6b53ff2a80cf249a4a43cefd3e0b39a9a406c62c1e684bcb35eb
+catalogue-also pst-eucl
+catalogue-ctan /info/translations/pst-eucl/bulgarian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bulgarian maths pstricks translation
+catalogue-version 1.3.2

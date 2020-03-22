@@ -1,0 +1,19 @@
+name biblatex-juradiss
+category Package
+revision 29252
+shortdesc BibLaTeX stylefiles for German law thesis
+longdesc The package provides a style for use in typesetting a German
+longdesc law thesis with LaTeX. The package (using BibLaTeX) is based on
+longdesc biblatex-dw and uses biber.
+containersize 5840
+containerchecksum 48e5d926b24752a8138b1094ba47955e9f8d479d3572c2c81d727824e0e5a6243cad37d3a61f1d28163b5bddec6ceb2b35a5f19aff722980eae350ac9382cdd9
+doccontainersize 138024
+doccontainerchecksum 573378ed40ce0a3efd0c47bf0a32d146543e16b80dbff7935ab980e82de61a1d8023688d59fc2df001a3415b9c73bfbbeae3ce4c240c2ea958a65d6d2003274d
+runfiles size=7
+ texmf-dist/tex/latex/biblatex-juradiss/biblatex-juradiss.bbx
+ texmf-dist/tex/latex/biblatex-juradiss/biblatex-juradiss.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-juradiss
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics legal dissertation biblatex
+catalogue-version 0.1g

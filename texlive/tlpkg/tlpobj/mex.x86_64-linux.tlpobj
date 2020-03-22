@@ -1,0 +1,10 @@
+name mex.x86_64-linux
+category Package
+revision 3185
+shortdesc x86_64-linux files of mex
+containersize 352
+containerchecksum 5a09d493c0a0eaeda5e7910499abb9bb0ad0eb1199f03b6352fc958e282ad5f77a865414a8ec2dbe344024aed62394d0637b15bc7914f333accd10cb67d6c4ce
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/mex
+ bin/x86_64-linux/pdfmex
+ bin/x86_64-linux/utf8mex

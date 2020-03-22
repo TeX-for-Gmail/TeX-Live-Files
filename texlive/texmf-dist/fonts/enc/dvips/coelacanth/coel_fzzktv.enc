@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_fzzktvxmlcmhi4n5ina3t6fzpd
+% Encoding created by otftotfm on Sun Sep 10 15:55:48 2017
+% Command line follows encoding
+/AutoEnc_fzzktvxmlcmhi4n5ina3t6fzpd [
+%00
+  /grave /acute /circumflex /tilde /dieresis /hungarumlaut /ring /caron
+  /breve /macron /dotaccent /cedilla /ogonek /quotesinglbase /guilsinglleft /guilsinglright
+%10
+  /quotedblleft /quotedblright /quotedblbase /guillemotleft /guillemotright /endash /emdash /.notdef
+  /.notdef /I /uni0237 /.notdef /.notdef /.notdef /.notdef /.notdef
+%20
+  /.notdef /exclam /quotedbl /numbersign /dollar.alt /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.tabularlining /one.tabularlining /two.tabularlining /three.tabularlining /four.tabularlining /five.tabularlining /six.tabularlining /seven.tabularlining
+  /eight.tabularlining /nine.tabularlining /colon /semicolon /less /equal /greater /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+%60
+  /quoteleft /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%70
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /braceleft /bar /braceright /asciitilde /hyphen
+%80
+  /Abreve /Aogonek /Cacute /Ccaron /Dcaron /Ecaron /Eogonek /Gbreve
+  /Lacute /Lcaron /Lslash /Nacute /Ncaron /Eng /Ohungarumlaut /Racute
+%90
+  /Rcaron /Sacute /Scaron /Scedilla /Tcaron /Tcommaaccent /Uhungarumlaut /Uring
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /IJ /Idotaccent /Dcroat /section
+%A0
+  /Abreve /Aogonek /Cacute /Ccaron /Dcaron /Ecaron /Eogonek /Gbreve
+  /Lacute /Lcaron /Lslash /Nacute /Ncaron /Eng /Ohungarumlaut /Racute
+%B0
+  /Rcaron /Sacute /Scaron /Scedilla /Tcaron /Tcommaaccent /Uhungarumlaut /Uring
+  /Ydieresis /Zacute /Zcaron /Zdotaccent /IJ /exclamdown /questiondown /sterling
+%C0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%D0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /.notdef
+%E0
+  /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+  /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+%F0
+  /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /OE
+  /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /uni1E9E
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_t1
+% --tfm-directory=texmf/fonts/tfm/public/coelacanth
+% --vf-directory=texmf/fonts/vf/public/coelacanth
+% --type1-directory=texmf/fonts/type1/public/coelacanth
+% --truetype-directory=texmf/fonts/truetype/public/coelacanth
+% --encoding-directory=texmf/fonts/enc/dvips/coelacanth
+% --map-file=texmf/fonts/map/dvips/coelacanth/Coelacanth.map --no-updmap
+% --coding-scheme=EXTENDED TEX FONT ENCODING - LATIN --feature=case
+% --feature=cpsp --feature=kern --feature=liga --feature=lnum --feature=tnum
+% CoelacanthBold.otf CoelacanthBold-tlf-titling-t1'

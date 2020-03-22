@@ -1,0 +1,18 @@
+name denisbdoc
+category Package
+revision 42829
+shortdesc A personal dirty package for documenting packages
+longdesc A personal dirty package for documenting packages.
+containersize 13056
+containerchecksum c713ac155e390d3fc75549fb7ff6e3ba13ebf3b3b1a0c001dd39f6300fe2b55ec232221d5aa07b84c87ab7daa971504c20e5f08f033ef5d36dcf9af097128b74
+doccontainersize 1148
+doccontainerchecksum 561342a0807ca00550410463755c0a348c97e2ededdfe7e6b55c99e34b8a93928167b33e1ec0a7529de6280ee5cdc4001f051234b9c4eec9c41bc2c560bad62c
+srccontainersize 19100
+srccontainerchecksum e6c27403b1b6603aeea35582f91348a65a5466679a51da2926be278947415f7bb16104220891c3322423115aa973f66ef820462eec7b8680d6020c8364080c52
+runfiles size=13
+ texmf-dist/tex/latex/denisbdoc/denisbdoc.sty
+catalogue-ctan /macros/latex/contrib/denisbdoc
+catalogue-date 2017-01-01 22:02:36 +0100
+catalogue-license lppl1.3
+catalogue-topics doc-supp
+catalogue-version 0.7

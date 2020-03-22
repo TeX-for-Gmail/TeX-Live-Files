@@ -1,0 +1,27 @@
+name biblatex-ieee
+category Package
+revision 48448
+shortdesc IEEE style files for BibLaTeX
+longdesc This is a BibLaTeX style that implements the bibliography style
+longdesc of the IEEE for BibLaTeX. The implementation follows standard
+longdesc BibLaTeX conventions, and can be used simply by loading
+longdesc BibLaTeX with the appropriate option:
+longdesc \usepackage[style=ieee]{biblatex} A demonstration database is
+longdesc provided to show how to format input for the style.
+longdesc biblatex-ieee requires BibLaTeX 2.7 or later, and works with
+longdesc both BibTeX and Biber as the database back-end.
+containersize 5140
+containerchecksum d9f0de9d4c158c6d35d0a89a5ba526eaa04bd976889896e73f27c36b67f4906b4463df68409277234a3cc77c3cbf008f8256bda8fdce02206d983b3fbd4352c4
+doccontainersize 557376
+doccontainerchecksum 91908e2c3755d3e5fb5438932b0164dd14e5580a042f574b99781ad59d5bb0fe0af7b65a4f0a59fbc6c56c737e62a339aba56f1dbe0c3afa666a863cee0b9411
+runfiles size=9
+ texmf-dist/tex/latex/biblatex-ieee/ieee-alphabetic.bbx
+ texmf-dist/tex/latex/biblatex-ieee/ieee-alphabetic.cbx
+ texmf-dist/tex/latex/biblatex-ieee/ieee.bbx
+ texmf-dist/tex/latex/biblatex-ieee/ieee.cbx
+ texmf-dist/tex/latex/biblatex-ieee/magyar-ieee.lbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-ieee
+catalogue-date 2018-08-21 09:59:57 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex journalpub
+catalogue-version 1.3

@@ -1,0 +1,36 @@
+name biblatex-iso690
+category Package
+revision 44066
+shortdesc BibLaTeX style for ISO 690 standard
+longdesc The package provides a bibliography and citation style which
+longdesc conforms to the latest revision of the international standard
+longdesc ISO 690:2010. The implementation follows BibLaTeX conventions
+longdesc and requires BibLaTeX [?] 3.4 and biber [?] 2.5.
+containersize 6164
+containerchecksum f9fdbc47e9d655a525d5f02a82d45ddc89cbd2a7ab8f3827996bec5c28c3e6f3f8ad5524ab129a86b235bebd2c3005dd2abdf121bfa419292a09d0915ec0badf
+doccontainersize 176392
+doccontainerchecksum ff6a45de0d40f99dbd55402cd4aa19fe4eac71a1e65376241ea3a4fead3370208acefc8bb37595c8bf380aa00d2acdc7657d195df8e62fef49c389d0e698bfee
+runfiles size=21
+ texmf-dist/tex/latex/biblatex-iso690/czech-iso.lbx
+ texmf-dist/tex/latex/biblatex-iso690/english-iso.lbx
+ texmf-dist/tex/latex/biblatex-iso690/german-iso.lbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-alphabetic.bbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-alphabetic.cbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authortitle.bbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authortitle.cbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authortitle.dbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authoryear.bbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authoryear.cbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-authoryear.dbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-fullcite.cbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-numeric.bbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-numeric.cbx
+ texmf-dist/tex/latex/biblatex-iso690/iso-numeric.dbx
+ texmf-dist/tex/latex/biblatex-iso690/iso.bbx
+ texmf-dist/tex/latex/biblatex-iso690/slovak-iso.lbx
+catalogue-contact-repository https://github.com/michal-h21/biblatex-iso690
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-iso690
+catalogue-date 2017-04-26 20:10:54 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 0.3.2

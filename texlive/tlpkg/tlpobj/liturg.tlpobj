@@ -1,0 +1,20 @@
+name liturg
+category Package
+revision 15878
+shortdesc Support for typesetting Catholic liturgical texts
+longdesc The packages offers simple macros for typesetting Catholic
+longdesc liturgical texts, particularly Missal and Breviary texts. The
+longdesc package assumes availability of Latin typesetting packages.
+containersize 6508
+containerchecksum e97da4e9046fbd60ac2b22bc3753db7a75b5b6aeeb6c37293c5dd1e4e8fffd18b32818b9038b816a405033ff74d9c19ec2443b0169721656af687f1c5d62cf9d
+doccontainersize 115684
+doccontainerchecksum 6b342e85917d5a70dc32461de01ae3c6ac66ca247b4ba3d812b7645f1cd1d961c914e584cabf743bb03ea74cac144ec05b03cc09d0c23cf7bbf4b8ce7d01937c
+srccontainersize 924
+srccontainerchecksum 07bfbe684ae7584cac1dceb3d9012607ee24639a0e4e858d2f570f4aa3c21280bb6116123910a111c729dab794e568c05f8778d3b71612ebc288b0c268eab920
+runfiles size=5
+ texmf-dist/tex/latex/liturg/liturg.sty
+catalogue-ctan /macros/latex/contrib/liturg
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics theology
+catalogue-version 1.0

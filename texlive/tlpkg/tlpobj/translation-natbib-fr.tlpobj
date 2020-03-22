@@ -1,0 +1,13 @@
+name translation-natbib-fr
+category Package
+revision 25105
+shortdesc French translation of the documentation of natbib
+longdesc A French translation of the documentation of natbib.
+containersize 384
+containerchecksum ff34cb7cece157b933117ba0e9aadb0e9caa759a406fabf7b0ebb89e5b03ee6db7aa493551816e9061ff91a460e46a58f1402b086d37c48863b4e093d19326a8
+doccontainersize 687888
+doccontainerchecksum 971570414f9705cc4026a21a557b2f1dfe8fc010feca4f1ada946d11aa30169746c2017fb3882e65e68520539974eaf2361ebab7bcd292eed177fa7f6eb7337c
+catalogue-ctan /info/translations/natbib/fr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics french-doc bibtex-supp translation

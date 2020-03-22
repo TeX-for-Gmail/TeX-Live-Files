@@ -1,0 +1,20 @@
+name chess-problem-diagrams
+category Package
+revision 39317
+shortdesc A package for typesetting chess problem diagrams
+longdesc This package provides macros to typeset chess problem diagrams
+longdesc including fairy chess problems (mostly using rotated images of
+longdesc pieces) and other boards.
+containersize 11600
+containerchecksum 9216d5a545da3a9bf845d0fb91e345117a5917fbb992c93049a05baef3ea6517870572cd0c4f6f725045cb094f64ee3067a2d2eb461515c937d061a611619b11
+doccontainersize 292612
+doccontainerchecksum 2d9268dd31ad4b9961824c7f9e73ea13c140a4d6fc6ab9c741ace4ec32de76ca2d0986b2caa5d2efa45c87968551dd3ba88d4d58b7c439300c9e748f551b2964
+srccontainersize 23036
+srccontainerchecksum 52ecd3daa5e1de9feb486c256cb0acd1dc262d12d574fec5cee8fa81cccd927d2636a6309a2aa6a8a57e27648c89dfbe4c3c5d380ecfc44e816e1a428c00831a
+runfiles size=14
+ texmf-dist/tex/latex/chess-problem-diagrams/diagram.sty
+catalogue-ctan /macros/latex/contrib/chess-problem-diagrams
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics games
+catalogue-version 1.12

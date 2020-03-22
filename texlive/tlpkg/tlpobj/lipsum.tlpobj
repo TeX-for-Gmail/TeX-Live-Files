@@ -1,0 +1,26 @@
+name lipsum
+category Package
+revision 49610
+shortdesc Easy access to the Lorem Ipsum dummy text
+longdesc This package gives you easy access to the Lorem Ipsum dummy
+longdesc text; an option is available to separate the paragraphs of the
+longdesc dummy text into TeX-paragraphs. All the paragraphs are taken
+longdesc with permission from http://lipsum.com/.
+containersize 75600
+containerchecksum f5d2454f160162fd1272f5a43e021e1050947b527614c6450a87e1ba8aaa8151dad281cd962142d5ad39cec9f44ac7b313fdcc44da94db0256ab9a2e14b75b0e
+doccontainersize 802516
+doccontainerchecksum fae8e8002b33c26ab34c53d09e1bbb76f46164e2fa8a59517dad19e81c1b84505170e675cc2d9072e30d5e5314f7ea7b72d61e273de9ca9f898d97ec2143e3fa
+srccontainersize 87100
+srccontainerchecksum 1ac058c3c83d14701b54238aa78aac52c1495038985e30584e948842d5a6486436c733df790fb56b405e99033496921d9401e6d73ee485685e46586a01edba00
+runfiles size=65
+ texmf-dist/tex/latex/lipsum/cicero.ltd.tex
+ texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+ texmf-dist/tex/latex/lipsum/lipsum.sty
+catalogue-also blindtext kantlipsum
+catalogue-contact-bugs https://github.com/patta42/lipsum/issues
+catalogue-contact-repository https://github.com/patta42/lipsum/
+catalogue-ctan /macros/latex/contrib/lipsum
+catalogue-date 2019-01-04 14:16:03 +0100
+catalogue-license lppl1.3
+catalogue-topics macro-supp dummy-gen
+catalogue-version 2.2

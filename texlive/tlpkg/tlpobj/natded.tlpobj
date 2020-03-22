@@ -1,0 +1,17 @@
+name natded
+category Package
+revision 32693
+shortdesc Typeset natural deduction proofs
+longdesc The package provides commands to typeset proofs in the style
+longdesc used by Jaskowski, or that of Kalish and Montague.
+containersize 3044
+containerchecksum 85568d2bd3b729cda5e4512a2e3309353e7abdcd6a02ee3f86e07bf65cd74ca9581d7b2746d582b704a116313b77cc5ea94f19fe0d233a3b41c4ae88a8704f12
+doccontainersize 339336
+doccontainerchecksum 5cc23aaaf6006c1f77d676ad1f20d3a62d9ac8d8be6f41e68085844f6060d570baa04000bf3108c975add502c7ad62086509464753474a74c43d045122b28294
+runfiles size=4
+ texmf-dist/tex/latex/natded/natded.sty
+catalogue-ctan /macros/latex/contrib/natded
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics proof
+catalogue-version 0.1

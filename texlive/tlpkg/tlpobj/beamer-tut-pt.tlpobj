@@ -1,0 +1,12 @@
+name beamer-tut-pt
+category Package
+revision 15878
+shortdesc An introduction to the Beamer class, in Portuguese
+containersize 372
+containerchecksum 6074f5933b945f02b24c31353bd7d683b35a54f53aacfa2ac19de382f56fbb9f6284316ee70c0eacea3760101d98d4a6b7d78412a0d41b13c9e1c907d181ee16
+doccontainersize 919784
+doccontainerchecksum ef6e80c3417cfad3e2f3e0ecd3ce249aa0b4cf0a6b5dced09c27138e34a8c86a74d0d03c6888d0944fe2b03bb5b8180872306263c58f54281f4ed2fe3424d4bc
+catalogue-ctan /info/portuguese/beamer
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license gpl
+catalogue-topics portuguese-doc presentation

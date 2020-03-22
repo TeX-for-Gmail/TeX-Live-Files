@@ -1,0 +1,77 @@
+name aspectratio
+category Package
+revision 25243
+shortdesc Capital A and capital R ligature for Aspect Ratio
+longdesc The package provides fonts (both as Adobe Type 1 format, and as
+longdesc Metafont source) for the 'AR' symbol (for Aspect Ratio) used by
+longdesc aeronautical scientists and engineers. Note that the package
+longdesc supersedes the package ar
+execute addMap aspectratio.map
+containersize 65600
+containerchecksum 1447c3037f5477aeadfe3e5fe18a004ffa1b8c5c18b7c68295b8065e32c5a3e6a044e7f9868bafe3d8b81e391b2c614e2153302ef34e1e4aabe84c92ada2f129
+doccontainersize 337268
+doccontainerchecksum 5ee4918a3d90e9e4b51a2985352133331b77a8a87bdd8d41fab9348e5c548670ab56b5f0afc63756b65fdb6e45aa7594335995ac0d146d542b571eefbaa84d78
+runfiles size=82
+ texmf-dist/fonts/map/dvips/aspectratio/aspectratio.map
+ texmf-dist/fonts/source/public/aspectratio/ar10.mf
+ texmf-dist/fonts/source/public/aspectratio/ar12.mf
+ texmf-dist/fonts/source/public/aspectratio/ar6.mf
+ texmf-dist/fonts/source/public/aspectratio/ar7.mf
+ texmf-dist/fonts/source/public/aspectratio/ar8.mf
+ texmf-dist/fonts/source/public/aspectratio/ar9.mf
+ texmf-dist/fonts/source/public/aspectratio/arb10.mf
+ texmf-dist/fonts/source/public/aspectratio/arb12.mf
+ texmf-dist/fonts/source/public/aspectratio/arb5.mf
+ texmf-dist/fonts/source/public/aspectratio/arb6.mf
+ texmf-dist/fonts/source/public/aspectratio/arb7.mf
+ texmf-dist/fonts/source/public/aspectratio/arb8.mf
+ texmf-dist/fonts/source/public/aspectratio/arb9.mf
+ texmf-dist/fonts/source/public/aspectratio/arssbi10.mf
+ texmf-dist/fonts/source/public/aspectratio/arssi10.mf
+ texmf-dist/fonts/source/public/aspectratio/artti10.mf
+ texmf-dist/fonts/tfm/public/aspectratio/amarbi.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/amarri.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/aparbi.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/aparri.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar10.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar12.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar5.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar6.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar7.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar8.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/ar9.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb10.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb12.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb5.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb6.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb7.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb8.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arb9.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arssbi10.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/arssi10.tfm
+ texmf-dist/fonts/tfm/public/aspectratio/artti10.tfm
+ texmf-dist/fonts/type1/public/aspectratio/amarbi.pfb
+ texmf-dist/fonts/type1/public/aspectratio/amarri.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar10.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar12.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar5.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar6.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar7.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar8.pfb
+ texmf-dist/fonts/type1/public/aspectratio/ar9.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb10.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb12.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb5.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb6.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb7.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb8.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arb9.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arssbi10.pfb
+ texmf-dist/fonts/type1/public/aspectratio/arssi10.pfb
+ texmf-dist/fonts/type1/public/aspectratio/artti10.pfb
+ texmf-dist/tex/latex/aspectratio/ar.sty
+catalogue-ctan /macros/latex/contrib/aspectratio
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-specialist font-type1 font-mf
+catalogue-version 2.0

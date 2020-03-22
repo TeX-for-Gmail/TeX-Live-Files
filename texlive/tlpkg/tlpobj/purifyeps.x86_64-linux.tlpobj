@@ -1,0 +1,8 @@
+name purifyeps.x86_64-linux
+category Package
+revision 13777
+shortdesc x86_64-linux files of purifyeps
+containersize 340
+containerchecksum 17460a14651575c4e15ba1e1fd705386e68e4acab85248614f8ecebfb0de71ea2ed140b09867f94d1989f6bd1ba74ed9f48d5c5fcd09d17f2119a24757aa5c16
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/purifyeps

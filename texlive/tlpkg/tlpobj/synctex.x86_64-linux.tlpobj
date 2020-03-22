@@ -1,0 +1,8 @@
+name synctex.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of synctex
+containersize 72944
+containerchecksum 805d3bb3eed9efd77f2e4fe4ad29830b3f8c2ec70525d762aace625bd97f0a07710091bd9005dfe4106999a94dffd6f39501681f23d6bb0a25c6caa837e83cf8
+binfiles arch=x86_64-linux size=46
+ bin/x86_64-linux/synctex

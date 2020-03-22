@@ -1,0 +1,23 @@
+name epiolmec
+category Package
+revision 15878
+shortdesc Typesetting the Epi-Olmec Language
+longdesc The package contains all the necessary files to typeset
+longdesc Epi-Olmec "documents", in a script used in Southern Middle
+longdesc America until about 500 AD.
+execute addMap epiolmec.map
+containersize 108800
+containerchecksum 5cbe40240b14ed494500c3831a02659be437ad9710708929a69670d00b788ffc99d4d35e66fba04f170c9844faf2432c116d75e6b01988736ab483e7d0255a8c
+doccontainersize 122428
+doccontainerchecksum d2c54da2821e850f17ea0a21d0bc67385e2d986948503fbc23ce6df5229708f0700cdd30a94d09cb310cbd911c183c40935e944341b6ee7ec56cdd9c2602011e
+srccontainersize 6548
+srccontainerchecksum a52ef99c57524444151175f8e345cc59ae99c962e31420363c01e3121e1b4ecfbaeed28a01c3185d9d57beae90aaa8fe55dec15fd0790088f72fc4ee8860ea12
+runfiles size=34
+ texmf-dist/fonts/map/dvips/epiolmec/epiolmec.map
+ texmf-dist/fonts/tfm/public/epiolmec/EpiOlmec.tfm
+ texmf-dist/fonts/type1/public/epiolmec/Epi-Olmec.pfb
+ texmf-dist/tex/latex/epiolmec/epiolmec.sty
+catalogue-ctan /language/epiolmec
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-archaic

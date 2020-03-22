@@ -1,0 +1,30 @@
+name axodraw2
+category Package
+revision 50602
+shortdesc Feynman diagrams in a LaTeX document
+longdesc This package defines macros for drawing Feynman graphs in LaTeX
+longdesc documents. It is an important update of the axodraw package,
+longdesc but since it is not completely backwards compatible, we have
+longdesc given the style file a changed name. Many new features have
+longdesc been added, with new types of line, and much more flexibility
+longdesc in their properties. In addition, it is now possible to use
+longdesc axodraw2 with pdfLaTeX, as well as with the LaTeX-dvips method.
+longdesc However with pdfLaTeX (and also LuaLaTeX and XeLaTeX), an
+longdesc external program, axohelp, is used to perform the geometrical
+longdesc calculations needed for the pdf code inserted in the output
+longdesc file. The processing involves a run of pdfLaTeX, a run of
+longdesc axohelp, and then another run of pdfLaTeX.
+depend axodraw2.ARCH
+containersize 25588
+containerchecksum fbedd0c3df9707de542812844e958066be9ba6bd22de58105f9249780d4083d00438c97d92a9de4e79fa1ba1dc290870aa7c159c9d7750db68e34b0463a125c7
+doccontainersize 481188
+doccontainerchecksum 1a3aaf2768d6f7a0eaf6d76b77e6980b4ced669b32800860855166fa790d16ce11a1a9d7c29d8bfdf0d7202f11683ecd964be9f2f6e4eb8a9f3319c1a955158d
+srccontainersize 33984
+srccontainerchecksum 1c242daf8d3f1848178031e016fc9588fee3eb628f0641acc2076aec4e2e01aaf62b0dbdaeda682d7a583bb28d56443af539fe86b58cb84c933b566e72a8bbad
+runfiles size=34
+ texmf-dist/tex/latex/axodraw2/axodraw2.sty
+catalogue-ctan /graphics/axodraw2
+catalogue-date 2018-09-12 23:51:03 +0200
+catalogue-license gpl3
+catalogue-topics physics graphics-in-tex
+catalogue-version 2.1.1a

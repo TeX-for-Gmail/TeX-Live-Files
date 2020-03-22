@@ -1,0 +1,18 @@
+name chet
+category Package
+revision 45081
+shortdesc LaTeX layout inspired by harvmac
+longdesc The package aims to streamline the work of typesetting, and to
+longdesc provide the look and feel of harvmac for readers.
+containersize 5628
+containerchecksum d4a43d5ed1f8e74f0b4681abeb2b1134e9ad770cbde69679d53ea77e09a1a23412f03705691cd31110d145a96dd97e078d675274342c9323b849c770828db5fd
+doccontainersize 175744
+doccontainerchecksum 143b224d3ad957def3ec22a6e55c1b9eebd5db582065d422e1cf972580eb321ffc768c51cd687add62c01ab1cf3dec170422e6d9bbbab01846bf3e4cf84ec936
+runfiles size=7
+ texmf-dist/bibtex/bst/chet/chetref.bst
+ texmf-dist/tex/latex/chet/chet.sty
+catalogue-ctan /macros/latex/contrib/chet
+catalogue-date 2017-08-19 23:16:49 +0200
+catalogue-license lppl1.3
+catalogue-topics layout
+catalogue-version 2.2

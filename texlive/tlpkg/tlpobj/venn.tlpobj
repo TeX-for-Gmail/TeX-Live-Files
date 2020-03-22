@@ -1,0 +1,16 @@
+name venn
+category Package
+revision 15878
+shortdesc Creating Venn diagrams with MetaPost
+longdesc MetaPost macros for venn diagrams.
+containersize 2120
+containerchecksum 617ba85e996943d62a33acb2535e23700fffc63331741065faee558bebde608232a31bd73aa79ad707b107a9adda8b454f9b81dee184a64d94f32c44d76180c0
+doccontainersize 684
+doccontainerchecksum 0b1940cdc2bcbb7e2f103497622c4d5971abf4f6f4885f60b35a360cd655c34cd789ecbfbef9d35c61611ef22198200b11008f4f59588a5cd111870b77ba19d5
+runfiles size=2
+ texmf-dist/metapost/venn/venn.mp
+catalogue-also venndiagram
+catalogue-ctan /graphics/metapost/contrib/macros/venn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics diagram-maths

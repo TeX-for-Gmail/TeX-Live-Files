@@ -1,0 +1,20 @@
+name titleref
+category Package
+revision 18729
+shortdesc A "\titleref" command to cross-reference section titles
+longdesc Defines a command \titleref that allows you to cross-reference
+longdesc section (and chapter, etc) titles and captions just like \ref
+longdesc and \pageref. The package does not interwork with hyperref; if
+longdesc you need hypertext capabilities, use nameref instead.
+containersize 2924
+containerchecksum 73905fbe96bc095f602339e0c943048d775bf2a89ef9de3b7149dae7b76aef04e5c77803555450d931f3a4dfef16f5e72597a4d06052d4a852623516edd978f5
+doccontainersize 200724
+doccontainerchecksum 70db133fb8a5fa38a6f0f82912d19afe84e0f68820fe62b3835a6d237582a32fe6c2ba5ad05e46f39540d52d0aafa5a88325e1050e6102164a5753fd9c68d6ad
+runfiles size=2
+ texmf-dist/tex/latex/titleref/titleref.sty
+catalogue-also nameref
+catalogue-ctan /macros/latex/contrib/titleref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics label-ref
+catalogue-version 3.1

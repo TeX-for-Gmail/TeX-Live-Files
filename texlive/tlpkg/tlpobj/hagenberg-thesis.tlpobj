@@ -1,0 +1,29 @@
+name hagenberg-thesis
+category Package
+revision 49298
+shortdesc A Collection of LaTeX classes, style files, and example documents for academic manuscripts
+longdesc This bundle contains a collection of modern LaTeX classes,
+longdesc style files, and example documents for authoring Bachelor,
+longdesc Master, or Diploma theses and related academic manuscripts in
+longdesc English and German. Includes a comprehensive tutorial (in
+longdesc German) with detailed instructions and authoring guidelines.
+containersize 13492
+containerchecksum bddd09a319ea2f0ca89406064c23ded302d64c81d25844066b98008f08a3072cfa7329f521a69dbfe205ae1b15e2c9150df1f24030cd776ac5bb8031f025286b
+doccontainersize 3913704
+doccontainerchecksum 9dafb529a59300c963178e20c0b2f498afcc6d89e904cfb8a16dadce862617e135ba395ca0c85caea63ea68aaf3dcdf888058a8a09e6b648a9183eafa4064499
+runfiles size=19
+ texmf-dist/tex/latex/hagenberg-thesis/hgb.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbabbrev.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbalgo.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbarticle.cls
+ texmf-dist/tex/latex/hagenberg-thesis/hgbbib.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbheadings.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgblistings.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbmath.sty
+ texmf-dist/tex/latex/hagenberg-thesis/hgbreport.cls
+ texmf-dist/tex/latex/hagenberg-thesis/hgbthesis.cls
+catalogue-contact-repository https://github.com/Digital-Media/HagenbergThesis
+catalogue-ctan /macros/latex/contrib/hagenberg-thesis
+catalogue-date 2018-12-01 11:09:26 +0100
+catalogue-license cc-by-4
+catalogue-topics dissertation class

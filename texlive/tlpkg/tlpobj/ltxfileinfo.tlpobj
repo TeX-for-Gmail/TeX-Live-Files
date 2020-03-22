@@ -1,0 +1,22 @@
+name ltxfileinfo
+category Package
+revision 38663
+shortdesc Print version information for a LaTeX file
+longdesc ltxfileinfo displays version information for LaTeX files. If no
+longdesc path information is given, the file is searched using
+longdesc kpsewhich. As an extra, for developers, the script will (use
+longdesc the --star or --color options) check the valididity of the
+longdesc \Provides... statements in the files. The script uses code from
+longdesc Uwe Luck's readprov.sty.
+depend ltxfileinfo.ARCH
+containersize 5168
+containerchecksum ca078af6b822747e9b337eb5694c1b019444e55f5f9f9dbdf59fa1a65c9445b19a62b0d610514c9231365017d3ea95ad9288a37b62b400c12df74c0c7f774a44
+doccontainersize 37612
+doccontainerchecksum 0020ffc5874e0545c7ae4d1f6f9c0d5d598786444f4e98369e0c5fc872c5d63f235222594a9b0f5d2def5c3dcafc5ad660a4fd5a9e4551dd7717bc6ac06189d5
+runfiles size=4
+ texmf-dist/scripts/ltxfileinfo/ltxfileinfo
+catalogue-ctan /support/ltxfileinfo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics file-mgmt
+catalogue-version 2.04

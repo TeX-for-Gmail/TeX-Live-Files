@@ -1,0 +1,24 @@
+name babel-spanglish
+category Package
+revision 37629
+shortdesc Simplified Spanish support for Babel
+longdesc The package provides very simplified (or ultra sloppy) support
+longdesc for Spanish in Babel, mostly as a fallback in case spanish.ldf
+longdesc fails for some reason. The package provides basic support for
+longdesc Spanish hyphenation, captions, date, frenchspacing,
+longdesc indentfirst, symbolic footnotes, enumerations, small caps roman
+longdesc numerals, and a handful of shorthands and Spanish mathematical
+longdesc operators. No options or attributes for customization are
+longdesc provided.
+containersize 4284
+containerchecksum 17fa7078d6bd54fff6c73677536dec46960703e14536c4a4476dc46a8586678b117e71058f665cbbf850a269cae841511807c6647251e088111262d9f2c4bef1
+doccontainersize 1232
+doccontainerchecksum 43cf66e656d965bb80e294a5e2786b412e79eb1ac6542a4a3788fde7cc6874e168cff30676c3bfe90c5bb67dc4452769dece84508fe999529d54bde40be5a5c1
+runfiles size=4
+ texmf-dist/tex/generic/babel-spanglish/spanglish.ldf
+ texmf-dist/tex/generic/babel-spanglish/spanglish.sty
+catalogue-ctan /macros/latex/contrib/babel-contrib/spanglish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics spanish multilingual-addon
+catalogue-version 0.3

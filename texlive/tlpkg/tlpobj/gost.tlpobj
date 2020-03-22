@@ -1,0 +1,45 @@
+name gost
+category Package
+revision 44131
+shortdesc BibTeX styles to format according to GOST
+longdesc BibTeX styles to format bibliographies in English, Russian or
+longdesc Ukrainian according to GOST 7.0.5-2008 or GOST 7.1-2003. Both
+longdesc 8-bit and Unicode (UTF-8) versions of each BibTeX style, in
+longdesc each case offering a choice of sorted and unsorted. Further, a
+longdesc set of three styles (which do not conform to current standards)
+longdesc are retained for backwards compatibility.
+containersize 16808
+containerchecksum 81509f8eeda503dbb62d696adebf15c7f5fccfbd34d23ca8d83a9e7e2fa328c98fc1acd1fd99061c260ace3895cadae8138f0350027c6e81a0b52fb2735a0cf0
+doccontainersize 1664344
+doccontainerchecksum 4a1a95d8647cc0e2b57f7815b4b06b7fd009e78a6aae701248f70a73825b394ff508a558a03386871d0a2ce22d43af81b677a2eeb3c2f2475a64a13d87493e51
+srccontainersize 26408
+srccontainerchecksum 4d54271026bc1490882e207c079a4caabb8fae9075fa39a2bab4673a4046a63d175e12182fd536d8c2e4bd049858add1739da987a4d99baf3d61a32fc0596687
+runfiles size=257
+ texmf-dist/bibtex/bst/gost/gost2003.bst
+ texmf-dist/bibtex/bst/gost/gost2003s.bst
+ texmf-dist/bibtex/bst/gost/gost2008.bst
+ texmf-dist/bibtex/bst/gost/gost2008l.bst
+ texmf-dist/bibtex/bst/gost/gost2008ls.bst
+ texmf-dist/bibtex/bst/gost/gost2008n.bst
+ texmf-dist/bibtex/bst/gost/gost2008ns.bst
+ texmf-dist/bibtex/bst/gost/gost2008s.bst
+ texmf-dist/bibtex/bst/gost/gost780.bst
+ texmf-dist/bibtex/bst/gost/gost780s.bst
+ texmf-dist/bibtex/bst/gost/ugost2003.bst
+ texmf-dist/bibtex/bst/gost/ugost2003s.bst
+ texmf-dist/bibtex/bst/gost/ugost2008.bst
+ texmf-dist/bibtex/bst/gost/ugost2008l.bst
+ texmf-dist/bibtex/bst/gost/ugost2008ls.bst
+ texmf-dist/bibtex/bst/gost/ugost2008n.bst
+ texmf-dist/bibtex/bst/gost/ugost2008ns.bst
+ texmf-dist/bibtex/bst/gost/ugost2008s.bst
+ texmf-dist/bibtex/csf/gost/cp1251.csf
+ texmf-dist/bibtex/csf/gost/koi8u.csf
+ texmf-dist/bibtex/csf/gost/ruscii.csf
+ texmf-dist/bibtex/csf/gost/utf8cyrillic.csf
+catalogue-also biblatex-gost
+catalogue-ctan /biblio/bibtex/contrib/gost
+catalogue-date 2017-01-14 14:16:05 +0100
+catalogue-license lppl1.3
+catalogue-topics bibtex-sty russian
+catalogue-version 1.2i

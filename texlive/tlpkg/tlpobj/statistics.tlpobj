@@ -1,0 +1,34 @@
+name statistics
+category Package
+revision 48252
+shortdesc Compute and typeset statistics tables and graphics
+longdesc The 'statistics' package can compute and typeset statistics
+longdesc like frequency tables, cumulative distribution functions
+longdesc (increasing or decreasing, in frequency or absolute count
+longdesc domain), from the counts of individual values, or ranges, or
+longdesc even the raw value list with repetitions. It can also compute
+longdesc and draw a bar diagram in case of individual values, or, when
+longdesc the data repartition is known from ranges, an histogram or the
+longdesc continuous cumulative distribution function. You can ask
+longdesc 'statistics' to display no result, selective results or all of
+longdesc them. Similarly 'statistics' can draw only some parts of the
+longdesc graphs. Every part of the generated tables or graphics is
+longdesc customizable.
+containersize 8280
+containerchecksum 3af04457e211b6094cefe7453a0d549d9d74d1a9f7c001f0cecc421538a3ccc3eb7b3cdb666880348821e68e1b85631fb2aa72fca02615b1e79e31b6688d3d2e
+doccontainersize 431312
+doccontainerchecksum 0ab00ebe9eb209ca690d2e4f56ef080fe1a5897ff8e28f43f2fc263db2aab3dbf8ce9bf873d9eff0e19d8015e32b65ff6b8eac33ad77bdbb79d8ba10e34a265c
+srccontainersize 23108
+srccontainerchecksum f6643b1408226b0e3f022cc89c6990b34c03eca4b223b2579d8938cce870ba6ab1dff4bca11a703556fe997458245146286d0d5e2fb7017c354f543f626150ff
+runfiles size=14
+ texmf-dist/tex/latex/statistics/statistics.sty
+catalogue-contact-bugs https://gitlab.com/frnchfrgg-latex/statistics/issues
+catalogue-contact-development https://gitlab.com/frnchfrgg-latex/statistics
+catalogue-contact-home https://gitlab.com/frnchfrgg-latex/statistics
+catalogue-contact-repository https://gitlab.com/frnchfrgg-latex/statistics
+catalogue-contact-support https://gitlab.com/frnchfrgg-latex/statistics/issues
+catalogue-ctan /macros/latex/contrib/statistics
+catalogue-date 2018-07-23 05:27:45 +0200
+catalogue-license gpl3+
+catalogue-topics maths statistics
+catalogue-version 2.0

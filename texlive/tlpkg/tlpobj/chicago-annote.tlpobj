@@ -1,0 +1,16 @@
+name chicago-annote
+category Package
+revision 15878
+shortdesc Chicago-based annotated BibTeX style
+longdesc This is a revision of chicagoa.bst, using the commonly-used
+longdesc annote field in place of the original's annotation.
+containersize 8920
+containerchecksum be2bc8e7e8eaa881ed7a8225b211ef464dd5635b93b867333458521e405fa42375d4804fbdebe1b913fa694aaaa839703494a155b0ea5d4a99162f6335ccef0b
+doccontainersize 416
+doccontainerchecksum 893ba3ff20355e0c395b2092fc01689bd956eb177434ab7152aea686210a7167a04b64ed8ec21030e4f4cbc7e1367a90976168b174fd068d6aecbd0304f380db
+runfiles size=10
+ texmf-dist/bibtex/bst/chicago-annote/chicago-annote.bst
+catalogue-ctan /biblio/bibtex/contrib/chicago-annote
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty bibtex-annote

@@ -1,0 +1,27 @@
+name multibib
+category Package
+revision 15878
+shortdesc Multiple bibliographies within one document
+longdesc The package the creation of references to multiple
+longdesc bibliographies within one document. It thus provides
+longdesc complementary functionality to packages like bibunits and
+longdesc chapterbib, which allow the creation of one bibliography for
+longdesc multiple, but different parts of the document. Multibib is
+longdesc compatible with inlinebib, natbib, and koma-script.
+containersize 16576
+containerchecksum 82cd48cf9097b36664d4dcfb5d73dbd6e961c2f0a8bf7816d1bc59a33cb6d2c65e0f63a9d1d596dc9faa4339536746089e34bd1b510e1b2c0ea272df5840e396
+doccontainersize 188844
+doccontainerchecksum 1d4536094c09755fc91b2657cc0eb0b0b2fd8d1c5ca37bf2f046b62a4b0be6f83a93debac8be3c5481651dc75cac2066962556370bd84face6b03aaba24bbcc6
+srccontainersize 12980
+srccontainerchecksum c7777e3c32833538893ae463d8396f894b390f642fa697b8ba237cd7183e2bc7cb86a9773530962f41372e4ec016eb96c7a060dc63081b2faf29248a65f14a1f
+runfiles size=20
+ texmf-dist/bibtex/bst/multibib/mbplain.bst
+ texmf-dist/bibtex/bst/multibib/mbunsrtdin.bst
+ texmf-dist/makeindex/multibib/mbgglo.ist
+ texmf-dist/makeindex/multibib/mbgind.ist
+ texmf-dist/tex/latex/multibib/multibib.sty
+catalogue-ctan /macros/latex/contrib/multibib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-multi bibtex-supp
+catalogue-version 1.4

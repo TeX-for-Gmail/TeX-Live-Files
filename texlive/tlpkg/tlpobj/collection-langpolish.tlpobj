@@ -1,0 +1,26 @@
+name collection-langpolish
+category Collection
+revision 44371
+shortdesc Polish
+longdesc Support for Polish.
+depend collection-latex
+depend collection-basic
+depend babel-polish
+depend bredzenie
+depend cc-pl
+depend gustlib
+depend gustprog
+depend hyphen-polish
+depend lshort-polish
+depend mex
+depend mwcls
+depend pl
+depend polski
+depend przechlewski-book
+depend qpxqtx
+depend tap
+depend tex-virtual-academy-pl
+depend texlive-pl
+depend utf8mex
+containersize 412
+containerchecksum 38799df728e830c93a50928efe5f337c91e34b97368e4cce4707e6cbca0a8ee22b9edc528084034a86c72a748367c3f46af37fbe87f5171951563d98f836de58

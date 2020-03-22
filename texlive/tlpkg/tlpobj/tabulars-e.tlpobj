@@ -1,0 +1,16 @@
+name tabulars-e
+category Package
+revision 21191
+shortdesc Examples from the book "Typesetting tables with LaTeX"
+longdesc The bundle presents the examples of the book "Typesetting
+longdesc tables with LaTeX" (ISBN 978-1-906860-25-7), as standalone
+longdesc documents.
+containersize 448
+containerchecksum c755ffcbcb5636b641a5b31a7fa2b2d97ce2e3e0f14fd08c23e0b234abadfe584bdd6e2628fffb614c249ffd17e46d56790fedd929a5af55ec92869ec302e6a8
+doccontainersize 48228
+doccontainerchecksum 2a29bd4c343c172f37874423a754b03888838db7ba4237992ea38167b82fbf7169dbe3056b269d487e398208d165d4fe2bbcb5413c138cc6129fb926f9ee7701
+catalogue-ctan /info/examples/tabulars-e
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex
+catalogue-version 1.0

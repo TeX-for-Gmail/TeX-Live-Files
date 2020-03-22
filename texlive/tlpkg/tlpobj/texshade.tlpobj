@@ -1,0 +1,28 @@
+name texshade
+category Package
+revision 46559
+shortdesc Package for setting nucleotide and peptide alignments
+longdesc TeXshade is alignment shading software completely written in
+longdesc TeX/LaTeX; it can process multiple sequence alignments in the
+longdesc .MSF and the .ALN file formats. In addition to common shading
+longdesc algorithms, it provides special shading modes showing
+longdesc functional aspects, e.g. charge or hydropathy, and a wide range
+longdesc of commands for handling shading colours, text styles, labels,
+longdesc legends; it even allows the user to define completely new
+longdesc shading modes. TeXshade combines highest flexibility with TeX
+longdesc output quality -- all in a bundle that does not demand
+longdesc excessive development time of the user.
+containersize 58772
+containerchecksum 785bba8f83063d37f2473759eb1ada73b31098ba757ce65ca1b7ac811581a64c706f2916eaa1237f6c6ee39dfa3514616d5b8789b9b8e2418c02ddd88e77e428
+doccontainersize 714020
+doccontainerchecksum e08cefab84354056854fa00b15efe8ba99e2e8f4ae6721afd03ecee5fad7b227674ca456de11b0607b1b34a2378ce41e11c517b0b0a544c12278bc3b9f0c4de4
+srccontainersize 134816
+srccontainerchecksum 3ade54e59a3342a60ae75a3b4b1068d646bab1d9dc58b29cfb3ea55471038061af7a2581b5a125b14d767ca659a336ac09dd2ec8360c3e54889a69529d62335e
+runfiles size=157
+ texmf-dist/tex/latex/texshade/texshade.def
+ texmf-dist/tex/latex/texshade/texshade.sty
+catalogue-ctan /macros/latex/contrib/texshade
+catalogue-date 2018-02-06 20:31:32 +0100
+catalogue-license gpl2
+catalogue-topics chemistry molbio
+catalogue-version 1.25

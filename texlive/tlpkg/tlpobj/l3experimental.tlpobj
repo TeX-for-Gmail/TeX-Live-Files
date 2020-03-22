@@ -1,0 +1,65 @@
+name l3experimental
+category Package
+revision 50246
+shortdesc Experimental LaTeX3 concepts
+longdesc The l3experimental packages are a collection of experimental
+longdesc implementations for aspects of the LaTeX3 kernel, dealing with
+longdesc higher-level ideas such as the Designer Interface. Some of them
+longdesc work as stand alone packages, providing new functionality, and
+longdesc can be used on top of LaTeX2e with no changes to the existing
+longdesc kernel. The present release includes: l3benchmark for measuring
+longdesc the time taken by TeX to run certain code; l3cctab, support for
+longdesc saving and restoring category codes en masse in a table;
+longdesc l3color, support for setting colors using a range of color
+longdesc models; l3draw, a code-level interface for constructing
+longdesc drawings; l3str, support for string manipulation; l3sys-shell,
+longdesc which provides abstractions for common shell functions like
+longdesc file deletion and copying; xcoffins, which allows the alignment
+longdesc of boxes using a series of 'handle' positions, supplementing
+longdesc the simple TeX reference point; xgalley, which controls boxes
+longdesc receiving text for typesetting.
+containersize 31216
+containerchecksum 26550a592742a0fc83a9a3404be2c7824b7cc923b31b613e9d7652fbcef2441812b11ccd7a2c55fed0ba0eeaeec381a6166edafb45eb9354220057f81ef49e30
+doccontainersize 3496392
+doccontainerchecksum 5e500f34775f89eabe632fa2575405ce069176a3103a1e0a98c089cf2d64a09d009308875f0d292c838be66381103b586d967bfa48b9d6e3c64d185ef6c252f7
+srccontainersize 97452
+srccontainerchecksum 8f54e389de2d04964dc4a741879ddbbb9aace9e988e9999cb0784964d259c020e44f724e1cc834b919779522ea265f4efc9f7f8c05192199aae6514d49640e00
+runfiles size=78
+ texmf-dist/tex/latex/l3experimental/l3benchmark/l3benchmark.sty
+ texmf-dist/tex/latex/l3experimental/l3cctab/l3cctab.sty
+ texmf-dist/tex/latex/l3experimental/l3color/l3color.sty
+ texmf-dist/tex/latex/l3experimental/l3draw/l3draw.sty
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-convert.sty
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88591.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885910.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885911.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885913.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885914.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885915.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso885916.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88592.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88593.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88594.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88595.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88596.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88597.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88598.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-iso88599.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-utf16.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-utf32.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-enc-utf8.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-esc-hex.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-esc-name.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-esc-string.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-esc-url.def
+ texmf-dist/tex/latex/l3experimental/l3str/l3str-format.sty
+ texmf-dist/tex/latex/l3experimental/l3sys-shell/l3sys-shell.sty
+ texmf-dist/tex/latex/l3experimental/xcoffins/xcoffins.sty
+ texmf-dist/tex/latex/l3experimental/xgalley/l3galley.sty
+ texmf-dist/tex/latex/l3experimental/xgalley/xgalley.sty
+catalogue-also l3kernel l3packages
+catalogue-contact-home http://www.latex-project.org/code.html
+catalogue-ctan /macros/latex/contrib/l3experimental
+catalogue-date 2019-03-05 20:57:05 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp layout latex3 pre-release

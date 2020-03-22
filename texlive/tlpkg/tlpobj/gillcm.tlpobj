@@ -1,0 +1,52 @@
+name gillcm
+category Package
+revision 19878
+shortdesc Alternative unslanted italic Computer Modern fonts
+longdesc This is a demonstration of the use of virtual fonts for unusual
+longdesc effects: the package implements an old idea of Eric Gill. The
+longdesc package was written for the author's talk at TUG 2010.
+containersize 13792
+containerchecksum 37c8141eac6b1636292479299f7df6b3dc128addf8f7ba680cef2c75d2f7ab04686134b243a86168c54052d4dcbc33f13c13a6629d7c98d3908e4cce5fb53f06
+doccontainersize 196160
+doccontainerchecksum 55e02d36c12bd12932c2d220f892852dd1c8c947cdea09d058ad38e5e513dfb684e75a8ecf07f5711200f942ea7732519c739866458c330ee271bf45af32ed45
+runfiles size=39
+ texmf-dist/fonts/map/dvips/gillcm/cmg.map
+ texmf-dist/fonts/tfm/public/gillcm/cmgb8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbi7t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbi8c.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbi8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbi8t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbiu7t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbiu8c.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbiu8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgbiu8t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgm8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmi7t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmi8c.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmi8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmi8t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmiu7t.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmiu8c.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmiu8r.tfm
+ texmf-dist/fonts/tfm/public/gillcm/cmgmiu8t.tfm
+ texmf-dist/fonts/vf/public/gillcm/cmgbi7t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgbi8c.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgbi8t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgbiu7t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgbiu8c.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgbiu8t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmi7t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmi8c.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmi8t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmiu7t.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmiu8c.vf
+ texmf-dist/fonts/vf/public/gillcm/cmgmiu8t.vf
+ texmf-dist/tex/latex/gillcm/gillcm.sty
+ texmf-dist/tex/latex/gillcm/ot1cmg.fd
+ texmf-dist/tex/latex/gillcm/t1cmg.fd
+ texmf-dist/tex/latex/gillcm/ts1cmg.fd
+catalogue-ctan /fonts/gillcm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license bsd
+catalogue-topics font-virtual
+catalogue-version 1.1

@@ -1,0 +1,47 @@
+name tcolorbox
+category Package
+revision 50206
+shortdesc Coloured boxes, for LaTeX examples and theorems, etc
+longdesc This package provides an environment for coloured and framed
+longdesc text boxes with a heading line. Optionally, such a box may be
+longdesc split in an upper and a lower part; thus the package may be
+longdesc used for the setting of LaTeX examples where one part of the
+longdesc box displays the source code and the other part shows the
+longdesc output. Another common use case is the setting of theorems. The
+longdesc package supports saving and reuse of source code and text
+longdesc parts. The package depends on the pgf, verbatim, environ, and
+longdesc etoolbox packages.
+containersize 228600
+containerchecksum cb3ac4195d28c2a6b52c0cd31a09e215ecf76b5150295987945a38a405a8187c025a6376e9167d689e1cfe2af6a5c483ae85800b01d7612f6922bd169d090f6d
+doccontainersize 5591892
+doccontainerchecksum cb419f2a369d60edefa1cd5655933fae371dc82650bc3cc70b47a441c01c34c0b93871b5192fe220c8cfcc92f23929c94e9a1aa7b604304bfd7e9b0ff260f297
+runfiles size=140
+ texmf-dist/tex/latex/tcolorbox/blueshade.png
+ texmf-dist/tex/latex/tcolorbox/crinklepaper.png
+ texmf-dist/tex/latex/tcolorbox/goldshade.png
+ texmf-dist/tex/latex/tcolorbox/pink_marble.png
+ texmf-dist/tex/latex/tcolorbox/tcbbreakable.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbdocumentation.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbexternal.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbfitting.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbhooks.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcblistings.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcblistingscore.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcblistingsutf8.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbmagazine.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbminted.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbposter.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbprocessing.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbraster.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbskins.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbskinsjigsaw.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbvignette.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcbxparse.code.tex
+ texmf-dist/tex/latex/tcolorbox/tcolorbox.sty
+catalogue-contact-bugs https://github.com/T-F-S/tcolorbox/issues
+catalogue-ctan /macros/latex/contrib/tcolorbox
+catalogue-date 2019-03-02 12:23:55 +0100
+catalogue-license lppl1.3
+catalogue-topics boxing colour verbatim listing
+catalogue-version 4.20

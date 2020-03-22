@@ -1,0 +1,20 @@
+name fullwidth
+category Package
+revision 24684
+shortdesc Adjust margins of text block
+longdesc The package provides the environment fullwidth, which sets the
+longdesc left and right margins in a simple way. There is no constraint
+longdesc about page breaks; if you are using the twoside mode, you can
+longdesc set the inner and outer margins to avoid the effects of the
+longdesc different margins.
+containersize 3760
+containerchecksum c9b9c37991365346804b51aae7b4645e5b63eb6a3c5c60a953cbe0583de0960e8a9d6cc99dc7526944415764869308d778fb85e7cde821792bec940f6c19072b
+doccontainersize 284820
+doccontainerchecksum 55892645ce01b31dd0285749091b8fbcab0061a7190f7a426379f6d3ea8bece8a5c054cad8b53efe1bb69a68fd3e49c3e8c8afb94954ff4ba8838142ab4576b8
+runfiles size=4
+ texmf-dist/tex/latex/fullwidth/fullwidth.sty
+catalogue-ctan /macros/latex/contrib/fullwidth
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics geometry
+catalogue-version 0.1

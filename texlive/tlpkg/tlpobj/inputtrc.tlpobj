@@ -1,0 +1,25 @@
+name inputtrc
+category Package
+revision 28019
+shortdesc Trace which file loads which
+longdesc The package produces screen/log messages of the form '<current>
+longdesc INPUTTING <next>' reporting LaTeX input commands (<current> and
+longdesc <next> being file names). The message is indented to reflect
+longdesc the level of input nesting. Tracing may be turned on and off,
+longdesc and the unit of indentation may be adjusted. The implementation
+longdesc somewhat resembles those of packages FiNK and inputfile.
+containersize 2812
+containerchecksum e6450fbeb0f9033b0bcc586c34f5bb8e9c3a6aae102c15912be315d14fe883b8bea62a59a4a65d0ebbfa9cebcc518b9dedf59297f026423ef14aed2c0a2004ab
+doccontainersize 335868
+doccontainerchecksum 4fe7894ee87bcb81566d1838f52c02902d8f5668662fdc016005e9a44b31f35eef8831143cdf5321717ee590ed14fc6c35305f584a0b63254549f96149ae2a50
+srccontainersize 7124
+srccontainerchecksum 942d536481750f2272cf8b1420e13703d16231a0998b90c7f3335d4aa6dbd0cf1ff3b6ce072970b182fffdf14614422cc794798632ecc5ff41dfffb18c836398
+runfiles size=3
+ texmf-dist/tex/latex/inputtrc/inputtrc.RLS
+ texmf-dist/tex/latex/inputtrc/inputtrc.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/inputtrc
+catalogue-date 2017-05-06 08:27:29 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp
+catalogue-version 0.3

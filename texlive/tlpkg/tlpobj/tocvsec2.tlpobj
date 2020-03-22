@@ -1,0 +1,20 @@
+name tocvsec2
+category Package
+revision 33146
+shortdesc Section numbering and table of contents control
+longdesc Provides control over section numbering (without recourse to
+longdesc starred sectional commands) and/or the entries in the Table of
+longdesc Contents on a section by section basis.
+containersize 1924
+containerchecksum 685ff581b0cba155a763ba951b4f5b1e12a44741dc5245967cc2d2effad12127828e4d2f3adabb9fe3d126ffa1f76d43dc196b89faa39745ce85a7f96fb44017
+doccontainersize 302304
+doccontainerchecksum 9247adf45a6a8f18e03d7b93ea8de8decdd9f1ba15eed7ee28c356679a6f62bd8607b9c519448bae2234cec15b76a5155ad7efe99ceb9382022988a29c2ee85c
+srccontainersize 8052
+srccontainerchecksum c6af924f3d8e52028c7bfe7e27bab1420dec1fe6f3e948b09a131c65a37ec8e9baa594d725a4eca7b3dd10ed19ceb5f54f1ccae49706e9816c7e4e1d9f1212c0
+runfiles size=2
+ texmf-dist/tex/latex/tocvsec2/tocvsec2.sty
+catalogue-ctan /macros/latex/contrib/tocvsec2
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics headings toc-etc
+catalogue-version 1.3a

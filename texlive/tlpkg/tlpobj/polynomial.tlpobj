@@ -1,0 +1,23 @@
+name polynomial
+category Package
+revision 15878
+shortdesc Typeset (univariate) polynomials
+longdesc The package offers an easy way to write (univariate)
+longdesc polynomials and rational functions. It defines two commands,
+longdesc one for polynomials \polynomial{coeffs} and one for rational
+longdesc functions \polynomialfrac{Numerator}{Denominator}. Both
+longdesc commands take lists of coefficients as arguments, and offer
+longdesc limited optional behaviour.
+containersize 2404
+containerchecksum 46324509f078d9e83f4d94893454061636fd1148d5a2e9b59af640f617d82ba1d7397c7f7bb68ac99a83945354c875d3f29853e5ba38da59a2812f5f45ccacb1
+doccontainersize 134132
+doccontainerchecksum b570f3abf21a480e0bce2c08e44d97b488e9a0758d712cfde3ccbc45348eb95486c121662e296049220dd2802edb387651e839c2a819058111a2839049fc5964
+srccontainersize 4216
+srccontainerchecksum db4c1d698b2a096ce6c848922beb747f70a874914d4ad1a468080c55ac0afbd89330c0665006f787c32c6c444ab601c64e7173ce9a5bd9241c1ba71582c0ea0f
+runfiles size=2
+ texmf-dist/tex/latex/polynomial/polynomial.sty
+catalogue-ctan /macros/latex/contrib/polynomial
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths
+catalogue-version 1.0

@@ -1,0 +1,27 @@
+name cuprum
+category Package
+revision 49909
+shortdesc Cuprum font family support for LaTeX
+longdesc This package provides support for the Cuprum font family (see
+longdesc http://jovanny.ru).
+execute addMap cuprum.map
+containersize 87020
+containerchecksum 578ce2e5af01e81ba80c0cfcc0225985722c1515e8f98460a1cb5d71d8ee4630d400f28dee04bb505c429b13f5cb604364d26503af0b5d9bf98164b218b09413
+doccontainersize 42724
+doccontainerchecksum b9a9bda8eab6087a134b3b0660282998c7c3fa7fda8890e61ba107b9f7576d85ca01b59664c1c198679151e01cef6ebce5b8de29644a2e249a6ca2100f526fe2
+runfiles size=113
+ texmf-dist/fonts/map/dvips/cuprum/cuprum.map
+ texmf-dist/fonts/tfm/public/cuprum/cprbit8t.tfm
+ texmf-dist/fonts/tfm/public/cuprum/cprbn8t.tfm
+ texmf-dist/fonts/tfm/public/cuprum/cprmit8t.tfm
+ texmf-dist/fonts/tfm/public/cuprum/cprmn8t.tfm
+ texmf-dist/fonts/truetype/public/cuprum/Cuprum-Bold.ttf
+ texmf-dist/fonts/truetype/public/cuprum/Cuprum-BoldItalic.ttf
+ texmf-dist/fonts/truetype/public/cuprum/Cuprum-Italic.ttf
+ texmf-dist/fonts/truetype/public/cuprum/Cuprum-Regular.ttf
+ texmf-dist/tex/latex/cuprum/cuprum.sty
+ texmf-dist/tex/latex/cuprum/t1cpr.fd
+catalogue-ctan /fonts/cuprum
+catalogue-date 2019-02-05 05:26:48 +0100
+catalogue-license ofl
+catalogue-topics font font-body font-sans font-ttf font-t1enc font-proportional

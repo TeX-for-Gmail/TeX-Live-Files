@@ -1,0 +1,109 @@
+name cinzel
+category Package
+revision 34408
+shortdesc LaTeX support for Cinzel and Cinzel Decorative fonts
+longdesc Cinzel and Cinzel Decorative fonts, designed by Natanael Gama
+longdesc Natanael Gama), find their inspiration in first century roman
+longdesc inscriptions, and are based on classical proportions. Cinzel is
+longdesc all-caps (similar to Trajan and Michelangelo), but is available
+longdesc in three weights (Regular, Bold, Black). There are no italic
+longdesc fonts, but there are Decorative variants, which can be selected
+longdesc by the usual italic-selection commands in the package's LaTeX
+longdesc support.
+execute addMap cinzel.map
+containersize 532908
+containerchecksum 12bae9dcda2675751056194ab14e5bd0f6af532aa21f7b9c5f80c2e25197a6732a62c4ee93dd76e147ed91ce8b40b8c83a42137e1ed77d4e4a52888efa4033e1
+doccontainersize 35804
+doccontainerchecksum 6f20d743484fa620454348a7e966de453503555de400e11c38b7cb71be503110ebb14f9a0e1aa5d1621f041ecc8571caa05a3aaedc29e75d3af9e19558a3ea28
+runfiles size=431
+ texmf-dist/fonts/enc/dvips/cinzel/cnzl_7luz43.enc
+ texmf-dist/fonts/enc/dvips/cinzel/cnzl_7t2zcj.enc
+ texmf-dist/fonts/enc/dvips/cinzel/cnzl_aakhvz.enc
+ texmf-dist/fonts/enc/dvips/cinzel/cnzl_k6z3ge.enc
+ texmf-dist/fonts/map/dvips/cinzel/cinzel.map
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Black-lf-ts1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Bold-lf-ts1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/Cinzel-Regular-lf-ts1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Black-lf-ts1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ts1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ly1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ot1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-t1.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ts1.tfm
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel-Black.ttf
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel-Bold.ttf
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/Cinzel-Regular.ttf
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/CinzelDecorative-Black.ttf
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/CinzelDecorative-Bold.ttf
+ texmf-dist/fonts/truetype/ndiscovered/cinzel/CinzelDecorative-Regular.ttf
+ texmf-dist/fonts/type1/ndiscovered/cinzel/Cinzel-Black.pfb
+ texmf-dist/fonts/type1/ndiscovered/cinzel/Cinzel-Bold.pfb
+ texmf-dist/fonts/type1/ndiscovered/cinzel/Cinzel-Regular.pfb
+ texmf-dist/fonts/type1/ndiscovered/cinzel/CinzelDecorative-Black.pfb
+ texmf-dist/fonts/type1/ndiscovered/cinzel/CinzelDecorative-Bold.pfb
+ texmf-dist/fonts/type1/ndiscovered/cinzel/CinzelDecorative-Regular.pfb
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Black-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Black-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Black-lf-ts1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Bold-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Bold-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Bold-lf-ts1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Regular-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Regular-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/Cinzel-Regular-lf-ts1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Black-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Black-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Black-lf-ts1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Bold-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Bold-lf-ts1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ly1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Regular-lf-t1.vf
+ texmf-dist/fonts/vf/ndiscovered/cinzel/CinzelDecorative-Regular-lf-ts1.vf
+ texmf-dist/tex/latex/cinzel/LY1Cinzel-LF.fd
+ texmf-dist/tex/latex/cinzel/LY1CinzelDecorative-LF.fd
+ texmf-dist/tex/latex/cinzel/OT1Cinzel-LF.fd
+ texmf-dist/tex/latex/cinzel/OT1CinzelDecorative-LF.fd
+ texmf-dist/tex/latex/cinzel/T1Cinzel-LF.fd
+ texmf-dist/tex/latex/cinzel/T1CinzelDecorative-LF.fd
+ texmf-dist/tex/latex/cinzel/TS1Cinzel-LF.fd
+ texmf-dist/tex/latex/cinzel/TS1CinzelDecorative-LF.fd
+ texmf-dist/tex/latex/cinzel/cinzel.sty
+catalogue-contact-home http://ndiscovered.com
+catalogue-ctan /fonts/cinzel
+catalogue-date 2018-01-03 05:10:13 +0100
+catalogue-license ofl
+catalogue-topics font font-decor font-type1 font-ttf

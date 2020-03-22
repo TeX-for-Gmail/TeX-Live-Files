@@ -1,0 +1,8 @@
+name ltxfileinfo.x86_64-linux
+category Package
+revision 29005
+shortdesc x86_64-linux files of ltxfileinfo
+containersize 340
+containerchecksum abbc2a59304e287db2317ad375aaadce33afb258202263d49727e0b1c1d91dc7112d9ec40deed43373b8da5029719bcb8d453974b22f8eec525b19509749811f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ltxfileinfo

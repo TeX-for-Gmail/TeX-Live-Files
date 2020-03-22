@@ -1,0 +1,14 @@
+name etoolbox-de
+category Package
+revision 21906
+shortdesc German translation of documentation of etoolbox
+longdesc The version translated is 2.1 or 2011-01-03.
+containersize 404
+containerchecksum cbddbd599e10b6409db5c9f9d27f35b5922bba82da39b19aac010ef77e76a29465d91c10a40c578e834acf5d9ade2d52baec5cca06eddc802eabbe599fb3dd28
+doccontainersize 234632
+doccontainerchecksum 4c966dc094430caf72e462c1a854995fb78b54dca84322233a16508e41f33f0dd71db2b997b26beb7fd4722f0df1695a118ef782d7954983e9df3ba2132b828b
+catalogue-ctan /info/translations/etoolbox/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics german-doc translation macro-supp
+catalogue-version 1

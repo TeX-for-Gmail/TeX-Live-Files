@@ -1,0 +1,23 @@
+name cweb
+category Package
+revision 50602
+shortdesc A Web system in C
+longdesc The CWEB system is a system for literate programming, also
+longdesc known as structured software documentation, with code written
+longdesc in the C and C++ languages. DEK takes no responsibility for the
+longdesc changefiles, they should be maintained independently -- his job
+longdesc is to correct errors in ctangle.w, cweave.w, common.w,
+longdesc cwebmac.tex, cwebman.tex, and the files of examples/*.w,
+longdesc nothing more.
+depend cweb.ARCH
+containersize 9364
+containerchecksum 274b81a9a12de63e62c72878971c517427fe3dbd9a5ab10d89676326ecf23caefaa961504cb0e9a609224c519a3a6983346212fa67e759dbbf18c2c74de4c61e
+doccontainersize 388288
+doccontainerchecksum 1acb8eb3dfa5d563369baccf3615c06c61f03ae70e18988fe4d4637bc97290f04288a9d15c548d48c65aba0dd3b0b23faa9c1a7f7aa093ed37035fab569c8d4f
+runfiles size=7
+ texmf-dist/tex/plain/cweb/cwebmac.tex
+catalogue-ctan /web/c_cpp/cweb
+catalogue-date 2017-08-19 23:22:57 +0200
+catalogue-license knuth
+catalogue-topics litprog
+catalogue-version 3.64b

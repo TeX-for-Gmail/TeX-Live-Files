@@ -1,0 +1,18 @@
+name emulateapj
+category Package
+revision 28469
+shortdesc Produce output similar to that of APJ
+longdesc A LaTeX class (based on current RevTeX) to produce preprints
+longdesc with the page layout similar to that of the Astrophysical
+longdesc Journal.
+containersize 17816
+containerchecksum 12b73ef4234af72358c1f120d860b7ba823bb4d65f91cba348a4a136b57f8edccf3849eb36e95c50cc40445a5fe3908652c221b938ee34a17aed6b4cb265744e
+doccontainersize 147868
+doccontainerchecksum 2d226b60313de3387d87c373a23e490a66c2fe1a94e97ef2364e65fafb037a148db7f5162ab9d3f1d788a037fdebe02ddedaa772eb715dc1ec8fea941b0e6708
+runfiles size=16
+ texmf-dist/tex/latex/emulateapj/emulateapj.cls
+catalogue-contact-home http://hea-www.harvard.edu/~alexey/emulateapj
+catalogue-ctan /macros/latex/contrib/emulateapj
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics journalpub astronomy class

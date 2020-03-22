@@ -1,0 +1,44 @@
+% Syriac Serto FONT macros `sertomacros.mf'
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Designed and (c) by Johannes Heinecke
+%                     <johannes(dot)heinecke(at)wanadoo(dot)fr>
+% Please send any improvements, corrections, suggestions, enhancements etc.
+% to the Author!
+%
+% Version 0.5 as of 2nd November 2003
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+
+sertomacros:=1;         % Es soll nur einmal geladen werden.
+
+% Endarabeske für beth etc
+def arabesque (suffix $)(expr length) =
+  z$aa = (x$, y$-.5basestroke);
+  z$ac = (x$, y$+.5basestroke);
+  z$ab = (x$-length*hu, y$aa);
+  z$ad = (x$-(length-.2)*hu, y$ac);
+  z$ae = (x$ab-hu, y$ad+vu);
+  fill z$aa--z$ab{left}..{up}z$ae{dir -45}..{right}z$ad--z$ac--cycle;
+  labels($aa, $ab, $ac, $ad, $ae); 
+enddef;
+
+% baseline, if needed
+def baseline (suffix $)(expr length) =
+  z$bz = z$;  % to allow several baselines from one point
+  z$ba = (x$, y$-.5basestroke);
+  z$bc = (x$, y$+.5basestroke);
+  z$bb = (x$-length*hu, y$ba);
+  z$bd = (x$-length*hu, y$bc);
+  fill z$ba--z$bb--z$bd--z$bc--cycle;
+  labels($ba, $bb, $bc, $bd);
+enddef;
+
+% dalath/resh dot
+def sertodot (suffix $) (expr size) =
+  z$ca = (x$-.3hu, y$+.4vu); penpos$ca(size*basestroke, 45);
+  z$cb = (x$+.3hu, y$-.4vu); penpos$cb(size*basestroke, 45);
+  penstroke z$ca.e..z$cb.e;
+  labels($ca, $cb)
+enddef;

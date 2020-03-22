@@ -1,0 +1,10 @@
+name csplain.x86_64-linux
+category Package
+revision 50528
+shortdesc x86_64-linux files of csplain
+containersize 368
+containerchecksum f9e53fb2818a1d8f265f6ae66223d5c4f336c765bad1b1a264897ca792c90d75f85a8a268ea664cf8004c436d744023c52e05003ed51b69d8a4735be0521ab41
+binfiles arch=x86_64-linux size=3
+ bin/x86_64-linux/csplain
+ bin/x86_64-linux/luacsplain
+ bin/x86_64-linux/pdfcsplain

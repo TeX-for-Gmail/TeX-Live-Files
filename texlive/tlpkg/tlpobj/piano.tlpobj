@@ -1,0 +1,21 @@
+name piano
+category Package
+revision 21574
+shortdesc Typeset a basic 2-octave piano diagram
+longdesc This package adds the \keyboard[1][2]..[7] command to your
+longdesc project. When used, it draws a small 2 octaves piano keyboard
+longdesc on your document, with up to 7 keys highlighted. Keys go : Co,
+longdesc Cso, Do, Dso, Eo, Fo, Fso, Go, Gso, Ao, Aso, Bo, Ct, Cst, Dt,
+longdesc Dst, Et, Ft, Fst, Gt, Gst, At, Ast and Bt. (A working example
+longdesc is included in the README file.)
+containersize 1884
+containerchecksum 49c3b29f48211ac6ca04ef8f9df74cd3f4673a84e9d84c2a9b06bbc958abd640116673abd751be40adb470907bcf65a42756c22996f0adc4e2c0dbf3d6afeca4
+doccontainersize 604
+doccontainerchecksum 50609a17b51de85d5f9df4da91c0c1c421a86ff222d08268fd0145e248eea740c68445724fee425a2adbdab85e0cf5b4a9bb4ee5cf3bfcb4a3d5cf4f1868df47
+runfiles size=4
+ texmf-dist/tex/latex/piano/piano.sty
+catalogue-ctan /macros/latex/contrib/piano
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics music
+catalogue-version 1.0

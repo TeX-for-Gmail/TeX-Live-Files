@@ -1,0 +1,21 @@
+name datetime2-latin
+category Package
+revision 47748
+shortdesc Latin language module for the datetime2 package
+longdesc This module provides the "latin" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2344
+containerchecksum 25f4e92c72abe14db9340aae354e0f598aadf88ec109b6dbe6b48e12f55926f63fc80ca420ccbbbf8fcc8dac066520d69b653981ccdd41b2e8588d85d4f11a99
+doccontainersize 272468
+doccontainerchecksum f683c8764e99edcd9d9a449eecd3f1e4a10a2803a20bff7be22568a69ee1b06c5d054d6664a051b0eef8cdac5bc2387175cb582d005e1af31a5be8bbac4a0de4
+srccontainersize 4268
+srccontainerchecksum 9270951371b2595f59a5dd8f8214603d9a72856caeb7902488fd7e7068b16c09b7ebd8f94cf10b99d31fa95777b475d403d49429944bc79f20faf37ae9192f8a
+runfiles size=2
+ texmf-dist/tex/latex/datetime2-latin/datetime2-latin.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-latin
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.0

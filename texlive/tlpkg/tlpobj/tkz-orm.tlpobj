@@ -1,0 +1,18 @@
+name tkz-orm
+category Package
+revision 39408
+shortdesc Create Object-Role Model (ORM) diagrams
+longdesc The package provides styles for drawing Object-Role Model (ORM)
+longdesc diagrams in TeX based on the PGF and TikZ picture environment.
+containersize 7512
+containerchecksum a90dda0186a3e3309eaabe444a7404fe2cafa1caa737f7d5ec9779eafd76f0795890f36bc4f0c5302dcff30231ccc3a8306fe318f10695e8caf00cbf61fc6e04
+doccontainersize 431372
+doccontainerchecksum a1686b02d79cf0af41f99faa2ac06e2a3d864b078231f4c9c165261557df0fe8f26db8159dce2a90be6206750d6fc8f3013421cb0171c1ff1f11624e634f910d
+runfiles size=10
+ texmf-dist/tex/latex/tkz-orm/tkz-orm.sty
+catalogue-contact-home http://purl.org/net/tkz-orm
+catalogue-ctan /graphics/pgf/contrib/tkz-orm
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2lppl1.3
+catalogue-topics diagram pgf-tikz
+catalogue-version 0.1.4

@@ -1,0 +1,27 @@
+name endfloat
+category Package
+revision 47108
+shortdesc Move floats to the end, leaving markers where they belong
+longdesc Place all floats on pages by themselves at the end of the
+longdesc document, optionally leaving markers like "[Figure 3 about
+longdesc here]" in the text near to where the figure (or table) would
+longdesc normally have occurred. Float types figure and table are
+longdesc recognised by the package, unmodified. Since several packages
+longdesc define other types of float, it is possible to register these
+longdesc float types with endfloat.
+containersize 4992
+containerchecksum c10add8924cd4e401f1133c08c0fb60ce7d019a19447a9148b67f9ed16bf6c506d88642864bf8c071cde9150b31f5859b8c1c6597df55860d0bef3e908bc2d06
+doccontainersize 179596
+doccontainerchecksum 7ef017f96645fc3cea996f6c7815ba359d3a2c6d12b1d8785cbbbe259352001a9c06d937c0c672a513a4b77d0fd18673e2c0fd0a25e1ab37f8eebdfa1f259777
+srccontainersize 28840
+srccontainerchecksum 4dfdd2b3991c462c083cb3211dfbc50eda62a2158d1df6edafec57fef69cde5017337c90fbe531966f5a4f07fd4437069cc4d8267be3636e13eaffbcac65a159
+runfiles size=5
+ texmf-dist/tex/latex/endfloat/efxmpl.cfg
+ texmf-dist/tex/latex/endfloat/endfloat.sty
+catalogue-contact-bugs https://gitlab.com/axelsommerfeldt/endfloat/issues
+catalogue-contact-repository https://gitlab.com/axelsommerfeldt/endfloat
+catalogue-ctan /macros/latex/contrib/endfloat
+catalogue-date 2018-06-09 18:48:06 +0200
+catalogue-license gpl
+catalogue-topics float
+catalogue-version 2.6

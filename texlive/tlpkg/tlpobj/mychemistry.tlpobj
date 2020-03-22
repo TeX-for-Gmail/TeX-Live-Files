@@ -1,0 +1,20 @@
+name mychemistry
+category Package
+revision 28611
+shortdesc Create reaction schemes with LaTeX and ChemFig
+longdesc The package provides commands for typesetting complex chemical
+longdesc reaction schemes with LaTeX and ChemFig. The package requires
+longdesc the packages ChemFig, mhchem, chemcompounds and (sometimes)
+longdesc chemexec.
+containersize 9592
+containerchecksum bf8fbe30dd3d1637db289bb92f6339545f4d52b3876e5a81e5153b4ac72be0b54af48f46fa7d1dbd5a129bc83223c53163a760e6cec0bc61101496b25b677f68
+doccontainersize 1713136
+doccontainerchecksum 7f9a9d6c6e0f66805dc37120a4c76787e60452067d9f379cadaf4993a76d7363553699eba7af1b9e507bab4e68e66791a5c93d940e6079521de5d1b7a83e5a58
+runfiles size=15
+ texmf-dist/tex/latex/mychemistry/mychemistry.sty
+catalogue-contact-repository https://bitbucket.org/cgnieder/mychemistry/
+catalogue-ctan /macros/latex/contrib/mychemistry
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry
+catalogue-version 1.99b

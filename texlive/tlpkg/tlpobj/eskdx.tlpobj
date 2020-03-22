@@ -1,0 +1,46 @@
+name eskdx
+category Package
+revision 29235
+shortdesc Modern Russian typesetting
+longdesc Eskdx is a collection of LaTeX classes and packages to typeset
+longdesc textual and graphical documents in accordance with Russian (and
+longdesc probably post USSR) standards for designers.
+containersize 17252
+containerchecksum e5ef11cba6b0251844200093445f5183de60e0c0198da9c7000ef5c05a2a9a4303a15dc77ed03e9874e452ffdd283016cedb8901e78cd0312ea5bbcc529b74d5
+doccontainersize 451672
+doccontainerchecksum 748dec387a09546b28718e943e05772cd56c75a0066793332b343e7f604e607efd37a071c1f4f32fbd20d7427277bf2d598b355b8ea3a0a04943ccb90f4f249d
+runfiles size=46
+ texmf-dist/tex/latex/eskdx/eskdafterpkg.sty
+ texmf-dist/tex/latex/eskdx/eskdappsheet.sty
+ texmf-dist/tex/latex/eskdx/eskdbiblist.sty
+ texmf-dist/tex/latex/eskdx/eskdcap.sty
+ texmf-dist/tex/latex/eskdx/eskdchngsheet.sty
+ texmf-dist/tex/latex/eskdx/eskddstu.sty
+ texmf-dist/tex/latex/eskdx/eskdexplan.sty
+ texmf-dist/tex/latex/eskdx/eskdfont.sty
+ texmf-dist/tex/latex/eskdx/eskdfootnote.sty
+ texmf-dist/tex/latex/eskdx/eskdfreesize.sty
+ texmf-dist/tex/latex/eskdx/eskdgraph.cls
+ texmf-dist/tex/latex/eskdx/eskdhash.sty
+ texmf-dist/tex/latex/eskdx/eskdindent.sty
+ texmf-dist/tex/latex/eskdx/eskdinfo.sty
+ texmf-dist/tex/latex/eskdx/eskdlang.sty
+ texmf-dist/tex/latex/eskdx/eskdlist.sty
+ texmf-dist/tex/latex/eskdx/eskdpara.sty
+ texmf-dist/tex/latex/eskdx/eskdplain.sty
+ texmf-dist/tex/latex/eskdx/eskdrussian.def
+ texmf-dist/tex/latex/eskdx/eskdsect.sty
+ texmf-dist/tex/latex/eskdx/eskdspec.sty
+ texmf-dist/tex/latex/eskdx/eskdspecii.sty
+ texmf-dist/tex/latex/eskdx/eskdstamp.sty
+ texmf-dist/tex/latex/eskdx/eskdtab.cls
+ texmf-dist/tex/latex/eskdx/eskdtext.cls
+ texmf-dist/tex/latex/eskdx/eskdtitle.sty
+ texmf-dist/tex/latex/eskdx/eskdtitlebase.sty
+ texmf-dist/tex/latex/eskdx/eskdtotal.sty
+ texmf-dist/tex/latex/eskdx/eskdukrainian.def
+catalogue-ctan /macros/latex/contrib/eskdx
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics class russian
+catalogue-version 0.98

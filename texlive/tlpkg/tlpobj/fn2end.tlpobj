@@ -1,0 +1,18 @@
+name fn2end
+category Package
+revision 15878
+shortdesc Convert footnotes to endnotes
+longdesc Defines macros \makeendnotes, which converts \footnote to
+longdesc produce endnotes; and \theendnotes which prints them out.
+containersize 1484
+containerchecksum 6be5c07123cf2470ca88b7c28c068c6dd308824138fd2f645a1a7c04c69fe84953468733ca2994faa42389b5889990941c8e09dc543b66a1589f3cf22df1e017
+doccontainersize 23016
+doccontainerchecksum 17f0a1d12afd607a26687b675ccc65a150e4ae67785389fe9582a3b05ee383f078bde35f296941ea069323757e1fccd1ae0e76e5e24f3446b4154738c1a45385
+runfiles size=1
+ texmf-dist/tex/latex/fn2end/fn2end.sty
+catalogue-also endnotes
+catalogue-ctan /macros/latex/contrib/fn2end
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics footnote endnote
+catalogue-version 1.1

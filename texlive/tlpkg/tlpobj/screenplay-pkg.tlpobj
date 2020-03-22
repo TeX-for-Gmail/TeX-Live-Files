@@ -1,0 +1,22 @@
+name screenplay-pkg
+category Package
+revision 44965
+shortdesc Package version of the screenplay document class
+longdesc This package implements the tools of the screenplay document
+longdesc class in the form of a package so that screenplay fragments can
+longdesc be included within another document class. For full
+longdesc documentation of the available commands, please consult the
+longdesc screenplay class documentation in addition to the included
+longdesc package documentation.
+containersize 2524
+containerchecksum 974795ca0b4a286077e38f4b3b120cf9fe243d450b87b8397adec2c5425b865cdfbe70b86b815d513edb6ae7051d9ad3003fcd6a15b5b02b624dcd4ee0534164
+doccontainersize 163776
+doccontainerchecksum 9aa4407d1b317442dd76f762af5b673460bbbcec89e47835521688085183e00ba9dbb70dc9e86a95235bd9a32da701c846ceb2985dc70894ca8abe334428a532
+runfiles size=2
+ texmf-dist/tex/latex/screenplay-pkg/screenplay-pkg.sty
+catalogue-also screenplay
+catalogue-ctan /macros/latex/contrib/screenplay-pkg
+catalogue-date 2017-08-06 08:17:31 +0200
+catalogue-license lppl1.3
+catalogue-topics drama-script
+catalogue-version 1.1

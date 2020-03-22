@@ -1,0 +1,9 @@
+name dnp
+category Package
+revision 45701
+shortdesc subfont numbers for DNP font encoding
+longdesc part of the CJK package, ctan.org/pkg/cjk
+containersize 856
+containerchecksum 9cccb6befd2059b13571e083664e4c85215cc12c96b41afdd9efdeb758b444a95edd4c2586ee1b44dca70fe31f38c4eea821cf08cc1237a82d67e0e567d65d8a
+runfiles size=1
+ texmf-dist/fonts/sfd/dnp/DNP.sfd

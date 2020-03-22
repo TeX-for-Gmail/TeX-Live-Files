@@ -1,0 +1,20 @@
+name short-math-guide
+category Package
+revision 46126
+shortdesc Guide to using amsmath and related packages to typeset mathematical notation with LaTeX
+longdesc The Short Math Guide is intended to be a concise introduction
+longdesc to the use of the facilities provided by amsmath and various
+longdesc other LaTeX packages for typesetting mathematical notation.
+longdesc Originally created by Michael Downes of the American
+longdesc Mathematical Society based only on amsmath, it has been brought
+longdesc up to date with references to related packages and other useful
+longdesc information.
+containersize 612
+containerchecksum 6e2c131cb3a2ce85a6718a8dab1cc52fa5dab7a3db34575dcfb0a33e6a3f3ba6025eccb82a2e07a198243bd24c5070a931e591003a768c4a057f70659e442155
+doccontainersize 563828
+doccontainerchecksum 0feaf4b3cafbac8fc78855250dc39858b0b8326b803c851efd831f36476dac2f1ce86083c11476e36ac88b44a2a8d25094f9203c774044306536fcb2b261a184
+catalogue-ctan /info/short-math-guide
+catalogue-date 2017-12-24 17:24:22 +0100
+catalogue-license lppl1.3c
+catalogue-topics maths documentation maths-doc
+catalogue-version 2.0

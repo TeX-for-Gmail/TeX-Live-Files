@@ -1,0 +1,20 @@
+name splitbib
+category Package
+revision 15878
+shortdesc Split and reorder your bibliography
+longdesc This package enables you to split a bibliography into several
+longdesc categories and subcategories. It does not depend on BibTeX: any
+longdesc bibliography may be split and reordered.
+containersize 4852
+containerchecksum 2936732fdcebff683e240e139ba6e1e4268dc72e427bd30af0590cc3dd7dcc8dd49eaf6f007e549efc5c429fbcea2b37f9e68040d1ffb023162c571341abdb40
+doccontainersize 143484
+doccontainerchecksum df266ae77aaccf91b08931c57b01a9eefffe6a469c4cc549ce41640dc9c9041676539e1302aecfed88d19baef277f507ede8ba6f794dae6ea4745b1338459d14
+srccontainersize 11124
+srccontainerchecksum 72a8da016f943df7f5e2d7cb05cd1a64e222ec0c3be784ac21e6aa5f571c9e76cc3e8a5716444aa1033d5127af8d82df5cd632a884fe17f08c55e08d38956e3c
+runfiles size=7
+ texmf-dist/tex/latex/splitbib/splitbib.sty
+catalogue-ctan /macros/latex/contrib/splitbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cite-supp
+catalogue-version 1.17

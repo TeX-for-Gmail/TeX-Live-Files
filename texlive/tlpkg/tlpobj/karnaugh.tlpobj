@@ -1,0 +1,20 @@
+name karnaugh
+category Package
+revision 21338
+shortdesc Typeset Karnaugh-Veitch-maps
+longdesc The package provides macros for typesetting Karnaugh-Maps and
+longdesc Veitch-Charts in a simple and user-friendly way. Karnaugh-Maps
+longdesc and Veitch-Charts are used to display and simplify logic
+longdesc functions "manually". These macros can typeset Karnaugh-Maps
+longdesc and Veitch-Charts with up to ten variables (=1024 entries).
+containersize 4420
+containerchecksum 344027bcf79a9b1d3c408aae774bc532a39e7c638c4831d2566e7cf5ba5780161c6314bc0f9337de21fa08a2a2d72f3b5ccf9df7a521d7c95b4dc6e62cf2136f
+doccontainersize 142148
+doccontainerchecksum 379638ab38cdfe3d94d049fec7701995566df9c5451f4f6a862c7cde232ceea899222b13f3c40398676bd2746305ee48e8b43781804cd24f48f36946526d23e4
+runfiles size=5
+ texmf-dist/tex/latex/karnaugh/kvmacros.tex
+catalogue-also askmaps karnaughmap karnaugh-map
+catalogue-ctan /macros/latex/contrib/karnaugh
+catalogue-date 2016-11-25 19:23:56 +0100
+catalogue-license lppl1
+catalogue-topics engineering maths

@@ -1,0 +1,20 @@
+name emf
+category Package
+revision 42023
+shortdesc Support for the EMF symbol
+longdesc This package provides LaTeX support for the symbol for the EMF
+longdesc in electric circuits and electrodynamics. It provides support
+longdesc for multiple symbols but does not provide any fonts. The fonts
+longdesc themselves must be aquired otherwise. However the fonts are
+longdesc part of a normal TeX Live installation.
+containersize 1472
+containerchecksum bc1b601aa523b30a54493ac92e15bcdb918775e9f57514b62357b85b5919fb05cc945b3120cea474fab714585fe2a81603f43eae51bb266e8989af6105ebc65c
+doccontainersize 325204
+doccontainerchecksum f2e37967476ed678dce7c01f195ec03f77327d59beb2b15cc6a64ef92cc377700a2b7b528ae6c42497cde0ac127cd10c51e3ecf5fda0cf7954d598a0dc92b5df
+runfiles size=1
+ texmf-dist/tex/latex/emf/emf.sty
+catalogue-ctan /macros/latex/contrib/emf
+catalogue-date 2016-09-14 05:04:20 +0200
+catalogue-license gpl3
+catalogue-topics text-symbol electronic
+catalogue-version 1

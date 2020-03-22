@@ -1,0 +1,19 @@
+name memory
+category Package
+revision 30452
+shortdesc Containers for data in LaTeX
+longdesc The package allows the user to declare single object or array
+longdesc containers.
+containersize 1168
+containerchecksum 9b760613dc36895edf50a592aa5ef994a30117cc9da6ea256835cd3ad9ed62ab8d8c39de95bda5058d1bd3f06451d1c79d78d52ff6d068c28d75410c5ad98516
+doccontainersize 29908
+doccontainerchecksum 479428f1af468d909fa291388cde319aff1ac9ef6d7c0168577c5f6978c0fa7e6b23f8f81dedaf746b7e394c92d51d5799bd17aa3488207be494621b77220cd3
+srccontainersize 2768
+srccontainerchecksum 731d4e4c874a58c2c1ddf6a394dd9eb67e557608b0d2a736cb500e4e299be2a726d4312d2eb4a05008684cf5fe14d458a7c020bd31fe134f8208d9fb618b312b
+runfiles size=1
+ texmf-dist/tex/latex/memory/memory.sty
+catalogue-ctan /macros/latex/contrib/memory
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.2

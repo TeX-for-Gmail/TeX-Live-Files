@@ -1,0 +1,21 @@
+name proba
+category Package
+revision 15878
+shortdesc Shortcuts commands to symbols used in probability texts
+longdesc This package includes some of the most often used commands in
+longdesc probability texts, e.g. probability, expectation, variance,
+longdesc etc. It also includes some short commands for set (blackboard)
+longdesc or filtrations (calligraphic). It requires LaTeX2e and the
+longdesc amsfonts package.
+containersize 1488
+containerchecksum 33ef76474e7183c32b5f982347ed414ae7616484ff5a5d8564574220d3757688a3a47aad000c5b0a66a39dbbef20c789dd1445d872b025c274585248176c86e7
+doccontainersize 73056
+doccontainerchecksum 960887501b74d2c5e8a00c09464ff17dc9c733dd663fb35c32b34bd8b79b2a813536b6c0f9c5df4340dbd3adf1f30f569aac678e90d5f328e1c33130767fdf21
+srccontainersize 3140
+srccontainerchecksum d1305e797d8884f264a20df021b6b0619cee1df1aba8943f5533c2cd839e093420e43ebd1aa46282457a650569a883f4f11a9319f6b6612dbec5b99d29f37087
+runfiles size=2
+ texmf-dist/tex/latex/proba/proba.sty
+catalogue-ctan /macros/latex/contrib/proba
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics probability

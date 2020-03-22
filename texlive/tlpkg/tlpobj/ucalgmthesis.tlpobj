@@ -1,0 +1,28 @@
+name ucalgmthesis
+category Package
+revision 50705
+shortdesc LaTeX thesis class for University of Calgary Faculty of Graduate Studies
+longdesc ucalgmthesis.cls is a LaTeX class file that produces documents
+longdesc according to the thesis guidelines of the University of Calgary
+longdesc Faculty of Graduate Studies. It uses the memoir class, which
+longdesc provides very powerful and flexible mechanisms for book design
+longdesc and layout. All memoir commands for changing chapter and
+longdesc section headings, page layout, fancy foot- and endnotes,
+longdesc typesetting poems, etc., can be used. (Memoir is meant as a
+longdesc replacement for the standard LaTeX classes, so all standard
+longdesc LaTeX commands such as \chapter, \section, etc., still work.)
+longdesc Likewise, any of memoir's class options can be passed as
+longdesc options to ucalgmthesis, in particular 12pt to select 12 point
+longdesc type (11 point is the default).
+containersize 3284
+containerchecksum 7f2d9b167b5268eb3f163ed71a12e3a979e2062469401a07b148c9d24f3080f050cb31df84adbd7de20675ec0275405f77923331862de78883faf86664445241
+doccontainersize 123212
+doccontainerchecksum f0a3a599e904525877c6737262de78b66d4144d49a5fbe3ac79db3a82481d168607f48af9974019d6bc773465714a5043bd95fb45161d833d2903de708375a03
+runfiles size=2
+ texmf-dist/tex/latex/ucalgmthesis/ucalgmthesis.cls
+catalogue-contact-bugs https://github.com/rzach/ucalgmthesis/issues
+catalogue-contact-repository https://github.com/rzach/ucalgmthesis
+catalogue-ctan /macros/latex/contrib/ucalgmthesis
+catalogue-date 2019-04-02 20:36:26 +0200
+catalogue-license mit
+catalogue-topics class dissertation

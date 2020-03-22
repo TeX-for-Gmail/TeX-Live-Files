@@ -1,0 +1,26 @@
+name xassoccnt
+category Package
+revision 49516
+shortdesc Associated counters stepping simultaneously
+longdesc This package provides a way of associating counters to an
+longdesc existing driver counter so that incrementing the driver counter
+longdesc will increase its associated counters as well. This package can
+longdesc be regarded as a supplement to the totcount package by
+longdesc Vasileios Koutavas, but it can be used without it, too.
+longdesc xassoccnt is a successor and a complete rewrite of the assoccnt
+longdesc package by the same author. However, as of 2017-03-05, some
+longdesc features of assoccnt are not (yet) contained in xassoccnt so
+longdesc that the older package cannot yet be regarded as obsolete.
+containersize 19660
+containerchecksum ba903cce2a9438c51e40d529e6b6c6993f4a2422aef2688cb9d875cc408e4423ff135afe3758bef6605eb26e1f2bf4921b652131e65bf068fcce54be3f765455
+doccontainersize 1209736
+doccontainerchecksum 5a1805d9cd838aa7369fe4ca2d10c8f46b8bf913c14d8ce8dc546d80598f455696f83825c3a1691fb5a3ad36fd68c2bcb62b6a682ba374e54071aeb3f33c7a87
+runfiles size=31
+ texmf-dist/tex/latex/xassoccnt/xassoccnt.sty
+catalogue-also assoccnt
+catalogue-contact-home http://www.ich-rede-mich-um-kopf-und-kragen.de
+catalogue-ctan /macros/latex/contrib/xassoccnt
+catalogue-date 2018-12-28 09:34:58 +0100
+catalogue-license lppl1.3
+catalogue-topics counter-mgmt macro-supp
+catalogue-version 1.7

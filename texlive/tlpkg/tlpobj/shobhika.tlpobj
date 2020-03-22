@@ -1,0 +1,35 @@
+name shobhika
+category Package
+revision 50555
+shortdesc An OpenType Devanagari font designed for scholars
+longdesc This package provides a free, open source, Unicode compliant,
+longdesc OpenType font with support for Devanagari, Latin, and Cyrillic
+longdesc scripts. It is available in two weights--regular and bold. The
+longdesc font is designed with over 1600 Devanagari glyphs, including
+longdesc support for over 1100 conjunct consonants, as well as vedic
+longdesc accents. The Latin component of the font not only supports a
+longdesc wide range of characters required for Roman transliteration of
+longdesc Sanskrit, but also provides a subset of regularly used
+longdesc mathematical symbols for scholars working with scientific and
+longdesc technical documents. The project has been launched under the
+longdesc auspices of the Science and Heritage Initiative (SandHI) at IIT
+longdesc Bombay, and builds upon the following two fonts for its
+longdesc Devanagari and Latin components respectively: (i) Yashomudra by
+longdesc Rajya Marathi Vikas Samstha, and (ii) PT Serif by ParaType. We
+longdesc would like to thank both these organisations for releasing
+longdesc their fonts under the SIL Open Font Licence, which has enabled
+longdesc us to create Shobhika.
+containersize 421140
+containerchecksum 86050c89e5939b8ffc2148f9269a48dc66f8adf396cb883a7018a1a8f123cb602f216f652f56715bebbdb7b0577a8d0cc799c847898543a4cbd22e478524b127
+doccontainersize 26936
+doccontainerchecksum f5d9d05f54876bab260043e698fd746c95b59b04ea5b2df7244b11af30bb78e5cbb6e3511bb75d775e1bc649082575192ccbcb68fcd32b9816879b5cbf3277ba
+runfiles size=176
+ texmf-dist/fonts/opentype/public/shobhika/Shobhika-Bold.otf
+ texmf-dist/fonts/opentype/public/shobhika/Shobhika-Regular.otf
+catalogue-contact-bugs https://github.com/Sandhi-IITBombay/Shobhika/issues
+catalogue-contact-repository https://github.com/Sandhi-IITBombay/Shobhika
+catalogue-ctan /fonts/shobhika
+catalogue-date 2019-03-23 11:09:58 +0100
+catalogue-license ofl
+catalogue-topics font font-cyrillic font-indic font-multilingual font-otf
+catalogue-version 1.05

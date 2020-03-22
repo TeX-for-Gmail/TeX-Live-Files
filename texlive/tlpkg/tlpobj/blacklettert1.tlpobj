@@ -1,0 +1,29 @@
+name blacklettert1
+category Package
+revision 15878
+shortdesc T1-encoded versions of Haralambous old German fonts
+longdesc This package contains virtual fonts that offer T1-alike encoded
+longdesc variants of Yannis Haralambous's old German fonts Gothic,
+longdesc Schwabacher and Fraktur (which are also available in Adobe type
+longdesc 1 format). The package includes LaTeX macros to embed the fonts
+longdesc into the LaTeX font selection scheme.
+containersize 12436
+containerchecksum eb7d531fd91c6d46145c76a08678033e20097805b3a911fa85194217104e071c56d3842cee83c275a11cd4cdee162aee4630d86025cab76806f20e19c975076d
+doccontainersize 88892
+doccontainerchecksum a1f18f4adc7f26b9e71db6f171ddb4a8eb15912cf57445110a9da52eb4e0b017a0ace85ddc46ec2df36e73ee3d9bf8dee087fe4467f46bb2bd7f708108585412
+srccontainersize 42424
+srccontainerchecksum 0951e374a22fda09a3fe51e3a7743874c774a756560fb63a68aa199ad2cca674ee87d1dd30b98709b0e74e018e0eec878316ff303575eabb014158311f22a273
+runfiles size=14
+ texmf-dist/fonts/tfm/public/blacklettert1/tfrak.tfm
+ texmf-dist/fonts/tfm/public/blacklettert1/tfrakls.tfm
+ texmf-dist/fonts/tfm/public/blacklettert1/tgoth.tfm
+ texmf-dist/fonts/tfm/public/blacklettert1/tswab.tfm
+ texmf-dist/fonts/vf/public/blacklettert1/tfrak.vf
+ texmf-dist/fonts/vf/public/blacklettert1/tfrakls.vf
+ texmf-dist/fonts/vf/public/blacklettert1/tgoth.vf
+ texmf-dist/fonts/vf/public/blacklettert1/tswab.vf
+ texmf-dist/tex/latex/blacklettert1/t1yfrak.fd
+catalogue-ctan /fonts/gothic/blacklettert1
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-virtual font-gothic

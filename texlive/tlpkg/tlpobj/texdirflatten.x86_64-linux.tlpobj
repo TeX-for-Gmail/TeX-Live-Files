@@ -1,0 +1,8 @@
+name texdirflatten.x86_64-linux
+category Package
+revision 12782
+shortdesc x86_64-linux files of texdirflatten
+containersize 344
+containerchecksum 44247b7e4049053789ea839d5ee13093797f155086d566f302ef161ca645652f44b0e7ce20fd3579c56528f41c5f3d71d1ad62ac8f5422ceda25d8a5f5174397
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/texdirflatten

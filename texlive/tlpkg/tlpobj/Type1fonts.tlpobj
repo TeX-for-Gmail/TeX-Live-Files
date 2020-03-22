@@ -1,0 +1,20 @@
+name Type1fonts
+category Package
+revision 19603
+catalogue fontinstallationguide
+shortdesc Font installation guide
+longdesc This guide discusses the most common scenarios you are likely
+longdesc to encounter when installing Type 1 PostScript fonts. While the
+longdesc individual tools employed in the installation process are
+longdesc documented well, the actual difficulty most users are facing
+longdesc when trying to install new fonts is understanding how to put
+longdesc all the pieces together. This is what this guide is about.
+containersize 592
+containerchecksum 858836fc8a955b87f823c25b22fbb4b07f119186ab437e0e7ef7d387bb8295b8a65deb237c649d93afe7d72213745d4cfbe48a51372c69c12d088f5403f22dc3
+doccontainersize 527324
+doccontainerchecksum 5448b85539d29ace8365bd0e197693c0c4c53a145d5182c3f125e11cb3ca8194675ca9553ad53bf7e503b1636f17614ea2e338113f61474d9744dfa91800390e
+catalogue-ctan /info/Type1fonts/fontinstallationguide
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics font-doc
+catalogue-version 2.14

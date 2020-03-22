@@ -1,0 +1,18 @@
+name biblatex-science
+category Package
+revision 48945
+shortdesc BibLaTeX implementation of the Science bibliography style
+longdesc The bundle offers styles that allow authors to use BibLaTeX
+longdesc when preparing papers for submission to the journal Science.
+containersize 2916
+containerchecksum e75dccc1a01975776cf94c17aad531823844085e4fa2ba54ba4f74d77ad193c26238eed602f309760f3057b6fc405fd01ec2a7a20647cd8570889832b1ee6bdb
+doccontainersize 356968
+doccontainerchecksum ad7d8fd4e54830d77f0a155a04cd523c5c789745b5da34b8ea1efe59ffd4ee1673045dec58d28b8234993a70061337178cddda2267506366549c2639f6c917b7
+runfiles size=5
+ texmf-dist/tex/latex/biblatex-science/science.bbx
+ texmf-dist/tex/latex/biblatex-science/science.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-science
+catalogue-date 2018-10-19 10:04:33 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex journalpub
+catalogue-version 1.2

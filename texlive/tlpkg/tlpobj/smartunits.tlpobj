@@ -1,0 +1,18 @@
+name smartunits
+category Package
+revision 39592
+shortdesc Converting between common metric and Imperial units
+longdesc This LaTeX package implements a \SmartUnit macro for converting
+longdesc between (some) metric and Imperial units. The package requires
+longdesc pgfkeys and siunitx.
+containersize 3408
+containerchecksum d4c23a39d79cb5c0ba700da40b916ac6072e612d0e5b8ea1c189100cfe56fe77c9d1ff742d92fc44450255048d96f2e1dc2b5f0e098e56aad5efcdd423fec608
+doccontainersize 340260
+doccontainerchecksum e85b83a090b3e352a0faa61ee0f3dfc84d3f2fad8f1ef503aef7bf571e706575b19c1da394b09e69968b10fff2542b5b749a895eb17e84ce1293273532d2e241
+runfiles size=3
+ texmf-dist/tex/latex/smartunits/smartunits.sty
+catalogue-ctan /macros/latex/contrib/smartunits
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics units misc-conv
+catalogue-version 1.2

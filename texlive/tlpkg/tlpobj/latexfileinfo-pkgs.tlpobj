@@ -1,0 +1,24 @@
+name latexfileinfo-pkgs
+category Package
+revision 26760
+shortdesc A comparison of packages showing LaTeX file information
+longdesc The package provides an HTML file that lists and compares CTAN
+longdesc packages that display LaTeX source file information from
+longdesc \ProvidesClass, \ProvidesFile, and \ProvidesPackage commands in
+longdesc the LaTeX file. Five packages of the author's, and several
+longdesc other packages are discussed; revision control systems are
+longdesc mentioned briefly.
+containersize 856
+containerchecksum b08fbfeb87299273a0e087e7cfe0e9df9bf50b95503a3110b9b329a9a41931f34f65661e219c6adf377e3448536d5aac8199799821f7057a67a4680a24f30ad0
+doccontainersize 8008
+doccontainerchecksum af5ff5d84fbbaf299be548d13163c8e5e83b73ce795bc1236a204f4025e34d9ef0c587702ea5d6b234791e16e7cd1930a63f3839c20caefad7610de125a583e6
+srccontainersize 8120
+srccontainerchecksum b204065af499edadaf997f6a6cb1be474d02d03c1e37f94b33dc7d290f934c4a453fb648588482821f52f7b0b80f5edafa9a034f8eb2a9287ef06e753b8c1e96
+runfiles size=1
+ texmf-dist/tex/latex/latexfileinfo-pkgs/latexfileinfo_pkgs.RLS
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /info/latexfileinfo-pkgs
+catalogue-date 2017-05-06 08:32:59 +0200
+catalogue-license lppl1.3
+catalogue-topics review-document
+catalogue-version 0.22

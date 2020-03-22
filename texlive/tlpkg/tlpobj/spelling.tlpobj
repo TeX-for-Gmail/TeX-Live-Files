@@ -1,0 +1,27 @@
+name spelling
+category Package
+revision 30715
+shortdesc Support for spell-checking of LuaTeX documents
+longdesc The package aids spell-checking of TeX documents compiled with
+longdesc the LuaTeX engine. It can give visual feedback in PDF output
+longdesc similar to WYSIWYG word processors. The package relies on an
+longdesc external spell-checker application to check spelling of a text
+longdesc file and to output a list of bad spellings. The package should
+longdesc work with most spell-checkers, even dumb, TeX-unaware ones.
+containersize 14072
+containerchecksum ec32c627f52e1cc08f893aff21d43519ac30169772e82793525cfd61c302883c9c0c8444f2d51cd03a94f55e1ad589afac1a404a47b87ebbe7855acde887e511
+doccontainersize 142556
+doccontainerchecksum a51b8fb45701d318dd9b9736830b83ac34c84b781d61a3a247263167d527aad7cdb6e1917ce260d09e0304fba38bb2e2a25288f75aa2335bef479918036e1221
+runfiles size=19
+ texmf-dist/scripts/spelling/spelling-main.lua
+ texmf-dist/scripts/spelling/spelling-recurse.lua
+ texmf-dist/scripts/spelling/spelling-stage-1.lua
+ texmf-dist/scripts/spelling/spelling-stage-2.lua
+ texmf-dist/scripts/spelling/spelling-stage-3.lua
+ texmf-dist/scripts/spelling/spelling-stage-4.lua
+ texmf-dist/tex/luatex/spelling/spelling.sty
+catalogue-ctan /macros/luatex/generic/spelling
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics luatex spell
+catalogue-version 0.41

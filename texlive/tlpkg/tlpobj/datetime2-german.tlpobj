@@ -1,0 +1,26 @@
+name datetime2-german
+category Package
+revision 45800
+shortdesc German language module for the datetime2 package
+longdesc This module provides the "german" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty.
+containersize 3744
+containerchecksum 596fe3086d2bf16922f0219815474eea872950b1f31bb6777f375107571e70e5756bcd8c3930aefdfbbb6e1ab931a2a9d7976b537aeebedb98c1a541c178dc6d
+doccontainersize 322004
+doccontainerchecksum 5fccb91afde9d59f6c26ee4bc5d7a5a90cc6c727d32effc328755e292477659feeb9eaadca85ef4351a104f9811426d7324616ca639a9c0bbc061ce32f10e778
+srccontainersize 7904
+srccontainerchecksum 35d7fd9a3f164503861980ee78b16c8784bcab76d46806a64e21c400cfc24900dddfdcab7cd8538b9071f69137eb746797e9555658540605950ea4081fa515d1
+runfiles size=10
+ texmf-dist/tex/latex/datetime2-german/datetime2-de-AT.ldf
+ texmf-dist/tex/latex/datetime2-german/datetime2-de-CH.ldf
+ texmf-dist/tex/latex/datetime2-german/datetime2-de-DE.ldf
+ texmf-dist/tex/latex/datetime2-german/datetime2-german-ascii.ldf
+ texmf-dist/tex/latex/datetime2-german/datetime2-german-utf8.ldf
+ texmf-dist/tex/latex/datetime2-german/datetime2-german.ldf
+catalogue-contact-bugs https://github.com/SFr682k/datetime2-german/issues
+catalogue-contact-repository https://github.com/SFr682k/datetime2-german
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-german
+catalogue-date 2017-11-13 22:45:08 +0100
+catalogue-license lppl1.3c
+catalogue-topics date-time multilingual
+catalogue-version 2.1

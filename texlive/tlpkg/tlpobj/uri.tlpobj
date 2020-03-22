@@ -1,0 +1,22 @@
+name uri
+category Package
+revision 48602
+shortdesc Hyperlinks for a wide range of URIs
+longdesc The package provides automatic hyperlinks for URIs of type
+longdesc arXiv, ASIN, DOI, HDL, NBN, OCLC, OID, PubMed, TINY, TINY with
+longdesc preview, and WebCite and provides commands \citeurl, \mailto,
+longdesc \ukoeln, and \uref.
+containersize 3360
+containerchecksum 402974f30df5a00118d4bd2e978f342cdcdb22119059dbd0c1b2111fd1ce94ab8a29ceff88672c80d18a669d5440bd48dfcd23fa07844f492e5f7e0eda1671a6
+doccontainersize 444592
+doccontainerchecksum b2cc8cbcbc81f0c3db349952546e60c152044aae264d4b30aadb6b90b7aa5b304c89203b6219bb5161807bf1e4649235d2f98a60339a0cb93a588852a1755e00
+srccontainersize 13520
+srccontainerchecksum 0206e0d2907f3976fd605d78284a44c909ff23f16ce9b2490556136099e56a374bd410e1c9bd5687bb791334612af1cc5a62a8b53f8c7876bf02d921c9868a68
+runfiles size=3
+ texmf-dist/tex/latex/uri/uri.sty
+catalogue-also url hyperref doipubmed
+catalogue-ctan /macros/latex/contrib/uri
+catalogue-date 2018-09-06 20:14:50 +0200
+catalogue-license lppl1.3c
+catalogue-topics hyper
+catalogue-version 2.0b

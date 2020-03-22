@@ -1,0 +1,21 @@
+name syntrace
+category Package
+revision 15878
+shortdesc Labels for tracing in a syntax tree
+longdesc This package adds support for traces in trees created using
+longdesc either the synttree or the qtree package. The package provides
+longdesc two commands (\traceLabel and \traceReference) to set and use a
+longdesc trace.
+containersize 1496
+containerchecksum 613c70859eb0c710c43fa4a62fe8b8d38a407ffe94c532d80927d00fd47c17b6570040f5d9ace5035f4dc53deef97419f52ecdf021ab11d5629445153b85ebd2
+doccontainersize 48700
+doccontainerchecksum 0349aba5e1455a6676cda43c7981677cfadf77b9898a79d90104808e77cd351f219392a91f83b670f7f1801babf53854f8719c32b8da112fde849b7b120e2327
+srccontainersize 2684
+srccontainerchecksum a6b5e08c1eae9b6c631f2d2316bf0d2afba452be7f8aed0d6f9724dedc7d50785ef09e1f29986d2cf869988e3b5c59332cd2b44d185b298e59333131413314f3
+runfiles size=1
+ texmf-dist/tex/latex/syntrace/syntrace.sty
+catalogue-ctan /macros/latex/contrib/syntrace
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree
+catalogue-version 1.1

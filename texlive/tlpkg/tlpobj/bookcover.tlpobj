@@ -1,0 +1,18 @@
+name bookcover
+category Package
+revision 46410
+shortdesc A class for book covers and dust jackets
+longdesc This class helps typesetting book covers and dust jackets.
+containersize 4968
+containerchecksum 1a96e15ab73c11f36b58dfbc0109529fb9bbe322d4c589222e122f774dbcff5337e88a5350a3fac05652aaf0010cf97ea1842693102acf00e9a22db7b6bf77f4
+doccontainersize 1817556
+doccontainerchecksum 1f017e0071060f82e5f530d3726d1d91c5fd742c6a29613a2009756d96a2afcbda1e647cc588c350e90cd65be67207c811ef6466cd863c1b80b39f6afcbbd7e1
+srccontainersize 10672
+srccontainerchecksum e018f3a388f3c5d0a4ff9f35a952ec96e7af45b2469122d6dc225ae6768704ae9884933200b8a7cb62c1e182602ec697daca530cc966d764ed2d7fe807b09328
+runfiles size=11
+ texmf-dist/tex/latex/bookcover/bookcover.cls
+catalogue-ctan /macros/latex/contrib/bookcover
+catalogue-date 2018-01-21 22:41:56 +0100
+catalogue-license lppl1.2
+catalogue-topics class covers
+catalogue-version 2.3

@@ -1,0 +1,15 @@
+name aichej
+category Package
+revision 15878
+shortdesc Bibliography style file for the AIChE Journal
+longdesc The style was generated using custom-bib, and implements the
+longdesc style of the American Institute of Chemical Engineers Journal
+longdesc (or AIChE Journal or AIChE J or AIChEJ).
+containersize 6172
+containerchecksum 7edc0ca36209f18dcca0b794c7ee712f0eba82e3e69b09fd46fdc7ede6bd33e93d4936d7bfcff88fe4f699acd04493053a7c76cabb87670215efaae12aaabc83
+runfiles size=7
+ texmf-dist/bibtex/bst/aichej/aichej.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/aichej.bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty journalpub

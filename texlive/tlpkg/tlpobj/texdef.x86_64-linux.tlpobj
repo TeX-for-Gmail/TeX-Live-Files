@@ -1,0 +1,9 @@
+name texdef.x86_64-linux
+category Package
+revision 45011
+shortdesc x86_64-linux files of texdef
+containersize 364
+containerchecksum 8f33ce18c99882f8b20b4f001a2ced349654a2c8ed36ef1d4177871676bf55a642f72652793ce2a41622a6270f8107cf261fa762ebbaf796412143ab19cd19bc
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/latexdef
+ bin/x86_64-linux/texdef

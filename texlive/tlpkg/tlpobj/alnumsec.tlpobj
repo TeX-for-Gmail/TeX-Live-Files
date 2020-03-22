@@ -1,0 +1,23 @@
+name alnumsec
+category Package
+revision 15878
+shortdesc Alphanumeric section numbering
+longdesc This package allows you to use alphanumeric section numbering,
+longdesc for instance "A. Introduction ... III. International Law". Its
+longdesc output is similar to alphanum, but you can use the standard
+longdesc LaTeX sectioning commands, so that it is possible to switch
+longdesc numbering schemes easily. Greek letters, double letters (bb)
+longdesc and different delimiters around them are supported.
+containersize 2636
+containerchecksum d61adf9c03ef9f0b5d68325b435d5145297d85fa04a5bf106de50f58c04c9507eb63fb17070e955e7f476158419a802f0f18d2cd97ca93baa7997c2d57def479
+doccontainersize 121668
+doccontainerchecksum ab07f751332fa0ad974e6ea84b10a0249e5bbb69e591d1319a8c5d743f88d63ad9a7c72fc08fbac95e3cf950d090313dd758ed8f604e209206f873c5f0f70880
+srccontainersize 7532
+srccontainerchecksum 2c978d1dc9dc7f6a0f91d90102a37a2c8bdb78a19d7211d179b04ea448bb56baa451e09f945daaf3f219187d39f5938a7c003988fbc905b692931c9cffe465ee
+runfiles size=3
+ texmf-dist/tex/latex/alnumsec/alnumsec.sty
+catalogue-ctan /macros/latex/contrib/alnumsec
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics headings
+catalogue-version 0.03

@@ -1,0 +1,43 @@
+name bengali
+category Package
+revision 20987
+catalogue bengali-pandey
+shortdesc Support for the Bengali language
+longdesc The package is based on Velthuis' transliteration scheme, with
+longdesc extensions to deal with the Bengali letters that are not in
+longdesc Devanagari. The package also supports Assamese.
+containersize 17072
+containerchecksum 384c07640acd5d4ef2fb661d661f1f3550fd84ed08e5345ec71cd7b3189560cff18c4992a91c13812e5bacd06364e3cc52faf6fd32d01a4fac1b2928490f97b8
+doccontainersize 76020
+doccontainerchecksum cde57bbf0c8eb52b92973f80c7a780d30967fc2dc0624f1626856054bc0005a5f0e318474f145b9abd60a59cdb6e87e8b4a3b03b4b18282db758b5f110b46371
+srccontainersize 8944
+srccontainerchecksum f6f8641cd631870077a73c702da0d7718b2a06236da608b3ad6cb81e60530f93328772e97870c3da8d6e3ff9106729db5d3137c56329f6271a9b1810a565c189
+runfiles size=42
+ texmf-dist/fonts/source/public/bengali/bn.mf
+ texmf-dist/fonts/source/public/bengali/bnbanjon.mf
+ texmf-dist/fonts/source/public/bengali/bndigit.mf
+ texmf-dist/fonts/source/public/bengali/bnjuk.mf
+ texmf-dist/fonts/source/public/bengali/bnkaar.mf
+ texmf-dist/fonts/source/public/bengali/bnlig.mf
+ texmf-dist/fonts/source/public/bengali/bnligtbl.mf
+ texmf-dist/fonts/source/public/bengali/bnmacro.mf
+ texmf-dist/fonts/source/public/bengali/bnmisc.mf
+ texmf-dist/fonts/source/public/bengali/bnpunct.mf
+ texmf-dist/fonts/source/public/bengali/bnr10.mf
+ texmf-dist/fonts/source/public/bengali/bnsl10.mf
+ texmf-dist/fonts/source/public/bengali/bnswar.mf
+ texmf-dist/fonts/source/public/bengali/xbnr10.mf
+ texmf-dist/fonts/source/public/bengali/xbnsl10.mf
+ texmf-dist/fonts/source/public/bengali/xbnsupp.mf
+ texmf-dist/fonts/tfm/public/bengali/bnr10.tfm
+ texmf-dist/fonts/tfm/public/bengali/bnsl10.tfm
+ texmf-dist/fonts/tfm/public/bengali/xbnr10.tfm
+ texmf-dist/fonts/tfm/public/bengali/xbnsl10.tfm
+ texmf-dist/tex/latex/bengali/beng.sty
+ texmf-dist/tex/latex/bengali/ubn.fd
+ texmf-dist/tex/latex/bengali/ubnx.fd
+catalogue-also arosgn
+catalogue-ctan /language/bengali/pandey
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics indic

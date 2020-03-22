@@ -1,0 +1,20 @@
+name biblatex-bookinother
+category Package
+revision 45856
+shortdesc Manage book edited in other entry type
+longdesc This package provides new BibLaTeX entry types and fields for
+longdesc book edited in other types, like for instance @bookinarticle.
+longdesc It offers more types than the older package
+longdesc biblatex-bookinarticle which it superseeds.
+containersize 3172
+containerchecksum 2e6f21726ee4289801546508a26a9416b6725059c63f214d7cc8a6a8b3cf7d3b60fcb87fb7451f4ccfe6d1a27b986e9e0ddbd5a8f0b1070d7e37b775d07ec7d4
+doccontainersize 265780
+doccontainerchecksum 5c6a1c0b44533b518d95f0dab2aed58e41253c97eee9d04b9b734bcfc7eb2f8437f835a3b7120b37fb5ec3b58d8929b93185fe9bc43c78e15f30fe1f8e7adfb4
+runfiles size=6
+ texmf-dist/tex/latex/biblatex-bookinother/bookinother.bbx
+ texmf-dist/tex/latex/biblatex-bookinother/bookinother.dbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-bookinother
+catalogue-date 2017-11-19 17:23:13 +0100
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 2.3.1

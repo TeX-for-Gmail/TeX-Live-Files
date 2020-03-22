@@ -1,0 +1,23 @@
+name elegantnote
+category Package
+revision 49926
+shortdesc Elegant LaTeX Template for Notes
+longdesc ElegantNote is designed for writing working papers, especially
+longdesc for economics students. This template is based on the standard
+longdesc LaTeX article class. The goal of this template is to make the
+longdesc writing process easier and more comfortable.
+containersize 4044
+containerchecksum fa01c305f478e100ab30b187ee053ec82c0d067ea2a463584a60d68b8358f9e8f65027b87d2e59f9c6c6df2dedb3885f151bcd9db8df5bd9e451c035d21bfb51
+doccontainersize 1336776
+doccontainerchecksum a1c24f6637ece128a313f24e8ef1ba2b587490c876706f0d2fff2734ff0a5e799b6ae981d073bd2577a60040e121e59d1b3aac81e7ec0e844a0a270a52862020
+runfiles size=3
+ texmf-dist/tex/latex/elegantnote/elegantnote.cls
+catalogue-contact-announce https://elegantlatex.org/
+catalogue-contact-home https://elegantlatex.org/
+catalogue-contact-repository https://github.com/ElegantLaTeX/ElegantNote
+catalogue-contact-support https://github.com/ElegantLaTeX/ElegantNote/issues
+catalogue-ctan /macros/latex/contrib/elegantnote
+catalogue-date 2019-02-05 05:26:48 +0100
+catalogue-license lppl1.3c
+catalogue-topics class
+catalogue-version 2.10

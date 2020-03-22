@@ -1,0 +1,20 @@
+name GS1
+category Package
+revision 44822
+shortdesc Typeset EAN barcodes using TeX rules, only
+longdesc The (LaTeX 3) package typesets EAN-8 and EAN-13 barcodes, using
+longdesc the facilities of the rule-D package.
+containersize 3452
+containerchecksum c71acefcb0ff1cd97792c27435e7eb4f4e32f072a275e5eb7dd13d7b9928ca00318d0acdf605f35cc4a3d7099247c290155d6963ac1560f4b11f37a123fde0b6
+doccontainersize 1137680
+doccontainerchecksum 6e714b1087d228923f38dc3c8680e57de314eab79ab15f0aa247ad002a3aa6a9dac2a253c5688c904408c8d14dadbe307b3d3446b38db767a650989d5ed9e878
+srccontainersize 9936
+srccontainerchecksum 3ad67dc4bd1033f828cbc11196a6ce9a25b2abc90348f727423effd6d97acd7fbf617b88740afb9050f481fb403401033c3dc60c3b9ac326467697f9b1d09a49
+runfiles size=4
+ texmf-dist/tex/latex/GS1/GS1.sty
+ texmf-dist/tex/latex/GS1/rule-D.sty
+catalogue-ctan /macros/latex/contrib/gs1
+catalogue-date 2017-07-15 22:08:54 +0200
+catalogue-license lppl1.3c
+catalogue-topics barcode
+catalogue-version 22

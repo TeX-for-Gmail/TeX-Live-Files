@@ -1,0 +1,13 @@
+name translation-arsclassica-de
+category Package
+revision 23803
+shortdesc German version of arsclassica
+longdesc This is a "translation" of the arsclassica documentation.
+containersize 404
+containerchecksum 76ced8c2c93e35d6bee10f34a7de5709b8027f9d498f8fcd21ba776850c65e1e20eaf20528414b7d9da1891a2db7132b6e3b703c4f8d91f4ff0c69eb9159c996
+doccontainersize 358860
+doccontainerchecksum 58773adb7493e6ef31d8fd3854a51cd37921dd331f56f1d9eab5283c121fa8c3316ffc41242356a87af04bb6da68761ea15829e5e8555d2e6cdbb68833c8d313
+catalogue-ctan /info/translations/arsclassica/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics dissertation german-doc translation

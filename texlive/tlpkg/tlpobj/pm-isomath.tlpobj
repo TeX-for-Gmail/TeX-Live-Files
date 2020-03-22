@@ -1,0 +1,23 @@
+name pm-isomath
+category Package
+revision 46402
+shortdesc Poor man ISO math for pdfLaTeX users
+longdesc This small package realizes a poor man approximation of the ISO
+longdesc regulations for physical sciences and technology. Contrary to
+longdesc other more elegant solutions, it does not load any math
+longdesc alphabet, since pdfLaTeX can use only a maximum of such
+longdesc alphabets. The necessary user macros are defined for typsetting
+longdesc common math symbols that require specia ISO treatement.
+containersize 2560
+containerchecksum 2ca05438d8a9e4b2a9d1e4a9232071d34a915d9f93cdd865191e350b128b9ddbc9f0af67d76eb49ec2b6f2a1485a5a792850f0abbe59de0ba4f50c0c10b89a0a
+doccontainersize 595104
+doccontainerchecksum 76876cffd5c59b2ca74901c5c83e364c0c7982b947efd869f82ba801298f5b57d84f292015c8da28a3e49aada42eeea9c35d11660c3b61abd0ccfe31708e8d9c
+srccontainersize 15812
+srccontainerchecksum 55976f387b8a2ae1caae8d340abb37ad1187efd4017a29243c474e8d9804ed0bf83a7206992dc2428a229a0bba1cda60b2b5e72235a79cbdff6e47361e03f814
+runfiles size=2
+ texmf-dist/tex/latex/pm-isomath/pm-isomath.sty
+catalogue-ctan /macros/latex/contrib/pm-isomath
+catalogue-date 2018-01-21 19:26:54 +0100
+catalogue-license lppl1.3c
+catalogue-topics maths physics
+catalogue-version 1.0.04

@@ -1,0 +1,17 @@
+name rterface
+category Package
+revision 30084
+shortdesc Access to R analysis from within a document
+longdesc The package mediates interaction between LaTeX and R; it allows
+longdesc LaTeX to set R's parameters, and provides code to read R
+longdesc output.
+containersize 1664
+containerchecksum 3c3cd754ab17d03d50c35ec9824b76b9d4528276fe2b5a882d35df5537ca12f83956b2c596a269f9961f243bbd5e8c394c6f1bd508d07cecae50fa47bf05fd86
+doccontainersize 51296
+doccontainerchecksum c8c38026ce2bf2a996ba40062fe3bce797b381633e4aac50ec438bc9fb567f73ad1c4e764af3cdc816e62713d4f1dd8bf2ab1814b50d086811359e999103c7bf
+runfiles size=1
+ texmf-dist/tex/latex/rterface/rterface.sty
+catalogue-ctan /macros/latex/contrib/rterface
+catalogue-date 2018-04-22 08:12:20 +0200
+catalogue-license lppl1.2
+catalogue-topics callback statistics

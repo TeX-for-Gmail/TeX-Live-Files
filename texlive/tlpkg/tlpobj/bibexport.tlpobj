@@ -1,0 +1,26 @@
+name bibexport
+category Package
+revision 50677
+shortdesc Extract a BibTeX file based on a .aux file
+longdesc A Bourne shell script that uses BibTeX to extract bibliography
+longdesc entries that are \cite'd in a document. It can also expand a
+longdesc BibTeX file, expanding the abbreviations (other than the
+longdesc built-in ones like month names) and following the
+longdesc cross-references.
+depend bibexport.ARCH
+containersize 6512
+containerchecksum 75f9cb374e0aee1b049e977e3ee1a855ae8f908a6c6191589ce9d9fc28a8358fedf93faa416b1020e157a8ec7a3980673d00e052a100c88724e86050ea5eb487
+doccontainersize 256176
+doccontainerchecksum ec96364b4a9f7ab446c6b0104646e82cab1c9015e0d3dfac6a795e58e02dd3920737207d16089c5470ac32f76a61be949efa6899ca935322c0062f71f3477b16
+srccontainersize 11296
+srccontainerchecksum 6c18b4e12e8eecdd03f6afae80766cebe3f826a1146c38b6387c6793abf284d3c44e7d4d6050675f01676128f1d073d8ee8f38f31a6081049b8c390b5a7813a1
+runfiles size=10
+ texmf-dist/bibtex/bst/bibexport/expcites.bst
+ texmf-dist/bibtex/bst/bibexport/expkeys.bst
+ texmf-dist/bibtex/bst/bibexport/export.bst
+ texmf-dist/scripts/bibexport/bibexport.sh
+catalogue-ctan /biblio/bibtex/utils/bibexport
+catalogue-date 2019-03-31 09:13:05 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-util
+catalogue-version 3.03

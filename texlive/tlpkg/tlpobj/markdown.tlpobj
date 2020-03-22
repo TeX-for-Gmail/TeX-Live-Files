@@ -1,0 +1,35 @@
+name markdown
+category Package
+revision 50784
+shortdesc A package for converting and rendering markdown documents inside TeX
+longdesc The package provides facilities for the conversion of markdown
+longdesc markup to plain TeX. These are provided both in form of a Lua
+longdesc module and in form of plain TeX, LaTeX, and ConTeXt macro
+longdesc packages that enable the direct inclusion of markdown documents
+longdesc inside TeX documents. Architecturally, the package consists of
+longdesc the Lunamark Lua module by John MacFarlane, which was slimmed
+longdesc down and rewritten for the needs of the package. Lunamark
+longdesc provides speedy markdown parsing for the rest of the package.
+longdesc On top of Lunamark sits code for the plain TeX, LaTeX, and
+longdesc ConTeXt formats by Vit Novotny.
+containersize 22596
+containerchecksum 7efc7ac422cf257f1fc56766aae6170d8910ad27a72aed6af298b365eed48397dbc1645edce6752ab0499357c5ac58cf62675fcccffc9eeb17ea97439ad8c7d0
+doccontainersize 442104
+doccontainerchecksum 4845979458e053c9bcdd373f47a5a30a01eb46a1055771f8f3d18ab23f4d475163ce4d1d947597fecbc4321278c3847cd42cd4ce52821ac2f1487d518bd65beb
+srccontainersize 57076
+srccontainerchecksum df97a62f61e542fd2db621974205089e5d380d9016457da19b4bda4630cbb294e919ecdc41337dd3fa90d066ede28d39b8e837197f32072809eb23feb041c05c
+runfiles size=37
+ texmf-dist/scripts/markdown/markdown-cli.lua
+ texmf-dist/tex/context/third/markdown/t-markdown.tex
+ texmf-dist/tex/generic/markdown/markdown.tex
+ texmf-dist/tex/latex/markdown/markdown.sty
+ texmf-dist/tex/luatex/markdown/markdown.lua
+catalogue-contact-announce https://github.com/Witiko/markdown/releases
+catalogue-contact-bugs https://github.com/Witiko/markdown/issues
+catalogue-contact-development https://github.com/Witiko/markdown/pulls
+catalogue-contact-repository https://github.com/Witiko/markdown
+catalogue-ctan /macros/generic/markdown
+catalogue-date 2019-04-05 10:51:52 +0200
+catalogue-license lppl1.3
+catalogue-topics markup
+catalogue-version 2.7.0

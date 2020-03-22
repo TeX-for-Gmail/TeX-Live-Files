@@ -1,0 +1,23 @@
+name vhistory
+category Package
+revision 30080
+shortdesc Support for creating a change log
+longdesc Vhistory simplifies the creation of a history of versions of a
+longdesc document. You can easily extract information like the current
+longdesc version of a list of authors from that history. It helps you to
+longdesc get consistent documents. The package sets, which is used by
+longdesc vhistory, allows you to use sets containing text. You can use
+longdesc the usual operations to create the union of sets or the
+longdesc intersection of sets etc.
+containersize 8276
+containerchecksum f1747b1c112c69cdc506234c571335647b365eb92a4054c70cb08752dc1da92ac4e84d533083cdee76f6398f5f1bf04b20b94cf38ddf13947d4086c5599529fc
+doccontainersize 336696
+doccontainerchecksum 60a8100cc10df177b04eba8751208c515eee9601806324184f737491707e1e4d453a92b0d12a16d6cc1af319a55c79afc8922d1378f8714990c97b5779540763
+runfiles size=9
+ texmf-dist/tex/latex/vhistory/sets.sty
+ texmf-dist/tex/latex/vhistory/vhistory.sty
+catalogue-ctan /macros/latex/contrib/vhistory
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics version-control
+catalogue-version 1.6.1

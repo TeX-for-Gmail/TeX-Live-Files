@@ -1,0 +1,8 @@
+name checkcites.x86_64-linux
+category Package
+revision 25623
+shortdesc x86_64-linux files of checkcites
+containersize 344
+containerchecksum bdd29e325c0342eecfd324b822fb6992d34ad27bbba94082a7f7ed52238b6d48178f286052320c5c80647dd1e1090fd103ff2ddf82ef12b50d604847b216e714
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/checkcites

@@ -1,0 +1,53 @@
+name stex
+category Package
+revision 50489
+shortdesc An Infrastructure for Semantic Preloading of LaTeX Documents
+longdesc The sTeX package collection is a version of TeX/LaTeX that
+longdesc allows to markup TeX/LaTeX documents semantically without
+longdesc leaving the document format, essentially turning it into a
+longdesc document format for mathematical knowledge management (MKM).
+containersize 41256
+containerchecksum 43d9cb084f47b1fc2bfab9eb11ec9253fda495f29640d333c00de5d7a5681bf37e0331002938e141679b0ab10345e23d5cbff19cb33fbfa01d25be62295b18dc
+doccontainersize 5856944
+doccontainerchecksum 3e936e5905f5dac9a16030af94037398c60b6b79feeb6180af4b7542eb8293a681a213115dd082d9e2df8264771d6d92544e6ec514cf40cf4a136cf74a0a6e51
+srccontainersize 495572
+srccontainerchecksum 5cf2ccb75d699f86a095481c4fdefe0d2a981340d3df72c09ddfc4acd3798a35546674eca62c8aea07431b50edd643c514af901d86513a3e5d0d3af9588f24ed
+runfiles size=50
+ texmf-dist/tex/latex/stex/cmath/cmath.sty
+ texmf-dist/tex/latex/stex/dcm/dcm.sty
+ texmf-dist/tex/latex/stex/hwexam/hwexam.cls
+ texmf-dist/tex/latex/stex/hwexam/hwexam.sty
+ texmf-dist/tex/latex/stex/metakeys/metakeys.sty
+ texmf-dist/tex/latex/stex/mikoslides/beamerthemeJacobs.sty
+ texmf-dist/tex/latex/stex/mikoslides/cc-by-sa.png
+ texmf-dist/tex/latex/stex/mikoslides/cc_somerights.png
+ texmf-dist/tex/latex/stex/mikoslides/dangerous-bend.png
+ texmf-dist/tex/latex/stex/mikoslides/jacobs-logo.png
+ texmf-dist/tex/latex/stex/mikoslides/mikoslides.cls
+ texmf-dist/tex/latex/stex/mikoslides/mikoslides.sty
+ texmf-dist/tex/latex/stex/mikoslides/shading-l2r.png
+ texmf-dist/tex/latex/stex/modules/modules.sty
+ texmf-dist/tex/latex/stex/omdoc/omdoc.cls
+ texmf-dist/tex/latex/stex/omdoc/omdoc.sty
+ texmf-dist/tex/latex/stex/omtext/omtext.sty
+ texmf-dist/tex/latex/stex/presentation/presentation.sty
+ texmf-dist/tex/latex/stex/problem/problem.sty
+ texmf-dist/tex/latex/stex/rfdmeta/rdfmeta.sty
+ texmf-dist/tex/latex/stex/smglom/smglom.cls
+ texmf-dist/tex/latex/stex/smultiling/smultiling.sty
+ texmf-dist/tex/latex/stex/sproof/sproof.sty
+ texmf-dist/tex/latex/stex/sref/sref.sty
+ texmf-dist/tex/latex/stex/statements/statements.sty
+ texmf-dist/tex/latex/stex/stex/stex.sty
+ texmf-dist/tex/latex/stex/structview/structview.sty
+ texmf-dist/tex/latex/stex/tikzinput/tikzinput.sty
+ texmf-dist/tex/latex/stex/workaddress/workaddress.sty
+catalogue-contact-announce https://lists.informatik.uni-erlangen.de/mailman/listinfo/stex
+catalogue-contact-bugs https://github.com/KWARC/sTeX/issues
+catalogue-contact-development https://lists.informatik.uni-erlangen.de/mailman/listinfo/stex
+catalogue-contact-home https://github.com/KWARC/sTeX
+catalogue-contact-repository https://github.com/KWARC/sTeX
+catalogue-ctan /macros/latex/contrib/stex
+catalogue-date 2019-03-20 21:11:08 +0100
+catalogue-license lppl
+catalogue-topics struc-mkup format

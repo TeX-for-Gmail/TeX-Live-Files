@@ -1,0 +1,21 @@
+name biblatex-socialscienceshuberlin
+category Package
+revision 47839
+shortdesc BibLaTeX-style for the social sciences at HU Berlin
+longdesc This is a BibLaTeX style for the social sciences at the
+longdesc Humboldt-Universitat zu Berlin.
+containersize 2112
+containerchecksum f927cccda37e1ab37bd01b49f3247b688ba0186db5b162ab9b73db7be5f83d1b261bcfbf355d575a3905cdfca2421b6b592ae0763d7575957ea382b451fb6099
+doccontainersize 112244
+doccontainerchecksum 30c411b27e50e0f4ac46385a07606846ae3dd744879de257e2f2abec829e5920957d55e970255cc51cb768f3ca0aab629f30d2860e5745c4addf5aac10ecaca3
+runfiles size=4
+ texmf-dist/tex/latex/biblatex-socialscienceshuberlin/german-socialscienceshuberlin.lbx
+ texmf-dist/tex/latex/biblatex-socialscienceshuberlin/socialscienceshuberlin.bbx
+ texmf-dist/tex/latex/biblatex-socialscienceshuberlin/socialscienceshuberlin.cbx
+catalogue-contact-bugs https://github.com/LukasCBossert/biblatex-socialscienceshuberlin/issues
+catalogue-contact-repository https://github.com/LukasCBossert/biblatex-socialscienceshuberlin
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-socialscienceshuberlin
+catalogue-date 2018-05-28 05:03:03 +0200
+catalogue-license lppl1.3
+catalogue-topics biblio biblatex
+catalogue-version 0.0.1

@@ -1,0 +1,8 @@
+name ebong.x86_64-linux
+category Package
+revision 21000
+shortdesc x86_64-linux files of ebong
+containersize 336
+containerchecksum 38767cc4936dd49fb22d7c8843938ab275eeb7c0c27e3a7d14a17f748bc7118f4bce5e1222ed355e09f3a2dc6cac6eb91e0371013e46c483d6ab6b98a776776c
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ebong

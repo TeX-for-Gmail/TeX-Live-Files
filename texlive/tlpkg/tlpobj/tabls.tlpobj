@@ -1,0 +1,21 @@
+name tabls
+category Package
+revision 17255
+shortdesc Better vertical spacing in tables and arrays
+longdesc Modifies LaTeX's array and tabular environments to keep text
+longdesc from touching other text or hlines above or below. Several new
+longdesc parameters are defined and some standard macros are re-defined.
+longdesc The package slows down compilation of tables, since each entry
+longdesc is boxed twice.
+containersize 4348
+containerchecksum 1a341985ae61f047694470d19d4e192b4f4e01c0bb595d91b1f80080eed3077be4e40b431cc05b1bb482f18c30bf36e6076542f2cf37a49dd6b065b0fe044bca
+doccontainersize 226408
+doccontainerchecksum f458058964660b2b1ff2a61ff8ff2ffcfe7ab103e9714cb1e7c307a8bd39c5a1a6990683c4ed7aa401cbe9b9dcc083dfbadd80a5aa00bcd64c0fb72638cf71f2
+runfiles size=3
+ texmf-dist/tex/latex/tabls/tabls.sty
+catalogue-also cellspace
+catalogue-ctan /macros/latex/contrib/tabls
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics table
+catalogue-version 3.5

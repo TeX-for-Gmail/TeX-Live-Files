@@ -1,0 +1,20 @@
+name germkorr
+category Package
+revision 15878
+shortdesc Change kerning for German quotation marks
+longdesc The package germcorr has to be loaded after the package german.
+longdesc It brings some letters like T nearer to german single and
+longdesc double quotes even when that letter wears a standard accent
+longdesc like "`\.T"'.
+containersize 2348
+containerchecksum 6819a79268da2704a3fa6baab74be48ccd591ba998a0b012d323cb0149273deba6298a92629f0d19c19725ef0b41db9dd28adf9bb898c1c637038f9c22ad4b16
+doccontainersize 172296
+doccontainerchecksum ab5362e069674c2c53709bc776be9fcbcfd3e56226a8fa7b9230c2f4ccb6fb74bba20485362f48130c153d81df838281620a628671c202cd60a52bf8ab5b89cd
+runfiles size=2
+ texmf-dist/tex/latex/germkorr/germkorr.sty
+catalogue-also german
+catalogue-ctan /macros/latex/contrib/germkorr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics quote-marks german
+catalogue-version 1.0

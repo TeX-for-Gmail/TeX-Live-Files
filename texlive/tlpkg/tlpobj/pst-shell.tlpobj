@@ -1,0 +1,26 @@
+name pst-shell
+category Package
+revision 42840
+shortdesc pst-shell: plotting sea shells
+longdesc pst-shell is a PSTricks related package to draw seashells in 3D
+longdesc view: Argonauta, Epiteonium, Lyria, Turritella, Tonna,
+longdesc Achatina, Oxystele, Conus, Ammonite, Codakia, Escalaria,
+longdesc Helcion, Natalina, Planorbis, and Nautilus, all with different
+longdesc parameters. pst-shell needs pst-solides3d and an up-to-date
+longdesc PSTricks, which should be part of your local TeX installation,
+longdesc otherwise get it from a CTAN server.
+containersize 3140
+containerchecksum d91fc81c2140e0ff4aae4e190b4816887f0c068df42022b6b6545adec400920a69e81bca1373efae4249a95cfb1b7f6b712497d72510aec79954feb7a1ec07d2
+doccontainersize 15919660
+doccontainerchecksum a788f994d6003ca6a650cbe042b57a712fb91da2146b21fe3023b464487e5a56699a2aeea56be77aa26919f6c1fcaca6d49bd3ea33ccd2fd7a06e5f95a917803
+srccontainersize 1100
+srccontainerchecksum 0a5173dcb9d58eca24cae2c385db9f0225bd5feca124a3f86e3f4991a689c6bf897b48ee2c756746e337a7aa6ec7758b3d54c90f7895b841fd88c3c74eb6bdbb
+runfiles size=4
+ texmf-dist/dvips/pst-shell/pst-shell.pro
+ texmf-dist/tex/generic/pst-shell/pst-shell.tex
+ texmf-dist/tex/latex/pst-shell/pst-shell.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-shell
+catalogue-date 2016-12-29 05:38:19 +0100
+catalogue-license lppl
+catalogue-topics graphics-in-tex colour pstricks dvips-special xetex
+catalogue-version 0.03

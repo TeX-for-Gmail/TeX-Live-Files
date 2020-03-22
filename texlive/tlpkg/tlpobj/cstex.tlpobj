@@ -1,0 +1,19 @@
+name cstex
+category Package
+revision 50527
+shortdesc Support for Czech/Slovak languages
+longdesc This package mirrors the macros part of the home site's
+longdesc distribution of CSTeX. The licence (modified GPL) applies to
+longdesc some of the additions that make it a Czech/Slovak language
+longdesc distribution, rather than the distribution of a basic
+longdesc Plain/LaTeX distribution.
+containersize 544
+containerchecksum 66c2c2ef33d5b184a644981c3e2b23adbb4b37d8a30c46c8218751e418b0fbd8e2edd57ed8774983ad7710a68d9ffd314c701894121a75583be9eab24e1195e1
+doccontainersize 3962540
+doccontainerchecksum 8b900d0c05317df71fff6f11f0fcaf090ddb40f03fd7dd5ba96fdefb76beee478c1b10695ac15dbb2871101cf279af59719125d88ca86af458c731d98aa73eb6
+catalogue-also cslatex
+catalogue-contact-home http://math.feld.cvut.cz/olsak/cstex/
+catalogue-ctan /macros/cstex
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics distribution

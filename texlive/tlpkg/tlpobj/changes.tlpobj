@@ -1,0 +1,30 @@
+name changes
+category Package
+revision 49837
+shortdesc Manual change markup
+longdesc The package allows the user to manually markup changes of text,
+longdesc such as additions, deletions, or replacements. Changed text is
+longdesc shown in a different color; deleted text is striked out.
+longdesc Additionally, text can be highlighted and/or commented. The
+longdesc package allows free definition of additional authors and their
+longdesc associated color. It also allows you to change the markup of
+longdesc changes, authors, highlights or comments. A bash script is
+longdesc provided for removing the changes.
+containersize 7872
+containerchecksum ffcf61ab2a404c27cea3434f9c9f0a2007865a2b86fb59310cb15b614c49923ba48ba75aa7b4e0b771a36dc3ae5f98199f1a69e5deea2cb146e49c69a3837a8b
+doccontainersize 492728
+doccontainerchecksum 42752f7e39ac0129527526ab7e545cb23cb239689ed54a6ad4ec7e4125c7608b6e392f7abbffed43d46d7b6061b4478e6773fe8653f67321f9abff2db17d83d9
+srccontainersize 16188
+srccontainerchecksum e08209d7dc9567a2187b9a3b8e76f9fe8655d1ab82f0f9549cc504f13826761a5138f3461b97e27c785a062fe598d64689c3826ba24b0eaac7c421e1727e044d
+runfiles size=11
+ texmf-dist/scripts/changes/pyMergeChanges.py
+ texmf-dist/tex/latex/changes/changes.sty
+catalogue-contact-bugs https://gitlab.com/ekleinod/changes/issues
+catalogue-contact-home http://changes.sourceforge.net/
+catalogue-contact-repository https://gitlab.com/ekleinod/changes/
+catalogue-contact-support https://gitlab.com/ekleinod/changes/issues
+catalogue-ctan /macros/latex/contrib/changes
+catalogue-date 2019-01-27 11:54:46 +0100
+catalogue-license lppl1.3
+catalogue-topics editorial doc-tool
+catalogue-version 3.1.2

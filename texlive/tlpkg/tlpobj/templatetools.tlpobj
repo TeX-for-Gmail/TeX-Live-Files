@@ -1,0 +1,20 @@
+name templatetools
+category Package
+revision 34495
+shortdesc Commands useful in LaTeX templates
+longdesc The package provides a collection of tools, which are helpful
+longdesc for the creation of a LaTeX template if conditional paths for
+longdesc code execution are required. All the commands work both in the
+longdesc preamble and in the document.
+containersize 2104
+containerchecksum 16abbf8e5c8972961d112cba712f927be24fca191467677bf27d76ba30c2eba8cd237842b003b9cf45247a122294d517b14a4bf5b4938eedaf3055ffdd22c05a
+doccontainersize 440152
+doccontainerchecksum 54d696f510cc75384703f750a8c532eb2a0d46e02821fd9126daac52ed1b39859882d475758cc1ff7fd6257211e49ee0fc5c06dbb2e13e83d4584523064cf19f
+srccontainersize 6684
+srccontainerchecksum 685e379f557b683adcf198fb0a6f962b1da431e004470d5fc53c8815f4e7048e73d6851ae1792d78fa322f8efc5375d40c8f3c79404a8feb4a229df2fadf154f
+runfiles size=2
+ texmf-dist/tex/latex/templatetools/templatetools.sty
+catalogue-ctan /macros/latex/contrib/templatetools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-templ

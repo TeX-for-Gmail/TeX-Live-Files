@@ -1,0 +1,27 @@
+name biblatex-chem
+category Package
+revision 48944
+shortdesc A set of BibLaTeX implementations of chemistry-related bibliography styles
+longdesc The bundle offers a set of styles to allow chemists to use
+longdesc BibLaTeX. The package has complete styles for: all ACS
+longdesc journals; RSC journals using standard (Chem. Commun.) style;
+longdesc and Angewandte Chem. style, (thus covering a wide range of
+longdesc journals). A comprehensive set of examples of use is included.
+containersize 5616
+containerchecksum b37b7cec9dccad241e70d2f7174ce6e31fe54065174bd1c00862d4d41a72cd836f69ce93d6fddbb291b1bd3e7200311da66a20d03a5e63ebd9ffc7844210993c
+doccontainersize 923400
+doccontainerchecksum c1bf8e1b270dea266c83598d3e4e56b24f74f2d84f72152f7dc5f2c2b1cb78343f088d0adc1be2a8bf19f6218ea53613a1aa28729b07c650ca86819da93e107b
+runfiles size=24
+ texmf-dist/tex/latex/biblatex-chem/chem-acs.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-acs.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-angew.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-angew.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-biochem.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-biochem.cbx
+ texmf-dist/tex/latex/biblatex-chem/chem-rsc.bbx
+ texmf-dist/tex/latex/biblatex-chem/chem-rsc.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-chem
+catalogue-date 2018-10-19 10:22:36 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex chemistry journalpub
+catalogue-version 1.1w

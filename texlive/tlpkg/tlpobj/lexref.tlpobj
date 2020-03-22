@@ -1,0 +1,22 @@
+name lexref
+category Package
+revision 36026
+shortdesc Convenient and uniform references to legal provisions
+longdesc The package is aimed at continental lawyers (especially those
+longdesc in Switzerland and Germany), allowing the user to make
+longdesc references to legal provisions conveniently and uniformly. The
+longdesc package also allows the user to add cited Acts to a
+longdesc nomenclature list (automatically), and to build specific
+longdesc indexes for each cited Act. The package is still under
+longdesc development, and should be treated as an 'alpha'-release.
+containersize 4008
+containerchecksum f9bf7792ac09a6b5a69ae642e0becbcb1ed0c2eea3254b31da62bb9b7e3e161c24109e0bcacc8b89e3d03426710378f04e13a05be467115eaea2be028f8e5812
+doccontainersize 386412
+doccontainerchecksum 6a348acfd0e0701954195210bc717666308743f5f282b9efb7a253ab860a0372ed383cc2c8811527eeb2ed72c46be95cfb9e133d156fe8b906b67ed5140437af
+runfiles size=5
+ texmf-dist/tex/latex/lexref/lexref.sty
+catalogue-ctan /macros/latex/contrib/lexref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics legal
+catalogue-version 1.1a

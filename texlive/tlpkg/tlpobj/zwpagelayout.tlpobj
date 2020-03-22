@@ -1,0 +1,23 @@
+name zwpagelayout
+category Package
+revision 28846
+shortdesc Page layout and crop-marks
+longdesc This package was developed as a typographers' toolbox offering
+longdesc important basic features for everyday work. It allows setting
+longdesc the paper size and the page layout; it can print crop marks;
+longdesc and it can reflect pages both horizontally and vertically. The
+longdesc package facilities work with TeX (output via dvips or
+longdesc (x)dvipdfm(x)), and with pdfTeX.
+containersize 8900
+containerchecksum f050edb743cb045547080925153ac16317f7f78205eedbc37b9db39704b84db376c9362cefcd6711d8c98d46af4d2baa82fe4c3be581d1e9c33689b702679d14
+doccontainersize 591556
+doccontainerchecksum 6f2a0c3e646f442e570ce576cf638a6a290b0bf0f120b19a27c1f190fb3d20d0d3dcd2a2e3490e9671846338b9d6890884f54296a31593993be9bfd06a7241fb
+runfiles size=9
+ texmf-dist/tex/latex/zwpagelayout/zwpagelayout.sty
+catalogue-also geometry crop
+catalogue-contact-home http://icebearsoft.euweb.cz/tex/
+catalogue-ctan /macros/latex/contrib/zwpagelayout
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics geometry production
+catalogue-version 1.4d

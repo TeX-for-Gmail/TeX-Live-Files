@@ -1,0 +1,24 @@
+name skdoc
+category Package
+revision 47526
+shortdesc Documentation and extraction for packages and document classes
+longdesc The class provides the functionality and implementation of
+longdesc packages and document classes. It is loosely based on the ydoc
+longdesc and ltxdoc classes, but has a number of incompatible
+longdesc differences. The class defines a MacroCode environment which
+longdesc offers an alternative to the usual docstrip method of
+longdesc installing packages. It has the ability to generate both
+longdesc documentation and code in a single run of a single file.
+containersize 9736
+containerchecksum 5fcb40b4f6bf91a1f0757f51a498b361f154f6410dd15adeca0c5579ce8d9d12aac732a8c7b740df599b5562801ffdf74e0ebf156603e75e9dbeb0c21246c3cd
+doccontainersize 271028
+doccontainerchecksum ed5bdb7318ebf7d5b736b15ce5061eb8f476b98ebc671264849e1964d7d6c04a6cabe568e524c1b325ffa55930a86cbf9694898e9b35333266db72b2218b1e89
+srccontainersize 26964
+srccontainerchecksum 776807c0844d09eb1611fae9ca7ae48de97706c163f9731937d2d03090c9ad011976ec277ee76ce974c96833a24544ed87ed8976ffb71b8331e943c1e219dabb
+runfiles size=13
+ texmf-dist/tex/latex/skdoc/skdoc.cls
+catalogue-ctan /macros/latex/contrib/skdoc
+catalogue-date 2019-01-12 10:17:10 +0100
+catalogue-license lppl1.3
+catalogue-topics doc-supp class
+catalogue-version 1.5a

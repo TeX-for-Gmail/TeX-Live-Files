@@ -1,0 +1,26 @@
+name orkhun
+category Package
+revision 15878
+shortdesc A font for orkhun script
+longdesc The font covers an old Turkic script. It is provided as
+longdesc Metafont source.
+containersize 2776
+containerchecksum c1e52283e54e4de7caccfe605438e2775ebacc9c3fd21c143e29d7966c591ccc3fba77019e4f9ed9850762a0c80475edb6c9142d7ac2e3ba54007f3dac8b056f
+doccontainersize 106092
+doccontainerchecksum ad0c15ca89057f2ff7d43a1bb8ea4513973978e1316e661a0e32ad8fb8005257a634954e85990958ba22360d29eea2d6ea9d87049435416616349874617d9dd0
+runfiles size=21
+ texmf-dist/fonts/source/public/orkhun/orhant.mf
+ texmf-dist/fonts/source/public/orkhun/orhant11.mf
+ texmf-dist/fonts/source/public/orkhun/orhant14.mf
+ texmf-dist/fonts/source/public/orkhun/orhant16.mf
+ texmf-dist/fonts/source/public/orkhun/orhant20.mf
+ texmf-dist/fonts/source/public/orkhun/orhant25.mf
+ texmf-dist/fonts/tfm/public/orkhun/orhant11.tfm
+ texmf-dist/fonts/tfm/public/orkhun/orhant14.tfm
+ texmf-dist/fonts/tfm/public/orkhun/orhant16.tfm
+ texmf-dist/fonts/tfm/public/orkhun/orhant20.tfm
+ texmf-dist/fonts/tfm/public/orkhun/orhant25.tfm
+catalogue-ctan /fonts/orkhun
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics turkish

@@ -1,0 +1,22 @@
+name varindex
+category Package
+revision 32262
+shortdesc Luxury frontend to the \index command
+longdesc Provides a convenient front-end for the \index command. For
+longdesc example, with it you can generate multiple index entries in
+longdesc almost any form by a single command. The package is highly
+longdesc customizable, and works with all versions of LaTeX and probably
+longdesc most other TeX formats.
+containersize 6512
+containerchecksum fb7216b4cb06126970148788859d9c12a0626d25321cc591b2db5d7018ab2a76f5c6505d9cd47da6a3babc765dcedb6653a3ead2eea67f688cd883fe81d9f42a
+doccontainersize 227344
+doccontainerchecksum 30b9f50b7357f12774f78f0792ee0321b5ba84d2c3dff96f5f98d87cf0bb811a2fee74b2bc691fef07a80eb65e13e42b657b74efb0ee334b4f04da7bfdd0b75e
+srccontainersize 40500
+srccontainerchecksum 19571ec2000fb99ac8e1b188e2f6965748c78476bb3fb2d38c2f668b02d268817c6f2670b9bd51df48c2db8fca1e6f62ac738f378a6832368c74de297f19b679
+runfiles size=8
+ texmf-dist/tex/latex/varindex/varindex.sty
+catalogue-ctan /macros/latex/contrib/varindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics index
+catalogue-version 2.3

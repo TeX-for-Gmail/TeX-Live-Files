@@ -1,0 +1,19 @@
+name multidef
+category Package
+revision 40637
+shortdesc Quickly define several similar macros
+longdesc Multidef provides a simple way of defining several macros
+longdesc having similar definitions.
+containersize 2544
+containerchecksum 2d15975c8a191cc08925cc8cd74b982af909a7488a68e4b6f5eb4c2ba0dc94dbcb40c4347c5c4774fda24f98efff52131f6a243e1e6bdcb4dde7e683e408d6a9
+doccontainersize 196512
+doccontainerchecksum 50b26f8fcfde20dd04f3e3701d611631c8914e9488a3f87d25e0c60803090133f9abe889b449c67a09ccd5053c67c4a3ea699d52d44480051391edaaa7ff9ef7
+srccontainersize 4944
+srccontainerchecksum 4f506eef5dc2bbb8c740d3b25c00e21a56ccb02410adc85788f2cf2ec7da81531ec5843d0a29931ab1aea0b4e8280eeb235b6a97505fb777068d902199cfd084
+runfiles size=2
+ texmf-dist/tex/latex/multidef/multidef.sty
+catalogue-ctan /macros/latex/contrib/multidef
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 1.10

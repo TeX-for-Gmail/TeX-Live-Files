@@ -1,0 +1,14 @@
+name lshort-french
+category Package
+revision 23332
+shortdesc Short introduction to LaTeX, French translation
+longdesc French version of A Short Introduction to LaTeX2e.
+containersize 404
+containerchecksum 1b2ab00e9e69eb058afd96c1ed099b8c783bb97bb52411cc907afcc82d43167ad6e2023a95671e90d059ee43ae335dae3401cc0d1b53c19c186992756aad5060
+doccontainersize 2147688
+doccontainerchecksum 2974f067584486528adf42a13cad28afd205f2f52680e89e8de33c4c0debdccb2d0d9d8259d6e2adaa5f86af0b9451232450d40ffacd9f63c43af2519cd8a06a
+catalogue-ctan /info/lshort/french
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tut-latex french-doc
+catalogue-version 5.01fr-0

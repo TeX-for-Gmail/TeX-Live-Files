@@ -1,0 +1,19 @@
+name turkmen
+category Package
+revision 17748
+shortdesc Babel support for Turkmen
+longdesc The package provides support for Turkmen in babel, but
+longdesc integration with babel is not available.
+containersize 2216
+containerchecksum 437ff775642326f25f260280ca8d846e546f0f4b3c3082eb1ebaadcfc6ca5196967f82a00237367754b3ff307f983a828dba5c8117539d65634379567062a377
+doccontainersize 109384
+doccontainerchecksum 39014c9049322a1966951a242152b8774b2bc914bd620b6eba8c97e8ec457a1ed3547f2c211b3bba333cab21bac98882dbc9a1e9028443e7365780cf4d78b577
+srccontainersize 3932
+srccontainerchecksum 1d69e90b8aa74db44b7b89c8a3346ffbfca2b8514205a04610b5049e50e61b19ef063d9b3e9c99bf4c141d52bb03d600ad5ce1a13494b06fb7d13d12f47b860a
+runfiles size=1
+ texmf-dist/tex/latex/turkmen/turkmen.ldf
+catalogue-ctan /language/turkmen
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics turkmen multilingual-addon
+catalogue-version 0.2

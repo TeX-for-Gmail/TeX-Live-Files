@@ -1,0 +1,28 @@
+name multibibliography
+category Package
+revision 30939
+shortdesc Multiple versions of a bibliography, with different sort orders
+longdesc Conventional standards for bibliography styles impose a forced
+longdesc choice between index and name/year citations, and corresponding
+longdesc references. The package avoids this choice, by providing
+longdesc alphabetic, sequenced, and even chronological orderings of
+longdesc references. Inline citations, that integrate these
+longdesc heterogeneous styles, are also supported (and work with other
+longdesc bibliography packages).
+depend multibibliography.ARCH
+containersize 8300
+containerchecksum faa2e16b8bdb9309e2f16cdb2c717b59c8ecd5d73e4819d72ee3226a80fe0c0ff6b4d686d0f1d009601e0d6dea140cd4812c2f4cb94f37b5bd9cc1bd19137965
+doccontainersize 456972
+doccontainerchecksum 3e13c8c60ab8091a363b63a63259e53e3c5076feb224a6f426e55a351141f007ea8bf7526b0f80684c83e4e97b43f5f05217e254f978e8b69665c736efbe8512
+srccontainersize 4724
+srccontainerchecksum 544b3778bd0a51e99e89e18e606d37551576d655a01b46523786d6f910cf84b3886a8b29c72b9e0c25b3ae629045470b24e2741d7894f867437ca069cd692cb4
+runfiles size=10
+ texmf-dist/bibtex/bst/multibibliography/chronological.bst
+ texmf-dist/scripts/multibibliography/multibibliography.pl
+ texmf-dist/tex/latex/multibibliography/multibibliography.sty
+catalogue-also nmbib
+catalogue-ctan /macros/latex/contrib/multibibliography
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics bibtex-supp
+catalogue-version 1.03

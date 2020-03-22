@@ -1,0 +1,23 @@
+name vdmlisting
+category Package
+revision 29944
+shortdesc Typesetting VDM in ASCII syntax
+longdesc The package is an extension for the listings package that
+longdesc provides a source code printer for LaTeX. This package defines
+longdesc new language definitions and listing environments for the three
+longdesc language dialects of the Vienna Development Method: VDM-SL,
+longdesc VDM-PP and VDM-RT. If one wants to typeset VDM with a
+longdesc mathematical syntax instead of the ASCII syntax used here one
+longdesc should use the vdm pacakge instead
+containersize 2476
+containerchecksum 58cab8cd7d23326b39e76a91db1bdb0b0cc9e1e6bf457d151af39a4c94886f623b8178de835e673118d5b797510d6f2fe5f97f6c0c8b5bcf679b9158ded3c941
+doccontainersize 67524
+doccontainerchecksum a71b798d364f429c4894db38863301c1601ba7f2bbb2cf8e4394b48c5b7e3541cefcf915ca52860c0c55744ac2aa8fad82ea66142ed2fbfa81c05da211f04f74
+runfiles size=2
+ texmf-dist/tex/latex/vdmlisting/vdmlisting.sty
+catalogue-also listing vdm
+catalogue-ctan /macros/latex/contrib/vdmlisting
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics formal-spec listing
+catalogue-version 1.0

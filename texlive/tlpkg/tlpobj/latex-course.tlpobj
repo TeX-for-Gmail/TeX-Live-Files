@@ -1,0 +1,17 @@
+name latex-course
+category Package
+revision 25505
+shortdesc A LaTeX course as a projected presentation
+longdesc A brief Beamer-based slide presentation on LaTeX, based on
+longdesc Rupprecht's LaTeX 2.09 course, which the author has translated
+longdesc to English and taken to LaTeX2e/Beamer. Additional material was
+longdesc taken from the Short Introduction to LaTeX.
+containersize 512
+containerchecksum 9af9e8a2ff7663ba89538a93e45e27098451be4ccb9380b0deb002a9a42613467184b5a4d38ff8222c7ec5e3c722128222976aade12000c447ff7f8ab42c0656
+doccontainersize 600116
+doccontainerchecksum 772ecca6e71a9af7c31b9c5fd48cce88a7dd880a98b0885e9e5084247f64049234a8d123fe985e247ae706f1d0da1f58bae9e62082defe1acf9345bc252b03b7
+catalogue-ctan /info/latex-course
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics course-material tut-latex
+catalogue-version 2

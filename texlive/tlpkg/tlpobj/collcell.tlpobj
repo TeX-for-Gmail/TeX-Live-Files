@@ -1,0 +1,23 @@
+name collcell
+category Package
+revision 21539
+shortdesc Collect contents of a tabular cell as argument to a macro
+longdesc The package provides macros that collect the content of a
+longdesc tabular cell, and offer them as an argument to a macro. Special
+longdesc care is taken to remove all aligning macros inserted by tabular
+longdesc from the cell content. The macros also work in the last column
+longdesc of a table, but do not support verbatim material inside the
+longdesc cells.
+containersize 2208
+containerchecksum 34a2fb5a5dc309e625e4c7d89b9e5aa9806d15d93cf0fec124a0505b20c6711bfa96b3f99986c23393632a9db1c773842c9bf6f10c01d1c4da8dcef2960df289
+doccontainersize 221632
+doccontainerchecksum 1bbb4e70a5f5163a62f1b0b135f5601b4d9378cf2a5d27fddfabf9ee5e65dae7a94cb4cf63ed5e98dbf35cee550bd0a7b425f505d462eeb7f1e7035fe3c7664d
+srccontainersize 7536
+srccontainerchecksum 8d567bc14b9e6a8467da4893245efd56f7537f5b721b8b9c4300f9ffda5ab30649f7c0ca51f3673f786676fe20af948de63d1fd36ce2c3d0f9d217ad4e6bbad1
+runfiles size=2
+ texmf-dist/tex/latex/collcell/collcell.sty
+catalogue-ctan /macros/latex/contrib/collcell
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics table
+catalogue-version 0.5

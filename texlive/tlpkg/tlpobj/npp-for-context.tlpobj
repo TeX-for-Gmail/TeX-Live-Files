@@ -1,0 +1,22 @@
+name npp-for-context
+category Package
+revision 47282
+shortdesc ConTeXt plugin for Notepad++
+longdesc This package provides A plugin for Notepad++ that implements,
+longdesc for the ConTeXt document processing system, a language lexer
+longdesc for semantic highlighting of TeX, LuaTeX, and ConTeXt commands;
+longdesc autocompletion of commands with full support for calltips (set
+longdesc in columns); tagging and insertion of markup and templates,
+longdesc with support for mnemonic keys. A color scheme and two
+longdesc complementary Notepad++ themes: "Silver Twilight Hi" and
+longdesc "Silver Twilight Lo".
+containersize 668
+containerchecksum a8bb3e735d10ceb3aa2b0266716b8c72fb52f8dc6b85706284262558afabaf2704e16edda85d8b82a49f1b7fdc5224f6fd1ffb3fd302ca3a239c07b5a14e3aa8
+doccontainersize 2155852
+doccontainerchecksum e123c6f42b5756bd3764fb91518710c2cca0ba5b3e7d37bb6f68d5da3ff021f44e4385321038719ae96855db20a9eae4f0eb731eec6335235601e74e37d4a4f8
+catalogue-contact-repository https://github.com/luigiScarso/context-npp
+catalogue-ctan /support/npp-for-context
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license noinfo
+catalogue-topics editor-extn
+catalogue-version 0.98

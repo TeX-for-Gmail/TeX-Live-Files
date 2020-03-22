@@ -1,0 +1,22 @@
+name csvsimple
+category Package
+revision 41597
+shortdesc Simple CSV file processing
+longdesc The package provides a simple LaTeX interface for the
+longdesc processing of files with comma separated values (CSV); it
+longdesc relies on the key value syntax supported by pgfkeys to simplify
+longdesc usage. Filtering and table generation is especially supported;
+longdesc however, this lightweight tool offers no support for data
+longdesc sorting or data base storage.
+containersize 5548
+containerchecksum 4e8ed7a49670ffc9016d014b48c69268c90bc4f4bb642c59582096031fcbfe8cf013c3a5823d9efc94b79842a2c8d3913f1a8362bfa6b5e0b995ff31157cca62
+doccontainersize 751924
+doccontainerchecksum ce8bdada50f3c0c02b1003daa5b350ed02a310771956df044427ad19987ea19881db5a9de332fa315e7c534e087f8eca88f7e34ed51670e2d51e3e65c1f3e365
+runfiles size=7
+ texmf-dist/tex/latex/csvsimple/csvsimple.sty
+catalogue-also csvtools datatool
+catalogue-ctan /macros/latex/contrib/csvsimple
+catalogue-date 2016-07-01 18:34:08 +0200
+catalogue-license lppl1.3
+catalogue-topics data-import data-disp csv-support
+catalogue-version 1.20

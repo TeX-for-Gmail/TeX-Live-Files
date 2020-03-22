@@ -1,0 +1,23 @@
+name lcg
+category Package
+revision 31474
+shortdesc Generate random integers
+longdesc The lcg package generates random numbers (integers) via a
+longdesc linear congruential generator (Schrage's method). The random
+longdesc numbers are written to a counter. The keyval package is used
+longdesc for the user to provide values for the range and a seed, and
+longdesc for the name of the counter to be used.
+containersize 2668
+containerchecksum 6ca6f347b6ca4104ec376554ff7ba5d19002b2b4174fa491f3fec87d6c75c3ed11c1d13b9e7d30e6c086b2a12dc3013f21ee10b482c95b177f0eaff02d953fee
+doccontainersize 247496
+doccontainerchecksum 5674612693481265f72420ae10914329029f9af2f526e6b59ba2614d4d2994a0033cb3393d2751064987698f819cca8e0fa3783555db3fa6cc5849f337b1cfd5
+srccontainersize 6444
+srccontainerchecksum b26dc9e706b14c304a282d2b5abc2d0fdb81799238c3951badb6152f8c83f6a2ace579ea0c2fb782bdfe0d02448cf716e77c3114ff0be594b12bcabbe138b17a
+runfiles size=2
+ texmf-dist/tex/latex/lcg/lcg.sty
+catalogue-also random
+catalogue-ctan /macros/latex/contrib/lcg
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics calculation random
+catalogue-version 1.3

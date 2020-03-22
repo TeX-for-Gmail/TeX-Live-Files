@@ -1,0 +1,14 @@
+name lshort-turkish
+category Package
+revision 15878
+shortdesc Turkish introduction to LaTeX
+longdesc A Turkish translation of Oetiker's (not so) short introduction.
+containersize 400
+containerchecksum 769036083d282ab95c5f1fed08d669dd4fb1d2dd7937e5a4e2fad54e20cf56ce3d5100b7aa612cc59dca50b6ff67fbbd5bbe05c085b6121654f873fcb991609c
+doccontainersize 1427680
+doccontainerchecksum 3aad40a5de5eee9e59064b15fe3e9c6a2585146fc21fdaf4683bfcba6786366c4ff1b3c38b6932426f53a6a9211809d4173f688f0878cbf2011d8982e3732834
+catalogue-ctan /info/lshort/turkish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics tut-latex turkish
+catalogue-version 4.20

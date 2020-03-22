@@ -1,0 +1,22 @@
+name babel-japanese
+category Package
+revision 50735
+shortdesc Babel support for Japanese
+longdesc This package provides a japanese option for the babel package.
+longdesc It defines all the language definition macros in Japanese.
+longdesc Currently this package works with pLaTeX, upLaTeX, XeLaTeX and
+longdesc LuaLaTeX.
+containersize 3160
+containerchecksum eeab94dee49061fabb116702c1cdd0c6ff11eb61994c4bc20bc2147329411c42f5db7faae78141ca53380c308f8b310f592abbbc77d67654270b6b1d72ca5cca
+doccontainersize 184256
+doccontainerchecksum 152a3c6d723dc8bcbc046275993b207103e12ab551216e87aa999c2c912acf2ba7e1bd54b0a1c8099940c62f564a268da04372ee559da7a7c56b6e0a32e29b4f
+srccontainersize 7384
+srccontainerchecksum 04bec4bd09f46c0c6e25a0f59ce2435a5d5fe222268616b02314ef091315e3bdb882381890fd304c07d5398e95e217aac46b47734fc9e6efbb32649c9f974cf2
+runfiles size=3
+ texmf-dist/tex/generic/babel-japanese/japanese.ldf
+catalogue-contact-repository https://github.com/texjporg/babel-japanese
+catalogue-ctan /macros/latex/contrib/babel-contrib/japanese
+catalogue-date 2019-04-03 17:03:05 +0200
+catalogue-license lppl1.3
+catalogue-topics japanese multilingual-addon
+catalogue-version 2.2

@@ -1,0 +1,46 @@
+name computational-complexity
+category Package
+revision 44847
+shortdesc Class for the journal Computational Complexity
+longdesc The LaTeX2e class cc was written for the journal Computational
+longdesc Complexity, and it can also be used for a lot of other
+longdesc articles. You may like it since it contains a lot of features
+longdesc such as more intelligent references, a set of theorem
+longdesc definitions, an algorithm environment, and more. The class
+longdesc requires natbib.
+containersize 32516
+containerchecksum 639ae984ee1b581260434ace517d8209843127795e674af045ddafe16838946bebbd2dbeded45fddf62ec0a49b1a30492db0cba4ad1e5bf65530d1d5a5df9198
+doccontainersize 799564
+doccontainerchecksum 9daf1691d33bbf00b67b82cc29de0002e1aef968cb1f182bc3d722082582ed7e60945f74675b48a87baf67aa9f5fee4a167bf1548d3312492a8f570feda93ac8
+srccontainersize 87476
+srccontainerchecksum 37d9b700194fb1ad6cd11fd9008aa1634a6b425133365819b5f76ec349a962e44ef43e8c18572fec16bb4f7b44fea29bcb4f01936016486c3eee4d44ddfc5ba2
+runfiles size=57
+ texmf-dist/bibtex/bst/computational-complexity/cc.bst
+ texmf-dist/bibtex/bst/computational-complexity/cc2.bst
+ texmf-dist/tex/latex/computational-complexity/cc-cls.sty
+ texmf-dist/tex/latex/computational-complexity/cc.cls
+ texmf-dist/tex/latex/computational-complexity/cc2cite.sty
+ texmf-dist/tex/latex/computational-complexity/cc4amsart.sty
+ texmf-dist/tex/latex/computational-complexity/cc4apjrnl.sty
+ texmf-dist/tex/latex/computational-complexity/cc4elsart.sty
+ texmf-dist/tex/latex/computational-complexity/cc4jT.sty
+ texmf-dist/tex/latex/computational-complexity/cc4llncs.sty
+ texmf-dist/tex/latex/computational-complexity/cc4siamltex.sty
+ texmf-dist/tex/latex/computational-complexity/cc4svjour.sty
+ texmf-dist/tex/latex/computational-complexity/ccalgo.sty
+ texmf-dist/tex/latex/computational-complexity/ccaux.sty
+ texmf-dist/tex/latex/computational-complexity/cccite.sty
+ texmf-dist/tex/latex/computational-complexity/ccdbs.sty
+ texmf-dist/tex/latex/computational-complexity/cclayout.sty
+ texmf-dist/tex/latex/computational-complexity/ccproof.sty
+ texmf-dist/tex/latex/computational-complexity/ccqed.sty
+ texmf-dist/tex/latex/computational-complexity/ccref.sty
+ texmf-dist/tex/latex/computational-complexity/ccreltx.sty
+ texmf-dist/tex/latex/computational-complexity/ccthm.sty
+ texmf-dist/tex/latex/computational-complexity/relabel.sty
+ texmf-dist/tex/latex/computational-complexity/thcc.sty
+catalogue-ctan /macros/latex/contrib/computational-complexity
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics journalpub class
+catalogue-version 2.25f

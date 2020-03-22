@@ -1,0 +1,35 @@
+name milog
+category Package
+revision 41610
+shortdesc A LaTeX class for fulfilling the documentation duties according to the German minimum wage law MiLoG
+longdesc Seit dem 1. Januar 2015 gilt in Deutschland grundsatzlich fur
+longdesc alle Arbeitnehmer ein flachendeckender gesetzlicher Mindestlohn
+longdesc in Hohe von derzeit 8,50EUR pro Stunde. Mit Wirkung ab 1.
+longdesc August 2015 wurden die Dokumentations- und
+longdesc Aufzeichnungspflichten gelockert. Nach SS17 MiLoG, muss Beginn,
+longdesc Ende und Dauer der taglichen Arbeitszeit der in SS22 MiLoG
+longdesc definierten Arbeitnehmern (formlos) aufgezeichnet werden.
+longdesc Zusatzlich ermoglicht milog.cls aus praktischen Grunden die
+longdesc Aufzeichnug von unbezahlten Pausen und Bemerkungen (Ruhetag,
+longdesc Urlaub, krank, ...). Die Erfassung der Arbeitszeiten erfolgt in
+longdesc einer simplen CSV-Datei, aus der die Klasse automatisch einen
+longdesc Arbeitszeitnachweis erstellt. Alternativ konnen die Daten auch
+longdesc durch einen CSV-Export - mit eventueller Nachbearbeitung -
+longdesc einer geeigneteten App erhoben werden. The milog.cls class
+longdesc provides means to fulfill the documentation duties by the
+longdesc German minimum wage law MiLoG. The recording of working hours
+longdesc is carried out in a simple CSV file from which the class will
+longdesc automatically create a time sheet. Alternatively, data can also
+longdesc be collected by a CSV export of a suitable app.
+containersize 3124
+containerchecksum 126942c7be2217843d5dd0a6a927d1a47537ced3b1a083caa54b4905625b57238cc0a3a8d1652da076144b8c2469f418077eb4051527e5d351c2d95f3d3a5f79
+doccontainersize 404068
+doccontainerchecksum 251b73ab0f52ff2672733c3855289e012965151e07ff447da373bea083b1ff6bfeff38adef72419f03ca153545fdb90bb18f3aa254fa7b59d3c5c061ec5d15ea
+runfiles size=2
+ texmf-dist/tex/latex/milog/milog.cls
+catalogue-contact-home http://milog.jklatex.de/
+catalogue-ctan /macros/latex/contrib/milog
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics legal
+catalogue-version 1.0

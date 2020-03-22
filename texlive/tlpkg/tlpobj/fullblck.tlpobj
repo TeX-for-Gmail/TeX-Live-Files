@@ -1,0 +1,19 @@
+name fullblck
+category Package
+revision 25434
+shortdesc Left-blocking for letter class
+longdesc Used with the letter documentclass to set the letter in a
+longdesc fullblock style (everything at the left margin).
+containersize 1124
+containerchecksum b298f55ca3afe8819e44704329c06be2867b00c1a2a399b5db8de8477751f9945bce1041450c7e91559eeee65c9bae5e76b57469c956239c9752341b820047c7
+doccontainersize 38848
+doccontainerchecksum 9da7587195a077f8218abc6a7df98bd15369650e00ab3893b6cd70a268bf34431b8c2c49b3415269bf6b8d1ddf51a8e23e76ae87667309f8466ad69da87f05a0
+srccontainersize 2808
+srccontainerchecksum 2ccd2da9f1924a1547f4a6b870ce150e6140abc9c1984f1a951a59146944d50c6f8e115ccfe79232f941dbec756e26d460037d92af191eee644bb2dcbe986c6e
+runfiles size=1
+ texmf-dist/tex/latex/fullblck/fullblck.sty
+catalogue-ctan /macros/latex/contrib/fullblck
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics letter
+catalogue-version 1.03

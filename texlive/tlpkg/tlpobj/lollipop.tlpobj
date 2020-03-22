@@ -1,0 +1,45 @@
+name lollipop
+category Package
+revision 45678
+shortdesc TeX made easy
+longdesc Lollipop is "TeX made easy" -- it is a macro package that
+longdesc functions as a toolbox for writing TeX macros. Its main aim is
+longdesc to make macro writing so easy that implementing a fully new
+longdesc layout in TeX would become a matter of less than an hour for an
+longdesc average document. The aim is that such a task could be
+longdesc accomplished by someone with only a very basic training in TeX
+longdesc programming. Thus, Lollipop aims to make structured text
+longdesc formatting available in environments where typical users would
+longdesc switch to WYSIWYG packages for the freedom that such a
+longdesc mechanism offers. In addition, development of support for
+longdesc Lollipop documents written in RTL languages (such as Persian)
+longdesc is underway.
+depend cm
+depend hyphen-base
+depend lollipop.ARCH
+execute AddFormat name=lollipop engine=tex           options="lollipop.ini"           fmttriggers=cm,hyphen-base
+containersize 51304
+containerchecksum 81557b83acfa4ad42dfa6fb1a65ea42bc33885da444ee23bc3c67a899df7b3ac2c19a1607305b5ec10b503980365c5d29ac3598339fc186a05417ea5bca60a78
+doccontainersize 341356
+doccontainerchecksum 206dee2be733e3ac04b5b259862b60fb3641fc44ea182da601ca54a010ff8e42f254dd01c03be7bcdd2a6258110c567a596ee82b4eb74d04ca8ed70e50cd6a86
+runfiles size=57
+ texmf-dist/tex/lollipop/lollipop-define.tex
+ texmf-dist/tex/lollipop/lollipop-document.tex
+ texmf-dist/tex/lollipop/lollipop-float.tex
+ texmf-dist/tex/lollipop/lollipop-fontdefs.tex
+ texmf-dist/tex/lollipop/lollipop-fonts.tex
+ texmf-dist/tex/lollipop/lollipop-heading.tex
+ texmf-dist/tex/lollipop/lollipop-lists.tex
+ texmf-dist/tex/lollipop/lollipop-output.tex
+ texmf-dist/tex/lollipop/lollipop-plain.tex
+ texmf-dist/tex/lollipop/lollipop-text.tex
+ texmf-dist/tex/lollipop/lollipop-tools.tex
+ texmf-dist/tex/lollipop/lollipop.ini
+ texmf-dist/tex/lollipop/lollipop.tex
+catalogue-contact-bugs https://github.com/bidi-tex/lollipop/issues
+catalogue-contact-repository https://github.com/bidi-tex/lollipop
+catalogue-ctan /macros/lollipop
+catalogue-date 2018-11-28 20:22:09 +0100
+catalogue-license gpl3
+catalogue-topics format
+catalogue-version 1.07

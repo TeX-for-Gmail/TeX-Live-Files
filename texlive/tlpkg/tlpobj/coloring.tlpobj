@@ -1,0 +1,20 @@
+name coloring
+category Package
+revision 41042
+shortdesc Define missing colors by their names
+longdesc This package makes it possible to define colors automatically
+longdesc by their names. This can be useful in drawing TikZ pictures and
+longdesc designing beamer themes. Using the package, you don't need to
+longdesc write \definecolor before using a color.
+containersize 1480
+containerchecksum 7c89a6c53212beaa06d54dc091021c5fd57cc30fccc917ea413d23b0790ec637b6b8e69a3bf1b44d0a9ed24fa1c0dd21608b174c0230a0a94a2e5aed221be033
+doccontainersize 25984
+doccontainerchecksum cfe600ff32f680f7b7d3916e5a2e767732a9ab9f1e6d06133afbadc87dc1b8ac420284c75c221ed5b5a81b76f6b01302c5595b69439566775adc18ab11185961
+runfiles size=1
+ texmf-dist/tex/latex/coloring/coloring.sty
+catalogue-contact-repository https://github.com/zohooo/coloring
+catalogue-ctan /macros/latex/contrib/coloring
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics colour
+catalogue-version 0.2

@@ -1,0 +1,23 @@
+name mylatexformat
+category Package
+revision 21392
+shortdesc Build a format based on the preamble of a LaTeX file
+longdesc The use of formats helps to speed up compilations: packages
+longdesc which have been dumped in the format are loaded at very high
+longdesc speed. This is useful when a document loads many packages
+longdesc (including large packages such as pgf-TikZ). The package was
+longdesc developed from the work in mylatex, and eliminates many of the
+longdesc limitations and problems of that package.
+containersize 4628
+containerchecksum 476e2c739c9a99a53a9f6bb7eb32e6122c149fe224497cd8e777af0ebd139ffadfa792090d8673ff96b4e17466e918f9af4ecb7a12c608d4c33d4e17f2b26f0a
+doccontainersize 141756
+doccontainerchecksum c0754ef147a457e7c91b16a50dab2220fbf2f5385e126e796b1c65025f0fd998371b4e58d96ae72b8c6eb21b2030906729270c88c0914b1748714455e78d1bbb
+srccontainersize 12888
+srccontainerchecksum 4f172517cd3e0bec77bc9003201a4488acfedcbddbca217ecac4878d3df9ab86719c5d9fc645671bbf3a5d5b66a1c4e80f9acc01ef27c82a3eaf13aeed45f857
+runfiles size=4
+ texmf-dist/tex/latex/mylatexformat/mylatexformat.ltx
+catalogue-ctan /macros/latex/contrib/mylatexformat
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics format
+catalogue-version 3.4

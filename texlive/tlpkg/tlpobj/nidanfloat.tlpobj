@@ -1,0 +1,21 @@
+name nidanfloat
+category Package
+revision 48295
+shortdesc Bottom placement option for double float in two column mode (nidan-kumi)
+longdesc This package enables a bottom placement option for double
+longdesc floats in two column mode (nidan-kumi). It was originally part
+longdesc of the Japanese pLaTeX bundle and is now distributed as a
+longdesc separate package because it supports all LaTeX formats.
+containersize 4172
+containerchecksum 42ef65277deaf474a619e5ffd570309db8c8349f32e9bcfdf216251e81136a3da87a745b3dcea5212f636396179210c6acaa96a957ffd9588d1f414d6a59bded
+doccontainersize 225904
+doccontainerchecksum 2be76c8e243de71698ae5264a8e3af4da8dcfcd130b0554d1547a0a238e55ee71ec57d8757648b162a6ebd17ce1047206979cf139003a02921a4308a852f0030
+srccontainersize 12840
+srccontainerchecksum 8a778b33036445dbe375af746244433470e5d10a963ebbfbc397c0376d5c4f7c23cdbc2ff3ff6455e274e83b465a64d8bac5023e8537d5b949fff038098d862e
+runfiles size=5
+ texmf-dist/tex/latex/nidanfloat/nidanfloat.sty
+catalogue-contact-repository https://github.com/texjporg/nidanfloat
+catalogue-ctan /macros/latex/contrib/nidanfloat
+catalogue-date 2018-07-28 14:57:17 +0200
+catalogue-license bsd3
+catalogue-topics float japanese

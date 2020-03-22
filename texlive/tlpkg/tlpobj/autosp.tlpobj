@@ -1,0 +1,23 @@
+name autosp
+category Package
+revision 50602
+shortdesc A Preprocessor that generates note-spacing commands for MusiXTeX scores
+longdesc This program simplifies the creation of MusiXTeX scores by
+longdesc converting (non-standard) commands of the form \anotes ... \en
+longdesc into one or more conventional note-spacing commands, as
+longdesc determined by the note values themselves, with \sk spacing
+longdesc commands inserted as necessary. The coding for an entire
+longdesc measure can be entered one part at a time, without concern for
+longdesc note-spacing changes within the part or spacing requirements of
+longdesc other parts. For example, \anotes\qa J\qa K&\ca l\qa m\ca n\en
+longdesc generates \Notes\qa J\sk\qa K\sk&\ca l\qa m\sk\ca n\en .
+depend autosp.ARCH
+containersize 720
+containerchecksum 935177a530bdeb0b5aad6c3b8a20b48d4ed99e5202a33d7625ff3a3816c85123bdba71e74ed240b3baff5e7f3130e0c74aeea9f8813b4ce0ea2e575d9c056660
+doccontainersize 276284
+doccontainerchecksum 4294deb8baced1bfda951bd924aff17afd59eec309889ff87a1d4504b97f5d4f25dc704471600d0636d2846a4334506831e4638e753bb85922d4cc9108e14f94
+catalogue-contact-support https://tug.org/mailman/listinfo/tex-music
+catalogue-ctan /support/autosp
+catalogue-date 2019-01-08 23:18:53 +0100
+catalogue-license gpl2+
+catalogue-topics music

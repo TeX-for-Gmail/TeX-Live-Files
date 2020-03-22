@@ -1,0 +1,21 @@
+name formular
+category Package
+revision 15878
+shortdesc Create forms containing field for manual entry
+longdesc When typesetting forms there often arises the need for defining
+longdesc fields which consist of one or more lines where the customer
+longdesc can write something down manually. This package offers some
+longdesc commands for defining such fields in a distinctive way.
+containersize 3240
+containerchecksum 0be09e33fc3cf97552dc9e960979447de61c53bea46205a52b37094f7ce39f10309f559dc99c0037392d4924bb688e27bc8d26e5f6fc69dfbc3d3c41736223ab
+doccontainersize 129364
+doccontainerchecksum 09550cdf735f340a13c9104b86b37dfca67e39c277ec9f98bab08754f393368bea8379019c402662b7e7df351636e44814bb45c0970cb24db10bf3efdd9dd7c7
+srccontainersize 8208
+srccontainerchecksum 12a7c774c2b6638d610c3277246ced4c8946f0393527ecd0da101481b1b85d1418537019962f86aa8b7657a0159f7c210acb3eea1386e8a528a09428619f0b6f
+runfiles size=3
+ texmf-dist/tex/latex/formular/formular.sty
+catalogue-ctan /macros/latex/contrib/formular
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics form-fillin
+catalogue-version 1.0a

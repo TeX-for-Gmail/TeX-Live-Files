@@ -1,0 +1,20 @@
+name cooking
+category Package
+revision 15878
+shortdesc Typeset recipes
+longdesc The package typesets recipes according to the style used in a
+longdesc well-respected German cookery book.
+containersize 1744
+containerchecksum 6c2fb1adf244dafa9689844e1283dce19786e2c1df170d4172d3567514555d90adcb82414f79b5d9dcd59cfdd3af5d6893fff57972d6e4fb32196add0ed5b1eb
+doccontainersize 59896
+doccontainerchecksum 30cc2a5b4679126cad1b13785081d924f9d455a5f392e5047c14c8ce1dd3efca102bafb74e1a339dd938680f3a95111a7025a31508ea63108eb33cf32b03c9c5
+srccontainersize 7608
+srccontainerchecksum 7b935bbf1a7e7dfeed2db1c4725e38a3bf847822dee7da8d6098e7df82b5b5035b47ce3f0b9403dcf35028b319c2661b0bd8288b8a1e80395944532777451bd9
+runfiles size=1
+ texmf-dist/tex/latex/cooking/cooking.sty
+catalogue-also cuisine
+catalogue-ctan /macros/latex/contrib/cooking
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics cooking
+catalogue-version 0.9b

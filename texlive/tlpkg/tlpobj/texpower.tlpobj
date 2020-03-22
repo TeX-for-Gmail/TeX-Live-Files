@@ -1,0 +1,37 @@
+name texpower
+category Package
+revision 29349
+shortdesc Create dynamic online presentations with LaTeX
+longdesc TeXPower is a bundle of packages intended to provide an
+longdesc all-inclusive environment for designing pdf screen
+longdesc presentations to be viewed in full-screen mode, especially for
+longdesc projecting `online' with a video beamer. For some of its core
+longdesc functions, it uses code derived from ppower4 packages. It is,
+longdesc however, not a complete environment in itself: it relies on an
+longdesc existing class for preparing slides (such as foiltex or
+longdesc seminar) or another package such as pdfslide.
+depend tpslifonts
+containersize 40504
+containerchecksum 7e2efadabaf173fd30c592cbcd2338563b8690048ccaffd86efb079a04b7b95c8ab113b99205cbb2912eae3a709a110d7b152270422cf2cbfd2ab85d42f12d69
+doccontainersize 330264
+doccontainerchecksum e61965b5e31b487daba383a4e6ebc0dba85475f8cade2faae6adb8576ec7ec544b518a6e0e105aa185ff82fd6aba7a9ea4abda2a9446d52f5b3acdb42580e315
+srccontainersize 111840
+srccontainerchecksum 3add8eeda886ce6422d3b7ea53a55dc69bb2f5c2e64cdede105a7b4756b008807bef6245ddc2596b45809311874e566263c51e98ec6751b4db9d3c5c5f58efd3
+runfiles size=67
+ texmf-dist/tex/latex/texpower/automata.sty
+ texmf-dist/tex/latex/texpower/fixseminar.sty
+ texmf-dist/tex/latex/texpower/powersem.cls
+ texmf-dist/tex/latex/texpower/texpower.sty
+ texmf-dist/tex/latex/texpower/tpcolors.cfg
+ texmf-dist/tex/latex/texpower/tplists.sty
+ texmf-dist/tex/latex/texpower/tpoptions.cfg
+ texmf-dist/tex/latex/texpower/tppstcol.sty
+ texmf-dist/tex/latex/texpower/tpsem-a4.sty
+ texmf-dist/tex/latex/texpower/tpsettings.cfg
+catalogue-also prosper beamer
+catalogue-contact-repository http://texpower.sourceforge.net/
+catalogue-ctan /macros/latex/contrib/texpower
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics presentation
+catalogue-version 0.2

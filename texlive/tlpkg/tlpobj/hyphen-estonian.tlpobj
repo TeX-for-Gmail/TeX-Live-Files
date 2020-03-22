@@ -1,0 +1,18 @@
+name hyphen-estonian
+category TLCore
+revision 50792
+shortdesc Estonian hyphenation patterns.
+longdesc Hyphenation patterns for Estonian in T1/EC and UTF-8 encodings.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=estonian 	lefthyphenmin=2 	righthyphenmin=3 	file=loadhyph-et.tex 	file_patterns=hyph-et.pat.txt 	file_exceptions=
+containersize 14740
+containerchecksum 90b36a24f5c88ddf389672013734ddce2c691e651b1104dfa1c56d0d0852c97646ccc0a7f424c3a89a2b1c17b56995054b13ca6d1f7c3bc7f632bfd5051cfd57
+runfiles size=23
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-et.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-et.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-et.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-et.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-et.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-et.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-et.pat.txt

@@ -1,0 +1,19 @@
+name sfg
+category Package
+revision 20209
+shortdesc Draw signal flow graphs
+longdesc Defines some commands to draw signal flow graphs as used by
+longdesc electrical and electronics engineers and graph theorists.
+longdesc Requires fp and pstricks packages (and a relatively fast
+longdesc machine).
+containersize 6172
+containerchecksum d90305b5fbac3e06bc3195b802b4ef78f7c6cfb4f0592dfd300839dd608150e1ad08fc7479fe6d8df4f2429ad6b7f81692d9723dde198991fc9626565cb38578
+doccontainersize 388384
+doccontainerchecksum 26c17b606f0cfb4e199755f7f16eec16cbe379a786a88bec2d77d983d17107d86bf8da23474bc3450f8467d18028f2f41a314c83565916cf3ac3e97c5c079267
+runfiles size=6
+ texmf-dist/tex/latex/sfg/sfg.sty
+catalogue-ctan /macros/latex/contrib/sfg
+catalogue-date 2018-09-15 14:02:36 +0200
+catalogue-license lppl
+catalogue-topics diagram pstricks
+catalogue-version 0.91

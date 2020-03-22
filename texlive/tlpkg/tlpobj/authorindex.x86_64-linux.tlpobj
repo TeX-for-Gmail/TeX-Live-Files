@@ -1,0 +1,8 @@
+name authorindex.x86_64-linux
+category Package
+revision 18790
+shortdesc x86_64-linux files of authorindex
+containersize 340
+containerchecksum 7db0764fbf96a599468e36f854705980b55c9d60955fee73ecd62c848795e765723fe9579b5bc9905549ebdd89cc3e71964ad2b9630abd57603c88879488f2cf
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/authorindex

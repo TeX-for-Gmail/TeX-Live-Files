@@ -1,0 +1,34 @@
+name dehyph-exptl
+category Package
+revision 50772
+shortdesc Experimental hyphenation patterns for the German language
+longdesc The package provides experimental hyphenation patterns for the
+longdesc German language, covering both traditional and reformed
+longdesc orthography. The patterns can be used with packages Babel and
+longdesc hyphsubst from the Oberdiek bundle. Dieses Paket enthalt
+longdesc experimentelle Trennmuster fur die deutsche Sprache. Die
+longdesc Trennmuster decken das in Deutschland, Osterreich und der
+longdesc Schweiz gebrauchliche Standarddeutsch in der traditionellen und
+longdesc reformierten Rechtschreibung ab und konnen mit den Paketen
+longdesc Babel und hyphsubst aus dem Oberdiek-Bundel verwendet werden.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen  name=german-x-2019-04-04 synonyms=german-x-latest  lefthyphenmin=2 righthyphenmin=2  file=dehypht-x-2019-04-04.tex  file_patterns=hyph-de-1901.pat.txt file_exceptions=hyph-de-1901.hyp.txt
+execute AddHyphen  name=ngerman-x-2019-04-04 synonyms=ngerman-x-latest  lefthyphenmin=2 righthyphenmin=2  file=dehyphn-x-2019-04-04.tex  file_patterns=hyph-de-1996.pat.txt file_exceptions=hyph-de-1996.hyp.txt
+containersize 95836
+containerchecksum df64c7988e8194564716a0abef4949bad9b34b8571a579148cad5eeaa3676a6e066c9eeb183f69d49e5089ce92ef45b4c7747bb4d23334c6812c900c91069ef3
+doccontainersize 138100
+doccontainerchecksum 0199cf3ca0a7fc36fd3b2b736be56c3baa1430422ec97a3bdf86e740c4117ca73cc0b7d057ebf40d1d48def4d5156bf51e9023604794ac3cdab19f0716d8f6a9
+runfiles size=143
+ texmf-dist/tex/generic/dehyph-exptl/dehyphn-x-2019-04-04.pat
+ texmf-dist/tex/generic/dehyph-exptl/dehyphn-x-2019-04-04.tex
+ texmf-dist/tex/generic/dehyph-exptl/dehypht-x-2019-04-04.pat
+ texmf-dist/tex/generic/dehyph-exptl/dehypht-x-2019-04-04.tex
+ texmf-dist/tex/generic/dehyph-exptl/dehyphts-x-2019-04-04.pat
+ texmf-dist/tex/generic/dehyph-exptl/dehyphts-x-2019-04-04.tex
+catalogue-contact-home http://projekte.dante.de/Trennmuster/WebHome
+catalogue-ctan /language/hyphenation/dehyph-exptl
+catalogue-date 2019-04-04 14:10:17 +0200
+catalogue-license mitlppl
+catalogue-topics hyphenation german
+catalogue-version 0.6

@@ -1,0 +1,20 @@
+name latex-tds
+category Package
+revision 40613
+shortdesc A structured copy of the LaTeX distribution
+longdesc This bundle provides a set of zip file modules containing
+longdesc TDS-compliant trees for items of the LaTeX distribution (both
+longdesc the base system and required packages), together with
+longdesc 'user-friendly' documentation (PDF files with navigation
+longdesc support using bookmarks and links). A further module (knuth)
+longdesc performs the same service for Knuth's software distribution.
+containersize 588
+containerchecksum a688c4e6790460f3155110f31c36c240fc1d9e9b8c3b2641a1a186c54d7939bbb4f779e80cb125d34036b64ce8da26d3460365d34d23d49067bf8438816cdaa3
+doccontainersize 84088
+doccontainerchecksum cc4928fd82e07cc0b601c702444a84475978671e3c86280cc8aac334ca562f3841a9f8c191bc174522f5c00e45cad519e6ceec1344e229f4b125611f60e43766
+srccontainersize 128300
+srccontainerchecksum 0f1b88a565c417a238476ab3c91bef40d265388458473f1ff3b4dd5e6b6897e8d8cdcd15f9eab17606aadfd5ce5ac978b81385618d8d3906defe4d13d438f72c
+catalogue-ctan /macros/latex/contrib/latex-tds
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics distribution

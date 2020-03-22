@@ -1,0 +1,105 @@
+name rosario
+category Package
+revision 40843
+shortdesc Using the free Rosario fonts with LaTeX
+longdesc The package provides the files required to use the Rosario
+longdesc fonts with LaTeX. Rosario is a set of four fonts provided by
+longdesc Hector Gatti, Adobe Typekit & Omnibus-Type Team under the Open
+longdesc Font License (OFL), version 1.1. The fonts are copyright (c)
+longdesc 2012-2015, Omnibus-Type.
+execute addMap Rosario.map
+containersize 268620
+containerchecksum 5ff2ec1e5fced42157208ced9eae958e2d2096e18783fd9a72e76d62311a5b868f3def95374c4b3b1bc5fdd4db5b777ca6b07b1c874257b5a35c9c850737d8d8
+doccontainersize 237296
+doccontainerchecksum 757312a259a8ec1a57ecbd2b641ff2ec519ce7a79f0c9f9e032ba927d08fefca755b44397fb0afd9ad67f1fd140517aee45366f357a675706546b681bb3f440a
+srccontainersize 4368
+srccontainerchecksum 5da475d474bd6d70e85be0eb4d28c46f4f13c30b80e5753f5d7a3d3cf15c765b43ed0818ee5ea8792ef754d407fb8ac7d77001d9e798ab6d09864480a85a61ab
+runfiles size=174
+ texmf-dist/fonts/enc/dvips/rosario/ros_amohrd.enc
+ texmf-dist/fonts/enc/dvips/rosario/ros_c353pt.enc
+ texmf-dist/fonts/enc/dvips/rosario/ros_k6z3ge.enc
+ texmf-dist/fonts/enc/dvips/rosario/ros_y2egj5.enc
+ texmf-dist/fonts/map/dvips/rosario/Rosario.map
+ texmf-dist/fonts/opentype/public/rosario/Rosario-Bold.otf
+ texmf-dist/fonts/opentype/public/rosario/Rosario-BoldItalic.otf
+ texmf-dist/fonts/opentype/public/rosario/Rosario-Italic.otf
+ texmf-dist/fonts/opentype/public/rosario/Rosario-Regular.otf
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ly1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ot1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ot1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-t1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Bold-lf-ts1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ly1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ot1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ot1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-t1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-BoldItalic-lf-ts1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ly1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ot1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ot1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-t1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Italic-lf-ts1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ly1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ly1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ot1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ot1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ot1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-t1--lcdfj.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-t1.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/rosario/Rosario-Regular-lf-ts1.tfm
+ texmf-dist/fonts/type1/public/rosario/Rosario-Bold.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-BoldItalic.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-BoldItalicLCDFJ.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-BoldLCDFJ.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-Italic.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-ItalicLCDFJ.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-Regular.pfb
+ texmf-dist/fonts/type1/public/rosario/Rosario-RegularLCDFJ.pfb
+ texmf-dist/fonts/vf/public/rosario/Rosario-Bold-lf-ly1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Bold-lf-ot1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Bold-lf-t1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Bold-lf-ts1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-BoldItalic-lf-ly1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-BoldItalic-lf-ot1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-BoldItalic-lf-t1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-BoldItalic-lf-ts1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Italic-lf-ly1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Italic-lf-ot1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Italic-lf-t1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Italic-lf-ts1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Regular-lf-ly1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Regular-lf-ot1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Regular-lf-t1.vf
+ texmf-dist/fonts/vf/public/rosario/Rosario-Regular-lf-ts1.vf
+ texmf-dist/tex/latex/rosario/LY1Rosario-LF.fd
+ texmf-dist/tex/latex/rosario/OT1Rosario-LF.fd
+ texmf-dist/tex/latex/rosario/Rosario.fontspec
+ texmf-dist/tex/latex/rosario/Rosario.sty
+ texmf-dist/tex/latex/rosario/T1Rosario-LF.fd
+ texmf-dist/tex/latex/rosario/TS1Rosario-LF.fd
+catalogue-ctan /fonts/rosario
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font font-sans font-otf font-supp font-type1
+catalogue-version 1.0

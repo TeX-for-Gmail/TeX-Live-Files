@@ -1,0 +1,20 @@
+name uni-wtal-lin
+category Package
+revision 31409
+shortdesc Citation style for linguistic studies at the University of Wuppertal
+longdesc The package defines a BibLaTeX citation style based on the
+longdesc standard author-year style. The citations are optimised for
+longdesc linguistic studies at the Institute of Linguistics at the
+longdesc Bergische Universitat Wuppertal.
+containersize 2836
+containerchecksum 803107d89b4ce6fe120bb528c684a65db3a9c70433abfd6bcebe2a5d05e6c7680256a407ef5f0515a56915c5c1e0637a183cc866631558e32afd96a0e45139ce
+doccontainersize 93524
+doccontainerchecksum e88b2c8364eeebf3768d0d562447d29233280daf685d56fe791d25b352cc64c4c95be3bec198aa6e5502287a654f3088e643a3a58edf7e55d0d899eed5b704c6
+runfiles size=4
+ texmf-dist/tex/latex/uni-wtal-lin/uni-wtal-lin.bbx
+ texmf-dist/tex/latex/uni-wtal-lin/uni-wtal-lin.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/uni-wtal-lin
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities linguistic biblatex
+catalogue-version 0.2

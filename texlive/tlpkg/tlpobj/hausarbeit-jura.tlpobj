@@ -1,0 +1,22 @@
+name hausarbeit-jura
+category Package
+revision 50762
+shortdesc Class for writing "juristische Hausarbeiten" at German Universities
+longdesc The class was developed for use by students writing legal
+longdesc essays ("juristische Hausarbeit") at German Universities. It is
+longdesc based on jurabook and jurabib and makes it easy for LaTeX
+longdesc beginners to get a correct and nicely formatted paper.
+containersize 5304
+containerchecksum 99fe789073c76535c9c8a307289bc29b14b0b7a45adf01459d76ee67099d56c9cf36fbe3587b108c99c1563cf077066ad6408955bd55f31cce6b4e53bab378ca
+doccontainersize 339004
+doccontainerchecksum cd98eab62d47ae03a5238702ec5a246496880e55dd8a1a9913b3639197d0fe65d607317d9cc9cbd578bca6bc64babc80d257c2f8d84b7327fdbd77537ca1f660
+srccontainersize 12816
+srccontainerchecksum 2d8edbc3163c00117f9c1297970f2309df35ccb6d5166c723365c1267af736c05dc5eb4bf77cfe6bb6e25a829bba83007fa95bfcbe6aac7473f4657cd450fcb7
+runfiles size=5
+ texmf-dist/tex/latex/hausarbeit-jura/hausarbeit-jura.cls
+catalogue-contact-repository https://github.com/sieversMartin/hausarbeit-jura
+catalogue-ctan /macros/latex/contrib/hausarbeit-jura
+catalogue-date 2019-04-04 13:49:38 +0200
+catalogue-license lppl1.3
+catalogue-topics legal essay class
+catalogue-version 2.0

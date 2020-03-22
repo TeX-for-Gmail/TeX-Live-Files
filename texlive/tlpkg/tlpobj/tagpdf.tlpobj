@@ -1,0 +1,40 @@
+name tagpdf
+category Package
+revision 50509
+shortdesc Tools for experimenting with tagging using pdfLaTeX and LuaLaTeX
+longdesc The package offers tools to experiment with tagging and
+longdesc accessibility using pdfLaTeX and LuaTeX. It isn't meant for
+longdesc production but allows the user to try out how difficult it is
+longdesc to tag some structures; to try out how much tagging is really
+longdesc needed; to test what else is needed so that a pdf works e.g.
+longdesc with a screen reader. Its goal is to get a feeling for what has
+longdesc to be done, which kernel changes are needed, how packages
+longdesc should be adapted.
+containersize 22760
+containerchecksum 1795410780a4823dca17bca679e477a15fa4cc5413de25561440a5862ff684d1f77f3145751c5f7b235eecb78938c5ea1aabf0ba7bfe53cacb981ee50d87c162
+doccontainersize 536764
+doccontainerchecksum 63a78f1c157a93010636662ba8a5a3f78fabc52468be50c77a5c3c6d245b4e43210f21aaa7594c5d1efad8662be708b02d98fe6732d30cc72ff85b46b22ffd25
+runfiles size=31
+ texmf-dist/tex/latex/tagpdf/tagpdf-attr-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-checks-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-luatex.def
+ texmf-dist/tex/latex/tagpdf/tagpdf-mc-code-generic.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-mc-code-lua.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-mc-code-shared.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-pdftex.def
+ texmf-dist/tex/latex/tagpdf/tagpdf-roles-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-space-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-struct-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-tree-code.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf-user.sty
+ texmf-dist/tex/latex/tagpdf/tagpdf.lua
+ texmf-dist/tex/latex/tagpdf/tagpdf.sty
+ texmf-dist/tex/latex/tagpdf/tagpdfdocu-patches.sty
+catalogue-contact-bugs https://github.com/u-fischer/tagpdf/issues
+catalogue-contact-repository https://github.com/u-fischer/tagpdf
+catalogue-contact-support https://github.com/u-fischer/tagpdf/issues
+catalogue-ctan /macros/latex/contrib/tagpdf
+catalogue-date 2019-03-21 08:11:50 +0100
+catalogue-license lppl1.3c
+catalogue-topics tagged-pdf accessible
+catalogue-version 0.60

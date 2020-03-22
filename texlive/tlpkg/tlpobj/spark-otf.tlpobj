@@ -1,0 +1,20 @@
+name spark-otf
+category Package
+revision 45483
+shortdesc Support OpenType Spark fonts
+longdesc The package supports the free fonts from "After the Flood"
+longdesc which are available from AtF Spark. The following fonts are
+longdesc supported: Spark -- Bar -- Medium Spark -- Bar -- Narrow Spark
+longdesc -- Bar -- Thin Spark -- Dot-line -- Medium Spark -- Dot --
+longdesc Medium Spark -- Dot -- Small
+containersize 1964
+containerchecksum 14720d738a52cddf35598cffb47903cbc80e1ae454a60bf395e89b1daf097a60e5c48773fac54e7e3289aff85dfde390ce4fe4ea349307fd6a3c8e81ff7f9adc
+doccontainersize 88948
+doccontainerchecksum 4caeba3d225e3f7e2165fa5b8a68a4feb8449cd4b4170c4667039b17b294b5e1e45c46250aba8b66666fd8730bfad36aa820e071def00ed053051a171e174dcd
+runfiles size=2
+ texmf-dist/tex/latex/spark-otf/spark-otf.sty
+catalogue-ctan /fonts/spark-otf
+catalogue-date 2017-10-08 09:13:25 +0200
+catalogue-license lppl1.3
+catalogue-topics font-absent font-symbol font-otf font-use
+catalogue-version 0.04

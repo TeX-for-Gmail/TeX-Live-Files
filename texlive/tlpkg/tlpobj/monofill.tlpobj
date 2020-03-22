@@ -1,0 +1,22 @@
+name monofill
+category Package
+revision 28140
+shortdesc Alignment of plain text
+longdesc The package provides horizontal alignment, as in the LaTeX
+longdesc command \listfiles (or the author's longnamefilelist package).
+longdesc Uses may include in-text tables, or even code listings.
+containersize 4116
+containerchecksum 6b9a45c32bd44aa01119c7bd8304ba8e5953422c14bfeaacad20f012188f9204c19f432719c74d9481a00611a18d4ef1ba2c1dc858b83b8a25205d40568e5fa3
+doccontainersize 290600
+doccontainerchecksum edb00621e74238c09d0ca0c04e5c57589012ef2272f0b470345845ddedd647c73fffc0fcaf4741726214b2419e9581127375ba2b36948ec73f4caef561c3e57c
+srccontainersize 3000
+srccontainerchecksum fba90d74e9b12086fb4dd431eba4bb3349a83a2b839db1f1a1f7f076e3568cdada03de56570bd38e937eb51a76990ab39778a1832ad233067025ae24877b279d
+runfiles size=4
+ texmf-dist/tex/latex/monofill/monofill.RLS
+ texmf-dist/tex/latex/monofill/monofill.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/monofill
+catalogue-date 2017-05-06 08:49:55 +0200
+catalogue-license lppl1.3
+catalogue-topics alignment
+catalogue-version 0.2

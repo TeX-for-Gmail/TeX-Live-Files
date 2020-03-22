@@ -1,0 +1,22 @@
+name filedate
+category Package
+revision 29529
+shortdesc Access and compare info and modification dates
+longdesc The package provides basic access to the date of a LaTeX source
+longdesc file according to its \Provides... entry (the "info date") as
+longdesc well as to its modification date according to \pdffilemoddate
+longdesc if the latter is available.
+containersize 6848
+containerchecksum 5e2789c065459e82f073599c4d5f04c626fedae7e02c8dc58d6595d81ec8281c9c362592eee9547369b7a8e9cd2aed1ec526d69a8ae22f35771d5494e3109032
+doccontainersize 561320
+doccontainerchecksum cfc2eb596e6b6d17015ab2ca061da39e673376d6f4c526dc045c8d2514fa8372f1a853a97425b4bcb9eb0bdc522c6b482a9bc3da9f56f8a4e0c22e4970a40575
+srccontainersize 3812
+srccontainerchecksum cc2a12c8f3b9e7391d6b57eec6c0f486137524022d89d3d3e7c037ab468a4858b253e8baa1cc8eeb731510c5e221b7cbe9a9f22a972023b3d1fe2f975e4751dc
+runfiles size=6
+ texmf-dist/tex/latex/filedate/filedate.RLS
+ texmf-dist/tex/latex/filedate/filedate.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/filedate
+catalogue-date 2017-05-06 08:10:03 +0200
+catalogue-license lppl
+catalogue-topics file-mgmt date-time

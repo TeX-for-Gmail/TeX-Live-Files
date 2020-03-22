@@ -1,0 +1,25 @@
+name prodint
+category Package
+revision 21893
+shortdesc A font that provides the product integral symbol
+longdesc Product integrals are to products, as integrals are to sums.
+longdesc They have been around for more than a hundred years, they have
+longdesc not become part of the standard mathematician's toolbox,
+longdesc possibly because no-one invented the right mathematical symbol
+longdesc for them. The authors have remedied that situation by proposing
+longdesc the symbol and providing this font.
+execute addMap prodint.map
+containersize 3856
+containerchecksum ab2b0ababfad124b38b018c7313df0114c36fed0dbbaa42de04295b09142740ef43f34c4c6ad926c97c1ce28521c1d87274486588609197c2178b631b4ee6876
+doccontainersize 32328
+doccontainerchecksum addad035cb9e7b88d9da2bf161723db51897342872dd6c671695bb7bb0a6a4c7bac872ce40f31b22f5fdd84cc03994562a6f78f14d9203977d5b7c8d17130db8
+runfiles size=5
+ texmf-dist/fonts/afm/public/prodint/prodint.afm
+ texmf-dist/fonts/map/dvips/prodint/prodint.map
+ texmf-dist/fonts/tfm/public/prodint/prodint.tfm
+ texmf-dist/fonts/type1/public/prodint/prodint.pfb
+ texmf-dist/tex/latex/prodint/prodint.sty
+catalogue-ctan /fonts/prodint
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license ofl
+catalogue-topics maths

@@ -1,0 +1,35 @@
+name apa6
+category Package
+revision 48546
+shortdesc Format documents in APA style (6th edition)
+longdesc The class formats documents in APA style (6th Edition). It
+longdesc provides a full set of facilities in three different output
+longdesc modes (journal-like appearance, double-spaced manuscript,
+longdesc LaTeX-like document), in contrast to the earlier apa6e, which
+longdesc only formats double-spaced manuscripts in APA style. The class
+longdesc can mask author identity for copies for use in masked peer
+longdesc review. The class is a development of the apa class (which is
+longdesc no longer maintained).
+containersize 13780
+containerchecksum 338e7bc7d97fc2b9c322d00fdc084d76e025584fc4584bc253f44ecedd6774cce38913e8ad0c08bb6bc64b63b83702d0a13e896f2e87b0760129e1b734b15fd1
+doccontainersize 565384
+doccontainerchecksum 2e34f5094708aad343a716d96be89aaca2c86dc08da5280ad2146013e3df635ab9e49b814efb1166a9e43a3b98245f92f2e5144637bd96c13ee4e1a59b2ad04d
+srccontainersize 37104
+srccontainerchecksum f73170f6eeadfe27dcaf0ffa7b66232eb7da5246b1630ce5794aebd6a6faec0233a3f148225a2df4e7c95af38d5005fe84e1e3cac1011bc7b0398113fd49d9d2
+runfiles size=27
+ texmf-dist/tex/latex/apa6/apa6.cls
+ texmf-dist/tex/latex/apa6/config/APAamerican.txt
+ texmf-dist/tex/latex/apa6/config/APAbritish.txt
+ texmf-dist/tex/latex/apa6/config/APAczech.txt
+ texmf-dist/tex/latex/apa6/config/APAdutch.txt
+ texmf-dist/tex/latex/apa6/config/APAendfloat.cfg
+ texmf-dist/tex/latex/apa6/config/APAenglish.txt
+ texmf-dist/tex/latex/apa6/config/APAgerman.txt
+ texmf-dist/tex/latex/apa6/config/APAgreek.txt
+ texmf-dist/tex/latex/apa6/config/APAngerman.txt
+ texmf-dist/tex/latex/apa6/config/APAturkish.txt
+catalogue-ctan /macros/latex/contrib/apa6
+catalogue-date 2018-09-02 09:12:12 +0200
+catalogue-license lppl1.3c
+catalogue-topics class apa psychology journalpub
+catalogue-version 2.33

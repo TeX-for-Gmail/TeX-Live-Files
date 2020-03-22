@@ -1,0 +1,23 @@
+name colortab
+category Package
+revision 22155
+shortdesc Shade cells of tables and halign
+longdesc The package lets you shade or colour the cells in the alignment
+longdesc environments such as \halign and LaTeX's tabular and array
+longdesc environments. The colortbl package is to be preferred today
+longdesc with LaTeX (it assures compatibility with the longtable
+longdesc package, which is no longer true with colortab); another modern
+longdesc option is the table-colouring option of the xcolor. However,
+longdesc colortab remains an adequate solution for use with Plain TeX.
+containersize 7960
+containerchecksum 460225705cfa914efc689df2d3f0c0ef7f5883082195e3d8e29e124726589fb5e9b7fc4679541b685439de097b6b297b803cf08e104ec13b849dbb26cffeaa04
+doccontainersize 60256
+doccontainerchecksum 947e46ffe5c83c3803e40f0da9a1a926e830e2b24f1d486d158da24bceade870cb1fe580aded3838f895deb238d1615cc0e3f95a05e99800fb1bad87ddf0b134
+runfiles size=7
+ texmf-dist/tex/generic/colortab/colortab.sty
+ texmf-dist/tex/generic/colortab/colortab.tex
+catalogue-ctan /macros/generic/colortab
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics colour table
+catalogue-version 1.0

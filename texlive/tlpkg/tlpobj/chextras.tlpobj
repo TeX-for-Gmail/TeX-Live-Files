@@ -1,0 +1,30 @@
+name chextras
+category Package
+revision 27118
+shortdesc A companion package for the Swiss typesetter
+longdesc The package simplifies the preparation of Swiss documents and
+longdesc letters by setting up linguistic and common packages. While it
+longdesc is a useful addition to the chletter document class, it is not
+longdesc tied to it and may be used as a general purpose package.
+containersize 4820
+containerchecksum 6fa92c9cf1da7cbe2ba74dd10f1f71274e25b228156f01efe5c67e54a2ba258500f7b2cc39fe935d4e92c641b760eacb7f39ea70643557ade4816e92e92a0b17
+doccontainersize 125712
+doccontainerchecksum 8bcc8a6c99be02d8e0babc82ec016fd6e91823a31338701e3d741af895a1d87d224a849598c2784f5de9cfefaf9cd7a09ee5b102636114d528b1e17b830ffecf
+srccontainersize 11708
+srccontainerchecksum 1b82f258f1420b07699a0ee75f99e330acb4b9ad1fadc9ffb0f42a1a4321cbad9c08718f9bbb94185eea9bef8d707f729d610b5f671db7014fd237dca5fb0d6a
+runfiles size=11
+ texmf-dist/tex/latex/chextras/chextras.sty
+ texmf-dist/tex/latex/chextras/eu1lmros.fd
+ texmf-dist/tex/latex/chextras/eu1lmssos.fd
+ texmf-dist/tex/latex/chextras/eu1lmttos.fd
+ texmf-dist/tex/latex/chextras/eu1lmvttos.fd
+ texmf-dist/tex/latex/chextras/t1lmros.fd
+ texmf-dist/tex/latex/chextras/t1lmssos.fd
+ texmf-dist/tex/latex/chextras/t1lmttos.fd
+ texmf-dist/tex/latex/chextras/t1lmvttos.fd
+catalogue-also chletter
+catalogue-ctan /macros/latex/contrib/chextras
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics swiss
+catalogue-version 1.01

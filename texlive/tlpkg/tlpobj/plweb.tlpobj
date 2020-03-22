@@ -1,0 +1,25 @@
+name plweb
+category Package
+revision 15878
+catalogue pl
+shortdesc Literate Programming for Prolog with LaTeX
+longdesc Instead of having to transform the common source into program
+longdesc or documentation, the central idea was to develop a method to
+longdesc have one common source which can be interpreted by a Prolog
+longdesc system as well as by LaTeX, whether that Prolog system be
+longdesc C-Prolog, Quintus-Prolog, or ECLiPSe.
+containersize 3872
+containerchecksum 1899a3498d10950f67d24d2d7bf0488cd8867bd862960fa892581137bb1fb3426dea9e193f8993ffa93df11684dbd1f25bc79a98489317998936ab4186e9a22d
+doccontainersize 104072
+doccontainerchecksum 9a510c4fd534c9451863a47fb8fa3911cf5199b295b1e3e2739cfc37ca0351d28fa1876e5456cf05ac7cc05f9f60761578ba6d77841ca575908cf4f0c9f0e3bd
+srccontainersize 11832
+srccontainerchecksum 09039cddf52bb2080fa6f9dad964f267e43d04504dde81e010727f4957a4de0225b0e23c1cd9ce7222ee1ddbf0d6f1ed1405d0405cb849adda77d99086402d1f
+runfiles size=5
+ texmf-dist/tex/latex/plweb/pcode.sty
+ texmf-dist/tex/latex/plweb/pl.cfg
+ texmf-dist/tex/latex/plweb/pl.sty
+catalogue-ctan /macros/latex/contrib/gene/pl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics litprog
+catalogue-version 3.0

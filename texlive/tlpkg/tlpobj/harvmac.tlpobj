@@ -1,0 +1,15 @@
+name harvmac
+category Package
+revision 15878
+shortdesc Macros for scientific articles
+longdesc Known as 'Harvard macros', since written at that University.
+containersize 5640
+containerchecksum 7acf7eb52104bab80b0b9995cf43cac842c106b8aecdff8245b0d1ce8440823e65ead75e470f00923764eadd32e936e02192ec7bbe70295ca254aa57f9b5f662
+doccontainersize 5896
+doccontainerchecksum a0f3308b938ae73c66398c5a3140662240603248cd6fe338a22f3ca6b23f28789dbccee48dcd94a8bf84de029ec103aa35c5b9a78151ceaf61a9cb60b832c484
+runfiles size=4
+ texmf-dist/tex/plain/harvmac/harvmac.tex
+catalogue-ctan /macros/plain/contrib/harvmac
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics plain-ext

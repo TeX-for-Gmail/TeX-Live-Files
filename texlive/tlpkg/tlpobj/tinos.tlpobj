@@ -1,0 +1,67 @@
+name tinos
+category Package
+revision 42882
+shortdesc Tinos fonts with LaTeX support
+longdesc Tinos, designed by Steve Matteson, is an innovative, refreshing
+longdesc serif design that is metrically compatible with Times New
+longdesc Roman.
+execute addMap tinos.map
+containersize 3230744
+containerchecksum e8e8648d656cee747cae8eb5665fb8e1d327c9578b79a65b6d50cc1bbb428ed8ea81bd2332fb91af797383264d2fd9af9354be5a02a4721bbb7350051bcb2783
+doccontainersize 29264
+doccontainerchecksum 5c826e5a78001821396c0dce64c6becf9469c5b648d716ddbe899460242b67790f75d1a8a27973f450f1d7d7dba6ea672af5bca488209614fa72a7ff1a7aefb0
+runfiles size=1119
+ texmf-dist/fonts/enc/dvips/tinos/tns_27astb.enc
+ texmf-dist/fonts/enc/dvips/tinos/tns_s6t4vy.enc
+ texmf-dist/fonts/enc/dvips/tinos/tns_xze2cy.enc
+ texmf-dist/fonts/enc/dvips/tinos/tns_y6kixo.enc
+ texmf-dist/fonts/map/dvips/tinos/tinos.map
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Bold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-BoldItalic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/tinos/Tinos-tlf-ts1.tfm
+ texmf-dist/fonts/truetype/google/tinos/Tinos-Bold.ttf
+ texmf-dist/fonts/truetype/google/tinos/Tinos-BoldItalic.ttf
+ texmf-dist/fonts/truetype/google/tinos/Tinos-Italic.ttf
+ texmf-dist/fonts/truetype/google/tinos/Tinos-Regular.ttf
+ texmf-dist/fonts/type1/google/tinos/Tinos-Bold.pfb
+ texmf-dist/fonts/type1/google/tinos/Tinos-BoldItalic.pfb
+ texmf-dist/fonts/type1/google/tinos/Tinos-Italic.pfb
+ texmf-dist/fonts/type1/google/tinos/Tinos.pfb
+ texmf-dist/fonts/vf/google/tinos/Tinos-Bold-tlf-t1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-Bold-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-BoldItalic-tlf-t1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-BoldItalic-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-tlf-t1.vf
+ texmf-dist/fonts/vf/google/tinos/Tinos-tlf-ts1.vf
+ texmf-dist/tex/latex/tinos/LY1Tinos-TLF.fd
+ texmf-dist/tex/latex/tinos/OT1Tinos-TLF.fd
+ texmf-dist/tex/latex/tinos/T1Tinos-TLF.fd
+ texmf-dist/tex/latex/tinos/TS1Tinos-TLF.fd
+ texmf-dist/tex/latex/tinos/tinos.sty
+catalogue-ctan /fonts/tinos
+catalogue-date 2017-01-10 05:17:21 +0100
+catalogue-license apache2
+catalogue-topics font font-type1 font-virtual font-otf

@@ -1,0 +1,35 @@
+name unfonts-core
+category Package
+revision 49455
+shortdesc TrueType version of Un-fonts
+longdesc The Un-fonts come from the HLaTeX as type1 fonts in 1998 by
+longdesc Koaunghi Un, he made type1 fonts to use with Korean TeX
+longdesc (HLaTeX) in the late 1990's and released it under the GPL
+longdesc license. They were converted to TrueType with the FontForge
+longdesc (PfaEdit) by Won-kyu Park in 2003. Core families (9 fonts):
+longdesc UnBatang, UnBatangBold: serif UnDotum, UnDotumBold: sans-serif
+longdesc UnGraphic, UnGraphicBold: sans-serif style UnPilgi,
+longdesc UnPilgiBold: script UnGungseo: cursive, brush-stroke
+containersize 14727572
+containerchecksum 5b405d4d77d15392ce5c90e9b50b6ab68309fdff67313af2749ff0865f46ba02a40e4850a690f69834f0b6a7c7e7ac33d3d422a9b241586433718f82de31bc30
+doccontainersize 10588
+doccontainerchecksum aabc766497c311a943f0a269d5822a44ab6baab6c8a82fddecf0b53010d794173d417f46fa6c073d2db453540a76866dd2265daea5879ec8c0ffdcd936d29a41
+runfiles size=8361
+ texmf-dist/fonts/truetype/public/unfonts-core/UnBatang.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnBatangBold.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnDinaru.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnDinaruBold.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnDinaruLight.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnDotum.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnDotumBold.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnGraphic.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnGraphicBold.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnGungseo.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnPilgi.ttf
+ texmf-dist/fonts/truetype/public/unfonts-core/UnPilgiBold.ttf
+catalogue-also unfonts-extra
+catalogue-contact-home http://kldp.net/unfonts/
+catalogue-ctan /fonts/unfonts-core
+catalogue-date 2018-12-19 15:10:28 +0100
+catalogue-license gpl2
+catalogue-topics font-ttf korean

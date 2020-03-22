@@ -1,0 +1,23 @@
+name keycommand
+category Package
+revision 18042
+shortdesc Simple creation of commands with key-value arguments
+longdesc The package (which requires e-TeX) provides a natural way to
+longdesc define commands with optional keys. The package provides
+longdesc \newkeycommand, \renewkeycommand, \providekeycommand,
+longdesc \newkeyenvironment and \renewkeyenvironment, together with
+longdesc \keycmd for a more advanced interface. The package is based on
+longdesc kvsetkeys by Heiko Oberdiek.
+containersize 4904
+containerchecksum 90c2246edbfd199d98a05df336ee228c65f26073f3c95c5ae55c3201cf59453bb5afb95ad367ab4af6b36dc4e0c52a25bb10f80fba265003c701122247be50d9
+doccontainersize 343996
+doccontainerchecksum b99b58407f5d93fb868bf525ab199c41e07fcf5f31c7a6a14cf68622ef3a34e44d1014e4d34594441144af5c7d9a9853cef1505311928b32a9fcbd41c7bf4284
+srccontainersize 15252
+srccontainerchecksum 44b63a11f08c3bd47ab337ccfa1b0b2737624f77228ca1d745020e2c1ca1b1616c1bfadda1b99c362c0b372bfbdf37d839f0d0457082922a54a66608c82aa928
+runfiles size=5
+ texmf-dist/tex/latex/keycommand/keycommand.sty
+catalogue-ctan /macros/latex/contrib/keycommand
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics keyval
+catalogue-version 3.1415

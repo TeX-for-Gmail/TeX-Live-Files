@@ -1,0 +1,20 @@
+name substitutefont
+category Package
+revision 32066
+shortdesc Easy font substitution
+longdesc Many free fonts are extensions of a basic font family with new
+longdesc glyphs or shapes. Such fonts may be given a new name due to
+longdesc licence reasons or to the creator's preference. The package
+longdesc facilitates the task of setting up a font family as substitute
+longdesc for another one, using its \substitutefont command.
+containersize 1604
+containerchecksum d060c12b1283ebcf314d6f9f6efd2ed94151ae7030a3d6e424478b2e2cd05753260837f1b9c5003735e27a7eba0313f29263e9a8a8892264bec131bbe07ef9d1
+doccontainersize 1430388
+doccontainerchecksum ce241b95d029651d2de4464880f7f59e4909939697537cf5257bc2e132a476147263c8e9253ddd1fd35fd62dba73cf4d0d06d41bde26b11776b83c456adb0fb4
+runfiles size=1
+ texmf-dist/tex/latex/substitutefont/substitutefont.sty
+catalogue-ctan /macros/latex/contrib/substitutefont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp
+catalogue-version 0.1.4

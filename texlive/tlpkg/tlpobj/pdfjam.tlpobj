@@ -1,0 +1,32 @@
+name pdfjam
+category Package
+revision 29752
+shortdesc Shell scripts interfacing to pdfpages
+longdesc This is a collection of shell scripts which provide an
+longdesc interface to the pdfpages LaTeX package. They do such jobs as
+longdesc selecting pages, concatenating files, doing n-up formatting,
+longdesc and so on.
+depend pdfjam.ARCH
+containersize 13248
+containerchecksum 16cb97f7af45b0df2d8190eb8127e6e8837bc3971765f449c038a3afeb053c68fb127f087efbd2735b8958b529eaf3adca62df07a7deed5a90cf78947e9e817b
+doccontainersize 190168
+doccontainerchecksum 5814b6464efd3ec226fb2feefd07d7c7f0ed3aeeaa341c25bebb5e998b438eb7b86d9234982ab1f9ec8b99cbad6fbe3f2eb85239b37070f9ca557e698deaf96d
+runfiles size=21
+ texmf-dist/scripts/pdfjam/pdf180
+ texmf-dist/scripts/pdfjam/pdf270
+ texmf-dist/scripts/pdfjam/pdf90
+ texmf-dist/scripts/pdfjam/pdfbook
+ texmf-dist/scripts/pdfjam/pdfflip
+ texmf-dist/scripts/pdfjam/pdfjam
+ texmf-dist/scripts/pdfjam/pdfjam-pocketmod
+ texmf-dist/scripts/pdfjam/pdfjam-slides3up
+ texmf-dist/scripts/pdfjam/pdfjam-slides6up
+ texmf-dist/scripts/pdfjam/pdfjoin
+ texmf-dist/scripts/pdfjam/pdfnup
+ texmf-dist/scripts/pdfjam/pdfpun
+catalogue-contact-home http://go.warwick.ac.uk/pdfjam
+catalogue-ctan /support/pdfjam
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl2
+catalogue-topics pdfprocess
+catalogue-version 2.02

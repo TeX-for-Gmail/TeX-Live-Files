@@ -1,0 +1,25 @@
+name germbib
+category Package
+revision 15878
+shortdesc German variants of standard BibTeX styles
+longdesc A development of the (old) german.sty, this bundle provides
+longdesc German packages, BibTeX styles and documentary examples, for
+longdesc writing documents with bibliographies. The author has since
+longdesc developed the babelbib bundle, which (he asserts) supersedes
+longdesc germbib.
+containersize 12204
+containerchecksum a7854f834c868ad80bcf986380f19139687eb80309e3aeb9a001d2030c5bca51de617394f920801834df460d05b52878301c6b45a52666984b3ba2d0910c416f
+doccontainersize 35556
+doccontainerchecksum 53dd4fff2fbb7044436f37e8a2baf48877699db4f99b92a701d10c0230439b00b48ee09051839efe4392abdb4335c3998d92d6239802c765bde4aa2df3d34ab6
+runfiles size=37
+ texmf-dist/bibtex/bst/germbib/gerabbrv.bst
+ texmf-dist/bibtex/bst/germbib/geralpha.bst
+ texmf-dist/bibtex/bst/germbib/gerapali.bst
+ texmf-dist/bibtex/bst/germbib/gerplain.bst
+ texmf-dist/bibtex/bst/germbib/gerunsrt.bst
+ texmf-dist/tex/latex/germbib/bibgerm.sty
+ texmf-dist/tex/latex/germbib/mynormal.sty
+catalogue-ctan /biblio/bibtex/contrib/germbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty german

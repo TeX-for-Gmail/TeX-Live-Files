@@ -1,0 +1,38 @@
+name mflogo-font
+category Package
+revision 36898
+shortdesc Metafont logo font
+longdesc These fonts were created in Metafont by Knuth, for his own
+longdesc publications. At some stage, the letters 'P' and 'S' were
+longdesc added, so that the MetaPost logo could also be expressed. The
+longdesc fonts were originally issued (of course) as Metafont source;
+longdesc they have since been autotraced and reissued in Adobe Type 1
+longdesc format by Taco Hoekwater.
+execute addMixedMap mflogo.map
+containersize 18152
+containerchecksum 8be2b2456a14bc9a8a741a11b033a844bf529b511eb1173887eefab646922a37b82b5847cf94331ad34ad19bf6c75629687a7e490dc57e7ab7be473f751945b3
+doccontainersize 1072
+doccontainerchecksum aec625435ec638a6c36b7303d9fa81681f355460392f42d78cd820d98f7b6489b978980ada6962db5c1143057133d32fc7f314dbd60f606db4b69209de5626d2
+runfiles size=17
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logo10.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logo8.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logo9.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logobf10.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logod10.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logosl10.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logosl8.afm
+ texmf-dist/fonts/afm/hoekwater/mflogo-font/logosl9.afm
+ texmf-dist/fonts/map/dvips/mflogo-font/mflogo.map
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logo10.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logo8.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logo9.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logobf10.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logod10.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl10.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl8.pfb
+ texmf-dist/fonts/type1/hoekwater/mflogo-font/logosl9.pfb
+catalogue-ctan /fonts/mflogo/ps-type1/hoekwater
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license knuth
+catalogue-topics font font-mf font-type1
+catalogue-version 1.002

@@ -1,0 +1,8 @@
+name checklistings.x86_64-linux
+category Package
+revision 38300
+shortdesc x86_64-linux files of checklistings
+containersize 344
+containerchecksum 864a320e41e6e635641604743cc94eb402b924e3d7962f2a29ebbb43dcdc31ddcdef4595b26aa8094068a4edf0bec2cab1a358c4feaad9c2e21416d01f3102cf
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/checklistings

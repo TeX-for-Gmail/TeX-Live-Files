@@ -1,0 +1,25 @@
+name purifyeps
+category Package
+revision 29725
+shortdesc Make EPS work with both LaTeX/dvips and pdfLaTeX
+longdesc While pdfLaTeX has a number of nice features, its primary
+longdesc shortcoming relative to standard LaTeX+dvips is that it is
+longdesc unable to read ordinary Encapsulated PostScript (EPS) files,
+longdesc the most common graphics format in the LaTeX world. Purifyeps
+longdesc converts EPS files into a 'purified' form that can be read by
+longdesc both LaTeX+dvips and pdfLaTeX. The trick is that the standard
+longdesc LaTeX2e graphics packages can parse MetaPost-produced EPS
+longdesc directly. Hence, purifyeps need only convert an arbitrary EPS
+longdesc file into the same stylized format that MetaPost outputs.
+depend purifyeps.ARCH
+containersize 6212
+containerchecksum 79d99ef7ebc462c7c65d03f23cc85b9f136df2b0c9d647fc0672584fa57bfb7447f6db0e6d6b11bfc738cfe8c8658f45fe0b4059ff00f355e4b21d44f0d4102a
+doccontainersize 15056
+doccontainerchecksum 3f9fadfb35596835b250cab98b0d1e3c6d537cfac5878e0b9788aeb5cc7ef455ce3d44f7d0f03e9002796a162d374f6aa8f9bce5bd4c3f0e8937040de0b82a8d
+runfiles size=5
+ texmf-dist/scripts/purifyeps/purifyeps
+catalogue-ctan /support/purifyeps
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-proc
+catalogue-version 1.1

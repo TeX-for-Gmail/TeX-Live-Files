@@ -1,0 +1,20 @@
+name uni-wtal-ger
+category Package
+revision 31541
+shortdesc Citation style for literary studies at the University of Wuppertal
+longdesc The package defines a BibLaTeX citation style based on the
+longdesc author-title style of biblatex-dw. The citations are optimised
+longdesc for literary studies in faculty of humanities at the Bergische
+longdesc Universitat Wuppertal.
+containersize 1644
+containerchecksum d1b6186d50733f87576ef6509f7eebaa17651039d882f78abbfa8ae23ddf7b896a90065fd5ff83a2e216485c22e865057f715784fab37ad9440616297d67a26d
+doccontainersize 71452
+doccontainerchecksum ffee19f2d4ac337f7615b99946287eb902d2841b48f9d5c49d51604b45b7eaa126538732d64b319a8ba320f1dcb9b62b45cf608dbb0059f37975a1220022c333
+runfiles size=2
+ texmf-dist/tex/latex/uni-wtal-ger/uni-wtal-ger.bbx
+ texmf-dist/tex/latex/uni-wtal-ger/uni-wtal-ger.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/uni-wtal-ger
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 0.2

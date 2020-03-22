@@ -1,0 +1,21 @@
+name menukeys
+category Package
+revision 41823
+shortdesc Format menu sequences, paths and keystrokes from lists
+longdesc This package is designed to format menu sequences, paths and
+longdesc keyboard shortcuts automatically. There are several predefined
+longdesc styles and one can define his own styles in a flexible way.
+containersize 5604
+containerchecksum 690a07e343a3358179b271fb51b33f6b9dd952fead758405bdbdea9afc8d410d1bc72a15557d90d0699f26dcf7e51a6df3aec1ddb7ca752f5088de46dd5b7711
+doccontainersize 562936
+doccontainerchecksum 4b962d91d637a69f7443fb6ac4a94fe63901a7fe7a2d880eed320314ac6114c341add9e589547649331f123d9bd3af7830c19f83389581a936c67fd0dfc4424f
+srccontainersize 17300
+srccontainerchecksum 35b57df92bf1eeb8ecec107c913ee8be0c84d27c2f98e7f2c7ee42b182905d3da1ac0e0969056d4d5db849c47d6953a8d2c6555259dc37fbcc432df4dd0e3808
+runfiles size=8
+ texmf-dist/tex/latex/menukeys/menukeys.sty
+catalogue-contact-repository http://github.com/tweh/menukeys
+catalogue-ctan /macros/latex/contrib/menukeys
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-supp
+catalogue-version 1.5

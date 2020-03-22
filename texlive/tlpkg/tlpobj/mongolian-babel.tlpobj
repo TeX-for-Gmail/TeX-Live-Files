@@ -1,0 +1,22 @@
+name mongolian-babel
+category Package
+revision 15878
+shortdesc A language definition file for Mongolian in Babel
+longdesc This package provides support for Mongolian in a Cyrillic
+longdesc alphabet. (The work derives from the earlier Russian work for
+longdesc babel.)
+containersize 5300
+containerchecksum a4e7abdc0b5817d88ad442e693fefe79df224a74f37d09b630fd7ded16e1335f563ca00a26aee8ba4b46b7516c0fa2f5dc9d37ec00455b11223e46a6e289cc01
+doccontainersize 89416
+doccontainerchecksum d0aa4f4a7f1b22d3d3a6a96b85d4d72acb71ee6b1374b70008b966ca2401b7b9434bca675601cc1cdf2f013520eb82c2cb193634b3ac9f9b9d40a201d10dbd58
+srccontainersize 12068
+srccontainerchecksum 07e75b2c9bb6c7596d698e0f31d8194ab5cc4e06f5ca472cc706214c342960378376406bdc0eef0940ac0179e989a92af496069ffb25ed75f5b3a0d5fe639517
+runfiles size=6
+ texmf-dist/tex/latex/mongolian-babel/mn.def
+ texmf-dist/tex/latex/mongolian-babel/mongolian.ldf
+ texmf-dist/tex/latex/mongolian-babel/mongolian.sty
+catalogue-ctan /language/mongolian/babel
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics mongolian multilingual-addon
+catalogue-version 1.2

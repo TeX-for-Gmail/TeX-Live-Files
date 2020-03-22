@@ -1,0 +1,18 @@
+name memdesign
+category Package
+revision 48664
+shortdesc Notes on book design
+longdesc "A Few Notes on Book Design" provides an introduction to the
+longdesc business of book design. It is an extended version of what used
+longdesc to be the first part of the memoir users' manual. Please note
+longdesc that the compiled copy, supplied in the package, uses
+longdesc commercial fonts; the README file contains instructions on how
+longdesc to compile the document without these fonts.
+containersize 564
+containerchecksum 42949db3193952d1ae75855110ed40a1ff467b3cef0bb6d43195bac960a0873a47fad002695ad1376da2d4a1df5e1e05f89289102780d27b173da2e852b53cdc
+doccontainersize 1785516
+doccontainerchecksum f4dfa00676379ce33857cc0fdeae867d1ae5c99e6767884a029285a94d2197926a68cd85c574bd876a2eeb85f0453520ef5efcb7f2a71a77c725f8066e7adf8d
+catalogue-ctan /info/memdesign
+catalogue-date 2018-09-16 05:33:39 +0200
+catalogue-license lppl1.3
+catalogue-topics review-document

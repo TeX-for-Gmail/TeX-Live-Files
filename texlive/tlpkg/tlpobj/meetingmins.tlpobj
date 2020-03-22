@@ -1,0 +1,21 @@
+name meetingmins
+category Package
+revision 31878
+shortdesc Format written minutes of meetings
+longdesc The class allows formatting of meeting minutes using \section
+longdesc commands (which provide hierarchical structure). An agenda can
+longdesc also be produced for distribution prior to the meeting, with
+longdesc user-selected portions suppressed from printing.
+containersize 2484
+containerchecksum 315897eff4ae50257057f8191ff92535b669fb174a2eca5c368a9a4b9f75cd71ad745f3feff1c6863705b3e9e4a954afa449cf56f86bf60c389250842aef5215
+doccontainersize 599084
+doccontainerchecksum 6afbfe02ee39e26e2f38ce462affa66e7e0acf5f26534ff9ace0b26b4e63514a3b1702e34bf478988a50c55fbb09b7d9421a8e79da6a6c46de88c6a958afa874
+srccontainersize 6908
+srccontainerchecksum 3f4a274000889e9160943ca0b7a7af30bdbf7aa9a33c8cccd0e938ad3ab94ad8f24a6685bc99596a1046a22d32855061a7c511046dd6c306353c4f5979e1f230
+runfiles size=2
+ texmf-dist/tex/latex/meetingmins/meetingmins.cls
+catalogue-ctan /macros/latex/contrib/meetingmins
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics meeting-admin
+catalogue-version 1.6

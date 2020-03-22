@@ -1,0 +1,23 @@
+name datetime2-breton
+category Package
+revision 47030
+shortdesc Breton language module for the datetime2 package
+longdesc This module provides the "breton" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2568
+containerchecksum b212e5cbae4f1b61c3455f2ed2f05b9b61f34d65079d5f9fbb0be716c9d06f14ce915efc1059cccc828b52b3c0fae3a5e08680195c4ca20bcfc8c6378798229c
+doccontainersize 281684
+doccontainerchecksum 4b6d0592e5fa100b3a68cdefaee29a089827fc2f86d5dcc1aee79aa6348b7cf4165319433714914337239220d01e8a3d93fbad1448cd3ff4790c817215a1cbce
+srccontainersize 4740
+srccontainerchecksum e4a7240799195b9be7a9a755c181268082076218e1e49c4a81e5ac2c32bbe1537e3965bc5e6791a62a3a502c27059292bfcd985f3fae31e961bf129ef166dbf0
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-breton/datetime2-breton-ascii.ldf
+ texmf-dist/tex/latex/datetime2-breton/datetime2-breton-utf8.ldf
+ texmf-dist/tex/latex/datetime2-breton/datetime2-breton.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-breton
+catalogue-date 2018-03-19 17:33:02 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

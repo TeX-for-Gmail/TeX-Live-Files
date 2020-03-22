@@ -1,0 +1,37 @@
+name kluwer
+category Package
+revision 45756
+shortdesc Kluwer publication support
+longdesc Most likely long obsolete, unfortunately.
+containersize 53520
+containerchecksum 36f0d6ade1e6afbc7a021780a9d6d56e358805be8a8d5835ce256c87f426aa4110b9e395d6406cd1572a362557ba0d914071a6589a65ca064cd77c9310c284c5
+doccontainersize 61520
+doccontainerchecksum 9990c4fb99023e6262c1c7336f4b8a98e3131ae60f380652469f7e2f88a8793d745655e0fc13dadc78fdb8c2beec6248e54af661bc81a8ec016af58b688e583e
+srccontainersize 2016
+srccontainerchecksum a6ead8f091ea55b4443da5d048df1e27a2f2af0abd047d7585490cdc27b9efd1f3a59a5eaf6b77a8b5dbe676ea89dda8e96e80b833bfb995605ca36b21e3cecc
+runfiles size=114
+ texmf-dist/bibtex/bst/kluwer/klunamed.bst
+ texmf-dist/bibtex/bst/kluwer/klunum.bst
+ texmf-dist/tex/latex/kluwer/klu10.clo
+ texmf-dist/tex/latex/kluwer/klu105.clo
+ texmf-dist/tex/latex/kluwer/klu11.clo
+ texmf-dist/tex/latex/kluwer/klu12.clo
+ texmf-dist/tex/latex/kluwer/klu9.clo
+ texmf-dist/tex/latex/kluwer/klucite.sty
+ texmf-dist/tex/latex/kluwer/kluedit.sty
+ texmf-dist/tex/latex/kluwer/klufloa.sty
+ texmf-dist/tex/latex/kluwer/klulist.sty
+ texmf-dist/tex/latex/kluwer/klumac.sty
+ texmf-dist/tex/latex/kluwer/klumath.sty
+ texmf-dist/tex/latex/kluwer/klumono.sty
+ texmf-dist/tex/latex/kluwer/klunote.sty
+ texmf-dist/tex/latex/kluwer/kluopen.sty
+ texmf-dist/tex/latex/kluwer/klups.sty
+ texmf-dist/tex/latex/kluwer/kluref.sty
+ texmf-dist/tex/latex/kluwer/klusec.sty
+ texmf-dist/tex/latex/kluwer/klut10.clo
+ texmf-dist/tex/latex/kluwer/klut11.clo
+ texmf-dist/tex/latex/kluwer/klut12.clo
+ texmf-dist/tex/latex/kluwer/klut9.clo
+ texmf-dist/tex/latex/kluwer/klutab.sty
+ texmf-dist/tex/latex/kluwer/kluwer.cls

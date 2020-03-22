@@ -1,0 +1,23 @@
+name fouridx
+category Package
+revision 32214
+shortdesc Left sub- and superscripts in maths mode
+longdesc The package enables left subscripts and superscripts in maths
+longdesc mode. The sub- and superscripts are raised for optimum fitting
+longdesc to the symbol indexed, in such a way that left and right sub-
+longdesc and superscripts are set on the same level, as appropriate. The
+longdesc package provides an alternative to the use of the \sideset
+longdesc command in the amsmath package.
+containersize 1184
+containerchecksum 01a2cc941482972cb8ca3f5402bef75f53d5e7db2b42f8bdf614c34faab3805c3548d3786c3e7cd9d8d8f7691cd5e8e71e056ad8afc24d52444c6969c11eaa14
+doccontainersize 211220
+doccontainerchecksum 8bc55b8e191b83ea42e228b47621780f4aaeec65248f5b3e9aad94443eeba08b1bf1bf44b7cf252f66466e5b0170260ad202c13abf2d76d4576833224212ae44
+srccontainersize 3260
+srccontainerchecksum c29e1c93e31da33a3ba3914ea2992a53b52bc18a4da0d20cdfec712037f98058be5113dc65d731253aff8c4e1b0fcac4afe3da36b972f1fb23ce45a795c546a3
+runfiles size=1
+ texmf-dist/tex/latex/fouridx/fouridx.sty
+catalogue-ctan /macros/latex/contrib/fouridx
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics subsup-pos maths
+catalogue-version 2.00

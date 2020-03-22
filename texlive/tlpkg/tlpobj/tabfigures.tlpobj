@@ -1,0 +1,24 @@
+name tabfigures
+category Package
+revision 25202
+shortdesc Maintain vertical alignment of figures
+longdesc Knuth designed his original fonts with tabular figures (figures
+longdesc whose width is uniform); this makes some layout problems rather
+longdesc simple. In more recent times, fonts (such as Minion Pro), which
+longdesc offer proportionally spaced figures, are increasingly being
+longdesc used. The package provides mechanisms whereby such proportional
+longdesc figures may still be aligned in tabular style (for example, in
+longdesc the table of contents).
+containersize 2172
+containerchecksum d2a1fe985a74427888995437beaafa62b5def851d6f2a7788ead9cddbfcefd7206366a6711f29e85d2705c0d787bfc88accc56c93b827fa372ebd9cfc562f2c6
+doccontainersize 246772
+doccontainerchecksum 5b2c7c5bd350c3dba68117151f3cfd6eac8f0e7ed602b44406ff9d15a79dd7de7e0ec303b1163e3c882412c86adc48afac6c9653cf1fbff86e7cf6a7ce852c94
+srccontainersize 5452
+srccontainerchecksum 78602de26e50e0d9ee43b8289a96a3639904bdf79983d4633d6c11af1c8215d1e77649f640ecc6b3f37cce30e6cc6b4c204e2cec58a3454c8b8486104eb17922
+runfiles size=2
+ texmf-dist/tex/latex/tabfigures/tabfigures.sty
+catalogue-ctan /macros/latex/contrib/tabfigures
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-use typesetting
+catalogue-version 1.1

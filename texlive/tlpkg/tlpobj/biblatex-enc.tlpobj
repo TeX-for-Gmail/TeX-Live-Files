@@ -1,0 +1,24 @@
+name biblatex-enc
+category Package
+revision 44627
+shortdesc BibLaTeX style for the Ecole nationale des chartes (Paris)
+longdesc This package provides a citation and bibliography style for use
+longdesc with BibLaTeX. It conforms to the bibliographic standards used
+longdesc at the Ecole nationale des chartes (Paris), and may be suitable
+longdesc for a more general use in historical and philological works.
+longdesc The package was initially derived from historische-zeitschrift,
+longdesc with the necessary modifications.
+containersize 8476
+containerchecksum 6aab8a819ce9a3ec2d6676ab8850c3fc6bb81e5af5c9414555581cc9d164184d18ec550fb0ca67d28d800826356f1c709144ee7d38c0cfbc274179fa813a3a0c
+doccontainersize 2284
+doccontainerchecksum ae50544ebdf7bbf9ee708f193493ffa241ba91f0925a2bf03b6bf1ec486586fde3c630fe717f4f2904373c08a2f9a90afca86b50870f87aa0d04430554650223
+runfiles size=13
+ texmf-dist/tex/latex/biblatex-enc/enc.bbx
+ texmf-dist/tex/latex/biblatex-enc/enc.cbx
+catalogue-contact-bugs https://github.com/Jean-Baptiste-Camps/biblatex-enc/issues
+catalogue-contact-repository https://github.com/Jean-Baptiste-Camps/biblatex-enc
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-enc
+catalogue-date 2017-06-19 06:38:53 +0200
+catalogue-license lppl1.3
+catalogue-topics biblatex french humanities journalpub
+catalogue-version 1.0

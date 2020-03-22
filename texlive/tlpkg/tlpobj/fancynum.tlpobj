@@ -1,0 +1,19 @@
+name fancynum
+category Package
+revision 15878
+shortdesc Typeset numbers
+longdesc A LaTeX package for typesetting numbers, in particular floating
+longdesc point numbers, such as you find in program output.
+containersize 1456
+containerchecksum 93e1b88ca722b4169a572285443fad53b66ac59a3c0b6465aad54bd8d416046bfd79897db3d8f318f9d6e004c958b94bbcab16b1183d66197e1078840934689c
+doccontainersize 56512
+doccontainerchecksum 4be390bfd7562e0c94dc19fad3e0f34e52db393878290773517d6d7951e428cd3d0dccf5f47f6f03e5f0b380ebb386c8d89373e8c8e4cbd16463a9cdd2f2417f
+srccontainersize 5392
+srccontainerchecksum 8f2f569fbb2a6ddaf371814e26b251286f8046e8a1e923f18e67b165c26c69cd09b46e39dae5fe00a427dbe4f95172680973b3eda7be16c60cbdfe6daf37710c
+runfiles size=1
+ texmf-dist/tex/latex/fancynum/fancynum.sty
+catalogue-ctan /macros/latex/contrib/fancynum
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics numbers
+catalogue-version 0.92

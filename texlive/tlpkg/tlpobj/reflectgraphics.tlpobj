@@ -1,0 +1,21 @@
+name reflectgraphics
+category Package
+revision 40612
+shortdesc Techniques for reflecting graphics
+longdesc The package provides a macro for reflecting images, in a number
+longdesc of different ways, in pursuit of "more striking" graphics in a
+longdesc document.
+containersize 2308
+containerchecksum ad670c699d958eaf103db1ae65d79bad78dbb0677c7464144739fd67b63dc5acd3c298f81c81f258de477fe9f2d4a4177de887ce1c031ac9c701662167c1a5d6
+doccontainersize 236908
+doccontainerchecksum 78717728d537cf0dacaee67151cd7f19fef6fa031a856ac49a58bb576337690df4323c80e1ff0f318a4eda3689fbdbc2aa5a3bbcef69b957fc4615ff825e1e0a
+srccontainersize 7788
+srccontainerchecksum f228c9e8dedcd7d261269c896b0ef1ebeb7efc18a0137fcd64765ec92b957eb634d8e0e2d4f6aceebf1760e65936c6bb1a7b706c852e6c220282448830b7f672
+runfiles size=2
+ texmf-dist/tex/latex/reflectgraphics/reflectgraphics.sty
+catalogue-contact-repository https://bitbucket.org/oreiche/reflectgraphics
+catalogue-ctan /macros/latex/contrib/reflectgraphics
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-manip
+catalogue-version 0.2c

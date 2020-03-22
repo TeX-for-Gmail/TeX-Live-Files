@@ -1,0 +1,28 @@
+name sudokubundle
+category Package
+revision 15878
+shortdesc A set of sudoku-related packages
+longdesc The bundle provides three packages: printsudoku, which provides
+longdesc a command \sudoku whose argument is the name of a file
+longdesc containing a puzzle specification; solvesudoku, which attempts
+longdesc to find a solution to the puzzle in the file named in the
+longdesc argument; and createsudoku, which uses the random package to
+longdesc generate a puzzle according to a bunch of parameters that the
+longdesc user sets via macros. The bundle comes with a set of
+longdesc ready-prepared puzzle files.
+containersize 8244
+containerchecksum da5c7954dda7fb8076d9b2fbd8a379e416a162ce0039a0566799bba0ddea975f3b951b7615cf50819440b46c419277a080b6e1c3c514e73483b4f81420a4b6d4
+doccontainersize 281764
+doccontainerchecksum 6878ae9a2734e5efb51f04fe24cc30546a2c812ccfd5ae62cbbbc94496a081b03f7d2bfcfa6c7edd610cd6eccd741c3dcc3441a6d437eea5f310865dd13d30f9
+srccontainersize 27196
+srccontainerchecksum 00b0b27e9b97dcca17113d8f314480b2617d18603bf022631f6553f2b8a7c4e7d30e1718cfe4ce1ede7996d7ebe7905d25480c6516df4b3df65403346c050beb
+runfiles size=14
+ texmf-dist/tex/latex/sudokubundle/createsudoku.sty
+ texmf-dist/tex/latex/sudokubundle/printsudoku.sty
+ texmf-dist/tex/latex/sudokubundle/solvesudoku.sty
+catalogue-also sudoku
+catalogue-ctan /macros/latex/contrib/sudokubundle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 1.0a

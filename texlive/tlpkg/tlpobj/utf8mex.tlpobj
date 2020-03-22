@@ -1,0 +1,18 @@
+name utf8mex
+category Package
+revision 15878
+shortdesc Tools to produce formats that read Polish language input
+longdesc The bundle provides files for building formats to read input in
+longdesc Polish encodings.
+containersize 2868
+containerchecksum 0cd4c549c7b00939dec5055705658f76f6ebbe5de70e082652b761673ba5a249924fb862a319512a9a124b9cdaae8906c74439bba97be8825d4d1ffc70642c8f
+doccontainersize 7496
+doccontainerchecksum cd438089d90faa0e9144d23adb78ce91d85b80ce084cb92511cc23882c675cb654cb704aebeb623bb29c70b764c8a0ab19915607664895c457c583f376c1088e
+runfiles size=3
+ texmf-dist/tex/mex/utf8mex/utf8-pl.tex
+ texmf-dist/tex/mex/utf8mex/utf8mex.ini
+ texmf-dist/tex/mex/utf8mex/utf8plsq.tex
+catalogue-ctan /language/polish/utf8mex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics format

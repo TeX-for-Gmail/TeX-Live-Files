@@ -1,0 +1,34 @@
+name ctib
+category Package
+revision 15878
+catalogue ctib4tex
+shortdesc Tibetan for TeX and LaTeX2e
+longdesc A package using a modified version of Sirlin's Tibetan font. An
+longdesc advantage of this Tibetan implementation is that all consonant
+longdesc clusters are formed by TeX and Metafont. No external
+longdesc preprocessor is needed.
+containersize 116552
+containerchecksum 8999ea42b82e56cbb06e2485060b829a0781550834ea421607b4621199692976488f4031266eee1a6b1443b12828e2fb5148ff43eff137c01ee9db8770bb1565
+doccontainersize 217796
+doccontainerchecksum 65d8f613ddb651cef4c345791a4a849e3f672930fb94d1ba789e827b466c459bc321762c71675cb4c5fdec8fc456520bb7013d5b737b4ff2bd049bb5917a98ef
+srccontainersize 8532
+srccontainerchecksum b387b2cc636f98bf7bf43fc3be04cbb62dfd6597c419b7791605011f59981cd9e90737f9d2f0f668f63bf9abff854219a75a7527d881c991190188f307f3642d
+runfiles size=206
+ texmf-dist/fonts/source/public/ctib/bzrsetup.mf
+ texmf-dist/fonts/source/public/ctib/ctib.mf
+ texmf-dist/fonts/source/public/ctib/ctibcode.mf
+ texmf-dist/fonts/source/public/ctib/ctiblett.mf
+ texmf-dist/fonts/source/public/ctib/ctibligs.mf
+ texmf-dist/fonts/source/public/ctib/ctibnum.mf
+ texmf-dist/fonts/source/public/ctib/ctibpunc.mf
+ texmf-dist/fonts/source/public/ctib/ctibsplt.mf
+ texmf-dist/fonts/source/public/ctib/ctibvow.mf
+ texmf-dist/fonts/tfm/public/ctib/ctib.tfm
+ texmf-dist/tex/latex/ctib/ctib.sty
+ texmf-dist/tex/latex/ctib/ctib.tex
+ texmf-dist/tex/latex/ctib/lctctib.fd
+ texmf-dist/tex/latex/ctib/lctenc.def
+catalogue-ctan /language/tibetan/ctib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tibetan

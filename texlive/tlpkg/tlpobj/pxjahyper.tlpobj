@@ -1,0 +1,19 @@
+name pxjahyper
+category Package
+revision 48207
+shortdesc Hyperref support for pLaTeX
+longdesc This package adjusts the behavior of hyperref on (u)pLaTeX so
+longdesc that authors can properly create PDF documents that contain
+longdesc document information in Japanese.
+containersize 6996
+containerchecksum 5e80705f3c9eee9856a7e6b45c71a434219a2696c00ead7677d195c6a2de182337daa481bd5a3165b11ba9dceb1c21f04b869c0b7f0425de4bde9899dc962d25
+doccontainersize 100492
+doccontainerchecksum dec0635c3bea70976caadf8b58716790ec843f99178e66ec2e892f118609876e1fd45f383195bdcfbb3189510dc20dd5cbb6a40c6c3bc23a245ab5a817177131
+runfiles size=8
+ texmf-dist/tex/platex/pxjahyper/pxjahyper.sty
+catalogue-contact-repository https://github.com/zr-tex8r/PXjahyper
+catalogue-ctan /language/japanese/pxjahyper
+catalogue-date 2018-07-15 12:53:48 +0200
+catalogue-license mit
+catalogue-topics japanese hyper
+catalogue-version 0.3d

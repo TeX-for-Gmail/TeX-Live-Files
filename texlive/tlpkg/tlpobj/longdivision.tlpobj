@@ -1,0 +1,31 @@
+name longdivision
+category Package
+revision 50586
+shortdesc Typesets long division
+longdesc This package executes the long division algorithm and typesets
+longdesc the solutions. The dividend must be a positive decimal number
+longdesc and the divisor must be a positive integer. Repeating decimals
+longdesc is handled correctly, putting a bar over the repeated part of
+longdesc the decimal. Dividends up to 20 digits long are handled
+longdesc gracefully (though the typeset result will take up about a
+longdesc page), and dividends between 20 and 60 digits long slightly
+longdesc less gracefully. The package defines two macros, \longdivision
+longdesc and \intlongdivision. Each takes two arguments, a dividend and
+longdesc a divisor. \longdivision keeps dividing until the remainder is
+longdesc zero, or it encounters a repeated remainder. \intlongdivision
+longdesc stops when the dividend stops (though the dividend doesn't have
+longdesc to be an integer). This package depends on the xparse package
+longdesc from the l3packages bundle.
+containersize 7912
+containerchecksum 64669ae90bcf3c98d4e58e9ff016bd03e151f57a83c6a98e71eff714017c4e9bab95694d33fef3edde79001f0f90a54e4f64514488b00d1e373122914064d8b1
+doccontainersize 124208
+doccontainerchecksum 679f3766529588f5319f511178ab84e636d9e888a3f2cffdb6d94384042bcc7deca14821fb5010e7bec65614bab9adf336346bdcc38bc8908a29a6e9266cdaf6
+runfiles size=8
+ texmf-dist/tex/latex/longdivision/longdivision.sty
+catalogue-also longdiv
+catalogue-contact-repository https://github.com/hoodmane/longdivision
+catalogue-ctan /macros/latex/contrib/longdivision
+catalogue-date 2019-03-25 11:05:39 +0100
+catalogue-license lppl
+catalogue-topics maths arithmetic
+catalogue-version 1.1.0

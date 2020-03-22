@@ -1,0 +1,19 @@
+name pdfjam.x86_64-linux
+category Package
+revision 17868
+shortdesc x86_64-linux files of pdfjam
+containersize 508
+containerchecksum 31e328387832157d6a1c81d551518145214ee6303bf45ede3a93d67c4677f9b32c90bc902c241ecf31e2ccd18b82c06d3f9a9b581d379f60d2285dae0fa93068
+binfiles arch=x86_64-linux size=12
+ bin/x86_64-linux/pdf180
+ bin/x86_64-linux/pdf270
+ bin/x86_64-linux/pdf90
+ bin/x86_64-linux/pdfbook
+ bin/x86_64-linux/pdfflip
+ bin/x86_64-linux/pdfjam
+ bin/x86_64-linux/pdfjam-pocketmod
+ bin/x86_64-linux/pdfjam-slides3up
+ bin/x86_64-linux/pdfjam-slides6up
+ bin/x86_64-linux/pdfjoin
+ bin/x86_64-linux/pdfnup
+ bin/x86_64-linux/pdfpun

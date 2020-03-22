@@ -1,0 +1,17 @@
+name hitec
+category Package
+revision 15878
+shortdesc Class for documentation
+longdesc An article-based class designed for use for documentation in
+longdesc high-technology companies.
+containersize 5944
+containerchecksum d7ebe166a23c05a1b78552c102507e697c07b955cddc8f4061d22fc42fc414664d3a1bc1c08e0dd122a987c736d24d4935dd944b37f62fe260b3c811678a3b30
+doccontainersize 16076
+doccontainerchecksum f166b529f29f0470770d5a24e0f3ea2be9021732fb5373611b87cda10ff2196d1d121258fda75369a2f0f9a65324f4a8dc0d3c5f377cf994c04807b18b5a46f3
+runfiles size=6
+ texmf-dist/tex/latex/hitec/hitec.cls
+catalogue-ctan /macros/latex/contrib/hitec
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class
+catalogue-version 0.0(beta)

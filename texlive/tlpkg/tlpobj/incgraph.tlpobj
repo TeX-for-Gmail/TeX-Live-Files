@@ -1,0 +1,23 @@
+name incgraph
+category Package
+revision 36500
+shortdesc Sophisticated graphics inclusion in a PDF document
+longdesc The package provides tools for including graphics at the full
+longdesc size of the output medium, or for creating "pages" whose size
+longdesc is that of the graphic they contain. A principal use case is
+longdesc documents that require inclusion of (potentially many) scans or
+longdesc photographs. Bookmarking is especially supported. The tool box
+longdesc has basic macros and a 'convenience' user interface that wraps
+longdesc \includegraphics.
+containersize 4204
+containerchecksum 9a063a51c77ec55136a60a7ffaa259f7c8e2fbc9c71dc2d5240f125be50fc246e2a1d1a6c3379aacc044ad0eb7a754dc27a6445bd12fd63c3d5b2929cdacc133
+doccontainersize 1079708
+doccontainerchecksum 1a1be60ab0ee587095ad6e2c74ce356292ce454f3a40fa96e5fab7d48da52b98cabfe9826235b3afae679baeea1b23e5c4fb4d7a4b00279ce0433568a9cf3108
+runfiles size=4
+ texmf-dist/tex/latex/incgraph/incgraph.sty
+catalogue-also graphicx
+catalogue-ctan /macros/latex/contrib/incgraph
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-incl
+catalogue-version 1.12

@@ -1,0 +1,34 @@
+name crossword
+category Package
+revision 32657
+shortdesc Typeset crossword puzzles
+longdesc An extended grid-based puzzle package, designed to take all
+longdesc input (both grid and clues) from the same file. The package can
+longdesc typeset grids with holes in them (for advertisements, or other
+longdesc sorts of stuff), and can deal with several sorts of puzzle: The
+longdesc classical puzzle contains numbers for the words and clues for
+longdesc the words to be filled in. The numbered puzzle contains numbers
+longdesc in each cell where identical numbers represent identical
+longdesc letters. The goal is to find out which number corresponds to
+longdesc which letter. The fill-in type of puzzle consists of a grid and
+longdesc a list of words. The goal is to place all words in the grid.
+longdesc Sudoku and Kakuro puzzles involve filling in grids of numbers
+longdesc according to their own rules. Format may be block-separated, or
+longdesc separated by thick lines. Input to the package is somewhat
+longdesc redundant: specification of the grid is separate from
+longdesc specification of the clues (if they're necessary). The author
+longdesc considers this style both 'natural' and robust.
+containersize 4232
+containerchecksum e55390ea7eb83686bc49e1f33fd4df2e7b977e031fa6d42e3d18d2cb5b9f34905aa4c43f173ad6745e98683376eb5ad4fae1a8344355b272f0b4b8096b1521ce
+doccontainersize 338260
+doccontainerchecksum 121e26265895e99dd00dc84ef8b1ba9f4b6917ccbfafa6a35d1f6b81b42c70153bed17790eb6e2d4a5a4fcd8c5cf2e03f5b6e458a2b125a2b7a0f0292bb24947
+srccontainersize 15664
+srccontainerchecksum 91f7fc2a78a83eb404aa11a95f941f81f10da9a908a8ca4f554b5ed496435cca615ce69d9e608c59a025b51243e6c1bf14ea69c896d944a757e1c1cb470e831e
+runfiles size=3
+ texmf-dist/tex/latex/crossword/cwpuzzle.sty
+catalogue-also crosswrd
+catalogue-ctan /macros/latex/contrib/gene/crossword
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics games cwpuzzle
+catalogue-version 1.9

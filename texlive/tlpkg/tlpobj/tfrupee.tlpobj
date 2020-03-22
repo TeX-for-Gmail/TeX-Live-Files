@@ -1,0 +1,26 @@
+name tfrupee
+category Package
+revision 20770
+shortdesc A font offering the new (Indian) Rupee symbol
+longdesc The package provides LaTeX support for the (Indian) Rupee
+longdesc symbol font, created by TechFat. The original font has been
+longdesc converted to Adobe Type 1 format, and simple LaTeX support
+longdesc written for its use.
+execute addMap tfrupee.map
+containersize 601352
+containerchecksum ee935ea5c6563fd8da4f403a1c3583b289b64e212aed4b9e3703ec345dc47c5521d291e1ae0a10c9aec2ebfed407fbf14e804bf51ae4c4a1e03046fc7cd0ad5c
+doccontainersize 113240
+doccontainerchecksum 19da18d665a8369e58a26d4e979d5fd6c8b3187dfba97a281008627aeb8c5ee824dc2ad3f5c94c3b35c67fe28a646f44aa5f532912de5f5640b0a7d56afec2f8
+srccontainersize 538548
+srccontainerchecksum 30133dbf65f1a33f79ad8b2c8ee84ff376b39d12cf0d48c4e72e86b393e0d55f5768c7af5f5f3f6ff1d78fe2c7d4f2b09d2980107dd5aa1d94fb5ea27545ee9d
+runfiles size=191
+ texmf-dist/fonts/afm/public/tfrupee/tfrupee.afm
+ texmf-dist/fonts/map/dvips/tfrupee/tfrupee.map
+ texmf-dist/fonts/tfm/public/tfrupee/tfrupee.tfm
+ texmf-dist/fonts/type1/public/tfrupee/tfrupee.pfb
+ texmf-dist/tex/latex/tfrupee/tfrupee.sty
+catalogue-ctan /fonts/tfrupee
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics font font-type1 font-specialist
+catalogue-version 1.02

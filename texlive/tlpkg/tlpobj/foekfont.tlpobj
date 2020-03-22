@@ -1,0 +1,23 @@
+name foekfont
+category Package
+revision 15878
+shortdesc The title font of the Mads Fok magazine
+longdesc The bundle provides an Adobe Type 1 font, and LaTeX support for
+longdesc its use. The magazine web site shows the font in use in a few
+longdesc places.
+execute addMap foekfont.map
+containersize 8752
+containerchecksum 45342633aec41f2a5fe7213dc418960d76ff196a08b906965e3b68f2c5ed264b3192ea45756133f12662e451fcad11d08232995c0de2493495c40b9b59cef7ea
+doccontainersize 95112
+doccontainerchecksum 7e1aa7a240d825c014be6af7be5cd7c1bbcbc6e52bd55be36f987b4a25223179bcc4c4d342906c10f9df624536252fe4dc5a45cd3b5ddb63f91e9f4c7401a239
+runfiles size=8
+ texmf-dist/fonts/map/dvips/foekfont/foekfont.map
+ texmf-dist/fonts/tfm/public/foekfont/foekfont.tfm
+ texmf-dist/fonts/type1/public/foekfont/FoekFont.pfb
+ texmf-dist/tex/latex/foekfont/foekfont.sty
+ texmf-dist/tex/latex/foekfont/ot1foekfont.fd
+ texmf-dist/tex/latex/foekfont/t1foekfont.fd
+catalogue-ctan /fonts/foekfont
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font font-novelty font-type1

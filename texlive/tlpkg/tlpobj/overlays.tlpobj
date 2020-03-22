@@ -1,0 +1,21 @@
+name overlays
+category Package
+revision 46122
+shortdesc Incremental slides
+longdesc The overlay package allows to write presentations with
+longdesc incremental slides. It does not presuppose any specific
+longdesc document class. Rather, it is a lightweight alternative to
+longdesc full-fledged presentation classes like beamer. The package
+longdesc requires xcolor, environ, and pgffor (from the pgf bundle).
+containersize 2440
+containerchecksum 6ee154baa88428dfa149de77fa12e9d37ba6e5dda7c54f5e7f28b9d274be7457ae9a71484f3cc588a0797d4209bdef37a15de9e3175f0708711a54a845274084
+doccontainersize 105112
+doccontainerchecksum 3e9962fb56116a4cfbaf0e54e95a3129aa2414be617a12cda9b0d6199afa24021ab9fb1f8d5ddbad8edd7af915c1b80ee42504ab7873385a391916c96fefd6c8
+runfiles size=2
+ texmf-dist/tex/latex/overlays/overlays.sty
+catalogue-also beamer
+catalogue-ctan /macros/latex/contrib/overlays
+catalogue-date 2017-12-22 07:37:34 +0100
+catalogue-license lppl1.3
+catalogue-topics presentation
+catalogue-version 2.10

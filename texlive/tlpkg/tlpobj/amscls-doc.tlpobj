@@ -1,0 +1,27 @@
+name amscls-doc
+category Package
+revision 46110
+shortdesc User documentation for AMS document classes
+longdesc This collection comprises a set of four manuals, or Author
+longdesc Handbooks, each documenting the use of a class of publications
+longdesc based on one of the AMS document classes amsart, amsbook,
+longdesc amsproc and one "hybrid", as well as a guide to the generation
+longdesc of the four manuals from a coordinated set of LaTeX source
+longdesc files. The Handbooks comprise the user documentation for the
+longdesc pertinent document classes. As the source for the Handbooks
+longdesc consists of a large number of files, and the intended output is
+longdesc multiple different documents, the principles underlying this
+longdesc collection can be used as a model for similar projects. The
+longdesc manual "Compiling the AMS Author Handbooks" provides
+longdesc information about the structure of and interaction between the
+longdesc various components.
+containersize 796
+containerchecksum 132432f34812f009233392ea29d6c4145717a80ea305632687da30de6969dcef8af9c2aa88cbf1809dd34b0c3dfca0f40a52b6216a7370f2a225b2602d0bbaf3
+doccontainersize 1743776
+doccontainerchecksum 8c08813abf65f00b68441d1e5cad3eb4a16fc1a77b30e10d96e22f34d6af547804af4d47b62ef0dfc895e2bc7cc5ecf7bc08d912448fefefbf716430c4502a64
+catalogue-also amscls
+catalogue-contact-support mailto:tech-support@ams.org
+catalogue-ctan /info/amscls-doc
+catalogue-date 2019-01-24 19:11:47 +0100
+catalogue-license lppl1.3c
+catalogue-topics docu-pkg maths-doc scientific-docs

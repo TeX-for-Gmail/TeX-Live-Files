@@ -1,0 +1,91 @@
+name oldstandard
+category Package
+revision 41735
+shortdesc Old Standard: A Unicode Font for Classical and Medieval Studies
+longdesc Old Standard is designed to reproduce the actual printing style
+longdesc of the early 20th century, reviving a specific type of Modern
+longdesc (classicist) style of serif typefaces, very commonly used in
+longdesc various editions of the late 19th and early 20th century, but
+longdesc almost completely abandoned later. The font supports
+longdesc typesetting of Old and Middle English, Old Icelandic, Cyrillic
+longdesc (with historical characters, extensions for Old Slavonic and
+longdesc localised forms), Gothic transliterations, critical editions of
+longdesc Classical Greek and Latin, and many more. Old Standard works
+longdesc with TeX engines that directly support OpenType features, such
+longdesc as XeTeX and LuaTeX.
+execute addMap OldStandard.map
+containersize 1207824
+containerchecksum 4bed370a641cddad586b3313bb63c75dd5d2cf50af1bba5618bf9cdbd9390b62cf9acba11903370cd9a94aedcd04bfe62b837e27d4d719cac07fcc5a974428ae
+doccontainersize 1197036
+doccontainerchecksum fd2798a62143cf66650249cb8c0682f07ce2b74acfa93654470ffa7f5cf58d8b4a9460840f013ed148ea3f7a2ccbe1ed17dc3fea9c35a933e43d91bfb8fd4242
+runfiles size=459
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_26r254.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_dgnoxb.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_dgu773.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_dpv76i.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_hn3tfb.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_lb4p2v.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_sfa7gz.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_urxscd.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_wf5qbf.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_wle65k.enc
+ texmf-dist/fonts/enc/dvips/oldstandard/ost_yewge3.enc
+ texmf-dist/fonts/map/dvips/oldstandard/OldStandard.map
+ texmf-dist/fonts/opentype/public/oldstandard/OldStandard-Bold.otf
+ texmf-dist/fonts/opentype/public/oldstandard/OldStandard-Italic.otf
+ texmf-dist/fonts/opentype/public/oldstandard/OldStandard-Regular.otf
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-sup-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-sup-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-sup-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-sup-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Bold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-sup-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-sup-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-sup-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-sup-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-sup-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-sup-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-sup-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-sup-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-t1.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/public/oldstandard/OldStandard-Regular-tlf-ts1.tfm
+ texmf-dist/fonts/type1/public/oldstandard/OldStandard-Bold.pfb
+ texmf-dist/fonts/type1/public/oldstandard/OldStandard-Italic.pfb
+ texmf-dist/fonts/type1/public/oldstandard/OldStandard-Regular.pfb
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Bold-sup-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Bold-tlf-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Bold-tlf-ts1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Italic-sup-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Regular-sup-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Regular-tlf-t1.vf
+ texmf-dist/fonts/vf/public/oldstandard/OldStandard-Regular-tlf-ts1.vf
+ texmf-dist/tex/latex/oldstandard/LY1OldStandard-Sup.fd
+ texmf-dist/tex/latex/oldstandard/LY1OldStandard-TLF.fd
+ texmf-dist/tex/latex/oldstandard/OT1OldStandard-Sup.fd
+ texmf-dist/tex/latex/oldstandard/OT1OldStandard-TLF.fd
+ texmf-dist/tex/latex/oldstandard/OldStandard.sty
+ texmf-dist/tex/latex/oldstandard/T1OldStandard-Sup.fd
+ texmf-dist/tex/latex/oldstandard/T1OldStandard-TLF.fd
+ texmf-dist/tex/latex/oldstandard/TS1OldStandard-TLF.fd
+catalogue-ctan /fonts/oldstandard
+catalogue-date 2016-07-20 09:11:51 +0200
+catalogue-license ofl
+catalogue-topics font font-serif font-type1 font-otf
+catalogue-version 2.2

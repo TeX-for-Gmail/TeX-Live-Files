@@ -1,0 +1,15 @@
+name einfuehrung
+category Package
+revision 29349
+shortdesc Examples from the book Einfuhrung in LaTeX
+longdesc The bundle consists of examples and data files for the
+longdesc DANTE-Edition book "Einfuhrung in LaTeX"
+containersize 464
+containerchecksum e346283ecfc6ca35684267e8b11f2800c6715378d84c4896e4d29557fbd97e57665a45503e7cab7cb7def679914b7d737a222e05eaccf543d8d2f7370ed49792
+doccontainersize 159080
+doccontainerchecksum 1c012e15159a2c4940cb7bbcb17bf3675c2b2028e939acd3b1c98ff2cc377b55a602f404900cd4eae3f03de74a98d61f6db0de9ad90e8598d9f49b398b5a6a83
+catalogue-contact-home http://www.dante.de/index/Literatur/Einfuehrung.html
+catalogue-ctan /info/examples/Einfuehrung
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics book-ex

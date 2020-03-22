@@ -1,0 +1,27 @@
+name bewerbung
+category Package
+revision 37880
+shortdesc Typesetting job application
+longdesc The package provides packages and classes for typesetting
+longdesc applications with titlepage, letter, cv and additional
+longdesc documents in just a single document. The data for the
+longdesc application can be edited in a simple csv file.
+containersize 9872
+containerchecksum a82ffeb4fc7fa5bc42f06476df0c985d59d70c81b34ab50f10cf2117f8861a09b90ef3f53bee78291842a46fbc15bc40663d65b88c7c682c72b25fc86ccff2bd
+doccontainersize 803952
+doccontainerchecksum d9fb4f9da944e132187fce6e987be8eb0ef08cce80ce63e8813c1af8738dad61a93aa7c2e214b3ac0b77c980f8a000251ab9536c8a7557b9c7cdf66ae42fcbcd
+srccontainersize 25492
+srccontainerchecksum 260f6f1b5484358c7b558f8b78ca68ec5ac691fa367e634e5fe6f29b06ea9eeee868bce9e10717971d85c5ac23b71d853ed746842ad7674f7e913cf16b9def47
+runfiles size=18
+ texmf-dist/tex/latex/bewerbung/argetabelle.cls
+ texmf-dist/tex/latex/bewerbung/bewerbung-cv-casual.sty
+ texmf-dist/tex/latex/bewerbung/bewerbung-cv-classic.sty
+ texmf-dist/tex/latex/bewerbung/bewerbung-cv-oldstyle.sty
+ texmf-dist/tex/latex/bewerbung/bewerbung-cv.sty
+ texmf-dist/tex/latex/bewerbung/bewerbung.cls
+ texmf-dist/tex/latex/bewerbung/bewerbung.sty
+catalogue-ctan /macros/latex/contrib/bewerbung
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics cv class
+catalogue-version 1.1

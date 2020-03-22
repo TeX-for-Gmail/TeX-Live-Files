@@ -1,0 +1,27 @@
+name datenumber
+category Package
+revision 18951
+shortdesc Convert a date into a number and vice versa
+longdesc This package provides commands to convert a date into a number
+longdesc and vice versa. Additionally there are commands for
+longdesc incrementing and decrementing a date. Leap years and the
+longdesc Gregorian calendar reform are considered.
+containersize 3328
+containerchecksum f87518683c9820e816f33e535bc8e5d7e31fcda124178593f9635b040151d1f43f6eeb4d69ca974b847c97efcf19fa94f571d5534dfdc8ac0e40d711d26190b3
+doccontainersize 94372
+doccontainerchecksum b9c156b19bd6abbb3f996495dcda633172f8e559add744ebe25bb58070ba06bc233c2dda54c93415da14aecc30d2888241bf9b80c0dc5922b46cd3ee05865701
+srccontainersize 5664
+srccontainerchecksum ffeea9042501496e815db5c90cf8a99931fe96bb8dbae6e2551994242336892567c140ed352ddf962d1f144844960eaf03187aec6869780a2c3e218446940174
+runfiles size=8
+ texmf-dist/tex/latex/datenumber/datenumber.sty
+ texmf-dist/tex/latex/datenumber/datenumberUSenglish.ldf
+ texmf-dist/tex/latex/datenumber/datenumberdummy.ldf
+ texmf-dist/tex/latex/datenumber/datenumberenglish.ldf
+ texmf-dist/tex/latex/datenumber/datenumberfrench.ldf
+ texmf-dist/tex/latex/datenumber/datenumbergerman.ldf
+ texmf-dist/tex/latex/datenumber/datenumberspanish.ldf
+catalogue-ctan /macros/latex/contrib/datenumber
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics date-time
+catalogue-version 0.02

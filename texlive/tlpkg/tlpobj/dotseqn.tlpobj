@@ -1,0 +1,22 @@
+name dotseqn
+category Package
+revision 17195
+shortdesc Flush left equations with dotted leaders to the numbers
+longdesc The package provides a different format for typesetting
+longdesc equations, one reportedly used in 'old style Britsh books':
+longdesc equations aligned on the left, with dots on the right leading
+longdesc to the equation number. In default of an equation number, the
+longdesc package operates much like the fleqn class option (no leaders).
+containersize 1856
+containerchecksum 794be5110d50ff9134471aedec8adaf7267f112012d962ee6e1cd7ddaa36cc37d993517cf4663686c90df891fe2e912d260cc9c9945aaee25925c2915afcc45f
+doccontainersize 131816
+doccontainerchecksum aeb026d83497b78725d623b52223877d4d5a0a745312511f007d69395b87ba5362904cfa26bb24f2f2c7d0e0ae14bb82699d6108533260d736c0e85bc29ceff2
+srccontainersize 5480
+srccontainerchecksum 7cd2a4a2001a38e999e0632222116f32b559d8f004c9e378493d84486028e5c1cd5268f63a0eb93f9d1402b2c2e11b2db2429547f300809cca3d9f39efd6b17e
+runfiles size=1
+ texmf-dist/tex/latex/dotseqn/dotseqn.sty
+catalogue-ctan /macros/latex/contrib/dotseqn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics maths
+catalogue-version 1.1

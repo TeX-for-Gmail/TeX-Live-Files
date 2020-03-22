@@ -1,0 +1,21 @@
+name egameps
+category Package
+revision 15878
+shortdesc LaTeX package for typesetting extensive games
+longdesc The style is intended to have enough features to draw any
+longdesc extensive game with relative ease. The facilities of PSTricks
+longdesc are used for graphics. (An older version of the package, which
+longdesc uses the LaTeX picture environment rather than PSTricks and
+longdesc consequently has many fewer features is available on the
+longdesc package home page.)
+containersize 6516
+containerchecksum b8d1c056783c4a71484a00f0d80de4eb9de3beaa54cc4dc71e5a7c171871b5dacba753ad03ab196661b1bd73cf9d2eaf202a813b73bea405f807319a143644cb
+doccontainersize 137460
+doccontainerchecksum 0216a85d539ab19aef8c2c4f313f5095aa39e4955ae9610c14d0243081b7af98f50a74a2f7720b376493e660a5486f83e69b41f8cb8017ff66a8e706eb9ca71b
+runfiles size=11
+ texmf-dist/tex/latex/egameps/egameps.sty
+catalogue-ctan /macros/latex/contrib/egameps
+catalogue-date 2018-09-15 11:29:33 +0200
+catalogue-license lppl
+catalogue-topics games graphics-in-tex
+catalogue-version 1.1

@@ -1,0 +1,24 @@
+name auto-pst-pdf
+category Package
+revision 23723
+shortdesc Wrapper for pst-pdf (with some psfrag features)
+longdesc The package uses --shell-escape to execute pst-pdf when
+longdesc necessary. This makes it especially easy to integrate into the
+longdesc workflow of an editor with just "LaTeX" and "pdfLaTeX" buttons.
+longdesc Wrappers are provided for various psfrag-related features so
+longdesc that Matlab figures via laprint, Mathematica figures via
+longdesc MathPSfrag, and regular psfrag figures can all be input
+longdesc consistently and easily.
+containersize 2596
+containerchecksum 383de50023906861e45b9d6330962e89513aac0448a06af36057d4266ac1657fc49f650dfc9d3709f5f50879e6912ea93246225651412e8c919fe3ce0eb77f58
+doccontainersize 318756
+doccontainerchecksum bb0682378d96bef60480b8155d1725b21c89c5be04ad1a6dc108da871d8e25001be0d696cbe806cd7e4d69a9005a54f71d601fd67e322f22dcb17d0dc6addfea
+srccontainersize 7656
+srccontainerchecksum fa24b5a7daf996b05384537fe90a17204b299d5fd837cdafef3bb338e9a9c06b3eae369271ffe3d090cadfcbf4d4b3979ad17aef908aab374b5d1c0465952c1e
+runfiles size=2
+ texmf-dist/tex/latex/auto-pst-pdf/auto-pst-pdf.sty
+catalogue-ctan /macros/latex/contrib/auto-pst-pdf
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-epspdf
+catalogue-version 0.6

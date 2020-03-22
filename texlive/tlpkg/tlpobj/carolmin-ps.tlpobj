@@ -1,0 +1,32 @@
+name carolmin-ps
+category Package
+revision 15878
+catalogue carolmin-t1
+shortdesc Adobe Type 1 format of Carolingian Minuscule fonts
+longdesc The bundle offers Adobe Type 1 format versions of Peter
+longdesc Wilson's Carolingian Minuscule font set (part of the bookhands
+longdesc collection). The fonts in the bundle are ready-to-use
+longdesc replacements for the Metafont originals.
+execute addMap cmin.map
+containersize 105236
+containerchecksum 61ae809b5e4e7ff493de30ebb825870ab9caa8dc64d6d3c82d4654fece82dece4937c798e3c1e5086a84411edbcaf8c2ea777a9534865b38d4bc5457ae59aa25
+doccontainersize 520
+doccontainerchecksum 284d9f740d1e4b1a4c989b527bac80e54afa74013d1234bf9e1c2d42ac2ca4387c3b0d24004818e1fb92b001582114a4432480804c721cc7df0bd3b85835f111
+runfiles size=38
+ texmf-dist/fonts/afm/public/carolmin-ps/cmin10.afm
+ texmf-dist/fonts/afm/public/carolmin-ps/cmin17.afm
+ texmf-dist/fonts/afm/public/carolmin-ps/cmin7.afm
+ texmf-dist/fonts/afm/public/carolmin-ps/cminb10.afm
+ texmf-dist/fonts/afm/public/carolmin-ps/cminb17.afm
+ texmf-dist/fonts/afm/public/carolmin-ps/cminb7.afm
+ texmf-dist/fonts/map/dvips/carolmin-ps/cmin.map
+ texmf-dist/fonts/type1/public/carolmin-ps/cmin10.pfb
+ texmf-dist/fonts/type1/public/carolmin-ps/cmin17.pfb
+ texmf-dist/fonts/type1/public/carolmin-ps/cmin7.pfb
+ texmf-dist/fonts/type1/public/carolmin-ps/cminb10.pfb
+ texmf-dist/fonts/type1/public/carolmin-ps/cminb17.pfb
+ texmf-dist/fonts/type1/public/carolmin-ps/cminb7.pfb
+catalogue-ctan /fonts/carolmin-ps
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-bookhand font-type1

@@ -1,0 +1,8 @@
+name sty2dtx.x86_64-linux
+category Package
+revision 21215
+shortdesc x86_64-linux files of sty2dtx
+containersize 340
+containerchecksum ea675926db6dde5dfabb1e688b2bd1b6ed0b3db4a3d02defb5ce4db15e7d9a99269da31e8dff78285a19197333973bc04b00ef429b0beeefd809c1d371d5f37b
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/sty2dtx

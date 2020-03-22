@@ -1,0 +1,19 @@
+name textgreek
+category Package
+revision 44192
+shortdesc Upright greek letters in text
+longdesc Use upright greek letters as text symbols, e.g. \textbeta.
+depend greek-fontenc
+containersize 2624
+containerchecksum 2370f666c2cef43a579e32a755675431717ccfb4bad6f30261a6c67e0617816ffc272c25e0d076d91c4047c41926c92ae375507f36f2fab01673bd7e708f5188
+doccontainersize 459404
+doccontainerchecksum 9107ca31b645977d56a3b1e37f7b12f0302b1b2531bd2a21883f7931831e70c4383beae77469aab4663253da3109cdd9c53589cbab95f7f0126389d12509127f
+srccontainersize 8180
+srccontainerchecksum 367b63cd318c1e69944444f4cab82af7a7b1dde667d6469ade4c6433960b21a6f8922280d5a46e96fc88ddf4c2d5d3f3a440b55045a67512459208ae181bda96
+runfiles size=3
+ texmf-dist/tex/latex/textgreek/textgreek.sty
+catalogue-ctan /macros/latex/contrib/textgreek
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics text-symbol
+catalogue-version 0.7

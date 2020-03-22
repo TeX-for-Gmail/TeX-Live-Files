@@ -1,0 +1,67 @@
+name arimo
+category Package
+revision 42880
+shortdesc Arimo sans serif fonts with LaTeX support
+longdesc The Arimo family, designed by Steve Matteson, is an innovative,
+longdesc refreshing sans serif design which is metrically compatible
+longdesc with Arial.
+execute addMap arimo.map
+containersize 2905304
+containerchecksum 9dfd102a7a58778bdbea8fc9aa8688dce24bc0a8106121da5f5d57246bc72b4c6c5ac11089a496399dab273680da2b4d2735d40bcd2277b555eca67ff936d991
+doccontainersize 29500
+doccontainerchecksum 481649673936e5a05195b2fbaa7c7a3a702e23ac6998537a7c2b3c53b3a87ef1e1b0234c4254f737ee10bf8809ec03b524ae8e06d3e1ca3bca641d58746afcad
+runfiles size=1027
+ texmf-dist/fonts/enc/dvips/arimo/arm_7miqnq.enc
+ texmf-dist/fonts/enc/dvips/arimo/arm_c3z4r2.enc
+ texmf-dist/fonts/enc/dvips/arimo/arm_f4duzd.enc
+ texmf-dist/fonts/enc/dvips/arimo/arm_l3opzb.enc
+ texmf-dist/fonts/map/dvips/arimo/arimo.map
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Bold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-BoldItalic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-t1.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/google/arimo/Arimo-tlf-ts1.tfm
+ texmf-dist/fonts/truetype/google/arimo/Arimo-Bold.ttf
+ texmf-dist/fonts/truetype/google/arimo/Arimo-BoldItalic.ttf
+ texmf-dist/fonts/truetype/google/arimo/Arimo-Italic.ttf
+ texmf-dist/fonts/truetype/google/arimo/Arimo-Regular.ttf
+ texmf-dist/fonts/type1/google/arimo/Arimo-Bold.pfb
+ texmf-dist/fonts/type1/google/arimo/Arimo-BoldItalic.pfb
+ texmf-dist/fonts/type1/google/arimo/Arimo-Italic.pfb
+ texmf-dist/fonts/type1/google/arimo/Arimo.pfb
+ texmf-dist/fonts/vf/google/arimo/Arimo-Bold-tlf-t1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-Bold-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-BoldItalic-tlf-t1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-BoldItalic-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-tlf-t1.vf
+ texmf-dist/fonts/vf/google/arimo/Arimo-tlf-ts1.vf
+ texmf-dist/tex/latex/arimo/LY1Arimo-TLF.fd
+ texmf-dist/tex/latex/arimo/OT1Arimo-TLF.fd
+ texmf-dist/tex/latex/arimo/T1Arimo-TLF.fd
+ texmf-dist/tex/latex/arimo/TS1Arimo-TLF.fd
+ texmf-dist/tex/latex/arimo/arimo.sty
+catalogue-ctan /fonts/arimo
+catalogue-date 2017-01-10 05:17:21 +0100
+catalogue-license apache2
+catalogue-topics font font-type1 font-virtual font-ttf

@@ -1,0 +1,20 @@
+name delimtxt
+category Package
+revision 16549
+shortdesc Read and parse text tables
+longdesc This experimental package can read and parse text tables
+longdesc delimited by user-defined tokens (e.g., tab). It can be used
+longdesc for serial letters and the like, making it easier to export the
+longdesc data file from MS-Excel/MS-Word
+containersize 2040
+containerchecksum 25332ff7d2602047938630668c849829844fcbd622f911542bccd59d2eb1293e406cc79aca08ac3acaa98828b4a6fa4da98feb08fdf678ad3863c70cc2fc1817
+doccontainersize 44696
+doccontainerchecksum cd9363d8d44309c2ca51431bae067d87c790180eb884888144cd089cc9c14f83e1e7ea2389650d547e47d4575755a5b6b369e82b76cc19150b1dc973e99109fe
+srccontainersize 3764
+srccontainerchecksum 487557d866b99ec0fed6d9bf18c4bdaffa4ad6a8294cd2e9c681a4f65fbba051a97577b82e7170464daf4eb9f154e66478f46512331e1f4f41b48e61d65a86a3
+runfiles size=2
+ texmf-dist/tex/latex/delimtxt/delimtxt.sty
+catalogue-ctan /macros/latex/exptl/delimtxt
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics foreign-import

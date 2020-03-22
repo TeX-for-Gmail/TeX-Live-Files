@@ -1,0 +1,24 @@
+name pmxchords
+category Package
+revision 39249
+shortdesc Produce chord information to go with pmx output
+longdesc The bundle supplements pmx, providing the means of typesetting
+longdesc chords above the notes of a score. The bundle contains: macros
+longdesc for typing the chords; a Lua script to transpose chord macros
+longdesc to the required key signature; and support scripts for common
+longdesc requirements.
+depend pmxchords.ARCH
+containersize 5552
+containerchecksum 0a8f4a88834eb22d3f11ca567f37189af7834370530c6dbca4d83482e94cfb48b128bc1290e7f3ee718bffb4df445a300ddf5081805f88002f53bcf8b434bb3c
+doccontainersize 404060
+doccontainerchecksum d4075306620fa1ce037a37b9d2646d197348f6482e1286ff6fd99641a8b441b3d830a1420dbf6c025b8d11af78363b717a1acc7ea6b9e2954aa4f11ef04452ad
+runfiles size=9
+ texmf-dist/scripts/pmxchords/ChordsTr.lua
+ texmf-dist/scripts/pmxchords/pmxchords.lua
+ texmf-dist/tex/generic/pmxchords/chords.tex
+ texmf-dist/tex/generic/pmxchords/chordsCZ.tex
+catalogue-ctan /support/pmxchords
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics use-lua music
+catalogue-version 2.0.2

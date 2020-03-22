@@ -1,0 +1,24 @@
+name ffslides
+category Package
+revision 38895
+shortdesc Freeform slides based on the article class
+longdesc The ffslides ("freeform slides") class is intended to make it
+longdesc easier to place various types of content freely on the page,
+longdesc and therefore easier to design documents with a strong visual
+longdesc component: presentations, posters, research or lecture notes,
+longdesc and so on. The goal of the class is to be less rigid and less
+longdesc complex than some of the popular presentation-making options.
+longdesc It is essentially a small set of macros added to the article
+longdesc class. A well-organized template file is included, and the
+longdesc documentation is itself an extensive example of the class's
+longdesc capabilities.
+containersize 4952
+containerchecksum 393903c180f2fd554178c909bf9a4c060707d8f2fac44022b4811526c7b505a0354afed77f8ae0fa3fbcebed3918a6b46f9e81206be78d7ed6b1c959cd3473a2
+doccontainersize 381912
+doccontainerchecksum 4a8e176b7bce3d54464a30497e41d5a899905a0029199710aedca7234612092f0b2e265a465084536434c9b8c7f45eec3f2ac3df5eef66cecfdae5cdae36c798
+runfiles size=4
+ texmf-dist/tex/latex/ffslides/ffslides.cls
+catalogue-ctan /macros/latex/contrib/ffslides
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics presentation

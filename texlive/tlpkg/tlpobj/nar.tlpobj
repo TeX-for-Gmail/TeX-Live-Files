@@ -1,0 +1,16 @@
+name nar
+category Package
+revision 38100
+shortdesc BibTeX style for Nucleic Acid Research
+longdesc This BibTeX bibliography style is for the journal Nucleic Acid
+longdesc Research. It was adapted from the standard unsrt.bst style
+longdesc file.
+containersize 6324
+containerchecksum 212f1a002743ba14eac41de05a88325533db8b25d9f12b141064b9aa98f78dd5c28caa7cdaa4419829e6180e56ff93e42b069cdebb52fb8ef40c9652b8a23c79
+runfiles size=6
+ texmf-dist/bibtex/bst/nar/nar.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/nar.bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics bibtex-sty journalpub
+catalogue-version 3.19

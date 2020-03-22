@@ -1,0 +1,42 @@
+name graphics
+category Package
+revision 47350
+catalogue latex-graphics
+shortdesc The LaTeX standard graphics bundle
+longdesc This is a collection of LaTeX packages for: producing colour
+longdesc including graphics (eg PostScript) files rotation and scaling
+longdesc of text in LaTeX documents. It comprises the packages color,
+longdesc graphics, graphicx, trig, epsfig, keyval, and lscape.
+depend graphics-cfg
+containersize 14580
+containerchecksum 0ae7fab6fc82e3aa2b94110c5f7b7a86a0e1e47396fda91882f87c55a9b733d1d80f48058fb94c5024497faa40691e41c71efb87d0bb7c91c4b4667fc1ce08b2
+doccontainersize 1998360
+doccontainerchecksum 2e22b113f4f07783652dd25845a2ef6c7f804387b160b33bc2f668f9a1f392a6a9910a066d0ddf2dc4119ce9a975348d30f7230d416aaa377b5b2b728e0ee3db
+srccontainersize 51020
+srccontainerchecksum 8af27232e41a1176fbbf20b38c600f37ef2b43d5a33a28c4941b764c81ce9bc2a30824e92401625fdd2a83c228df447c7d1aaae0e3648400adde492907a8991c
+runfiles size=31
+ texmf-dist/tex/latex/graphics/color.sty
+ texmf-dist/tex/latex/graphics/dvipdf.def
+ texmf-dist/tex/latex/graphics/dvipsnam.def
+ texmf-dist/tex/latex/graphics/dvipsone.def
+ texmf-dist/tex/latex/graphics/dviwin.def
+ texmf-dist/tex/latex/graphics/emtex.def
+ texmf-dist/tex/latex/graphics/epsfig.sty
+ texmf-dist/tex/latex/graphics/graphics.sty
+ texmf-dist/tex/latex/graphics/graphicx.sty
+ texmf-dist/tex/latex/graphics/keyval.sty
+ texmf-dist/tex/latex/graphics/lscape.sty
+ texmf-dist/tex/latex/graphics/pctex32.def
+ texmf-dist/tex/latex/graphics/pctexhp.def
+ texmf-dist/tex/latex/graphics/pctexps.def
+ texmf-dist/tex/latex/graphics/pctexwin.def
+ texmf-dist/tex/latex/graphics/rotating.sty
+ texmf-dist/tex/latex/graphics/tcidvi.def
+ texmf-dist/tex/latex/graphics/trig.sty
+ texmf-dist/tex/latex/graphics/truetex.def
+catalogue-contact-bugs https://www.latex-project.org/bugs/
+catalogue-contact-home https://www.latex-project.org/
+catalogue-ctan /macros/latex/required/graphics
+catalogue-date 2018-04-07 07:05:08 +0200
+catalogue-license lppl1.3c
+catalogue-topics collection

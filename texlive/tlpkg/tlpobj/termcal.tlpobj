@@ -1,0 +1,26 @@
+name termcal
+category Package
+revision 22514
+shortdesc Print a class calendar
+longdesc This package is intended to print a term calendar for use in
+longdesc planning a class. It has a flexible mechanism for specifying
+longdesc which days of the week are to be included and for inserting
+longdesc text either regularly on the same day each week, or on selected
+longdesc days, or for a series of consecutive days. It also has a
+longdesc flexible mechanism for specifing class and nonclass days. Text
+longdesc may be inserted into consecutive days so that it automatically
+longdesc flows around nonclass days.
+containersize 2616
+containerchecksum f28ee31f06cf2b3119df8010aa6a8312d5365452e19c3a278db7bee3bdeafe9ae0d3b07decdf1a104d8eb763abc5e02ff0e6c7030dce924596ac89d8e9508e13
+doccontainersize 75500
+doccontainerchecksum 44f54dedd59afad78eea60ccfd43805dca1a4dc87a3d827e0fda26db15505dec18d91cf0629ec937dcf3eb14d1244f80559a0fa1ef09b30288bf687099fcec1f
+srccontainersize 7624
+srccontainerchecksum 0dd39a06088a0bd2bbcc3a9d6715816368deb07c55c85897f7c49d23553ff941f5f68d7b0ebf8fc54c4fd4d2bb8a510cec3ac9d9b509f27aeee29696c75a7ef2
+runfiles size=2
+ texmf-dist/tex/latex/termcal/termcal.sty
+catalogue-also calendar kalender plcalendar
+catalogue-ctan /macros/latex/contrib/termcal
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics calendar
+catalogue-version 1.8

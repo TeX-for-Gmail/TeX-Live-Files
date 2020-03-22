@@ -1,0 +1,17 @@
+name ling-macros
+category Package
+revision 42268
+shortdesc Macros for typesetting formal linguistics
+longdesc This package contains macros for typesetting glosses and formal
+longdesc expressions. It covers a range of subfields in formal
+longdesc linguistics.
+containersize 5428
+containerchecksum 686dbb33df2670af909a80863943a8870ecef128679ab679f3d90d1747042b752c9aea15660c962b0f02418233d4d152e64357d5b57884a2fc2371acb3d90a52
+doccontainersize 306420
+doccontainerchecksum fe424a7db4be743168c4b1016fc25c95d33cf9d66767b39db0e79a5ba1bb667c76b9b5f10b23a08449362a3fef281d60f0b53e2b0f196846efe9f4765f3f08c6
+runfiles size=5
+ texmf-dist/tex/latex/ling-macros/ling-macros.sty
+catalogue-ctan /macros/latex/contrib/ling-macros
+catalogue-date 2016-10-17 05:04:23 +0200
+catalogue-license lppl1.3
+catalogue-topics linguistic

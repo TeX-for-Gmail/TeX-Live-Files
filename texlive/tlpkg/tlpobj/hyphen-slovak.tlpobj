@@ -1,0 +1,20 @@
+name hyphen-slovak
+category TLCore
+revision 50792
+shortdesc Slovak hyphenation patterns.
+longdesc Hyphenation patterns for Slovak in T1/EC and UTF-8 encodings.
+longdesc Original patterns 'skhyphen' are still distributed in the
+longdesc 'csplain' package and loaded with ISO Latin 2 encoding (IL2).
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=slovak 	lefthyphenmin=2 	righthyphenmin=3 	file=loadhyph-sk.tex 	file_patterns=hyph-sk.pat.txt 	file_exceptions=hyph-sk.hyp.txt
+containersize 11012
+containerchecksum 3440e008c82b53314d6ba7e4db00f0d253448909215cbcf30fd2495c5eca23fbcae4cf68dbf2fd5460626054056d42dd72b1b5c57312ec5d3da8de9be902f8fa
+runfiles size=21
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-sk.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-sk.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-sk.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-sk.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-sk.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-sk.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-sk.pat.txt

@@ -1,0 +1,20 @@
+name pst-pulley
+category Package
+revision 45316
+shortdesc Plot pulleys, using PSTricks
+longdesc The package enables the user to draw pulley systems with up to
+longdesc 6 pulleys. The pulley diagrams are labelled with the physical
+longdesc properties of the system. The package uses pstricks and
+longdesc requires several PSTricks-related packages.
+containersize 4764
+containerchecksum 4253283884b3cc36801dd7d462655d3cccbdaa70af0219765a3225c8b928e49cf0964d4db4728ef01e06ed33865facc46bd767f4d1cdbddfbaf0213e4ead012e
+doccontainersize 122132
+doccontainerchecksum 28a4654d2219e056ab1a53bc0fbb60feb919b3dc26b1e542b561cdb6d3f0b1abd050afdaa99a9ba5b374462cc451c1681622f6c6c3f6aef26738a36a845648a2
+runfiles size=16
+ texmf-dist/tex/generic/pst-pulley/pst-pulley.tex
+ texmf-dist/tex/latex/pst-pulley/pst-pulley.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-pulley
+catalogue-date 2018-09-15 13:11:53 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-use pstricks diagram
+catalogue-version 0.02

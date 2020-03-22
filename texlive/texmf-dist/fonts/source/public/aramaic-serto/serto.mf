@@ -1,0 +1,51 @@
+% Driver file for Serto font `serto.mf'
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Designed and (c) by Johannes Heinecke                                     %
+%                     <johannes(dot)heinecke(at)wanadoo(dot)fr>             %
+% Please send any improvements, corrections, suggestions, enhancements etc  %
+% to the Author!                                                            %
+%                                                                           %
+% Version 0.1 as of 1st November 2001                                       %
+%                                                                           %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+font_coding_scheme:="Serto - Syriac";
+mode_setup;
+if known cmbase: font_setup; fi         % If used with cmbase
+font_serto_setup;
+let sertochar=\;
+
+% fontmaking:=1;        % to generate a TFM File during proof-ing
+
+%% Zeichendefinitionsdateien %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+input sertofont;        % the serto alphabet
+%if unknown cmbase: input sertod; else: input romand; fi  % digits: if cmbase is
+                                                         % used this font will
+                                                         % load cm-digits, for
+                                                         % they are finer tuned.
+%if unknown cmbase: input sertop; else: input punct; fi   % The same for punctuation
+%input sertovoc;      % vowels
+
+%% Font-Parameter fuer TeX %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+font_quad 2.5stu#;                 % 1 em
+font_x_height 2stu#;           % 1 ex (used by syriac.sty to define accent position)
+font_normal_space 3stu#;           % word gap
+font_normal_stretch 2stu#;         % word gap may stretch by ...
+font_normal_shrink 1stu#;          % word gap my shrink by ...
+font_slant slant;
+
+% special "grayfont graylj";     % Only for GFtoDVI on emTeXs METAFONT
+
+%% Ligature-Tables %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% olaf-lamad
+ligtable 65 : 116 =: 171;
+
+%lamad-olaf initial
+ligtable 116 : 66 =: 172;
+
+%lamad-olaf final
+ligtable 115 : 66 =: 173;
+
+endinput;

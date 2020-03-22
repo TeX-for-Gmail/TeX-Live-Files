@@ -1,0 +1,24 @@
+name hrefhide
+category Package
+revision 22255
+shortdesc Suppress hyper links when printing
+longdesc This package provides the command \hrefdisplayonly (which
+longdesc provides a substitute for \href). While the (hyperlinked) text
+longdesc appears like an ordinary \href in the compiled PDF file, the
+longdesc same text will be "hidden" when printing the text. (Hiding is
+longdesc actually achieved by making the text the same colour as the
+longdesc background, thus preserving the layout of the rest of the
+longdesc text.)
+containersize 2412
+containerchecksum 6d96fdc550a99ed7f3e4dbee19a589c27b27af16f910a22befb51bfb452d8f9f57cbb27f1ecf96c5604e61eb1cd0343c0a07810ac1519dc51422183d6229916e
+doccontainersize 434460
+doccontainerchecksum a8ae0fbbb185ded46cbc1d7550526230de4098bf3a5bc8bf72ec8f5a5b4b93703501da19a4c9e09e08044aea768a01e39dfa36c38c9be72c7aee8e61f58acd71
+srccontainersize 11684
+srccontainerchecksum ed08bbabfdd78725060f3bac173d2819ddfe494e99d76abe02ffff755718caafc520e0336299c8c1dda0db1492089316e05b1b85c93c866b683703b471e845b4
+runfiles size=2
+ texmf-dist/tex/latex/hrefhide/hrefhide.sty
+catalogue-ctan /macros/latex/contrib/hrefhide
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics hyper
+catalogue-version 1.0f

@@ -1,0 +1,21 @@
+name xtab
+category Package
+revision 23347
+shortdesc Break tables across pages
+longdesc Xtab is an extended and somewhat improved version of
+longdesc supertabular; its xtabular environment provides tables that
+longdesc break across pages.
+containersize 4668
+containerchecksum e308d3ae3ae32b945450b319834dfac19b6006cb0ede7f21a91999b840528927aaca7cdc330a02ebad874602d6d268fd1fe609dcb52bef2757b2e0417310e012
+doccontainersize 362720
+doccontainerchecksum 10a158bf2d50fa89355654da36a179bbbc5d30ef3efa8a79537de66c50a892f540938cb364e45896dc079266d5e47bfc2c74b8cfe01ec1691cde34bc221e4ca2
+srccontainersize 19556
+srccontainerchecksum 0ae0bc4d96f8b7c4dd5bc62d56538ef5e8f5d8d8ecdb114759209dedc722a2aee1b646a27cff611bfd2ec9ac96f0633393cef9d3a13a6d54978740b28fcc09c6
+runfiles size=5
+ texmf-dist/tex/latex/xtab/xtab.sty
+catalogue-also longtable
+catalogue-ctan /macros/latex/contrib/xtab
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics table table-long
+catalogue-version 2.3f

@@ -1,0 +1,13 @@
+name microtype-de
+category Package
+revision 24549
+shortdesc Translation into German of the documentation of microtype
+containersize 388
+containerchecksum bd9b7ad26bf0d4125d1631a377328d934e6fb8b619e7040f6644a6df70bd43cfb8a93e8ce6b49afb90d824b73302d063bb23e67fa172d635e952b035510dd6f5
+doccontainersize 1378204
+doccontainerchecksum 1024c46f6b7dfdf4aae45090533087d1cb495d737856fdbd9691e7cbf489c19ce229d35ad55237e30998f154c9ef524c78068d338c236634df8922d50ae4fc17
+catalogue-ctan /info/translations/microtype/de
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license lppl1.3
+catalogue-topics translation german-doc typesetting
+catalogue-version 2.4

@@ -1,0 +1,23 @@
+name ytableau
+category Package
+revision 27430
+shortdesc Many-featured Young tableaux and Young diagrams
+longdesc The package provides several functions for drawing Young
+longdesc tableaux and Young diagrams, extending the young and youngtab
+longdesc packages but providing lots more features. Skew and coloured
+longdesc tableaux are easy, and pgfkeys-enabled options are provided
+longdesc both at package load and configurably.
+containersize 3060
+containerchecksum 2d9528c47b516213d0d8ea6341edc1772aa4a88a7db60d4506cbef107be034bcb9036b18f61a12e042e95bd9d0aea51b0ee696565841d2efb12b442756c48a30
+doccontainersize 360820
+doccontainerchecksum 47db377bfecce43d97e573360cfc65936664b5ea886b5bc0042b39e3a879becef0e9894c364a31cb4cda7420ba672c8f55e7936ae5b1d291259d8deb7a6d9f9d
+srccontainersize 15896
+srccontainerchecksum 02c2aff53daaec5161a9715de2e633d03dedc85664868d73c49dc0edc5c8b0bc696e3e8ab6d25f3420663fcff830581a7b2fdd0718a3c4928aa808ca3b1cbde3
+runfiles size=3
+ texmf-dist/tex/latex/ytableau/ytableau.sty
+catalogue-also youngtab young
+catalogue-ctan /macros/latex/contrib/ytableau
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics maths
+catalogue-version 1.3

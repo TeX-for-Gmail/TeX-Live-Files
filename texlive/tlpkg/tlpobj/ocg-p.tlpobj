@@ -1,0 +1,19 @@
+name ocg-p
+category Package
+revision 28803
+shortdesc PDF OCG support in LaTeX
+longdesc The package provides OCG (Optional Content Groups) support
+longdesc within a PDF document, replacing the ocg.sty distributed with
+longdesc asymptote. Nested OCGs are supported. The package may be used
+longdesc with pdfLaTeX and XeLaTeX.
+containersize 4368
+containerchecksum 23b0b4377ec615d8d334d09018629f524a775311c3d227b350e7dfe95c6154795d1d3e44e7e1e405d45b623ecc614892d0996631615efae2ad6f040c1c4d8dd0
+doccontainersize 499988
+doccontainerchecksum c51169bf3398b17f3dfd2e0aa0efb574cedf40c4739f1b4693f9282042fe9f024dd48675bdf5ec04895c49e0583ac436bfb36e12ac51ce89bc23ac587b3f92f7
+runfiles size=4
+ texmf-dist/tex/latex/ocg-p/ocg-p.sty
+catalogue-ctan /macros/latex/contrib/ocg-p
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics pdf-feat
+catalogue-version 0.4

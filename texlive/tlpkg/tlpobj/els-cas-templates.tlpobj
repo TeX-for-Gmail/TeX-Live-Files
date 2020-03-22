@@ -1,0 +1,24 @@
+name els-cas-templates
+category Package
+revision 50820
+shortdesc Elsevier CAS LaTeX templates
+longdesc This bundle provides two class and corresponding template files
+longdesc for typesetting journal articles supposed to go through
+longdesc Elsevier's Complex Article Service (CAS) workflow. One of the
+longdesc sets is meant for one-column, the other for two-column layout.
+longdesc These are now accepted for submitting articles both in
+longdesc Elsevier's electronic submission system and elsewhere.
+containersize 20096
+containerchecksum 23197c9c87b21b92dde909aac95128b0e92d1510a98479d739ee38cf05f5873538bc5d558181bbe62ddf24f5ec1e62a06bd42fd4b7abf73d99bd27bb70a566ea
+doccontainersize 547212
+doccontainerchecksum d32781a8dc8b9182f2e1ecaecc3a952bb4b05d596dacc6346a45730f0d43a1b786b175dc45d4acf15279f6b0795f4d7227ddcd350f32b0464f3debb1ddddd7ba
+runfiles size=29
+ texmf-dist/bibtex/bst/els-cas-templates/cas-model2-names.bst
+ texmf-dist/tex/latex/els-cas-templates/cas-common.sty
+ texmf-dist/tex/latex/els-cas-templates/cas-dc.cls
+ texmf-dist/tex/latex/els-cas-templates/cas-sc.cls
+catalogue-ctan /macros/latex/contrib/els-cas-templates
+catalogue-date 2019-04-05 18:15:15 +0200
+catalogue-license lppl1.2
+catalogue-topics class journalpub
+catalogue-version 1.0

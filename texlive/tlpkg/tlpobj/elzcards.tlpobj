@@ -1,0 +1,23 @@
+name elzcards
+category Package
+revision 44785
+shortdesc Typeset business cards, index cards and flash cards easily
+longdesc A package for typesetting business cards, index cards, and
+longdesc flash cards in an easy and flexible way, optionally also the
+longdesc reverse side. You will have to furnish the paper size, the
+longdesc desired size of your card, the printable area of your printer,
+longdesc and the design of the card. Everything else is taken care of by
+longdesc elzcards.
+containersize 3712
+containerchecksum 5bb4717c6fafbcbbf3862fbf85dfdfe8a77331da806c961142e6e233748378046f09e47ed710973ec07debeb4b4109fc43d3b4efb18c8949d56afcb1da67ec1d
+doccontainersize 162640
+doccontainerchecksum 5a1081d5e3c205630d09ae3bf7c7410106abf9d165174eb28608884191a1ae459bff52f3d8521e3e5ec0a92ffdcae1e7e14020e35eb0a6e6ce2f4ee9a0583545
+srccontainersize 10520
+srccontainerchecksum 6d12270f11cc314c72e81495c2ab98babcb0f3604a923b7c13cd9102935148b68c7f3d345797672f5a1bd9e66797381c3db361959e041746400abb2d5dc90684
+runfiles size=4
+ texmf-dist/tex/latex/elzcards/elzcards.sty
+catalogue-ctan /macros/latex/contrib/elzcards
+catalogue-date 2017-07-10 19:52:44 +0200
+catalogue-license lppl1.3
+catalogue-topics card-gen
+catalogue-version 1.23

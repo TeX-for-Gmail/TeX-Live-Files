@@ -1,0 +1,14 @@
+name undergradmath
+category Package
+revision 42926
+shortdesc LaTeX Math for Undergraduates cheat sheet
+longdesc This is a cheat sheet for writing mathematics with LaTeX. It is
+longdesc aimed at US undergraduates.
+containersize 424
+containerchecksum 1fa7b30670ff888b7b848b756b960690489aa7ea12e5cc5cc97b56061cc91c2fc4bb2ab0a3a2eaf13177baf760edf8bd7f222dbe02cc16ad7b53f57b4b4340fc
+doccontainersize 1479948
+doccontainerchecksum 5dfa5955c7e9ed8fe89f6ccfb4517e699861b95619fc2013631d457938d64bd56bf34718c29b154a46b8519ec61bb102963668b13bb414a3a7ab35b748a981c7
+catalogue-ctan /info/undergradmath
+catalogue-date 2017-01-12 05:19:00 +0100
+catalogue-license other-free
+catalogue-topics maths maths-doc maths-symbol

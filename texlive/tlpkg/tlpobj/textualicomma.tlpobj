@@ -1,0 +1,25 @@
+name textualicomma
+category Package
+revision 48474
+shortdesc Use the textual comma character as decimal separator in math mode
+longdesc The package is based on the icomma package, and intended as a
+longdesc solution for situations where the text comma character discerns
+longdesc from the math comma character, e. g. when fonts whithout math
+longdesc support are involved. Escaping to text mode every time a comma
+longdesc is used in math mode may slow down the compilation process.
+containersize 2008
+containerchecksum 044ef3451267bcb74d3e4162d19915b1b7f2fac337af6faae7d3dcd630bc9be8484fa155a3579ad5245ce1f07578d8faada2e6a67830edb09b332714a95f2e9e
+doccontainersize 118032
+doccontainerchecksum 6e6c380eb0169878a34d3d40fea47bc57885c7ea378ffd2d2a7e9bf26826dd922f67a02e74d6c78801cecb87b18de3ab52b7600623de39c53954ed568c57eadf
+srccontainersize 5352
+srccontainerchecksum 69f6594a039c9b367e48430927298768f816ba31a7bcc41036111963c5e9059dfbde6b771ab7dcbfddb6e40dc49b2daa1d1ae04625a31ae44b8ba340c42d3f58
+runfiles size=1
+ texmf-dist/tex/latex/textualicomma/textualicomma.sty
+catalogue-also icomma
+catalogue-contact-bugs https://gitlab.com/SFr682k/textualicomma/issues
+catalogue-contact-repository https://gitlab.com/SFr682k/textualicomma
+catalogue-ctan /macros/latex/contrib/textualicomma
+catalogue-date 2018-08-23 23:17:44 +0200
+catalogue-license lppl1.3c
+catalogue-topics typesetting maths
+catalogue-version 1.1

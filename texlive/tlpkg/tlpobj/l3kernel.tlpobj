@@ -1,0 +1,36 @@
+name l3kernel
+category Package
+revision 50818
+shortdesc LaTeX3 programming conventions
+longdesc The l3kernel bundle provides an implementation of the LaTeX3
+longdesc programmers' interface, as a set of packages that run under
+longdesc LaTeX2e. The interface provides the foundation on which the
+longdesc LaTeX3 kernel and other future code are built: it is an API for
+longdesc TeX programmers. The packages are set up so that the LaTeX3
+longdesc conventions can be used with regular LaTeX2e packages.
+containersize 140568
+containerchecksum f9335e63991efec4d7d558cb46a4fe050c073ce41619eba803695d31380c95ff84b05f1158353dcaf9d413b871d30276c522f36d0e1f3a851d6222e981b454f2
+doccontainersize 7850316
+doccontainerchecksum 866709c6ffe6c8b41e2b347c25ad9dcaabfce3c61be0d3f7a04ddff63c64f38a3ea05e1f1a0feb7ddd565278209bee3f67fb43b214c4df5da05f8c596617e229
+srccontainersize 516656
+srccontainerchecksum 70df214a57b04f92b8ca5fa71fa68dbb135ad6cf0e4caaadcc35acbb20a57899c2f35ec5d8b510230290f28890c44c7041e747aeb7a6686b62bd8c08db12b384
+runfiles size=288
+ texmf-dist/tex/latex/l3kernel/expl3-code.tex
+ texmf-dist/tex/latex/l3kernel/expl3-generic.tex
+ texmf-dist/tex/latex/l3kernel/expl3.lua
+ texmf-dist/tex/latex/l3kernel/expl3.sty
+ texmf-dist/tex/latex/l3kernel/l3doc.cls
+ texmf-dist/tex/latex/l3kernel/l3docstrip.tex
+ texmf-dist/tex/latex/l3kernel/l3dvipdfmx.def
+ texmf-dist/tex/latex/l3kernel/l3dvips.def
+ texmf-dist/tex/latex/l3kernel/l3dvisvgm.def
+ texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+ texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+catalogue-also l3packages l3experimental
+catalogue-contact-bugs https://github.com/latex3/latex3/issues
+catalogue-contact-home http://www.latex-project.org/code.html
+catalogue-contact-repository https://github.com/latex3/latex3
+catalogue-ctan /macros/latex/contrib/l3kernel
+catalogue-date 2019-04-06 18:48:00 +0200
+catalogue-license lppl1.3c
+catalogue-topics format latex3 pre-release

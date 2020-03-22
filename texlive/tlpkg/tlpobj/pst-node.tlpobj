@@ -1,0 +1,27 @@
+name pst-node
+category Package
+revision 50215
+shortdesc Nodes and node connections in PSTricks
+longdesc The package enables the user to connect information, and to
+longdesc place labels, without knowing (in advance) the actual positions
+longdesc of the items to be connected, or where the connecting line
+longdesc should go. The macros are useful for making graphs and trees,
+longdesc mathematical diagrams, linguistic syntax diagrams, and so on.
+longdesc The package contents were previously distributed as a part of
+longdesc the pstricks base distribution; the package serves as an
+longdesc extension to PSTricks.
+containersize 25296
+containerchecksum b4feb98035acf2fff9cab8c21c7e408fdf20dd6f12ea5209719eac9d77db51cd907e345daba876ab0b7312bc9dc4a51be17097d3fb02f0a181c006c4385b2096
+doccontainersize 561540
+doccontainerchecksum 2e47bab65f6077f796bf4d50cd4f5911eed2eea658701c46e47d65543697c68209aa307a5f620fedadee8ff2ba28f6ccf92dd9402bc3264616cdd3291b8673a2
+runfiles size=29
+ texmf-dist/dvips/pst-node/pst-node.pro
+ texmf-dist/dvips/pst-node/pst-node97.pro
+ texmf-dist/tex/generic/pst-node/pst-node.tex
+ texmf-dist/tex/generic/pst-node/pst-node97.tex
+ texmf-dist/tex/latex/pst-node/pst-node.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-node
+catalogue-date 2019-03-03 15:57:10 +0100
+catalogue-license lppl
+catalogue-topics graphics-in-tex linguistic
+catalogue-version 1.42

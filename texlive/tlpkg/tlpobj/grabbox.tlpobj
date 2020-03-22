@@ -1,0 +1,20 @@
+name grabbox
+category Package
+revision 49546
+shortdesc Read an argument into a box and execute the code afterwards
+longdesc The package provides the command \grabbox, which grabs an
+longdesc argument into a box and executes the code afterwards.
+containersize 1640
+containerchecksum cf341ca65a2ce31117386be1506772ac5a4037f65823fd4443bab0324698ca1df4c940451ec358b07d206d5b29642c8e4002d8e08bee06011e297d3232addc64
+doccontainersize 352672
+doccontainerchecksum d6d5332df44b8f1d01bcd5a3c7ca3abad25e662aea4b75f7a5a78734c100eac58ed44f61b8e384655a2292820e38de74ecc0748ea19d0abfd5a9b83cdab6657d
+srccontainersize 4228
+srccontainerchecksum c92705adcb16a60b6fa042a86f115a452474fce8d04f548221788341a905f1e0943cf6370f5fdec313a1199592539cb0f857e96b5275e5386a667f7bb11de0fa
+runfiles size=1
+ texmf-dist/tex/latex/grabbox/grabbox.sty
+catalogue-contact-repository https://gitlass.de/jonathan/grabbox
+catalogue-ctan /macros/latex/contrib/grabbox
+catalogue-date 2018-12-29 21:54:58 +0100
+catalogue-license lppl1.3c
+catalogue-topics boxing
+catalogue-version 1.3

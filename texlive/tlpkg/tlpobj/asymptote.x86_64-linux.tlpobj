@@ -1,0 +1,9 @@
+name asymptote.x86_64-linux
+category TLCore
+revision 50721
+shortdesc x86_64-linux files of asymptote
+containersize 1250080
+containerchecksum 077b9e91240e7fcb29a966b82ca4447b951a2a52a8c88b27bcb0284b786076a2c3699049a64e5ca7daeae198f62b987f20839a64712357a6257ddc80ece75b85
+binfiles arch=x86_64-linux size=1047
+ bin/x86_64-linux/asy
+ bin/x86_64-linux/xasy

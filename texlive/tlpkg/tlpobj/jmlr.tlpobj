@@ -1,0 +1,29 @@
+name jmlr
+category Package
+revision 44935
+shortdesc Class files for the Journal of Machine Learning Research
+longdesc The jmlr bundle provides a class for authors (jmlr) and a class
+longdesc for production editors (jmlrbook). The jmlrbook class can be
+longdesc used to combine articles written using the jmlr class into a
+longdesc book. The class uses the combine class and the hyperref package
+longdesc to produce either a colour hyperlinked book for on-line viewing
+longdesc or a greyscale nonhyperlinked book for printing. Production
+longdesc editors can use makejmlrbookgui to help build the proceedings
+longdesc from the articles.
+containersize 23860
+containerchecksum 68e236de2bbf2e1658b2319f5c6ce8cde914c8be03090c0ce2893e8843e5410c477a9bed4cd5e5912c69fa4a268ec1ba5ed13d04f2f49395d60f0c72a41ca44c
+doccontainersize 1703340
+doccontainerchecksum 3b42e6e17818bbd8280e6501561ea746f754ba9b9a4d7483e7b74b40cabbf1bb634dcc4e27677c1f8bc68f932fa03a739cfe5b928ffc8d4ecc0872f263f352f5
+srccontainersize 40876
+srccontainerchecksum 706a99ddc53804b5d61a7ca8f65fe6acb7632dbaa8d3f7a4e9b11270ca5da1d38d811c2fd9ebd9bc5d4aefeec406f36cfbaaad0644051e59593c297a35abaa42
+runfiles size=29
+ texmf-dist/scripts/jmlr/makejmlrbook
+ texmf-dist/tex/latex/jmlr/jmlr.cls
+ texmf-dist/tex/latex/jmlr/jmlrbook.cls
+ texmf-dist/tex/latex/jmlr/jmlrutils.sty
+catalogue-contact-bugs http://www.dickimaw-books.com/cgi-bin/bugtracker.cgi
+catalogue-ctan /macros/latex/contrib/jmlr
+catalogue-date 2017-08-01 19:14:03 +0200
+catalogue-license lppl1.3
+catalogue-topics journalpub class
+catalogue-version 1.24

@@ -1,0 +1,27 @@
+name biblatex-bath
+category Package
+revision 48943
+shortdesc Harvard referencing style as recommended by the University of Bath Library
+longdesc This package provides a BibLaTeX style to format reference
+longdesc lists in the Harvard style recommended by the University of
+longdesc Bath Library.
+containersize 6556
+containerchecksum d11851f1b0bb4cfa3784d0a5493eb5e99eb42a8e0c36f74347a0825e75684e3e5de5d053b88b3fce1d286f097f6226a348f447f8071f53cc589381a18a6150a9
+doccontainersize 422692
+doccontainerchecksum 0cb5e8c91885b386a92074a0c827145a79397f448d3309c9410037ae498c88477da6c7db413342521bc86c4e694bd6e9880cd7bcf15506151e4616a777ad9994
+srccontainersize 25972
+srccontainerchecksum 91a0c614575e3e49a55220cdd9d71c053ccd252fa8cdddf9995f0068b182b65c730bc2376db4814b6bc2c4fb0e2ffb61ddc86d08dd40105276940dc4ef88d7cb
+runfiles size=13
+ texmf-dist/tex/latex/biblatex-bath/american-bath.lbx
+ texmf-dist/tex/latex/biblatex-bath/bath.bbx
+ texmf-dist/tex/latex/biblatex-bath/bath.cbx
+ texmf-dist/tex/latex/biblatex-bath/bath.dbx
+ texmf-dist/tex/latex/biblatex-bath/british-bath.lbx
+catalogue-also bath-bst
+catalogue-contact-bugs https://github.com/alex-ball/bathbib/issues
+catalogue-contact-home https://github.com/alex-ball/bathbib
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-bath
+catalogue-date 2018-10-19 06:33:44 +0200
+catalogue-license lppl1.3c
+catalogue-topics biblatex
+catalogue-version 2.0.1

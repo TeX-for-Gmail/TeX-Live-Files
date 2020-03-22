@@ -1,0 +1,33 @@
+name fei
+category Package
+revision 49439
+shortdesc Class for academic works at FEI University Center -- Brazil
+longdesc fei is a class created by graduate students and LaTeX
+longdesc enthusiasts that allows students from FEI University Center to
+longdesc create their academic works, be it a monograph, masters
+longdesc dissertation or phd thesis, under the typographic rules of the
+longdesc institution. The class makes it possible to create a full
+longdesc academic work, supporting functionalities such as cover, title
+longdesc page, catalog entry, dedication, summary, lists of figures,
+longdesc tables, algorithms, acronyms and symbols, multiple authors,
+longdesc index, references, appendices and attachments. fei is loosely
+longdesc based in the Brazilian National Standards Organization
+longdesc (Associacao Brasileira de Normas Tecnicas, ABNT) standards for
+longdesc the creation of academic works, such as ABNT NBR 10520:2002
+longdesc (Citations) and ABNT NBR 6023:2002 (Bibliographic References).
+containersize 6412
+containerchecksum 8f206ac3534ae567f77e77ef02182a9fcfe8250fe4acf56551780aeaad8cdc77749075b48695096f10edb6e7ffb03311a85c3184134665234d3740311581536f
+doccontainersize 279440
+doccontainerchecksum 0526bdedeaaae229ddc5238cddcb854a7e442b8ef6d6c31ceeea0278b25778dcc95a78defe24bebac9efb99fec129f4b82c34d5532376da645589ef2c7eadf5a
+srccontainersize 28048
+srccontainerchecksum f15b61fdd880a800191c55ce7741995cb3f2edda3fe5a8066920d90acd9ec9dafeb1ad3ac4db33d7d5ffba9b6df32dfd56cc29d933f918a7ddb77815946efd1c
+runfiles size=6
+ texmf-dist/tex/latex/fei/fei.cls
+catalogue-contact-bugs http://github.com/douglasrizzo/Classe-Latex-FEI/issues
+catalogue-contact-repository http://github.com/douglasrizzo/Classe-Latex-FEI/
+catalogue-contact-support https://groups.google.com/forum/#!forum/grupo-latex-fei
+catalogue-ctan /macros/latex/contrib/fei
+catalogue-date 2018-12-17 19:50:28 +0100
+catalogue-license lppl1.3c
+catalogue-topics dissertation class
+catalogue-version 4.3.1

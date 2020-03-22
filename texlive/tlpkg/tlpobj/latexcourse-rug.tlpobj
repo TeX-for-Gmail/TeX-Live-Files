@@ -1,0 +1,16 @@
+name latexcourse-rug
+category Package
+revision 39026
+shortdesc A LaTeX course book
+longdesc The package provides the book and practice files for a LaTeX
+longdesc course that the author has give several times at the
+longdesc Rijksuniversiteit Groningen (Netherlands).
+containersize 464
+containerchecksum ab31ee52beb0fe100f4798e6e42673d5284f6f85ccdecf8875f4d058928cab7363507f8cafe6c3c6f437a682f3e0017923d138ff671eea118ca8d2339627fbe0
+doccontainersize 5200392
+doccontainerchecksum aeaeeef2c43a5ddf782a91152c9e2e18f00d9b3e18b7023837920a53eb390652d7ea85afcae338519a00b84a972a723eedd7819e73944ef7015f8c028822fea9
+catalogue-ctan /info/latexcourse-rug
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license other-free
+catalogue-topics course-material
+catalogue-version 1.1

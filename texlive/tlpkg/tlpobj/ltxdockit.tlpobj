@@ -1,0 +1,27 @@
+name ltxdockit
+category Package
+revision 21869
+shortdesc Documentation support
+longdesc This bundle, consisting of a simple wrapper class and some
+longdesc packages, forms a small LaTeX/BibTeX documentation kit; the
+longdesc author uses it for some of his own packages. The package is not
+longdesc supported: users should not attempt its use unless they are
+longdesc capable of dealing with problems unaided. (The actual purpose
+longdesc of releasing the package is to make it possible for third
+longdesc parties to compile the documentation of other packages, should
+longdesc that be necessary.)
+containersize 6272
+containerchecksum 1144bd68bec92b4ac9ec8763e2e7df7c6018cd8b88c7ed2f02e7597c3bc13608a562551d80fab2a41b8aa9881848fa1b3501da7ae9c39edaae3720875ff65bd8
+doccontainersize 968
+doccontainerchecksum a47852f464e8c31d9a2926e55d62c090292337acad6398568c7082012899045ce32163b798b25ac090e7fbd6ebec95f17a83ee1fdfe5f1f33d0b423dbeed94a1
+runfiles size=8
+ texmf-dist/tex/latex/ltxdockit/btxdockit.sty
+ texmf-dist/tex/latex/ltxdockit/ltxdockit.cfg
+ texmf-dist/tex/latex/ltxdockit/ltxdockit.cls
+ texmf-dist/tex/latex/ltxdockit/ltxdockit.def
+ texmf-dist/tex/latex/ltxdockit/ltxdockit.sty
+catalogue-ctan /macros/latex/contrib/ltxdockit
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-supp
+catalogue-version 1.2d

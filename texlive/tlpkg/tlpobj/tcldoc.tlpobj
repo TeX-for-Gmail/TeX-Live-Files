@@ -1,0 +1,27 @@
+name tcldoc
+category Package
+revision 22018
+catalogue tclldoc
+shortdesc Doc/docstrip for tcl
+longdesc The tclldoc package and class simplify the application of the
+longdesc doc/docstrip style of literate programming with Dr. John
+longdesc Ousterhout's Tool Command Language (Tcl, pronounced "tickle",
+longdesc a.k.a. The Cool Language). The tclldoc package is a bit like
+longdesc the doc package is for LaTeX, whereas the tclldoc class more
+longdesc parallels the ltxdoc class.
+containersize 7004
+containerchecksum 82348df3f6dcedc17a3cd50f709d01b1f2b0e4be9345e63d40ee6ad2aff908f97c7d19d586431e3fe8399a8d076505ceaadb5afe0116093240a6e59a335934c9
+doccontainersize 462992
+doccontainerchecksum 61f24f628c2b62c02e08e1a2a3a2fd917d057baaf977e7837b1f62e4331e370b83f8a0b00e679c86ddb1893d21af13211185502ed7bb19699d4f33356d3a3a0d
+srccontainersize 41140
+srccontainerchecksum 44a8d3661061ab7dd828fe1cfa8342384e2cd20f5338d54fb0a79516a2cf686a3a6d2a1648d18a4d0c1395a60fe8f8a7b5af0d0c2edc38385852117f408f9e26
+runfiles size=9
+ texmf-dist/tex/latex/tcldoc/tcldoc.cls
+ texmf-dist/tex/latex/tcldoc/tcldoc.sty
+ texmf-dist/tex/latex/tcldoc/tclldoc.cls
+ texmf-dist/tex/latex/tcldoc/tclldoc.sty
+catalogue-ctan /macros/latex/contrib/tclldoc
+catalogue-date 2016-07-19 10:38:58 +0200
+catalogue-license lppl
+catalogue-topics listing doc-supp class
+catalogue-version 2.40

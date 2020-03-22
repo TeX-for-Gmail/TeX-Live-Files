@@ -1,0 +1,20 @@
+name phonrule
+category Package
+revision 43963
+shortdesc Typeset linear phonological rules
+longdesc The package provides macros for typesetting phonological rules
+longdesc like those in 'Sound Pattern of English' (Chomsky and Halle
+longdesc 1968).
+containersize 1132
+containerchecksum 0465e183077f7daa57d2bbc5f1a76afa72770718d2dc969ebc3078b213738f5ae3919f3ebbee04ae54ff7b8ad6e35630fb22293b5cdac31ee5bf31680433ad15
+doccontainersize 44080
+doccontainerchecksum 80ea19243537e769c49a3411e036c5811b19586fda3878894126a151af4ddff46a554db7bc07f488f692fe9efd0934149c8c94cde75b92c880bfcc28218ae5a1
+runfiles size=1
+ texmf-dist/tex/latex/phonrule/phonrule.sty
+catalogue-contact-bugs https://github.com/stefanocoretta/phonrule/issues
+catalogue-contact-repository https://github.com/stefanocoretta/phonrule
+catalogue-ctan /macros/latex/contrib/phonrule
+catalogue-date 2017-04-21 12:55:41 +0200
+catalogue-license lppl1
+catalogue-topics phonetic
+catalogue-version 1.3.2

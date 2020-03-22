@@ -1,0 +1,18 @@
+name ptex.x86_64-linux
+category Package
+revision 50790
+shortdesc x86_64-linux files of ptex
+containersize 1444920
+containerchecksum 117b39ab91e7a732c8e6f0c3d803b4909a43f867c57db68486c1a70fbe908a53a4a0e7b06fca65ad0fc9a3649a02f361927a4a2aa695d564c827fa2bcb67075c
+binfiles arch=x86_64-linux size=1131
+ bin/x86_64-linux/eptex
+ bin/x86_64-linux/makejvf
+ bin/x86_64-linux/mendex
+ bin/x86_64-linux/pbibtex
+ bin/x86_64-linux/pdvitomp
+ bin/x86_64-linux/pdvitype
+ bin/x86_64-linux/pmpost
+ bin/x86_64-linux/ppltotf
+ bin/x86_64-linux/ptex
+ bin/x86_64-linux/ptftopl
+ bin/x86_64-linux/r-pmpost

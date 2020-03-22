@@ -1,0 +1,19 @@
+name chemgreek
+category Package
+revision 42758
+shortdesc Upright Greek letters in chemistry
+longdesc The package provides upright Greek letters in support of other
+longdesc chemistry packages (such as chemmacros). The package used to be
+longdesc distributed as a part of chemmacros.
+containersize 7116
+containerchecksum 5ad82bd7e1973ec3cc79277ab653e926bece0b9e8feffffbb798545ab1fe667c15a6ca08de7c6115c1436d552ec4ded0a9e489315f3e9325ea9dc0f82972a874
+doccontainersize 730616
+doccontainerchecksum 015c8e3357c7d53745516a4c6d6282bde49c9462d516e9bebe9316769684c310195c23fee9e7e24a14d8084bf0d5875b158b60488b7fbdd03a83b590abb1cf45
+runfiles size=12
+ texmf-dist/tex/latex/chemgreek/chemgreek.sty
+catalogue-contact-repository https://github.com/cgnieder/chemgreek/
+catalogue-ctan /macros/latex/contrib/chemgreek
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry
+catalogue-version 1.1

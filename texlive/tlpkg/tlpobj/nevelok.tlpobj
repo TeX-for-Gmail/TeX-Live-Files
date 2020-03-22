@@ -1,0 +1,18 @@
+name nevelok
+category Package
+revision 39029
+shortdesc LaTeX package for automatic definite articles for Hungarian
+longdesc LaTeX package for automatic definite articles for Hungarian
+containersize 1860
+containerchecksum 01d207fe9d77df0a225cd5fe718f118bc755c1e23c9dcb2bc4e0b4c2983205469baeeefcc195b150cc54f4540ea71d96cfc393fe61a32f7e85d5c9b5944c5938
+doccontainersize 211280
+doccontainerchecksum 653fea96310508e8a30c76821d1cd83dbf579052fecbb8c859d40cb39926d24ae0141b4788901b34b4839615b33d5995eed2b6a27f6abcae981b9d47b6ebeb34
+srccontainersize 4000
+srccontainerchecksum 455ceb971d4617b096bb2d1c42fdb487208e8c6ccb3fa94869df08c9e89516e0f5c9e5513b0573d17929bc3284fa41ec19ef092ac7c7c99ca8a7f9e63a1559c0
+runfiles size=2
+ texmf-dist/tex/latex/nevelok/nevelok.sty
+catalogue-ctan /macros/latex/contrib/nevelok
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics hungarian
+catalogue-version 1.03

@@ -1,0 +1,29 @@
+name figbas
+category Package
+revision 28943
+shortdesc Mini-fonts for figured-bass notation in music
+longdesc This package consists of three mini-fonts (and associated
+longdesc metrics) of conventional ligatures for the figured-bass
+longdesc notations 2+, 4+, 5+, 6+ and 9+ in music manuscripts. The fonts
+longdesc are usable with Computer Modern Roman and Sans, and
+longdesc Palatino/Palladio, respectively.
+containersize 18600
+containerchecksum 2fdc1114b03123c35eccd6b617310c714f37015620551538458a1a49b1e9a583aa55b3cb661f204bb9168cee0a7325b066d64315a15a94daa01e43d05bbb2561
+doccontainersize 77248
+doccontainerchecksum 7dc8140b3b545d2683c471e2e2907a58e2c995f23acea26d763da8989c3288940dcc154ffc0f81ea99169ce574bf90543e94f86bf8217996b7c83474a300806e
+runfiles size=14
+ texmf-dist/fonts/afm/public/figbas/cmrj.afm
+ texmf-dist/fonts/afm/public/figbas/cmssj.afm
+ texmf-dist/fonts/afm/public/figbas/plrj.afm
+ texmf-dist/fonts/map/dvips/figbas/figbas.map
+ texmf-dist/fonts/tfm/public/figbas/cmrj.tfm
+ texmf-dist/fonts/tfm/public/figbas/cmssj.tfm
+ texmf-dist/fonts/tfm/public/figbas/plrj.tfm
+ texmf-dist/fonts/type1/public/figbas/cmrj.pfb
+ texmf-dist/fonts/type1/public/figbas/cmssj.pfb
+ texmf-dist/fonts/type1/public/figbas/plrj.pfb
+catalogue-ctan /fonts/figbas
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics music
+catalogue-version 1.0.3

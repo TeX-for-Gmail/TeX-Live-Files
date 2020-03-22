@@ -1,0 +1,12 @@
+name xypic-tut-pt
+category Package
+revision 15878
+shortdesc A tutorial for XY-pic, in Portuguese
+containersize 360
+containerchecksum 291825c3461b397deb825266c7ee4316c5d04b8db1a29759378409de55c20d81552e31260468f4fa6a9a04f04705422714a8ec70a866c87fca2f4f1e189e0e4e
+doccontainersize 225208
+doccontainerchecksum e27dfa0b36341bcd02ba63a8b543f1a6c55c674745cc790543ea2cfded80e536e5901f184a3af62b92b4534c738a06bf4fd5cbd4dfb4da865d13991279309aac
+catalogue-ctan /info/portuguese/xypic-tutorial
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license gpl
+catalogue-topics portuguese-doc

@@ -1,0 +1,65 @@
+% THIS FILE WAS AUTOMATICALLY GENERATED -- DO NOT EDIT
+
+%%AutoEnc_arj52vxskbr2oyam4h5tfycbsh
+% Encoding created by otftotfm on Sun Sep 10 15:56:03 2017
+% Command line follows encoding
+/AutoEnc_arj52vxskbr2oyam4h5tfycbsh [
+%00
+  /Gamma /Delta /Theta /Lambda /Xi /Pi /Sigma /Upsilon
+  /Phi /Psi /Omega /.notdef /.notdef /.notdef /.notdef /.notdef
+%10
+  /I /uni0237 /grave /acute /caron /breve /macron /ring
+  /cedilla /uni1E9E /AE /OE /Oslash /AE /OE /Oslash
+%20
+  /space /exclam /quotedblright /numbersign /dollar /percent /ampersand /quoteright
+  /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash
+%30
+  /zero.tabularlining /one.tabularlining /two.tabularlining /three.tabularlining /four.tabularlining /five.tabularlining /six.tabularlining /seven.tabularlining
+  /eight.tabularlining /nine.tabularlining /colon /semicolon /exclamdown /equal /questiondown /question
+%40
+  /at /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%50
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /bracketleft /quotedblleft /bracketright /circumflex /dotaccent
+%60
+  /quoteleft /A /B /C /D /E /F /G
+  /H /I /J /K /L /M /N /O
+%70
+  /P /Q /R /S /T /U /V /W
+  /X /Y /Z /endash /emdash /hungarumlaut /tilde /dieresis
+%80
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%90
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%A0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /Lslash /.notdef /.notdef /.notdef /.notdef /.notdef
+%B0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%C0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%D0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%E0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+%F0
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+  /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+] def
+% Command line: 'otftotfm --automatic --encoding=fontools_ot1
+% --tfm-directory=texmf/fonts/tfm/public/coelacanth
+% --vf-directory=texmf/fonts/vf/public/coelacanth
+% --type1-directory=texmf/fonts/type1/public/coelacanth
+% --truetype-directory=texmf/fonts/truetype/public/coelacanth
+% --encoding-directory=texmf/fonts/enc/dvips/coelacanth
+% --map-file=texmf/fonts/map/dvips/coelacanth/Coelacanth.map --no-updmap
+% --coding-scheme=TEX TEXT --feature=case --feature=cpsp --feature=kern
+% --feature=liga --feature=lnum --feature=tnum CoelacanthItalic.otf
+% CoelacanthItalic-tlf-titling-ot1'

@@ -1,0 +1,32 @@
+name ptex
+category Package
+revision 50664
+shortdesc A TeX system for publishing in Japanese
+longdesc pTeX adds features related to vertical writing, and deals with
+longdesc other problems in typesetting Japanese. A set of additions to a
+longdesc TEXMF tree, for use with pTeX, may be found in package
+longdesc pTeX-texmf. pTeX is distributed as WEB change files. A manual
+longdesc (in Japanese) is distributed as package pTeX-manual.
+depend ptex-base
+depend ptex-fonts
+depend cm
+depend hyphen-base
+depend knuth-lib
+depend plain
+depend etex
+depend ptex.ARCH
+execute AddFormat name=ptex engine=ptex options="ptex.ini"           fmttriggers=cm,hyphen-base,knuth-lib,plain,ptex-base,ptex-fonts
+execute AddFormat name=eptex engine=eptex options="*eptex.ini"           patterns=language.def           fmttriggers=cm,hyphen-base,knuth-lib,plain,ptex-base,ptex-fonts,etex
+execute addKanjiMap ptex-@jaEmbed@@jaVariant@.map
+containersize 820
+containerchecksum 7e03619011e2095fe76674e39f6220d938a9673a34bf6cf35cf262a60d8eb140a5f978f8f04b6031a1fdb56e81edbc6c4ace82cea9fbbae2e9839b0b8d0e0612
+doccontainersize 119344
+doccontainerchecksum e09ce7a08be8a176e591cd69b1bdce5bf37d59537109ca820e9f4e60bdcb4cec32a58cee75ee36c61ab7a512eb2475df7f2afd570eeca53c33b2be94ac2ec88c
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-home http://www.ascii.co.jp/pb/ptex/
+catalogue-contact-repository https://tug.org/svn/texlive/trunk/Build/source/texk/web2c/ptexdir
+catalogue-contact-support http://lists.tug.org/tex-k
+catalogue-ctan /language/japanese/ptex
+catalogue-date 2019-01-08 20:07:01 +0100
+catalogue-license other-free
+catalogue-topics engine japanese

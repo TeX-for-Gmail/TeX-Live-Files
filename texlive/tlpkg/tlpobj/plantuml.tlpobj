@@ -1,0 +1,23 @@
+name plantuml
+category Package
+revision 47924
+shortdesc Support for rendering UML diagrams using the syntax and tool of PlantUML
+longdesc The package provides support for rendering UML diagrams using
+longdesc the syntax and tools of PlantUML. The PlantUML syntax is very
+longdesc short and thus enables quickly specifying UML diagrams. Using
+longdesc dot, PlantUML layouts the diagrams.
+containersize 2144
+containerchecksum 0803064bb3b1a4d8357d82d48b6451df7fdcd605bfec890a30105777ef274d375d4d6025bf62a220d2357ab8e9f78b344fd2fba0125ec0eddc62582604e7db32
+doccontainersize 65748
+doccontainerchecksum 27467a834aa75b48ced2032d193531a99dfa84140c9301b349880e0f2f66b5e8b28ae039652fa4e6db1212d8caa125f2bf8c225e46f4939be8b1afee9375dffd
+runfiles size=2
+ texmf-dist/tex/lualatex/plantuml/plantuml.lua
+ texmf-dist/tex/lualatex/plantuml/plantuml.sty
+catalogue-contact-bugs https://github.com/latextemplates/plantuml/issues
+catalogue-contact-home https://latextemplates.github.io/plantuml/
+catalogue-contact-repository https://github.com/latextemplates/plantuml
+catalogue-ctan /macros/luatex/latex/plantuml
+catalogue-date 2018-06-04 06:15:17 +0200
+catalogue-license lppl1.3c
+catalogue-topics uml luatex use-lua
+catalogue-version 0.2.3

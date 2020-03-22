@@ -1,0 +1,15 @@
+name latexcheat-ptbr
+category Package
+revision 15878
+shortdesc A LaTeX cheat sheet, in Brazilian Portuguese
+longdesc This is a translation to Brazilian Portuguese of Winston
+longdesc Chang's LaTeX cheat sheet
+containersize 424
+containerchecksum e50cd94941704f1a620a7411624ffd61d47aa4ef2944220ef0bfa9fbc428d8ea46be17bb3b18b30d645dcddf3c8091dafa9532f809dee7af230e2133c86b9bf5
+doccontainersize 143516
+doccontainerchecksum 00369fce725567a85310afd3063a4a20e670d8a0c57ef7e4515579ee0f91157f44bac2471b076c2ba51253e2c172447cc4b915877d80b0c43874c4e125f5f9d4
+catalogue-ctan /info/latexcheat/latexcheat-ptbr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics portuguese-doc tut-cheat
+catalogue-version 1.13

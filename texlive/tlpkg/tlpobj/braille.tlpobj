@@ -1,0 +1,20 @@
+name braille
+category Package
+revision 20655
+shortdesc Support for braille
+longdesc This package allows the user to produce Braille documents on
+longdesc paper for the blind without knowing Braille (which can take
+longdesc years to learn). Python scripts grade1.py and grade2.py convert
+longdesc ordinary text to grade 1 and 2 Braille tags; then, the LaTeX
+longdesc package takes the tags and prints out corresponding Braille
+longdesc symbols.
+containersize 5980
+containerchecksum 04893a3664b10fa1d5b912751e51b6d4a596821535da87aa1f2c2c5632e1fc60278435fe9deae4b0fba8296f2e46015b27b592721dde26dcc4acf7e3bd672a4c
+doccontainersize 61288
+doccontainerchecksum 1cf6922ffa0785adb8e7e7fa5cfe134b206d70d012eb2ec1bd40bedb72ace43c8a17b3e94b16635473d425420f362c49f1b509796d43ca0d2aff0bd9be9f25cf
+runfiles size=5
+ texmf-dist/tex/latex/braille/braille.sty
+catalogue-ctan /macros/latex/contrib/braille
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics spec-alphabet

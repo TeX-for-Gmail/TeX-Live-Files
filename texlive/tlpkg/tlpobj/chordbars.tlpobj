@@ -1,0 +1,23 @@
+name chordbars
+category Package
+revision 49569
+shortdesc Print chord grids for pop/jazz tunes
+longdesc This Tikz-based music-related package is targeted at pop/jazz
+longdesc guitar/bass/piano musicians. They usually need only the chords
+longdesc and the song structure. This package produces rectangular song
+longdesc patterns with "one square per bar", with the chord shown inside
+longdesc the square. It also handles the song structure by showing the
+longdesc bar count and the repetitions of the patterns.
+containersize 3376
+containerchecksum 1349aef2649fdd9b54751425d54cc9b0746dbcec9eebd1264c36867517c4f422d74d390a0e43d22fe81c5a36ff00e6cedc5e652183422e9408a2165486e79052
+doccontainersize 196648
+doccontainerchecksum ba8aae66430e2df58f01bb9860bfab9cdb3aa0636f77f657a1fe4405ec9397773b51b01d94201bb8dfc8660d05f2aa4ce9233ef985d3e4e35faf005c81759404
+runfiles size=3
+ texmf-dist/tex/latex/chordbars/chordbars.sty
+catalogue-contact-bugs https://github.com/skramm/chordbars/issues
+catalogue-contact-repository https://github.com/skramm/chordbars
+catalogue-ctan /graphics/pgf/contrib/chordbars
+catalogue-date 2018-12-31 21:35:08 +0100
+catalogue-license lppl1.3
+catalogue-topics music chords pgf-tikz
+catalogue-version 1.1

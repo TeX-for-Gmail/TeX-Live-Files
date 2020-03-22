@@ -1,0 +1,40 @@
+name dad
+category Package
+revision 47027
+shortdesc Simple typesetting system for mixed Arabic/Latin documents
+longdesc This package allows simple typesetting in Arabic script,
+longdesc intended for mixed Arabic/Latin script usage in situations
+longdesc where heavy-duty solutions are discouraged. The  system
+longdesc operates with both Unicode and transliterated input, allowing
+longdesc the user to choose the most appropriate approach for every
+longdesc situation.
+execute addMap dad.map
+containersize 241672
+containerchecksum 3a4a039e8407ea7b8ebb9b2fa500a634930161f6e824e0d090fb00c233cc29bc110e5fd802ee11768569612df1c18cd03137ea086dab86e19bd3cb54dc806045
+doccontainersize 199972
+doccontainerchecksum 5715bb8219f9800a89c660b2dc581b5be7fd86d9dc085417f3d8e3342dba2f27c16952d9427af64212d6e60359be551b8ddf4eb01f89be93a9c714024c82eeb8
+runfiles size=2588
+ texmf-dist/fonts/afm/public/dad/Dad-bold.afm
+ texmf-dist/fonts/afm/public/dad/Dad-mono.afm
+ texmf-dist/fonts/afm/public/dad/Dad.afm
+ texmf-dist/fonts/map/dvips/dad/dad.map
+ texmf-dist/fonts/ofm/public/dad/dad.ofm
+ texmf-dist/fonts/ofm/public/dad/dadbold.ofm
+ texmf-dist/fonts/ofm/public/dad/dadmono.ofm
+ texmf-dist/fonts/ovf/public/dad/dad.ovf
+ texmf-dist/fonts/ovf/public/dad/dadbold.ovf
+ texmf-dist/fonts/ovf/public/dad/dadmono.ovf
+ texmf-dist/fonts/tfm/public/dad/dadreal.tfm
+ texmf-dist/fonts/tfm/public/dad/dadrealbold.tfm
+ texmf-dist/fonts/tfm/public/dad/dadrealmono.tfm
+ texmf-dist/fonts/type1/public/dad/Dad-bold.pfb
+ texmf-dist/fonts/type1/public/dad/Dad-mono.pfb
+ texmf-dist/fonts/type1/public/dad/Dad.pfb
+ texmf-dist/tex/lualatex/dad/OT1dad.fd
+ texmf-dist/tex/lualatex/dad/T1dad.fd
+ texmf-dist/tex/lualatex/dad/dad.sty
+catalogue-ctan /language/arabic/dad
+catalogue-date 2018-03-19 16:37:57 +0100
+catalogue-license lppl
+catalogue-topics arabic luatex font-type1
+catalogue-version 1.2

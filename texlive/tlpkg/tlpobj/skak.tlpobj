@@ -1,0 +1,41 @@
+name skak
+category Package
+revision 46259
+shortdesc Fonts and macros for typesetting chess games
+longdesc This package provides macros and fonts in Metafont format which
+longdesc can be used to typeset chess games using PGN, and to show
+longdesc diagrams of the current board in a document. The package builds
+longdesc on work by Piet Tutelaers -- the main novelty is the use of PGN
+longdesc for input instead of the more cumbersome coordinate notation
+longdesc (g1f3 becomes the more readable Nf3 in PGN). An Adobe Type 1
+longdesc implementation of skak's fonts is available as package skaknew;
+longdesc an alternative chess notational scheme is available in package
+longdesc texmate, and a general mechanism for selecting chess fonts is
+longdesc provided in chessfss.
+containersize 20744
+containerchecksum 7bf473f1f35fa05c1cc7cccec212b035619382ce850c287a6b0734cd52182046df35133bd919a335532db9fd5327d2038ce1c3e98342055d93a5dc3b16028697
+doccontainersize 200108
+doccontainerchecksum 443d98538fb732bfe9f3df26e05e46be54641006df255d3084697301cfa93f48cb8d307a9a5b58f25742b96065658f446b52968c3bd8ce14fdc864f32cb920e4
+runfiles size=38
+ texmf-dist/fonts/source/public/skak/skak10.mf
+ texmf-dist/fonts/source/public/skak/skak15.mf
+ texmf-dist/fonts/source/public/skak/skak20.mf
+ texmf-dist/fonts/source/public/skak/skak30.mf
+ texmf-dist/fonts/source/public/skak/skakbase.mf
+ texmf-dist/fonts/source/public/skak/skakbrikker.mf
+ texmf-dist/fonts/source/public/skak/skakf10.mf
+ texmf-dist/fonts/source/public/skak/skakf10b.mf
+ texmf-dist/fonts/source/public/skak/skakinf.mf
+ texmf-dist/fonts/tfm/public/skak/skak10.tfm
+ texmf-dist/fonts/tfm/public/skak/skak15.tfm
+ texmf-dist/fonts/tfm/public/skak/skak20.tfm
+ texmf-dist/fonts/tfm/public/skak/skak30.tfm
+ texmf-dist/fonts/tfm/public/skak/skakf10.tfm
+ texmf-dist/fonts/tfm/public/skak/skakf10b.tfm
+ texmf-dist/tex/latex/skak/skak.fd
+ texmf-dist/tex/latex/skak/skak.sty
+catalogue-ctan /fonts/chess/skak
+catalogue-date 2018-01-09 06:30:58 +0100
+catalogue-license lppl
+catalogue-topics font font-mf font-chess games
+catalogue-version 1.5.3

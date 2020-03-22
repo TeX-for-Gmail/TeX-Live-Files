@@ -1,0 +1,15 @@
+name lshort-estonian
+category Package
+revision 39323
+shortdesc Estonian introduction to LaTeX
+longdesc This is the Estonian translation of Short Introduction to
+longdesc LaTeX2e.
+containersize 400
+containerchecksum 6bd3c07c1e5f9d543b0f67a5585cc33252567cc346a8d7feca050baf8ab437be97e73d2c4b4b159102e9c4772f8cce2abcbc25486d73e976b83a3d2f4b9e9487
+doccontainersize 2940172
+doccontainerchecksum e16397fac3e6cefa699b412ada1851c7792520da8af1230274fa1a337b890629b68f71d94b3894044f28e687c6aa60d766377e12232d0e522e82e18dc97428e3
+catalogue-ctan /info/lshort/estonian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics tut-latex estonian
+catalogue-version 5.05

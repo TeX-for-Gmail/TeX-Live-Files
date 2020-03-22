@@ -1,0 +1,22 @@
+name babel-latin
+category Package
+revision 38173
+shortdesc Babel support for Latin
+longdesc The package provides the language definition file for support
+longdesc of Latin in babel. Translations to Latin (in both modern and
+longdesc medieval spelling) of standard "LaTeX names", and some
+longdesc shortcuts, are provided. Apart from the modern vs. medieval
+longdesc setting, a further switch permits addition of prosodic marks.
+containersize 2996
+containerchecksum 56ede1f441e96e3f17c165de65a7703c8e8897c17ef775fef1e30e1d2382eee0738ba91c97717694edc7e932ee0dbbfd1600d16ff86d6bbea1ccd5cfcec82ed2
+doccontainersize 156012
+doccontainerchecksum 6dc352b57346f0caaebc0832d12a9c1f13743e5cc39285b4d81edc23cd5f21692165040becf4ec12ca6d1acf6c19f1b2ab1da8d79e3e82ccc2dc865322bfaacb
+srccontainersize 13420
+srccontainerchecksum 9f04205ee8e5c18a0ec6e20fdd7ab0d89d4e1ea28d5c3ad819ca9d09358466215b4d0c2b18d77ba5cca604b3997814ce39b33fe7f438b5b554500b5f4edd783a
+runfiles size=2
+ texmf-dist/tex/generic/babel-latin/latin.ldf
+catalogue-ctan /macros/latex/contrib/babel-contrib/latin
+catalogue-date 2018-01-13 10:24:37 +0100
+catalogue-license lppl1
+catalogue-topics latin multilingual-addon
+catalogue-version 3.5

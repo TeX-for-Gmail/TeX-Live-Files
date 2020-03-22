@@ -1,0 +1,22 @@
+name karnaughmap
+category Package
+revision 36989
+shortdesc Typeset Karnaugh maps
+longdesc This package provides an easy to use interface to typeset
+longdesc Karnaugh maps using TikZ. Though similar to the karnaugh
+longdesc macros, it provides a key-value system to customize
+longdesc karnaughmaps and a proper LaTeX package.
+containersize 3320
+containerchecksum 72c5ee674d7719b535a03cb9180a605fce2ac089c875cf57b95739b5c139bc45552960faf8f3287731fbe12c8402ce3c2c6517513d20bbc484e12a44468d6ec7
+doccontainersize 323304
+doccontainerchecksum c79e28dbfb45764c3f5feff21bf3cb8ec5ee41380fe43d35b2b091b1e263db1eb417a19c74987743c04a2f41fc2c3655fdc531c8971320580be48beeb4d3d6eb
+srccontainersize 11192
+srccontainerchecksum ff5bdbaebaf55faf2d617b1e3634e52a6ec52c9d56932653d9b13a8aba94db101c4afbccdabd916d51be201135de2e739295b8a0523b63def160f1c07171e4a2
+runfiles size=6
+ texmf-dist/tex/latex/karnaughmap/karnaughmap.sty
+catalogue-also karnaugh karnaugh-map
+catalogue-ctan /graphics/pgf/contrib/karnaughmap
+catalogue-date 2016-11-25 19:28:19 +0100
+catalogue-license lppl1.2
+catalogue-topics engineering maths pgf-tikz
+catalogue-version 2.0

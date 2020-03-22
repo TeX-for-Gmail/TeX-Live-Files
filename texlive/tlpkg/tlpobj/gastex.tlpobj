@@ -1,0 +1,25 @@
+name gastex
+category Package
+revision 15878
+shortdesc Graphs and Automata Simplified in TeX
+longdesc GasTeX is a set of LaTeX macros which enable the user to draw
+longdesc graphs, automata, nets, diagrams, etc., very easily, in the
+longdesc LaTeX picture environment. The package offers no documentation
+longdesc (per se), but offers a couple of example files in the
+longdesc distribution, and more on its home page. GasTeX generates its
+longdesc own PostScript code, and therefore doesn't work directly under
+longdesc pdfLaTeX.
+containersize 16256
+containerchecksum b6e90db05d820b5e8001fb5d7168449d1fb6ed0679d158850ab4e5ad1166ebbe05680d190bcaf3c2808e2fffa6b3ddb2a824f223855182960cf849370493a1ba
+doccontainersize 6020
+doccontainerchecksum 2890b569863b2d65a2df850e0e885e15754ba4b483fd559c0f914fd5ef2516a4b33944d365fd58a381a1992a22bddf69166cec0bf2b1072c9aed7829fa21903b
+runfiles size=22
+ texmf-dist/dvips/gastex/gastex.pro
+ texmf-dist/tex/latex/gastex/gastex.sty
+catalogue-also pstricks-base
+catalogue-contact-home http://www.lsv.ens-cachan.fr/~gastin/gastex/gastex.html
+catalogue-ctan /graphics/gastex
+catalogue-date 2018-09-15 11:08:35 +0200
+catalogue-license lppl
+catalogue-topics graphics-in-tex
+catalogue-version 2.8

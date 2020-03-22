@@ -1,0 +1,22 @@
+name ctanupload
+category Package
+revision 26313
+shortdesc Support for users uploading to CTAN
+longdesc The package provides a Perl script that allows the uploads of a
+longdesc contribution to CTAN from the command line. The aim is to
+longdesc simplify the release process for LaTeX package authors. Note by
+longdesc the CTAN team (2015-02-05): It seems that this script is
+longdesc currently not working.
+depend ctanupload.ARCH
+containersize 5104
+containerchecksum 4464bdfbf72318b24abcd88e1c25dae5925a96e867c694f3f02a594ed7b8b24cffdcdb345f0054e200a6af63f88b591ff84058af0adfb4a1b3feff2a057d9d72
+doccontainersize 174964
+doccontainerchecksum 9e027f7ce08041be7668a7a404fad6b6c7cfc71e581ad1216956d0b53c379d204bd84d2d55d186c74f784df8911770b96f934775f44f7141a5f1b9b5e773cb7a
+runfiles size=5
+ texmf-dist/scripts/ctanupload/ctanupload.pl
+catalogue-also ctanify
+catalogue-ctan /support/ctanupload
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics ctan
+catalogue-version 1.2c

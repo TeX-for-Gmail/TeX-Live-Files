@@ -1,0 +1,9 @@
+name bib2gls.x86_64-linux
+category Package
+revision 45266
+shortdesc x86_64-linux files of bib2gls
+containersize 372
+containerchecksum 8c979dbb4303241cb6d4877eaeb1158a75c4af77cb85d35812f66329c3d521a71c3bef97cc5a9e2e979a7c27d3a3d95f2015ac9058c717a542fed4478588464d
+binfiles arch=x86_64-linux size=2
+ bin/x86_64-linux/bib2gls
+ bin/x86_64-linux/convertgls2bib

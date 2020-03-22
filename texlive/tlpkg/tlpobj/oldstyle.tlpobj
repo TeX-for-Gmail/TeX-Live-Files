@@ -1,0 +1,23 @@
+name oldstyle
+category Package
+revision 15878
+shortdesc Old style numbers in OT1 encoding
+longdesc Font information needed to load the cmmi and cmmib fonts for
+longdesc use to produce oldstyle numbers.
+containersize 1688
+containerchecksum 968ff7b641f6ae6e8aaf43d1ae9617710b0bfed9894dad135cfd11050eef1c35c48d589d58d3a94e34f93c22d85c58b047ce8d0bbf0ae5c2e645de72e327f9cb
+doccontainersize 51512
+doccontainerchecksum 79e2c2d155bab57456cf7d2ec08930d54e538a830c1e7fb12c0731b246b917840d0ba06d31939ca97e7a20e53a061caa5a5a3beb139fc1a05f32dd9497a37ca7
+srccontainersize 2636
+srccontainerchecksum a9200c32d19045cd56121a64727c1465ef16f48269e4b9bc6957106451694707fc0fc3db253e0db425fa8396b32560b5922f8556fafdeb68ad129d90f027d944
+runfiles size=2
+ texmf-dist/tex/latex/oldstyle/Ucmm.fd
+ texmf-dist/tex/latex/oldstyle/oldstyle.sty
+catalogue-also eco
+catalogue-contact-repository https://github.com/rf-latex/oldstyle
+catalogue-contact-support https://github.com/rf-latex/oldstyle/issues
+catalogue-ctan /macros/latex/contrib/oldstyle
+catalogue-date 2018-09-15 15:48:11 +0200
+catalogue-license lppl
+catalogue-topics font-supp
+catalogue-version 0.2

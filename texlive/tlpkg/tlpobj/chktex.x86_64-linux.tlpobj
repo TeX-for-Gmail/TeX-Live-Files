@@ -1,0 +1,10 @@
+name chktex.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of chktex
+containersize 55072
+containerchecksum 61b5acf781542d9a6c83c1bae2184c8dfa58325b335a3481f56563a6e37d3abc4b8b2b1a66e4666004e95236410abcae429a238d1497c24b72bdfa72176b413f
+binfiles arch=x86_64-linux size=36
+ bin/x86_64-linux/chktex
+ bin/x86_64-linux/chkweb
+ bin/x86_64-linux/deweb

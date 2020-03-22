@@ -1,0 +1,21 @@
+name labbook
+category Package
+revision 15878
+shortdesc Typeset laboratory journals
+longdesc This class is designed to typeset laboratory journals that
+longdesc contain chronologically ordered records about experiments. From
+longdesc the sectioning commands, an experiment index is generated. The
+longdesc class is based on the KOMA-Script class scrbook.cls. There can
+longdesc be several index entries for one experiment.
+containersize 4180
+containerchecksum 92bd582cc729bcd3cea6979771e934d5a4a194536ff89a475309d3999ab0a2ab70d5ba5be6f0353e97498ab4e971e3209df9a3ca4ac99a8c9de27586a0f4a3b0
+doccontainersize 210236
+doccontainerchecksum 98758f4cc186df470e8a16b2e9365f3bec585be18c0fa8700df238befe052ad69b697357c7d89b19233a9cf2b308c29a54bf84215fa3ca8859111b0214971ed2
+srccontainersize 23192
+srccontainerchecksum 23b9f993dbd431328590617c6715bb082cd1dac757db003b05296d318a002e85c8c541f5ce6a45703fa2cc481c7af98fe41e483c77b5025e50de324b68fcf525
+runfiles size=5
+ texmf-dist/tex/latex/labbook/labbook.cls
+catalogue-ctan /macros/latex/contrib/labbook
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics record-keep class

@@ -1,0 +1,26 @@
+name collection-langcjk
+category Collection
+revision 45194
+shortdesc Chinese/Japanese/Korean (base)
+longdesc Packages supporting a combination of Chinese, Japanese, Korean,
+longdesc including macros, fonts, documentation.  Also Thai in the c90
+longdesc encoding, since there is some overlap in those fonts; standard
+longdesc Thai support is in collection-langother.  Additional packages
+longdesc for CJK are in their individual language collections.
+depend collection-basic
+depend adobemapping
+depend c90
+depend cjk-gs-integrate
+depend cjk
+depend cjkpunct
+depend cjkutils
+depend dnp
+depend garuda-c90
+depend fixjfm
+depend jfmutil
+depend norasi-c90
+depend pxtatescale
+depend xcjk2uni
+depend zxjafont
+containersize 572
+containerchecksum 959ee256fdf82076f8fa0d5a35f876b3c030e69feaf94cecc68e6e1061d968a72b9389e62b5c18c4d7fd4e98e707a1dfffecca7b7149d0c30388cb0c73870059

@@ -1,0 +1,21 @@
+name braids
+category Package
+revision 23790
+shortdesc Draw braid diagrams with PGF/TikZ
+longdesc The package enables drawing of braid diagrams with PGF/TikZ
+longdesc using a simple syntax. The braid itself is specified by giving
+longdesc a word in the braid group, and there are many options for
+longdesc styling the strands and for drawing "floors".
+containersize 3340
+containerchecksum f817617a2fd6ec5a653f33c23c599f173fd1b1141d597018fcf0675b2ff356f3daa47a53b7ffd6aa7898d771b99d9a959aeafee3cb32c94332ddd88e7d0521e5
+doccontainersize 284704
+doccontainerchecksum b425979b881181c3a6bb27ae22ea128b75177e6078eba284a8896fdd2ee8cdf3421ff861c42968a4a6ac4e75b0b6013cd3c39134b0246895a2f77248e7ebb812
+srccontainersize 8096
+srccontainerchecksum 11fcf2687249f4cc2f611d9b131c82c51311f993780e48b19f51a32ea3e91a198fe01d4aac0339b44227348dbe499454ac57a2ce976f6bbdeb35e839d739259e
+runfiles size=4
+ texmf-dist/tex/latex/braids/braids.sty
+catalogue-ctan /graphics/pgf/contrib/braids
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths diagram
+catalogue-version 1.0

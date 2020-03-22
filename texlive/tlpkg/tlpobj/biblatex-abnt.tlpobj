@@ -1,0 +1,34 @@
+name biblatex-abnt
+category Package
+revision 49179
+shortdesc BibLaTeX style for Brazil's ABNT rules
+longdesc This package offers a BibLaTeX style for Brazil's ABNT
+longdesc (Brazilian Association of Technical Norms) rules.
+containersize 18036
+containerchecksum f2c239aed726d57eb98cef8892c4b4295205d5a8d55a14b16db8bd6b42bf3f51aadb0dc767f97dfbcd8e57a1f867c5e344c604d726453113a007169edee0ff58
+doccontainersize 861432
+doccontainerchecksum 04158e1b92a2976d2a5cc107e00b5e4ab90a85799f9e55b25936fdd0e141fc2196f0f64577bf2eb8997b7ba5b7e8c575bb725febfc397940d271ecd5f56138a8
+runfiles size=50
+ texmf-dist/tex/latex/biblatex-abnt/abnt-ibid.bbx
+ texmf-dist/tex/latex/biblatex-abnt/abnt-ibid.cbx
+ texmf-dist/tex/latex/biblatex-abnt/abnt-numeric.bbx
+ texmf-dist/tex/latex/biblatex-abnt/abnt-numeric.cbx
+ texmf-dist/tex/latex/biblatex-abnt/abnt.bbx
+ texmf-dist/tex/latex/biblatex-abnt/abnt.cbx
+ texmf-dist/tex/latex/biblatex-abnt/american-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/australian-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/brazil-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/brazilian-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/british-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/canadian-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/english-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/portuges-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/portuguese-abnt.lbx
+ texmf-dist/tex/latex/biblatex-abnt/spanish-abnt.lbx
+catalogue-contact-bugs https://github.com/abntex/biblatex-abnt/issues
+catalogue-contact-repository https://github.com/abntex/biblatex-abnt
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-abnt
+catalogue-date 2018-11-17 17:39:25 +0100
+catalogue-license lppl1.3c
+catalogue-topics biblatex journalpub portuguese-br
+catalogue-version 3.4

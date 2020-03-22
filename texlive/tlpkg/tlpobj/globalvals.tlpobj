@@ -1,0 +1,20 @@
+name globalvals
+category Package
+revision 49962
+shortdesc Declare global variables
+longdesc This package allows the user to declare a variable which can
+longdesc then be used anywhere else in a document, including before it
+longdesc was declared.
+containersize 1384
+containerchecksum 815a1aff9e889313854962e44c1c09a41713f4efae915a1d1a65a3f0777a4c36e9987c588c0d6f2f1ea91cfed6c28ffbe045a842ad71fd6babc91ae1bb16aa5f
+doccontainersize 156772
+doccontainerchecksum 36a8b35ad90d9fb797a03b48f8cf818c9514ffe6e7c24be157e04455559d3004ac6011e2dbd16a4c478105b39ec0d2597f74e484a1913bcb180a7209b9191fb3
+runfiles size=1
+ texmf-dist/tex/latex/globalvals/globalvals.sty
+catalogue-contact-bugs https://github.com/charlesbaynham/globalvals/issues
+catalogue-contact-home https://github.com/charlesbaynham/globalvals
+catalogue-ctan /macros/latex/contrib/globalvals
+catalogue-date 2019-02-06 20:53:22 +0100
+catalogue-license lppl1.3c
+catalogue-topics misc-support
+catalogue-version 1.1

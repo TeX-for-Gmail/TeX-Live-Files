@@ -1,0 +1,11 @@
+name pstools.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of pstools
+containersize 4152
+containerchecksum c84e6d60e61ded17f057e03345b5270f1b7712d47afb13dc6b539d6a0cbb1d059058d19a3bdb1634e1e58c41f2a7c40dbfaa444bae5bdba700de4701d86386b2
+binfiles arch=x86_64-linux size=6
+ bin/x86_64-linux/bbox
+ bin/x86_64-linux/ps2eps
+ bin/x86_64-linux/ps2frag
+ bin/x86_64-linux/pslatex

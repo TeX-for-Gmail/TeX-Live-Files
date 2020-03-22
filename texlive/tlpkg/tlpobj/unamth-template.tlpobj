@@ -1,0 +1,17 @@
+name unamth-template
+category Package
+revision 33625
+shortdesc UNAM Thesis LaTeX Template
+longdesc The bundle provides a template for UNAM's College of
+longdesc Engineering Theses. The work is based on Harish Bhanderi's
+longdesc PhD/MPhil template, and the University of Cambridge Engineering
+longdesc Department template.
+containersize 504
+containerchecksum b8d1d3bf42c11c967d9e3889e52e2c9a45aa3e0bf4ac6b6e5a72d69e1bccc2b254954a6828a66ec794dc7126f54d26ba48e3c11efb913d04e50f4867d348d3b1
+doccontainersize 5011364
+doccontainerchecksum eed527d21e7d8669e0a02fd5e880e9172dcc2ca8a1e499b079d1d8f3935b7e84a4c84763b0204bb3b90a9df493bbbba6ee90fefcde6b4975c1360ae119264f61
+catalogue-ctan /macros/latex/contrib/unamth-template
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl3
+catalogue-topics doc-templ dissertation
+catalogue-version 2.0

@@ -1,0 +1,27 @@
+name trsym
+category Package
+revision 18732
+shortdesc Symbols for transformations
+longdesc The bundle provides Metafont source for a small font used for
+longdesc (e.g.) Laplace transformations, together with a LaTeX .fd file
+longdesc and a package providing commands for the symbols' use in
+longdesc mathematics.
+containersize 1876
+containerchecksum e571d1c0c042e2fe75b992c6e0e9e07b04f0368f1e74a51ba91c34a642be148fb817027931ec35831672970725377038b5cc80d34bdb716d936f4aa59075d83a
+doccontainersize 117560
+doccontainerchecksum d6cd64c1c4bbc927f4154c2281ef4c13ab145b750d92561235364a35082e497afc5d8aa5806452757b499b827305a0a183723deb38272ba43bcc38eedc367731
+srccontainersize 2484
+srccontainerchecksum bd9c99b4c5ac266696ab4c3557028d1776a1852000db2e8c1b5a4c2f78e58f25df379a71794faf49e2c0d2ca14116796d8f6d617f4bcbaed7f05a75ec06fd5a5
+runfiles size=7
+ texmf-dist/fonts/source/public/trsym/trsy.mf
+ texmf-dist/fonts/source/public/trsym/trsy10.mf
+ texmf-dist/fonts/source/public/trsym/trsy12.mf
+ texmf-dist/fonts/tfm/public/trsym/trsy10.tfm
+ texmf-dist/fonts/tfm/public/trsym/trsy12.tfm
+ texmf-dist/tex/latex/trsym/trsym.sty
+ texmf-dist/tex/latex/trsym/utrsy.fd
+catalogue-ctan /fonts/trsym
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics font font-symbol font-mf
+catalogue-version 1.0

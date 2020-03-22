@@ -1,0 +1,27 @@
+name enumitem-zref
+category Package
+revision 21472
+shortdesc Extended references to items for enumitem package
+longdesc The package is a companion for the enumitem package; it makes
+longdesc it possible to reference any item in lists formatted by
+longdesc enumitem lists, viz., enumerated, itemize and description
+longdesc lists, and any list defined (or customised) with \newlist or
+longdesc \setlist. References may be typeset differently with
+longdesc options/properties and even arbitrary text. With hyperref,
+longdesc anchors are added for each item to enable hyperlinks within the
+longdesc document or even to external documents. Three schemes are
+longdesc provided to make reference names (including the standard \label
+longdesc command).
+containersize 7148
+containerchecksum 5cd16cd19d63d4825dd1f726ad7617bc892a0d80e41f559234b3f82950f589f044a9816005a089f6837805ab08f07b507e47c5d2d389728adaa5350a76d1c1ea
+doccontainersize 684148
+doccontainerchecksum af4404c0f76f6f693d1fc0a82e0673c461a1acd6a0d7e9cbac10719790e54199deed1b87fae59db4826c2d1874ce59c7c2a1e5ae33286369a4f7e495223fe2e3
+srccontainersize 24884
+srccontainerchecksum 7f5642d0d3f3779b0d66832f509265a17e66c6e3ab4a74e7fdeb0bf4af9c66257eb78a9bb3a1a7dc1747a07ace12607031f861a14664addcc9d707d3f8c5d5ce
+runfiles size=7
+ texmf-dist/tex/latex/enumitem-zref/enumitem-zref.sty
+catalogue-ctan /macros/latex/contrib/enumitem-zref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref list
+catalogue-version 1.8

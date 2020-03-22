@@ -1,0 +1,17 @@
+name munich
+category Package
+revision 15878
+shortdesc An alternative authordate bibliography style
+longdesc The Munich BibTeX style is produced with custom-bib, as a
+longdesc German (and, more generally, Continental European) alternative
+longdesc to such author-date styles as harvard and oxford.
+containersize 6916
+containerchecksum d8d2de2245f24c6993fcd178e2a21891e66b5b99039e8969639d2a9cba15abc6c3c50374db61c8082695a969a69ddce902ff8b5fb8104fe66ba1384ef99b93f2
+doccontainersize 276956
+doccontainerchecksum ed2dc99df090a012f1b1b922659eebe4c2d8523127e17341b9c4b66413acfc89f8b64ed639c8fd40ace0f4fddc8662f42630411c67026311a26fed436a363b78
+runfiles size=8
+ texmf-dist/bibtex/bst/munich/munich.bst
+catalogue-ctan /biblio/bibtex/contrib/munich
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty

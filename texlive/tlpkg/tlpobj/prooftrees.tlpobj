@@ -1,0 +1,29 @@
+name prooftrees
+category Package
+revision 43184
+shortdesc Forest-based proof trees (symbolic logic)
+longdesc The package supports drawing proof trees of the kind often used
+longdesc in introductory logic classes, especially those aimed at
+longdesc students without strong mathemtical backgrounds. Hodges (1991)
+longdesc is one example of a text which uses this system. When teaching
+longdesc such a system it is especially useful to annotate the tree with
+longdesc line numbers, justifications and explanations of branch
+longdesc closures. prooftrees provides a single environment, prooftree,
+longdesc and a variety of tools for annotating, customising and
+longdesc highlighting such trees. A cross-referencing system is provided
+longdesc for trees which cite line numbers in justifications for proof
+longdesc lines or branch closures. prooftrees is based on forest and,
+longdesc hence, TikZ. The package requires version 2.0.2 of Forest for
+longdesc expected results and will not work with version 1.
+containersize 9700
+containerchecksum 9200b35517157199a4e18194f14e8089177ace2970ffce933f949b08f5001c2b3a87ee857cf87750367be0b4c061796c1d0789bfba477b91d94de757688991a3
+doccontainersize 874052
+doccontainerchecksum 80661bb31d86f873ff34e8e140fb18d850cb62863f97e9a943bb61c3f05f6888dd2d8a82b56f504a053d82ca49899b65ad6386c793f1d561bed5c1a2154bdecd
+runfiles size=10
+ texmf-dist/tex/latex/prooftrees/prooftrees.sty
+catalogue-also forest
+catalogue-ctan /graphics/pgf/contrib/prooftrees
+catalogue-date 2017-02-09 05:21:50 +0100
+catalogue-license lppl1.3
+catalogue-topics tree pgf-tikz logic
+catalogue-version 0.6

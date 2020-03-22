@@ -1,0 +1,19 @@
+name hyphen-lithuanian
+category TLCore
+revision 50792
+shortdesc Lithuanian hyphenation patterns.
+longdesc Hyphenation patterns for Lithuanian in L7X and UTF-8 encodings.
+longdesc \lefthyphenmin and \righthyphenmin have to be at least 2.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=lithuanian 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-lt.tex 	file_patterns=hyph-lt.pat.txt 	file_exceptions=
+containersize 7604
+containerchecksum 9a7a2a4e08d7b760797dc4f7c4f8f5aee5228d08ef55783d6f9cfae1f25ab13df85bd27e851f109ccd10a1497f0bf170bdb8799b04cc4e67e1c2301d9047512f
+runfiles size=12
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-lt.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-lt.l7x.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-lt.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-lt.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-lt.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-lt.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-lt.pat.txt

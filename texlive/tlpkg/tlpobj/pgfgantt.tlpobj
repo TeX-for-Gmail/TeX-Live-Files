@@ -1,0 +1,22 @@
+name pgfgantt
+category Package
+revision 46280
+shortdesc Draw Gantt charts with TikZ
+longdesc The package provides an environment for drawing Gantt charts
+longdesc that contain various elements (titles, bars, milestones, groups
+longdesc and links). Several keys customize the appearance of the chart
+longdesc elements.
+containersize 7920
+containerchecksum f4553f0ec519e5a8d5e2ad994f7271cc26d5fc80b20299f1aa816a5c21f159ac809a7a0bfe354cac99dad75c2e0bd8d1803277e069a26c105fb4ee83140274d8
+doccontainersize 929720
+doccontainerchecksum e6ab311ace663099eb878807036c3bda80298e9b591dccdaeccdbd65a46993d2b013353721d54f3833114fb1436296e079e9165b5071acb7d722238a1e6b52bd
+srccontainersize 37128
+srccontainerchecksum e376f0c89d67a698fc9109e974e39b94fdaa661006422ef6b228e1d0f4c273a8f6cde95ee86c788d7051acdb75e693dea704d3d36e2de42ef53c2db320a7b9d6
+runfiles size=12
+ texmf-dist/tex/latex/pgfgantt/pgfgantt.sty
+catalogue-also pst-gantt
+catalogue-ctan /graphics/pgf/contrib/pgfgantt
+catalogue-date 2018-01-10 19:12:31 +0100
+catalogue-license lppl1.3
+catalogue-topics diagram gantt
+catalogue-version 5.0

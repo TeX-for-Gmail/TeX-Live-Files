@@ -1,0 +1,19 @@
+name latex-veryshortguide
+category Package
+revision 41844
+shortdesc The Very Short Guide to LaTeX
+longdesc This is a 4-page reminder of what LaTeX does. It is designed
+longdesc for printing on A4 paper, double-sided, and folding once to A5.
+longdesc Such an 'imposed' version of the document is provided in the
+longdesc distribution, as PDF. An analogous version is provided in
+longdesc 'legal' format.
+containersize 576
+containerchecksum 239b6ae896eb109fb61aaa96149e3b3962fab250a4e017baf81da0ba7836837c1920456eec8fd20999535c96fe415115a621e73e639cbebf64cc2b14989c93cb
+doccontainersize 975444
+doccontainerchecksum aa58ce07f56dd819b6a3b618a518384547350a4582828020f5b45752c1dbb88d5f36c5b5bb831129352489bba8f5c19f89d38c99585da9253f01311ea63d3232
+catalogue-also latex-brochure
+catalogue-contact-home http://latex.silmaril.ie/veryshortguide/
+catalogue-ctan /info/latex-veryshortguide
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics tut-latex

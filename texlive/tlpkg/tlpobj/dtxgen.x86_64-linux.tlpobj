@@ -1,0 +1,8 @@
+name dtxgen.x86_64-linux
+category Package
+revision 29031
+shortdesc x86_64-linux files of dtxgen
+containersize 336
+containerchecksum 7b36ae067898cdc73dc73241afd18f0eb121f9d9cb4e084d4ecf04e96d7b01585994159f7334b9cb40faf4010cf7a2646de7565117c5e2cf48a5063cc5d8edf0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/dtxgen

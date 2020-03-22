@@ -1,0 +1,30 @@
+name fonts-churchslavonic
+category Package
+revision 43121
+shortdesc Fonts for typesetting in Church Slavonic language
+longdesc The package provides Unicode-encoded OpenType fonts for Church
+longdesc Slavonic.
+containersize 1497740
+containerchecksum ab57be2bda808cce456fe2fe75d0c9f7560d1ed376631c907723d156360f8f20f734d4a2379273c8b8378a6cc124376574c162e3f95c4588c688dce34fb49029
+doccontainersize 518596
+doccontainerchecksum 596ae1cb37b35ab59bc712653ec873250cded1968b3e4874295692812ad4001c6f352c396ef6d224571da630d730cbe41f98bc5a3a5374a2f9532f9424f7a0b9
+runfiles size=1049
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/FedorovskUnicode.otf
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/IndictionUnicode.otf
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/MenaionUnicode.otf
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/MonomakhUnicode.otf
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/PomorskyUnicode.otf
+ texmf-dist/fonts/opentype/public/fonts-churchslavonic/PonomarUnicode.otf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/FedorovskUnicode.ttf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/IndictionUnicode.ttf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/MenaionUnicode.ttf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/MonomakhUnicode.ttf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/PomorskyUnicode.ttf
+ texmf-dist/fonts/truetype/public/fonts-churchslavonic/PonomarUnicode.ttf
+catalogue-also churchslavonic
+catalogue-contact-repository https://github.com/typiconman/fonts-cu/
+catalogue-ctan /fonts/fonts-churchslavonic
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license ofl
+catalogue-topics font font-otf churchslavonic
+catalogue-version 1.1

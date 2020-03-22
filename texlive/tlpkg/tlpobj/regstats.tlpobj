@@ -1,0 +1,22 @@
+name regstats
+category Package
+revision 25050
+shortdesc Information about register use
+longdesc The package will report number of used registers (counter,
+longdesc dimen, skip, muskip, box, token, input, output, math families,
+longdesc languages, insertions), and will compare the number to the
+longdesc maximum available number of such registers.
+containersize 3648
+containerchecksum 95e68cf4ea4cbb34801a7412ef1ce87fd75d017681e43ccb86e56ff47494aaf95e3cdccb4f0c2ea6a276d99960df881857d9a138368fa6cd37d7f38554ad84dc
+doccontainersize 398972
+doccontainerchecksum 1883f17190f3b24414dc8ef7f874cb50d682b5dcdf45f8bf95fd15b3347996de37a7839b727da4cdc9e39869ee1def31ed1b2be02e48bc68a81c0d2f8aef8be2
+srccontainersize 13252
+srccontainerchecksum 4e7392bd85860ae971fcd06025f5753d7f2c815cb216d6a53eba1504c4f9de7fee9826807149826ee69c6776f17a0f0f537ffe7ad1be04597ce221d5cd8f7ff4
+runfiles size=4
+ texmf-dist/tex/latex/regstats/regstats.sty
+catalogue-also regcount
+catalogue-ctan /macros/latex/contrib/regstats
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp
+catalogue-version 1.0h

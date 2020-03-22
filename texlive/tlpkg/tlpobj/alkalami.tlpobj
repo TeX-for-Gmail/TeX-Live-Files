@@ -1,0 +1,19 @@
+name alkalami
+category Package
+revision 44497
+shortdesc A font for Arabic-based writing systems in Nigeria and Niger
+longdesc This font is designed for Arabic-based writing systems in the
+longdesc Kano region of Nigeria and Niger.
+containersize 98212
+containerchecksum 57d8a09d5643536cb2341cfd7bd84f24f101ebd73ef1456a39fa8557fc81bb6bddfb58990c38d4da229da5c6ccba0b4d956d82f7d07d65c57a87c749ba3ef841
+doccontainersize 29400
+doccontainerchecksum c9ebe4fc7bbcb254e0fa0f027e93680be2d1690cded2d9b18f3da091544b05f5dcf38b87400f8c5b8d4dd9ec320379c752615fea99d010a118bf35f4693c704a
+runfiles size=74
+ texmf-dist/fonts/truetype/public/alkalami/Alkalami-Light.ttf
+ texmf-dist/fonts/truetype/public/alkalami/Alkalami-Regular.ttf
+catalogue-contact-home http://software.sil.org/alkalami/
+catalogue-ctan /fonts/alkalami
+catalogue-date 2017-06-07 05:22:03 +0200
+catalogue-license ofl
+catalogue-topics font-arabic font-ttf
+catalogue-version 1.000

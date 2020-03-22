@@ -1,0 +1,20 @@
+name convbkmk
+category Package
+revision 49252
+shortdesc Correct platex/uplatex bookmarks in PDF created with hyperref
+longdesc The package provides a small Ruby script that corrects
+longdesc bookmarks in PDF files created by platex/uplatex, using
+longdesc hyperref.
+depend convbkmk.ARCH
+containersize 5812
+containerchecksum 01bb9621459bac7eecc99b1d9aa59de420ba805b2e0ecdb2a89f5c86fa4a3021d957b4ddc69617ea406e77865d68e40c657979c488fc51f4676d084cfe6181cd
+doccontainersize 960
+doccontainerchecksum 937d436cb9387eac601883ced516fa40f60e606bb4bae0be62e1ded2a31754a1d00461a34ad533cce1cc48f4d11e880233eaac128d80841e0b22f18801e86506
+runfiles size=4
+ texmf-dist/scripts/convbkmk/convbkmk.rb
+catalogue-contact-repository https://github.com/t-tk/convbkmk
+catalogue-ctan /support/convbkmk
+catalogue-date 2018-11-25 13:02:44 +0100
+catalogue-license mit
+catalogue-topics pdfprocess
+catalogue-version 0.30

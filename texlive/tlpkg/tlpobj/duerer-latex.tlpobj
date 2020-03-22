@@ -1,0 +1,21 @@
+name duerer-latex
+category Package
+revision 15878
+shortdesc LaTeX support for the Duerer fonts
+longdesc LaTeX support for Hoenig's Computer Duerer fonts, using their
+longdesc standard fontname names.
+containersize 1136
+containerchecksum e474634e00b86878bc0c09ff247a930e102621d3606079d72e7c284a8ec61d2a2b36f1d09c171b7a4953981dea65df49da1962f01df272fa80354281a3209bc6
+doccontainersize 150404
+doccontainerchecksum d1ea1a023e9f2f1ea4e0fa045d8831f764dbef34d1ef2ec96090f7f7a49aa1f4ed2df63bb611ee354a1e816a204841fbd7f4059a14ed06d758a31ca9f460d50a
+runfiles size=5
+ texmf-dist/tex/latex/duerer-latex/duerer.sty
+ texmf-dist/tex/latex/duerer-latex/ot1cdin.fd
+ texmf-dist/tex/latex/duerer-latex/ot1cdr.fd
+ texmf-dist/tex/latex/duerer-latex/ot1cdss.fd
+ texmf-dist/tex/latex/duerer-latex/ot1cdtt.fd
+catalogue-ctan /macros/latex/contrib/duerer-latex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics font-supp
+catalogue-version 1.1

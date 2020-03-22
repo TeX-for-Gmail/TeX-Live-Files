@@ -1,0 +1,21 @@
+name datetime2-hebrew
+category Package
+revision 47534
+shortdesc Hebrew language module for the datetime2 package
+longdesc This module provides the "hebrew" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2164
+containerchecksum c9bfe10e1cda7e3890cd79fac15a8f629ece47971caa43229fe73236e80e1f476411aa4d05be61f7f03bc34324b114ccac2585b83cced2d38a28f279639523d1
+doccontainersize 270888
+doccontainerchecksum 636dd01321842cd0ae1c3a1ed8ef41e1704d720aeb830f03a93c921c4735c1913211a1d987a1b430e312c57440a11cf8cb80f4336b4770a13fddbd9d6a5c3cbe
+srccontainersize 3884
+srccontainerchecksum 9d1cd5f81a144ebe0efed5773ccc480fa2a14fca7411ac621a489884873dc7fcc6d877c66c7e70ec6736f4e2f6a90b57c9db0516baec961230f14dc6fb55d404
+runfiles size=2
+ texmf-dist/tex/latex/datetime2-hebrew/datetime2-hebrew.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-hebrew
+catalogue-date 2018-04-18 18:21:23 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time hebrew multilingual
+catalogue-version 1.1

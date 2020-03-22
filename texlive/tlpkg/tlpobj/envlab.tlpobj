@@ -1,0 +1,24 @@
+name envlab
+category Package
+revision 15878
+shortdesc Addresses on envelopes or mailing labels
+longdesc A LaTeX package for producing mailing envelopes and labels,
+longdesc including barcodes and address formatting according to the US
+longdesc Postal Service rules. Redefines the standard \makelabels
+longdesc command of the LaTeX letter documentclass.
+containersize 5524
+containerchecksum ba20028efa3c286132133d8c292fbc02d77881e64923ca98cece98fbe1e60acf4033b8308a3f9f31f144de071938698a75add803436e1205f7baa820a308a4f1
+doccontainersize 341332
+doccontainerchecksum 4dedc851e00f82ff3bb912e99bf112f4e464b129b89ed75ac41cab9e9ec8c54a32ace3901a3bdc11c90597cfc0481fc7cfc89b4b95bc9aa0c8850a1e8ec88cc9
+srccontainersize 14628
+srccontainerchecksum 9181b7083e3b57329effd0c9ef462a626f8de6db5eb6dbf6800237348a010b74eaeaf11ffa2b491ddf324f0d9bb2c792b9fdda238b887df057b82dfa4fbf04cf
+runfiles size=7
+ texmf-dist/tex/latex/envlab/envlab.cfg
+ texmf-dist/tex/latex/envlab/envlab.sty
+catalogue-also akletter dinbrief formlett
+catalogue-contact-home http://users.lk.net/~borisv/latex.html
+catalogue-ctan /macros/latex/contrib/envlab
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics letter barcode class
+catalogue-version 1.2

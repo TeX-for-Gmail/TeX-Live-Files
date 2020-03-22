@@ -1,0 +1,9 @@
+name collection-texworks
+category Collection
+revision 36934
+shortdesc TeXworks editor; TL includes only the Windows binary
+longdesc See http://tug.org/texworks.
+depend collection-basic
+depend texworks
+containersize 340
+containerchecksum 76e9ad96aa649c70442533135cb3e198278a8df631f91f23b55bd2977eccacd81a2bafa6cf4f0fd1e83f86dd591a85eb8aaa93c5928b2cb9766683d089994199

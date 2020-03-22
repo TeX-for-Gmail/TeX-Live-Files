@@ -1,0 +1,19 @@
+name image-gallery
+category Package
+revision 15878
+shortdesc Create an overview of pictures from a digital camera or from other sources
+longdesc The class may be used to create an overview of pictures from a
+longdesc digital camera or from other sources. It is possible to adjust
+longdesc the size of the pictures and all the margins. The example file
+longdesc shows the usage.
+containersize 2032
+containerchecksum 0435d5011bdaac97c6f36202a03cbe52cb45f83d7dcf37111b9c68706e4cc971b5b13ab5fe0b29cb296f7af4b217a64b5507ea00dfe63e8496e10b5adefeed8b
+doccontainersize 726128
+doccontainerchecksum ae9c965bcaeaae17b8a815bac824093a5834f2b96c99bf44527d915ae251cf1dc818279f78d3cbe75e51875e658d47baa3b9657e27f5121ed4e259ae5cc052b9
+runfiles size=2
+ texmf-dist/tex/latex/image-gallery/image-gallery.cls
+catalogue-ctan /macros/latex/contrib/image-gallery
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use class
+catalogue-version 1.0j

@@ -1,0 +1,26 @@
+name ulqda
+category Package
+revision 26313
+shortdesc Support of Qualitative Data Analysis
+longdesc The package is for use in Qualitative Data Analysis research.
+longdesc It supports the integration of Qualitative Data Analysis (QDA)
+longdesc research tasks, specifically for Grounded Theory, into the
+longdesc LaTeX work flow. It assists in the analysis of textual data
+longdesc such as interview transcripts and field notes by providing the
+longdesc LaTeX user with macros which are used to markup textual
+longdesc information -- for example, in-depth interviews.
+depend ulqda.ARCH
+containersize 5056
+containerchecksum 228132cc464dfe171426fffec6103f0dd5eac61c112b03d64d98bc89a0af0ddb7f52f27f9bb5461c8be6f752ae30ef3d4c6b987e580d834eb7524d5c27d956cf
+doccontainersize 252628
+doccontainerchecksum 182dbcb73a25e05035f878696887ea219569a1a7ef44281bee14b4498b37e92346e0e97d187a5f3dbcd8d9783f260080ff10f58dfe41e69caec4888d901b9128
+srccontainersize 21072
+srccontainerchecksum 352f1a739cb9c74c0dae529ff330f3269e763242af4dd1bc0aca963b3af03f02f5becad436cc3a93aa105359a1bf2f229b3cdb7175d539d58df67563b490de8f
+runfiles size=5
+ texmf-dist/scripts/ulqda/ulqda.pl
+ texmf-dist/tex/latex/ulqda/ulqda.sty
+catalogue-ctan /macros/latex/contrib/ulqda
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics humanities
+catalogue-version 1.1

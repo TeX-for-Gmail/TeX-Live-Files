@@ -1,0 +1,8 @@
+name mkjobtexmf.x86_64-linux
+category Package
+revision 8601
+shortdesc x86_64-linux files of mkjobtexmf
+containersize 340
+containerchecksum 6738365c83a915ec8e3c8d06e2871ebf5426b19873981efe49e0a78241eae5d4d4329f319b6cf53332ecf4ed46586ca438c8017f33d4e7cdb80c446e3dcf3d3d
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/mkjobtexmf

@@ -1,0 +1,21 @@
+name texments
+category Package
+revision 15878
+shortdesc Using the Pygments highlighter in LaTeX
+longdesc A package which allows to use the Pygments highlighter inside
+longdesc LaTeX documents. Pygments supports syntax colouring of over 50
+longdesc types of files, and ships with multiple colour schemes.
+containersize 1352
+containerchecksum 6b0bc365ff7ba6a8118a4e83350e73d5c4dc40e6c30a0ed3267f0f20178a08264866bd016aa3a9da72d4f27a20bf7e8f658417561468294745b78911ff46fd4a
+doccontainersize 87000
+doccontainerchecksum 67b7843546704e9b48f6ffe75a33ab68a5d8ededf3cd45ca329c6ca5ffcc783f4ecb9a663fc4eb94fb554e3c43e753512f82dc8f2f7924c1bf4bb8942aabf749
+srccontainersize 4868
+srccontainerchecksum 92d2216144fcbcc96907fd09ece64428684476ab8e9f3a0c60e898f9f4cf7e0627fb145adbd8186d56a6d5a21563c41d62871e860ad51d9b74e5a0f6441a44de
+runfiles size=1
+ texmf-dist/tex/latex/texments/texments.sty
+catalogue-also minted verbments
+catalogue-ctan /macros/latex/contrib/texments
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics listing
+catalogue-version 0.2.0

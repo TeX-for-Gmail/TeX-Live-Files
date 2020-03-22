@@ -1,0 +1,15 @@
+name lshort-persian
+category Package
+revision 31296
+shortdesc Persian (Farsi) introduction to LaTeX
+longdesc A Persian (Farsi) translation of Oetiker's (not so) short
+longdesc introduction.
+containersize 404
+containerchecksum 6430462b11786fe3703e78efc9f1486da78db15601ae31e72a95d516d10a098c8b4c5dc9079490e652c57369698d3b4fe4d75b32c44ddd2a470aa5cbc79ab492
+doccontainersize 849972
+doccontainerchecksum 9e7c43f3df8299db4bfad3c0b270c5b54a1448370e6782d095dd9a9b82ccc186aae98da86b2efe71c34031a5f4a07f54f4640de6d8b6fad913252979d440ccd1
+catalogue-ctan /info/lshort/persian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics persian-doc
+catalogue-version 5.01

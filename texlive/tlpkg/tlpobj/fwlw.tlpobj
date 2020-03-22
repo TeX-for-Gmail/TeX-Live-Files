@@ -1,0 +1,19 @@
+name fwlw
+category Package
+revision 29803
+shortdesc Get first and last words of a page
+longdesc The package extracts the first and last words of a page,
+longdesc together with the first word of the next page, just before the
+longdesc page is formed into the object to print. The package defines a
+longdesc couple of page styles that use the words that have been
+longdesc extracted.
+containersize 3064
+containerchecksum ac2c981bcc4da92a7f91c3ac17d66c4e0e7c94ff1bdb3bf3c7f6a4eef19fad1ecbbc6048a5c74627126c7e1190ee18c2c9373e80d52130a2d272c58ef70de6fc
+doccontainersize 36676
+doccontainerchecksum bb55ca044aafb5b11b89b3c817066c4fb20facba8812667398ecf945bd8ed4b11bec2dfd21455db9cfa5e81e5f865655a3e6f4d3724bf40e47ad1db708896902
+runfiles size=2
+ texmf-dist/tex/latex/fwlw/fwlw.sty
+catalogue-ctan /macros/latex/contrib/fwlw
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics page-hf

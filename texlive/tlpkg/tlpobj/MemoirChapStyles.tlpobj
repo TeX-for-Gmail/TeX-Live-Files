@@ -1,0 +1,20 @@
+name MemoirChapStyles
+category Package
+revision 25918
+catalogue memoirchapterstyles
+shortdesc Chapter styles in memoir class
+longdesc A showcase of chapter styles available to users of memoir: the
+longdesc six provided in the class itself, plus many from elsewhere (by
+longdesc the present author and others). The package's resources apply
+longdesc only to memoir, but the package draws from a number of sources
+longdesc relating to standard classes, including the fncychap package,
+longdesc and Vincent Zoonekynd's tutorial on headings.
+containersize 604
+containerchecksum 83455766eb557edebad28b73c5decb0a7a23f097bdfb795cad9cc0847af916ab012fd044a63dc9893932ce0f161e831a2a8e7c0138a2157e0f1f4f2211667c16
+doccontainersize 755400
+doccontainerchecksum 32b171486838a762b2cd49af46d3f2a152e9d592735a15a407784cde02e5be9281798302eb094f0c045f895a8f6e86464e9c214bd06f9061c313807ec36cbb1f
+catalogue-ctan /info/latex-samples/MemoirChapStyles
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics use-sample
+catalogue-version 1.7e

@@ -1,0 +1,24 @@
+name memorygraphs
+category Package
+revision 49631
+shortdesc TikZ styles to typeset graphs of program memory
+longdesc This package defines some TikZ styles and adds anchors to
+longdesc existing styles that ease the declaration of "memory graphs".
+longdesc It is intended for graphs that represent the memory of a
+longdesc computer program during its execution.
+containersize 2048
+containerchecksum e35c7e727cf5d6e496c9c0e52252b5169670006b9bc9e96b1c95584085d57a3f25cb9464bb55fc4138640ebb6fdb079908cc49c0f1bfff130a509b6866d3eec1
+doccontainersize 191084
+doccontainerchecksum 1c04e25d1c16348e594191c17f9f104e9388bb608b10783927ab3412f2f316138d6b41242046f12853b37560873bb61e0a0ec3f884cf8fc26ae2ba5809b094c0
+runfiles size=2
+ texmf-dist/tex/latex/memorygraphs/memorygraphs.sty
+catalogue-contact-bugs https://gitlab.science.ru.nl/cstaps/memorygraphs/issues
+catalogue-contact-development https://gitlab.science.ru.nl/cstaps/memorygraphs
+catalogue-contact-home https://gitlab.science.ru.nl/cstaps/memorygraphs
+catalogue-contact-repository https://gitlab.science.ru.nl/cstaps/memorygraphs
+catalogue-contact-support https://gitlab.science.ru.nl/cstaps/memorygraphs/issues
+catalogue-ctan /graphics/pgf/contrib/memorygraphs
+catalogue-date 2019-01-07 10:23:44 +0100
+catalogue-license lppl1.3
+catalogue-topics graphics pgf-tikz
+catalogue-version 0.1.1

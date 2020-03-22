@@ -1,0 +1,8 @@
+name listings-ext.x86_64-linux
+category Package
+revision 15093
+shortdesc x86_64-linux files of listings-ext
+containersize 344
+containerchecksum 0bedc989d08718d49eac6f7557ec3b3e6737d1cc40f458fdf07cd207ab100800bb1370da3d300edc6653ff11a7f19b1fd95747eaeda09e1043377c7a161cf00c
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/listings-ext.sh

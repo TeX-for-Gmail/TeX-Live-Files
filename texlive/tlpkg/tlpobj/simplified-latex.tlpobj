@@ -1,0 +1,13 @@
+name simplified-latex
+category Package
+revision 20620
+shortdesc A Simplified Introduction to LaTeX
+longdesc An accessible introduction for the beginner.
+containersize 380
+containerchecksum 31313aede3900675d183bfcff0045df5fa7719b982df1822823c15d645c7ef64c0b46e0f1690d98d30b2a6057e082684f23cb61a490fb2217887d0f20231ce73
+doccontainersize 942836
+doccontainerchecksum f5bf92ed89cfc83f306cd4b2599446a11b73f73a0b82afbd0f441e26d837e6f436913bd2df18585c5e215fa0504bfee3d5d4f5ef4da8925161f85c70c14045e6
+catalogue-ctan /info/simplified-latex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tut-latex

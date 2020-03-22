@@ -1,0 +1,8 @@
+name installfont.x86_64-linux
+category Package
+revision 19743
+shortdesc x86_64-linux files of installfont
+containersize 344
+containerchecksum 67a11b5845c1cbc37429ea14abe428214b2806cf13c0c2c048cc11beacd7f98fcde50a28f694fc33c6e3a7bfc09d41d0601a7b5a0f9a3351ae1d6b1a7e577cab
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/installfont-tl

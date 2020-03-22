@@ -1,0 +1,20 @@
+name xcolor-solarized
+category Package
+revision 41809
+shortdesc Defines the 16 colors from Ethan Schoonover's Solarized palette
+longdesc Built on top of the package, this package defines the sixteen
+longdesc colors of Ethan Schoonover's popular color palette, Solarized,
+longdesc for use in documents typeset with LaTeX and Friends.
+containersize 1644
+containerchecksum be443123bb994c40fde0c1783c9863a2ce8b75a8e3e3d311cc34596e72f2830dc92feee9fe87638adee2e942d540424bc389460e12aa0e33fe4014b28a1d46f7
+doccontainersize 469792
+doccontainerchecksum a448de4d83ff30c2112c90fdf80f530b8e1ee46d6b3f574ad0933cbd415debd1f94cb1c55d6de5679d5502cf8e0e28b71cdbca803f0569422e79bf0ced384f45
+srccontainersize 4752
+srccontainerchecksum c7f4bac922f84d2e6323f93cbbaa8ec61aa8f532383469edeb8712d4aa557a25509c4c85d160a30715af9a4077d17e6149b737c499dabb22af8a9cc398f4ec9b
+runfiles size=1
+ texmf-dist/tex/latex/xcolor-solarized/xcolor-solarized.sty
+catalogue-ctan /macros/latex/contrib/xcolor-solarized
+catalogue-date 2016-11-16 08:10:30 +0100
+catalogue-license lppl1.3
+catalogue-topics colour
+catalogue-version 0.4

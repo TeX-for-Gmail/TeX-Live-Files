@@ -1,0 +1,21 @@
+name steinmetz
+category Package
+revision 15878
+shortdesc Print Steinmetz notation
+longdesc The steinmetz package provides a command for typesetting
+longdesc complex numbers in the Steinmetz notation used in
+longdesc electrotechnics as: <modulus>;<argument or phase inside an
+longdesc angle symbol> The package makes use of pict2e.
+containersize 1352
+containerchecksum 8ff095645447f9349d2b35ab5ccde72109eddcd85ad3c9de262833320ffcbe94c2fb08df5323c69fc64cdf173ee7193ce2ce887f1c033997455a33f290cf1884
+doccontainersize 102708
+doccontainerchecksum e409db74c366c5f49011a6e21355150e3e97d16c1e3a7fcbf06cc8aa0db2c01288dfc60b3c79e539936077e452c40dd601490be8976c57d01f9a5a88a3798093
+srccontainersize 4880
+srccontainerchecksum c18fde06e32eb4155921bdd7e4dca7ca108139859545c638f562f82deb6feec904a53870c929482504ddf28858ce5ad3c5abf4148b3bfec0193f260af432ebe9
+runfiles size=1
+ texmf-dist/tex/latex/steinmetz/steinmetz.sty
+catalogue-ctan /macros/latex/contrib/steinmetz
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics engineering maths
+catalogue-version 1.0

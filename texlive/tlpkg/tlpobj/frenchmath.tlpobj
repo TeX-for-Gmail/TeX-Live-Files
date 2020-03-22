@@ -1,0 +1,23 @@
+name frenchmath
+category Package
+revision 49728
+shortdesc Typesetting mathematics according to French rules
+longdesc The package provides: capital letters in roman style for
+longdesc mathematical mode (package option) some useful macros and
+longdesc aliases for symbols used in France : infeg, supeg, paral
+longdesc several macros for writing french operator names like pgcd,
+longdesc ppcm, Card, rg, Vect correct spacing before a semicolon in
+longdesc mathematical mode (according to french rule)
+containersize 1672
+containerchecksum fd167bea0b19d90a96a0f212921f0b81a070b16ef349049ca6e8f28cb1638b8d252c1a543aa4302dd20a47283845732670ea7b02d56fcdec2f188e89861306b6
+doccontainersize 432812
+doccontainerchecksum 74b19f92565eba1b4171b09325ebb16e79d2bc8b8d74838465f74e18afc1bc8eb1f93e515a862fe0b7eb168995cb54acb15f62405f7ee778b1558733e542be54
+srccontainersize 6776
+srccontainerchecksum fa9b05fb0899f63909066cced97340f85b94f7234c7b5fffe478b257d6802234bc3014400ea3b4706abccca5e4e58cf54dc5da2f3adc85e3a5cfb94fd0d576e2
+runfiles size=1
+ texmf-dist/tex/latex/frenchmath/frenchmath.sty
+catalogue-ctan /macros/latex/contrib/frenchmath
+catalogue-date 2019-01-20 05:31:27 +0100
+catalogue-license lppl1.3
+catalogue-topics maths french
+catalogue-version 1.0

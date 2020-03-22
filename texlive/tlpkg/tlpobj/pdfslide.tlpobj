@@ -1,0 +1,33 @@
+name pdfslide
+category Package
+revision 15878
+shortdesc Presentation slides using pdfTeX
+longdesc This is a package for use with pdfTeX, to make nice
+longdesc presentation slides. Its aims are: to devise a method for
+longdesc easier technical presentation; to help the mix of mathematical
+longdesc formulae with text and graphics which other present day
+longdesc document processing tools fail to accomplish; to exploit the
+longdesc platform independence of TeX so that presentation documents
+longdesc become portable; and to offer the freedom and possibilities of
+longdesc using various backgrounds and other embellishments that a user
+longdesc can imagine to have in as presentation. The package can make
+longdesc use of the facilities of the PPower4 post-processor.
+containersize 43896
+containerchecksum bdb1d91b587375a0d72e317e4a762b9cef984dfa36d94fd7bd13a3e22941f0f1f4c981138b805613f7a62f4d09c7c781fa9e4e5d4b5019a749a8f8a700bf5540
+doccontainersize 165824
+doccontainerchecksum 92008d1e461e5309649ec5160b7dd3796455f04e923f4e5c8593a3a4cc76f704639206c48a4af13bfa9fa3fd735b03ad419f07d1222a45d093a6824aafcb8df1
+runfiles size=25
+ texmf-dist/tex/latex/pdfslide/bg.jpg
+ texmf-dist/tex/latex/pdfslide/d12.jpg
+ texmf-dist/tex/latex/pdfslide/metablue.pdf
+ texmf-dist/tex/latex/pdfslide/metagray.pdf
+ texmf-dist/tex/latex/pdfslide/metagreen.pdf
+ texmf-dist/tex/latex/pdfslide/metalgray.pdf
+ texmf-dist/tex/latex/pdfslide/pdfslide.cfg
+ texmf-dist/tex/latex/pdfslide/pdfslide.sty
+ texmf-dist/tex/latex/pdfslide/slide.clo
+catalogue-also prosper
+catalogue-ctan /macros/latex/contrib/pdfslide
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics presentation

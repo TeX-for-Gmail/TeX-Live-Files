@@ -1,0 +1,23 @@
+name figbib
+category Package
+revision 19388
+shortdesc Organize figure databases with BibTeX
+longdesc FigBib lets you organize your figures in BibTeX databases. Some
+longdesc FigBib features are: Store and manage figures in a BibTeX
+longdesc database; Include figures in your LaTeX document with one short
+longdesc command; Generate a List of Figures containing more/other
+longdesc information than the figure captions; Control with one switch
+longdesc where to output the figures, either as usual float objects or
+longdesc in a separate part at the end of your document.
+containersize 3288
+containerchecksum 1632b372b06d8ef3cc363d6b05e70b8a493f357fb947ca1b8fbb7752d7ffc4ec09904e747a3e9b91b61e5d094c96eee954d533d1b286b372aa57244ec2abc63d
+doccontainersize 133148
+doccontainerchecksum ba42f6cc811fc9e00c41bb6fb410a57a2efe759a0fd0621cd83801963d0ed138dc66a1a245a4b7256cb056f3fe71e883a8fa84d19dda785ba24825e85edfa044
+runfiles size=5
+ texmf-dist/bibtex/bst/figbib/figbib.bst
+ texmf-dist/bibtex/bst/figbib/figbib1.bst
+ texmf-dist/tex/latex/figbib/figbib.sty
+catalogue-ctan /macros/latex/contrib/figbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-util

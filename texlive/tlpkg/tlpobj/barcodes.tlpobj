@@ -1,0 +1,31 @@
+name barcodes
+category Package
+revision 15878
+shortdesc Fonts for making barcodes
+longdesc The package deals with EAN barcodes; Metafont sources for fonts
+longdesc are provided, and a set of examples; for some codes, a small
+longdesc Perl script is needed.
+containersize 6452
+containerchecksum e4b9f432d4464da19d279d8e7a5c2ccbd6dbba27fd175bbe7385c0f34199955c16427fc7bf6b487cad1da0b2e28b94d44267a0042e811fc73a88661f3d312b91
+doccontainersize 129364
+doccontainerchecksum 2054d8b87084bbdccdea4a2c05c43b427249d597880b3870fffb98bcf0bf88adf64c9110e3ff98d1755596d559ab548a464a2d681eb1adbaf57cc748424e0d98
+srccontainersize 21948
+srccontainerchecksum 9b72c54e083622b95df17e643a6466125a22fb62e3ebc64c3b0f5304253ba5625f0ce2e0071dfc4e06643259b4d7b575a1bae5bc6beb213e5bdd3e83074ba9d9
+runfiles size=17
+ texmf-dist/fonts/source/public/barcodes/wlc11.mf
+ texmf-dist/fonts/source/public/barcodes/wlc128.mf
+ texmf-dist/fonts/source/public/barcodes/wlc39.mf
+ texmf-dist/fonts/source/public/barcodes/wlc93.mf
+ texmf-dist/fonts/source/public/barcodes/wlcr39.mf
+ texmf-dist/fonts/source/public/barcodes/wlean.mf
+ texmf-dist/fonts/tfm/public/barcodes/wlc11.tfm
+ texmf-dist/fonts/tfm/public/barcodes/wlc128.tfm
+ texmf-dist/fonts/tfm/public/barcodes/wlc39.tfm
+ texmf-dist/fonts/tfm/public/barcodes/wlc93.tfm
+ texmf-dist/fonts/tfm/public/barcodes/wlcr39.tfm
+ texmf-dist/tex/latex/barcodes/barcodes.sty
+catalogue-also code128 ean pst-barcode
+catalogue-ctan /fonts/barcodes/willadt
+catalogue-date 2016-07-15 12:22:13 +0200
+catalogue-license lppl
+catalogue-topics barcode

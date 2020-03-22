@@ -1,0 +1,18 @@
+name uspatent
+category Package
+revision 27744
+shortdesc U.S. Patent Application Tools for LaTeX and LyX
+longdesc The package provides a class and other tools for developing a
+longdesc beautifully formatted, consistent U.S. Patent Application using
+longdesc LaTeX and/or LyX.
+containersize 4824
+containerchecksum fbcce7a06cc018dfba47aa7e9d572003136d5b179e957f10e2bb42b2635ef4cdd40bbef19e8f827963d048eadb23a1aeedcebc87cf128f5b28cb1ab281408b90
+doccontainersize 2022300
+doccontainerchecksum e0eafb5fadeab38da049d0d5cbadc8fa3dc3c335afe4fd5289fe30de38f0898cdd9dee091b703f6a853eba56b32b161abfe56b3185c71512c9374585e6d9784d
+runfiles size=5
+ texmf-dist/tex/latex/uspatent/uspatent.cls
+catalogue-ctan /macros/latex/contrib/uspatent
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics patent legal class
+catalogue-version 1.0

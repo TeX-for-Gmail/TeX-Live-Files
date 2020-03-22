@@ -1,0 +1,15 @@
+name lexikon
+category Package
+revision 17364
+shortdesc Macros for a two language dictionary
+containersize 2196
+containerchecksum 7c0642f9e727d34175898138d27a838f0432a68659acd7986acb0b74183f28467351c169c52ab057daf46546d8ef9f9bdf30dcb1846b458b6b718ae38633b275
+doccontainersize 180172
+doccontainerchecksum 4f1329d49d92d93743127e4f3ad9401e07529d31d2d68af86373f08b56ae69c22c70b89151461548aefb7fc1f7eca66cc1a4ac73407d82b65bd007f3372243cf
+runfiles size=2
+ texmf-dist/tex/latex/lexikon/lexikon.sty
+catalogue-ctan /macros/latex/contrib/lexikon
+catalogue-date 2016-06-18 16:48:54 +0200
+catalogue-license lppl
+catalogue-topics dictionary
+catalogue-version 1.0c

@@ -1,0 +1,28 @@
+name msg
+category Package
+revision 49578
+shortdesc A package for LaTeX localisation
+longdesc The package is designed to localise any document class or
+longdesc package. This should be very useful for end-users who could
+longdesc obtain messages in their own preferred language. It is really
+longdesc easy to use by writers of other classes and packages.
+longdesc Volunteers are urged to test the package, report, and even to
+longdesc localise the message file to their own language. Documentation
+longdesc is provided in English.
+containersize 7808
+containerchecksum 9419f306ccde237320abe22fe192a2473785244fd337063332a242e029b8650404df7f7d150b196d3bccb0e10e58e25e2b8aefb15627e89eda8636ddc50599e1
+doccontainersize 763960
+doccontainerchecksum 85db0022daca5aeeb50e2eded6214a3b144012bfd0bd433b4f9474307c2a37e57c7a311385b8de4efcdc4e462f39c53f6a5fcfac2eae7263e2d1583b0ba584df
+srccontainersize 18688
+srccontainerchecksum 988d410412b2e7b3617678d0cdb2e8059f7261d48b942eff588c472ccb29e022a3e10ae2302268789331c20705ce062f0930ef53bb785245923ba199ed71b15f
+runfiles size=10
+ texmf-dist/tex/latex/msg/french_msg-msg.tex
+ texmf-dist/tex/latex/msg/german_msg-msg.tex
+ texmf-dist/tex/latex/msg/msg-msg.tex
+ texmf-dist/tex/latex/msg/msg.sty
+ texmf-dist/tex/latex/msg/norsk_msg-msg.tex
+catalogue-ctan /macros/latex/contrib/msg
+catalogue-date 2019-01-02 13:46:13 +0100
+catalogue-license lppl
+catalogue-topics multilingual
+catalogue-version 0.51

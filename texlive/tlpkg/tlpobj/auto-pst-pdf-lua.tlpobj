@@ -1,0 +1,20 @@
+name auto-pst-pdf-lua
+category Package
+revision 49364
+shortdesc Using LuaLaTeX together with PostScript code
+longdesc This package is a slightly modified version of auto-pst-pdf by
+longdesc Will Robertson, which itself is a wrapper for pst-pdf by Rolf
+longdesc Niepraschk. The package allows the use of LuaLaTeX together
+longdesc with PostScript related code, eg. PSTricks. It depends on
+longdesc ifpdf, ifluatex, ifplatform, and xkeyval.
+containersize 2512
+containerchecksum db12bf66e8c4c16de2ecf3caff64deb38eb1c163baac66d0dded1f540d817da4bbb9309620b4ad60000f48319c2b8236ae8ac7a0774bf297d731a0258d4be3d3
+doccontainersize 69040
+doccontainerchecksum b21755948a9a272611d91622fe8e641f485e1ff4ebab4053331431e229b04796895ca9329e2b69921a9fe1f8624f7a635bbed7ab4699fc6aff819d351bce95b9
+runfiles size=2
+ texmf-dist/tex/latex/auto-pst-pdf-lua/auto-pst-pdf-lua.sty
+catalogue-ctan /macros/latex/contrib/auto-pst-pdf-lua
+catalogue-date 2018-12-09 17:51:00 +0100
+catalogue-license lppl1.3c
+catalogue-topics graphics-epspdf
+catalogue-version 0.03

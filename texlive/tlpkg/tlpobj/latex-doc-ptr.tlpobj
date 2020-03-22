@@ -1,0 +1,17 @@
+name latex-doc-ptr
+category Package
+revision 15878
+shortdesc A direction-finder for LaTeX documentation
+longdesc A two-page set of recommendations for users who need on-line
+longdesc documentation of LaTeX. The document supports the need for
+longdesc documentation of LaTeX itself, in distributions. For example,
+longdesc it could be used in the command texdoc latex, in the TeX Live
+longdesc distribution.
+containersize 500
+containerchecksum dfdaaea00e167fa3e4183b6e6a223996d1364707a7cdfc0bb8cc76d02a0c5b3739d8171979dd80540edb571cef84167b24639b265349fc9646d5570e6c48dc61
+doccontainersize 130636
+doccontainerchecksum e5ccf3968aa02ecdedc2a64f0c53b2eccfa3c4df66da5255068248de013753ec4be67937d9c41552f302979edabc53ce64d902a9f13e4174d67f39909adf9735
+catalogue-ctan /info/latex-doc-ptr
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics latex-doc

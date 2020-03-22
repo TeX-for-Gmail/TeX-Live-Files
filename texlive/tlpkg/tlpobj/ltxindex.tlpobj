@@ -1,0 +1,23 @@
+name ltxindex
+category Package
+revision 15878
+shortdesc A LaTeX package to typeset indices with GNU's Texindex
+longdesc A LaTeX package that allows the user to make indexes with GNU's
+longdesc Texindex program, instead of makeindex. It provides the
+longdesc indexing commands available in Texinfo by default, but only
+longdesc defines the concept index (cp) by default -- the user must
+longdesc define other standard indexes, and there is no provision for
+longdesc custom indexes. The package is not currently maintained.
+containersize 2592
+containerchecksum ff757a44f29820ab29946f66766b11a928db11b90269781b8039428aab4bf0b243b317176aebc92cfe95bf2e390be125012daa72ac4b8bfaab81477ed8129ba7
+doccontainersize 76096
+doccontainerchecksum 119f18b8337b365e09b5d6a22ab447bcd0d4d516514c7bc6622d8b1f30aec5746f45d81cfbc07a81aed9de7f47627797b9c7cac3015092f7ca72acd79d5263ec
+srccontainersize 5908
+srccontainerchecksum efadcca7c0224c4bb3814588947f7dc507140dc3624c5cdb3c7a788afa763c1cae5f607bcd4a67872dad97e725afe7e9f99f3a694c8398aebfaacc31f2b737ae
+runfiles size=2
+ texmf-dist/tex/latex/ltxindex/ltxindex.sty
+catalogue-ctan /macros/latex/contrib/ltxindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics index
+catalogue-version 0.1c

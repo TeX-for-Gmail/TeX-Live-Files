@@ -1,0 +1,21 @@
+name mcmthesis
+category Package
+revision 49825
+shortdesc Template designed for MCM/ICM
+longdesc The package offers a template for MCM (The Mathematical Contest
+longdesc in Modeling) and ICM (The Interdisciplinary Contest in
+longdesc Modeling).
+containersize 3516
+containerchecksum 1b74cb3339eae2ea8fbfccdd993b69177f901166015fd10a422471bfd84495774309a7bed56a36a5ff56d3ca119954353f844ec01bd64ae5dc64e7586b1de17d
+doccontainersize 373300
+doccontainerchecksum 5944885065187151f4336d34cc94328f264ea35fde8cce35a0da4a13f52d1261a3bd32885f21ca442694cc98219d2c4a63708f31c918c4768f6e8e8f4bd54f52
+srccontainersize 12824
+srccontainerchecksum 9ca1ba748ca82968a940326ad695ad631f9a4e081a635b845b6ca94467a52a4e63fc67074414a214adfe0f7c14f91e07339b32bff28b5e770b6ae7bdd5ab3b9e
+runfiles size=3
+ texmf-dist/tex/latex/mcmthesis/mcmthesis.cls
+catalogue-contact-repository https://github.com/Liam0205/mcmthesis
+catalogue-ctan /macros/latex/contrib/mcmthesis
+catalogue-date 2019-01-26 10:02:14 +0100
+catalogue-license lppl1.3
+catalogue-topics dissertation class
+catalogue-version 6.2.2

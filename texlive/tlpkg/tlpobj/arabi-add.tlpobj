@@ -1,0 +1,19 @@
+name arabi-add
+category Package
+revision 37709
+shortdesc Using hyperref and bookmark packages with arabic and farsi languages
+longdesc This package takes advantage of some of the possibilities that
+longdesc hyperref and bookmark packages offer when you create a table of
+longdesc contents for Arabic texts created by the arabi package.
+containersize 2600
+containerchecksum 5db89004e82030185f34c0a38e4ba55fe38fb9fa087c7a25ee7f7df9180734ffde0957eec52f0110655ea273202b6cdf63114e3520cb23db80c48c6c74acb0a0
+doccontainersize 168780
+doccontainerchecksum 4c44de9d3b46c605a463fd1704e56c5c61806f6e0dcc130251c81d0c555534e167034b6ba2deec1370e502fd006192540ef415aa42987f69025f18642451396e
+runfiles size=5
+ texmf-dist/tex/latex/arabi-add/arabi-add.sty
+catalogue-also arabi
+catalogue-ctan /language/arabic/arabi-add
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license unknown
+catalogue-topics arabic
+catalogue-version 1.0

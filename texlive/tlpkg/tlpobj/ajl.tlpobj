@@ -1,0 +1,14 @@
+name ajl
+category Package
+revision 34016
+shortdesc BibTeX style for AJL
+longdesc Bibliographic style references in style of Australian Journal
+longdesc of Linguistics.
+containersize 6252
+containerchecksum 083a549d425336eceee0ab8e85ef592aa15983e9a4dcf2264d835b5242933fed8719b81b427fcf7784b38b8e0b3dac2e2a7f8b9ffd10cf2690b96bf8b586ff3d
+runfiles size=8
+ texmf-dist/bibtex/bst/ajl/ajl.bst
+catalogue-ctan /biblio/bibtex/contrib/misc/ajl.bst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty

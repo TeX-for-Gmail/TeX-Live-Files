@@ -1,0 +1,20 @@
+name notoccite
+category Package
+revision 18129
+shortdesc Prevent trouble from citations in table of contents, etc
+longdesc If you have \cite commands in \section-like commands, or in
+longdesc \caption, the citation will also appear in the table of
+longdesc contents, or list of whatever. If you are also using an
+longdesc unsrt-like bibliography style, these citations will come at the
+longdesc very start of the bibliography, which is confusing. This
+longdesc package suppresses the effect.
+containersize 1440
+containerchecksum b63b890933b27717625383488d2cbeb1501ace58b83e5af66a35ba440816527dc879df444af78090294df6d4d412d21fddbab43068a6d677b22d750ddb4105e6
+doccontainersize 227152
+doccontainerchecksum 83b3d2c7b97bb88af13d888d04f08ebb7e79661b4924ed6e328f26b9d19e4c6eea6719b49e6f227dc37c96201a901fe57da3745dfa7151bec27c7e8bfb81b236
+runfiles size=1
+ texmf-dist/tex/latex/notoccite/notoccite.sty
+catalogue-ctan /macros/latex/contrib/notoccite
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics headings cite-supp

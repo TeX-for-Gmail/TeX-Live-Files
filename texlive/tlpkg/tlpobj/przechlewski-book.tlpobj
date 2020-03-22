@@ -1,0 +1,19 @@
+name przechlewski-book
+category Package
+revision 23552
+shortdesc Examples from Przechlewski's LaTeX book
+longdesc The bundle provides machine-readable copies of the examples
+longdesc from the book "Praca magisterska i dyplomowa z programem
+longdesc LaTeX".
+containersize 9680
+containerchecksum 18b9546576957553b477a1c5a90e6780770f18d6aced92b17017c44770b6bfa9c3cf928500a9e56c6c67f45d375bc12ad8ebc97eb1589f3cf7b5b3ed2f7b55c6
+doccontainersize 289780
+doccontainerchecksum 0441621561c2c4208d083f84eaf47573de94248cc1aaf027061de636c1a65f35a307260eaf390257bd02acac34b42963f96030ee27c83650deb11234edec89bf
+runfiles size=10
+ texmf-dist/bibtex/bst/przechlewski-book/papalike.bst
+ texmf-dist/tex/latex/przechlewski-book/upmgr.cls
+ texmf-dist/tex/latex/przechlewski-book/wkmgr.cls
+catalogue-ctan /info/examples/przechlewski-book-examples
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics book-ex

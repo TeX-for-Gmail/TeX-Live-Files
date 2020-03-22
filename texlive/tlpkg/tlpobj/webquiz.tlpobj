@@ -1,0 +1,51 @@
+name webquiz
+category Package
+revision 50694
+shortdesc Write interactive web based quizzes
+longdesc WebQuiz makes it possible to use LaTeX to write interactive web
+longdesc based quizzes. The quizzes are first written in LaTeX and then
+longdesc converted into HTML files using WebQuiz, which is written in
+longdesc Python3. The conversion from LaTeX to HTML is done behind the
+longdesc scenes using TeX4ht.
+depend webquiz.ARCH
+containersize 48288
+containerchecksum 725ff4b81203704a5cbf066c48d25a959031f89eed094da4d6a9b07ad059d977b2026b5e6a1e704999cf3b1b8eeaefcb5713f099f016f9cf17206ec1c1183dac
+doccontainersize 6857256
+doccontainerchecksum 6b25d04e4cff7db299c4f13ceb55525fa3a4ff2d094960fbe8171b3822ce2917d6d868e62ed3a1d2083d78b2ddb839ec211b5ba00a6fd894c29ab2d3a6ca7cb8
+runfiles size=77
+ texmf-dist/scripts/webquiz/CHANGES.rst
+ texmf-dist/scripts/webquiz/LICENCE
+ texmf-dist/scripts/webquiz/README-scripts
+ texmf-dist/scripts/webquiz/webquiz
+ texmf-dist/scripts/webquiz/webquiz.bat
+ texmf-dist/scripts/webquiz/webquiz.py
+ texmf-dist/scripts/webquiz/webquiz_layout.py
+ texmf-dist/scripts/webquiz/webquiz_makequiz.py
+ texmf-dist/scripts/webquiz/webquiz_templates.py
+ texmf-dist/scripts/webquiz/webquiz_util.py
+ texmf-dist/scripts/webquiz/webquiz_xml.py
+ texmf-dist/tex/latex/webquiz/pgfsys-dvisvgm4ht.def
+ texmf-dist/tex/latex/webquiz/webquiz-czech.lang
+ texmf-dist/tex/latex/webquiz/webquiz-doc.code.tex
+ texmf-dist/tex/latex/webquiz/webquiz-english.lang
+ texmf-dist/tex/latex/webquiz/webquiz-french.lang
+ texmf-dist/tex/latex/webquiz/webquiz-german.lang
+ texmf-dist/tex/latex/webquiz/webquiz-greek.lang
+ texmf-dist/tex/latex/webquiz/webquiz-ini.code.tex
+ texmf-dist/tex/latex/webquiz/webquiz-italian.lang
+ texmf-dist/tex/latex/webquiz/webquiz-japanese.lang
+ texmf-dist/tex/latex/webquiz/webquiz-mandarin.lang
+ texmf-dist/tex/latex/webquiz/webquiz-russian.lang
+ texmf-dist/tex/latex/webquiz/webquiz-spanish.lang
+ texmf-dist/tex/latex/webquiz/webquiz-swedish.lang
+ texmf-dist/tex/latex/webquiz/webquiz.cfg
+ texmf-dist/tex/latex/webquiz/webquiz.cls
+ texmf-dist/tex/latex/webquiz/webquiz.ini
+catalogue-also tex4ht
+catalogue-contact-bugs https://github.com/AndrewAtLarge/WebQuiz/issues
+catalogue-contact-repository https://github.com/AndrewAtLarge/WebQuiz
+catalogue-ctan /macros/latex/contrib/webquiz
+catalogue-date 2019-04-01 11:02:04 +0200
+catalogue-license gpl3+
+catalogue-topics exam cvt-html
+catalogue-version 5.2

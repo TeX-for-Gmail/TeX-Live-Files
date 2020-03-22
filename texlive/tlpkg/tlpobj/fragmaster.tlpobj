@@ -1,0 +1,19 @@
+name fragmaster
+category Package
+revision 26313
+shortdesc Using psfrag with pdfLaTeX
+longdesc Fragmaster enables you to use psfrag with pdfLaTeX. It takes
+longdesc EPS files and psfrag substitution definition files, and
+longdesc produces PDF and EPS files with the substitutions included.
+depend fragmaster.ARCH
+containersize 6872
+containerchecksum dc5d80aa4bab7a0a66258face6cf8222d03b12ea492f7cf568ef815a6d5950a8a2b36c7403ab466141f49cb8faedfbb33146820b88da17d8b8fa18a2b16235e4
+doccontainersize 80316
+doccontainerchecksum 61f0bd7dab46bfb91b634006217f01648007cbce3c9187b0811a5cc1755ec19654da94b47866ad9873fd57629f1561d1cc46bf3a4d62db618502aa0e67500637
+runfiles size=5
+ texmf-dist/scripts/fragmaster/fragmaster.pl
+catalogue-ctan /support/fragmaster
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics graphics-prep
+catalogue-version 1.6

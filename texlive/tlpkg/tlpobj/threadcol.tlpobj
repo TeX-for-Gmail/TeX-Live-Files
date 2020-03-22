@@ -1,0 +1,26 @@
+name threadcol
+category Package
+revision 28754
+shortdesc Organize document columns into PDF "article thread"
+longdesc The package combines a document's columns into a PDF "article
+longdesc thread". PDF readers that support this mechanism (probably
+longdesc Adobe Acrobat/Reader only) can be instructed to scroll
+longdesc automatically from column to column, which facilitates
+longdesc on-screen reading of two-column documents. Even for
+longdesc single-column documents, threadcol supports the creation of
+longdesc multiple article threads, which help organize discontiguous but
+longdesc logically related regions of text into a form that the user can
+longdesc scroll through as if its contents were contiguous.
+containersize 1764
+containerchecksum e75f887dc04aa55834c285d5e36babfd0844b79b9d1cc5cfb2eb6412bde9f42b651bfdca9f6819b27f6615aff6f96031135f1a6af3b59503fda34e7566cdb01a
+doccontainersize 290856
+doccontainerchecksum 626ac69b0a26fdbed51876782a9ac2e3b0ab9b32bf3b2f32ce19cce080b5cda40a62160f453199a76b58903d762cc8085a8541fa2de3adc5fea6266592c06bdc
+srccontainersize 93120
+srccontainerchecksum df757dcfd1eec3e8da04939ef69d04ffa59767544a1d5349eb538e111843f4c6dd4374e15bc6e586edac629f61d6979688c229381ad3cd4ad61dc2d48afa7c10
+runfiles size=1
+ texmf-dist/tex/latex/threadcol/threadcol.sty
+catalogue-ctan /macros/latex/contrib/threadcol
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics pdf-feat
+catalogue-version 1.0

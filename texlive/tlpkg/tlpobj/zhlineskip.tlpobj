@@ -1,0 +1,27 @@
+name zhlineskip
+category Package
+revision 49296
+shortdesc Line spacing for CJK documents
+longdesc This package supports typesetting CJK documents. It allows
+longdesc users to specify the two ratios between the leading and the
+longdesc font size of the body text and the footnote text. For CJK
+longdesc typesetting, these ratios usually range from 1.5 to 1.67. This
+longdesc package is also capable of restoring the math leading to that
+longdesc of the Latin text (usually 1.2 times the font size). Finally,
+longdesc it is possible to achieve the Microsoft Word multiple line
+longdesc spacing style using zhlineskip.
+containersize 2368
+containerchecksum d3a85390b51494448c2d877acc26ae68d052c5add4509d7a6d62bfb0b6ba9aa1158a725065a8266b6ad0be2bd37f72e8d319a8dfce1d7172db0b091ab52b647d
+doccontainersize 232132
+doccontainerchecksum 75cc2926cae163698b20f232af799f0f8f4a20b8657a862b86596a8d827da5ad047dc7d95142e77fd5480e24701ada03b331e3df4241a008401c3699f2300576
+runfiles size=2
+ texmf-dist/tex/latex/zhlineskip/zhlineskip.sty
+catalogue-contact-bugs https://github.com/CTeX-org/ctex-kit/issues
+catalogue-contact-home http://www.ctex.org/
+catalogue-contact-repository https://github.com/CTeX-org/ctex-kit
+catalogue-contact-support https://github.com/CTeX-org/ctex-kit/issues
+catalogue-ctan /language/chinese/zhlineskip
+catalogue-date 2018-12-01 06:25:43 +0100
+catalogue-license lppl1.3c
+catalogue-topics chinese
+catalogue-version 1.0d

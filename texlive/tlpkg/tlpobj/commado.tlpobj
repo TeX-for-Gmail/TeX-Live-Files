@@ -1,0 +1,32 @@
+name commado
+category Package
+revision 38875
+shortdesc Expandable iteration on comma-separated and filename lists
+longdesc The bundle provides two packages: commado and filesdo. The
+longdesc package commado provides the command \DoWithCSL:
+longdesc \DoWithCSL{<cmd>}{<list>} applies an existing one-parameter
+longdesc macro <cmd> to each item in a list <list> in which terms are
+longdesc separated by commas. The package filesdo provides the command
+longdesc \DoWithBasesExts: \DoWithBasesExts{<cmd>}{<bases>}{<exts>}
+longdesc which runs the single parameter command <cmd> on each file
+longdesc whose base and extension are respectively from the
+longdesc comma-separated lists <bases> and <exts>. These 'loop'-like
+longdesc commands are (themselves) entirely expandable. The packages
+longdesc rely on packages plainpkg, and stacklet
+containersize 2816
+containerchecksum c5e48910b5e685c792b9dfe191cd8666472e24e7ef6d6c2fdb3bfb05b2f39f4d4ca68cc7b859d07f50e5d596250e36e1664e1ca48666b0e3126eb8c91d27c384
+doccontainersize 596344
+doccontainerchecksum 457d03b34ba53988ff287060d18f993f8e01ca99991505c5373abc05cfdde4cfcdda8fbb6dc3737e91c66ef0b30c083c31e64e326c08d4959ff8ed1a66cd4d33
+srccontainersize 4420
+srccontainerchecksum e0f280bd901ae306f17ef58686345ca38546fd635dde274456af67f41fc05523a91c1f0c0a2b7f433c992193a6442f870031459071a5d7fd6c12f68728f24809
+runfiles size=3
+ texmf-dist/tex/generic/commado/commado.RLS
+ texmf-dist/tex/generic/commado/commado.sty
+ texmf-dist/tex/generic/commado/filesdo.sty
+catalogue-also loops
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/generic/commado
+catalogue-date 2017-05-05 20:31:25 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version r0.11a

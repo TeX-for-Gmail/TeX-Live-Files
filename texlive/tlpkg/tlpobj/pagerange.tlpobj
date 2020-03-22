@@ -1,0 +1,19 @@
+name pagerange
+category Package
+revision 16915
+shortdesc Flexible and configurable page range typesetting
+longdesc The package defines a command \pagerange that typesets ranges
+longdesc of page numbers, expanding them (e.g., adding first or last
+longdesc page numbers) and standardising them.
+containersize 3932
+containerchecksum 9216d443f44deba5cfc4ce04174031cae55f2adffa0f3400bf3f315c3b9003d1ee015fb6df69cb2cba23eb117f2ed191b7033ad46a51bc718260a44778783c47
+doccontainersize 81944
+doccontainerchecksum 862ed02746c6d91a2b8d9e19bb2e943e251dd18f0d94562bce9cc9e8ad603f7554e77ccfa2485b9a4eb7a2d6d5185756985f104d870e95823a4b33072f24bc9b
+runfiles size=3
+ texmf-dist/tex/latex/pagerange/pagerange-guide.cfg
+ texmf-dist/tex/latex/pagerange/pagerange.sty
+catalogue-ctan /macros/latex/contrib/pagerange
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics label-ref macro-supp
+catalogue-version 0.5

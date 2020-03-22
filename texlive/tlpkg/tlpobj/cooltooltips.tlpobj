@@ -1,0 +1,22 @@
+name cooltooltips
+category Package
+revision 15878
+shortdesc Associate a pop-up window and tooltip with PDF hyperlinks
+longdesc The cooltooltips package enables a document to contain
+longdesc hyperlinks that pop up a brief tooltip when the mouse moves
+longdesc over them and also open a small window containing additional
+longdesc text. cooltooltips provides the mechanism used by the Visual
+longdesc LaTeX FAQ to indicate the question that each hyperlink answers.
+containersize 2432
+containerchecksum c17cb15979b575ece2c16dac8d56991c7cb32d99e165205c099b5058b658c60b393696fee5f7178611d5ccdf1d812522640dee56c1c4c881a73a11edc2ec8799
+doccontainersize 189604
+doccontainerchecksum 6a091ed9c41f4cf31d9db7cb2c1c76a342583f9d568ed89380bb624fba35cb3b788abde47f746b0e8a0402da19171fce72c7f356da2a2e4cb8264452f727eff7
+srccontainersize 9564
+srccontainerchecksum 8aad4d9623d41caee76932db0a9436760ee5aef346c68e393e39fbc1ebdebb643b7b5215c232ef04f7968c34e3d0b73e0f4a23d2e060930d97b3a047d1bce149
+runfiles size=2
+ texmf-dist/tex/latex/cooltooltips/cooltooltips.sty
+catalogue-ctan /macros/latex/contrib/cooltooltips
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics pdf-feat
+catalogue-version 1.0

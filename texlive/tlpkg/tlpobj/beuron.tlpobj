@@ -1,0 +1,38 @@
+name beuron
+category Package
+revision 46374
+shortdesc The script of the Beuronese art school
+longdesc This package provides the script used in the works of the
+longdesc Beuron art school for use with TeX and LaTeX. It is a
+longdesc monumental script consisting of capital letters only. The fonts
+longdesc are provided as Metafont sources, in the Type1 and in the
+longdesc OpenType format. The package includes suitable font selection
+longdesc commands for use with LaTeX.
+execute addMap beuron.map
+containersize 50972
+containerchecksum 623d3b7d8747ce1776de9d0ee6eec013c2050f9cb4a521167bcf23435d5e30c1233ee869ccb299360cfb6f8f4b4034a77d4fe601f789211b290684c0858462a2
+doccontainersize 216700
+doccontainerchecksum 812dd30a9b49d7ab5e529f3c7ef934be5d72b75adeec1a38cba77c867525243ffd0d4f4901c9100e6518eb0a8c35e208157b8e3669d3700203ab7fe95aa29845
+runfiles size=36
+ texmf-dist/fonts/map/dvips/beuron/beuron.map
+ texmf-dist/fonts/opentype/public/beuron/Beuron-Regular.otf
+ texmf-dist/fonts/opentype/public/beuron/BeuronCondensed-Regular.otf
+ texmf-dist/fonts/opentype/public/beuron/BeuronExtended-Regular.otf
+ texmf-dist/fonts/source/public/beuron/beuron.mf
+ texmf-dist/fonts/source/public/beuron/beuronbuchst.mf
+ texmf-dist/fonts/source/public/beuron/beuronc.mf
+ texmf-dist/fonts/source/public/beuron/beuronkern.mf
+ texmf-dist/fonts/source/public/beuron/beuronx.mf
+ texmf-dist/fonts/tfm/public/beuron/beuron.tfm
+ texmf-dist/fonts/tfm/public/beuron/beuronc.tfm
+ texmf-dist/fonts/tfm/public/beuron/beuronx.tfm
+ texmf-dist/fonts/type1/public/beuron/beuron.pfb
+ texmf-dist/fonts/type1/public/beuron/beuronc.pfb
+ texmf-dist/fonts/type1/public/beuron/beuronx.pfb
+ texmf-dist/tex/latex/beuron/beuron.sty
+ texmf-dist/tex/latex/beuron/t1beuron.fd
+catalogue-ctan /fonts/beuron
+catalogue-date 2018-01-18 06:45:20 +0100
+catalogue-license lppl1.3
+catalogue-topics font-decor font-mf font-type1 font-otf
+catalogue-version 1.3

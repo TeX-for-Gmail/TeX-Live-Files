@@ -1,0 +1,21 @@
+name lyluatex
+category Package
+revision 47584
+shortdesc Commands to include lilypond scores within a (Lua)LaTeX document
+longdesc This package provides macros for the inclusion of LilyPond
+longdesc scores within LuaLaTeX. It calls LilyPond to compile scores,
+longdesc then includes the produced files.
+containersize 13972
+containerchecksum fb715d0c668827823f5e0ba715613a113972be222814ef7c51ba9bd80fb63481d94e8bd8b493d26ab5c3ddfad419e4ff131f1833ebfd812673f6c4f52b3a82ba
+doccontainersize 878768
+doccontainerchecksum 4dc273f44f5258ff04f1efbcfbf65e70fe9215c8c5d66bb08bb78a63cf995d40fb17d17918a59b1e7c880d15f99031e27472c7afdd73fed0b5a8b90bc28d76e6
+runfiles size=13
+ texmf-dist/scripts/lyluatex/lyluatex.lua
+ texmf-dist/tex/luatex/lyluatex/lyluatex.sty
+catalogue-contact-bugs https://github.com/jperon/lyluatex/issues
+catalogue-contact-repository https://github.com/jperon/lyluatex
+catalogue-ctan /support/lyluatex
+catalogue-date 2018-03-13 21:10:05 +0100
+catalogue-license mit
+catalogue-topics luatex music music-extinp
+catalogue-version 1.0b

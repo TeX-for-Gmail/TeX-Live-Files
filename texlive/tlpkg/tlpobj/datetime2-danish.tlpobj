@@ -1,0 +1,23 @@
+name datetime2-danish
+category Package
+revision 47034
+shortdesc Danish language module for the datetime2 package
+longdesc This module provides the "danish" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2536
+containerchecksum b9e5b442282fcebfc114a772af8317d8888cdf24cd5cafebd5d3c79e3ea8790a4fd082c2facc1a466e7e5b4266b0d93ea5fb6cae64f96f3d131fd4869a465a4c
+doccontainersize 83108
+doccontainerchecksum 1d933d9d48ad6ef3dd0716fce0b2da6de6700bcd8c1d729d8216145dc5f243ea83323b0fefb6adeaf10a9fb264343e1b429044aaf86e6a77a121b0c951c2c77a
+srccontainersize 4804
+srccontainerchecksum dbccc381f173d7204eeaeb8b8a4fcf59e6f0750213986207afbef3754554e4524e1ceb3620135a93ed43d786210583b3f931b41a1c645bfb22e33dcaa45a6c85
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-danish/datetime2-danish-ascii.ldf
+ texmf-dist/tex/latex/datetime2-danish/datetime2-danish-utf8.ldf
+ texmf-dist/tex/latex/datetime2-danish/datetime2-danish.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-danish
+catalogue-date 2018-03-19 18:12:26 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

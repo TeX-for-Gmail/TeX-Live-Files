@@ -1,0 +1,26 @@
+name easy
+category Package
+revision 19440
+shortdesc A collection of easy-to-use macros
+longdesc The collection comprises: easybib, support for customising
+longdesc bibliographies; easybmat, support for composing block matrices;
+longdesc easyeqn, support for various aspects of equations; easymat,
+longdesc support for composing matrices; easytable, support for writing
+longdesc tables; easyvector, a C-like syntax for writing vectors.
+containersize 12416
+containerchecksum fbc84351fe02c560ffa1c6b1713e762810123e7abee47bb31899d4baed353928350422e7d237abca758753ad306f927466919ce6b160a3820d1d5101c0b71ee9
+doccontainersize 4540
+doccontainerchecksum 27bfb9792f0c8261cd2de9bc95dc4023c69a37e12037855e31c606f0dc18d47e45f8299d385fa1dfcabaf6df298bb529e9da41f6d9d36f38f8d7fb5ef7930886
+runfiles size=20
+ texmf-dist/tex/latex/easy/easy.sty
+ texmf-dist/tex/latex/easy/easybib.sty
+ texmf-dist/tex/latex/easy/easybmat.sty
+ texmf-dist/tex/latex/easy/easyeqn.sty
+ texmf-dist/tex/latex/easy/easymat.sty
+ texmf-dist/tex/latex/easy/easytable.sty
+ texmf-dist/tex/latex/easy/easyvector.sty
+catalogue-ctan /macros/latex/contrib/easy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics collection
+catalogue-version 0.99

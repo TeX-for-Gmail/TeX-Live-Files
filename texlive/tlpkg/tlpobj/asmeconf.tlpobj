@@ -1,0 +1,23 @@
+name asmeconf
+category Package
+revision 50845
+shortdesc A template for ASME conference papers
+longdesc This package provides a LaTeX class, a BibTeX style, and a
+longdesc LaTeX template to format conference papers for the American
+longdesc Society of Mechanical Engineers (ASME) according to the
+longdesc requirements on ASME's conference web pages (as posted in March
+longdesc 2019). The .tex and .cls files are commented and should be
+longdesc self-explanatory. This work is not a publication of ASME
+longdesc itself.
+containersize 13192
+containerchecksum 2aea755c87ad162174a18f1cddbf15e5e9826db006fa079d84c059db51d9eed4c50fe938fbaa6db4bd60a0975fe222468a02465a2a0cdd1983130166195982e7
+doccontainersize 297084
+doccontainerchecksum f5fe3ca94f71a5032b7c3b14fbb6dba64e47cb6b510bdf728f8706d5cefef5567f0f878731c1aa3b8d901ce7a86dca8a77402a931eeda6a3331e1e2a30d59ac8
+runfiles size=14
+ texmf-dist/bibtex/bst/asmeconf/asmeconf.bst
+ texmf-dist/tex/latex/asmeconf/asmeconf.cls
+catalogue-ctan /macros/latex/contrib/asmeconf
+catalogue-date 2019-04-07 06:22:59 +0200
+catalogue-license mit
+catalogue-topics class confproc
+catalogue-version 1.03

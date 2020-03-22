@@ -1,0 +1,29 @@
+name jsclasses
+category Package
+revision 50813
+shortdesc Classes tailored for use with Japanese
+longdesc Classes jsarticle and jsbook are provided, together with
+longdesc packages okumacro and okuverb. These classes are designed to
+longdesc work under ASCII Corporation's Japanese TeX system ptex.
+containersize 21784
+containerchecksum 0c56244db93076c9d28bfd579e182040760f9629d9ea3ca1da11c57a16f0738b3e19101fffaa41e2510306fb8d69eed9fc0c777b6291df143e682056bca923ca
+doccontainersize 919388
+doccontainerchecksum 26c9e42d6d7f13fed8aca3098d5c2dbd14ad70adfc8654a5fd1f4a00343cbb506dabea50922cc7dc6d6ad79f2cda84b6ff0b8cde203885f47e04d85ac761276e
+srccontainersize 55444
+srccontainerchecksum 0cda59302ecaead4126f1383defa7d5afaed9430635664e2e0764211698c23365f396729d1a2b2ce1961a5e2a9a91194aae05e4b610ba39a0aa7ded2fe887be9
+runfiles size=85
+ texmf-dist/tex/platex/jsclasses/jsarticle.cls
+ texmf-dist/tex/platex/jsclasses/jsbook.cls
+ texmf-dist/tex/platex/jsclasses/jslogo.sty
+ texmf-dist/tex/platex/jsclasses/jspf.cls
+ texmf-dist/tex/platex/jsclasses/jsreport.cls
+ texmf-dist/tex/platex/jsclasses/jsverb.sty
+ texmf-dist/tex/platex/jsclasses/kiyou.cls
+ texmf-dist/tex/platex/jsclasses/minijs.sty
+ texmf-dist/tex/platex/jsclasses/okumacro.sty
+ texmf-dist/tex/platex/jsclasses/okuverb.sty
+catalogue-contact-repository https://github.com/texjporg/jsclasses
+catalogue-ctan /macros/latex/contrib/jsclasses
+catalogue-date 2019-04-06 10:47:48 +0200
+catalogue-license bsd
+catalogue-topics japanese class

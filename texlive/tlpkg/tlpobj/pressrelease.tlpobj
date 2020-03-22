@@ -1,0 +1,19 @@
+name pressrelease
+category Package
+revision 35147
+shortdesc A class for typesetting press releases
+longdesc A configurable class for writing press releases.
+containersize 4040
+containerchecksum 0f983d4f836c03ede4ed6bd8c2c41dc69ad75a28d9006ff7ab534c6e483e84e2151bfd93fefa43ca327fbeec14787b43205457a9cf1e733f8a4c3a7c561498fc
+doccontainersize 617876
+doccontainerchecksum f107b506ba50ba8ed1b655f13049210ec4b90620348ac708afbba4d992470dd5aa8eabe84e2c0b926a55afce49e0a2cee28ecb3877550fe81099f7e5b40e9f40
+srccontainersize 10660
+srccontainerchecksum 57e94723413ce6fbb1405dacce4af0ab9f7b5e5fc9d091fcf3054fe9505cfda885ebf00b3242ad341325d982d223438e1a2b6cd1f9286cbf5621feb5ae9b1a2f
+runfiles size=5
+ texmf-dist/tex/latex/pressrelease/pressrelease-symbols.sty
+ texmf-dist/tex/latex/pressrelease/pressrelease.cls
+catalogue-ctan /macros/latex/contrib/pressrelease
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics publicity
+catalogue-version 1.0

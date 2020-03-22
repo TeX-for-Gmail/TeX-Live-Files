@@ -1,0 +1,28 @@
+name notes2bib
+category Package
+revision 31162
+shortdesc Integrating notes into the bibliography
+longdesc The package defines a new type of note, bibnote, which will
+longdesc always be added to the bibliography. The package allows
+longdesc footnotes and endnotes to be moved into the bibliography in the
+longdesc same way. The package can be used with natbib and BibLaTeX as
+longdesc well as plain LaTeX citations. Both sorted and unsorted
+longdesc bibliography styles are supported. The package uses the LaTeX 3
+longdesc macros and the associated xpackages bundle. It also makes use
+longdesc of the e-TeX extensions (any post-2005 LaTeX distribution will
+longdesc provide these by default, but users of older systems may need
+longdesc to use an elatex command or equivalent). The package relies on
+longdesc LaTeX 3 support from the l3kernel and l3packages bundles.
+containersize 4300
+containerchecksum 9077d8e8f9d3e8bf2c119fb479811020db19e359274fee502a97499f6cc8490a24301ef2ebb2dfe6fbca3a98b06c944b8918623b5cf3bcde2b1c9bb956d85d7a
+doccontainersize 198284
+doccontainerchecksum cedcee9dbe903f218dad6e8fce767056662dd181716931ff15f898f58b677ba29ba5c96a82474da5ed42d330d0af5bbfbb8db9d37351b6dfc0677b63e2dae4c9
+srccontainersize 14288
+srccontainerchecksum 605542baf0da122302918f46643db474b0fe5b84463c93bec50476422a0ee89aff719f30342e757b097e6a3f678b786456c6b8e1338fc92d2910c5bf140365f9
+runfiles size=5
+ texmf-dist/tex/latex/notes2bib/notes2bib.sty
+catalogue-ctan /macros/latex/contrib/notes2bib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics notes bib-use expl3
+catalogue-version 2.0k

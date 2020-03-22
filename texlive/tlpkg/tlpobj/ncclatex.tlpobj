@@ -1,0 +1,45 @@
+name ncclatex
+category Package
+revision 15878
+shortdesc An extended general-purpose class
+longdesc The ncc class provides a framework for a common class to
+longdesc replace the standard article, book and report classes, and
+longdesc providing a "preprint" class. The class's extensions are
+longdesc provided in a number of small packages, some of which may also
+longdesc be used with the standard classes. The ncclatex package also
+longdesc loads many of the packages of, and requires the latest version
+longdesc of the ncctools bundle.
+containersize 17908
+containerchecksum 88ec3d2c350521fdb978734d32bb7eb9bacee0ecb95ae051d7bb039cb86e6dd1eba3b4ae93881ef8fa2623e99f6dba9b126373f181c4668176eaaafa94aa992e
+doccontainersize 574580
+doccontainerchecksum e9c08ac08ee2316b07610bde89aee98289b937e8dbfdc86b392cae02037632d6d303c799f74f381f89a6bd4f4397a8c4d78025a88b8fa4ebbce4be663167f2ce
+runfiles size=30
+ texmf-dist/tex/latex/ncclatex/cp1251-light.def
+ texmf-dist/tex/latex/ncclatex/ncc.cls
+ texmf-dist/tex/latex/ncclatex/ncc10.clo
+ texmf-dist/tex/latex/ncclatex/ncc11.clo
+ texmf-dist/tex/latex/ncclatex/ncc12.clo
+ texmf-dist/tex/latex/ncclatex/ncc14.clo
+ texmf-dist/tex/latex/ncclatex/nccart.clo
+ texmf-dist/tex/latex/ncclatex/nccbiblist.sty
+ texmf-dist/tex/latex/ncclatex/nccbook.clo
+ texmf-dist/tex/latex/ncclatex/nccdefaults.sty
+ texmf-dist/tex/latex/ncclatex/nccfit.clo
+ texmf-dist/tex/latex/ncclatex/ncchdr.sty
+ texmf-dist/tex/latex/ncclatex/nccheadings.sty
+ texmf-dist/tex/latex/ncclatex/nccindex.sty
+ texmf-dist/tex/latex/ncclatex/ncclatex.sty
+ texmf-dist/tex/latex/ncclatex/nccltrus.sty
+ texmf-dist/tex/latex/ncclatex/nccold.sty
+ texmf-dist/tex/latex/ncclatex/nccproc.cls
+ texmf-dist/tex/latex/ncclatex/nccsections.sty
+ texmf-dist/tex/latex/ncclatex/ncctheorems.sty
+ texmf-dist/tex/latex/ncclatex/ncctitle.clo
+ texmf-dist/tex/latex/ncclatex/ncctitle.sty
+ texmf-dist/tex/latex/ncclatex/ncctitlepage.sty
+ texmf-dist/tex/latex/ncclatex/sibjnm.cls
+catalogue-ctan /macros/latex/contrib/ncclatex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics class
+catalogue-version 1.5

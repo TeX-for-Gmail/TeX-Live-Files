@@ -1,0 +1,29 @@
+name niceframe
+category Package
+revision 36086
+shortdesc Support for fancy frames
+longdesc The package defines means of drawing frames around boxes, using
+longdesc dingbat fonts. Some (Metafont) font sources are included; the
+longdesc fonts are available separately in Type 1 format.
+containersize 34512
+containerchecksum 539d4a6f3a192188064fafd94366ad2f8a9146175d9e04b08cd83d1386bccc730a0e3be4a9fd45e4f47152f10710191b063138ba504fca95e4226fc179f70a29
+doccontainersize 225404
+doccontainerchecksum aaf777520d300b5e8c9a17c2dfb5b12406f5e6926b17c4244feaa8d6c5bc28d87277f23fd814304a7efb91dab8a42e1ed88f6568b96f13f30c831e81201ff4f7
+srccontainersize 7064
+srccontainerchecksum fb0106ee32e36d34767c6200be1d2415e11c275e5540dbd54777a6876474424f1c82ba52bcc0fd76da9ecf3b37671d37c762834b3e6ef714028c1917dee45235
+runfiles size=58
+ texmf-dist/fonts/source/public/niceframe/karta.mf
+ texmf-dist/fonts/source/public/niceframe/karta15.mf
+ texmf-dist/fonts/source/public/niceframe/umrand.mf
+ texmf-dist/fonts/source/public/niceframe/umranda.mf
+ texmf-dist/fonts/source/public/niceframe/umrandb.mf
+ texmf-dist/fonts/tfm/public/niceframe/karta15.tfm
+ texmf-dist/fonts/tfm/public/niceframe/umranda.tfm
+ texmf-dist/fonts/tfm/public/niceframe/umrandb.tfm
+ texmf-dist/tex/latex/niceframe/niceframe.sty
+catalogue-also umrand
+catalogue-ctan /macros/latex/contrib/niceframe
+catalogue-date 2017-10-29 15:00:32 +0100
+catalogue-license lppl
+catalogue-topics decoration font font-mf
+catalogue-version 1.1c

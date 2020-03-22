@@ -1,0 +1,16 @@
+name latex-via-exemplos
+category Package
+revision 48038
+shortdesc A LaTeX course written in brazilian portuguese language
+longdesc This is a LaTeX2e course written in brazilian portuguese
+longdesc language.
+containersize 428
+containerchecksum b97ef8694d0b414cd80f4ee140c6e64f9277f4bbe9124685df5859c09cf458fedc279f84973ee94a93ce801cb26879f35cf2b9a415d473ec45926294c76822ef
+doccontainersize 1678160
+doccontainerchecksum d6646fb8671a13a9229176a30c96ea5237c4e386c49afff9dcb9ce57c8753930adbd5b5c0082a0e469dfa127788e1052ccb305141bd3261a8144c18fa8f1c7ea
+catalogue-also lshort-portuguese-br
+catalogue-ctan /info/latex-via-exemplos
+catalogue-date 2018-06-17 12:37:18 +0200
+catalogue-license gpl2+
+catalogue-topics portuguese-doc tut-latex
+catalogue-version 0.5.2

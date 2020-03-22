@@ -1,0 +1,21 @@
+name randtext
+category Package
+revision 15878
+shortdesc Randomise the order of characters in strings
+longdesc The package provides a single macro \randomize{TEXT} that
+longdesc typesets the characters of TEXT in random order, such that the
+longdesc resulting output appears correct, but most automated attempts
+longdesc to read the file will misunderstand it. This function allows
+longdesc one to include an email address in a TeX document and publish
+longdesc it online without fear of email address harvesters or spammers
+longdesc easily picking up the address.
+containersize 2804
+containerchecksum 6cd20551f4b48d30d4c830da395873bd20e11b930336f4fac0f0ccf09c9a956d18107c45aa2b1ecea51d1fc4b0c0fabf06d436e247aac6ff58548cbfd31d35b2
+doccontainersize 672
+doccontainerchecksum 3bec31ca40816e7e86642e080021ab5faabb19656a15463f712e111485f1de00d698816e84b1ed7b63ea9380970d4e80b04aa0cf79442c7d1d77d5fa3f4d072a
+runfiles size=2
+ texmf-dist/tex/latex/randtext/randtext.sty
+catalogue-ctan /macros/latex/contrib/randtext
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics security

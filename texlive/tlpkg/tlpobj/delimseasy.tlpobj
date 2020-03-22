@@ -1,0 +1,22 @@
+name delimseasy
+category Package
+revision 39589
+shortdesc Delimiter commands that are easy to use and resize
+longdesc This package provides commands to give a consistent,
+longdesc easy-to-remember, easy to edit way to control the size and
+longdesc blackness of delimiters: append 1-4 "b"s to command for larger
+longdesc sizes; prepend "B" for for boldface. These commands reduce the
+longdesc likelihood of incomplete delimeter pairs and typically use
+longdesc fewer characters than the LaTeX default.
+containersize 4816
+containerchecksum 7f9b1d77e9b9bdc6e5c45ed3c38606fb0d65113f7303e03f591c1b84aa83748d72fb8ecde0cd0c7b19d1bc9fcb454834e156429fd9080660aec77ddfd7b53e42
+doccontainersize 233368
+doccontainerchecksum bc9c1ff757a9d98ff9b84993cedb62ee024d0f4aafee301db0d862be3d45c76d8d164d2d3099ae37d41017316282db1e7882330dd10de43a9539ba0b10e86b08
+runfiles size=7
+ texmf-dist/tex/latex/delimseasy/delimseasy.sty
+catalogue-also delim
+catalogue-ctan /macros/latex/contrib/delimseasy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 2.0

@@ -1,0 +1,31 @@
+name octavo
+category Package
+revision 15878
+shortdesc Typeset books following classical design and layout
+longdesc The octavo class is a modification of the standard LaTeX book
+longdesc class. Its purpose is to typeset books following classical
+longdesc design and layout principles, with the express intention of
+longdesc encouraging the making of beautiful books by anyone with access
+longdesc to a good printer and with an inclination towards venerable
+longdesc crafts, e.g., bookbinding. The octavo class differs from the
+longdesc book class by implementing many of the proposals and insights
+longdesc of respected experts, especially Jan Tschichold and Hugh
+longdesc Williamson. The documentation discusses methods to organise and
+longdesc print out any text into signatures, which can then be gathered,
+longdesc folded and sewn into a book.
+containersize 6544
+containerchecksum 06de0f1e69c4bd8bf0a65e08515994a10ae8df83e6e8981daf70b6eeb424fd59b58808249782d76b9373d9982aee50e7c12c17e090e3697533b87d35480f94a2
+doccontainersize 85180
+doccontainerchecksum daa628a0c047ece5aaf15425c0123128a771a17f08fe9212856e2d63b40340dbd7a50a4ed1e19b04198637e11b530239f4280b810ee3813fc6275b78d37bd8a6
+srccontainersize 26140
+srccontainerchecksum 3632856effd0e32e8595bca0f2a1ea569261cd0d273fa200d9cd9c70908a96da613f06eb315389fe9b8e6fcdcd9db233ca8c148120625f6813848a930fdeea67
+runfiles size=11
+ texmf-dist/tex/latex/octavo/oct10.clo
+ texmf-dist/tex/latex/octavo/oct11.clo
+ texmf-dist/tex/latex/octavo/oct12.clo
+ texmf-dist/tex/latex/octavo/octavo.cls
+catalogue-ctan /macros/latex/contrib/octavo
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl
+catalogue-topics book-pub class
+catalogue-version 1.2

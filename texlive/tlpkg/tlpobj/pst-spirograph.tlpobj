@@ -1,0 +1,20 @@
+name pst-spirograph
+category Package
+revision 35026
+shortdesc Drawing hypotrochoids as with a spirograph
+longdesc The package simulates the action of a spirograph, which is a
+longdesc geometric drawing toy that produces mathematical roulette
+longdesc curves (technically known as hypotrochoids and epitrochoids).
+containersize 4296
+containerchecksum 701964d1fad3d757fab421a9458c5983e11628d965ddabc2dfaec0259b829ed96f699a2361043c1f08024538b10d9b0ad36e921b704543288da5c5d5cb6e58fa
+doccontainersize 5787516
+doccontainerchecksum 2b3a0bafb00c64d1ce883995f983b626390ad73492bb96ace3d2cc5df05e91bfb6f74d96269644b99f56ba0a670a94dbedab663c3dc3bff3e099d141185ae331
+runfiles size=6
+ texmf-dist/dvips/pst-spirograph/pst-spirograph.pro
+ texmf-dist/tex/generic/pst-spirograph/pst-spirograph.tex
+ texmf-dist/tex/latex/pst-spirograph/pst-spirograph.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-spirograph
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-in-tex pstricks
+catalogue-version 0.41

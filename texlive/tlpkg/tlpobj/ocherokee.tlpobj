@@ -1,0 +1,43 @@
+name ocherokee
+category Package
+revision 25689
+shortdesc LaTeX Support for the Cherokee language
+longdesc Macros and Type 1 fonts for Typesetting the Cherokee language
+longdesc with the Omega version of LaTeX (known as Lambda).
+execute addMap cherokee.map
+containersize 70964
+containerchecksum 9638c408e96fa861d395881d1bac87b55048a25de61561823242d78f836522205c9621f5a01bbb5ad1c8390230dac727b4fae333c22966a04ff5df1f923b5909
+doccontainersize 53440
+doccontainerchecksum 40bb5e47b2ac627007d349c0b043f299f09321aa0d6fc11ad9f345576fd7a902be4d012d56ceede9e66c8a5972828e7b5a5646c101c08fd28fa3ab1c935f8256
+runfiles size=96
+ texmf-dist/fonts/afm/public/ocherokee/Cherokee-Bold.afm
+ texmf-dist/fonts/afm/public/ocherokee/Cherokee.afm
+ texmf-dist/fonts/map/dvips/ocherokee/cherokee.map
+ texmf-dist/fonts/ofm/public/ocherokee/OCherokee.ofm
+ texmf-dist/fonts/ofm/public/ocherokee/OCherokeeb.ofm
+ texmf-dist/fonts/ofm/public/ocherokee/OCherokeebo.ofm
+ texmf-dist/fonts/ofm/public/ocherokee/OCherokeeo.ofm
+ texmf-dist/fonts/ovf/public/ocherokee/OCherokee.ovf
+ texmf-dist/fonts/ovf/public/ocherokee/OCherokeeb.ovf
+ texmf-dist/fonts/ovf/public/ocherokee/OCherokeebo.ovf
+ texmf-dist/fonts/ovf/public/ocherokee/OCherokeeo.ovf
+ texmf-dist/fonts/ovp/public/ocherokee/OCherokee.ovp
+ texmf-dist/fonts/ovp/public/ocherokee/OCherokeeb.ovp
+ texmf-dist/fonts/ovp/public/ocherokee/OCherokeebo.ovp
+ texmf-dist/fonts/ovp/public/ocherokee/OCherokeeo.ovp
+ texmf-dist/fonts/tfm/public/ocherokee/Cherokee.tfm
+ texmf-dist/fonts/tfm/public/ocherokee/Cherokeeb.tfm
+ texmf-dist/fonts/tfm/public/ocherokee/Cherokeebo.tfm
+ texmf-dist/fonts/tfm/public/ocherokee/Cherokeeo.tfm
+ texmf-dist/fonts/type1/public/ocherokee/Cherokee-Bold.pfb
+ texmf-dist/fonts/type1/public/ocherokee/Cherokee.pfb
+ texmf-dist/omega/ocp/ocherokee/cher2uni.ocp
+ texmf-dist/omega/otp/ocherokee/cher2uni.otp
+ texmf-dist/tex/lambda/ocherokee/lchcmr.fd
+ texmf-dist/tex/lambda/ocherokee/lchenc.def
+ texmf-dist/tex/lambda/ocherokee/ocherokee.sty
+catalogue-also omega
+catalogue-ctan /language/cherokee/ocherokee
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cherokee omega

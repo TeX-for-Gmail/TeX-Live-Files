@@ -1,0 +1,22 @@
+name chappg
+category Package
+revision 15878
+shortdesc Page numbering by chapter
+longdesc The package provides for 'chapterno-pageno' or
+longdesc 'chaptername-pageno' page numbering. Provision is made for
+longdesc front- and backmatter in book class.
+containersize 1896
+containerchecksum 8286a7b7664f7634bc5dd16ae1888cc4b70e2880c8749fe2e894d209384da7a8513b2daa318a4154f9b443f89b7eb2e3c6d620b81e1bbfa1ed64c243ad57e47d
+doccontainersize 189408
+doccontainerchecksum c0d42e7a9cbae3fc7386e9734492cd3f879ecf69551d17483c4f4516c2ea09d0b9b76914decb987f850af362e54c638af190de6d0d6414d09c49cf48c0635f59
+srccontainersize 6372
+srccontainerchecksum 371b6630fc12563694db35e8e086f7659e60f49a6b881281bd3bf2c081c6ccc2af74b630b6a53ac9d8b447635f2700f3d15643a02f7d873b5451c9b43a331b5d
+runfiles size=1
+ texmf-dist/tex/latex/chappg/chappg.sty
+catalogue-contact-repository https://github.com/rf-latex/chappg
+catalogue-contact-support https://github.com/rf-latex/chappg/issues
+catalogue-ctan /macros/latex/contrib/chappg
+catalogue-date 2018-09-15 15:30:15 +0200
+catalogue-license lppl
+catalogue-topics page-nos
+catalogue-version 2.1b

@@ -1,0 +1,30 @@
+name guide-latex-fr
+category Package
+revision 49533
+shortdesc A french guide on LaTeX - for beginners or advanced users
+longdesc Si tu ne connais rien a LaTeX, si tu veux apprendre a rediger
+longdesc des rapports elegants sous LaTeX, et si en plus tu es Francais,
+longdesc je sais exactement ce que tu ressens: c'est extremement dur de
+longdesc commencer tout seul, en autodidacte. C'est pourquoi j'ai reuni
+longdesc toutes mes connaissances actuelles sur LaTeX dans ce guide. Il
+longdesc peut donc t'aider a apprendre les bases ou aller plus loin dans
+longdesc ton utilisation de LaTeX. Des exemples detailles sont fournis
+longdesc tout le long du guide. If you want to start from scratch and
+longdesc learn how to type good-looking reports with LaTeX, and if
+longdesc you're French, then I know it can be really hard to do it by
+longdesc yourself. That's why I put all the knowledge I acquired into
+longdesc this guide. It can help a lot to learn the bases or to move
+longdesc forward and use LaTeX to type more handsome documents. Lots of
+longdesc examples are provided all along this guide.
+containersize 1072
+containerchecksum 0fd6da9dd22ce72fff09825462093781291003bf2306c3f537b3af554a09736548894b0887f969101da9776966559689f742ebdc3b60fd2ed0f1190a5e0921e4
+doccontainersize 9615612
+doccontainerchecksum 058faf34dbe5d0609022505109ae7d33b1a86c15ecc902dcdf68dfc0f54d936786629556245514fea021e8e538c85db68f081dd1d9b949a4e9e4c16a11a6e78d
+catalogue-also lshort-french
+catalogue-contact-development https://docs.google.com/forms/d/1COBH4zmdCtn_kDzJsa0H9G12-NcmpatkFKngIaOfAnM/viewform?edit_requested=true
+catalogue-contact-home http://drive.google.com/drive/folders/0BzU2BdcGjfU5Tk1XaXhxbk5JcEE?usp=sharing
+catalogue-ctan /info/guide-latex-fr
+catalogue-date 2018-12-30 05:37:43 +0100
+catalogue-license cc-by-nc-nd-4
+catalogue-topics tut-latex french-doc
+catalogue-version 3.0

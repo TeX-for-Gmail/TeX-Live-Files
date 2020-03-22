@@ -1,0 +1,23 @@
+name optional
+category Package
+revision 18131
+shortdesc Facilitate optional printing of parts of a document
+longdesc Optional provides simple, flexible, optional compilation of
+longdesc LaTeX documents. Option switches may be given via package
+longdesc options, by the \UseOption command, or interactively via the
+longdesc \AskOption command (help text may be provided, by defining the
+longdesc \ExplainOptions command). The package is not robust, in the way
+longdesc that comment package is, against ill-behaved text. In
+longdesc particular, verbatim text may not be directly included in
+longdesc optional sections (whether they're included or not).
+containersize 3352
+containerchecksum 3f6d031b4bf863a339a80c3a05b101393f88dcefb67c61a67e01d9647e74def1fbf30f3d018158a83c8a171b875959bf57d7a3e90dc724c32868f9aafcd5cabd
+doccontainersize 295236
+doccontainerchecksum d975e4f1b31e2335e55a41b317096be36161fc36fd589255a461772eb701376ce3fe714d727c4de9663ed8e4300bf0b570855b6b3ccb6b55fccd56206ac69692
+runfiles size=2
+ texmf-dist/tex/latex/optional/optional.sty
+catalogue-ctan /macros/latex/contrib/optional
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cond-comp editorial
+catalogue-version 2.2b

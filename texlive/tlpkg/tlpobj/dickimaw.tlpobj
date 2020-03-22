@@ -1,0 +1,24 @@
+name dickimaw
+category Package
+revision 32925
+shortdesc Books and tutorials from the "Dickimaw LaTeX Series"
+longdesc The package provides some of the books and tutorials that form
+longdesc part of the "Dickimaw LaTeX Series". Only the A4 PDF of each
+longdesc book is detailed here. Other formats, such as HTML or screen
+longdesc optimized PDF, are available from the package home page. Books
+longdesc included are: "LaTeX for Complete Novices": an introductory
+longdesc guide to LaTeX. "Using LaTeX to Write a PhD Thesis": a
+longdesc follow-on from "LaTeX for Complete Novices" geared towards
+longdesc students who want to use LaTeX to write their PhD thesis.
+longdesc "Creating a LaTeX minimal example": describes how to create a
+longdesc minimal example, which can be used as a debugging aid when you
+longdesc encounter errors in your LaTeX documents.
+containersize 768
+containerchecksum 8e478160699ca5dd9c52ea7e6b0a7be491d0af44b3022c22797b02b9e6ba6ef67ce9dc35649d9a2ebb9b123e3fbcc02c0602271bd8049a12c4520a32a15d4ef3
+doccontainersize 6684412
+doccontainerchecksum 5ebe8605d1a4ebeb11896919c39aa736220e9ca247912b5655dbcadf03bfa45b4cdfe44ee6555bf8d5ecdaf63b0d2527d3d58ee6d7056a194a6a42f88ab0aa41
+catalogue-contact-home http://www.dickimaw-books.com/latex/
+catalogue-ctan /info/dickimaw
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license fdl
+catalogue-topics tut-latex doc-debug

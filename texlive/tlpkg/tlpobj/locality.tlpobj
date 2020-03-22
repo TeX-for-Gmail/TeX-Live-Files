@@ -1,0 +1,21 @@
+name locality
+category Package
+revision 20422
+shortdesc Various macros for keeping things local
+longdesc A toolbox of macros designed to allow the LaTeX programmer to
+longdesc work around some of the restrictions of the TeX grouping
+longdesc mechanisms. The present release offers a preliminary view of
+longdesc the package; not all of its facilities are working optimally
+containersize 2412
+containerchecksum c7fde4ad74b339d340a046a4f59ff73da45942631c6b68275d365c18ee80b213d18b84540b8ee535f012aa18ef559e88b1df3fcff4560d241ee1147695824a2e
+doccontainersize 175696
+doccontainerchecksum 5b7fde689fc764dc75930522416cfeb51ec30eec64080b289c085be4b00a0da1c5d6d79d2734502ca8a329bc2935216a8b298495e0ad1ac8331c6d3a5718bb5f
+srccontainersize 6612
+srccontainerchecksum bb1e55107d9b16460b8990f35461bbe775c674ecb2dabb78d19514e365cc97f0b03ad5884b310edc60f2fea9366ee2633ddf4280165cab562038e024ea9267fd
+runfiles size=3
+ texmf-dist/tex/latex/locality/locality.sty
+catalogue-ctan /macros/latex/contrib/locality
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.2

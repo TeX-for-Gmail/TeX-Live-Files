@@ -1,0 +1,26 @@
+name elvish
+category Package
+revision 15878
+shortdesc Fonts for typesetting Tolkien Elvish scripts
+longdesc The bundle provides fonts for Cirth (cirth.mf, etc.) and for
+longdesc Tengwar (teng10.mf). The Tengwar fonts are supported by macros
+longdesc in teng.tex, or by the (better documented) tengtex package.
+containersize 10496
+containerchecksum ca1496b488a85a32364b264706c9b4e4edde5c92681493b150942a3a8a2a32158b314a163ff4be8afbea489a75feb5dbb1c96e8e70f730530cce6472f9e46912
+doccontainersize 2380
+doccontainerchecksum e296ece5bb11d273b33e801ecddb1b9bb93e5f8cfc4a7d62b1555ddca89661557149935b7c5a71880efb888364989715b4e39585b2de1bcd8ecc24203afef199
+runfiles size=22
+ texmf-dist/fonts/source/public/elvish/cirth.mf
+ texmf-dist/fonts/source/public/elvish/teng10.mf
+ texmf-dist/fonts/source/public/elvish/tengdev.mf
+ texmf-dist/fonts/source/public/elvish/tengmacs.mf
+ texmf-dist/fonts/source/public/elvish/tengmain.mf
+ texmf-dist/fonts/source/public/elvish/tengsecs.mf
+ texmf-dist/fonts/source/public/elvish/tengteht.mf
+ texmf-dist/fonts/tfm/public/elvish/cirth.tfm
+ texmf-dist/fonts/tfm/public/elvish/teng10.tfm
+catalogue-also tengwar
+catalogue-ctan /fonts/elvish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-mf font-invented

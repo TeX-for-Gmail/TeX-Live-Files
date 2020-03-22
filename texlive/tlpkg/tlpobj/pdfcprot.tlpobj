@@ -1,0 +1,27 @@
+name pdfcprot
+category Package
+revision 18735
+shortdesc Activating and setting of character protruding using pdfLaTeX
+longdesc This package provides an easy interface to adjust the character
+longdesc protrusion for different fonts and choosing the right
+longdesc adjustment automatically depending on the font. The package is
+longdesc largely superseded by microtype.
+containersize 6808
+containerchecksum d046543b42966f8a566be0c89d78ca26b26d4095d99d5b16045283f0eb52a90a92122c1e87a2842d12d7ef2f865fbeaa69315a51bb922f713d33b9ef2e270fac
+doccontainersize 379136
+doccontainerchecksum ef19fdf93050dfe35df88163453067e589307b2173481d4f3b6943411bbaabda94b472622b93485637de5c2f885f9153d5078f5d3bccafb52bb28d3e25f39ca6
+srccontainersize 21220
+srccontainerchecksum fbbfba0b35c70cc847a6ccbef17a1f506d26070d616254cd415eb6cdcf1b74c5a09baee420012fd88c11e4b4f8f45c5b7d4e2f5767e9621974a8d941a460360b
+runfiles size=14
+ texmf-dist/tex/latex/pdfcprot/pdfcprot.sty
+ texmf-dist/tex/latex/pdfcprot/pplmnOT1.cpa
+ texmf-dist/tex/latex/pdfcprot/pplmnOT2.cpa
+ texmf-dist/tex/latex/pdfcprot/pplmnT1.cpa
+ texmf-dist/tex/latex/pdfcprot/pplmnT2A.cpa
+ texmf-dist/tex/latex/pdfcprot/pplmnTS1.cpa
+catalogue-also microtype
+catalogue-ctan /macros/latex/contrib/pdfcprot
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics micro-layout
+catalogue-version 1.7a

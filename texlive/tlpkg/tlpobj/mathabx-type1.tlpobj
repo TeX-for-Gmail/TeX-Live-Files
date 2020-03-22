@@ -1,0 +1,43 @@
+name mathabx-type1
+category Package
+revision 21129
+shortdesc Outline version of the mathabx fonts
+longdesc This is an Adobe Type 1 outline version of the mathabx fonts.
+depend mathabx
+execute addMap mathabx.map
+containersize 1858004
+containerchecksum ae2272ac7d79a3bb1a655000a2d5fa1c3d948363763abe194cbac4084d5ef60492648977660c3d9dfbc2c70bea3c207d031d2147097fb1d7af503aa80f257d1c
+doccontainersize 916
+doccontainerchecksum 2504e85d659cba06fa25ae4e154309a6d3dcba2ac8bae0d4066b6637f19081987b0bc774902365e5b723f4b6c35cad07709e316ec1893a018baabc699d755e8b
+runfiles size=500
+ texmf-dist/fonts/map/dvips/mathabx-type1/mathabx.map
+ texmf-dist/fonts/type1/public/mathabx-type1/matha10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha12.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha5.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha6.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha7.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha8.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/matha9.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathastrotest10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb12.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb5.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb6.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb7.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb8.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathb9.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathc10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathu10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathux10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx10.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx12.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx5.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx6.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx7.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx8.pfb
+ texmf-dist/fonts/type1/public/mathabx-type1/mathx9.pfb
+catalogue-also mathabx
+catalogue-ctan /fonts/ps-type1/mathabx
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-type1 font-symbol-maths

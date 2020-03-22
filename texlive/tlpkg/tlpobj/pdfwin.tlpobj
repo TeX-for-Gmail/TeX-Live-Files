@@ -1,0 +1,12 @@
+name pdfwin
+category Package
+revision 45797
+shortdesc customizable windows for screen viewing of TeX documents
+longdesc Inspired by the pdfscreen package.
+containersize 15880
+containerchecksum 7f1fafb7396eadc81ae39727f35b1f49ee0fecf7ca1950d8fd5b80c46d24811cfa779a6d53b10c007a7916e14584de5e88f2bb5b1f3ef8fad739dde63e56bc0d
+doccontainersize 310748
+doccontainerchecksum d352311a94d9f673ea8c6460f6771747b0523e2c354e5c7114cc58d7e0e92210f4eedb70a728d423de387a2ed2a3460f1acbcaef38579a26d2225f713e606407
+runfiles size=20
+ texmf-dist/tex/latex/pdfwin/pdfwin.cfg
+ texmf-dist/tex/latex/pdfwin/pdfwin.sty

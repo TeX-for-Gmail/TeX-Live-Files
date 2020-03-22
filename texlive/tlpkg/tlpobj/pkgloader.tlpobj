@@ -1,0 +1,33 @@
+name pkgloader
+category Package
+revision 47486
+shortdesc Manage the options and loading order of other packages
+longdesc The package seeks to address the frustration caused by package
+longdesc conflicts. It is in an early stage of its development, and
+longdesc should probably not be used as a matter of course; however the
+longdesc author welcomes feedback via the home page link given in this
+longdesc catalogue entry. Nevertheless, the author urges users to try
+longdesc the package and to report issues (or whatever) via the
+longdesc package's repository. To use pkgloader you need, apart from
+longdesc packages installed by default, the lt3graph package.
+containersize 10336
+containerchecksum 2b9af06a79f484ce948b98d8ac09f3327a64e2299770ae6746d9762fc6b339d68aa3ad2abc5e67dc385bf4675cf406f170ef706fc101e87f6b58c839b6d3a3e2
+doccontainersize 475212
+doccontainerchecksum 231038d0af3e7293cec5b5e3a9835b1ddfcb60d5c8006009998e5a04638e0ff818ed36abcb2326a56149af0884297059577a3437e9bb144264cf42feed055cb6
+runfiles size=19
+ texmf-dist/tex/latex/pkgloader/pkgloader-cls-pkg.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-dry.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-early.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-error.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-false.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-late.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-recommended.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader-true.sty
+ texmf-dist/tex/latex/pkgloader/pkgloader.sty
+catalogue-contact-bugs https://github.com/mhelvens/latex-pkgloader/issues
+catalogue-contact-repository https://github.com/mhelvens/latex-pkgloader
+catalogue-ctan /macros/latex/contrib/pkgloader
+catalogue-date 2018-04-29 18:41:15 +0200
+catalogue-license lppl1.3
+catalogue-topics debug-supp expl3
+catalogue-version 0.7.0

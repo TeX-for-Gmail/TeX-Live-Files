@@ -1,0 +1,19 @@
+name docsurvey
+category Package
+revision 48931
+shortdesc A survey of LaTeX documentation
+longdesc A survey of programming-related documentation for LaTeX.
+longdesc Included are references to printed and electronic books and
+longdesc manuals, symbol lists, FAQs, the LaTeX source code, CTAN and
+longdesc distributions, programming-related packages, users groups and
+longdesc online communities, and information on creating packages and
+longdesc documentation.
+containersize 572
+containerchecksum e51d73b0dc7267b0564119b6836398a939676d8929e850201900eacb49e701e873661ec897e8c0523a094d82e736014e0ef61d07e2ffb5311924d2fdcaf1d5c4
+doccontainersize 360024
+doccontainerchecksum 3231dbb4c28a03b754817f50f930f1a6eec33ca9ef6e29a1c4b1edd025315ee9f9e7a371b8733d6624cf9b02dbb705dfcc82d6f98a99aa1ca05b4f277e083304
+catalogue-contact-home http://bdtechconcepts.com/
+catalogue-ctan /info/docsurvey
+catalogue-date 2018-10-18 09:43:59 +0200
+catalogue-license lppl1.3
+catalogue-topics ref-latex review-document tut-latex tut-latex-prg

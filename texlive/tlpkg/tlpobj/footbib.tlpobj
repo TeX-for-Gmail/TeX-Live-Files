@@ -1,0 +1,28 @@
+name footbib
+category Package
+revision 17115
+shortdesc Bibliographic references as footnotes
+longdesc The package makes bibliographic references appear as footnotes.
+longdesc It defines a command \footcite which is similar to the LaTeX
+longdesc \cite command but the references cited in this way appear at
+longdesc the bottom of the pages. This 'foot bibliography' does not
+longdesc conflict with the standard one and both may exist
+longdesc simultaneously in a document. The command \cite may still be
+longdesc used to produce the standard bibliography. The foot
+longdesc bibliography uses its own style and bibliographic database
+longdesc which may be specified independently of the standard one. Any
+longdesc standard bibliography style may be used.
+containersize 6692
+containerchecksum 0cadef58331d5d51aeba1f69d0c9ceae99104f7c31ea79e0f5dee33c8612bc52cd0c8551abc6da1799705c879cc88535b46e4ef15232d3c4a0f7136e0fe46e05
+doccontainersize 196308
+doccontainerchecksum 27d1f0e6bf0ef526f2b3c4852c53b78fc60fc10ec526796447940565ad75fab023406bd28548170f7382e822c3b0f43d96181233bc772ea58f8ac195f71cf495
+srccontainersize 22456
+srccontainerchecksum 120d5c14a1b12b15a39792d2cae0bfee5b1695af1c014708c65d61eba6f2fd52f17e2b61b576e192a2d2a9abfb3aa2e059fcd9ca17e48e8a3ee6e9cc2150f119
+runfiles size=7
+ texmf-dist/tex/latex/footbib/footbib.sty
+catalogue-also jurabib
+catalogue-ctan /macros/latex/contrib/footbib
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics cite-foot
+catalogue-version 2.0.7

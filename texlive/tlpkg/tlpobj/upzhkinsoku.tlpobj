@@ -1,0 +1,20 @@
+name upzhkinsoku
+category Package
+revision 47354
+shortdesc Supplementary Chinese kinsoku for Unicode *pTeX
+longdesc This package provides supplementary Chinese kinsoku (line
+longdesc breaking rules etc.) settings for Unicode (e-)upTeX (when using
+longdesc Unicode as its internal encoding), and ApTeX. Both LaTeX and
+longdesc plain TeX are supported.
+containersize 1756
+containerchecksum 03dcf2b73ca644f8e9e2589082d49a4d502adb51944fcd9ee5cf737ae782611b35ef2eda4242b7eec2b8033014ddbbbea3abb52b1bfe90be9cc1634345223d53
+doccontainersize 206168
+doccontainerchecksum d4c038d864b40603281f3186e21110ec96530e84a9ff88be4241cad165d09cd091b28bd768ca8ca0a28575dd850bb68ff88ab553cf9caaee6edd8d311c6fc9e2
+runfiles size=2
+ texmf-dist/tex/generic/upzhkinsoku/upzhkinsoku.sty
+catalogue-contact-repository https://github.com/Man-Ting-Fang/upzhkinsoku
+catalogue-ctan /macros/generic/upzhkinsoku
+catalogue-date 2018-04-07 17:55:54 +0200
+catalogue-license knuth
+catalogue-topics chinese
+catalogue-version 0.5

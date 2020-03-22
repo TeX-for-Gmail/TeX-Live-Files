@@ -1,0 +1,8 @@
+name vlna.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of vlna
+containersize 6296
+containerchecksum a0328d0443227e457815e3c65222e5b2095a16a1fc9c521d41156a04f9657be5745e4f005234409f79c48d369a866fe4e4b5e616b191602a17daa864f3c05a4b
+binfiles arch=x86_64-linux size=4
+ bin/x86_64-linux/vlna

@@ -1,0 +1,18 @@
+name chbibref
+category Package
+revision 17120
+shortdesc Change the Bibliography/References title
+longdesc Defines a single command, \setbibref, which sets whichever of
+longdesc \bibname and \refname is in use. (\bibname is used in book.cls
+longdesc and report.cls, and \refname is used in article.cls.)
+containersize 1060
+containerchecksum c87fc723f7d78aaf6f47f0eb34760d20c22a46983e802f1383ca4d952b354e199fe17dcb0e8b42e66522826f71f1031c59457ad4c5f5751c6ffeba66adeb4c30
+doccontainersize 169552
+doccontainerchecksum 58c43dbb1274e99ab60ae8c2911dff6d73099c02f3c6b4b97eeccaa336f56e677ad3a1897a4fd782cf97e59b9938c83f13c0741697630d2dcaa4a7daa0b852e0
+runfiles size=1
+ texmf-dist/tex/latex/chbibref/chbibref.sty
+catalogue-ctan /macros/latex/contrib/chbibref
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics headings
+catalogue-version 1.0

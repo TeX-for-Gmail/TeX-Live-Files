@@ -1,0 +1,17 @@
+name ean13isbn
+category Package
+revision 15878
+shortdesc Print EAN13 for ISBN
+longdesc The package provides the means to typeset ISBN codes with
+longdesc EAN-13; it uses the (generic) package ean13.tex to typeset the
+longdesc actual barcode.
+containersize 1788
+containerchecksum 39d124c59b8c35c0ce103530d30943bd0c17060981f2be4412cad2a38bdaf0a3f4332105e07248718d835169d33fc50ccaa07d462d494e3d74ab02d7de344653
+doccontainersize 313148
+doccontainerchecksum b4f5f0f2e3e8316c61129a6b9662cfb0e23aacbe58bc3e111d94ab7a51d01eaee6354395bbdb91a944a261a794362ed719fc6e515285f55ea901acc5e6653d75
+runfiles size=1
+ texmf-dist/tex/latex/ean13isbn/ean13isbn.sty
+catalogue-ctan /macros/latex/contrib/ean13isbn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics barcode

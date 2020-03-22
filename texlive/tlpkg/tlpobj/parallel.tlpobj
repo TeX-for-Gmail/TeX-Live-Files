@@ -1,0 +1,23 @@
+name parallel
+category Package
+revision 15878
+shortdesc Typeset parallel texts
+longdesc Provides a parallel environment which allows two potentially
+longdesc different texts to be typeset in two columns, while maintaining
+longdesc alignment. The two columns may be on the same page, or on
+longdesc facing pages. This arrangement of text is commonly used when
+longdesc typesetting translations, but it can have value when comparing
+longdesc any two texts.
+containersize 3744
+containerchecksum 975bb869ea0df9236f0e86cbfe880e9bd59ab2d6aeb98f0a399f5bfc7e4367b3f14eb64e707e4e7ba8bd3e0ee641765b9ddfd79ee1abac61f96414f215fa5cbf
+doccontainersize 117072
+doccontainerchecksum ab4c283176cf1fd3d524151cc647c1da360a1772e57b282a91007edb1269d6bade379775d0efe6731fee18b3f3bc02292057d67795475a291a4dadc748d5b185
+srccontainersize 11060
+srccontainerchecksum 6dde2ae1a2ee65decf5c1ba547d2683948d58a7955b75e5a3bd74d0b6705e7c6a75f2fe4dbed01562211b670d455a0360d0fff3ac0f24e3e77b4bb01a65577b5
+runfiles size=4
+ texmf-dist/tex/latex/parallel/parallel.sty
+catalogue-also parcolumns paracol
+catalogue-ctan /macros/latex/contrib/parallel
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics parallel

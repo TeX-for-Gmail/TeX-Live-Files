@@ -1,0 +1,20 @@
+name texfot
+category Package
+revision 44991
+shortdesc Filter clutter from the output of a TeX run
+longdesc The package provides a small Perl script to filter the online
+longdesc output from a TeX run, attempting to show only those messages
+longdesc which probably deserve some change in the source. The TeX
+longdesc invocation itself need not change.
+depend texfot.ARCH
+containersize 6204
+containerchecksum 19b496131b7d68e77e7370a28cf05ab5edd2540027a927750237be0956c8e0fe9773017db5501f1ed31e213b1978aa217973d22ded0315b59cea453f59519bfe
+doccontainersize 19076
+doccontainerchecksum c0645e3061ec11cb0f27840391fd762eb18f407f173dc10da98190bcc33b2c64ecb7aac11fb7c79df7861273ce8710881bacfd976e635b3870f29a662a19caac
+runfiles size=4
+ texmf-dist/scripts/texfot/texfot.pl
+catalogue-ctan /support/texfot
+catalogue-date 2017-08-08 20:53:45 +0200
+catalogue-license pd
+catalogue-topics comp-mgmt
+catalogue-version 1.37

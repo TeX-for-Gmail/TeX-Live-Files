@@ -1,0 +1,30 @@
+name biblatex-shortfields
+category Package
+revision 45858
+shortdesc Use short forms of fields with BibLaTeX
+longdesc The BibLaTeX package provides shortseries and shortjournal
+longdesc field, but the default styles don't use them. It also provides
+longdesc a mechanism to print the equivalence between short forms of
+longdesc fields and long fields (\printbiblist), but this mechanism does
+longdesc not allow to mix between different type of short fields, for
+longdesc example, between short forms of journal title and short forms
+longdesc of series titles. This package provides a solution to these two
+longdesc problems: If a shortjournal field is defined, it prints it
+longdesc instead of the \journal field. If a shortseries field is
+longdesc defined, it prints it instead of the \series field. It provides
+longdesc a \printbibshortfields command to print a list of the sort
+longdesc forms of the fields. This list also includes the claves defined
+longdesc with the biblatex-claves package version 1.2 or later.
+containersize 2080
+containerchecksum be9562c2b79e1f01a110708eb6c0de165a9f596bd18ee72dd6c8add0bf380222a31ae12d86ab843083ae3e7f47a608826b985455f4c8501bbe21d4f0a0e15b80
+doccontainersize 81992
+doccontainerchecksum e6e5e6c113ef43a9784f9000637d526f0bc989358d690d4f41be01e1e22abcb33f347421c727c411c2c02f0c11b1c60d54e7fc23180bd6f66c5c46bf29fc1202
+runfiles size=1
+ texmf-dist/tex/latex/biblatex-shortfields/biblatex-shortfields.sty
+catalogue-contact-bugs https://framagit.org/maieul/biblatex-shortfields/issues
+catalogue-contact-repository https://framagit.org/maieul/biblatex-shortfields
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-shortfields
+catalogue-date 2017-11-19 19:22:04 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.0.1

@@ -1,0 +1,37 @@
+name collection-music
+category Collection
+revision 49621
+shortdesc Music packages
+longdesc Music-related fonts and packages.
+depend collection-latex
+depend abc
+depend autosp
+depend bagpipe
+depend chordbars
+depend figbas
+depend gchords
+depend gregoriotex
+depend gtrcrd
+depend guitar
+depend guitarchordschemes
+depend guitartabs
+depend harmony
+depend leadsheets
+depend latex4musicians
+depend lilyglyphs
+depend lyluatex
+depend m-tx
+depend musicography
+depend musixguit
+depend musixtex
+depend musixtex-fonts
+depend musixtnt
+depend octave
+depend piano
+depend pmx
+depend pmxchords
+depend songbook
+depend songs
+depend xpiano
+containersize 456
+containerchecksum db1c3f50a9f4e4dbb6c3a0696127a60a8ea765c3d68b400d9be0aab895ce7e255718c040880773dbadbc127d4c2e11367819e0105ceef31226b825e4c529d797

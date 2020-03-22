@@ -1,0 +1,44 @@
+name listings
+category Package
+revision 50175
+shortdesc Typeset source code listings using LaTeX
+longdesc The package enables the user to typeset programs (programming
+longdesc code) within LaTeX; the source code is read directly by TeX--no
+longdesc front-end processor is needed. Keywords, comments and strings
+longdesc can be typeset using different styles (default is bold for
+longdesc keywords, italic for comments and no special style for
+longdesc strings). Support for hyperref is provided. To use,
+longdesc \usepackage{listings}, identify the language of the object to
+longdesc typeset, using a construct like: \lstset{language=Python}, then
+longdesc use environment lstlisting for inline code. External files may
+longdesc be formatted using \lstinputlisting to process a given file in
+longdesc the form appropriate for the current language. Short (in-line)
+longdesc listings are also available, using either \lstinline|...| or
+longdesc |...| (after defining the | token with the \lstMakeShortInline
+longdesc command).
+containersize 146048
+containerchecksum cc8807b431562d998cdfb4879d51a1e236ab6813a9b696e3ebf5641f94c46dcba625beea227dd49dcbfee106f298252b1df133665a84c555f50b1fa1492033c6
+doccontainersize 2173544
+doccontainerchecksum 8acd3906a0e3a26a2a300e7c69fa8a368fa9cc58b0041d788c4e182913fd960bfc43b3a7a3a80c7b0630d708f7684613d0a84ce5956de0513f0c665d2999472d
+srccontainersize 265848
+srccontainerchecksum eb3007f72a1c028449d3941716228a42ff144b53e183d855b516da47730e07286179849ce7842de570c6bf7d318b2a955a4904d431a3070f9462e823f0019beb
+runfiles size=145
+ texmf-dist/tex/latex/listings/listings-acm.prf
+ texmf-dist/tex/latex/listings/listings-bash.prf
+ texmf-dist/tex/latex/listings/listings-fortran.prf
+ texmf-dist/tex/latex/listings/listings-hansl.prf
+ texmf-dist/tex/latex/listings/listings-lua.prf
+ texmf-dist/tex/latex/listings/listings-python.prf
+ texmf-dist/tex/latex/listings/listings.cfg
+ texmf-dist/tex/latex/listings/listings.sty
+ texmf-dist/tex/latex/listings/lstdoc.sty
+ texmf-dist/tex/latex/listings/lstlang1.sty
+ texmf-dist/tex/latex/listings/lstlang2.sty
+ texmf-dist/tex/latex/listings/lstlang3.sty
+ texmf-dist/tex/latex/listings/lstmisc.sty
+catalogue-also listing
+catalogue-ctan /macros/latex/contrib/listings
+catalogue-date 2019-02-27 23:09:36 +0100
+catalogue-license lppl1.3c
+catalogue-topics listing synt-hlt
+catalogue-version 1.8b

@@ -1,0 +1,19 @@
+name pst-coil
+category Package
+revision 37377
+shortdesc A PSTricks package for coils, etc
+longdesc Pst-coil is a PSTricks based package for coils and zigzags and
+longdesc for coil and zigzag node connections.
+containersize 3936
+containerchecksum efa265a09857efe93dd3d6aa7f63cbdca456982ccbb4c882dac7c1aff43a6f524e546640d5e293b55e59bd6af582e6d91b503cd7875f8c5ab48491b5b8996e4a
+doccontainersize 251024
+doccontainerchecksum e31a5c795f9cf1e21364f63d582465825f46d37c3c849e328dcb19c2a2d7d1336c425a027c02db7c1d0d00da74cb2250feda8f2f70d538561aa93a22bcec5498
+runfiles size=5
+ texmf-dist/dvips/pst-coil/pst-coil.pro
+ texmf-dist/tex/generic/pst-coil/pst-coil.tex
+ texmf-dist/tex/latex/pst-coil/pst-coil.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-coil
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use pstricks
+catalogue-version 1.07

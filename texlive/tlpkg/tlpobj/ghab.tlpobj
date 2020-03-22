@@ -1,0 +1,21 @@
+name ghab
+category Package
+revision 29803
+shortdesc Typeset ghab boxes in LaTeX
+longdesc The package defines a command \darghab that will typeset its
+longdesc argument in a box with a decorated frame. The width of the box
+longdesc may be set using an optional argument.
+containersize 2184
+containerchecksum 7e919cbb0c84fe337dd05c749a3288990e750ff0aeaf119736108463a1684a18a66be94811a31156f951c871b2f073627914629756b06e747f3220d2ce08950f
+doccontainersize 27156
+doccontainerchecksum 2cb7dbf5b43130b122618c50c18e513dc0ee0ce267cdfa6e710451d1fa7fce8965617d74d48748241321948ae8c5eb9cfa4945df146ed8e5d476d0fc5caaf204
+runfiles size=2
+ texmf-dist/fonts/source/public/ghab/ghab.mf
+ texmf-dist/tex/latex/ghab/ghab.sty
+catalogue-contact-bugs https://github.com/bidi-tex/ghab/issues
+catalogue-contact-repository https://github.com/bidi-tex/ghab
+catalogue-ctan /macros/latex/contrib/ghab
+catalogue-date 2018-11-28 19:38:14 +0100
+catalogue-license lppl
+catalogue-topics boxing decoration
+catalogue-version 0.5

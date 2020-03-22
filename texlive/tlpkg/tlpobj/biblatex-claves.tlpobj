@@ -1,0 +1,28 @@
+name biblatex-claves
+category Package
+revision 43723
+shortdesc A tool to manage claves of old litterature with BibLaTeX
+longdesc When studying antic and medieval literature, we may find many
+longdesc different texts published with the same title, or, in contrary,
+longdesc the same text published with different titles. To avoid
+longdesc confusion, scholars have published claves, which are books
+longdesc listing ancient texts, identifying them by an identifier -- a
+longdesc number or a string of text. For example, for early
+longdesc Christianity, we have the Bibliotheca Hagiographica Graeca, the
+longdesc Clavis Apocryphorum Novi Testamenti and other claves. It could
+longdesc be useful to print the identifier of a texts in one specific
+longdesc clavis, or in many claves. The package allows us to create new
+longdesc field for different claves, and to present all these fields in
+longdesc a consistent way.
+containersize 2184
+containerchecksum 008cb8403f1b35a7fd077f8ac2f33f73ced090ce3d65ce678ecfe90af8ab6fb2b4349342aa838d2d4f1e78d0d87267c7b8206a3377c6490499ee9196498c130f
+doccontainersize 90108
+doccontainerchecksum a11a4df38dbeb4c27f30b824c9f1ba230d273e227b8cdbfe5f61268a1a2b7ff3193e79d8e8bedb6f9334df39001b71a3ec78116637745679bf3d67582727371d
+runfiles size=2
+ texmf-dist/tex/latex/biblatex-claves/claves.bbx
+ texmf-dist/tex/latex/biblatex-claves/claves.dbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-claves
+catalogue-date 2017-11-19 19:32:20 +0100
+catalogue-license lppl1.3
+catalogue-topics biblatex
+catalogue-version 1.2.1

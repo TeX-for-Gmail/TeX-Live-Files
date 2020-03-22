@@ -1,0 +1,139 @@
+name clearsans
+category Package
+revision 34405
+shortdesc Clear Sans fonts with LaTeX support
+longdesc Clear Sans was designed by Daniel Ratighan at Monotype under
+longdesc the direction of the User Experience team at Intel's Open
+longdesc Source Technology Center. Clear Sans is available in three
+longdesc weights (regular, medium, and bold) with corresponding italics,
+longdesc plus light and thin upright (without italics). Clear Sans has
+longdesc minimized, unambiguous characters and slightly narrow
+longdesc proportions, making it ideal for UI design. Its strong,
+longdesc recognizable forms avoid distracting ambiguity, making Clear
+longdesc Sans comfortable for reading short UI labels and long passages
+longdesc in both screen and print. The fonts are available in both
+longdesc TrueType and Type 1 formats.
+execute addMap ClearSans.map
+containersize 1323004
+containerchecksum 5f2b3bf0a523c6bbe2fcd5bc8cc7cf42834123d2de3299c46eb569981b368f14d2cf413be0e33001f4760eb9e5389c6e94f1c9b64f5393a926110a63aeb6a20a
+doccontainersize 198484
+doccontainerchecksum de7d6b7ec5c6484b9597b35c3f4e25ffb37b237c92fa6aadfc33b213a2ade1355ae3a32f71b7dfd61cd0423cf0026b0cbcaeeaf2cd447f27fdbb181d86b3ff7d
+runfiles size=970
+ texmf-dist/fonts/enc/dvips/clearsans/clr_er7w2x.enc
+ texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc
+ texmf-dist/fonts/enc/dvips/clearsans/clr_y7ge35.enc
+ texmf-dist/fonts/enc/dvips/clearsans/clr_zjpm5y.enc
+ texmf-dist/fonts/map/dvips/clearsans/ClearSans.map
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Bold-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-BoldItalic-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Italic-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Light-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Medium-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-MediumItalic-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-Thin-lf-ts1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-ly1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-ly1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-ot1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-t1.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-ts1--base.tfm
+ texmf-dist/fonts/tfm/intel/clearsans/ClearSans-lf-ts1.tfm
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Bold.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-BoldItalic.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Italic.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Light.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Medium.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-MediumItalic.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Regular.ttf
+ texmf-dist/fonts/truetype/intel/clearsans/ClearSans-Thin.ttf
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-BoldItalic.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Light.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Medium.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-MediumItalic.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb
+ texmf-dist/fonts/type1/intel/clearsans/ClearSans-Thin.pfb
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Bold-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Bold-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Bold-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-BoldItalic-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-BoldItalic-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-BoldItalic-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Italic-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Light-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Light-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Light-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Medium-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Medium-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Medium-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-MediumItalic-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-MediumItalic-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-MediumItalic-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Thin-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Thin-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-Thin-lf-ts1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-lf-ly1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-lf-t1.vf
+ texmf-dist/fonts/vf/intel/clearsans/ClearSans-lf-ts1.vf
+ texmf-dist/tex/latex/clearsans/ClearSans.sty
+ texmf-dist/tex/latex/clearsans/LY1ClearSans-LF.fd
+ texmf-dist/tex/latex/clearsans/LY1ClearSansLight-LF.fd
+ texmf-dist/tex/latex/clearsans/LY1ClearSansThin-LF.fd
+ texmf-dist/tex/latex/clearsans/OT1ClearSans-LF.fd
+ texmf-dist/tex/latex/clearsans/OT1ClearSansLight-LF.fd
+ texmf-dist/tex/latex/clearsans/OT1ClearSansThin-LF.fd
+ texmf-dist/tex/latex/clearsans/T1ClearSans-LF.fd
+ texmf-dist/tex/latex/clearsans/T1ClearSansLight-LF.fd
+ texmf-dist/tex/latex/clearsans/T1ClearSansThin-LF.fd
+ texmf-dist/tex/latex/clearsans/TS1ClearSans-LF.fd
+ texmf-dist/tex/latex/clearsans/TS1ClearSansLight-LF.fd
+ texmf-dist/tex/latex/clearsans/TS1ClearSansThin-LF.fd
+catalogue-ctan /fonts/clearsans
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license apache2
+catalogue-topics font-sans font-type1 font-ttf

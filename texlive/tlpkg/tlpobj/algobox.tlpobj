@@ -1,0 +1,29 @@
+name algobox
+category Package
+revision 45223
+shortdesc Typeset Algobox programs
+longdesc This LaTeX package can typeset Algobox programs almost exactly
+longdesc as displayed when editing with Algobox itself, using an input
+longdesc syntax very similar to the actual Algobox program text. It
+longdesc gives better results than Algobox's own LaTeX export which does
+longdesc not look like the editor rendition, produces standalone
+longdesc documents cumbersome to customize, and has arbitrary and
+longdesc inconsistent differences between the input syntax and the
+longdesc program text. This package depends upon the following other
+longdesc LaTeX packages: expl3, TikZ, environ, xparse, and xcolor.
+containersize 3632
+containerchecksum e139637e873a42abea92aeadd1a8c92ac29dfd30f6373e5b97b21422887d564ab1e6a8f8770d2e0847aed6e1cc9f16602367c1699e7217d0076bf9f23080a888
+doccontainersize 140576
+doccontainerchecksum 9c6e1118868d718184081a2372f4ed60cef1eed421a25a00689180ed4e510e1a86590f78a5de106089d8eb329d8f2e9903f37e9c176bb00faa3ea72ab7cd034f
+srccontainersize 5512
+srccontainerchecksum e887fe85c9d48bfcad8611f96b055552dd88a0ceb92726ff7e4b149aa5c058f48cd5fbd613fee0fdc8cc80ea2f76178132a54ddb617bd6ca30ffe29c7497092c
+runfiles size=4
+ texmf-dist/tex/latex/algobox/algobox.sty
+catalogue-contact-bugs https://gitlab.com/frnchfrgg-latex/algobox/issues
+catalogue-contact-home https://gitlab.com/frnchfrgg-latex/algobox/wikis/home
+catalogue-contact-repository https://gitlab.com/frnchfrgg-latex/algobox
+catalogue-ctan /macros/latex/contrib/algobox
+catalogue-date 2017-09-07 05:54:52 +0200
+catalogue-license gpl3+
+catalogue-topics listing program-doc
+catalogue-version 1.2a

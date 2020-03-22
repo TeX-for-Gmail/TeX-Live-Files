@@ -1,0 +1,13 @@
+name translation-enumitem-de
+category Package
+revision 24196
+shortdesc Enumitem documentation, in German
+longdesc This is a translation of the manual for enumitem.
+containersize 400
+containerchecksum 7018a95d7b68b6b736472d6f43d356d25d2a73df4a5dbc080485f3b4e747d122889788b3d1a75ec4c479a84a4453128104f01b2e1788e9dc50d09bda0eb53cfe
+doccontainersize 607768
+doccontainerchecksum bee33ecf7a3045c382242f4b6ec9599f32fb254053a6417ceb514f3aad64b2bf51c50f660b562a2a3f0207f7bdc4676527627f432b1556362e3a9f5e9eda8694
+catalogue-ctan /info/translations/enumitem/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list german-doc translation

@@ -1,0 +1,70 @@
+name libertinust1math
+category Package
+revision 48862
+shortdesc A Type 1 font and LaTeX support for Libertinus Math
+longdesc The package provides a Type1 version of Libertinus Math, with a
+longdesc number of additions and changes, plus LaTeX support files that
+longdesc allow it to serve as a math accompaniment to Libertine under
+longdesc LaTeX. In addition, with option sansmath, it can function as a
+longdesc standalone math font with sans serif Roman and Greek letters.
+execute addMap libertinust1math.map
+containersize 1011772
+containerchecksum e1495d0bd0e0082b54748cc6536a2ba0c0664da049f3ea99cf3df3cf60066fef11854738fe89f477bea879db9dc49199fcd2e8c3c4676cd3bf135122e011bd10
+doccontainersize 1329644
+doccontainerchecksum 8816d8592f613f9776d57bf1c71a0b4018a056647be658268f8d13135deb2903b7b31e4be11098b6aedeca852bbb889b23110f76c98bbee7cfd26a2c0ad29359
+runfiles size=455
+ texmf-dist/fonts/afm/public/libertinust1math/BDXsfmi-bol.afm
+ texmf-dist/fonts/afm/public/libertinust1math/BDXsfmi-reg.afm
+ texmf-dist/fonts/afm/public/libertinust1math/BDXsfmr-bol.afm
+ texmf-dist/fonts/afm/public/libertinust1math/BDXsfmr-reg.afm
+ texmf-dist/fonts/afm/public/libertinust1math/LibertinusT1Math.afm
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusBB.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusBMI.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusBMR.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusEX.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusFRK.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusMI.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusMR.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusSF.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusSFB.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusSFI.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libusSYM.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libussfMI.enc
+ texmf-dist/fonts/enc/dvips/libertinust1math/libussfMR.enc
+ texmf-dist/fonts/map/dvips/libertinust1math/libertinust1math.map
+ texmf-dist/fonts/tfm/public/libertinust1math/BDXsfmi-bol.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/BDXsfmi-reg.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/BDXsfmr-bol.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/BDXsfmr-reg.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathbb.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathex.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathit-bold.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathit.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathrm-bold.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathrm.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathsfit-bold.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathsfit.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathsfrm-bold.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathsfrm.tfm
+ texmf-dist/fonts/tfm/public/libertinust1math/libertinust1-mathsym.tfm
+ texmf-dist/fonts/type1/public/libertinust1math/BDXsfmi-bol.pfb
+ texmf-dist/fonts/type1/public/libertinust1math/BDXsfmi-reg.pfb
+ texmf-dist/fonts/type1/public/libertinust1math/BDXsfmr-bol.pfb
+ texmf-dist/fonts/type1/public/libertinust1math/BDXsfmr-reg.pfb
+ texmf-dist/fonts/type1/public/libertinust1math/LibertinusT1Math.pfb
+ texmf-dist/fonts/vf/public/libertinust1math/libertinust1-mathsfit-bold.vf
+ texmf-dist/fonts/vf/public/libertinust1math/libertinust1-mathsfit.vf
+ texmf-dist/fonts/vf/public/libertinust1math/libertinust1-mathsfrm-bold.vf
+ texmf-dist/fonts/vf/public/libertinust1math/libertinust1-mathsfrm.vf
+ texmf-dist/tex/latex/libertinust1math/libertinust1math.sty
+ texmf-dist/tex/latex/libertinust1math/ls1libertinust1math.fd
+ texmf-dist/tex/latex/libertinust1math/ls1libertinust1mathbb.fd
+ texmf-dist/tex/latex/libertinust1math/ls1libertinust1mathsf.fd
+ texmf-dist/tex/latex/libertinust1math/ls2libertinust1mathex.fd
+ texmf-dist/tex/latex/libertinust1math/ls2libertinust1mathsym.fd
+ texmf-dist/tex/latex/libertinust1math/ot1libertinust1mathsf.fd
+catalogue-ctan /fonts/libertinust1math
+catalogue-date 2018-10-08 07:53:35 +0200
+catalogue-license ofllppl
+catalogue-topics font-serif font-sans font-maths font-type1
+catalogue-version 1.1.9

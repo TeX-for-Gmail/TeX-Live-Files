@@ -1,0 +1,23 @@
+name svninfo
+category Package
+revision 17554
+shortdesc Typeset Subversion keywords
+longdesc A package for incorporating the values of Subversion keywords
+longdesc into typeset documents. Information about Subversion (a
+longdesc replacement for CVS) is available from
+longdesc http://subversion.tigris.org/
+containersize 3940
+containerchecksum efb2b358bbf5a05b17a591114d0f45a38ff42837751d00b88183265d9bf595ba39377fc53dfe69ca01ae8c1776e6d4ded9c0f636e0e697b946f1d193b39c1537
+doccontainersize 258436
+doccontainerchecksum f8f20578da98d54181475d23be625a80c35af5e464fdcfca80643f8701a029bfdf03cfb13ec42be34312eafc372e42e5bbb4260aaa5066fe004b2fd6fcb2acc7
+srccontainersize 12712
+srccontainerchecksum 7ce865a81c8fcd47ff2cf00b5304e40ca0d534ee63b23cf24eb716926f3258a8081ec6aa9bf160a3fce741f1dab6c62e069ada8f5298f9a354d92c34ab36058b
+runfiles size=5
+ texmf-dist/tex/latex/svninfo/svninfo.cfg
+ texmf-dist/tex/latex/svninfo/svninfo.sty
+catalogue-also svn svn-multi svn-prov
+catalogue-ctan /macros/latex/contrib/svninfo
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics version-control doc-mgmt
+catalogue-version 0.7.4

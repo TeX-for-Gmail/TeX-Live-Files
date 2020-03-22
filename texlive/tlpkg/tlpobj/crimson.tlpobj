@@ -1,0 +1,122 @@
+name crimson
+category Package
+revision 43525
+shortdesc Crimson fonts with LaTeX support
+longdesc This package provides LaTeX, pdfLaTeX, XeLaTeX, and LuaLaTeX
+longdesc support for the Crimson family of fonts, designed by Sebastian
+longdesc Kosch. The Crimson family is for book production in the
+longdesc tradition of beautiful oldstyle typefaces, inspired
+longdesc particularly by the work of people like Jan Tschichold (Sabon),
+longdesc Robert Slimbach (Arno, Minion), and Jonathan Hoefler (Hoefler
+longdesc Text). Support for small caps and old-style numerals is still
+longdesc "under construction"; these features are not supported by this
+longdesc version of the package.
+execute addMap crimson.map
+containersize 1383528
+containerchecksum 58708970173456998d07a7953d86b3124a0b97a918910229c0d20a300de688283bdb85b63a7596d2bbf2a6cf5f1069a596e43b29d6fa0c5866ef9b0cc1d01b3e
+doccontainersize 34248
+doccontainerchecksum 2fac264b2986a52a739496c907930b6182e56dc24c8b13356d4d564113d6aa019734fb450168122aff2b0f14ecea3d962b4097638277b805d3a13cff5493fa9b
+runfiles size=655
+ texmf-dist/fonts/enc/dvips/crimson/crm_3bejww.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_axwm4k.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_ayvnmf.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_bchha2.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_fllea6.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_g4bzis.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_izufyi.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_jdlmpi.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_kwsa5r.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_myjoho.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_n3gbj7.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_odbuza.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_ory2k7.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_qrsm2e.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_qst7o4.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_tyw3ea.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_uafi7a.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_ue2axx.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_vcz7kx.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_wef5am.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_wsbs26.enc
+ texmf-dist/fonts/enc/dvips/crimson/crm_wttfgh.enc
+ texmf-dist/fonts/map/dvips/crimson/crimson.map
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-Bold.otf
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-BoldItalic.otf
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-Italic.otf
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-Roman.otf
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-Semibold.otf
+ texmf-dist/fonts/opentype/kosch/crimson/Crimson-SemiboldItalic.otf
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Bold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-BoldItalic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Italic-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Roman-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-Semibold-tlf-ts1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-ly1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-ly1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-ot1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-t1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-t1.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-ts1--base.tfm
+ texmf-dist/fonts/tfm/kosch/crimson/Crimson-SemiboldItalic-tlf-ts1.tfm
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-Bold.pfb
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-BoldItalic.pfb
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-Italic.pfb
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-Roman.pfb
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-Semibold.pfb
+ texmf-dist/fonts/type1/kosch/crimson/Crimson-SemiboldItalic.pfb
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Bold-tlf-ly1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Bold-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Bold-tlf-ts1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-BoldItalic-tlf-ly1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-BoldItalic-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-BoldItalic-tlf-ts1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Italic-tlf-ly1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Italic-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Italic-tlf-ts1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Roman-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Roman-tlf-ts1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Semibold-tlf-ly1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Semibold-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-Semibold-tlf-ts1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-SemiboldItalic-tlf-ly1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-SemiboldItalic-tlf-t1.vf
+ texmf-dist/fonts/vf/kosch/crimson/Crimson-SemiboldItalic-tlf-ts1.vf
+ texmf-dist/tex/latex/crimson/LY1Crimson-TLF.fd
+ texmf-dist/tex/latex/crimson/OT1Crimson-TLF.fd
+ texmf-dist/tex/latex/crimson/T1Crimson-TLF.fd
+ texmf-dist/tex/latex/crimson/TS1Crimson-TLF.fd
+ texmf-dist/tex/latex/crimson/crimson.sty
+catalogue-also crimsonpro
+catalogue-ctan /fonts/crimson
+catalogue-date 2018-12-22 13:05:48 +0100
+catalogue-license ofllppl
+catalogue-topics font font-serif font-t1enc font-proportional font-otf font-type1

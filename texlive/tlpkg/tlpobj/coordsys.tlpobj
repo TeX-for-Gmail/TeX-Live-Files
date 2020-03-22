@@ -1,0 +1,25 @@
+name coordsys
+category Package
+revision 15878
+shortdesc Draw cartesian coordinate systems
+longdesc The package provides commands for typesetting number lines
+longdesc (coordinate axes), coordinate systems and grids in the picture
+longdesc environment. The package may be integrated with other drawing
+longdesc mechanisms: the documentation shows examples of drawing graphs
+longdesc (coordinate tables created by Maple), using the eepic package's
+longdesc drawing capabilities.
+containersize 4560
+containerchecksum 83a57df64b3386b7e927ca30b4b2ea031bd656121dda79dba0f96779e77d733d2293b80a3b08081678bea9b31a31a586123e9866c6aa595561843af3de0cc4f6
+doccontainersize 251112
+doccontainerchecksum bb89a04e5889c39c23ee65c38232cc0be931dff383d52614e290b6bd8ab23e7c9063fd7ea656dde896c08830b8c7c85e1da7f56728fd43a1bedf31bef6ca2e83
+srccontainersize 24480
+srccontainerchecksum dd03bf08143a43b3486524d4aadac592e3e2264d23aa45fbb499ec7e709edcabd87f66fa38349edd856a09fb6d55ef466d565714045559b9b7f418a7d3eb5acf
+runfiles size=9
+ texmf-dist/tex/latex/coordsys/coordsys.sty
+ texmf-dist/tex/latex/coordsys/logsys.sty
+catalogue-also logsys
+catalogue-ctan /macros/latex/contrib/coordsys
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-in-tex
+catalogue-version 1.4

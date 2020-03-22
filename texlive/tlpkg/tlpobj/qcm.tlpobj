@@ -1,0 +1,30 @@
+name qcm
+category Package
+revision 15878
+shortdesc A LaTeX2e class for making multiple choice questionnaires
+longdesc QCM is a package for making multiple choices questionnaires
+longdesc under LaTeX2e ("QCM" is the French acronym for this style of
+longdesc test). A special environment allows you to define questions and
+longdesc possible answers. You can specify which answers are correct and
+longdesc which are not. QCM not only formats the questions for you, but
+longdesc also generates a 'form' (a grid that your students will have to
+longdesc fill in), and a 'mask' (the same grid, only with correct
+longdesc answers properly checked in). You can then print the mask on a
+longdesc slide and correct the questionnaires more easily by
+longdesc superimposing the mask on top of students' forms. QCM can also
+longdesc typeset exam corrections automatically, and comes with support
+longdesc for AUC-TeX.
+containersize 3544
+containerchecksum 9fc1ac5b0b6fb819022f9e2ef625a73ed884ecd2c45b7c58283388ea0263d9f9c9045e14d9ee37e8a3c0036171284f30f7db5f99bacd01d4c65e1819bec6ab95
+doccontainersize 94864
+doccontainerchecksum d7935c763e9e5245eb68d915b39a2f91d785a1590a7cd807e0923d7d5763ef8216069bf1119f15f91521fd83786c86de7b227e90b6407d6799a6104fe466fd4a
+srccontainersize 9308
+srccontainerchecksum 7efcc841f6c990e7fb1979bfeed28289ff0290b9ab2d54248628a3e52f0eb3c35b9a3b8f91a4b06231577a957d1009522d4c9843c103720f590cfb617289fd23
+runfiles size=4
+ texmf-dist/tex/latex/qcm/qcm.cls
+ texmf-dist/tex/latex/qcm/qcm.sty
+catalogue-ctan /macros/latex/contrib/qcm
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics exam
+catalogue-version 2.1

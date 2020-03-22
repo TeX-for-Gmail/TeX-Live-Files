@@ -1,0 +1,22 @@
+name Tabbing
+category Package
+revision 17022
+shortdesc Tabbing with accented letters
+longdesc By default, some of the tabbing environment's commands clash
+longdesc with default accent commands; LaTeX provides the odd commands
+longdesc \a', etc., to deal with the clash. The package offers a variant
+longdesc of the tabbing environment which does not create this
+longdesc difficulty, so that users need not learn two sets of accent
+longdesc commands.
+containersize 1360
+containerchecksum 10d3c274c5838c48bd47f651bfc57aeded8246787e23091307dcabf2794fc9eec19bc3a3af9ae08b812688ebc4fffd295fb01c7be7d61fcd06ccb46ce4f6b739
+doccontainersize 216508
+doccontainerchecksum 1f4eb22039e3bae3897502fe541e595c802fffa94d2cdefed451cf24883e1f41d29e9ea0065d1d68ddee3e166aaa1ba7896dd84bf612e9c007ecc5c1e2d5f616
+srccontainersize 3728
+srccontainerchecksum a4c7b558e6e5ad9eeb8b4e3d81c20edb09d66cd8aaec2b501224fb7f93a40c3771f8e23d2fbfb910158464f98d8172bc691787ef1c2256066fb85e96068f368a
+runfiles size=1
+ texmf-dist/tex/latex/Tabbing/Tabbing.sty
+catalogue-ctan /macros/latex/contrib/Tabbing
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics alignment macro-supp

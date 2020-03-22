@@ -1,0 +1,18 @@
+name visualfaq
+category Package
+revision 38647
+shortdesc A Visual LaTeX FAQ
+longdesc Having trouble finding the answer to a LaTeX question? The
+longdesc Visual LaTeX FAQ is an innovative new search interface that
+longdesc presents over a hundred typeset samples of frequently requested
+longdesc document formatting. Simply click on a hyperlinked piece of
+longdesc text and the Visual LaTeX FAQ will send your Web browser to the
+longdesc appropriate page in the UK TeX FAQ.
+containersize 560
+containerchecksum 6b88343feaf39cd314e9453452da245054d3192f02ba0b2eb6e55a9bbca434e9b74cb16ad0902a6f5352d9ef945a4176e2e1998a7f0bd1cd75d2a3da7f4a203a
+doccontainersize 5246876
+doccontainerchecksum eea0f022741d52ebb3613e977948c0428ddbe5b7d41faa659e888b48b7bb4e655a0e693d1dfd92d40a52a67e6df9ad386ac64d2ffee7c2732feb2077d4b24f77
+catalogue-ctan /info/visualFAQ
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics faq

@@ -1,0 +1,26 @@
+name zhlipsum
+category Package
+revision 48629
+shortdesc Chinese dummy text
+longdesc This package provides an interface to dummy text in Chinese
+longdesc language, which will be useful for testing Chinese documents.
+longdesc UTF-8, GBK and Big5 encodings are supported.
+containersize 200720
+containerchecksum 64ccc1f0baf30980162ce259d897a9fc97c6771768fadc3958e398e38f96ac6ea115b126a1b106270a7a509358108ffe8b93cf52af87503c66b8a365585391f6
+doccontainersize 330092
+doccontainerchecksum 06692d711ee3009bf11bc641569a9e3b0d6e339e0b7dca6e5e5d3a689b3fd24a5d4eaa45de7cd4ac2c0e3feea5c2612881dcc4bca88b12f554bc78fe96cb8220
+srccontainersize 96844
+srccontainerchecksum 32d12c4f3699275119f5dacbd7b6bbb559555ddceeccfcd908e0bb6f2db50b76cbe0323b7ce6e0474d369a1e343718cb0024cd0f87487e629dfc9f104c3e6950
+runfiles size=111
+ texmf-dist/tex/latex/zhlipsum/zhlipsum-big5.def
+ texmf-dist/tex/latex/zhlipsum/zhlipsum-gbk.def
+ texmf-dist/tex/latex/zhlipsum/zhlipsum-utf8.def
+ texmf-dist/tex/latex/zhlipsum/zhlipsum.sty
+catalogue-also lipsum
+catalogue-contact-bugs https://github.com/Stone-Zeng/zhlipsum/issues
+catalogue-contact-repository https://github.com/Stone-Zeng/zhlipsum
+catalogue-ctan /macros/latex/contrib/zhlipsum
+catalogue-date 2018-09-08 18:58:53 +0200
+catalogue-license lppl1.3c
+catalogue-topics dummy-gen chinese latex3 macro-supp
+catalogue-version 1.1.1

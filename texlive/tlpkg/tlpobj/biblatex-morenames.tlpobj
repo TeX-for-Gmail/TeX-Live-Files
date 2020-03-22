@@ -1,0 +1,24 @@
+name biblatex-morenames
+category Package
+revision 43049
+shortdesc New names for standard BibLaTeX entry type
+longdesc This package adds new fields of "name" type to the standard
+longdesc entry types of BibLaTeX. For example: maineditor, for a
+longdesc @collection, means the editor of @mvcollection, and not the
+longdesc editor of the @collection. bookineditor, for a @bookinbook,
+longdesc means the editor of the entry, and not, as the standard editor
+longdesc field, the editor of the volume in which the entry is
+longdesc contained.
+containersize 2448
+containerchecksum 7e847faa586655aa7b3c92d9379540b2f5e78fb50843e36416e21552c6a9e810945f5b60a96a14c35570bd0403ac29a43af29bd46e2ecb0d87e3c6ac90345826
+doccontainersize 134744
+doccontainerchecksum c30953fabfd4717c56cc818e55f83995ceb203bfd67775aced3fe8f1f4f4a92b118ed9c40665ea28944806cb2d409a541f59df530e37274e3bc3babfbe55713a
+runfiles size=3
+ texmf-dist/tex/latex/biblatex-morenames/morenames.bbx
+ texmf-dist/tex/latex/biblatex-morenames/morenames.dbx
+catalogue-contact-repository https://git.framasoft.org/maieul/biblatex-morenames
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-morenames
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics humanities biblatex
+catalogue-version 1.3.1

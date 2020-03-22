@@ -1,0 +1,40 @@
+name newtxsf
+category Package
+revision 47958
+shortdesc Sans-math fonts for use with newtx
+longdesc The package provides a maths support that amounts to
+longdesc modifications of the STIX sans serif Roman and Greek letters
+longdesc with most symbols taken from newtxmath (which must of course be
+longdesc installed and its map file enabled).
+execute addMap newtxsf.map
+containersize 105228
+containerchecksum ce1497bcc316b555b47dcab2bf68888fb580e0f1252fa1e1f73f2b3cfad2b9754ea4963ef0c39b967ac374323b6f75cdf28d0d25f93212b09a1e66bf90976c51
+doccontainersize 332220
+doccontainerchecksum 426c11211d3f66c8d87b1b2522ed8bd9b2ed0e4e006dac4c0751d0b479100e2cc1aa60ab2c32b8e6362b767300f568ed295bcabf4a86c51f2ada7ea868483066
+runfiles size=61
+ texmf-dist/fonts/map/dvips/newtxsf/newtxsf.map
+ texmf-dist/fonts/tfm/public/newtxsf/ntxsfbmi.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/ntxsfbmia.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/ntxsfmi.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/ntxsfmia.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/zsfmi-bol.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/zsfmi-reg.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/zsfmia-bol.tfm
+ texmf-dist/fonts/tfm/public/newtxsf/zsfmia-reg.tfm
+ texmf-dist/fonts/type1/public/newtxsf/zsfmi-bol.pfb
+ texmf-dist/fonts/type1/public/newtxsf/zsfmi-reg.pfb
+ texmf-dist/fonts/type1/public/newtxsf/zsfmia-bol.pfb
+ texmf-dist/fonts/type1/public/newtxsf/zsfmia-reg.pfb
+ texmf-dist/fonts/vf/public/newtxsf/ntxsfbmi.vf
+ texmf-dist/fonts/vf/public/newtxsf/ntxsfbmia.vf
+ texmf-dist/fonts/vf/public/newtxsf/ntxsfmi.vf
+ texmf-dist/fonts/vf/public/newtxsf/ntxsfmia.vf
+ texmf-dist/tex/latex/newtxsf/newtxsf.sty
+ texmf-dist/tex/latex/newtxsf/omlntxsfmi.fd
+ texmf-dist/tex/latex/newtxsf/untxsfmia.fd
+catalogue-also newtx stix
+catalogue-ctan /fonts/newtxsf
+catalogue-date 2018-06-07 22:19:28 +0200
+catalogue-license ofl
+catalogue-topics font font-sans font-maths font-type1
+catalogue-version 1.051

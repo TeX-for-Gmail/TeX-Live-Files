@@ -1,0 +1,15 @@
+name csquotes-de
+category Package
+revision 23371
+shortdesc German translation of csquotes documentation
+longdesc This is a translation of the documentation of csquotes version
+longdesc 5.1.
+containersize 400
+containerchecksum 7d4667b77f1e27acb1d3c8becaad4889910edaab4b9da6b0fe821db262f3a31672050f5985a56533003178fbf1d579d170be3fcd22c31bbf41af9bcb68fb7c40
+doccontainersize 321176
+doccontainerchecksum 1e8829faf2cb23b2e565a4b5daa5a09ef01d590d920444ee4659964bee042148ea19e9fbcb63e4c4ea1e2698697554e0bc532fa0fb7610bbf9bb4bca234d33d5
+catalogue-ctan /info/translations/csquotes/de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics quote-marks translation
+catalogue-version 1.01

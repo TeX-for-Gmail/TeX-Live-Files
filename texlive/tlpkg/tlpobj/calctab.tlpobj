@@ -1,0 +1,20 @@
+name calctab
+category Package
+revision 15878
+shortdesc Language for numeric tables
+longdesc The calctab package helps the user to typeset a kind of
+longdesc economic table such as invoices, expense notes and liquidation,
+longdesc or other tabular material with a values column. The code
+longdesc computes sum and percentage with floating point numeric methods
+longdesc (using the fltpoint package) and builds the render table task.
+containersize 4680
+containerchecksum 20ccd46a047987004eef78f75b18f49b1e3001e240604e2657e23e30c4e6f286ba700cb828eeffbd608880ac4994d4a3cd2d67aa336957fecd1d3ea8a48058b1
+doccontainersize 407400
+doccontainerchecksum 555a9d966fe556e8aa1dd39ec1ec327995f62fa447bfd2bbb8efe47ad667427eef249c749f9d2c0436c16e31e6fe7b0dced9b449da307411ac186d30c2407270
+runfiles size=5
+ texmf-dist/tex/latex/calctab/calctab.sty
+catalogue-ctan /macros/latex/contrib/calctab
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics calculation
+catalogue-version 0.6.1

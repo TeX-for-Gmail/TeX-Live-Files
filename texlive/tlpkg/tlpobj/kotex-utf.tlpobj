@@ -1,0 +1,43 @@
+name kotex-utf
+category Package
+revision 38558
+shortdesc Typeset Hangul, coded in UTF-8
+longdesc The package typesets Hangul, which is the native alphabet of
+longdesc the Korean language; input Korean text should be encoded in
+longdesc UTF-8. The bundle (of class and associated packages) belongs to
+longdesc the ko.TeX bundle.
+depend cjk-ko
+containersize 20496
+containerchecksum 65ce36703d824ae483a53ac6a3550a8d71d140bdeb67d3c9ddd343255cedbb74739c1688b05ae4742703c6c46b3e46deef5c6a7c5571cfe8f8a4003d56aac446
+doccontainersize 6849784
+doccontainerchecksum 692a2d90f404c571aa0dea436436f72139bf2024dc6f3be0b9e48cb57b60e36d1abb79d7e51fb88b5efc83176417b8f74c8b945fbd236c0832873ad8fa65f410
+runfiles size=38
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-cmap.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-enumerate.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-enumitem.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-gremph.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-interword.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-paralist.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-sectsty.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-setspace.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-trivcj.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucs-ucshyper.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/dhucsfn.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/kotex-logo.sty
+ texmf-dist/tex/latex/kotex-utf/contrib/kotex-varioref.sty
+ texmf-dist/tex/latex/kotex-utf/dhucs-nanumfont.sty
+ texmf-dist/tex/latex/kotex-utf/dhucs.sty
+ texmf-dist/tex/latex/kotex-utf/hfontspec.default
+ texmf-dist/tex/latex/kotex-utf/kosections-utf.sty
+ texmf-dist/tex/latex/kotex-utf/kotex.cfg
+ texmf-dist/tex/latex/kotex-utf/kotexutf.sty
+ texmf-dist/tex/latex/kotex-utf/lucenc.dfu
+ texmf-dist/tex/latex/kotex-utf/lucuhcmj.fd
+ texmf-dist/tex/latex/kotex-utf/tex4ht/dhucs.4ht
+ texmf-dist/tex/latex/kotex-utf/tex4ht/dhucs.cfg
+ texmf-dist/tex/latex/kotex-utf/tex4ht/kosections-utf.4ht
+catalogue-ctan /language/korean/kotex-utf
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics korean
+catalogue-version 2.1.2

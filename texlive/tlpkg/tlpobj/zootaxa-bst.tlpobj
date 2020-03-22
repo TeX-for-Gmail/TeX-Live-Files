@@ -1,0 +1,23 @@
+name zootaxa-bst
+category Package
+revision 50619
+shortdesc A BibTeX style for the journal Zootaxa
+longdesc This package provides a .bst reference style file for the
+longdesc journal Zootaxa that publishes contributions in zoology and
+longdesc classification. This is a fork of apa.bst as provided by TeX
+longdesc Live since this style file resembled the most Zootaxa's own
+longdesc style. Further modifications were made to the code in order to
+longdesc generate in-text citations and bibliography sections
+longdesc appropriately.
+containersize 6228
+containerchecksum 80816556a2e23cfd8345b7d22224142a5448105ccc5c1143f33c4560a4e4ab432115c2fc47c5d4c6ba599031f4c36b481465a5fa7b32afde888beac69a6e6c62
+doccontainersize 135268
+doccontainerchecksum f843aa27ab0c2139e1051aefaa9b667f2de489cc13578200ce7db2bdfc2397888856c6cbe68b6fa201e0cb269bb95818cb31f1b03622c49ebdced23fa5960d65
+runfiles size=6
+ texmf-dist/bibtex/bst/zootaxa-bst/zootaxa.bst
+catalogue-contact-repository https://github.com/gaballench/zootaxa-bst
+catalogue-ctan /biblio/bibtex/contrib/zootaxa-bst
+catalogue-date 2019-03-27 19:05:22 +0100
+catalogue-license lppl1.3c
+catalogue-topics bibtex-sty journalpub biology
+catalogue-version 1.0

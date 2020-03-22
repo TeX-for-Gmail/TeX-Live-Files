@@ -1,0 +1,25 @@
+name rsc
+category Package
+revision 41923
+shortdesc BibTeX style for use with RSC journals
+longdesc The rsc package provides a BibTeX style in accordance with the
+longdesc requirements of the Royal Society of Chemistry. It was
+longdesc originally based on the file pccp.bst, but also implements a
+longdesc number of styles from the achemso package. The package is now a
+longdesc stub for the chemstyle package, which the author developed to
+longdesc unify the writing of articles with a chemistry content.
+containersize 7124
+containerchecksum abd1d24110722545b93cc16ff35b70c87f467193a33e8da2a04eaff354d89782911e42a46da5d380b9406f923c6fc48d38950d7346cfc799abc0660efa23db8b
+doccontainersize 187208
+doccontainerchecksum 8569a90d7f5c532e366901d8bd2bab3d5a32d5b6d1c4cedcf179d1ae96a6c34ef5d294392f93fed589a55baf3ffddee2cd35a67c2aa8fc7e0477b47ce92eb411
+srccontainersize 14708
+srccontainerchecksum b3f097f76dcd1288a70d7aec88d7ae9fc58bb4b3f3a2589944c379aba887b3e7e6c2fd6b74b2a70de58e8cb078edc0d6ac0b1997078d0c322aca9928ba033202
+runfiles size=15
+ texmf-dist/bibtex/bst/rsc/angew.bst
+ texmf-dist/bibtex/bst/rsc/rsc.bst
+ texmf-dist/tex/latex/rsc/rsc.sty
+catalogue-ctan /macros/latex/contrib/rsc
+catalogue-date 2016-08-22 22:14:27 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry journalpub
+catalogue-version 3.1f

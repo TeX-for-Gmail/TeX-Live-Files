@@ -1,0 +1,20 @@
+name secdot
+category Package
+revision 20208
+shortdesc Section numbers with trailing dots
+longdesc Makes the numbers of \section commands come out with a trailing
+longdesc dot. Includes a command whereby the same can be made to happen
+longdesc with other sectioning commands.
+containersize 1572
+containerchecksum 7fb101dcd377cb5e3d1dca352d266af419c6fd83e4f2d1701a3d598e69e8e7f70afc9791a76337f4833da612cf07989ef244af1b24eb62ee59dd5f76225aa037
+doccontainersize 256480
+doccontainerchecksum 7ca1b4102c6f92bfc6dd0571c489852dc5c1df4a58530aea490098192ee256a4df7e0bbee20adff78c2b35dfe39b8cd3f821c5e45dc6d78ab4865b6f08ad8488
+runfiles size=1
+ texmf-dist/tex/latex/secdot/secdot.sty
+catalogue-contact-repository https://github.com/rf-latex/secdot
+catalogue-contact-support https://github.com/rf-latex/secdot/issues
+catalogue-ctan /macros/latex/contrib/secdot
+catalogue-date 2018-09-15 15:51:52 +0200
+catalogue-license lppl
+catalogue-topics headings
+catalogue-version 1.0

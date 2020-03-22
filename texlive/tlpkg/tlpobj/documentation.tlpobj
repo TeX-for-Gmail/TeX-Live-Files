@@ -1,0 +1,20 @@
+name documentation
+category Package
+revision 34521
+shortdesc Documentation support for C, Java and assembler code
+longdesc The package provides a simple means of typesetting computer
+longdesc programs such that the result is acceptable for inclusion in
+longdesc reports, etc.
+containersize 1944
+containerchecksum 330534f15cafffa56dc35e5b4de8caac66a87ccb0b834df5419a68a7cb136136263af14ef14ee7ecaf01fedb2803c2653dab7570ec2535ad1ca3033e1afd64e2
+doccontainersize 87916
+doccontainerchecksum 09854b00d86dd902c26c1b4f8cda942ea09796911939a20014b6d50d01b052e04007b55fe814877cb4515a6aa1f4ca1a7ebb39a6a6ac1bfc89b98d1f910329ee
+srccontainersize 6436
+srccontainerchecksum 7e32523123407b913662fd7bbdedf5d3058e1e7e3592649b7afdd4d4df6bb704c7b1c3153fb0fdf3b8bea183259a64b8ab6ec17d74ee74ea086a56ef1dc90bc2
+runfiles size=2
+ texmf-dist/tex/latex/documentation/documentation.sty
+catalogue-ctan /macros/latex/contrib/documentation
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics listing
+catalogue-version 0.1

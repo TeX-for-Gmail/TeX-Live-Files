@@ -1,0 +1,24 @@
+name biblatex-phys
+category Package
+revision 48941
+shortdesc A BibLaTeX implementation of the AIP and APS bibliography style
+longdesc The biblatex-phys package provides an implementation of the
+longdesc bibliography styles of both the AIP and the APS for BibLaTeX.
+longdesc This implementation follows standard BibLaTeX conventions, and
+longdesc can be used simply by loading BibLaTeX with the appropriate
+longdesc option: \usepackage[style=phys]{biblatex} A demonstration
+longdesc database is provided to show how to format input for the style.
+longdesc Style options are provided to cover the minor formatting
+longdesc variations between the AIP and APS bibliography styles.
+containersize 3340
+containerchecksum 00e4b8dda617420a6062aab6160d91503576cd03ddef240f27247352b69507f546bd18cd21fcfd0cc6882b484d7c711b52c85d5af2c213f0d27579960bcf6fd9
+doccontainersize 454284
+doccontainerchecksum f48d1cca37b0bc1d07a67da3a106621e9754f5b4a2036f1dae636a23af50a82370b24a75340ff96d5f05fec57517f7ec68f7d9ed2278aa9fbcf8805456dc4f69
+runfiles size=5
+ texmf-dist/tex/latex/biblatex-phys/phys.bbx
+ texmf-dist/tex/latex/biblatex-phys/phys.cbx
+catalogue-ctan /macros/latex/contrib/biblatex-contrib/biblatex-phys
+catalogue-date 2018-10-19 11:03:25 +0200
+catalogue-license lppl1.3
+catalogue-topics physics biblatex
+catalogue-version 1.1

@@ -1,0 +1,20 @@
+name outliner
+category Package
+revision 21095
+shortdesc Change section levels easily
+longdesc Allows you to write "\Level 2 {Some heading}" instead of the
+longdesc usual \section stuff; the definitions of the levels can then
+longdesc easily be changed. There is a mechanism for shifting all
+longdesc levels. This makes it easy to bundle existing articles into a
+longdesc compilation.
+containersize 3380
+containerchecksum 9251cb4154042c7620f545b2fb305cb996af9ff51c44259287a1f5ec490cd83bfb82321c4d8512ca2d22e5d2a7409ac5dad9f7a7d51f38a76bfe77faf2ca4af2
+doccontainersize 964
+doccontainerchecksum 024095493b4b7301597798285afbdaca9fad291dffec9707b82da9f23b1ee0585345e4f201d6b322a1a65ceb6f703ab5430d14973c3fb25970b04d2785ebb9d2
+runfiles size=3
+ texmf-dist/tex/latex/outliner/outliner.sty
+catalogue-ctan /macros/latex/contrib/outliner
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics headings
+catalogue-version 0.94

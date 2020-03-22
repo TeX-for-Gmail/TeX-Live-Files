@@ -1,0 +1,23 @@
+name econometrics
+category Package
+revision 39396
+shortdesc Defines some commands that simplify mathematic notation in economic and econometric writing
+longdesc Econometrics is a package that defines some commands that
+longdesc simplify mathematic notation in economic and econometrics
+longdesc writing. The commands are related to the notation of vectors,
+longdesc matrices, sets, calligraphic and roman letters statistical
+longdesc distributions constants and symbols matrix operators and
+longdesc statistical operators. The package is based on "Notation in
+longdesc Econometrics: a proposal for a standard" by Karim Abadir and
+longdesc Jan R. Magnus, The Econometrics Journal (2002), 5, 76-90.
+containersize 2520
+containerchecksum 40c205421ca11111d2aeae9f84b4e418e6b4f260858805c03029753af03def61221b81eabc18dea5fd4cf5722e3dca1ff9f575264257db3a8431b061177530dd
+doccontainersize 190740
+doccontainerchecksum b5992f38536f0e4ec1c570d78523530b53e428d922517d0ad380ec76dcd2ee21243b9979e876a7f809b1581f4c4b6907bcd3f581dff97c13a0fea2a0fca1d790
+runfiles size=2
+ texmf-dist/tex/latex/econometrics/econometrics.sty
+catalogue-ctan /macros/latex/contrib/econometrics
+catalogue-date 2018-01-07 12:02:30 +0100
+catalogue-license lppl1.3
+catalogue-topics statistics
+catalogue-version 1.0

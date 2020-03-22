@@ -1,0 +1,25 @@
+name pxrubrica
+category Package
+revision 48421
+shortdesc Ruby annotations according to JIS X 4051
+longdesc This package provides a function to add ruby annotations
+longdesc (furigana) that follow the style conventional in Japanese
+longdesc typography as described in the W3C technical note "Requirements
+longdesc for Japanese Text Layout" ([JLREQ]) and the JIS specification
+longdesc JIS X 4051. Starting with version 1.3, this package also
+longdesc provides a function to add kenten (emphasis marks) to Japanese
+longdesc text.
+containersize 13696
+containerchecksum 42de048a96a4d552726de6abea4e8903f7c952c02259001d66655f449bc4edc7bb25b351be594bca205177f31f09525c9b986629c6a964e8a2b50c66aa01e1e5
+doccontainersize 788464
+doccontainerchecksum 92c0b794ea85b1b685bd94fde0c7b7b009ec4069f99705e9fb3dd93ad67564952925bcb4d6442a669f965700e658eb0c15194ffa55da86bfb1867b0d8b7bf5c4
+srccontainersize 38396
+srccontainerchecksum 17ff7e06e0ba752044f7c65925c3a0156a566b03504a4cf0f55296d8deb316eda79ae015963e1011b20c51712d206c921baf3a39c3f63d05eb1420915d4546c6
+runfiles size=20
+ texmf-dist/tex/platex/pxrubrica/pxrubrica.sty
+catalogue-contact-home https://github.com/zr-tex8r/PXrubrica
+catalogue-ctan /language/japanese/pxrubrica
+catalogue-date 2018-08-16 22:17:52 +0200
+catalogue-license mit
+catalogue-topics japanese std-conform
+catalogue-version 1.3c

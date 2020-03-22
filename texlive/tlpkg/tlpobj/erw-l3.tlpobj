@@ -1,0 +1,26 @@
+name erw-l3
+category Package
+revision 48069
+shortdesc A bundle of small utilities built around expl3
+longdesc Bundles LaTeX3 packages sharing the erw-l3 prefix. List of
+longdesc packages in this bundle: compose: compose control sequences,
+longdesc whether predefined or inline csutil: narrow purpose control
+longdesc sequences (backend to other packages) disambig: wrapper around
+longdesc \NewDocumentCommand to prevent name conflicts with external
+longdesc cmds numbrdcs: numbered control sequences built from other
+longdesc control sequences or inline
+containersize 2896
+containerchecksum d38e28024ecfa8be96a0125bea5728f54618849963881983fe9d375086530246a8e0351fcfd519ad37a235c3897906ff2f7b3f88854865e2de92237d7873aa39
+doccontainersize 529556
+doccontainerchecksum 8d1df458ed784fad2be09b46bfb48f1478c12a76127dda7a16b3c8b89966643e385ec139f0caae7a71b265451140ad95c4de4678ffbc6540bd1653c82a9775f2
+srccontainersize 7212
+srccontainerchecksum e7e2ddbb2bf750c16148915d779412f81d4508539bfed20f0bf0ef1f983675f9976984a870dfe67ce56041954e25aea6e5ebef5b07c82197ab7183968402e20d
+runfiles size=3
+ texmf-dist/tex/latex/erw-l3/erw-l3.sty
+catalogue-contact-home https://github.com/er-cpp/edu-latex3
+catalogue-contact-support https://github.com/er-cpp/edu-latex3/issues
+catalogue-ctan /macros/latex/contrib/erw-l3
+catalogue-date 2018-06-22 06:13:31 +0200
+catalogue-license lppl1.3c
+catalogue-topics latex3
+catalogue-version 0.1.3

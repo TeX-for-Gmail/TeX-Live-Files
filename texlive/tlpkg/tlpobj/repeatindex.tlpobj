@@ -1,0 +1,19 @@
+name repeatindex
+category Package
+revision 24305
+shortdesc Repeat items in an index after a page or column break
+longdesc This Package repeats item of an index if a page or column break
+longdesc occurs within a list of subitems. This helps to find out to
+longdesc which main item a subitem belongs.
+containersize 1904
+containerchecksum f700f201ff05d25fafde3eafd63ddb5aeba81dfe8be0dc4522a08459f35b3ab78cd06d215477ef5bd59c1dd6d1a05361ddfdc21159f3b6347f5a8271c4193192
+doccontainersize 1216
+doccontainerchecksum 031a5113799f662b88b2275f2f82467e2fd84ae58d18f4cb69e090aad7f2c8cb44eefc4c43f3fcda9e92de0c0027fd4ecaf9f152d33b73ebb69f06e6b4c8c1ae
+runfiles size=3
+ texmf-dist/makeindex/repeatindex/repeatindex.ist
+ texmf-dist/tex/latex/repeatindex/repeatindex.sty
+catalogue-ctan /macros/latex/contrib/repeatindex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics index
+catalogue-version 0.01

@@ -1,0 +1,25 @@
+name nostarch
+category Package
+revision 15878
+shortdesc LaTeX class for No Starch Press
+longdesc The package provides the "official" LaTeX style for No Starch
+longdesc Press. Provided are a class, a package for interfacing to
+longdesc hyperref and an index style file. The style serves both for
+longdesc printed and for electronic books.
+containersize 7816
+containerchecksum 45992ab970abe997f3b01c9dae5e15303db81878b085f45fea4ba07209160ff0307550e9ecca9b67e0d01712831b6541def54382170d43db4dd547f2969f9fb9
+doccontainersize 618136
+doccontainerchecksum 94efe6a2b41a47b559b4b7c9e04dda1f32d0c6f5da79b51d994fda1af58b4e1cc7e808f9465f7874be6b67231383c38543fb3e98706c32da32d73a4ae07da9fe
+srccontainersize 18644
+srccontainerchecksum 1d46d17f9f43981c89bffdc5e2167342e6168423068b4d02c180fa18fc4243ece749ebab18c5b47be0184e76034378a7ee6ea09aca3c782184f389c6639df38f
+runfiles size=10
+ texmf-dist/bibtex/bib/nostarch/nostarch.bib
+ texmf-dist/makeindex/nostarch/nostarch.ist
+ texmf-dist/tex/latex/nostarch/nostarch.cls
+ texmf-dist/tex/latex/nostarch/nshyper.sty
+catalogue-contact-home http://www.nostarch.com
+catalogue-ctan /macros/latex/contrib/nostarch
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl
+catalogue-topics book-pub class
+catalogue-version 1.3

@@ -1,0 +1,8 @@
+name pst2pdf.x86_64-linux
+category Package
+revision 29333
+shortdesc x86_64-linux files of pst2pdf
+containersize 340
+containerchecksum 486d85c1258e544c523daf74106913957d476131062e5f9056af7d72f0fa371132d912adbe5e684ea6d690073ea7d4f8a350046634540102f1559e30a5b64920
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/pst2pdf

@@ -1,0 +1,20 @@
+name bxorigcapt
+category Package
+revision 48606
+shortdesc To retain the original caption names when using Babel
+longdesc This package forces the caption names (`\chaptername`,
+longdesc `\today`, etc) declared by the document class in use to be used
+longdesc as the caption names for a specific language introduced by the
+longdesc Babel package.
+containersize 2604
+containerchecksum de76176e7448732d3d429c11b605f24a01779651dc5bb3969a6cdd45ac1801a9d2472dcb4bda9751aae09428d7962981a4c9c581244f15b68b6a4aea43d54972
+doccontainersize 2112
+doccontainerchecksum 0ec8b913862e51f89f661de3f628bb51a306d09d04adce4ff46183d8bb24c351f73c877b08b699f704661ae2c31131b7a959ad863a3a6613235318f8825136a2
+runfiles size=2
+ texmf-dist/tex/latex/bxorigcapt/bxorigcapt.sty
+catalogue-contact-home https://github.com/zr-tex8r/BXorigcapt
+catalogue-ctan /macros/latex/contrib/bxorigcapt
+catalogue-date 2018-09-09 06:33:26 +0200
+catalogue-license mit
+catalogue-topics typesetting
+catalogue-version 0.3

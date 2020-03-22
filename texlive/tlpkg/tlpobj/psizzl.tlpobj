@@ -1,0 +1,38 @@
+name psizzl
+category Package
+revision 15878
+shortdesc A TeX format for physics papers
+longdesc PSIZZL is a TeX format for physics papers written at SLAC and
+longdesc used at several other places. It dates from rather early in the
+longdesc development of TeX82; as a result, some of the descriptions of
+longdesc limitations look rather quaint to modern eyes.
+containersize 23084
+containerchecksum adcd254a9991839c623b3f75098276dc26df935db1528d39f8588681b87237febe81f8289aab747486df92bc9af2103638734fc22c43ace8cdea1733d2a66360
+doccontainersize 5448
+doccontainerchecksum e9d65b3b0c364fcc7632ab83974d8685568d4135cbd8568cbf69e9162dbb80283724ada72891a72dce2fabe35d846c6f09b05f1123f8fe72ae749215170ee996
+srccontainersize 640
+srccontainerchecksum fabcb5343912bf005f5ad73b2ff9444172ad6f36fe42ec492903ed6d19d3c2b67775790b15cb37a688d9c0b8d78145963f8594b67e91d07284adb5d26cd2ea52
+runfiles size=31
+ texmf-dist/tex/psizzl/base/chapters.Psizzl
+ texmf-dist/tex/psizzl/base/citation.Psizzl
+ texmf-dist/tex/psizzl/base/fontdefs.Psizzl
+ texmf-dist/tex/psizzl/base/index.Psizzl
+ texmf-dist/tex/psizzl/base/institut.Psizzl
+ texmf-dist/tex/psizzl/base/letter.Psizzl
+ texmf-dist/tex/psizzl/base/lists.Psizzl
+ texmf-dist/tex/psizzl/base/macros.Psizzl
+ texmf-dist/tex/psizzl/base/memo.Psizzl
+ texmf-dist/tex/psizzl/base/mypsizzl.tex
+ texmf-dist/tex/psizzl/base/options.Psizzl
+ texmf-dist/tex/psizzl/base/output.Psizzl
+ texmf-dist/tex/psizzl/base/picture.Psizzl
+ texmf-dist/tex/psizzl/base/psizzl.tex
+ texmf-dist/tex/psizzl/base/publicat.Psizzl
+ texmf-dist/tex/psizzl/base/symbols.Psizzl
+ texmf-dist/tex/psizzl/base/thesis.Psizzl
+ texmf-dist/tex/psizzl/config/psizzl.ini
+catalogue-ctan /macros/psizzl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics physics format
+catalogue-version 0.35

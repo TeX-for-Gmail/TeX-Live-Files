@@ -1,0 +1,41 @@
+name pst-poker
+category Package
+revision 48347
+shortdesc Drawing poker cards
+longdesc This PSTricks related package can create poker cards in various
+longdesc manners.
+containersize 347540
+containerchecksum df340b3087babccfdd371446582dd33a744af8d16a6c53939cbe0e2366c11d51de3ebe095e130dddfbcb8d062c71134679fdea8d8821818e61e4f18b1e63159b
+doccontainersize 2449924
+doccontainerchecksum 06eaab1e95de879d3de35017a3a185525375afd360ad6890b279950eda7d35599cbebd6580a31e7f0180c74266ac02d00ede982ef776eb4645b0da8966fd7708
+runfiles size=1277
+ texmf-dist/tex/latex/pst-poker/Jack-club-bw.eps
+ texmf-dist/tex/latex/pst-poker/Jack-club-color.eps
+ texmf-dist/tex/latex/pst-poker/Jack-diamond-bw.eps
+ texmf-dist/tex/latex/pst-poker/Jack-diamond-color.eps
+ texmf-dist/tex/latex/pst-poker/Jack-heart-bw.eps
+ texmf-dist/tex/latex/pst-poker/Jack-heart-color.eps
+ texmf-dist/tex/latex/pst-poker/Jack-spade-bw.eps
+ texmf-dist/tex/latex/pst-poker/Jack-spade-color.eps
+ texmf-dist/tex/latex/pst-poker/King-club-bw.eps
+ texmf-dist/tex/latex/pst-poker/King-club-color.eps
+ texmf-dist/tex/latex/pst-poker/King-diamond-bw.eps
+ texmf-dist/tex/latex/pst-poker/King-diamond-color.eps
+ texmf-dist/tex/latex/pst-poker/King-heart-bw.eps
+ texmf-dist/tex/latex/pst-poker/King-heart-color.eps
+ texmf-dist/tex/latex/pst-poker/King-spade-bw.eps
+ texmf-dist/tex/latex/pst-poker/King-spade-color.eps
+ texmf-dist/tex/latex/pst-poker/Queen-club-bw.eps
+ texmf-dist/tex/latex/pst-poker/Queen-club-color.eps
+ texmf-dist/tex/latex/pst-poker/Queen-diamond-bw.eps
+ texmf-dist/tex/latex/pst-poker/Queen-diamond-color.eps
+ texmf-dist/tex/latex/pst-poker/Queen-heart-bw.eps
+ texmf-dist/tex/latex/pst-poker/Queen-heart-color.eps
+ texmf-dist/tex/latex/pst-poker/Queen-spade-bw.eps
+ texmf-dist/tex/latex/pst-poker/Queen-spade-color.eps
+ texmf-dist/tex/latex/pst-poker/pst-poker.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-poker
+catalogue-date 2018-08-03 21:43:01 +0200
+catalogue-license lgpl3
+catalogue-topics pstricks games
+catalogue-version 0.03

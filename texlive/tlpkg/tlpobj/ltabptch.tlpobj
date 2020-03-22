@@ -1,0 +1,18 @@
+name ltabptch
+category Package
+revision 17533
+shortdesc Bug fix for longtable
+longdesc A patch for LaTeX bugs tools/3180 and tools/3480. The patch
+longdesc applies to version 4.11 of longtable.
+containersize 4740
+containerchecksum 15c839c34935ee27b0b741325a13cbe6ec2f918b007ddd691029ce341173d12ca0e5cdef3a0111c3148257babf686815c5f81c92b6019cbbb022608535f17283
+doccontainersize 267928
+doccontainerchecksum d85ff06112e540d5bd3cac2bc6100d7d922e44d3388d247e521119ee4145716ef52889515b640e85c8a21405a35fbf63b168af09253e772e826572b0560305ac
+runfiles size=3
+ texmf-dist/tex/latex/ltabptch/ltabptch.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/ltabptch
+catalogue-date 2017-05-06 08:44:32 +0200
+catalogue-license lppl
+catalogue-topics table-long
+catalogue-version 1.74d

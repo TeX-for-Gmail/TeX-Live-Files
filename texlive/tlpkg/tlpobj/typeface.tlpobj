@@ -1,0 +1,30 @@
+name typeface
+category Package
+revision 27046
+shortdesc Select a balanced set of fonts
+longdesc The package provides the means of establishing a consistent set
+longdesc of fonts for use in a LaTeX document. It allows mixing and
+longdesc matching the Type 1 font sets available on the archive (and it
+longdesc may be extended, via its configuration file, to support other
+longdesc fonts). Font-set definition takes the form of a set of options
+longdesc that are read when the package is loaded: for each typographic
+longdesc category (main body font, sans-serif font, monospace font,
+longdesc mathematics fonts, text figures, and so on), a font or a
+longdesc transformation is given in those options. The approach enables
+longdesc the user to remember their own configurations (as a single
+longdesc command) and to borrow configurations that other users have
+longdesc developed. The present release is designated "for review".
+containersize 44444
+containerchecksum 68a71a590aaf3c6defc28a52b47f38bd1d24ec034df904d7baf4e22f1d390ebbabe744855bda70e72986450b402f03295f772a9576a2bffcab5638f3f77718db
+doccontainersize 17669688
+doccontainerchecksum 548caa57dcde46484ae947f46abbd8cfae54c0325b42cc32c23c092e23f7cfe6589b6ddcee1eef09ece3c5ce0328fa561c52234899d9544fdb86440c91c63ce9
+srccontainersize 1932
+srccontainerchecksum 3c0a366505b9631e4240bc6a54619c8f526b18ddada30f2a88f8adb29916d0be755bc0643fcb40dc4d1a0bc371596774d029ab4c42d473ec09c36fb48e99cd12
+runfiles size=57
+ texmf-dist/tex/latex/typeface/typeface.cfg
+ texmf-dist/tex/latex/typeface/typeface.sty
+catalogue-ctan /macros/latex/contrib/typeface
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-sel
+catalogue-version 0.1

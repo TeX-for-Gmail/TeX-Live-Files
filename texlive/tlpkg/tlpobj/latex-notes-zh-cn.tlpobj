@@ -1,0 +1,18 @@
+name latex-notes-zh-cn
+category Package
+revision 15878
+shortdesc Chinese Introduction to TeX and LaTeX
+longdesc The document is an introduction to TeX/LaTeX, in Chinese. It
+longdesc covers basic text typesetting, mathematics, graphics, tables,
+longdesc Chinese language & fonts, and some miscellaneous features
+longdesc (hyperlinks, long documents, bibliographies, indexes and page
+longdesc layout).
+containersize 532
+containerchecksum 5e5b3bb01456fec3dc22cb5d0d4f521b4d4f5f8f3119fdd76ea9cc55a70a2ad8a2b72e36471894ee448c1d40d887d20ac8fda39c4a3fe2cd111d2850eec12071
+doccontainersize 693120
+doccontainerchecksum 477df31445a2991db3c2b8cafaa97662d722f3f7171c2f756cf025717cb3b896c1773adadbc42c22cb360f7542a0e658547f15cd71c54e9b79f76fb1e2097e90
+catalogue-ctan /info/latex-notes-zh-cn
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics chinese-doc
+catalogue-version 1.20

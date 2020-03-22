@@ -1,0 +1,15 @@
+name gentle
+category Package
+revision 15878
+shortdesc A Gentle Introduction to TeX
+longdesc The "Gentle Introduction" is the longest-established
+longdesc comprehensive free tutorial on the use of plain TeX.
+containersize 428
+containerchecksum b244b249329d1ee622686d2a44d1469ceeed7e2adec5d82a2482e8659266a8224490531e0ed971b56f945b63fd1081f29aded9c43cea78fa8a9aec836301b26b
+doccontainersize 394788
+doccontainerchecksum fe296c5bc38a1e6d13d2b46dc8081a6658764f7017d0831cfd46dd86082371d6ae095ec3b52b3aaaacc0a57cbcee066b94644a5746391fae4129eebaa246e146
+catalogue-also gentl-gr
+catalogue-ctan /info/gentle
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics tut-plaintex

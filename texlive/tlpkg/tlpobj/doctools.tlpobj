@@ -1,0 +1,19 @@
+name doctools
+category Package
+revision 34474
+shortdesc Tools for the documentation of LaTeX code
+longdesc The package provides a collection of tools for use either in an
+longdesc "ordinary" LaTeX document, or within a .dtx file.
+containersize 5852
+containerchecksum 5c621b063d752fbcce773f2b209d358de1588e7c4edec017eb45a74c350e86932ac9c4e0662415ba7ad5bca8ca86d1255b15f4e5572ea949a5d6404b28f14025
+doccontainersize 603152
+doccontainerchecksum a78cec3ce74e4689c848b49af7da035cc7c684730f78acd7a7f8d8f78194492e53880e7884eb00dd22d4bbca4f370aabe8175048503959f88023a12ee4f26598
+srccontainersize 11196
+srccontainerchecksum bf61b5c519ad73fa8187797367355c195ed2048d83cb4842862edca740f51d60bc421881da10c474d950485faf701631af6299033d2005f0d2aa8c6561625864
+runfiles size=5
+ texmf-dist/tex/latex/doctools/doctools.sty
+catalogue-ctan /macros/latex/contrib/doctools
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics doc-supp
+catalogue-version 0.1

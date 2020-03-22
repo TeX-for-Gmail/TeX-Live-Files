@@ -1,0 +1,27 @@
+name cmpica
+category Package
+revision 15878
+shortdesc A Computer Modern Pica variant
+longdesc An approximate equivalent of the Xerox Pica typeface; the font
+longdesc is optimised for submitting fiction manuscripts to mainline
+longdesc publishers. The font is a fixed-width one, rather less heavy
+longdesc than Computer Modern typewriter. Emphasis for bold-face comes
+longdesc from a wavy underline of each letter. The two fonts are
+longdesc supplied as Metafont source.
+containersize 6448
+containerchecksum 2aac63861c3c1099054286647917f4ab594fd535de9d513f790cb70e8a38278ffda0be29656e1da57206c7bac21928cf5179bd1cc22f50e0f10d1ca8083f4b86
+doccontainersize 1092
+doccontainerchecksum 7c6251f1c5090328c93f6ec224bbb6d05433b5471c6cb8b4d7f3b9ff05f9be8ad49587d24a34702fb23b9f1803ca3df3a638b16335944a9b2dc35422ca8bf9fe
+runfiles size=13
+ texmf-dist/fonts/source/public/cmpica/cmpica.mf
+ texmf-dist/fonts/source/public/cmpica/cmpicab.mf
+ texmf-dist/fonts/source/public/cmpica/cmpicati.mf
+ texmf-dist/fonts/source/public/cmpica/pcpunct.mf
+ texmf-dist/fonts/source/public/cmpica/pica.mf
+ texmf-dist/fonts/tfm/public/cmpica/cmpica.tfm
+ texmf-dist/fonts/tfm/public/cmpica/cmpicab.tfm
+ texmf-dist/fonts/tfm/public/cmpica/cmpicati.tfm
+catalogue-ctan /fonts/cmpica
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-mf

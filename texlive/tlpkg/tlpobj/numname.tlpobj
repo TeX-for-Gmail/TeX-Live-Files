@@ -1,0 +1,18 @@
+name numname
+category Package
+revision 18130
+shortdesc Convert a number to its English expression
+longdesc The package can generate cardinal (one, two, ...) and ordinal
+longdesc (first, second, ...) numbers. The code derives from the memoir
+longdesc class, and is extracted for the convenience of non-users of
+longdesc that class.
+containersize 2944
+containerchecksum b2859430992fa6ee99f4d96f58cabe26b0f216d5e3b512c69b4db74738d933ea8d54503a61257d304201ac3fbc2ba49e908eeca5953ccc0f0023cbbe8b3df76c
+doccontainersize 110948
+doccontainerchecksum 41aaa9057415ad83177f416e43fde4c8c81e335b2f3c025cbc53ffe1d9d61fc05dfe33221c16f1d652837e4ab5a797f60391fb4c319339517090ad0e2ffe66bb
+runfiles size=5
+ texmf-dist/tex/latex/numname/numname.sty
+catalogue-ctan /macros/latex/contrib/numname
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics numbers

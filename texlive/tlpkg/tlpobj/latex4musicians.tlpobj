@@ -1,0 +1,17 @@
+name latex4musicians
+category Package
+revision 49759
+shortdesc A guide for combining LaTeX and music
+longdesc This guide, "LaTeX for Musicians", explains how to create LaTeX
+longdesc documents that include several kinds of music elements: music
+longdesc symbols, song lyrics, guitar chords diagrams, lead sheets,
+longdesc music excerpts, guitar tablatures, multi-page scores.
+containersize 524
+containerchecksum a37c75d55857e9680b8e4b0f59f1889f3b5198477212ea531aa6bbf9ea11dbae06fef7fdba9e706f016c6c0618eebe4ddb81ba73b48979683a22592a0adb119a
+doccontainersize 1340360
+doccontainerchecksum 738c2c467d9df87cb1eccf0442b5c94a97a3c4c2b329d78d80b05d2adf9e3be11aaf2fb407ebc29f07e6455e6533464d981ae65122b080aebabdfaa29cf71b61
+catalogue-ctan /info/latex4musicians
+catalogue-date 2019-01-19 09:48:34 +0100
+catalogue-license fdl
+catalogue-topics music tutorial tut-latex
+catalogue-version 1.0.1

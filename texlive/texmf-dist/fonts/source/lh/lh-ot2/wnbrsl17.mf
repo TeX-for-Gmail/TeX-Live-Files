@@ -1,0 +1,6 @@
+% This is wnbrsl17.mf in text format as of 2009/5/8
+% created by LHfonts (TeX4MF) version 3.5
+%
+%
+
+input fikparm;

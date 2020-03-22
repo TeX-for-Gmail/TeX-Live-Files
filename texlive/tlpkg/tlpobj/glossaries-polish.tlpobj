@@ -1,0 +1,21 @@
+name glossaries-polish
+category Package
+revision 35665
+shortdesc Polish language module for glossaries package
+longdesc Polish language module for the glossaries package.
+containersize 1868
+containerchecksum 7ad5a924f24acb052c16436f1d1eb198bf10c65ed3f77fb8911cc8b390cf286581a6d7ed409211993545d597a4dee4318e1d9b820dca6f831ca215986ec4a1cc
+doccontainersize 128100
+doccontainerchecksum cad7bbadda3e690ce56c75d2dfc92b02576226cb31d848b0c96d6115d18d222a50e514a6c6b5db9907d6a0e542824e229b063a0cec49dd726246f3dc5d4b41ed
+srccontainersize 2484
+srccontainerchecksum 5f7ba658feb54089405ed6a2fbab3a279143205438a9dbf6ba0a49d38245799cfac6369c48f9ea1e5eac2125cf475e26a3b31dd3745f283a21f3ed07aa8e64be
+runfiles size=3
+ texmf-dist/tex/latex/glossaries-polish/glossaries-polish-noenc.ldf
+ texmf-dist/tex/latex/glossaries-polish/glossaries-polish-utf8.ldf
+ texmf-dist/tex/latex/glossaries-polish/glossaries-polish.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-polish
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

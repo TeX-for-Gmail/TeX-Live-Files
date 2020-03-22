@@ -1,0 +1,18 @@
+name formlett
+category Package
+revision 21480
+shortdesc Letters to multiple recipients
+longdesc A package for multiple letters from the same basic source; the
+longdesc package offers parametrisation of the letters actually sent.
+containersize 15972
+containerchecksum 9d984435565a9354d03f7ef1307d543e3a0bd3a8d398f6dec426f7ae16fe3c6b20e60cfb5daeca7be092427606b5a5886a31dc05d023d0f26d61aa1c07be4b8a
+doccontainersize 352480
+doccontainerchecksum 8eee17c77620f48319e862f2e7d8ae4b979c84250dd17f33cae9db52b1f219f2f86c690969a783648ee3979f24ef58e410cee47afcb12bcd26e4278af4625c6c
+runfiles size=17
+ texmf-dist/tex/generic/formlett/formlett.sty
+catalogue-also akletter dinbrief envlab
+catalogue-ctan /macros/generic/formlett
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics letter
+catalogue-version 2.3

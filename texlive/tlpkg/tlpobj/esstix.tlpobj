@@ -1,0 +1,88 @@
+name esstix
+category Package
+revision 22426
+shortdesc PostScript versions of the ESSTIX, with macro support
+longdesc These fonts represent translation to PostScript Type 1 of the
+longdesc ESSTIX fonts. ESSTIX seem to have been a precursor to the STIX
+longdesc project, and were donated by Elsevier to that project. The
+longdesc accompanying virtual fonts with customized metrics and LaTeX
+longdesc support files allow their use as calligraphic, fraktur and
+longdesc double-struck (blackboard bold) in maths mode.
+execute addMap ESSTIX.map
+containersize 202196
+containerchecksum e503f25cb713918329f297a4ed088b63967eb06828fb753653aaf60ef99c5fb7db6507d6f0f74080b9fad2050ca1917f7ab873be2fb0bd3fcd126f29a43eb775
+doccontainersize 286216
+doccontainerchecksum 1233a284b88e5c8bfb29350b3b534e7a4c81b5692a9ac7aff5d69f77210e026dede300b511bc45efd18d6a96f6df9be2add166c80f0ee5d17c93732c0c242bf0
+runfiles size=117
+ texmf-dist/fonts/afm/esstix/ESSTIX10.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX10.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX11.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX11.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX12.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX12.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX13.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX13.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX14.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX14.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX15.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX15.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX16.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX16.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX17.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX17.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX1_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX1_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX2_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX2_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX3_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX3_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX4_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX4_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX5_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX5_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX6_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX6_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX7_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX7_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX8_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX8_.afm
+ texmf-dist/fonts/afm/esstix/ESSTIX9_.PFM
+ texmf-dist/fonts/afm/esstix/ESSTIX9_.afm
+ texmf-dist/fonts/map/dvips/esstix/ESSTIX.map
+ texmf-dist/fonts/tfm/public/esstix/esstixbb.tfm
+ texmf-dist/fonts/tfm/public/esstix/esstixcal.tfm
+ texmf-dist/fonts/tfm/public/esstix/esstixfrak.tfm
+ texmf-dist/fonts/tfm/public/esstix/rESSTIX13.tfm
+ texmf-dist/fonts/tfm/public/esstix/rESSTIX14.tfm
+ texmf-dist/fonts/tfm/public/esstix/rESSTIX15.tfm
+ texmf-dist/fonts/type1/public/esstix/ESSTIX10.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX11.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX12.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX13.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX14.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX15.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX16.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX17.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX1_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX2_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX3_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX4_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX5_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX6_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX7_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX8_.pfb
+ texmf-dist/fonts/type1/public/esstix/ESSTIX9_.pfb
+ texmf-dist/fonts/vf/public/esstix/esstixbb.vf
+ texmf-dist/fonts/vf/public/esstix/esstixcal.vf
+ texmf-dist/fonts/vf/public/esstix/esstixfrak.vf
+ texmf-dist/tex/latex/esstix/esstixbb.sty
+ texmf-dist/tex/latex/esstix/esstixcal.sty
+ texmf-dist/tex/latex/esstix/esstixfrak.sty
+ texmf-dist/tex/latex/esstix/uesstixbb.fd
+ texmf-dist/tex/latex/esstix/uesstixcal.fd
+ texmf-dist/tex/latex/esstix/uesstixfrak.fd
+catalogue-ctan /fonts/esstix
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license ofl
+catalogue-topics font font-maths font-bbd font-type1
+catalogue-version 1.0

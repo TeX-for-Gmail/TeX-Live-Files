@@ -1,0 +1,38 @@
+name beamerposter
+category Package
+revision 47508
+shortdesc Extend beamer and a0poster for custom sized posters
+longdesc The package enables the user to use beamer style operations on
+longdesc a canvas of the sizes provided by a0poster; font scaling is
+longdesc available (using packages such as type1cm if necessary). In
+longdesc addition, the package allows the user to benefit from the nice
+longdesc colour box handling and alignment provided by the beamer class
+longdesc (for example, with rounded corners and shadows). Good looking
+longdesc posters may be created very rapidly. Features include: scalable
+longdesc fonts using the fp and type1cm packages; posters in A-series
+longdesc sizes, and custom sizes like double A0 are possible; still
+longdesc applicable to custom beamer slides, e.g. 16:9 slides for a
+longdesc wide-screen (i.e. 1.78 aspect ratio); orientation may be
+longdesc portrait or landscape; a 'debug mode' is provided.
+containersize 7476
+containerchecksum e4ade5948c1eb8e18cba3d3b7699686d55d57361e0b26b923336d295b8fb6c7cdec39832dbe4f9358c94302d412000f19b4706295af5856e12482bb3c9951a98
+doccontainersize 77044
+doccontainerchecksum 88ec2b723a551711c33972cb72b7ab9ac13508f583e4e26eaa1c9e6d57d537667259b4f93e7e33fd2a5db8086998f6ddef05c363613be645eb293606d72cd52f
+runfiles size=16
+ texmf-dist/tex/latex/beamerposter/beamerposter.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeAachen.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeI6dv.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeI6pd.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeI6pd2.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeI6td.sty
+ texmf-dist/tex/latex/beamerposter/beamerthemeZH.sty
+catalogue-contact-announce https://groups.google.com/forum/#!forum/beamerposter
+catalogue-contact-bugs https://github.com/deselaers/latex-beamerposter/issues
+catalogue-contact-home https://github.com/deselaers/latex-beamerposter
+catalogue-contact-repository https://github.com/deselaers/latex-beamerposter
+catalogue-contact-support https://groups.google.com/forum/#!forum/beamerposter
+catalogue-ctan /macros/latex/contrib/beamerposter
+catalogue-date 2018-04-23 11:03:46 +0200
+catalogue-license lpplgpl
+catalogue-topics poster presentation
+catalogue-version 1.13

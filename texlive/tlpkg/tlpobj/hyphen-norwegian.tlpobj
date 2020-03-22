@@ -1,0 +1,28 @@
+name hyphen-norwegian
+category TLCore
+revision 50792
+shortdesc Norwegian Bokmal and Nynorsk hyphenation patterns.
+longdesc Hyphenation patterns for Norwegian Bokmal and Nynorsk in T1/EC
+longdesc and UTF-8 encodings.
+depend hyphen-base
+depend hyph-utf8
+execute AddHyphen 	name=bokmal synonyms=norwegian,norsk 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-nb.tex 	file_patterns=hyph-nb.pat.txt 	file_exceptions=hyph-nb.hyp.txt
+execute AddHyphen 	name=nynorsk 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-nn.tex 	file_patterns=hyph-nn.pat.txt 	file_exceptions=hyph-nn.hyp.txt
+containersize 96380
+containerchecksum 554c6d403a198abcda6dfbaace2b78a7223d42c1585ecfce2d193b519c719be7cd95267d5d485e34b0f258468c8f47f7fdfe59a5375077bb3ed5c098069075c1
+runfiles size=252
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-nb.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-nn.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-nb.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-nn.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-nb.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-nn.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-no.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nb.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nb.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nb.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nb.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nn.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nn.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nn.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-nn.pat.txt

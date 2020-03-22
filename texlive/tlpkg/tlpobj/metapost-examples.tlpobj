@@ -1,0 +1,16 @@
+name metapost-examples
+category Package
+revision 15878
+shortdesc Example drawings using MetaPost
+longdesc These are a few (hundred) example pictures drawn with MetaPost,
+longdesc ranging from very simple (lines and circles) to rather
+longdesc intricate (uncommon geometric transformations, fractals,
+longdesc bitmap, etc).
+containersize 488
+containerchecksum 95942b1b110e65274839ba01c16fed3e63a0ac99aa564d7a000bc9d9a0f5625ddc1dca13e786d0721bf93e76410722d4d76c86a05297bc39cd9af6dc91c2e6f8
+doccontainersize 21248
+doccontainerchecksum 2a3aec80b511864878e07ff973e17ed4fe1aec692c7e6983b57dde586aa19500cdd373687b0e081dc80c8584f116f0fa3de7ed4f09ba232eee8adce5e998c954
+catalogue-ctan /info/metapost/examples
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics demo-code

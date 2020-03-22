@@ -1,0 +1,4 @@
+heading_prefix "{\\hfil "
+heading_suffix " \\hfil}\\nopagebreak\n"
+
+headings_flag 1

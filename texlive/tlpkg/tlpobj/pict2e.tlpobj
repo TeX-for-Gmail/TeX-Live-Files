@@ -1,0 +1,40 @@
+name pict2e
+category Package
+revision 39591
+shortdesc New implementation of picture commands
+longdesc This package was described in the 2nd edition of 'LaTeX: A
+longdesc Document Preparation System', but the LaTeX project team
+longdesc declined to produce the package. For a long time, LaTeX has
+longdesc included a 'pict2e package' that merely produced an apologetic
+longdesc error message. The new package extends the existing LaTeX
+longdesc picture environment, using the familiar technique (cf. the
+longdesc graphics and color packages) of driver files (at present,
+longdesc drivers for PostScript output from LaTeX, and for use with
+longdesc pdfLaTeX are available). The package documentation has a fair
+longdesc number of examples of use, showing where things are improved by
+longdesc comparison with the LaTeX picture environment.
+containersize 7628
+containerchecksum 67d5f36781dbd780460f126d3d94f319cdc712be1a8c5421ff7e9a2a816816b93285a7305be7d37ee347c7cc285c19dd7e3cf2b9e2d19739ad669eb506280ecb
+doccontainersize 742740
+doccontainerchecksum d9d9f986b786bcb1c6d137575bee68d223fe24e813414e1e18920768df9762b8ac751cd77dcfb0bd6000b7df7d1d3a4f5787f0dd9bc7da1573a78768c8083324
+srccontainersize 32844
+srccontainerchecksum aff55d157b8e2087ffb17a738bc43b16dfb5c46e7d7b94d9c3f4bcde6a2ff3ccb9e1c315a011753803e4d1e7c1946068e98407ffdcd3804c3eccded0f1da9872
+runfiles size=18
+ texmf-dist/tex/latex/pict2e/p2e-dvipdfm.def
+ texmf-dist/tex/latex/pict2e/p2e-dvipdfmx.def
+ texmf-dist/tex/latex/pict2e/p2e-dvips.def
+ texmf-dist/tex/latex/pict2e/p2e-luatex.def
+ texmf-dist/tex/latex/pict2e/p2e-pctex32.def
+ texmf-dist/tex/latex/pict2e/p2e-pctexps.def
+ texmf-dist/tex/latex/pict2e/p2e-pdftex.def
+ texmf-dist/tex/latex/pict2e/p2e-textures.def
+ texmf-dist/tex/latex/pict2e/p2e-vtex.def
+ texmf-dist/tex/latex/pict2e/p2e-xetex.def
+ texmf-dist/tex/latex/pict2e/pict2e.cfg
+ texmf-dist/tex/latex/pict2e/pict2e.sty
+catalogue-also curve2e xpicture
+catalogue-ctan /macros/latex/contrib/pict2e
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-in-tex
+catalogue-version 0.3b

@@ -1,0 +1,15 @@
+name perception
+category Package
+revision 48861
+shortdesc BibTeX style for the journal Perception
+longdesc A product of custom-bib, provided simply to save others' time.
+containersize 6304
+containerchecksum 669bf4b618c4120d6cd7b574352c38d0fb3ab7bd949e26ea239f4ceb0fccbe102dcc6644ad2cee9eb79385f590918a12bb2c065f80b54e8343223056df448060
+doccontainersize 416
+doccontainerchecksum 35428e19d9e2429691948331ef574168a3eb5dd3e09f4286c66003ced8c0a65da9853de4dd57a1920e2f2315b8543f9ec9e096bbd26123554455dd8c23b33f55
+runfiles size=8
+ texmf-dist/bibtex/bst/perception/perception.bst
+catalogue-ctan /biblio/bibtex/contrib/perception
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty journalpub

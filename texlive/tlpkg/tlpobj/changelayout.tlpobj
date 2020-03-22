@@ -1,0 +1,18 @@
+name changelayout
+category Package
+revision 16094
+shortdesc Change the layout of individual pages and their text
+longdesc The package is an extension of the changepage package to permit
+longdesc the user to change the layout of individual pages and their
+longdesc texts.
+containersize 3872
+containerchecksum c6852a40bc8415656b8137cfb90a79cff8f8e9938979eba4e02dadb3c5d1ffef60966f9e5779696402f2b9344026ebc1e22ddeb9dba856d779317ca801f26e7e
+doccontainersize 57396
+doccontainerchecksum bb81e02317d12b4dae8b0886ac3222849a457563ee8c43e09495596c56482202bb702352a8551f5d760ee41a82dde6b3f3c2bf57b4671831a25805d44e8705de
+runfiles size=5
+ texmf-dist/tex/latex/changelayout/changelayout.sty
+catalogue-ctan /macros/latex/contrib/changelayout
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics geometry-adj
+catalogue-version 1.0

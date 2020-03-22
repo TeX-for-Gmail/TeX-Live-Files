@@ -1,0 +1,8 @@
+name lollipop.x86_64-linux
+category Package
+revision 41465
+shortdesc x86_64-linux files of lollipop
+containersize 320
+containerchecksum 130f488f1cfbe67d8192d1c52e08ac6a31a79386f5081ec2c45adf13aed3e6f7764d275aa078e230e1e6c385d698f7aaafaacf664e4eb741cdf2fc5754710ea0
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/lollipop

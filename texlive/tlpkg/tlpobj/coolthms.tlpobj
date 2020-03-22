@@ -1,0 +1,21 @@
+name coolthms
+category Package
+revision 29062
+shortdesc Reference items in a theorem environment
+longdesc The package provides the means to directly reference items of
+longdesc lists nested in theorem-like environments (e.g., as 'Theorem 1
+longdesc a'). The package extends the ntheorem and cleveref packages.
+longdesc The package also provides other theorem markup commands.
+containersize 2624
+containerchecksum 7a9d8f4605a0ff108ef5cb32ef4b6f455d16898248fee534e6557d8323c4378c8299fc1a6d58dd491020090ed4fdd3e41a90de99d18a9d114b72bd57b27b5e7d
+doccontainersize 108508
+doccontainerchecksum 2f5ff3ead76bc83138e41ee881713829de7b8b0ecdda353fcbdd9ebdb7851139eb9022fb4eec1a1c03d125f4106ce748123a9d9fcd76859e82158a541aa20aba
+srccontainersize 8968
+srccontainerchecksum 088f76522c4576925af08d387ecfd18b4906aa91fa741c4848eed49addb9a9334b3f27de30c516e7a85583a450fcfd0c7054b071bb926eb8f1f9ab54b5791ed0
+runfiles size=2
+ texmf-dist/tex/latex/coolthms/coolthms.sty
+catalogue-ctan /macros/latex/contrib/coolthms
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics maths-theorem label-ref
+catalogue-version 1.2

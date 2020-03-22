@@ -1,0 +1,24 @@
+name passivetex
+category Package
+revision 15878
+shortdesc Support package for XML/SGML typesetting
+longdesc Packages providing XML parsing, UTF-8 parsing, Unicode
+longdesc entities, and common formatting object definitions for jadetex.
+containersize 44652
+containerchecksum dec61bb52bc1bf8588474e6d8971ca16f691d13b9c1be1f131cf0a720a205df1a95830f2f172df2efc30799d4aff9af064f9d851d9c705235aaf96e4b50decdd
+runfiles size=79
+ texmf-dist/tex/xmltex/passivetex/dummyels.sty
+ texmf-dist/tex/xmltex/passivetex/fotex.sty
+ texmf-dist/tex/xmltex/passivetex/fotex.xmt
+ texmf-dist/tex/xmltex/passivetex/mlnames.sty
+ texmf-dist/tex/xmltex/passivetex/tei.xmt
+ texmf-dist/tex/xmltex/passivetex/teiprintslides.xmt
+ texmf-dist/tex/xmltex/passivetex/teislides.xmt
+ texmf-dist/tex/xmltex/passivetex/teixml.sty
+ texmf-dist/tex/xmltex/passivetex/teixmlslides.sty
+ texmf-dist/tex/xmltex/passivetex/ucharacters.sty
+ texmf-dist/tex/xmltex/passivetex/unicode.sty
+catalogue-ctan /macros/xmltex/contrib/passivetex
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics foreign-import

@@ -1,0 +1,8 @@
+name latexpand.x86_64-linux
+category Package
+revision 27025
+shortdesc x86_64-linux files of latexpand
+containersize 336
+containerchecksum fd892c3d6faf3e3b42fe1789e7dbe99aa571f3f6be1bf38d7b8dc0936c9374061a855268fbedc5107e35bd0f7eb29e8dd160f67bae49aa4bc082c14f75902cb1
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latexpand

@@ -1,0 +1,24 @@
+name nomencl
+category Package
+revision 49987
+shortdesc Produce lists of symbols as in nomenclature
+longdesc Produces lists of symbols using the capabilities of the
+longdesc MakeIndex program.
+containersize 3476
+containerchecksum 63dc2d003b60e754b3d6f131c3b8b2b116f17a35eed85e04baf8df8f58091c553a764f306aaeaad314a30e32eaaa46cfd5b0c741e5773750854e15e9993be090
+doccontainersize 519852
+doccontainerchecksum 2353fcbaf0846567d9dcb5e4ebd9115b488d48fdd74b9802ea029247857d9b681f07a3f9d5160be751bfb83ced9715178ad61c41c5343edde8fb90f30542c06b
+srccontainersize 18276
+srccontainerchecksum 0e923a2474ef2147d3b5d6faf96a3e6c4f097487b51161a1a95a2f2e771012346be95c98fc936cd0e134376b5fc5a3c45bf82fc95bb962e90e4edcce4007a361
+runfiles size=4
+ texmf-dist/makeindex/nomencl/nomencl.ist
+ texmf-dist/tex/latex/nomencl/nomencl.sty
+catalogue-also glosstex
+catalogue-contact-bugs https://github.com/borisveytsman/nomencl
+catalogue-contact-home https://github.com/borisveytsman/nomencl
+catalogue-contact-repository https://github.com/borisveytsman/nomencl
+catalogue-ctan /macros/latex/contrib/nomencl
+catalogue-date 2019-02-09 07:47:28 +0100
+catalogue-license lppl
+catalogue-topics glossary
+catalogue-version 5.1

@@ -1,0 +1,23 @@
+name datetime2-spanish
+category Package
+revision 45785
+shortdesc Spanish language module for the datetime2 package
+longdesc This module provides the "spanish" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2568
+containerchecksum 07c321a300d779e39de46628b8e1b95d383e2a1a0af882cc607929d894f11b2e8329cb256014193d428182e78f2cbd5e3e277bc7821d3ad7a2740fedacf14e28
+doccontainersize 287836
+doccontainerchecksum 629b4a2771fe68715978afcb202d984e1032d2e0f1af95d4971a980e14baf4b0705187f4a7ef9748c024eb27780f7720d8d5010ebfb23026ad8605a42730293f
+srccontainersize 4824
+srccontainerchecksum 78565125794ec1f5cf762cc27fd24c96eef5a1792941d4ce88c85bbecbec777da239db94118260feed6502e55f81b45f105a170e4b6207ec5e4201f043fa67e4
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-spanish/datetime2-spanish-ascii.ldf
+ texmf-dist/tex/latex/datetime2-spanish/datetime2-spanish-utf8.ldf
+ texmf-dist/tex/latex/datetime2-spanish/datetime2-spanish.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-spanish
+catalogue-date 2017-11-13 15:03:30 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

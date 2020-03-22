@@ -1,0 +1,21 @@
+name oplotsymbl
+category Package
+revision 44951
+shortdesc Some symbols which are not easily available
+longdesc This package is named oPlotSymbl and it includes symbols, which
+longdesc are not easily available. Especially, these symbols are used in
+longdesc scientific plots, but the potential user is allowed to use them
+longdesc in other ways. This package uses TikZ and xcolor.
+containersize 4016
+containerchecksum bb894b28fd62f95807bf00856aa2250bbe58b0c1def385d6528b50ba925410ff177ebef97279338bff7ab70db012ba916edad067584989f86797b1fbd7e21863
+doccontainersize 235340
+doccontainerchecksum cd4ceb0b923da7c0f56817602eca672442d03f628440c8beb82c953cf73a9d1bf8e24939a3ba4c813c99b7a2aa98adede0c98b4678b06fffd3f0bdfe8fae52ad
+runfiles size=10
+ texmf-dist/tex/latex/oplotsymbl/oplotsymbl.sty
+catalogue-also comprehensive
+catalogue-contact-repository https://github.com/micheld93/oPlotSymbl-LaTeX
+catalogue-ctan /macros/latex/contrib/oplotsymbl
+catalogue-date 2017-08-04 18:01:52 +0200
+catalogue-license lppl1.3
+catalogue-topics graphics-symb pgf-tikz
+catalogue-version 1.4

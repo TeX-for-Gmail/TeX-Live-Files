@@ -1,0 +1,19 @@
+name breakcites
+category Package
+revision 21014
+shortdesc Ensure that multiple citations may break at line end
+longdesc Makes a very minor change to the operation of the \cite
+longdesc command. Note that the change is not necessary in unmodified
+longdesc LaTeX; however, there remain packages that restore the
+longdesc undesirable behaviour of the command as provided in LaTeX 2.09.
+longdesc (Note that neither cite nor natbib make this mistake.)
+containersize 956
+containerchecksum 13fdad42586a361b4e01999476f4d92ccc0fbcca4ee2663153b9eabbb08ad571dae6631306e9fc590d94f3f02af79519de30a78ed35f737004d86bd62b76786a
+doccontainersize 148116
+doccontainerchecksum 2184e40db7f4a01113ba1040a62f8213f43bf34202a57a33abfc6291e84b01cf27298442f0f636289892d02764f1000ff3542f2ca6e490e0eaf6d5bab247b3f4
+runfiles size=1
+ texmf-dist/tex/latex/breakcites/breakcites.sty
+catalogue-ctan /macros/latex/contrib/breakcites
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics cite-supp

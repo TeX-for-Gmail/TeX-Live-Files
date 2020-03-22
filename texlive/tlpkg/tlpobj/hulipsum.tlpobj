@@ -1,0 +1,26 @@
+name hulipsum
+category Package
+revision 46803
+shortdesc Hungarian dummy text (Lorum ipse)
+longdesc Lorem ipsum is an improper Latin filler dummy text, cf. the
+longdesc lipsum package. It is commonly used for demonstrating the
+longdesc textual elements of a document template. Lorum ipse is a
+longdesc Hungarian variation of Lorem ipsum. (Lorum is a Hungarian card
+longdesc game, and ipse is a Hungarian slang word meaning bloke.) With
+longdesc this package you can typeset 150 paragraphs of Lorum ipse. All
+longdesc paragraphs are taken with permission from
+longdesc http://www.lorumipse.hu. Thanks to Lorum Ipse Lab (Viktor Nagy
+longdesc and David Takacs) for their work.
+containersize 54808
+containerchecksum c43867cb608e955254f2c597d3fd9938fe815c1683c9d61dcd1cfff29608b5c391d7374a740646dd915fdcf282d9adb8f83d3dcb6781fbe547b685de81f67143
+doccontainersize 146628
+doccontainerchecksum 43dcdd731116bd1eac309b1213b3c961dd189f861b8732d73127ba6b4c20d3ea3584f03340ff5973b4aab11744e61069edfe6736d389e1487587d0372591e343
+srccontainersize 55956
+srccontainerchecksum e1290087087ab8d63d2e2de72cbf641ec71ae362a64faca2e362cccfb05890abc9cd970a2eca1b1c10cdd95760dd82e8bc90fe0e8ef4d99df6cbabba24c80be0
+runfiles size=41
+ texmf-dist/tex/latex/hulipsum/hulipsum.sty
+catalogue-ctan /macros/latex/contrib/hulipsum
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl1.3
+catalogue-topics dummy-gen macro-supp hungarian
+catalogue-version 1.0

@@ -1,0 +1,15 @@
+name mpman-ru
+category Package
+revision 15878
+shortdesc A Russian translation of the MetaPost manual
+longdesc A translation of the user manual, as distributed with MetaPost
+longdesc itself.
+containersize 428
+containerchecksum e234fc25e9d8e5aa89a59e21186a16de3c695ce45c9ee8d132546381cb18e9be681bd4ee9c70bb10b4769ada5e5874b500d2a3cd7d264d89610dcda35fcba9a1
+doccontainersize 864700
+doccontainerchecksum 57f2449eaed3651b808095348f056fdfa90b00979ba2e21fad120efe096dca9a9e48474e9dbb539f347ffe20ccd5582f4815ff4552c54e9ea5f9df391dd75edb
+catalogue-ctan /info/metapost/doc/russian/mpman-ru
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics mp-doc russian-doc translation
+catalogue-version 1.004

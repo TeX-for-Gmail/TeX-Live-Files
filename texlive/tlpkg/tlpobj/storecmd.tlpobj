@@ -1,0 +1,19 @@
+name storecmd
+category Package
+revision 24431
+shortdesc Store the name of a defined command in a container
+longdesc The package provides macros for command definition that save
+longdesc the name of the command being defined in a file or a macro
+longdesc container. The list could be useful for spelling exceptions in
+longdesc text editors that do not support TeX syntax.
+containersize 3304
+containerchecksum 1987e3cffafe007d9f3cb9e0d53fcc648eca40140f5188dcb0202a0916296651c1ab02fc589339fc51999b56bfa4a06b29701aa598ec03f51d7b1ee66ecfde7f
+doccontainersize 242396
+doccontainerchecksum feacd83403672380cc2cfe90ada2704f98bef63e905740f8f8d50767f86ddf95478efc38fb38fccadad172f27db56045f50a6af4a487f0c5cd2b6ebb5e7666f7
+runfiles size=3
+ texmf-dist/tex/latex/storecmd/storecmd.sty
+catalogue-ctan /macros/latex/contrib/storecmd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics macro-supp
+catalogue-version 0.0.2

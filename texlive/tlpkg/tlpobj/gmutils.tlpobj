@@ -1,0 +1,34 @@
+name gmutils
+category Package
+revision 24287
+shortdesc Support macros for other packages
+longdesc Miscellaneous macros used by others of the author's packages.
+longdesc Contents of the package: \newgif and other globals; \@ifnextcat
+longdesc and \@ifXeTeX; \(Re)storeMacro(s) to override redefinitions;
+longdesc \afterfi and friends; commands from relsize, etc.; "almost an
+longdesc environment" or redefinition of \begin (\begin* doesn't check
+longdesc if the argument environment is defined).
+containersize 65972
+containerchecksum af0fa2ec7a3ce1414bf5d48d0bd8ce9de1b96b2bfa4f9c2babc6b27c52d11a7e5024bcf66938f3566cf6cf331b154f7eb4ca9d1cbe7109cde939829ea5be55a5
+doccontainersize 1672196
+doccontainerchecksum f1d6205f39f573b0c9b28f0ebca03b32e20e27c0be12adeb7eb23e12daf41a9590733270661aa29d6b8393dc87855f293437617cd8598f39082db8a33e9281ac
+runfiles size=70
+ texmf-dist/tex/latex/gmutils/gmRCS.sty
+ texmf-dist/tex/latex/gmutils/gmampulex.sty
+ texmf-dist/tex/latex/gmutils/gmbase.sty
+ texmf-dist/tex/latex/gmutils/gmcommand.sty
+ texmf-dist/tex/latex/gmutils/gmenvir.sty
+ texmf-dist/tex/latex/gmutils/gmlogos.sty
+ texmf-dist/tex/latex/gmutils/gmmeta.sty
+ texmf-dist/tex/latex/gmutils/gmmw.sty
+ texmf-dist/tex/latex/gmutils/gmnotonlypream.sty
+ texmf-dist/tex/latex/gmutils/gmparts.sty
+ texmf-dist/tex/latex/gmutils/gmrelsize.sty
+ texmf-dist/tex/latex/gmutils/gmtypos.sty
+ texmf-dist/tex/latex/gmutils/gmurl.sty
+ texmf-dist/tex/latex/gmutils/gmutils.sty
+catalogue-ctan /macros/latex/contrib/gmutils
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics macro-supp
+catalogue-version 0.996

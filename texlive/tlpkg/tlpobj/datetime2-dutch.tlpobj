@@ -1,0 +1,21 @@
+name datetime2-dutch
+category Package
+revision 47355
+shortdesc Dutch language module for the datetime2 package
+longdesc This module provides the "dutch" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2396
+containerchecksum c14fcbb882183095c60f0e881ad1668f90855b90cce352922a562371bf2cdd556bd196ec85068775b9aec590f098c956c784b98da283ee1117bec68ee585f5fa
+doccontainersize 278696
+doccontainerchecksum e5f2fe126eaf87ef34dce686db6e9b9c3c322a2266293517e803435dfa67b55da6a771f6c7253203dcae0dd1237096093a6463f6bbbc096c108b73bac4a641d8
+srccontainersize 4352
+srccontainerchecksum 32036be5e4e8643da1cd0a2a291db4875328c5e8685f711e247eb7fc38b6b25b92db2f98bfa3769a02c982ea09cbedc75bb963d3f39c36860f9c335e73e331c9
+runfiles size=2
+ texmf-dist/tex/latex/datetime2-dutch/datetime2-dutch.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-dutch
+catalogue-date 2018-04-07 06:36:05 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

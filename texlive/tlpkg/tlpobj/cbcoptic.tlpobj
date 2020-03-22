@@ -1,0 +1,31 @@
+name cbcoptic
+category Package
+revision 16666
+shortdesc Coptic fonts and LaTeX macros for general usage and for philology
+longdesc CBcoptic is a bundle of files for typesetting Coptic
+longdesc philological text with the proper fonts and hyphenation. The
+longdesc fonts are based on, but much extend, the fonts of the original
+longdesc coptic bundle. The CBcoptic bundle includes font description
+longdesc files, Metafont sources and equivalent Adobe Type 1 fonts in
+longdesc pfb format. The bundle also includes a package that provides
+longdesc some macros of philological interest.
+containersize 100688
+containerchecksum 7d48e324b5c5ff5b0755903973e0b439025e98277269f21cae33709a6c39eb6df7cd8f054b22fb8b1c072cabf9e92d0f1456cb41fbdd5a6e99bc0d63952e6c3c
+doccontainersize 189788
+doccontainerchecksum e7e33c5af518e7fc4f8fb15af79a9aefc1ab8cb4401d0eecbd6b418acfb01c2fa790d4d7f55206ec9d6d865aa177b2872f4d742bec2991e7118df4b834341af2
+runfiles size=72
+ texmf-dist/fonts/source/public/cbcoptic/coptbase.mf
+ texmf-dist/fonts/source/public/cbcoptic/copti.mf
+ texmf-dist/fonts/source/public/cbcoptic/copto.mf
+ texmf-dist/fonts/tfm/public/cbcoptic/copti.tfm
+ texmf-dist/fonts/tfm/public/cbcoptic/copto.tfm
+ texmf-dist/fonts/type1/public/cbcoptic/copti.pfb
+ texmf-dist/fonts/type1/public/cbcoptic/copto.pfb
+ texmf-dist/tex/latex/cbcoptic/coptic.sty
+ texmf-dist/tex/latex/cbcoptic/lcopcoptic.fd
+ texmf-dist/tex/latex/cbcoptic/prnthyph.sty
+catalogue-ctan /language/coptic/cbcoptic
+catalogue-date 2017-10-29 14:28:43 +0100
+catalogue-license lppl
+catalogue-topics coptic font font-mf font-type1
+catalogue-version 0.2

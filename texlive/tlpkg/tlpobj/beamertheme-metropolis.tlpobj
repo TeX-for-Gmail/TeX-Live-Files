@@ -1,0 +1,27 @@
+name beamertheme-metropolis
+category Package
+revision 43031
+shortdesc A modern LaTeX beamer theme
+longdesc The package provides a simple, modern Beamer theme for anyone
+longdesc to use. It tries to minimize noise and maximize space for
+longdesc content.
+containersize 6572
+containerchecksum dae8058ae5c2883b383a2bcb85bbdc45d0b0a3fab46a4498ea1f3b8568f04d049598fa78b72429adc7e36773905c67801e129378e233582f0fd8eb5ca4327745
+doccontainersize 178716
+doccontainerchecksum c4661061ea3ce52a20fb8c704042cf755b8b54549dd62467b1e78f85a4067c11a02c89422384e96323ef277ce44a3f648b1778b54e0b5c79b721f67451fabfc1
+srccontainersize 18424
+srccontainerchecksum af3cec1b7544ecd51c875a704605500ee1ab4374df9cf1a7db6c6b9102c4800651485a64dd865c1158d729c06f2499021408230c50278da3de40f7f0cac7bf6b
+runfiles size=12
+ texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis-highcontrast.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/beamercolorthememetropolis.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/beamerfontthememetropolis.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/beamerinnerthememetropolis.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/beamerouterthememetropolis.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
+ texmf-dist/tex/latex/beamertheme-metropolis/pgfplotsthemetol.sty
+catalogue-contact-repository https://github.com/matze/mtheme
+catalogue-ctan /macros/latex/contrib/beamer-contrib/themes/metropolis
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics presentation
+catalogue-version 1.2

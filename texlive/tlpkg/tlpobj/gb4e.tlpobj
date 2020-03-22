@@ -1,0 +1,18 @@
+name gb4e
+category Package
+revision 19216
+shortdesc Linguistic tools
+longdesc Provides an environment for linguistic examples, tools for
+longdesc glosses, and various other goodies. The code was developed from
+longdesc the midnight and covington packages.
+containersize 6944
+containerchecksum 1ec519ad5f22e6d61d16a0233a73065b45e8628549bfecd109f968b8749c362cd04f358d67e96b1311577f94f6152e7de7a9e3264ffcff5c5769662b52df7e29
+doccontainersize 150476
+doccontainerchecksum 9b8c8e2590a1a515aa84e11a4028aadeff9e4acb7d3ce99b0d21009e17443db3d2feee85d888a333595e144244efbf978239e6dbf48c68a43bd5709d9489c203
+runfiles size=6
+ texmf-dist/tex/latex/gb4e/cgloss4e.sty
+ texmf-dist/tex/latex/gb4e/gb4e.sty
+catalogue-ctan /macros/latex/contrib/gb4e
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics linguistic

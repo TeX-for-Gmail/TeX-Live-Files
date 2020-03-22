@@ -1,0 +1,19 @@
+name pas-crosswords
+category Package
+revision 32313
+shortdesc Creating crossword grids, using TikZ
+longdesc The package produces crossword grids, using a wide variety of
+longdesc colours and decorations of the grids and the text in them. The
+longdesc package uses TikZ for its graphical output.
+containersize 2096
+containerchecksum cc93ed7340380b2072ac7df4c0d343e43e1a3ae4252c42d9914edcb33232597a5c86d22cce3dc02218e6e725191f056ef9fb342e88d1a60dcadd8d011723b649
+doccontainersize 169180
+doccontainerchecksum 65baac7fa63a01c70293baa26d99d21dc999f959074a3d2668cf6661d3db059b47d2f577f8c9f5d7ac6014e601f50e547283c55541c492b3c2df4e5f01b65be5
+runfiles size=2
+ texmf-dist/tex/latex/pas-crosswords/pas-crosswords.sty
+catalogue-also crosswrd crossword
+catalogue-ctan /macros/latex/contrib/pas-crosswords
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games pgf-tikz
+catalogue-version 1.03

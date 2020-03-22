@@ -1,0 +1,15 @@
+name lshort-czech
+category Package
+revision 29803
+shortdesc Czech translation of the "Short Introduction to LaTeX2e"
+longdesc This is the Czech translation of "A Short Introduction to
+longdesc LaTeX2e".
+containersize 412
+containerchecksum feeb9c7244f686767c5f72ab3da8aa2bca69af7e6446e1bd8eb4dd858ef92e4a4eb6f42cf8d429127a20e84cac894732f0e05a360b47af02f67340b09311e495
+doccontainersize 1644616
+doccontainerchecksum 03295ea4bed83fb67a370ae547945335f51f6441ef913aba0ac3364f258153c6f5013d57e6579f3be6a9746a22cc4f34762871569d9d68c0b0d2acf40127fd80
+catalogue-ctan /info/lshort/czech
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics tut-latex czech-doc
+catalogue-version 4.27

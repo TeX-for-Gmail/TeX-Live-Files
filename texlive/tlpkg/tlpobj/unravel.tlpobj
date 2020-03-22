@@ -1,0 +1,26 @@
+name unravel
+category Package
+revision 50557
+shortdesc Watching TeX digest tokens
+longdesc The aim of this LaTeX package is to help debug complicated
+longdesc macros. This is done by letting the user step through the
+longdesc execution of some TeX code, going through the details of nested
+longdesc expansions, performing assignments, as well as some simple
+longdesc typesetting commands. To use this package, one should normally
+longdesc run TeX in a terminal. The unravel package requires up-to-date
+longdesc versions of the l3kernel, l3packages and l3experimental
+longdesc bundles.
+containersize 27964
+containerchecksum 862cdfee766dcf3be322423c7f3388b5bac739879f0910d7a3a5118a7813b86dea9e5c866c3bc33648e376ff223be55c18fcf56247e3082c199b5bd589cff49f
+doccontainersize 681344
+doccontainerchecksum 5da7cdfb916e986ad783e43c79a57713c2d713061866a19fd975c157d8cd328b80a5620fa583b7964dbe37b8ac74d9c0921c15cef57e76266f52c62412a8befb
+srccontainersize 50984
+srccontainerchecksum 0f9791862c2b1e8ae4c9d293bde5a48fbcb49e5634f75c9bdff4d3ebd51f9e7b8f820b9c5f860f16bd15a6de0b04e112d96fee75313fd3316aa19a01803456a3
+runfiles size=57
+ texmf-dist/tex/latex/unravel/unravel.sty
+catalogue-contact-repository https://github.com/blefloch/latex-unravel
+catalogue-ctan /macros/latex/contrib/unravel
+catalogue-date 2019-03-23 10:21:18 +0100
+catalogue-license lppl1.3c
+catalogue-topics macro-supp
+catalogue-version 0.2g

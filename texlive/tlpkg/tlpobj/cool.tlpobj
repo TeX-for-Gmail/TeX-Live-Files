@@ -1,0 +1,25 @@
+name cool
+category Package
+revision 15878
+shortdesc COntent-Oriented LaTeX
+longdesc The package (COntent Oriented LaTeX) gives LaTeX the power to
+longdesc retain mathematical meaning of its expressions in addition to
+longdesc the typsetting instructions; essentially separating style from
+longdesc the content of the math. One advantage of keeping mathematical
+longdesc meaning is that conversion of LaTeX documents to other
+longdesc executable formats (such as Content MathML or Mathematica code)
+longdesc is greatly simplified. The package requires the coolstr,
+longdesc coollist and forloop packages.
+containersize 10204
+containerchecksum ec5b1612484852897856b58bde90aabc3e8c051f6a14674f2bf3a121993ce074214c3d61c7d074dae54e227c759630cff71793ac1ff433b048f3a15f90038c0f
+doccontainersize 412164
+doccontainerchecksum bf27e08a04f02f58ffb04ae0fa7b26860ab4129d3de3e2ab20d244a99c96b112a7a3dc10d064a364e38a80c1087ea8c693e7e7538a36975b6914f75418a82547
+srccontainersize 22524
+srccontainerchecksum 1f5b16c0e1d4598ec4f4c5981e079537b0142f92b514d1f3dad567b2a71b02f9be0b3441087d7a973750f308f691270e750d75f669784fa3c787e6bc919d7e68
+runfiles size=19
+ texmf-dist/tex/latex/cool/cool.sty
+catalogue-ctan /macros/latex/contrib/cool
+catalogue-date 2018-10-09 06:17:38 +0200
+catalogue-license lgpl
+catalogue-topics maths struc-mkup
+catalogue-version 1.35

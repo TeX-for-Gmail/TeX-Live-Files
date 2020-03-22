@@ -1,0 +1,24 @@
+name cloze
+category Package
+revision 41531
+shortdesc A LuaLaTeX package for creating cloze texts
+longdesc This is a LuaLaTeX package for generating cloze texts. The main
+longdesc feature of the package is that the formatting doesn't change
+longdesc when using the hide and show options. There are three commands
+longdesc and one environment to generate cloze texts: the commands
+longdesc \cloze, \clozefix, \clozefil, and the environment clozepar.
+containersize 4276
+containerchecksum e66b5d9086d3d6ac39c0664cc4906b467413b919a64538371077bbd9088d80ea81276ce66a64ba29040068b9b73ec5990a7d4422608ce85b0d94e8b2ee3bdce2
+doccontainersize 222748
+doccontainerchecksum c21e8561c296efaa8b4c30044f6121736d58a98d910bf671d11f1931d29ddd0d626bca69ab6f50225a3cb588346877b76ec43426822a869e72e266ee5d65cd5e
+srccontainersize 15292
+srccontainerchecksum fe68d18164ef34259dcc42c4ec395b929c92d3758a8c9e911c2f20a136c2807ed229612db1efa6cb02704eac6924b9ac8b98742a546e271241013245d855e50a
+runfiles size=5
+ texmf-dist/scripts/cloze/cloze.lua
+ texmf-dist/tex/lualatex/cloze/cloze.sty
+catalogue-contact-repository https://github.com/Josef-Friedrich/cloze
+catalogue-ctan /macros/luatex/latex/cloze
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lppl1.3
+catalogue-topics exam luatex
+catalogue-version 1.2

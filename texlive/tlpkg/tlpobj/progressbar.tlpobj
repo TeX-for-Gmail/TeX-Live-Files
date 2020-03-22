@@ -1,0 +1,21 @@
+name progressbar
+category Package
+revision 33822
+shortdesc Visualize shares of total amounts in the form of a (progress-)bar
+longdesc This package allows you to easily visualize shares of total
+longdesc amounts in the form of a bar. So basically you can convert any
+longdesc number between 0 and 1 to a progressbar using the command
+longdesc \progressbar{<number>}. Also a lot of customizations are
+longdesc possible, allowing you to create an unique progressbar on your
+longdesc own. The package uses TikZ to produce its graphics.
+containersize 2324
+containerchecksum d12161aa891ea45cec2a4511c48a1c338de5acd512e426a24988b79b7d9d1734479a1cd93e3e8ee11da67858d97260b71ca35a3a7a3dbbcd2bae746221a7bafa
+doccontainersize 86236
+doccontainerchecksum a60ee29da0517d6769e09f12af7b600284f32478aef1d28cdf167610c45bd87f841500c2bf718ff9b6678a171f3138f4a7a6ac45bd41500510f509e8e7067efd
+runfiles size=2
+ texmf-dist/tex/latex/progressbar/progressbar.sty
+catalogue-ctan /macros/latex/contrib/progressbar
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-use
+catalogue-version 1.0b~4

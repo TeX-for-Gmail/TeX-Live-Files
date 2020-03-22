@@ -1,0 +1,20 @@
+name pst-fill
+category Package
+revision 15878
+shortdesc Fill or tile areas with PSTricks
+longdesc Pst-fill is a PSTricks-based package for filling and tiling
+longdesc areas or characters.
+containersize 3892
+containerchecksum 69401352ca7e08d6d61ce7ae89f1201f186cec6221ac3b9c2cec61c6033df03b8151ee278ab2edab6a661c49f0867d7f9e764bf45e9dbf32feed655e12239688
+doccontainersize 1121256
+doccontainerchecksum 061dcab012577f3d6e30008c15127f2f70469340598c781a436c0c8b1831d36dfce86a8cd0b802a6f174d3510ee2ed1d9269b4c894793f10d79eaf8b6d0c1ec8
+srccontainersize 20788
+srccontainerchecksum 35540e2a923b28393b68da71fc2c15166ec6e57ebed065dee8e8c9acdd7f10eb5327224e7422851b5a32d895eca29f19755bfda2cf1e0fb569deb473921c6d63
+runfiles size=5
+ texmf-dist/tex/generic/pst-fill/pst-fill.tex
+ texmf-dist/tex/latex/pst-fill/pst-fill.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-fill
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics graphics-fill-tile pstricks
+catalogue-version 1.01

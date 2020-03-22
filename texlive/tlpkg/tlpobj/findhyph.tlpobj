@@ -1,0 +1,20 @@
+name findhyph
+category Package
+revision 47444
+shortdesc Find hyphenated words in a document
+longdesc Findhyph is a Perl script that will analyse the log file from
+longdesc running your document with \tracingparagraphs=1 set. The output
+longdesc contains enough context to enable you to find the hyphenated
+longdesc word that's being referenced.
+depend findhyph.ARCH
+containersize 3904
+containerchecksum aea6305dc0d9b31367638078a7958933468e761ef4cf47a1c44d9fd5ab2e25f7af22273c4631946a90edc9b51947c2e56b3d4b74c8c59f0a79250c2edf5bc137
+doccontainersize 35040
+doccontainerchecksum 97f3fa22fe490d21bc9e5ce5ea0b23ff25ab9afd9c5dbf6e8d78b24fd306ddc132c5ba7ca7ea7e3d7aaeb48993c7968b0c02ae0b765416a939d84b53171f4179
+runfiles size=3
+ texmf-dist/scripts/findhyph/findhyph
+catalogue-ctan /support/findhyph
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl2
+catalogue-topics hyph-gen
+catalogue-version 3.4

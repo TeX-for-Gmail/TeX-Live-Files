@@ -1,0 +1,30 @@
+name chembst
+category Package
+revision 15878
+shortdesc A collection of BibTeX files for chemistry journals
+longdesc The package offers a collection of advanced BibTeX style files
+longdesc suitable for publications in chemistry journals. Currently,
+longdesc style files for journals published by the American Chemical
+longdesc Society, Wiley-VCH and The Royal Society of Chemistry are
+longdesc available. The style files support advanced features such as
+longdesc automatic formatting of errata or creating an appropriate entry
+longdesc for publications in Angewandte Chemie where both English and
+longdesc German should be cited simultaneously.
+containersize 6916
+containerchecksum f6bc14345c841db93207745de1d6ce189e08a30d17110d8efe04af0c5aa98cf7e3a1208e1969afeca0c69f747fb5db39437645e2437f9596ba5a70610747b6d4
+doccontainersize 204580
+doccontainerchecksum 3263dbeee44d46b6661e2e755ba10e22475432d03de6b3286d1191acf2fc8df1541d9a9684d5e00143dbebf65bee468e9244ffe73d7ff43889153925b6edb379
+srccontainersize 16300
+srccontainerchecksum c0c6658210450aa13a17e04eaee082f4d08b71a50a1552b571a49557ce8422d709da325c8bc91e742eeae04de388a777134a4d626d72409da3662c2d152cfc12
+runfiles size=48
+ texmf-dist/bibtex/bst/chembst/ChemCommun.bst
+ texmf-dist/bibtex/bst/chembst/ChemEurJ.bst
+ texmf-dist/bibtex/bst/chembst/InorgChem.bst
+ texmf-dist/bibtex/bst/chembst/JAmChemSoc.bst
+ texmf-dist/bibtex/bst/chembst/JAmChemSoc_all.bst
+ texmf-dist/bibtex/bst/chembst/cv.bst
+catalogue-ctan /biblio/bibtex/contrib/chembst
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics bibtex-sty chemistry
+catalogue-version 0.2.5

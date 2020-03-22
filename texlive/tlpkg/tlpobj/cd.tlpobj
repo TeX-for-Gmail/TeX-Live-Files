@@ -1,0 +1,21 @@
+name cd
+category Package
+revision 34452
+shortdesc Typeset CD covers
+longdesc Normal usage will ordinarily require no more than a simple data
+longdesc file per cover; the package will make a full insert for a CD
+longdesc case (it copes with both normal and slim cases).
+containersize 4380
+containerchecksum 8b47a219e4d40364e1a4ed4d13245c0c9334508ffca0cff565a8d8856aef32184bdf0a19966027fc4e958a06b4f5a53bfb66188c6fd065a1b3b230cf1da2f484
+doccontainersize 72848
+doccontainerchecksum 5ab78083715332130aacf3a97f6280f2533e7f9383c38ddf431d3486c6e88589cc69b7cd760088fbd2928c9b349ff583bc275ce8d80590234deeaf1e1a23b4ca
+srccontainersize 9672
+srccontainerchecksum 094b4b41d99fcc81c4c02ec7aeeaa999b3e5ec7dd4984976021a1d75c5bf9c5a3e3f13b0acb939c14f80ec05b3843fda7558aaf7c324315434b69954084c57ed
+runfiles size=6
+ texmf-dist/tex/latex/cd/cd.cls
+catalogue-also cdcover
+catalogue-ctan /macros/latex/contrib/cd
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics labels
+catalogue-version 1.4

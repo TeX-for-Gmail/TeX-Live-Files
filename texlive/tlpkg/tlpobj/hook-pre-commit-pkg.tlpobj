@@ -1,0 +1,27 @@
+name hook-pre-commit-pkg
+category Package
+revision 41378
+shortdesc Pre-commit git hook for LaTeX package developpers
+longdesc This package provides a pre-commit git hook to check basic
+longdesc LaTeX syntax for the use of package developers. It is installed
+longdesc by copying it into the .git/.hooks file. It then checks the
+longdesc following file types: .sty, .dtx, .bbx, .cbx, and .lbx. List of
+longdesc performed checks: Each line must be terminated by a %, without
+longdesc a space before it. Empty lines are allowed, but not lines with
+longdesc nothing but spaces in them. \begin{macro} and \end{macro} must
+longdesc be paired. \begin{macrocode} and \end{macrocode} must be
+longdesc paired. \begin{macro} must have a second argument. One space
+longdesc must be printed between % and \begin{macro} or \end{macro}. %
+longdesc must be the first character in the line. Four spaces must be
+longdesc printed between % and \begin{macrocode} or \end{macrocode}. \cs
+longdesc argument must not start with a backslash.
+containersize 808
+containerchecksum 6fb3009d4bb4016f0d6e92571d52aaf7e3780d39a6b2ec73ffb37112b3f153ed71ecbcd985b81dd841f296a39da83e9004a2d6e6e85e9a49765e1682563cfde3
+doccontainersize 2788
+doccontainerchecksum 3873c4714a8a6d221f860a5d0606113c64482b363727067e0017d27e99d73f31cfdac88a799fb1412225baffaecd7bb03dbdc66b607a075b1e4539ffc0df2a9d
+catalogue-contact-repository https://github.com/maieul/git-hooks
+catalogue-ctan /support/hook-pre-commit-pkg
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl3
+catalogue-topics package-devel
+catalogue-version 1.1.2

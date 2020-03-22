@@ -1,0 +1,20 @@
+name listliketab
+category Package
+revision 15878
+shortdesc Typeset lists as tables
+longdesc The listliketab package helps the user make list-like tabulars,
+longdesc i.e., a tabular that is indistinguishable from an itemize or
+longdesc enumerate environment. The advantage of using a tabular is that
+longdesc the user can add additional columns to each entry in the list.
+containersize 1416
+containerchecksum 0aead2b70e314639aeb98c199d051fb0701570df0263f452bb2e65408678d437c7eb071c41d8674971e42a0961da30754696a58eaaa41dc32d33ded58a833153
+doccontainersize 120912
+doccontainerchecksum 70ceddb9c59981319ec33fba05c663ecaf549b5dab56f29fa07f9c314d97d999c762ee1efff0d20b5e35b39e89b031458fdde4c5c708e0a1c2dbfdf17d710c2e
+srccontainersize 6696
+srccontainerchecksum 68b75e9dcce30acb59d928f4ff95732cd7e37061d31625f8c1835ef6b8da85ef39f4d8ee86b50e299e71cace2ca5307c25641042f325a93a93bd04bf804ec5b4
+runfiles size=1
+ texmf-dist/tex/latex/listliketab/listliketab.sty
+catalogue-ctan /macros/latex/contrib/listliketab
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics list table

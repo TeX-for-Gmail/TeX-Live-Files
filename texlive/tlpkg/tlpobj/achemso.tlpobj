@@ -1,0 +1,84 @@
+name achemso
+category Package
+revision 50025
+shortdesc Support for American Chemical Society journal submissions
+longdesc The bundle provides the official macros (achemso.cls) and
+longdesc BibTeX styles (achemso.bst and biochem.bst) for submission to
+longdesc the journals of the American Chemical Society. The natmove
+longdesc package, which moves citations relative to punctuation, is
+longdesc distributed as part of the bundle.
+containersize 18216
+containerchecksum 87882436a324828c3a787aabf5516f773afa35be70c64392117e356af18c37cca77d439f1cb88422cda441950ca40bbf624fc01ce3eb05d6ae22fa817bf8a743
+doccontainersize 851936
+doccontainerchecksum 8576bc5db853243bb4b37f53cade79aa1913e763ef6bd2af3a9f74087e68598d40308bf65772a623e44824ee128c8e93aea250abc3499b219233af5aea558efa
+srccontainersize 33072
+srccontainerchecksum 64a121d889d685f2dfb57443e38feb62e4ac1c78b7496d0f708bc3d7379abed7780b48984e5464d04308e61dd3b332908337474383493eddfaf418f63fe15322
+runfiles size=90
+ texmf-dist/bibtex/bst/achemso/achemso.bst
+ texmf-dist/bibtex/bst/achemso/biochem.bst
+ texmf-dist/tex/latex/achemso/achemso-aaembp.cfg
+ texmf-dist/tex/latex/achemso/achemso-aaemcq.cfg
+ texmf-dist/tex/latex/achemso/achemso-aamick.cfg
+ texmf-dist/tex/latex/achemso/achemso-aanmf6.cfg
+ texmf-dist/tex/latex/achemso/achemso-aapmcd.cfg
+ texmf-dist/tex/latex/achemso/achemso-abseba.cfg
+ texmf-dist/tex/latex/achemso/achemso-acbcct.cfg
+ texmf-dist/tex/latex/achemso/achemso-accacs.cfg
+ texmf-dist/tex/latex/achemso/achemso-achre4.cfg
+ texmf-dist/tex/latex/achemso/achemso-acncdm.cfg
+ texmf-dist/tex/latex/achemso/achemso-acsccc.cfg
+ texmf-dist/tex/latex/achemso/achemso-acscii.cfg
+ texmf-dist/tex/latex/achemso/achemso-acsodf.cfg
+ texmf-dist/tex/latex/achemso/achemso-aelccp.cfg
+ texmf-dist/tex/latex/achemso/achemso-aesccq.cfg
+ texmf-dist/tex/latex/achemso/achemso-aidcbc.cfg
+ texmf-dist/tex/latex/achemso/achemso-amclct.cfg
+ texmf-dist/tex/latex/achemso/achemso-amlccd.cfg
+ texmf-dist/tex/latex/achemso/achemso-amlcef.cfg
+ texmf-dist/tex/latex/achemso/achemso-ancac3.cfg
+ texmf-dist/tex/latex/achemso/achemso-ancham.cfg
+ texmf-dist/tex/latex/achemso/achemso-apchd5.cfg
+ texmf-dist/tex/latex/achemso/achemso-asbcd6.cfg
+ texmf-dist/tex/latex/achemso/achemso-ascecg.cfg
+ texmf-dist/tex/latex/achemso/achemso-ascefj.cfg
+ texmf-dist/tex/latex/achemso/achemso-bcches.cfg
+ texmf-dist/tex/latex/achemso/achemso-bichaw.cfg
+ texmf-dist/tex/latex/achemso/achemso-bomaf6.cfg
+ texmf-dist/tex/latex/achemso/achemso-cgdefu.cfg
+ texmf-dist/tex/latex/achemso/achemso-chreay.cfg
+ texmf-dist/tex/latex/achemso/achemso-cmatex.cfg
+ texmf-dist/tex/latex/achemso/achemso-crtoec.cfg
+ texmf-dist/tex/latex/achemso/achemso-enfuem.cfg
+ texmf-dist/tex/latex/achemso/achemso-esthag.cfg
+ texmf-dist/tex/latex/achemso/achemso-estlcu.cfg
+ texmf-dist/tex/latex/achemso/achemso-iecred.cfg
+ texmf-dist/tex/latex/achemso/achemso-inoraj.cfg
+ texmf-dist/tex/latex/achemso/achemso-jacsat.cfg
+ texmf-dist/tex/latex/achemso/achemso-jafcau.cfg
+ texmf-dist/tex/latex/achemso/achemso-jceaax.cfg
+ texmf-dist/tex/latex/achemso/achemso-jceda8.cfg
+ texmf-dist/tex/latex/achemso/achemso-jcisd8.cfg
+ texmf-dist/tex/latex/achemso/achemso-jctcce.cfg
+ texmf-dist/tex/latex/achemso/achemso-jmcmar.cfg
+ texmf-dist/tex/latex/achemso/achemso-jnprdf.cfg
+ texmf-dist/tex/latex/achemso/achemso-joceah.cfg
+ texmf-dist/tex/latex/achemso/achemso-jpcafh.cfg
+ texmf-dist/tex/latex/achemso/achemso-jpcbfk.cfg
+ texmf-dist/tex/latex/achemso/achemso-jpccck.cfg
+ texmf-dist/tex/latex/achemso/achemso-jpclcd.cfg
+ texmf-dist/tex/latex/achemso/achemso-jprobs.cfg
+ texmf-dist/tex/latex/achemso/achemso-langd5.cfg
+ texmf-dist/tex/latex/achemso/achemso-mamobx.cfg
+ texmf-dist/tex/latex/achemso/achemso-mpohbp.cfg
+ texmf-dist/tex/latex/achemso/achemso-nalefd.cfg
+ texmf-dist/tex/latex/achemso/achemso-oprdfk.cfg
+ texmf-dist/tex/latex/achemso/achemso-orgnd7.cfg
+ texmf-dist/tex/latex/achemso/achemso-orlef7.cfg
+ texmf-dist/tex/latex/achemso/achemso.cls
+ texmf-dist/tex/latex/achemso/achemso.sty
+ texmf-dist/tex/latex/achemso/natmove.sty
+catalogue-ctan /macros/latex/contrib/achemso
+catalogue-date 2019-02-14 15:10:23 +0100
+catalogue-license lppl1.3c
+catalogue-topics chemistry journalpub bibtex-sty class
+catalogue-version 3.12a

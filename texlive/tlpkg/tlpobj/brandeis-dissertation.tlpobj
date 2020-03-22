@@ -1,0 +1,20 @@
+name brandeis-dissertation
+category Package
+revision 32047
+shortdesc Class for Brandeis University dissertations
+longdesc The class will enable the user to typeset a dissertation which
+longdesc adheres to the formatting guidelines of Brandeis University
+longdesc Graduate School of Arts and Sciences (GSAS).
+containersize 4100
+containerchecksum fa3e2f0c3cc3f1fa1607095dfd52e0d518e5710488a0d86bf9c46de444efbb5b1b253284cf8e996869ef4ff2c051ff1a6331296a7b8517ae93ebb91e7dff2826
+doccontainersize 251596
+doccontainerchecksum fb7fee200d7547615f5671743f89d571e9ebb7a0d52f5e8d835568230bdf16c9b4c8279d65dd93fec929e9337af666d2b9dae3dce744e4b71ad98b578a262099
+srccontainersize 12812
+srccontainerchecksum b4aafd8e9afb0d8cfc9e184181e0e911214d1420114cb32ae41a184f4c7b5ce2a262c5bdb1ffd0144d9e566937a8c662d25316ef82c0d74ed5d5142a3b01a7b5
+runfiles size=4
+ texmf-dist/tex/latex/brandeis-dissertation/brandeis-dissertation.cls
+catalogue-ctan /macros/latex/contrib/brandeis-dissertation
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics dissertation
+catalogue-version 2.0

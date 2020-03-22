@@ -1,0 +1,24 @@
+name pst-plot
+category Package
+revision 48526
+shortdesc Plot data using PSTricks
+longdesc The package provides plotting of data (typically from external
+longdesc files), using PSTricks. Plots may be configured using a wide
+longdesc variety of parameters.
+containersize 22544
+containerchecksum 4b4e45eb0072743428bb8134fb1a07122383a62ce9ec26b2e77c6935044dc6cc3bd51820f0511c115dd9bef81a069883c360bed55f7f101b689e1c8693ae3d48
+doccontainersize 1136296
+doccontainerchecksum e485660b8215b3ec895f5f4e2ab2c86b8f24130bdd1e0c8177ce10046f29d6d92f5fff7ee23772ae1574b257647b8d0312e00a9d92756751b65282f030f37b0d
+runfiles size=32
+ texmf-dist/tex/generic/pst-plot/pst-plot.tex
+ texmf-dist/tex/generic/pst-plot/pst-plot97.tex
+ texmf-dist/tex/latex/pst-plot/pst-plot.sty
+catalogue-also pgfplots
+catalogue-contact-home https://www.tug.org/PSTricks/
+catalogue-contact-repository http://comedy.dante.de/~herbert/texnik/
+catalogue-contact-support http://tug.org/mailman/listinfo/pstricks
+catalogue-ctan /graphics/pstricks/contrib/pst-plot
+catalogue-date 2018-08-31 19:10:21 +0200
+catalogue-license lppl
+catalogue-topics data-import data-disp pstricks
+catalogue-version 1.91

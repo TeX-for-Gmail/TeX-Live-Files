@@ -1,0 +1,23 @@
+name texdiff
+category Package
+revision 29752
+shortdesc Compare documents and produce tagged merge
+longdesc Two files are compared and a new TeX file is output. When the
+longdesc output file is processed with (La)TeX it marks new changes with
+longdesc blue and old text with red with a strike-through line.
+longdesc Furthermore, passages with changes are marked at the margin
+longdesc with grey bars by the LaTeX changebar package.
+depend texdiff.ARCH
+containersize 7172
+containerchecksum 26fa84b3090d641efb186947ce4d1d89c30a2c224cfc8fa759da3ba7ec9cc113c0ed4afc1c3d0fa5f9d0a88af4f9b3001d57651df6b5be6e0234fb78ec4f252a
+doccontainersize 10296
+doccontainerchecksum d458fa8db6433b4c7fbd23a16f9be53c2c822e396e7f50844cfa6acdd2a08acf8efdd0bd946c8fdc09ca8aa28d1eb25708d3719184634abced92ea5c94d9a948
+runfiles size=5
+ texmf-dist/scripts/texdiff/texdiff
+catalogue-also ltxdiff
+catalogue-contact-home http://www.markdoll.de/texdiff/
+catalogue-ctan /support/texdiff
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license artistic
+catalogue-topics editorial
+catalogue-version 0.4

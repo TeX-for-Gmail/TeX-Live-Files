@@ -1,0 +1,19 @@
+name glossaries-english
+category Package
+revision 35665
+shortdesc English language module for glossaries package
+longdesc English language module for glossariesr package.
+containersize 1656
+containerchecksum f62c43c9cb5a10fe5e364e6aa4ca500aae8b89e71f6bc80831a8c8211ca640f3631f011735ee5c82278b188bf896360b69502da2128e1db1287d24e44805ef97
+doccontainersize 123584
+doccontainerchecksum 40c30888541114f5594403ddf251f0c209daa57c6b6f2d3d75b4a51416bf3011bea70cdc5f461e80a1e148181d6ecc2b2d7c891a7c75b1c577a72e5ee8ddc8e9
+srccontainersize 2216
+srccontainerchecksum 4a1d9cbf515c52d8f8a787970bf5537f25d6de7a66c3a1819cc5dec05df0f004aaac3734dba6ef813473db0cd5b08db4ddebca8dbc8674c2582abc7e9e85524a
+runfiles size=1
+ texmf-dist/tex/latex/glossaries-english/glossaries-english.ldf
+catalogue-also glossaries
+catalogue-ctan /macros/latex/contrib/glossaries-english
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics glossary
+catalogue-version 1.0

@@ -1,0 +1,19 @@
+name noitcrul
+category Package
+revision 15878
+shortdesc Improved underlines in mathematics
+longdesc The package provides a (maths mode) \underline variant which
+longdesc doesn't impose italics correction at the end.
+containersize 1280
+containerchecksum 1629f5c0f832927093283cd5cb534cfb7ee35bd74f306fdf6cc18cfca3c72d5c1501139c180b7cf3fe71ef7131dd6a42465ee666c7bbb5c83a86f2a69a5a3c8a
+doccontainersize 78216
+doccontainerchecksum c9c3adf9742b329ddbfdcfc41126c22039e89642f0c0d93ad064ff2160f7708b62ab28994a81860aa08d83f11a111bc11a2a54bbab88bf3713f3f6ee4aa2e641
+srccontainersize 3760
+srccontainerchecksum 5be6bf65ca4dc0c5819a1bc870f704b595b25e5ed6900beb8a53fa8167680929a7fe038e80fef120e77d5b8731c13f92f7907469ce7aa4825ee4e207c09268a3
+runfiles size=1
+ texmf-dist/tex/latex/noitcrul/noitcrul.sty
+catalogue-ctan /macros/latex/contrib/noitcrul
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics underline maths
+catalogue-version 0.2

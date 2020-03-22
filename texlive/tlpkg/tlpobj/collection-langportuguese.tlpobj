@@ -1,0 +1,18 @@
+name collection-langportuguese
+category Collection
+revision 47524
+shortdesc Portuguese
+longdesc Support for Portuguese.
+depend collection-basic
+depend babel-portuges
+depend beamer-tut-pt
+depend cursolatex
+depend feupphdteses
+depend hyphen-portuguese
+depend latex-via-exemplos
+depend latexcheat-ptbr
+depend lshort-portuguese
+depend ordinalpt
+depend xypic-tut-pt
+containersize 384
+containerchecksum 0e15945e469b7bb51157466d640b28dacc78a818f20a16296328b7378246000c2f2fd185264cba439035e4912ac1a63cc3441201c3309ca8a9d4d612e9e8c4f0

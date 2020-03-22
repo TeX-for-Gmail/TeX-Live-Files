@@ -1,0 +1,21 @@
+name alpha-persian
+category Package
+revision 50316
+shortdesc Persian version of alpha.bst
+longdesc The package provides a Persian version of the alpha BibTeX
+longdesc style and offers several enhancements. It is compatible with
+longdesc the hyperref, url, natbib, and cite packages.
+containersize 7452
+containerchecksum 9907067b5353b62bb2d25833231c3152974f7f0826237e6b18007043a420018c7901505fcbec45414ba67ca8f90f0213c512b16cbd342413ec000144b5fcb1f2
+doccontainersize 4484924
+doccontainerchecksum aaae11a4d64fcd05b9a98d324356c9b206bf22d5a744f6d9bd124e1c53f2df3ffd7f2901dd63a8dc2addd9783212792e2e3bbc789b1376e8f5f1d5fd28ea3ed3
+runfiles size=10
+ texmf-dist/bibtex/bst/alpha-persian/alpha-persian.bst
+catalogue-contact-home http://uselatex.com/blog/
+catalogue-contact-repository http://qa.parsilatex.com/questions
+catalogue-contact-support http://qa.parsilatex.com/questions
+catalogue-ctan /biblio/bibtex/contrib/alpha-persian
+catalogue-date 2019-03-10 18:21:44 +0100
+catalogue-license lppl1.3c
+catalogue-topics bibtex-sty persian
+catalogue-version 1.3

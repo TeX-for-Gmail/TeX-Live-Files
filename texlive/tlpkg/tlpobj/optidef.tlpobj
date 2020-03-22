@@ -1,0 +1,33 @@
+name optidef
+category Package
+revision 48228
+shortdesc Environments for writing optimization problems
+longdesc This small library provides a standard set of environments for
+longdesc writing optimization problems. It automatically aligns the
+longdesc problems in three points with an optional fourth: Beginning of
+longdesc the words "minimize/argmin" and "subject to" The objective
+longdesc function and the longest left hand side of the constraints. The
+longdesc $= | > | <$ signs of the constraints. Optionally, the user can
+longdesc add manually a double align character && to align some common
+longdesc constraints feature. A clear example could be the constraints
+longdesc names, e.g. (boundary constraint) alignment with (dynamic
+longdesc constraint). Furthermore, it provides an easy interface to
+longdesc define optimization problem for three different reference
+longdesc situations: Where no equation is referenced/numbered. Where the
+longdesc problem is referenced with a single number. Where each equation
+longdesc has an individual reference. Finally, it also allows a
+longdesc definition of any optimization problem without a limitless
+longdesc number of constraints.
+containersize 4940
+containerchecksum 7b22da03c7ce7bd31ff9ea3644fc587714845cdb5adaa76a928e697b4f17618f42363ecc513d4153f7e6618502d9f2407466d6a33e4f72bdce2ac49e013859f9
+doccontainersize 255672
+doccontainerchecksum a10d5b35cf62631f45727798f920a542ada55791aa1d6f69e8d10390de90e2975292c3419392c324f7005d44ad0c69b376ce6781d97a82564882e055466f265b
+runfiles size=6
+ texmf-dist/tex/latex/optidef/optidef.sty
+catalogue-contact-bugs https://github.com/jeslago/optidef/issues
+catalogue-contact-repository https://github.com/jeslago/optidef
+catalogue-ctan /macros/latex/contrib/optidef
+catalogue-date 2018-07-19 13:37:27 +0200
+catalogue-license lppl1.3
+catalogue-topics maths
+catalogue-version 3.0

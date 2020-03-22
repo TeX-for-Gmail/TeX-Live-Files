@@ -1,0 +1,21 @@
+name enigma
+category Package
+revision 29802
+shortdesc Encrypt documents with a three rotor Enigma
+longdesc The package provides historical encryption (Enigma cipher) for
+longdesc LuaTeX-based formats.
+containersize 18320
+containerchecksum 70cf80101d3fe9a75e750f5b3df4db79f30f5ef76ed65f4bfb40f36e5c8c5f0d22468396fe3a531508dd484ed5929cd14d4e22734a92814a4eae9ae2ec3e2b07
+doccontainersize 266504
+doccontainerchecksum b0509d252a2dd7b61339ed084dcb8dd4c3ec0e63aa6fcb7fd81302b82bbd3ddb0b68d0460e5970798a12b2b66e1f560b80c7bf36187553abf6531e0916ddb71a
+runfiles size=19
+ texmf-dist/scripts/context/lua/third/enigma/mtx-t-enigma.lua/mtx-t-enigma.lua
+ texmf-dist/tex/context/third/enigma/t-enigma.mkv/t-enigma.mkvi
+ texmf-dist/tex/generic/enigma/enigma.lua
+ texmf-dist/tex/latex/enigma/enigma.sty
+ texmf-dist/tex/plain/enigma/enigma.tex
+catalogue-ctan /macros/luatex/generic/enigma
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license bsd
+catalogue-topics security luatex
+catalogue-version 0.1

@@ -1,0 +1,14 @@
+name translation-biblatex-de
+category Package
+revision 45592
+shortdesc German translation of the User Guide of BibLaTeX
+longdesc A German translation of the User Guide of BibLaTeX.
+containersize 404
+containerchecksum 3968a37e0add02d6e31ad49b3a263ec35651c960d7132d1ecfa418888a51444430e8d6ffe4a92fd35ab3904ce6a7aa686085b412117cb282b7e2867a701625c0
+doccontainersize 712120
+doccontainerchecksum 8f945fd3a4a63ef8e0e6e979bd530f1d13d11eca7490697d0c94dbd43ab7e6608e3801539ccaa47c48c81c52e27a14587f4a48887ceff524a6e188cd80b551a4
+catalogue-ctan /info/translations/biblatex/de
+catalogue-date 2017-10-24 11:14:04 +0200
+catalogue-license lppl
+catalogue-topics german-doc biblatex documentation
+catalogue-version 3.0

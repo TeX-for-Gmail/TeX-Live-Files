@@ -1,0 +1,20 @@
+name mathcomp
+category Package
+revision 15878
+shortdesc Text symbols in maths mode
+longdesc A package which provides access to some interesting characters
+longdesc of the Text Companion fonts (TS1 encoding) in maths mode.
+containersize 1176
+containerchecksum 7dca82aff58606afd315bc18c6908946193be75f04ec456e2cede8184867543437007b27f04f4363a026a0db83da3fdf963afecab7330e9419b1ac5376efcdd8
+doccontainersize 166132
+doccontainerchecksum 6135b3d06908c5c359cc432a7406f146ea6b0bb614ba0b983738230ca2073f4348a6ff139bdc4b43325a8b67ef59a6db8e60ecefd88af5c8ff0eddceb0f279fe
+srccontainersize 3072
+srccontainerchecksum 3578e5e31ac3cfda23381e348dfa9e4da6993a9cefaa73b3746be0f2719d04dd37d04e75925414f4f0083b0971222da5eced4bd582e405031f29899faacecf57
+runfiles size=1
+ texmf-dist/tex/latex/mathcomp/mathcomp.sty
+catalogue-also textcomp
+catalogue-ctan /macros/latex/contrib/mathcomp
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-supp-maths
+catalogue-version 0.1f

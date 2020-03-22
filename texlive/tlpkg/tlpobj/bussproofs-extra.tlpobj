@@ -1,0 +1,23 @@
+name bussproofs-extra
+category Package
+revision 50760
+shortdesc Extra commands for bussproofs.sty
+longdesc This package provides additional functionality for
+longdesc bussproofs.sty; specifically, it allows for typesetting of
+longdesc entire (sub)deductions.
+containersize 2668
+containerchecksum 137ebf7cd5adb3c53c4500d3bec8807f9ffc79ad8a718d106857e3b6bc003a3612184319a3138a937cab1ef76608f05a8667a270fea9672d472b0d608fc586f7
+doccontainersize 233404
+doccontainerchecksum 7d34d0360d849a7da0e1a43c509149e3c34fe52f903092d1d75d7b5fedfd50c3f710f3667daf9bbafd9bd35ac2c18e388aa036b02ca47a6d635dbc253a98f7fa
+srccontainersize 5904
+srccontainerchecksum c6a5fe3fef94d3271d992eee288505a3ac2741c50ec50bfad69da315732a1f907d3acd903b2ff7e03fa08ffb061a9f3f4b673efc60c601736c27cb8c15dfe036
+runfiles size=3
+ texmf-dist/tex/latex/bussproofs-extra/bussproofs-extra.sty
+catalogue-also bussproofs
+catalogue-contact-bugs https://github.com/OpenLogicProject/bussproofs-extra/issues
+catalogue-contact-repository https://github.com/OpenLogicProject/bussproofs-extra
+catalogue-ctan /macros/latex/contrib/bussproofs-extra
+catalogue-date 2019-04-06 05:16:17 +0200
+catalogue-license lppl1.3c
+catalogue-topics maths proof
+catalogue-version 0.3

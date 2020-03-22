@@ -1,0 +1,28 @@
+name aleph
+category Package
+revision 50602
+shortdesc Extended TeX
+longdesc An development of omega, using most of the extensions of TeX
+longdesc itself developed for e-TeX.
+depend latex
+depend plain
+depend lambda
+depend cm
+depend hyphen-base
+depend knuth-lib
+depend antomega
+depend latex-fonts
+depend omega
+depend aleph.ARCH
+execute AddFormat name=aleph engine=aleph options=*aleph.ini           fmttriggers=cm,hyphen-base,knuth-lib,plain
+execute AddFormat name=lamed engine=aleph patterns=language.dat           options=*lambda.ini           fmttriggers=cm,hyphen-base,antomega,lambda,latex,latex-fonts,omega
+containersize 628
+containerchecksum 844257e47e80ae4cbd243dc2363ebd6524b97ebc87e02a3a14b8a650d28ba268acef6ea3ccb6eeaa22c12169981410970cd72aa57fd80f00881cc98fdd9004c7
+doccontainersize 30496
+doccontainerchecksum 8fa6b630a6567afd7f0789182dc382df21cd1557d556f0b9854e2628ca369c578aced877af0b6ef55fef3f12d0b46a30f3b3c92e8e53cee3d02554f35ed4891d
+catalogue-contact-bugs http://lists.tug.org/tex-k
+catalogue-contact-repository https://tug.org/svn/texlive/trunk/Build/source/texk/web2c/alephdir
+catalogue-contact-support http://lists.tug.org/tex-k
+catalogue-date 2019-01-02 05:38:30 +0100
+catalogue-license gpl
+catalogue-topics engine omega

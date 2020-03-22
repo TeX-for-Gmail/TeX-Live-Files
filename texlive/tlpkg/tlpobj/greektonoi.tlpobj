@@ -1,0 +1,30 @@
+name greektonoi
+category Package
+revision 39419
+shortdesc Facilitates writing/editing of multiaccented greek
+longdesc The greektonoi mapping extends the betababel package or the
+longdesc babel polutonikogreek option to provide a simple way to insert
+longdesc ancient Greek texts with diacritical characters into your
+longdesc document using a similar method to the commonly used Beta Code
+longdesc transliteration, but with much more freedom. It is designed
+longdesc especially for the XeTeX engine and it could also be used for
+longdesc fast and easy modification of monotonic greek texts to
+longdesc polytonic. The output text is natively encoded in Unicode, so
+longdesc it can be reused in any possible way. The greektonoi package
+longdesc provides, in addition to inserting greek accents and
+longdesc breathings, many other symbols used in greek numbers and
+longdesc arithmetic or in the greek archaic period. It could be used
+longdesc with greektonoi mapping or indepedently.
+containersize 37196
+containerchecksum a19dd42de4bfdc3c068169bbf32c55fbd76135a8138d41e0726b421d3cd5e20483f77d7b78f85e54571381f780568f1fa1ebc57d23ca460b33e4caa256c4894a
+doccontainersize 235232
+doccontainerchecksum 94da0bcac7b513fb9f720c0bc6d7ca8d822956b1517a95335b415e477d3144063bbff65d57978421b6b9611c6b4a866701762cbb2ab09351fe6c5d02e4b02f39
+runfiles size=44
+ texmf-dist/fonts/map/dvips/greektonoi/greektonoi.map
+ texmf-dist/fonts/map/dvips/greektonoi/greektonoi.tec
+ texmf-dist/tex/latex/greektonoi/greektonoi.sty
+catalogue-contact-home http://myria.math.aegean.gr/labs/dt/
+catalogue-ctan /language/greek/greektonoi
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license lgpl3
+catalogue-topics greek multilingual-addon

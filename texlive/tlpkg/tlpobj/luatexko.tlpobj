@@ -1,0 +1,30 @@
+name luatexko
+category Package
+revision 50816
+shortdesc Typeset Korean with Lua(La)TeX
+longdesc This is a Lua(La)TeX macro package that supports typesetting
+longdesc Korean documents including Old Hangul texts. As LuaTeX has
+longdesc opened up access to almost all the hidden routines of TeX
+longdesc engine, users can obtain more beautiful outcome using this
+longdesc package rather than other Hangul macros operating on other
+longdesc engines. LuaTeX version 0.79+ and luaotfload package version
+longdesc 2.4+ are required for this package to run. This package also
+longdesc requires both cjk-ko and xetexko packages for its full
+longdesc functionality.
+containersize 23964
+containerchecksum 6a3ecbed044b40f9460f3305ec5d6d60537c5f15ec1a5ece82b498b385c9773c27fd8475135d055c8d0514eeac2dc75c08eff35a93feaf4c2abb3d1978398cb9
+doccontainersize 240708
+doccontainerchecksum b2b286b574ea364b097f78e86ba88df439300323c0d41a7bc208de0ef0e93705da7ce4be497e1885ab9183a7c03b9fea38a57ad19c0b9f3072b40c23f4c51e60
+runfiles size=32
+ texmf-dist/tex/luatex/luatexko/luatexko-core.sty
+ texmf-dist/tex/luatex/luatexko/luatexko-normalize.lua
+ texmf-dist/tex/luatex/luatexko/luatexko-uhc2utf8.lua
+ texmf-dist/tex/luatex/luatexko/luatexko.lua
+ texmf-dist/tex/luatex/luatexko/luatexko.sty
+catalogue-contact-bugs https://github.com/dohyunkim/luatexko/issues
+catalogue-contact-repository https://github.com/dohyunkim/luatexko
+catalogue-ctan /macros/luatex/generic/luatexko
+catalogue-date 2019-04-06 06:09:02 +0200
+catalogue-license lppl1.3c
+catalogue-topics luatex korean
+catalogue-version 1.24

@@ -1,0 +1,23 @@
+name datetime2-bulgarian
+category Package
+revision 47031
+shortdesc Bulgarian language module for the datetime2 package
+longdesc This module provides the "bulgarian" style that can be set
+longdesc using \DTMsetstyle provided by datetime2.sty. This package is
+longdesc currently unmaintained. Please see the README for the procedure
+longdesc to follow if you want to take over the maintenance.
+containersize 2716
+containerchecksum fe0cf5eb73c5253467a8d2b972cc20825b5179ccd3964f64656ee8f4fa5d7fb7bf1660a7e79d58c491fe74e8c9421b75c177d4c8bf7309782c81ddeb69ff1203
+doccontainersize 80628
+doccontainerchecksum f07df79af157b8ed471f5c8021719d8ac4dea9075885cc42ed0d64405692efc5ea59b6a77448225aee477b8fb05d564ce9155b7e1efb3d9cd7b7baa794783cb7
+srccontainersize 4988
+srccontainerchecksum 9692b6932f74a7e15a625612dfefd975a948f8a2111401c44b156702fad868d7d34381191b5cf675f0c17aaa6234071e10722f6b912e80f8afc4af69353dbc6d
+runfiles size=5
+ texmf-dist/tex/latex/datetime2-bulgarian/datetime2-bulgarian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-bulgarian/datetime2-bulgarian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-bulgarian/datetime2-bulgarian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-bulgarian
+catalogue-date 2018-03-19 17:38:12 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.1

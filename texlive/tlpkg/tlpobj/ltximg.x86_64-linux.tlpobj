@@ -1,0 +1,8 @@
+name ltximg.x86_64-linux
+category Package
+revision 32346
+shortdesc x86_64-linux files of ltximg
+containersize 340
+containerchecksum 2ef55ccc1cf5cd9bea41f8276d9004ce2377bde570f858322af12cee0fba495f8870351d34db9a57123f5777ec09e08c0de23c1c2ec167ce6d8228108a4a7540
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/ltximg

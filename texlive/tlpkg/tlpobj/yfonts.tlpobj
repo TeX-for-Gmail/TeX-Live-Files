@@ -1,0 +1,24 @@
+name yfonts
+category Package
+revision 50755
+shortdesc Support for old German fonts
+longdesc A LaTeX interface to the old-german fonts designed by Yannis
+longdesc Haralambous: Gothic, Schwabacher, Fraktur and the baroque
+longdesc initials.
+containersize 1820
+containerchecksum 1caa22023c93ae1e6a2fd94676da61fd576890f991a79d6a9724a4e5f7e653a752c6af792a1b15d44aa956f5788aa995614a33c2d97e95865d6a364f833e539f
+doccontainersize 192824
+doccontainerchecksum 54857e6693242080c5f410ded0bb16d3df65fee2834b2b5d1232dd063a70796905771059da07e7d92358fce9da992c3e605be345ae7c5d4012d37dc37a17dc82
+srccontainersize 7968
+srccontainerchecksum c716a8ecca03f0dbaf07146021977fd802e2089c5b99fc7adaac1e581ecbfd4f4b1a15562a54eea7c783f5b8b6165b935e484e36a456ef81729751c777266815
+runfiles size=2
+ texmf-dist/tex/latex/yfonts/yfonts.sty
+catalogue-also mfnfss
+catalogue-contact-bugs https://github.com/TeX-Live/yfonts/issues
+catalogue-contact-repository https://github.com/TeX-Live/yfonts.git
+catalogue-contact-support https://github.com/TeX-Live/yfonts/issues
+catalogue-ctan /macros/latex/contrib/yfonts
+catalogue-date 2019-04-04 10:11:42 +0200
+catalogue-license lppl
+catalogue-topics font-supp
+catalogue-version 1.4

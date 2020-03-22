@@ -1,0 +1,28 @@
+name tocdata
+category Package
+revision 50536
+shortdesc Adds names to chapters, sections, figures in the TOC and LOF
+longdesc This package may be used to add a small amount of data to an
+longdesc entry in the table of contents or list of figures, between the
+longdesc section or caption name and the page number. The typical use
+longdesc would be to add the name of an author or artist of a chapter or
+longdesc section, such as in an anthology or a collection of papers.
+longdesc Additionally, user-level macros are provided which add the
+longdesc author's name to a chapter or section, along with an optional
+longdesc prefix and/or suffix, and add to a figure the artist's name,
+longdesc prefix, and suffix, plus optional additional text. Author and
+longdesc artist names are also added to the index. Additional user-level
+longdesc macros control formatting.
+containersize 2788
+containerchecksum 0dc60a65bad31aaab77b48ce2b9fc27ea7e31b34d1e57b4d703f6d7b80c7e28753da4cd0d804d1db08f49c31e941dcecaf7ffed3b4394eed964a29f1a5e78ad8
+doccontainersize 914204
+doccontainerchecksum d07c578c1c1c7afa235900d3b868159c101249ff9596d8ec138f26aad61e9f5affae11497e95221da3268c560ad20dce28f98a02539bbf8ddad99462799caab4
+srccontainersize 11116
+srccontainerchecksum 4cbe31b7ab4f22d8403222b8b4b47dd02619d35d708703d4e88f4e0ed086611ad1997182ef200992d46def6989037789039118c1aa95696c635ed1a5501303c6
+runfiles size=3
+ texmf-dist/tex/latex/tocdata/tocdata.sty
+catalogue-ctan /macros/latex/contrib/tocdata
+catalogue-date 2019-03-21 21:40:32 +0100
+catalogue-license lppl1.3
+catalogue-topics toc-etc
+catalogue-version 2.02

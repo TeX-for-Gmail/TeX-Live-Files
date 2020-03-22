@@ -1,0 +1,27 @@
+name mfirstuc
+category Package
+revision 45803
+shortdesc Uppercase the first letter of a word
+longdesc The package provides commands \makefirstuc that uppercases the
+longdesc first letter in its argument (with a check for a semantic
+longdesc markup command at the start of the argument), and \xmakefirstuc
+longdesc which expands the argument before uppercasing. It also provides
+longdesc \capitalisewords{phrase} which applies \makefirstuc to each
+longdesc word in the phrase, where the words are separated by regular
+longdesc spaces. (Exceptions can be made for words that shouldn't be
+longdesc converted.)
+containersize 4316
+containerchecksum de7ca64b5a32f697ec1efb477c2230ac418799e72f298ee6ac80409952affb35ef6152fb366e822ba1b01e39afe4483d5437c4e9aa22130a90bef79f87ab77a5
+doccontainersize 661840
+doccontainerchecksum 1a2705a13325a97199095fbdb900b94e94f308311d7609ddfbb75efb7afeb1a2634a0f543da517a03d68e974d2b917f94a1b6a7b3d31965d7087ac585b6b0df5
+srccontainersize 8392
+srccontainerchecksum 021d1e945d7033ed18d3df4a3a0756c9048e7a576bd5d64f1fa2f963292a9aadf0c5bea95b29e3468117ea4f02e4b83785517516d87a31bd85bfb6fa0133e734
+runfiles size=6
+ texmf-dist/scripts/mfirstuc/mfirstuc.perl
+ texmf-dist/tex/latex/mfirstuc/mfirstuc-english.sty
+ texmf-dist/tex/latex/mfirstuc/mfirstuc.sty
+catalogue-ctan /macros/latex/contrib/mfirstuc
+catalogue-date 2017-11-14 14:02:48 +0100
+catalogue-license lppl1.3
+catalogue-topics text-manip macro-supp
+catalogue-version 2.06

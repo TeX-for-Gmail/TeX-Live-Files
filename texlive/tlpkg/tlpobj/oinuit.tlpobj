@@ -1,0 +1,46 @@
+name oinuit
+category Package
+revision 28668
+shortdesc LaTeX Support for the Inuktitut Language
+longdesc The package provides a set of Lambda (Omega LaTeX) typesetting
+longdesc tools for the Inuktitut language. Five different input methods
+longdesc are supported and with the necessary fonts are also provided.
+execute addMap oinuit.map
+containersize 147668
+containerchecksum 4d6b72ce539766a3453f7edb24c243a2a495f3916ee9fd650917c510a0e8fe36e12399843c1de3dc0b0de704bf5362ea20e9bd0d6c3100e659c5641395d658dc
+doccontainersize 150228
+doccontainerchecksum dfb7275002731695086aa8733a543ca1eaa207bc57cd0b324666940ab932cd9301cb1c0b0bbfa4df36278ac8e289ac1be78a2e0a58ec656c470ff4b841a70803
+srccontainersize 10304
+srccontainerchecksum 0d81c9803b9b45b20c096ab00d0c0e5ca26e71d5af463e511660c5bbd28b5b962afe243f21418883575b5d40f503bada65b5c34ba48486aa74a6f9ddcbd48680
+runfiles size=563
+ texmf-dist/fonts/map/dvips/oinuit/oinuit.map
+ texmf-dist/fonts/ofm/public/oinuit/OInuit.ofm
+ texmf-dist/fonts/ofm/public/oinuit/OInuitb.ofm
+ texmf-dist/fonts/ofm/public/oinuit/OInuitbo.ofm
+ texmf-dist/fonts/ofm/public/oinuit/OInuito.ofm
+ texmf-dist/fonts/ovf/public/oinuit/OInuit.ovf
+ texmf-dist/fonts/ovf/public/oinuit/OInuitb.ovf
+ texmf-dist/fonts/ovf/public/oinuit/OInuitbo.ovf
+ texmf-dist/fonts/ovf/public/oinuit/OInuito.ovf
+ texmf-dist/fonts/tfm/public/oinuit/Inuit.tfm
+ texmf-dist/fonts/tfm/public/oinuit/Inuitb.tfm
+ texmf-dist/fonts/tfm/public/oinuit/Inuitbo.tfm
+ texmf-dist/fonts/tfm/public/oinuit/Inuito.tfm
+ texmf-dist/fonts/type1/public/oinuit/Inuit.pfb
+ texmf-dist/fonts/type1/public/oinuit/Inuitb.pfb
+ texmf-dist/fonts/type1/public/oinuit/Inuitbo.pfb
+ texmf-dist/fonts/type1/public/oinuit/Inuito.pfb
+ texmf-dist/fonts/type1/public/oinuit/cmssbxo10.pfb
+ texmf-dist/omega/ocp/oinuit/Ninuit2uni.ocp
+ texmf-dist/omega/ocp/oinuit/Qinuit2uni.ocp
+ texmf-dist/omega/ocp/oinuit/inuitscii.ocp
+ texmf-dist/omega/otp/oinuit/Ninuit2uni.otp
+ texmf-dist/omega/otp/oinuit/Qinuit2uni.otp
+ texmf-dist/omega/otp/oinuit/inuitscii.otp
+ texmf-dist/tex/lambda/oinuit/litcmr.fd
+ texmf-dist/tex/lambda/oinuit/litenc.def
+ texmf-dist/tex/lambda/oinuit/oinuit.sty
+catalogue-ctan /language/inuktitut/oinuit
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics other-lang omega

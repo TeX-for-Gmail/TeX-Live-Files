@@ -1,0 +1,23 @@
+name biocon
+category Package
+revision 15878
+shortdesc Typesetting biological species names
+longdesc The biocon--biological conventions--package aids the
+longdesc typesetting of some biological conventions. At the moment, it
+longdesc makes a good job of typesetting species names (and ranks below
+longdesc the species level). A distinction is made between the Plant,
+longdesc Fungi, Animalia and Bacteria kingdoms. There are default
+longdesc settings for the way species names are typeset, but they can be
+longdesc customized. Different default styles are used in different
+longdesc situations.
+containersize 3376
+containerchecksum 54676e4acaee07609c379d387af4f06b45a4bc0051a3333c250555536114b3862da73d70305b1f62adf7afca2b4a2157cce8afd9e20f10e49b01d4c2ad351cdb
+doccontainersize 225784
+doccontainerchecksum c296c8402129338295a3043a66bab91a499b29703f7ecead0a045e0820ced683a4c25168ecdfc184c07282904afed3703b31f8ca707492a913de7c49a351c322
+runfiles size=4
+ texmf-dist/tex/latex/biocon/biocon-old.sty
+ texmf-dist/tex/latex/biocon/biocon.sty
+catalogue-ctan /macros/latex/contrib/biocon
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics biology

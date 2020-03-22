@@ -1,0 +1,25 @@
+name cv4tw
+category Package
+revision 34577
+shortdesc LaTeX CV class, with extended details
+longdesc The class offers entries for assets and social networks;
+longdesc customizable styles are provided. The class comes with no
+longdesc documentation, but a worked example offers some guidance.
+containersize 5132
+containerchecksum 607745abedd1325c59bc8ae360a1c5d00834ec7bd050b057ba5427c135f17046027da3fb6130a0718e8d33bcab74eaf235f2de7a1ace483da1af87be5e559867
+doccontainersize 98724
+doccontainerchecksum d9166421ab15d7569a4db66970486c78af43ddbda9d7f9c9488dbc46eed91ab5079c0f9b7851835afeed6045ee4c65c888e1be93a95cda14623405847267880b
+runfiles size=9
+ texmf-dist/tex/latex/cv4tw/cv4tw-scheme.sty
+ texmf-dist/tex/latex/cv4tw/cv4tw-theme-compact.sty
+ texmf-dist/tex/latex/cv4tw/cv4tw-theme-core.sty
+ texmf-dist/tex/latex/cv4tw/cv4tw-theme-sharp.sty
+ texmf-dist/tex/latex/cv4tw/cv4tw-theme-simple.sty
+ texmf-dist/tex/latex/cv4tw/cv4tw.cls
+catalogue-also moderncv curve
+catalogue-contact-repository https://github.com/Cicatrice/cv4tw
+catalogue-ctan /macros/latex/contrib/cv4tw
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics cv class
+catalogue-version 0.2

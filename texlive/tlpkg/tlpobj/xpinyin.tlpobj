@@ -1,0 +1,25 @@
+name xpinyin
+category Package
+revision 50849
+shortdesc Automatically add pinyin to Chinese characters
+longdesc The package is written to simplify the input of Hanyu Pinyin.
+longdesc Macros are provided that automatically add pinyin to Chinese
+longdesc characters.
+containersize 199772
+containerchecksum 7235eeaf6b0218d4ee87a07b8b16034cbd40ccdf77c96baba14d4ab8a6bd5de78c5f5ab68891a6a91fe4bd0a77de146c357f4e4af4ed443ca8a38526f4f53240
+doccontainersize 204276
+doccontainerchecksum b20233a1ff1f2f1f1474e5bcf81fab3747c26a3312d91297c73d1e57ebafd9459727c91da025b5cb4c1875ba5876873eb8099ad4012d85a972dc4fd1ea90e7e8
+srccontainersize 10856
+srccontainerchecksum 47dc1053cdbb87ed09e2bdd6c6fe447c011c1c2af4cfc8a1108431aefc3f5dca069a8bc60b0e97c0775a1ad1cfb54999a69ceee7f85fb493c2e8b0f6d634486e
+runfiles size=302
+ texmf-dist/tex/latex/xpinyin/xpinyin-database.def
+ texmf-dist/tex/latex/xpinyin/xpinyin.sty
+catalogue-contact-bugs https://github.com/CTeX-org/ctex-kit/issues
+catalogue-contact-home http://www.ctex.org/HomePage
+catalogue-contact-repository https://github.com/CTeX-org/ctex-kit
+catalogue-contact-support https://github.com/CTeX-org/ctex-kit/issues
+catalogue-ctan /macros/latex/contrib/xpinyin
+catalogue-date 2019-04-07 18:07:42 +0200
+catalogue-license lppl1.3c
+catalogue-topics chinese
+catalogue-version 2.7

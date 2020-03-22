@@ -1,0 +1,24 @@
+name bibleref-mouth
+category Package
+revision 25527
+shortdesc Consistent formatting of Bible references
+longdesc The package allows Bible references to be formatted in a
+longdesc consistent way. It is similar to the bibleref package, except
+longdesc that the formatting macros are all purely expandable -- that
+longdesc is, they are all implemented in TeX's mouth. This means that
+longdesc they can be used in any expandable context, such as an argument
+longdesc to a \url command.
+containersize 5476
+containerchecksum 5ae9356781549cb5ecbdfa33085ede0fdbcb7f131d55484153484c777f88e23cf965507afde803e7bc5b775aeb416b9ee767815b5dbec444a3d21be18c7445f4
+doccontainersize 366172
+doccontainerchecksum a904b4c9c0c8f3ff1feaaad8d1650b383ff0110bcf463f004938c51bce84ffc860082bf3e598922eedf0aeaa664ef0379ea3304f6dc5b681679d9545026c6bf4
+srccontainersize 18324
+srccontainerchecksum 5ad805eb19d6ce8fef804117b462eb1f1dff887c3b6326fd42eba88c7a218ada84992bc419d889f04363ae9b7073b13ebb5f7a002225191fc22c2a2cb5824514
+runfiles size=8
+ texmf-dist/tex/latex/bibleref-mouth/bibleref-mouth.sty
+catalogue-also bibleref
+catalogue-ctan /macros/latex/contrib/bibleref-mouth
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics theology
+catalogue-version 1.0

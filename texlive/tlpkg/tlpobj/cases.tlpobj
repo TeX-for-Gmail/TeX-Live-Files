@@ -1,0 +1,20 @@
+name cases
+category Package
+revision 17123
+shortdesc Numbered cases environment
+longdesc Define the environment numcases: equations with several
+longdesc alternative right-hand sides, with equation numbers for each
+longdesc alternative. Also environment subnumcases, where each
+longdesc alternative is a sub-number (e.g., 8a, 8b, ...) of the equation
+longdesc set as a whole.
+containersize 3632
+containerchecksum 43d512d0a408c82b80cd3cc93ad858ded8a0af5634557e1a67fd41cdbef6f3df5d42d9f3e910d05fc203b741f9fb374271d22b2a22c4704010b934237e055c82
+doccontainersize 306892
+doccontainerchecksum 1d09e32e370635db9c9d3bb618b51da7c16f178b6d6639eb7e4247b67e12036ddea3095a41dee4ea4746eee8ea7ec33ceed5e3f84473dc5c08ef078734a02589
+runfiles size=2
+ texmf-dist/tex/latex/cases/cases.sty
+catalogue-ctan /macros/latex/contrib/cases
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics maths-syseqn
+catalogue-version 2.5

@@ -1,0 +1,19 @@
+name crbox
+category Package
+revision 29803
+shortdesc Boxes with crossed corners
+longdesc The package implements a \crbox command which produces boxes
+longdesc with crossing lines at the corners.
+containersize 1544
+containerchecksum 087ae9406fd8f6916e355b51d2f4dc7383228813716ab9f6c37714794c931a9b5defa4678a4471523c5fda2c6b0b7784d11dfb488a8d9c60f0244d9d2d64ab2b
+doccontainersize 29448
+doccontainerchecksum 8927d6f60a3a895685c679e565632ee2ca68c1f2e8dfd795a481767463d88ec37579bfbd55858ce1e6e433a981de4b5140cf75489221243716cd8035a2967a90
+runfiles size=1
+ texmf-dist/tex/latex/crbox/crbox.sty
+catalogue-contact-bugs https://github.com/bidi-tex/crbox/issues
+catalogue-contact-repository https://github.com/bidi-tex/crbox
+catalogue-ctan /macros/latex/contrib/crbox
+catalogue-date 2018-11-28 19:11:53 +0100
+catalogue-license lppl
+catalogue-topics boxing typesetting decoration
+catalogue-version 0.1

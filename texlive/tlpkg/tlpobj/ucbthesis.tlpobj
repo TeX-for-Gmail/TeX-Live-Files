@@ -1,0 +1,19 @@
+name ucbthesis
+category Package
+revision 37776
+shortdesc Thesis and dissertation class supporting UCB requirements
+longdesc The class provides the necessary framework for electronic
+longdesc submission of Masters theses and Ph.D. dissertations at the
+longdesc University of California, Berkeley. It is based on the memoir
+longdesc class.
+containersize 7292
+containerchecksum 4dfe1e25633d23d5cf1a2eaf30bb47b28008722889e9d16ac8ba2d63b686a2184c69029933acd1ac5bd568c4a53c3f40fd26a65f0a5cfce3178e2c12077008e9
+doccontainersize 167964
+doccontainerchecksum b90e1cfff2a4eb17ce25b7b1f400bd10d5de8dbf349b98c50f3098990ed41d68be546f7c658c12f74e969a50802bc3154feb48ac3ed42c22df7a3c531560b7e7
+runfiles size=6
+ texmf-dist/tex/latex/ucbthesis/ucbthesis.cls
+catalogue-ctan /macros/latex/contrib/ucbthesis
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics dissertation
+catalogue-version 3.5

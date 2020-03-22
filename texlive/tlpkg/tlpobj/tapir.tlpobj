@@ -1,0 +1,24 @@
+name tapir
+category Package
+revision 20484
+shortdesc A simple geometrical font
+longdesc Tapir is a simple geometrical font mostly created of line and
+longdesc circular segments with constant thickness. The font is
+longdesc available as Metafont source and in Adobe Type 1 format. The
+longdesc character set contains all characters in the range 0-127 (as in
+longdesc cmr10), accented characters used in the Czech, Slovak and
+longdesc Polish languages.
+containersize 51876
+containerchecksum f3d93c9ad813008fa72cbe317d244bca9a70855c20f327d22d1720b79d70019af0f5d8aef237fc78a598a545f44a4612f1e5a7622b34247044ab230bd42eed5d
+doccontainersize 53796
+doccontainerchecksum a32573ba9df3d0b30e796f7bdd03e63ba8a96559380895b8db2d33fd9812c8b781b75d19a12a24405c52df13acd9a5f2e925da64b019e92a124d143345bb5bb9
+runfiles size=49
+ texmf-dist/fonts/source/public/tapir/tap-enc.mf
+ texmf-dist/fonts/source/public/tapir/tap.mf
+ texmf-dist/fonts/type1/public/tapir/tap.pfb
+catalogue-contact-home http://mitek.webpark.cz/
+catalogue-ctan /fonts/tapir
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics font-mf font-type1 font czech polish slovak
+catalogue-version 0.2

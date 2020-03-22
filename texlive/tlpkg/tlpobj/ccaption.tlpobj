@@ -1,0 +1,24 @@
+name ccaption
+category Package
+revision 23443
+shortdesc Continuation headings and legends for floats
+longdesc A package providing commands for 'continuation captions',
+longdesc unnumbered captions, and also a non-specific legend heading for
+longdesc any environment. Methods are also provided to define captions
+longdesc for use outside float (e.g., figure and table) environments,
+longdesc and to define new float environments and Lists of Floats. Tools
+longdesc are provided for specifying your own captioning styles.
+containersize 5484
+containerchecksum f002efbd7af71c108e041daaa182a4432d1886a058cbfda2da7fcf6c0f75a217d04bbb8498deed29c7f03a8d22d4d2e24327e6a3b284d38c7b37200431f17918
+doccontainersize 468272
+doccontainerchecksum a3d2f92700e3421c37a666093944ae297ed39a35d99d6971978f5707619046603fad06b84aad55f41d3af08725535470ccec6d6bde3ab8f1ce4f0a53038e9ca8
+srccontainersize 34500
+srccontainerchecksum 83a8ab7b7b72c156ea07bf7d19c759d342187440574dc82dc0f5e683abe490c3b408d672464d142922229593a1f8363881a48475da0884920484c6057a40358a
+runfiles size=6
+ texmf-dist/tex/latex/ccaption/ccaption.sty
+catalogue-also float caption
+catalogue-ctan /macros/latex/contrib/ccaption
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics caption
+catalogue-version 3.2c

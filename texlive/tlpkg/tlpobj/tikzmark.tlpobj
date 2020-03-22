@@ -1,0 +1,23 @@
+name tikzmark
+category Package
+revision 48929
+shortdesc Use TikZ's method of remembering a position on a page
+longdesc The tikzmark package defines a command to "remember" a position
+longdesc on a page for later (or earlier) use, primarily (but not
+longdesc exclusively) with TikZ.
+containersize 5044
+containerchecksum b9b614194484017463ea1d3976e309efaff5412c241fd0d90222f68a434ef23fbbbea757c83b12925e69cd3ef677a5d9135eef78d1b90393a23f99772509262c
+doccontainersize 450516
+doccontainerchecksum d03dd58e819fdfc0795a12d6ed548c2beca00068e5d20d72abec4b599f372dbc0bbfc607bface3397a68f7f6935de8f3c4e6c10928ab473c4214df41b5c6848f
+srccontainersize 16852
+srccontainerchecksum 320d4bc87cca72b256d06bf8d9fa8891062759723145d23556b35bafda4b31798e1372c288446a9d39fb6af687d2f8c383b6eb4a0d80984783b372ed68e3be53
+runfiles size=6
+ texmf-dist/tex/latex/tikzmark/tikzlibrarytikzmark.code.tex
+ texmf-dist/tex/latex/tikzmark/tikzmarklibrarylistings.code.tex
+catalogue-contact-home https://github.com/loopspace/tikzmark
+catalogue-contact-repository https://github.com/loopspace/tikzmark
+catalogue-ctan /graphics/pgf/contrib/tikzmark
+catalogue-date 2018-10-18 13:12:22 +0200
+catalogue-license lppl1.3
+catalogue-topics pgf-tikz graphics-supp
+catalogue-version 1.6

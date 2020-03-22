@@ -1,0 +1,8 @@
+name dvidvi.x86_64-linux
+category TLCore
+revision 50281
+shortdesc x86_64-linux files of dvidvi
+containersize 8272
+containerchecksum d190c1c647018c9a4b3020ca503e5e13918c60f2c3940e843803016da2498c96b761d39a36876e74c10b5e85e3e1a88a01e74d712148b5e6e416c2e52c6b5eab
+binfiles arch=x86_64-linux size=5
+ bin/x86_64-linux/dvidvi

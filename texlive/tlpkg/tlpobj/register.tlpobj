@@ -1,0 +1,27 @@
+name register
+category Package
+revision 49581
+shortdesc Typeset programmable elements in digital hardware (registers)
+longdesc This package is designed for typesetting the programmable
+longdesc elements in digital hardware, i.e. registers. Such registers
+longdesc typically have many fields and can be quite wide; they are thus
+longdesc a challenge to typeset in a consistent manner. Register is
+longdesc similar in some aspects to the bytefield package. Anyone doing
+longdesc hardware documentation using LaTeX should examine both
+longdesc packages. Register requires a fairly recent version of the
+longdesc float package. An example Perl module and a Perl script are
+longdesc provided to translate the register specifications into
+longdesc programmable data structures.
+containersize 4464
+containerchecksum 049cdd2039a37857bde1ef3f7296da1b6e95a62f366e43b508db8ef70e6afca7a763632078a5379c620692febd49df3afe4049d8c97971fdddd37afd8e357515
+doccontainersize 161108
+doccontainerchecksum fe09f70f908d9b96ad961bbb6c44731572eec871f3adde68dd5b0a094ce932ed15e8bca7982997f17e771d202d9bee6d397f1c4c6823022faf53baa47e40dcb0
+srccontainersize 14820
+srccontainerchecksum 631a77363ec20f7cf849fbf17604870bf7868ac3d4a89768b7ae72abef34f2862502ab51bcce7b164fa497f5922a29755ac4e1a2d3ee2d7471a28be9bfdad89a
+runfiles size=4
+ texmf-dist/tex/latex/register/register.sty
+catalogue-ctan /macros/latex/contrib/register
+catalogue-date 2019-01-01 23:34:54 +0100
+catalogue-license lppl1.3
+catalogue-topics engineering comp-sci comp-net
+catalogue-version 1.9

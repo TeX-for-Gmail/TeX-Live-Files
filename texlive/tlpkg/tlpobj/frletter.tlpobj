@@ -1,0 +1,18 @@
+name frletter
+category Package
+revision 15878
+shortdesc Typeset letters in the French style
+longdesc A small class for typesetting letters in France. No assumption
+longdesc is made about the language in use. The class represents a small
+longdesc modification of the beletter class, which is itself a
+longdesc modification of the standard LaTeX letter class.
+containersize 1792
+containerchecksum 5f6c61585ab0626931cf7f19d18138ec70572f3531f36cf94eecd82d93855a2ec8ed2ed0146971e035f8b5119df7c602c6279a9976e024ac85869953448d51de
+doccontainersize 596
+doccontainerchecksum 36fbbc422eed8e577e054067e7b442cc84b640fcbd0706e3d8cb503884a5208e0a5bbe0c40b67cb5b495bcdd0ba7a78855338588757e5a9d26dce21f9bedcf3e
+runfiles size=1
+ texmf-dist/tex/latex/frletter/frletter.cls
+catalogue-ctan /macros/latex/contrib/frletter
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics letter class

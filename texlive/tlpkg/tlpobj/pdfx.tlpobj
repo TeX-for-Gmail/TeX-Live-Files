@@ -1,0 +1,41 @@
+name pdfx
+category Package
+revision 50338
+shortdesc PDF/X and PDF/A support for pdfTeX, LuaTeX and XeTeX
+longdesc The package helps LaTeX users to create PDF/X, PFD/A and other
+longdesc standards-compliant PDF documents with pdfTeX, LuaTeX and
+longdesc XeTeX.
+containersize 89260
+containerchecksum c1e1be225efd5bd66873663ccb134521b40253875248096a66a8499609e62e481fa64e563afd75952b2dc0041fa1fce594f4047c3c91fe6b9443493ce8899ae7
+doccontainersize 4951404
+doccontainerchecksum 22b7e52295ab8da136e584f545001d0db480cefb06b7d595133ff3508c9ee3e7b7d8c8a93c41ebf24a9e313b4e40fdf355a88ef0a65b629c3b27f5f4bcec906a
+srccontainersize 63748
+srccontainerchecksum 31c9d2e7fb89f9405f26a18dce6a5066958867ca03ee793e46f9676022ecda77074eef23fb4a238af5b077d642107c372e268ce5b4e7c0358d7ca8c0ed6daddb
+runfiles size=215
+ texmf-dist/tex/latex/pdfx/8bit.def
+ texmf-dist/tex/latex/pdfx/AdobeColorProfiles.tex
+ texmf-dist/tex/latex/pdfx/AdobeExternalProfiles.tex
+ texmf-dist/tex/latex/pdfx/CallasColorProfiles.tex
+ texmf-dist/tex/latex/pdfx/armglyphs.dfu
+ texmf-dist/tex/latex/pdfx/glyphtounicode-cmr.tex
+ texmf-dist/tex/latex/pdfx/glyphtounicode-ntx.tex
+ texmf-dist/tex/latex/pdfx/l8u-penc.def
+ texmf-dist/tex/latex/pdfx/l8uarb-penc.def
+ texmf-dist/tex/latex/pdfx/l8uarm-penc.def
+ texmf-dist/tex/latex/pdfx/l8ucyr-penc.def
+ texmf-dist/tex/latex/pdfx/l8udev-penc.def
+ texmf-dist/tex/latex/pdfx/l8ugrk-penc.def
+ texmf-dist/tex/latex/pdfx/l8uheb-penc.def
+ texmf-dist/tex/latex/pdfx/l8ulat-penc.def
+ texmf-dist/tex/latex/pdfx/l8umath-penc.def
+ texmf-dist/tex/latex/pdfx/pdfa.xmp
+ texmf-dist/tex/latex/pdfx/pdfe.xmp
+ texmf-dist/tex/latex/pdfx/pdfvt.xmp
+ texmf-dist/tex/latex/pdfx/pdfx.sty
+ texmf-dist/tex/latex/pdfx/pdfx.xmp
+ texmf-dist/tex/latex/pdfx/text89.def
+catalogue-ctan /macros/latex/contrib/pdfx
+catalogue-date 2019-03-10 21:28:05 +0100
+catalogue-license lppl
+catalogue-topics pdf-feat
+catalogue-version 1.6.3

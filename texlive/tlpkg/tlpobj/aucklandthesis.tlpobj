@@ -1,0 +1,18 @@
+name aucklandthesis
+category Package
+revision 41506
+shortdesc Memoir-based class for formatting University of Auckland masters' and doctors' theses
+longdesc A memoir-based class for formatting University of Auckland
+longdesc masters' and doctors' thesis dissertations in any discipline.
+longdesc The title page does not handle short dissertations for
+longdesc diplomas.
+containersize 3176
+containerchecksum 8cff7972427d5c4ade22e35135fa6c76ad7c5a05152bcf8ca8604339f806ca20326bd4e8e9de899332c6a8ff2fdf9e6f496f7a4624ee212df64817031f4a4f55
+doccontainersize 711924
+doccontainerchecksum 64e240488edb57aaa24455ba9dea9ba06c87c59fc5503d175540702fa2f49a4d38b35fa6cf590cada8cba788280e49b5f786e015effe3abf1741766908daad99
+runfiles size=3
+ texmf-dist/tex/latex/aucklandthesis/aucklandthesis.cls
+catalogue-ctan /macros/latex/contrib/aucklandthesis
+catalogue-date 2018-01-07 14:49:11 +0100
+catalogue-license lppl1.3
+catalogue-topics dissertation class

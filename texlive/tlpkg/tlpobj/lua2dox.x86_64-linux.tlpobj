@@ -1,0 +1,8 @@
+name lua2dox.x86_64-linux
+category Package
+revision 29053
+shortdesc x86_64-linux files of lua2dox
+containersize 344
+containerchecksum cb3c0bdc19c6e69a4a013479096376ad7411750e2ee0df3078180ef4179aa69c4be09605c24feb2ca1c653962bb060268dd7e0f40fc44450f60b17821270bc64
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/lua2dox_filter

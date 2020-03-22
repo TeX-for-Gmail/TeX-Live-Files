@@ -1,0 +1,15 @@
+name susy
+category Package
+revision 19440
+shortdesc Macros for SuperSymmetry-related work
+longdesc The package provides abbreviations of longer expressions.
+containersize 944
+containerchecksum 406a172dfb787c833d8d71e74cde627fad5dc168a1be7a71c4d0006e2f0a6625738ec11f99c9215af6973b101e17abe8eb8355206bdaa18ab3fa6328d7ea42bd
+doccontainersize 744
+doccontainerchecksum f802ccdadb5ac2bd96ff27396b020798ac023889f751bc3a286392f62341ee6ac50486899f4e633b90b85320f1bbb679dfba98aa3746d01f0220f07cf65549f6
+runfiles size=1
+ texmf-dist/tex/latex/susy/susy.sty
+catalogue-ctan /macros/latex/contrib/susy
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics shortcut physics

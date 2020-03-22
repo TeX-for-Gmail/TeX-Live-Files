@@ -1,0 +1,20 @@
+name turnthepage
+category Package
+revision 29803
+shortdesc Provide "turn page" instructions
+longdesc The package prints a 'turn' instruction at the bottom of
+longdesc odd-numbered pages (except the last). This is a common
+longdesc convention for examination papers and the like.
+containersize 1664
+containerchecksum 446b0516264eac6b880048e16cf4ad7bb529718c726233fc645b8c32d625f3f6b505b72beef81994b61ddc77ec8ecfece907347be4f9e18a79fa36c2aef91b5d
+doccontainersize 78428
+doccontainerchecksum 4af8dc61e53df587f19b61f6260e7a7820a8334f2841a63f2ecc05b7197eb69596dc36163b39cdaff9258651241a334b6e3a814699065c8ce4f861fba6110f83
+runfiles size=3
+ texmf-dist/tex/latex/turnthepage/turnpageetex.sty
+ texmf-dist/tex/latex/turnthepage/turnpagewoetex.sty
+ texmf-dist/tex/latex/turnthepage/turnthepage.sty
+catalogue-ctan /macros/latex/contrib/turnthepage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics layout exam
+catalogue-version 1.3a

@@ -1,0 +1,33 @@
+name kerntest
+category Package
+revision 15878
+shortdesc Print tables and generate control files to adjust kernings
+longdesc This class makes it easy to generate tables that show many
+longdesc different kerning pairs of an arbitrary font, usable by LaTeX.
+longdesc It shows the kerning values that are used in the font by
+longdesc default. In addition, this class enables the user to alter the
+longdesc kernings and to observe the results. Kerning pairs can be
+longdesc defined for groups of similar glyphs at the same time. An mtx
+longdesc file is generated automatically. The mtx file may then be
+longdesc loaded by fontinst to introduce the user-made kernings into the
+longdesc virtual font for later use in LaTeX.
+containersize 11356
+containerchecksum 9f295c253228745bdd91db65f2e414bc6113d246242ea1717db6659c2ccbf72530fdc326c0ec499f6d6c2af3ec8df2b78965666dd8544e07bce864716804e76b
+doccontainersize 627468
+doccontainerchecksum b471544af9d1ecfd6225e4b9d61f05b4da950a6512ac4c4bab54b1ef9befa859ee5aee2498690e724d84313808d2abc8f005fd4e121891878cd2dbd03ae36415
+srccontainersize 32176
+srccontainerchecksum 8d7c2a8e8881f361c67ff71a57056dbabd3e0af5d24cbbc5f9e7e6e321504482469809f8bf349b5fd4d65e011049d5a67e7570c0b364cfe178b0fe377da82c31
+runfiles size=22
+ texmf-dist/tex/latex/kerntest/kerntest.cls
+ texmf-dist/tex/latex/kerntest/ly1mtx.clo
+ texmf-dist/tex/latex/kerntest/ot1mtx.clo
+ texmf-dist/tex/latex/kerntest/t1cmr-1200.fd
+ texmf-dist/tex/latex/kerntest/t1mtx.clo
+ texmf-dist/tex/latex/kerntest/t2amtx.clo
+ texmf-dist/tex/latex/kerntest/t2bmtx.clo
+ texmf-dist/tex/latex/kerntest/ts1mtx.clo
+catalogue-ctan /macros/latex/contrib/kerntest
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font-devel
+catalogue-version 1.32

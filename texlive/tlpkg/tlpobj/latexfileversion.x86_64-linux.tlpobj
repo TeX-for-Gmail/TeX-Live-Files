@@ -1,0 +1,8 @@
+name latexfileversion.x86_64-linux
+category Package
+revision 25012
+shortdesc x86_64-linux files of latexfileversion
+containersize 344
+containerchecksum fa4ce4e4c60a730e741685db51699749327a23789f92795703e5815dbc4ab4e49664785c5c3c7b1b73b1cbadc21c9b9e64d9f605d257abc8083cf9c0dda53d3f
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/latexfileversion

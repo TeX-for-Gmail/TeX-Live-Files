@@ -1,0 +1,15 @@
+name zxjafbfont
+category Package
+revision 28539
+shortdesc Fallback CJK font support for xeCJK
+containersize 1052
+containerchecksum 357b100dac7061a5e6fe91e3a708f32e99a134158393581bc717ae3e90afa5dbbff7aa1bae8c092638bca2d5c3ab65d8a8cbc39c20c3ec1ff85c967fb3849513
+doccontainersize 1708
+doccontainerchecksum 215079eeb772dc4ea55d5e00945a757c877acf9ea56aebe5a8969564a3836f54ca406d502d73e93d92b131600fc77bd2342d36fa78300adc0b4d1dd7f5d0f423
+runfiles size=1
+ texmf-dist/tex/latex/zxjafbfont/zxjafbfont.sty
+catalogue-ctan /language/japanese/zxjafbfont
+catalogue-date 2016-12-18 08:34:28 +0100
+catalogue-license mit
+catalogue-topics font-supp chinese japanese korean xetex
+catalogue-version 0.2

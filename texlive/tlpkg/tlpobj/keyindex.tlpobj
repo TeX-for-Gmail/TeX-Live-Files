@@ -1,0 +1,25 @@
+name keyindex
+category Package
+revision 50828
+shortdesc Index entries by key lookup
+longdesc The package provides functionality for producing an index
+longdesc without directly entering index entries into the text using the
+longdesc \index command, but instead by looking up short keys and
+longdesc printing a predefined string in the main text and adding a
+longdesc corresponding index entry. The standard use case is the
+longdesc production of an index of names.
+containersize 1388
+containerchecksum 93de5becfa1b4950f518bc004f0dbdfe96f567e17ec4b7656326b89201f1f85edcbdaa771dc8568fc0c87bcbd8877b618d0d00ce387ca70036f6794a8b870695
+doccontainersize 146072
+doccontainerchecksum 4be79367bed5a7bc3f5bfd6c10f7ba6a4c87ed51139e8f8a7f55c59ae3ce6c1aa10df1c88728f7dbb4573634bba2ee599378755cf6c77a2ccf8d93ece5540736
+srccontainersize 3464
+srccontainerchecksum 3f177cf8d323fa6dc0b47742a27cada66cc505777a20c26864dcee73c272e46ba3867c4120f480be8ce5afcfc6896d908eae0f336cf306a13019bd0f0206f9dd
+runfiles size=1
+ texmf-dist/tex/latex/keyindex/keyindex.sty
+catalogue-contact-bugs https://github.com/rzach/keyindex/issues
+catalogue-contact-repository https://github.com/rzach/keyindex
+catalogue-ctan /macros/latex/contrib/keyindex
+catalogue-date 2019-04-06 05:43:19 +0200
+catalogue-license lppl1.3c
+catalogue-topics index
+catalogue-version 1.0

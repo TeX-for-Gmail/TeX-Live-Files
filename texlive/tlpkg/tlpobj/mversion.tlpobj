@@ -1,0 +1,23 @@
+name mversion
+category Package
+revision 29370
+shortdesc Keeping track of document versions
+longdesc The package enables the user to keep track of different
+longdesc versions of a LaTeX document. The command \version prints the
+longdesc version and build numbers; each time you compile your document,
+longdesc the build number is increased by one. By placing \version in
+longdesc the header or footer, each page can be marked with the unique
+longdesc build number describing the progress of your document.
+containersize 1288
+containerchecksum 3031b6aa9408bfb0994ff23c36f6b3f770aa8beac0e94bfe1361dc2ec6ac47859a996ddea9f5283833e5711d0308ebfe5aae91bc0ab564c6e83056d7394f14f5
+doccontainersize 153968
+doccontainerchecksum bf7639f024b214c2b8b73cbe4f87848f390d106f46afff6f6a1257d80b37a6b7b02d8d9224580d945b93b3f86a43495d00c5c07d22e8428703036dc43273ad41
+srccontainersize 3072
+srccontainerchecksum 22ea633c451f88302061c2d3427ed52e561bf31bde30456e632f3abbca918a329c40e239ecf0a2f2b219a23da063101ebc9a23ea5fa355e479ee28a9404d50b7
+runfiles size=1
+ texmf-dist/tex/latex/mversion/mVersion.sty
+catalogue-ctan /macros/latex/contrib/mversion
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics doc-mgmt doc-tool
+catalogue-version 1.0.1

@@ -1,0 +1,27 @@
+name texdirflatten
+category Package
+revision 44751
+shortdesc Collect files related to a LaTeX job in a single directory
+longdesc The Perl script parses a LaTeX file recursively, scanning all
+longdesc child files, and collects details of any included and other
+longdesc data files. These component files, are then all put into a
+longdesc single directory (thus "flattening" the document's directory
+longdesc tree).
+depend texdirflatten.ARCH
+containersize 4848
+containerchecksum e4f03e9a434e1ab8ea1b69ca0ed2dffe1f8cdb2c853a733e275bee74ed4b17b84b72cd8cc7d1820f595e1c2282a38b9bfc7f7b7a9e003fdace6488390a1b97ba
+doccontainersize 11016
+doccontainerchecksum 972fc69b705b2f6289358199cedc91ec386da9212048f7f7a84e43eeadc943f7f42ade8d7faa9f58d1685d2bb10408e274b2461032927042371feb86b4ef6b43
+runfiles size=3
+ texmf-dist/scripts/texdirflatten/texdirflatten
+catalogue-contact-announce https://github.com/cengique/texdirflatten
+catalogue-contact-bugs https://github.com/cengique/texdirflatten/issues
+catalogue-contact-development https://github.com/cengique/texdirflatten
+catalogue-contact-home https://github.com/cengique/texdirflatten
+catalogue-contact-repository https://github.com/cengique/texdirflatten
+catalogue-contact-support https://github.com/cengique/texdirflatten
+catalogue-ctan /support/texdirflatten
+catalogue-date 2017-07-03 23:22:32 +0200
+catalogue-license artistic
+catalogue-topics file-mgmt
+catalogue-version 1.3

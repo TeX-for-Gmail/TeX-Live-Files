@@ -1,0 +1,28 @@
+name mathpartir
+category Package
+revision 39864
+shortdesc Typesetting sequences of math formulas, e.g. type inference rules
+longdesc The package provides macros for typesetting math formulas in
+longdesc mixed horizontal and vertical mode, automatically as best fit.
+longdesc It provides an environment mathpar that behaves much as a loose
+longdesc centered paragraph where words are math formulas, and spaces
+longdesc between them are larger and adjustable. It also provides a
+longdesc macro \inferrule for typeseting fractions where both the
+longdesc numerator and denominator may be sequences of formulas that
+longdesc will be also typeset in a similar way. It can typically be used
+longdesc for typeseting sets of type inference rules or typing
+longdesc derivations. A macro inferrule for typesetting type inference
+longdesc rules.
+containersize 4608
+containerchecksum 8e1c99db2d64e9c815bf8b6784d1c717969a5ecc96281df2f815ba7c0d779b53484c61ca233468de793be94cf636373f4fc0e3413c0ce32d4715db30cafe5471
+doccontainersize 271876
+doccontainerchecksum fca6b3e2650ada022617af137dc86858c83c51c55fcadf2ff21832a1fcd9fc44f371f89e8943c5e1d117a09893c3587f15a3e8021b11f7472dd3c9d37383f8a0
+srccontainersize 11552
+srccontainerchecksum f5c5b328745494965d1907f6dc187859a5f9bda5a8beda164e7317dc1b8a6e886073f9d2e9b564c6aa56d55e7cb7191afeea38edc059b2dd55066e68ff826dd8
+runfiles size=4
+ texmf-dist/tex/latex/mathpartir/mathpartir.sty
+catalogue-ctan /macros/latex/contrib/mathpartir
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license gpl2
+catalogue-topics maths
+catalogue-version 1.3.2

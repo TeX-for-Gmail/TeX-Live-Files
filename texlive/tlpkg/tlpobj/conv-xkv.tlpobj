@@ -1,0 +1,21 @@
+name conv-xkv
+category Package
+revision 43558
+shortdesc Create new key-value syntax
+longdesc This small package supports key-value syntax other than the
+longdesc standard LaTeX syntax of <key>=<value>. Using this package,
+longdesc create key-values of the form <key>:<value> or <key>-><value>,
+longdesc for example. The package converts the new notation to xkeyval
+longdesc notation and passes it on to xkeyval.
+containersize 2408
+containerchecksum 7bbbcfd71a32704f2383289d91fcc1b5993aa9e184f5d974f6dd5592312e85848a926ad9e6f412bef801daa20cc2b9c999ba137b9b24e31facfd6931309630df
+doccontainersize 79532
+doccontainerchecksum c1c923008185db09b3e7cfd90bfd9b33ca2a61ccc706b0f9cefb238e0860120da517fdc7166e4fe476a1cc02cb4a7a3fe4c9b81c87c8de25ddd1c0c417dcfca3
+srccontainersize 5336
+srccontainerchecksum edd5feac4453010dd996edbb3741339904b0380c021f9429933f6b27df6d9c002d593d617467043ae6087de3c5842fb7a4e8ccfcc95c7763e124ab5f5c9dc024
+runfiles size=2
+ texmf-dist/tex/latex/conv-xkv/conv-xkv.sty
+catalogue-ctan /macros/latex/contrib/conv-xkv
+catalogue-date 2017-03-20 15:11:14 +0100
+catalogue-license lppl1.2
+catalogue-topics macro-supp

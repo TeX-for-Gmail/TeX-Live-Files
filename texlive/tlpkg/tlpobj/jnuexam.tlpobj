@@ -1,0 +1,18 @@
+name jnuexam
+category Package
+revision 49212
+shortdesc Exam class for Jinan University
+longdesc The package provides an exam class for Jinan University
+longdesc (China).
+containersize 6396
+containerchecksum 2dc1aca90383740ae471a096c82e99b613841305f55d960b861cb3c3c1ae920caf8386adc56f6f0f5908b412c399a12fe69648820525ee0ec5edaf6cb7e46c48
+doccontainersize 629748
+doccontainerchecksum 0a87e1920d853a08516ec039f4f87f7c2d9bcf28a0e8e1153c6748f9fc067a9fbf1d168e7f96d4dab59961d288d514790d79e31da7a117378055252f8cf9531f
+runfiles size=5
+ texmf-dist/tex/latex/jnuexam/jnuexam.cls
+catalogue-contact-home https://lvjr.bitbucket.io/jnuexam.html
+catalogue-ctan /macros/latex/contrib/jnuexam
+catalogue-date 2018-11-21 15:54:53 +0100
+catalogue-license lppl1.3
+catalogue-topics exam class chinese
+catalogue-version 0.5

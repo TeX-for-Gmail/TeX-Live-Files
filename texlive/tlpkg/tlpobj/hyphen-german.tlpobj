@@ -1,0 +1,50 @@
+name hyphen-german
+category TLCore
+revision 50792
+catalogue dehyph
+shortdesc German hyphenation patterns.
+longdesc Hyphenation patterns for German in T1/EC and UTF-8 encodings,
+longdesc for traditional and reformed spelling, including Swiss German.
+longdesc The package includes the latest patterns from dehyph-exptl
+longdesc (known to TeX under names 'german', 'ngerman' and
+longdesc 'swissgerman'), however 8-bit engines still load old versions
+longdesc of patterns for 'german' and 'ngerman' for
+longdesc backward-compatibility reasons. Swiss German patterns are
+longdesc suitable for Swiss Standard German (Hochdeutsch) not the
+longdesc Alemannic dialects spoken in Switzerland (Schwyzerduetsch).
+longdesc There are no known patterns for written Schwyzerduetsch.
+depend hyphen-base
+depend hyph-utf8
+depend dehyph
+execute AddHyphen 	name=german 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-de-1901.tex 	file_patterns=hyph-de-1901.pat.txt 	file_exceptions=
+execute AddHyphen 	name=ngerman 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-de-1996.tex 	file_patterns=hyph-de-1996.pat.txt 	file_exceptions=
+execute AddHyphen 	name=swissgerman 	lefthyphenmin=2 	righthyphenmin=2 	file=loadhyph-de-ch-1901.tex 	file_patterns=hyph-de-ch-1901.pat.txt 	file_exceptions=
+containersize 149628
+containerchecksum a5f6bfae4ade2e84ee1c94b8a584bc58c2f0c369d13fb875fd476fce0b88e678a26803599983cd6b9d94bead1b0d9849f83a7c1744e8e2fbfe1fc72918c78cc7
+runfiles size=412
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1901.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-1996.tex
+ texmf-dist/tex/generic/hyph-utf8/loadhyph/loadhyph-de-ch-1901.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-de-1901.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-de-1996.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/ptex/hyph-de-ch-1901.ec.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1901.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-1996.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/tex/hyph-de-ch-1901.tex
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1901.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1901.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1901.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1901.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1996.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1996.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1996.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-1996.pat.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-ch-1901.chr.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-ch-1901.hyp.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-ch-1901.lic.txt
+ texmf-dist/tex/generic/hyph-utf8/patterns/txt/hyph-de-ch-1901.pat.txt
+catalogue-alias ghyphen gnhyph
+catalogue-ctan /language/hyphenation/dehyph
+catalogue-date 2018-09-01 15:39:22 +0200
+catalogue-license lppl1
+catalogue-topics german hyphenation

@@ -1,0 +1,23 @@
+name komacv
+category Package
+revision 43902
+shortdesc Typesetting a beautiful CV with various style options
+longdesc The class simplifies the creation of beautiful CV. The user may
+longdesc choose between different styles, and may adjust settings to
+longdesc tune the output.
+containersize 7016
+containerchecksum 007ff84d143bf46d2c5d0772111e26a459be663ab40c785a8dbc8b787202f4ccff15060fa7d52cb547348ae1b128a9f66256259c2f72775d4278ae0f4e04c0bb
+doccontainersize 539504
+doccontainerchecksum 58548f1dc27a80a65a275140bef757329a49255353eb09c0c41e7824985603799620b696fcb4af454d85e90b61a6bdc6965cd0f3f2f603674064be502674cec4
+srccontainersize 17812
+srccontainerchecksum eacfb8e12e043f30daf41c3ce7b4a72bf46170a1c5f9be5accc5c8b414a2a8a69b3460d26832806eca69c3285d0ff87014e50a411f8bf6ea1d7d82fec250ba9e
+runfiles size=11
+ texmf-dist/tex/latex/komacv/komacv-casual.sty
+ texmf-dist/tex/latex/komacv/komacv-classic.sty
+ texmf-dist/tex/latex/komacv/komacv-oldstyle.sty
+ texmf-dist/tex/latex/komacv/komacv.cls
+catalogue-ctan /macros/latex/contrib/komacv
+catalogue-date 2017-04-17 20:41:03 +0200
+catalogue-license lppl1.3
+catalogue-topics cv class
+catalogue-version 1.1.1

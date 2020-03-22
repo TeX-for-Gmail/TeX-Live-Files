@@ -1,0 +1,16 @@
+name pseudocode
+category Package
+revision 15878
+shortdesc LaTeX environment for specifying algorithms in a natural way
+longdesc This package provides the environment "pseudocode" for
+longdesc describing algorithms in a natural manner.
+containersize 2436
+containerchecksum 28acc4dc69e5f4e181230f06dda363618146d30a3f7c6be0d11b258980bfed5636606dd808c1deaa627d04c526496152fdb2ddf56866b63a4c4313de423493a5
+doccontainersize 134000
+doccontainerchecksum b11d8ae45d5a4564dbaa2669db7b5cd4f9b87bc9efda3da47ce652245b140cec1b2c569f38fd1ae175215ff422cd2df3919bf27126c9d9d661dc4a147963bcb0
+runfiles size=2
+ texmf-dist/tex/latex/pseudocode/pseudocode.sty
+catalogue-ctan /macros/latex/contrib/pseudocode
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics pseudocode

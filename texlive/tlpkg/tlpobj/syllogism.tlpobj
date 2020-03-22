@@ -1,0 +1,18 @@
+name syllogism
+category Package
+revision 15878
+shortdesc Typeset syllogisms in LaTeX
+longdesc The package provides a simple, configurable, way for neatly
+longdesc typesetting syllogisms and syllogistic-like arguments, composed
+longdesc of two premises and a conclusion.
+containersize 2728
+containerchecksum 6f74e300794afa114da0f498bf70a389500bd2346bd0bd3d9ecf0f30d6167bfc9ea094024039775c649f5feeaa4b62384072ff26fc0c0fb426634912f440999a
+doccontainersize 310384
+doccontainerchecksum 1d2f3cfb453a4964b0e64a486a7c466731fec93e3a4210b216ebe9bc311923f055bbb903c26b5177c34a16a343e5f4e1a0643c7f6bf635dc0762182185f6e362
+runfiles size=3
+ texmf-dist/tex/latex/syllogism/syllogism.sty
+catalogue-ctan /macros/latex/contrib/syllogism
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics logic
+catalogue-version 1.2

@@ -1,0 +1,22 @@
+name onlyamsmath
+category Package
+revision 42927
+shortdesc Inhibit use of non-amsmath mathematics markup when using amsmath
+longdesc This package inhibits the usage of plain TeX and (on demand) of
+longdesc standard LaTeX mathematics environments. This is useful for
+longdesc class writers who want to encourage their users to use the
+longdesc environments provided by the amsmath package.
+containersize 1412
+containerchecksum 5452647ee6eb939c292457ee26cb3639560eb55893e44ebbbeaf27ef1c2ed30346d91d733422e65f6780af7c434cf02ac740d722612f888fca8dc45538d81303
+doccontainersize 215088
+doccontainerchecksum 154273f8589b0d8bfa0ed46cfb297d44000eaa750e8d34b1a7aad9f7b26cb19423d7f7ba362e3739cb7d22b2aa077fa44e59d9c46a52db5a82a57659e86a6dcf
+srccontainersize 3920
+srccontainerchecksum 2a3568cde9264ed3f074ad47fb5afa22f4c4835c7e0eb53699f691bf4c52b829c31724e56b9bbc84bffab76d425d9fb72b2bbb49ce14ff7cff0d57f538218783
+runfiles size=1
+ texmf-dist/tex/latex/onlyamsmath/onlyamsmath.sty
+catalogue-also nag
+catalogue-ctan /macros/latex/contrib/onlyamsmath
+catalogue-date 2017-01-10 23:29:26 +0100
+catalogue-license lppl
+catalogue-topics maths latex-qual
+catalogue-version 0.20

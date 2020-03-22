@@ -1,0 +1,21 @@
+name gchords
+category Package
+revision 29803
+shortdesc Typeset guitar chords
+longdesc A LaTeX package for typesetting of guitar chord diagrams,
+longdesc including options for chord names, finger numbers and
+longdesc typesetting above lyrics. The bundle also includes a TCL script
+longdesc (chordbox.tcl) that provides a graphical application which
+longdesc creates LaTeX files that use gchords.sty.
+containersize 3360
+containerchecksum 7fd655af5446982b450e3eec2b8966f2fc17c11686bb75f516ce0043af651b90e4f88c9cfac133929fbb686fe3f7be6de64d89bda6822f218b691791c9207950
+doccontainersize 50180
+doccontainerchecksum 26818218c9e3142f4bba491e996556b28266953c6b84f1c3de58d60b1bf100d15513fd2898507cf43226eec127942dede647784060668d86bcb22e3fdaee96cd
+runfiles size=3
+ texmf-dist/tex/latex/gchords/gchords.sty
+catalogue-contact-home http://kasper.phi-sci.com/gchords/
+catalogue-ctan /graphics/gchords
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license gpl
+catalogue-topics music
+catalogue-version 1.20

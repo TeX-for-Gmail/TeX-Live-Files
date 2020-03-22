@@ -1,0 +1,24 @@
+name fileinfo
+category Package
+revision 28421
+shortdesc Enhanced display of LaTeX File Information
+longdesc The bundle provides two packages, readprov and myfilist. The
+longdesc readprov package provides a means of reading file information
+longdesc without loading the body of the file. The myfilist package uses
+longdesc readprov and controls what \listfiles will report.
+containersize 6896
+containerchecksum 2e5914e32af48db731aa83c3e51e6d9128dc969891bce21e1e2f859cab79130c9f5caa0f591765fa8a9b48c38eed8d19305f4be598430ab1e2cb3276b6faf191
+doccontainersize 913660
+doccontainerchecksum 03b4ecbd21ec39d98949f2e8ece7e48bd539a75051350d1a9ea19e3d32ecd620c0f1a5dc454e626237534114d0430e2ad7c175e9c1b27ba15c78a35aeca3e3b9
+srccontainersize 4496
+srccontainerchecksum 6875ecef667da4476def344901db38f38e988d2345c2afff42fb812c01c356df8bf1dd3c8c9a563a883fcb9e22e85b8813bbf50905d711004a439767ac0f7227
+runfiles size=7
+ texmf-dist/tex/latex/fileinfo/fileinfo.RLS
+ texmf-dist/tex/latex/fileinfo/myfilist.sty
+ texmf-dist/tex/latex/fileinfo/readprov.sty
+catalogue-contact-support http://www.webdesign-bu.de/uwe_lueck/contact.html
+catalogue-ctan /macros/latex/contrib/fileinfo
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license lppl1.3
+catalogue-topics doc-mgmt
+catalogue-version 0.81a

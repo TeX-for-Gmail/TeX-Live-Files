@@ -1,0 +1,77 @@
+name texsis
+category Package
+revision 45678
+shortdesc Plain TeX macros for Physicists
+longdesc TeXsis is a TeX macro package which provides useful features
+longdesc for typesetting research papers and related documents. For
+longdesc example, it includes support specifically for: Automatic
+longdesc numbering of equations, figures, tables and references;
+longdesc Simplified control of type sizes, line spacing, footnotes,
+longdesc running headlines and footlines, and tables of contents,
+longdesc figures and tables; Specialized document formats for research
+longdesc papers, preprints and "e-prints", conference proceedings,
+longdesc theses, books, referee reports, letters, and memoranda;
+longdesc Simplified means of constructing an index for a book or thesis;
+longdesc Easy to use double column formatting; Specialized environments
+longdesc for lists, theorems and proofs, centered or non-justified text,
+longdesc and listing computer code; Specialized macros for easily
+longdesc constructing ruled tables. TeXsis was originally developed for
+longdesc physicists, but others may also find it useful. It is
+longdesc completely compatible with Plain TeX.
+depend tex
+depend cm
+depend hyphen-base
+depend knuth-lib
+depend plain
+depend texsis.ARCH
+execute AddFormat name=texsis engine=pdftex           options="-translate-file=cp227.tcx texsis.ini"           fmttriggers=cm,hyphen-base,knuth-lib,plain
+containersize 111124
+containerchecksum 7309726b33eadf8290e596aab50bb1af95600a067338b352c1ac092643a8c6d4142180d0146abbbb828a38fb08fdd9ae03da6572e6c221afcd151a51430a423e
+doccontainersize 130016
+doccontainerchecksum 2a4979a10514ccd589b331ff34a677a4e22adbeea73d6112c9a14392b3ee75a8cdb292b008b160792b3d00b812834afa7e0211db860c41f1beb69bbc900fdb90
+runfiles size=142
+ texmf-dist/bibtex/bst/texsis/texsis.bst
+ texmf-dist/tex/texsis/base/AIP.txs
+ texmf-dist/tex/texsis/base/CVformat.txs
+ texmf-dist/tex/texsis/base/Elsevier.txs
+ texmf-dist/tex/texsis/base/Exam.txs
+ texmf-dist/tex/texsis/base/Formletr.txs
+ texmf-dist/tex/texsis/base/IEEE.txs
+ texmf-dist/tex/texsis/base/PhysRev.txs
+ texmf-dist/tex/texsis/base/Spanish.txs
+ texmf-dist/tex/texsis/base/Swedish.txs
+ texmf-dist/tex/texsis/base/TXSconts.tex
+ texmf-dist/tex/texsis/base/TXSdcol.tex
+ texmf-dist/tex/texsis/base/TXSenvmt.tex
+ texmf-dist/tex/texsis/base/TXSeqns.tex
+ texmf-dist/tex/texsis/base/TXSfigs.tex
+ texmf-dist/tex/texsis/base/TXSfmts.tex
+ texmf-dist/tex/texsis/base/TXSfonts.tex
+ texmf-dist/tex/texsis/base/TXShead.tex
+ texmf-dist/tex/texsis/base/TXSinit.tex
+ texmf-dist/tex/texsis/base/TXSletr.tex
+ texmf-dist/tex/texsis/base/TXSmacs.tex
+ texmf-dist/tex/texsis/base/TXSmemo.tex
+ texmf-dist/tex/texsis/base/TXSprns.tex
+ texmf-dist/tex/texsis/base/TXSrefs.tex
+ texmf-dist/tex/texsis/base/TXSruled.tex
+ texmf-dist/tex/texsis/base/TXSsects.tex
+ texmf-dist/tex/texsis/base/TXSsite.tex
+ texmf-dist/tex/texsis/base/TXSsymb.tex
+ texmf-dist/tex/texsis/base/TXStags.tex
+ texmf-dist/tex/texsis/base/TXStitle.tex
+ texmf-dist/tex/texsis/base/Tablebod.txs
+ texmf-dist/tex/texsis/base/WorldSci.txs
+ texmf-dist/tex/texsis/base/color.txs
+ texmf-dist/tex/texsis/base/nuclproc.txs
+ texmf-dist/tex/texsis/base/printfont.txs
+ texmf-dist/tex/texsis/base/spine.txs
+ texmf-dist/tex/texsis/base/texsis.tex
+ texmf-dist/tex/texsis/base/thesis.txs
+ texmf-dist/tex/texsis/base/twin.txs
+ texmf-dist/tex/texsis/config/texsis.ini
+catalogue-ctan /macros/texsis
+catalogue-date 2016-10-16 19:36:27 +0200
+catalogue-license lppl
+catalogue-topics physics format
+catalogue-version 2.18

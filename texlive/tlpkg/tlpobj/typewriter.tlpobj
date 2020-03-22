@@ -1,0 +1,25 @@
+name typewriter
+category Package
+revision 46641
+shortdesc Typeset with a randomly variable monospace font
+longdesc The typewriter package uses the OpenType Computer Modern
+longdesc Unicode Typewriter font, together with a LuaTeX virtual font
+longdesc setup that introduces random variability in grey level and
+longdesc angle of each character. It was originally an answer to a
+longdesc question on stackexchange.
+containersize 25272
+containerchecksum f8b9edca6a860f0acf0d676fff381276594f7c13fb13da2e54caf5513a8a65fde378b4c16dc621d89d25d7492318b006d7c5d863c1f96a0a246064c0dad1f2d8
+doccontainersize 101056
+doccontainerchecksum 12376247fd8500e7c147609bf47acab379e36126976ea9f2dc0a352b8b0d779b1cd43bd1394f3961b1a7fa894a8b6448b0369f612d8bbf8d1bec3175e850f89c
+runfiles size=63
+ texmf-dist/tex/lualatex/typewriter/typewriter.sty
+catalogue-also ransom manuscript
+catalogue-contact-bugs https://github.com/davidcarlisle/dpctex/issues
+catalogue-contact-home https://github.com/davidcarlisle/dpctex/
+catalogue-contact-repository https://github.com/davidcarlisle/dpctex/
+catalogue-contact-support https://github.com/davidcarlisle/dpctex/issues
+catalogue-ctan /macros/luatex/latex/typewriter
+catalogue-date 2018-02-14 13:01:28 +0100
+catalogue-license lppl
+catalogue-topics typesetting
+catalogue-version 1.1

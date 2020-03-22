@@ -1,0 +1,25 @@
+name chemsec
+category Package
+revision 46972
+shortdesc Automated creation of numeric entity labels
+longdesc Packages provides creation of sequential numeric labels for
+longdesc entities in a document. The motivating example is chemical
+longdesc structures in a scientific document. The package can
+longdesc automatically output a full object name and label on the first
+longdesc occurence in the document and just labels only on subsequent
+longdesc references.
+containersize 3216
+containerchecksum 7a69ed2535d477063e55541d53f73f5d1972905f63d2298629522dfbfbbc97dba0e9ea4a48ed1667ad7b50e24c4a0f7b6d5dbbf79863c9e79a0b3de522be54c4
+doccontainersize 252160
+doccontainerchecksum 5e132354e874b3ad5a4363cfbcad49e3601380dea8f53e106bb0b5d92fb1aff6facfedbad69444ea362c76473dcc7bd8703beeeda9b69f2501d995da98ef71a2
+srccontainersize 11632
+srccontainerchecksum b81e9807d8a082b1223d4747a3f0ad3eb3dd21d1d145de5c25b8c44a384dcd941eedf7117c794efc6e4af2397997d060d0b80bad1c7f487ae98b0679f5412b2a
+runfiles size=4
+ texmf-dist/tex/latex/chemsec/chemsec.sty
+catalogue-contact-home https://github.com/jfinn24985/chemsec/wiki
+catalogue-contact-repository https://github.com/jfinn24985/chemsec
+catalogue-ctan /macros/latex/contrib/chemsec
+catalogue-date 2018-04-29 07:15:59 +0200
+catalogue-license lppl1.3
+catalogue-topics label-ref
+catalogue-version 1.12a

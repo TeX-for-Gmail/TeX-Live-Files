@@ -1,0 +1,32 @@
+name lettrine
+category Package
+revision 50847
+shortdesc Typeset dropped capitals
+longdesc The lettrine package supports various dropped capitals styles,
+longdesc typically those described in the French typographic books. In
+longdesc particular, it has facilities for the paragraph text's left
+longdesc edge to follow the outline of capitals that have a regular
+longdesc shape (such as "A" and "V").
+containersize 7036
+containerchecksum 6d52341ea517e94128da35dfcfec9344e08a23fd933ef18e1830ce014e6906bd248be4161439cb4d48e1bee64d3b9896cb866a78233c86ce72f87ac5a788e98e
+doccontainersize 372992
+doccontainerchecksum 4f12fa28940188c95a3d707a97b18c7b30803d188bf7c5c46dd74a13589ca15609f47bffc309474c43966c3c2ba0fc6df09db2d85af1385b82ffd0a10e148c59
+srccontainersize 16564
+srccontainerchecksum d77bc694777fe902889aa15ff12396dbc388c73fd89c815a17bd4557a340deb2f1547b357bf270c4cedf7f97edb4f33faffcb65efde9e36978ad5b6c81b76356
+runfiles size=19
+ texmf-dist/tex/latex/lettrine/lettrine-2006-03-17.sty
+ texmf-dist/tex/latex/lettrine/lettrine-2015-08-31.sty
+ texmf-dist/tex/latex/lettrine/lettrine-2018-08-18.sty
+ texmf-dist/tex/latex/lettrine/lettrine.cfg
+ texmf-dist/tex/latex/lettrine/lettrine.sty
+ texmf-dist/tex/latex/lettrine/optfile.cfl
+ texmf-dist/tex/latex/lettrine/pacl.cfl
+ texmf-dist/tex/latex/lettrine/padl.cfl
+ texmf-dist/tex/latex/lettrine/pzc2.cfl
+ texmf-dist/tex/latex/lettrine/pzc3.cfl
+catalogue-contact-home http://daniel.flipo.free.fr/lettrine
+catalogue-ctan /macros/latex/contrib/lettrine
+catalogue-date 2019-04-07 14:25:55 +0200
+catalogue-license lppl1.3c
+catalogue-topics lettrine
+catalogue-version 2.22

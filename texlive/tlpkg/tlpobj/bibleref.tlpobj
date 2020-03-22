@@ -1,0 +1,23 @@
+name bibleref
+category Package
+revision 49699
+shortdesc Format bible citations
+longdesc The bibleref package offers consistent formatting of references
+longdesc to parts of the Christian bible, in a number of well-defined
+longdesc formats. It depends on ifthen, fmtcount, and amsgen.
+containersize 6708
+containerchecksum 0a25a0c4577815d27c02a0af30d1b70eddbb9de696c83333858d698aff9e8ed5e76d6b3278504cb153f284ce8fa23e0748140d7f9cc7fe1e04607825458941e2
+doccontainersize 362560
+doccontainerchecksum 5479f8c951c37d27f6a4115030fc1065b1da5d9ddfc81be2ef6da561adde77f71fc86b49f08958a7b3310256c38b760aaa556b0a275be920f79b5c6e98e97471
+srccontainersize 16416
+srccontainerchecksum b21f2e9e48dc4c1bb690a5ac6faec0664ea691bfab8c347df540f3172aff14cd2aac12fe38aee3a9339c874af158c2f440733bdadd9a0ebe45c5a28a642fe08b
+runfiles size=11
+ texmf-dist/tex/latex/bibleref/bibleref-xidx.sty
+ texmf-dist/tex/latex/bibleref/bibleref.sty
+catalogue-contact-bugs https://framagit.org/maieul/bibleref/issues
+catalogue-contact-repository https://framagit.org/maieul/bibleref/
+catalogue-ctan /macros/latex/contrib/bibleref
+catalogue-date 2019-01-14 15:10:52 +0100
+catalogue-license lppl1.3
+catalogue-topics theology label-ref
+catalogue-version 1.23

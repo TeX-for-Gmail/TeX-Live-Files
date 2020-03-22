@@ -1,0 +1,19 @@
+name kurdishlipsum
+category Package
+revision 47518
+shortdesc A 'lipsum' package for the Kurdish language
+longdesc This package provides lipsum-like facilities for the Kurdish
+longdesc language. The package gives you easy access to the Kurdish
+longdesc poetry and balladry texts of the Diwany Vafaiy, Ahmedy Xani,
+longdesc Naly, Mahwy,.... The package needs to be run under XeLaTeX.
+containersize 34900
+containerchecksum d7160d78d7f0d8d7771740f030cf1c76b57aa9ec2d179887fe4065337e35bef528b522c666eca0974aea6696033678dec5446a9a198fb139f2d2469c8cd47eff
+doccontainersize 55448
+doccontainerchecksum 6af516595f4cc5b090398078977bb37e97a5aa4b28a578c068931eff7d34fa2cac379b53e70c8bcf270c998fa6fbcbe354b56d0299657fcce9a4e076a87b36d9
+runfiles size=38
+ texmf-dist/tex/xelatex/kurdishlipsum/kurdishlipsum.sty
+catalogue-ctan /macros/xetex/latex/kurdishlipsum
+catalogue-date 2018-05-07 04:39:01 +0200
+catalogue-license lppl
+catalogue-topics macro-supp dummy-gen kurdish xetex
+catalogue-version 1.1

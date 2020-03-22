@@ -1,0 +1,23 @@
+name collection-langczechslovak
+category Collection
+revision 32550
+shortdesc Czech/Slovak
+longdesc Support for Czech/Slovak.
+depend collection-basic
+depend collection-latex
+depend babel-czech
+depend babel-slovak
+depend cnbwp
+depend cs
+depend csbulletin
+depend cslatex
+depend csplain
+depend cstex
+depend hyphen-czech
+depend hyphen-slovak
+depend vlna
+depend lshort-czech
+depend lshort-slovak
+depend texlive-cz
+containersize 372
+containerchecksum daee20efa3c125fb5dcf55875eb3a7a3e94553a5f1e185c8fdf35db0ab933abbb2ac2f67da7fa578b1f915d88f3cde764dca098e76b5df73da18dece3e49dc6f

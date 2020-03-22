@@ -1,0 +1,14 @@
+name lshort-ukr
+category Package
+revision 15878
+shortdesc Ukrainian version of the LaTeX introduction
+longdesc Ukrainian version of A Short Introduction to LaTeX2e.
+containersize 396
+containerchecksum 18754d10f48df3ff86d644b772daf7f6530c4e03f0bd3373ccb12df2181aac26b4b5cef6bb673674b576a07fad2f3a13a5fde954a389090622f4d6f5ba9a4bac
+doccontainersize 2085896
+doccontainerchecksum 03b8947d0e1d6e9d331c6ce6d60ae485bfab1b73ed936086a21f26b3d87116de99e535cd42f16561d3b839c84cbd343f8fa3167b1c478d6f8d0df3964d800e56
+catalogue-ctan /info/lshort/ukrainian
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics tut-latex ukrainian
+catalogue-version 4.00

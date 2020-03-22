@@ -1,0 +1,18 @@
+name euxm
+category Package
+revision 45696
+shortdesc extended Euler by DEK
+longdesc Includes two additional characters needed for Concrete Math
+longdesc (ca. 1991).
+containersize 25788
+containerchecksum 93f4eb11247f8576241a57b247dc2dec20405146a0749d54bb8631875256fd262ac06968901a8682f4d530ae68602af366fdc3ceddbf0fd1042ab95f259c3775
+runfiles size=40
+ texmf-dist/fonts/source/public/euxm/eubase.mf
+ texmf-dist/fonts/source/public/euxm/eusmch.mf
+ texmf-dist/fonts/source/public/euxm/euxm10.mf
+ texmf-dist/fonts/source/public/euxm/euxm5.mf
+ texmf-dist/fonts/source/public/euxm/euxm7.mf
+ texmf-dist/fonts/source/public/euxm/euxmch.mf
+ texmf-dist/fonts/tfm/public/euxm/euxm10.tfm
+ texmf-dist/fonts/tfm/public/euxm/euxm5.tfm
+ texmf-dist/fonts/tfm/public/euxm/euxm7.tfm

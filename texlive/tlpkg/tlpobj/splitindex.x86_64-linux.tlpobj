@@ -1,0 +1,8 @@
+name splitindex.x86_64-linux
+category Package
+revision 29688
+shortdesc x86_64-linux files of splitindex
+containersize 344
+containerchecksum 345192d4510da26ff6d9cb2353f892e7111d02d16918d0ebd310ee554d076e35cb96074066fa50baf341c11dc267ff8666e78b9eaa7e86a75e754e68a91a1371
+binfiles arch=x86_64-linux size=1
+ bin/x86_64-linux/splitindex

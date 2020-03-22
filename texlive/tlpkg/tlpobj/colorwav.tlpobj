@@ -1,0 +1,21 @@
+name colorwav
+category Package
+revision 15878
+shortdesc Colours by wavelength of visible light
+longdesc The package allows the user to obtain an RGB value (suitable
+longdesc for use in the color package) from a wavelength of light. The
+longdesc default unit is nanometres, but other units may be used. Note
+longdesc that this function is also available within xcolor.
+containersize 1952
+containerchecksum 618f813c9e009a671069a151bc6d438a42b2c589b255685d91dbbbd162e6a106164d626cd772bdb3e6538a1b010ae178dd7e1519195b6b1fee10ce6e46253b6c
+doccontainersize 98884
+doccontainerchecksum e042c10fcd4d2760383352ace13b2d3600682a01c900220913c79a950fb1597a59a82483429557aa7598e1cd1eea52b73dd23367139fb741ea48ee9c84c4c572
+srccontainersize 4204
+srccontainerchecksum 96ff1933d48bbe938de3635588d9a9c682ac387415d5a7c316e310ed0931e7fa0adf44185d8232d753a1532653b6bb5c0f6c402903bdab654333694f7c293215
+runfiles size=2
+ texmf-dist/tex/latex/colorwav/colorwav.sty
+catalogue-ctan /macros/latex/contrib/colorwav
+catalogue-date 2018-10-09 06:16:19 +0200
+catalogue-license lgpl
+catalogue-topics colour
+catalogue-version 1.0

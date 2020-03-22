@@ -1,0 +1,21 @@
+name pstring
+category Package
+revision 42857
+shortdesc Typeset sequences with justification pointers
+longdesc This package lets you typeset justified sequences, also called
+longdesc pointing strings. It's used for instance, in research papers
+longdesc about Game Semantics to represent sequence of game moves with
+longdesc their associated justification pointers. Depending on wether
+longdesc using LaTeX or pdfLaTeX, the package uses PSTricks and pst-node
+longdesc respectively pgf/TikZ.
+containersize 7384
+containerchecksum d77c937467a9cd16f24fb1374a0d797db04bc301fa8a677712e09d83b58df6fd12aad8857dd83f4d5278d799a0d1d52ef12106e8106921d1ec1453ff6692605f
+doccontainersize 123272
+doccontainerchecksum 51c316c27c3d4083696dd9ee86e378c83ed09c75c632a7f0a580bd84d0033c7776008056a4b26d7835a4974b879c0f2b0389ae83c70cbd6ab093bc8b2add9ed4
+runfiles size=7
+ texmf-dist/tex/latex/pstring/pstring.sty
+catalogue-contact-home http://william.famille-blum.org/software/latex/
+catalogue-ctan /macros/latex/contrib/pstring
+catalogue-date 2018-09-15 13:51:14 +0200
+catalogue-license pd
+catalogue-topics scientific-docs

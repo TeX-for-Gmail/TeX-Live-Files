@@ -1,0 +1,56 @@
+name chemmacros
+category Package
+revision 45164
+shortdesc A collection of macros to support typesetting chemistry documents
+longdesc The bundle offers a collection of macros and commands which are
+longdesc intended to make typesetting chemistry documents faster and
+longdesc more convenient. Coverage includes some nomenclature commands,
+longdesc oxidation numbers, thermodynamic data, newman projections, etc.
+longdesc The package relies on the following supporting packages:
+longdesc chemformula, providing a command for typesetting chemical
+longdesc formulae and reactions (doing a similar task to that of
+longdesc mhchem); chemgreek, offering support for use of greek letters;
+longdesc and ghsystem, providing for the UN globally harmonised chemical
+longdesc notation. The packages are written using current versions of
+longdesc the experimental LaTeX 3 coding conventions and the LaTeX 3
+longdesc support packages.
+containersize 40252
+containerchecksum a35aa46671c8eaa68f7fece41fa87849ee02877f08cd65fbf24db3a0422c569062ba45fce7caa7b6c867a36074a68b3c8c2003fd5c2cfaa4db2638b8210491e4
+doccontainersize 1078412
+doccontainerchecksum 03d84a650e43618375c6dc0d3124e6aed73471c8aa770c348d381e1b5286ffba4b24d4258a2e189fb76c4eb850cd3641e52491c94507754d4a00fc22745b0b22
+runfiles size=106
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.acid-base.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.all.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.base.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.charges.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.chemformula.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.errorcheck.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.greek.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.isotopes.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.lang.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.mechanisms.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.newman.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.nomenclature.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.orbital.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.particles.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.phases.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.polymers.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.reactions.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.redox.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.scheme.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.spectroscopy.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.symbols.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.thermodynamics.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.tikz.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.units.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.module.xfrac.code.tex
+ texmf-dist/tex/latex/chemmacros/chemmacros.sty
+ texmf-dist/tex/latex/chemmacros/chemmacros4.sty
+ texmf-dist/tex/latex/chemmacros/chemmacros5.sty
+catalogue-contact-bugs https://github.com/cgnieder/chemmacros/issues
+catalogue-contact-repository https://github.com/cgnieder/chemmacros/
+catalogue-ctan /macros/latex/contrib/chemmacros
+catalogue-date 2017-08-29 13:01:07 +0200
+catalogue-license lppl1.3
+catalogue-topics chemistry expl3
+catalogue-version 5.8b

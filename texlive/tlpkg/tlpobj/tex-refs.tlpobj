@@ -1,0 +1,19 @@
+name tex-refs
+category Package
+revision 44131
+catalogue tex-references
+shortdesc References for TeX and Friends
+longdesc This is an ongoing project with the aim of providing a help
+longdesc file for LaTeX (and its friends like ConTeXt, MetaPost,
+longdesc Metafont, etc.) using a state-of-the-art source format, aka
+longdesc DocBook/XML.
+containersize 540
+containerchecksum 12ce34f2173ddb5be885b174a6be708fb47822cdd34e05ffcf6f17cb28ccfc32528206c9e73373a6f68a5f3987cb9e244c5093539f14db3a4eab0daf8ff7fbaf
+doccontainersize 423940
+doccontainerchecksum 318f2872f308b2f22d96af2a553d9e13b60e1f6ffc1cbdf44e123fb2ca82423ff8bb7aba524f0e8570b8086ef85833cb11070d7848b3212b87ae0046405c1a5a
+catalogue-contact-home http://www.miwie.org/tex-refs
+catalogue-ctan /info/tex-references
+catalogue-date 2017-04-18 05:31:40 +0200
+catalogue-license other-free
+catalogue-topics documentation
+catalogue-version 0.4.8

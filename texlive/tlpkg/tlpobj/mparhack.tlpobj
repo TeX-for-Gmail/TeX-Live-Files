@@ -1,0 +1,19 @@
+name mparhack
+category Package
+revision 15878
+shortdesc Work around a LaTeX bug in marginpars
+longdesc Works around the LaTeX bug that marginpars will sometimes come
+longdesc out at the wrong margin.
+containersize 2776
+containerchecksum 9f050b6ee0aabefe384f4b78678620b8a15a49f0582cf22caf0e5fc2b1b975eb0bfffbfe91165a121aad6d358044f97be410250597fd31b462630aa1e32ae96a
+doccontainersize 58920
+doccontainerchecksum 0f28a6dce33e14636bf5515bc1395a80f9ced23553698d9db766e023715554fd87df292836c669b8492844c559eefaca4c4598fbee94db425c419dea16e90ca3
+srccontainersize 10616
+srccontainerchecksum 6c90b951bb47450ce9892a84e72c37083438682edb36393895d25d4499f8d5c071c969f830cccc229851a39811fd04593c6b7425a2b0ddcb134b73f7faa2a722
+runfiles size=2
+ texmf-dist/tex/latex/mparhack/mparhack.sty
+catalogue-ctan /macros/latex/contrib/mparhack
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license gpl
+catalogue-topics marginal
+catalogue-version 1.4

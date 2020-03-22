@@ -1,0 +1,21 @@
+name lt3graph
+category Package
+revision 45913
+shortdesc Provide a graph datastructure for experimental LaTeX3
+longdesc The package defines a 'graph' data structure, for use in
+longdesc documents that are using the experimental LaTeX 3 syntax.
+containersize 10864
+containerchecksum 9a3137a56952d18f41337f3ea1412180d6a0d7732178fe4855d23647d01648ddefd57859f786534c5bf39cb622da11e113a028135429ca38e6ea3bcfde41b5ca
+doccontainersize 576392
+doccontainerchecksum efa314f54f3d7444931f4b7410c406fc89c35fc318882683cc97cd479faae00d3aeb58be06c9b174e59bbcc2bae57ff712983ba0c216a270441490866646fcfa
+runfiles size=18
+ texmf-dist/tex/latex/lt3graph/lt3graph-dry.sty
+ texmf-dist/tex/latex/lt3graph/lt3graph-packagedoc.cls
+ texmf-dist/tex/latex/lt3graph/lt3graph.sty
+catalogue-contact-bugs https://github.com/mhelvens/latex-lt3graph/issues
+catalogue-contact-repository https://github.com/mhelvens/latex-lt3graph
+catalogue-ctan /macros/latex/contrib/lt3graph
+catalogue-date 2017-11-26 00:48:38 +0100
+catalogue-license lppl1.3
+catalogue-topics macro-supp expl3
+catalogue-version 0.1.9

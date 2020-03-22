@@ -1,0 +1,21 @@
+name 2up
+category Package
+revision 41578
+catalogue twoup-gen
+shortdesc Macros to print two-up
+longdesc The 2up package offers considerable flexibility as to paper
+longdesc size and layout, and produces a standard dvi file without
+longdesc involving additional dvi or PostScript filters.
+containersize 4192
+containerchecksum b7844f246ef486d68babff92f2f648ef6b2eab28dbf8d22f649b2c9c26fc857b05f475e766a0c9b4c4cb5be1224afc690c22d19865e9efb9f4e75a8ff6d9dda8
+doccontainersize 62740
+doccontainerchecksum c8569e5cec43525d6814816f7fdaa6bc9ce0ea810fd6be60da992c251fcfaaf4c5229a1956c1fc3e6675ea5dfb4529267acc5f198053a80902b69b25a1464b75
+runfiles size=4
+ texmf-dist/tex/generic/2up/2up.sty
+ texmf-dist/tex/generic/2up/2up.tex
+catalogue-also twoupltx
+catalogue-ctan /macros/generic/2up
+catalogue-date 2018-01-06 12:14:59 +0100
+catalogue-license other-free
+catalogue-topics layout
+catalogue-version 1.2

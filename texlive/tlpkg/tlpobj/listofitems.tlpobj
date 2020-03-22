@@ -1,0 +1,29 @@
+name listofitems
+category Package
+revision 50216
+shortdesc Grab items in lists using user-specified sep char
+longdesc This simple package is designed to read a list of items whose
+longdesc parsing character may be selected by the user. Once the list is
+longdesc read, its items are stored in a structure that behaves as a
+longdesc dimensioned array. As such, it becomes very easy to access an
+longdesc item in the list by its number. For example, if the list is
+longdesc stored in the macro \foo, the item #3 is designated by \foo[3].
+longdesc A component may, in turn, be a list with a parsing delimiter
+longdesc different from the parent list, paving the way for nesting and
+longdesc employing a syntax reminiscent of an array of several
+longdesc dimensions of the type \foo[3,2] to access the item #2 of the
+longdesc list contained within the item #3 of the top-tier list.
+containersize 7180
+containerchecksum a9a0aeff26cbfe803360f6953bfb9f33d4be28720ae2df5d66a41840adea3cc79a0e6f9f55ab86fcd6f08f370a2b7b4eba3443ff584dd99d3a1fb93f1e2400eb
+doccontainersize 799052
+doccontainerchecksum b6e4982d744fc11f34cded7da5cc78070809cfb7978b01412917ec6ef18b1fc224528f06a9634d317a2ac25ad192d7242d6b7a0e6093ed62442102b16f67c9b0
+runfiles size=8
+ texmf-dist/tex/generic/listofitems/listofitems.sty
+ texmf-dist/tex/generic/listofitems/listofitems.tex
+catalogue-contact-bugs https://framagit.org/unbonpetit/listofitems/issues
+catalogue-contact-repository https://framagit.org/unbonpetit/listofitems/tree/master
+catalogue-ctan /macros/generic/listofitems
+catalogue-date 2019-03-03 09:06:44 +0100
+catalogue-license lppl1.3c
+catalogue-topics text-manip list
+catalogue-version 1.61

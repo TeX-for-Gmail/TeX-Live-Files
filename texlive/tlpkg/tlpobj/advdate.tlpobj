@@ -1,0 +1,19 @@
+name advdate
+category Package
+revision 20538
+shortdesc Print a date relative to "today"
+longdesc Provides macros which can add a specified number of days to the
+longdesc current date (as specified in \today), to save, set and restore
+longdesc the 'current date' and to print it. Intended use is, for
+longdesc example, in invoices "payable within 14 days from today", etc.
+longdesc The package has only been tested with Czech dates.
+containersize 2228
+containerchecksum 80075aa6efb4125bdce79e9b2ec6951caf1a753c8915201767de230acdd1adc2eef31400574effadf6287be159236422840751bf5ea24cd3cab8a01e82a0185c
+doccontainersize 146672
+doccontainerchecksum acfcbd6a40630da2cf9024cbf3ed378c1f7f8a16c8f8395b69c12f9693e903ba54b9b051c364c5cb4de957876bbd41f0b480c4f4b320e22f2c6df7b08502873a
+runfiles size=2
+ texmf-dist/tex/latex/advdate/advdate.sty
+catalogue-ctan /macros/latex/contrib/advdate
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics date-time

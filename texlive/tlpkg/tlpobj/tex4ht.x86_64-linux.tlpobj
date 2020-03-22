@@ -1,0 +1,19 @@
+name tex4ht.x86_64-linux
+category Package
+revision 50281
+shortdesc x86_64-linux files of tex4ht
+containersize 92376
+containerchecksum 5602a29075bbb567b2695192e73f46f3ec8ea2431541d00074dab7dc8baa2e3bc56a071ebf92bfc77b1cd333e4a07c4ed8744126777d8a6053025e35eb26e2ae
+binfiles arch=x86_64-linux size=73
+ bin/x86_64-linux/ht
+ bin/x86_64-linux/htcontext
+ bin/x86_64-linux/htlatex
+ bin/x86_64-linux/htmex
+ bin/x86_64-linux/httex
+ bin/x86_64-linux/httexi
+ bin/x86_64-linux/htxelatex
+ bin/x86_64-linux/htxetex
+ bin/x86_64-linux/mk4ht
+ bin/x86_64-linux/t4ht
+ bin/x86_64-linux/tex4ht
+ bin/x86_64-linux/xhlatex

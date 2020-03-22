@@ -1,0 +1,57 @@
+name gregoriotex
+category Package
+revision 50357
+shortdesc Engraving Gregorian Chant scores
+longdesc Gregorio is a software application for engraving Gregorian
+longdesc Chant scores on a computer. Gregorio's main job is to convert a
+longdesc gabc file (simple text representation of a score) into a
+longdesc GregorioTeX file, which makes TeX able to create a PDF of your
+longdesc score.
+depend gregoriotex.ARCH
+containersize 9988948
+containerchecksum 1dc3690fbd8224c5ce5cc07adc987567223f4e96c3b0b5402d60a16f70f61b25a59c7524a89d04545ecab423e9e3782ba8f0eaabfc1988789797afff8397bf7a
+doccontainersize 1359216
+doccontainerchecksum 3feb8eeb68bc2a747427272d7004e589f29533dc5735cd941e7eca898965f3d31c6c6a685c9f2f8956e43fc763373ce5525ed443dad2390868213741d1e463b4
+runfiles size=7319
+ texmf-dist/fonts/source/gregoriotex/convertsfdtottf.py
+ texmf-dist/fonts/source/gregoriotex/fonts_README.md
+ texmf-dist/fonts/source/gregoriotex/greciliae-base.sfd
+ texmf-dist/fonts/source/gregoriotex/greextra.sfd
+ texmf-dist/fonts/source/gregoriotex/gregall.sfd
+ texmf-dist/fonts/source/gregoriotex/gresgmodern.sfd
+ texmf-dist/fonts/source/gregoriotex/squarize.py
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae-hole.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae-hollow.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae-op-hole.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae-op-hollow.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae-op.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greciliae.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/greextra.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/gregall.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/grelaon.ttf
+ texmf-dist/fonts/truetype/public/gregoriotex/gresgmodern.ttf
+ texmf-dist/scripts/gregoriotex/uninstall-gtex.sh
+ texmf-dist/tex/lualatex/gregoriotex/gregoriosyms.sty
+ texmf-dist/tex/lualatex/gregoriotex/gregoriotex.sty
+ texmf-dist/tex/luatex/gregoriotex/gregorio-vowels.dat
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-chars.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-common.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-main.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-nabc.lua
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-nabc.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-signs.lua
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-signs.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-spaces.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-syllable.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-symbols.lua
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex-symbols.tex
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex.lua
+ texmf-dist/tex/luatex/gregoriotex/gregoriotex.tex
+ texmf-dist/tex/luatex/gregoriotex/gsp-default.tex
+catalogue-contact-home http://gregorio-project.github.io/
+catalogue-contact-support http://gregorio-project.github.io/contact.html
+catalogue-ctan /support/gregoriotex
+catalogue-date 2019-03-10 23:10:46 +0100
+catalogue-license gpl3
+catalogue-topics music chords
+catalogue-version 5.2.0

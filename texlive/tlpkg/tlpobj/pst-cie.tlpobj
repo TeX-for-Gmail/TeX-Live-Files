@@ -1,0 +1,20 @@
+name pst-cie
+category Package
+revision 49422
+shortdesc CIE color space
+longdesc pst-cie is a PSTricks related package to show the different CIE
+longdesc color spaces: Adobe, CIE, ColorMatch, NTSC, Pal-Secam,
+longdesc ProPhoto, SMPTE, and sRGB.
+containersize 18200
+containerchecksum 4967785a229c9cd316b36357fc94df53e7ebfb216ba5bb222d208a767828aac22184914e2e3744e2726738920dec05f3ed7ab9ce1e30321017f43fa8f52cdce8
+doccontainersize 19771488
+doccontainerchecksum f2554d76fc89d58e4ff61ac5e5635b93775f731e33e384a3113ebcca53c26ae0e4609d1fdfc5f093abb8945bc3f02a77041bce072c29340ff9623a580e0ce352
+runfiles size=26
+ texmf-dist/dvips/pst-cie/pst-cie.pro
+ texmf-dist/tex/generic/pst-cie/pst-cie.tex
+ texmf-dist/tex/latex/pst-cie/pst-cie.sty
+catalogue-ctan /graphics/pstricks/contrib/pst-cie
+catalogue-date 2018-12-16 19:50:20 +0100
+catalogue-license lppl
+catalogue-topics pstricks colour
+catalogue-version 1.06a

@@ -1,0 +1,23 @@
+name rrgtrees
+category Package
+revision 27322
+shortdesc Linguistic tree diagrams for Role and Reference Grammar (RRG) with LaTeX
+longdesc A set of LaTeX macros that makes it easy to produce linguistic
+longdesc tree diagrams suitable for Role and Reference Grammar (RRG).
+longdesc This package allows the construction of trees with crossing
+longdesc lines, as is required by this theory for many languages. There
+longdesc is no known limit on number of tree nodes or levels. Requires
+longdesc the pst-node and pst-tree LaTeX packages.
+containersize 3284
+containerchecksum cf80b48866e36b983527f0646c94fc9776ea799ac475a2c5879a4dcb3b3b0d052e061f871b6eb0a8c0fb1153c0a9f6f0ccfcfb1c6b8f3ff4839c3d454ea3e62c
+doccontainersize 90388
+doccontainerchecksum 71992711c27e741403c5f7cc268e8597e2ea17abe42d953bf0c3caf255c0a8673f6210bb808fc70b741c694778f7cc7a45435afe39939b1377951e8e2343d73e
+srccontainersize 11056
+srccontainerchecksum 8ef5cf9dd617b1f37c57cb70e2aa7b3706d171eaca5e5498fbb3f653f409667a058254fd618681dc2af701d1d9e544d97ebb65c24081ecf1e40cd81f442183af
+runfiles size=3
+ texmf-dist/tex/latex/rrgtrees/rrgtrees.sty
+catalogue-ctan /macros/latex/contrib/rrgtrees
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics tree linguistic
+catalogue-version 1.1

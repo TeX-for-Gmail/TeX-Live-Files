@@ -1,0 +1,30 @@
+name xq
+category Package
+revision 35211
+shortdesc Support for writing about xiangqi
+longdesc The package is for writing about xiangqi or chinese chess. You
+longdesc can write games or parts of games and show diagrams with
+longdesc special positions.
+containersize 44060
+containerchecksum f1fc2f43099e022aaac631d4ccd1e5f5b9a9f23db6f1c6c3adf59d47dca57c25728f81ead0ab62d07b9bea6219e3121874c55973b54e826b1a70c5e4fd47c853
+doccontainersize 210248
+doccontainerchecksum cbef1b95b4db328cc29d5f4fef544459b893cea82838e9e1f2faba00dd8fc78bd12d36931dba4ebe76cbe985879c30b8606df1f2091fc8d2108311350b2ea339
+runfiles size=311
+ texmf-dist/fonts/source/public/xq/xqaddsignsbase.mf
+ texmf-dist/fonts/source/public/xq/xqaddsignslarge.mf
+ texmf-dist/fonts/source/public/xq/xqaddsignsnormal.mf
+ texmf-dist/fonts/source/public/xq/xqbase.mf
+ texmf-dist/fonts/source/public/xq/xqhints.mf
+ texmf-dist/fonts/source/public/xq/xqlarge.mf
+ texmf-dist/fonts/source/public/xq/xqnormal.mf
+ texmf-dist/fonts/source/public/xq/xqwestbase.mf
+ texmf-dist/fonts/source/public/xq/xqwestlarge.mf
+ texmf-dist/fonts/source/public/xq/xqwestnormal.mf
+ texmf-dist/fonts/tfm/public/xq/xqlarge.tfm
+ texmf-dist/fonts/tfm/public/xq/xqnormal.tfm
+ texmf-dist/tex/latex/xq/xq.sty
+catalogue-ctan /fonts/xq
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics games
+catalogue-version 0.4

@@ -1,0 +1,31 @@
+name easyfig
+category Package
+revision 47193
+shortdesc Simplifying the use of common figures
+longdesc The package provides the command \Figure[<key=value>...]{<image
+longdesc filename>} to simplify the business of including an image as
+longdesc figure in the most common form (centred and with caption and
+longdesc label). Caption and label are set using the caption and label
+longdesc keys; the label fig:<image filename> is used if none is given.
+longdesc If the here key is given, the figure is not 'floated', and the
+longdesc user is responsible for placement. The package uses the
+longdesc author's package adjustbox to centre an image and to simplify
+longdesc further modifications. As adjustbox now provides keys to turn
+longdesc images or other material into floats or non-floats, including
+longdesc captions, easyfig has become quite redundant.
+containersize 1948
+containerchecksum 4c84122d2989fa90533ced69f6eb9d2536e6de9fbecb096412b6459bdd45225bbf48a512ffdf4fd3f8ffa8a582b47692661b3f4197fe76f911682582b038bf06
+doccontainersize 175976
+doccontainerchecksum 9544e9d4bb98f78915669d8ed7f314e1de92a0fc5c57b6163a1aa91afa7c97bc0a0726fe57fb1f3b03d981f9d9b320f211316e0d1babeb3d2900f7f49e9a2fdd
+srccontainersize 5228
+srccontainerchecksum 56cb02838c8ba147b56fcae623f86566f9885c67bbc43ab0ff40fae18afa8c9a23674fe4923c8cf4de2b62ab268dab0fe6845fecf2af227c8cce9891e68bd626
+runfiles size=2
+ texmf-dist/tex/latex/easyfig/easyfig.sty
+catalogue-contact-bugs https://bitbucket.org/martin_scharrer/easyfig/issues
+catalogue-contact-home https://bitbucket.org/martin_scharrer/easyfig/
+catalogue-contact-repository https://bitbucket.org/martin_scharrer/easyfig/src
+catalogue-ctan /macros/latex/contrib/easyfig
+catalogue-date 2018-03-30 20:57:32 +0200
+catalogue-license lppl1.3
+catalogue-topics float graphics-use
+catalogue-version 1.2a

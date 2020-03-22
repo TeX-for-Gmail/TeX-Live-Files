@@ -1,0 +1,16 @@
+name amsldoc-vn
+category Package
+revision 21855
+catalogue amslatexdoc-vietnamese
+shortdesc Vietnamese translation of AMSLaTeX documentation
+longdesc This is a Vietnamese translation of amsldoc, the users' guide
+longdesc to amsmath.
+containersize 428
+containerchecksum 5b0c2cc1afcc4060249be20271af92c71c866db47d2551a176b5685c58182a6ca17da9540dd9a7c7abd33de75b0335a625aa921fdbd77329bc91d16718fb346a
+doccontainersize 1169692
+doccontainerchecksum 827c294eb1cedd51a3924796b461ec3d6c858e7875254e0fdb6cb496fecbb6d2ec541e930327c54cc446b15dd69ed795470ae6cbf1cf1e51c0f3ae90f3f6c12f
+catalogue-ctan /info/amslatex/vietnamese
+catalogue-date 2018-10-09 05:54:10 +0200
+catalogue-license lppl1.3
+catalogue-topics vietnamese-doc maths-doc translation
+catalogue-version 2.0

@@ -1,0 +1,23 @@
+name tocloft
+category Package
+revision 45188
+shortdesc Control table of contents, figures, etc
+longdesc Provides control over the typography of the Table of Contents,
+longdesc List of Figures and List of Tables, and the ability to create
+longdesc new 'List of ...'. The ToC \parskip may be changed.
+containersize 6128
+containerchecksum 4630cda5785a75929f6b060a6d9a51168eb8a00476ce2ac4f070de8424df00cca1f7f2fb0d708ccb22b3516f0617977dffdb012b5d360c694c1a98f9495042f3
+doccontainersize 495916
+doccontainerchecksum 4c85d817ed65a7dc96ed5298793836725637f934aaab95ee11bbc6d3c9a3e0b60af8e792bb99fb172c40c83d59f3b06752b1db1fe1c2ee2757c3c3733c6b7f94
+srccontainersize 29168
+srccontainerchecksum 6328bc6635a6e25d3c4408c255252daa8f60c64bf9add32e17b8c50813c8b1149414ace626c9ac1691f90a3e6f4b5d4c29723b5f92960cee884b56365baaa7c2
+runfiles size=9
+ texmf-dist/tex/latex/tocloft/tocloft.sty
+catalogue-also tocbasic
+catalogue-contact-bugs https://github.com/wspr/herries-press/issues
+catalogue-contact-repository https://github.com/wspr/herries-press
+catalogue-ctan /macros/latex/contrib/tocloft
+catalogue-date 2017-08-31 05:31:06 +0200
+catalogue-license lppl1.3c
+catalogue-topics toc-etc
+catalogue-version 2.3i

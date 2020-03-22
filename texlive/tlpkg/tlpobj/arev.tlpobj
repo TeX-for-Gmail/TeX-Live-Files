@@ -1,0 +1,82 @@
+name arev
+category Package
+revision 15878
+shortdesc Fonts and LaTeX support files for Arev Sans
+longdesc The package arev provides type 1 and virtual fonts, together
+longdesc with LaTeX packages for using Arev Sans in both text and
+longdesc mathematics. Arev Sans is a derivative of Bitstream Vera Sans
+longdesc created by Tavmjong Bah, adding support for Greek and Cyrillic
+longdesc characters. Bah also added a few variant letters that are more
+longdesc appropriate for mathematics. The primary purpose for using Arev
+longdesc Sans in LaTeX is presentations, particularly when using a
+longdesc computer projector. In such a context, Arev Sans is quite
+longdesc readable, with large x-height, "open letters", wide spacing,
+longdesc and thick stems. The style is very similar to the SliTeX font
+longdesc lcmss, but heavier. Arev is one of a very small number of
+longdesc sans-font mathematics support packages. Others are cmbright,
+longdesc hvmath and kerkis.
+execute addMap arev.map
+containersize 964648
+containerchecksum 8b6e88a41052740831fdfa03299f665fad9eaa0e45d1d235392aa0b849bd6ca03f1e18892c879d3a5289430a5d236b9544d617ea2c3af62a59b38b4d7ff8ce90
+doccontainersize 524172
+doccontainerchecksum a8dcb8bf0fff3be9c99550623f12651df09b151d6e28bee03d7aa80c7b0eb8c86603b4d8037232e4998bc5603ab3dd368ff7a262b7c7f62f2903338774a9b8aa
+srccontainersize 10100
+srccontainerchecksum 6c92c2f3ef59dcb93207ea90643d11aa8cf81850e2696414f489c40cef97737d00ee4444893669f12d4592c6573a71cb229c232b62f10db38195aabbe83fe523
+runfiles size=392
+ texmf-dist/fonts/afm/public/arev/ArevSans-Bold.afm
+ texmf-dist/fonts/afm/public/arev/ArevSans-BoldOblique.afm
+ texmf-dist/fonts/afm/public/arev/ArevSans-Oblique.afm
+ texmf-dist/fonts/afm/public/arev/ArevSans-Roman.afm
+ texmf-dist/fonts/enc/dvips/arev/arevoml.enc
+ texmf-dist/fonts/enc/dvips/arev/arevoms.enc
+ texmf-dist/fonts/enc/dvips/arev/arevot1.enc
+ texmf-dist/fonts/map/dvips/arev/arev.map
+ texmf-dist/fonts/tfm/public/arev/ArevSans-Bold.tfm
+ texmf-dist/fonts/tfm/public/arev/ArevSans-BoldOblique.tfm
+ texmf-dist/fonts/tfm/public/arev/ArevSans-Oblique.tfm
+ texmf-dist/fonts/tfm/public/arev/ArevSans-Roman.tfm
+ texmf-dist/fonts/tfm/public/arev/favb8r.tfm
+ texmf-dist/fonts/tfm/public/arev/favb8t.tfm
+ texmf-dist/fonts/tfm/public/arev/favbi8r.tfm
+ texmf-dist/fonts/tfm/public/arev/favbi8t.tfm
+ texmf-dist/fonts/tfm/public/arev/favmb7t.tfm
+ texmf-dist/fonts/tfm/public/arev/favmbi7m.tfm
+ texmf-dist/fonts/tfm/public/arev/favmr7t.tfm
+ texmf-dist/fonts/tfm/public/arev/favmr7y.tfm
+ texmf-dist/fonts/tfm/public/arev/favmri7m.tfm
+ texmf-dist/fonts/tfm/public/arev/favr8r.tfm
+ texmf-dist/fonts/tfm/public/arev/favr8t.tfm
+ texmf-dist/fonts/tfm/public/arev/favri8r.tfm
+ texmf-dist/fonts/tfm/public/arev/favri8t.tfm
+ texmf-dist/fonts/tfm/public/arev/zavmb7t.tfm
+ texmf-dist/fonts/tfm/public/arev/zavmbi7m.tfm
+ texmf-dist/fonts/tfm/public/arev/zavmr7t.tfm
+ texmf-dist/fonts/tfm/public/arev/zavmr7y.tfm
+ texmf-dist/fonts/tfm/public/arev/zavmri7m.tfm
+ texmf-dist/fonts/type1/public/arev/ArevSans-Bold.pfb
+ texmf-dist/fonts/type1/public/arev/ArevSans-BoldOblique.pfb
+ texmf-dist/fonts/type1/public/arev/ArevSans-Oblique.pfb
+ texmf-dist/fonts/type1/public/arev/ArevSans-Roman.pfb
+ texmf-dist/fonts/vf/public/arev/favb8t.vf
+ texmf-dist/fonts/vf/public/arev/favbi8t.vf
+ texmf-dist/fonts/vf/public/arev/favr8t.vf
+ texmf-dist/fonts/vf/public/arev/favri8t.vf
+ texmf-dist/fonts/vf/public/arev/zavmb7t.vf
+ texmf-dist/fonts/vf/public/arev/zavmbi7m.vf
+ texmf-dist/fonts/vf/public/arev/zavmr7t.vf
+ texmf-dist/fonts/vf/public/arev/zavmr7y.vf
+ texmf-dist/fonts/vf/public/arev/zavmri7m.vf
+ texmf-dist/tex/latex/arev/ams-mdbch.sty
+ texmf-dist/tex/latex/arev/arev.sty
+ texmf-dist/tex/latex/arev/arevmath.sty
+ texmf-dist/tex/latex/arev/arevsymbols.tex
+ texmf-dist/tex/latex/arev/arevtext.sty
+ texmf-dist/tex/latex/arev/omlzavm.fd
+ texmf-dist/tex/latex/arev/omszavm.fd
+ texmf-dist/tex/latex/arev/ot1zavm.fd
+ texmf-dist/tex/latex/arev/t1fav.fd
+ texmf-dist/tex/latex/arev/uzavm.fd
+catalogue-ctan /fonts/arev
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-sans font-maths

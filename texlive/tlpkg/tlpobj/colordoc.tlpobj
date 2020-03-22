@@ -1,0 +1,24 @@
+name colordoc
+category Package
+revision 18270
+shortdesc Coloured syntax highlights in documentation
+longdesc The package is used in documentation files (that use the doc
+longdesc package); with it the code listings will highlight (for
+longdesc example) pairs of curly braces with matching colors. Other
+longdesc delimiters like \if ... \fi, are highlighted, as are the names
+longdesc of new commands. All this makes code a little more readable,
+longdesc and helps during process of writing. Three options are
+longdesc provided, including a non-color option designed for printing
+longdesc (which numbers delimiters and underlines new commands).
+containersize 2228
+containerchecksum a4d87deccae89f844a6251887e4d20817837fff4eef9cbd2874bef8890d41e0ab930a3ee55fae9ee46685c6b3b2b3324b54ce8507f1cb10eef332b7a480b94a8
+doccontainersize 173692
+doccontainerchecksum a2e5c6699a615651dd31a570ba6524cc7cb3d2f3c8d4b1fe49092dd4c01b40714c1c534f3554fca20fad7c17fdfb7104b699a10677519f57538e239820b6f1e7
+srccontainersize 11304
+srccontainerchecksum 2c42638129705d6e08375298684ff96c867a4deeb1d836ea12f8d6b0ad9f61f6840159ed04b92f2cac4c8d126da3a8e657589635ebd3388b9d457994bbc53a36
+runfiles size=2
+ texmf-dist/tex/latex/colordoc/colordoc.sty
+catalogue-ctan /macros/latex/contrib/colordoc
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1
+catalogue-topics doc-supp

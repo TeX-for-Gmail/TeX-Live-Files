@@ -1,0 +1,23 @@
+name stdpage
+category Package
+revision 15878
+shortdesc Standard pages with n lines of at most m characters each
+longdesc For translations, proofreading, journal contributions etc.
+longdesc standard pages are used. Those standard pages consist of a
+longdesc fixed number of lines and characters per line. This package
+longdesc produces pages with n lines of at most m characters each. For
+longdesc instance the German "Normseite": 60 lines of 30 characters
+longdesc each.
+containersize 2076
+containerchecksum a3835f211b744dd88e0238a01f0a5f960305f7eb92bbd9e3437474971173e66c84cbee1d5ab3f1aa1097a262a258b79085fd0d86884bcf3acc4017e7885968cc
+doccontainersize 102708
+doccontainerchecksum 77510670a49db00b185e6b502d07bd85f9ca18bedeed86277c7d51abb582f40c793c665f2ab87435e90380f7f6f740b64c937d2171531a419ccc59bed197b90f
+srccontainersize 7392
+srccontainerchecksum 2973110831807b73409be0082c5aa281b176dbe7174b736cb9703b0c75ee918d1135fdf0513bca5dc48bb996d0067c9201702b76212eb632073f9b0a17b00d55
+runfiles size=2
+ texmf-dist/tex/latex/stdpage/stdpage.sty
+catalogue-ctan /macros/latex/contrib/stdpage
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.2
+catalogue-topics geometry
+catalogue-version 0.6

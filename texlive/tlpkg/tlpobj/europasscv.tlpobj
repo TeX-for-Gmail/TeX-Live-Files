@@ -1,0 +1,52 @@
+name europasscv
+category Package
+revision 49703
+shortdesc Unofficial class for the new version of the Europass curriculum vitae
+longdesc This class is an unofficial LaTeX implementation of the
+longdesc Europass CV, the standard model for curriculum vitae as
+longdesc recommended by the European Commission. It includes the major
+longdesc style updates that came out in 2013, featuring a neater, more
+longdesc compact and somewhat fancier layout.
+containersize 27944
+containerchecksum b47453280812327a1528e7d2a484e0b92e5464381bda11b715c624bb8fb7a1f57e3df71ccaeba7dbe8b0f757297ad3c4515aed773a44bfe78efbe9f64297e180
+doccontainersize 449528
+doccontainerchecksum e9041765db618541c6aa9a4142b047f4096bc335a9601186a26860d6b594d6b6125c0f5392fb6dae9a296392fb565ba0a8c288155e8d99e12bc12bec0bedf52d
+runfiles size=38
+ texmf-dist/tex/latex/europasscv/address_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/europasscv-bibliography.sty
+ texmf-dist/tex/latex/europasscv/europasscv.cls
+ texmf-dist/tex/latex/europasscv/europasscv_ca.def
+ texmf-dist/tex/latex/europasscv/europasscv_cs.def
+ texmf-dist/tex/latex/europasscv/europasscv_da.def
+ texmf-dist/tex/latex/europasscv/europasscv_de.def
+ texmf-dist/tex/latex/europasscv/europasscv_el.def
+ texmf-dist/tex/latex/europasscv/europasscv_en.def
+ texmf-dist/tex/latex/europasscv/europasscv_es.def
+ texmf-dist/tex/latex/europasscv/europasscv_fr.def
+ texmf-dist/tex/latex/europasscv/europasscv_hu.def
+ texmf-dist/tex/latex/europasscv/europasscv_it.def
+ texmf-dist/tex/latex/europasscv/europasscv_nb.def
+ texmf-dist/tex/latex/europasscv/europasscv_pl.def
+ texmf-dist/tex/latex/europasscv/europasscv_pt.def
+ texmf-dist/tex/latex/europasscv/europasscv_sl.def
+ texmf-dist/tex/latex/europasscv/europasscv_sv.def
+ texmf-dist/tex/latex/europasscv/europasslogo2013.pdf
+ texmf-dist/tex/latex/europasscv/github_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/gitlab_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/im_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/linkedin_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/mail_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/mobile_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/orcid_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/telephone_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/website_europass_icon.pdf
+ texmf-dist/tex/latex/europasscv/work_europass_icon.pdf
+catalogue-also europecv curve currvita cv esieecv vita
+catalogue-contact-announce https://github.com/gmazzamuto/europasscv/releases
+catalogue-contact-bugs https://github.com/gmazzamuto/europasscv/issues
+catalogue-contact-home https://www.devrandom.it/software/europasscv/
+catalogue-contact-repository https://github.com/gmazzamuto/europasscv
+catalogue-ctan /macros/latex/contrib/europasscv
+catalogue-date 2019-01-14 10:30:18 +0100
+catalogue-license lppl1.3
+catalogue-topics cv class

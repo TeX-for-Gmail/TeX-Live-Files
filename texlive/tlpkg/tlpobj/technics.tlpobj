@@ -1,0 +1,19 @@
+name technics
+category Package
+revision 29349
+shortdesc A package to format technical documents
+longdesc The package provides a very simple LaTeX document template, in
+longdesc the hope that this use of LaTeX will become attractive to
+longdesc typical word processor users. (Presentation is as if it were a
+longdesc class; users are expected to start from a template document.)
+containersize 1792
+containerchecksum 8eb9eab801bd83fbf0d9365c36a202f909cbcd49b8da6887f3e26aa3fcd047b8085e0b405f0f5fa7f2b5ea0ef21a9956114ecaa7934e1b46b1abe55583d5e759
+doccontainersize 80880
+doccontainerchecksum 2158bee41c25a1fbbf8c963e3364cf7d08e160aa895f54c77ceeaab7da6963232af61b4c7349d1be7f0aa84097bc7c00cac7748bdb8ba523a899b9e7cf6ed11d
+runfiles size=1
+ texmf-dist/tex/latex/technics/technics.sty
+catalogue-ctan /macros/latex/contrib/technics
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics doc-templ
+catalogue-version 1.0

@@ -1,0 +1,35 @@
+name adfsymbols
+category Package
+revision 19766
+shortdesc SymbolsADF with TeX/LaTeX support
+longdesc The package provides Arkandis foundry's ArrowsADF and
+longdesc BulletsADF fonts in Adobe Type 1 format, together with
+longdesc TeX/LaTeX support files. The fonts are licensed under GPL v2 or
+longdesc later with font exception. (See NOTICE, COPYING, README.) The
+longdesc TeX/LaTeX support is licensed under LPPL. (See README,
+longdesc manifest.txt.)
+execute addMap ArrowsADF.map
+execute addMap BulletsADF.map
+containersize 26876
+containerchecksum 4018557c220a59d27f69d307f397770177213d2df82554dd89f4d19e0f910fa1825188cd1e564281ce8cc245f6e72d287e368be06ce1503dd25a93e67c3ae342
+doccontainersize 383652
+doccontainerchecksum b919a3c1e2e22e35501ed88028498c293fb21442f3d2849ecd420623047bf3ab1286bee7200542b4f863814239a9c4e42ef61c3f7ba745694c7b4a8997c3da8c
+runfiles size=19
+ texmf-dist/fonts/afm/arkandis/adfsymbols/ArrowsADF.afm
+ texmf-dist/fonts/afm/arkandis/adfsymbols/BulletsADF.afm
+ texmf-dist/fonts/enc/dvips/adfsymbols/SymbolsADF.enc
+ texmf-dist/fonts/map/dvips/adfsymbols/ArrowsADF.map
+ texmf-dist/fonts/map/dvips/adfsymbols/BulletsADF.map
+ texmf-dist/fonts/tfm/arkandis/adfsymbols/ArrowsADF.tfm
+ texmf-dist/fonts/tfm/arkandis/adfsymbols/BulletsADF.tfm
+ texmf-dist/fonts/type1/arkandis/adfsymbols/ArrowsADF.pfb
+ texmf-dist/fonts/type1/arkandis/adfsymbols/BulletsADF.pfb
+ texmf-dist/tex/latex/adfsymbols/adfarrows.sty
+ texmf-dist/tex/latex/adfsymbols/adfbullets.sty
+ texmf-dist/tex/latex/adfsymbols/uarrowsadf.fd
+ texmf-dist/tex/latex/adfsymbols/ubulletsadf.fd
+catalogue-ctan /fonts/adfsymbols
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl
+catalogue-topics font font-symbol font-type1
+catalogue-version 1.001

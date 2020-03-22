@@ -1,0 +1,21 @@
+name datetime2-croatian
+category Package
+revision 36682
+shortdesc Croatian language module for the datetime2 package
+longdesc This module provides the "croatian" style that can be set using
+longdesc \DTMsetstyle provided by datetime2.sty.
+containersize 2584
+containerchecksum 603052fb5cff6ea8fa5b951623efb1fc72aa6583fa1ed560b4c5266ce96cdd209423773ee0d3a592465247343f3fff966d7a9cd9698e02e339d5a1c579591f37
+doccontainersize 83956
+doccontainerchecksum a56060b84fc6d2917fd0cf160f0405104a3413e02456ce91cbd97aebd746b0e91c730d2e2e4bbbb46f39521b5c6cbc45558bb4327c7260719ce21e8226fe5910
+srccontainersize 4940
+srccontainerchecksum 5eca1a663801a65b79e0cc069bfa8840e04e08e589445713ea0646f104f5acba51d6f925d2d4ea1c36a83b8f4e095693767a3ca71a33af1015fff5f396c51bc4
+runfiles size=4
+ texmf-dist/tex/latex/datetime2-croatian/datetime2-croatian-ascii.ldf
+ texmf-dist/tex/latex/datetime2-croatian/datetime2-croatian-utf8.ldf
+ texmf-dist/tex/latex/datetime2-croatian/datetime2-croatian.ldf
+catalogue-ctan /macros/latex/contrib/datetime2-contrib/datetime2-croatian
+catalogue-date 2018-01-07 11:22:54 +0100
+catalogue-license lppl1.3
+catalogue-topics date-time multilingual
+catalogue-version 1.0

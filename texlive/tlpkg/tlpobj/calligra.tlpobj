@@ -1,0 +1,21 @@
+name calligra
+category Package
+revision 15878
+shortdesc Calligraphic font
+longdesc A calligraphic font in the handwriting style of the author,
+longdesc Peter Vanroose. The font is supplied as Metafont source. LaTeX
+longdesc support of the font is provided in the calligra package in the
+longdesc fundus bundle.
+containersize 42412
+containerchecksum 9479d6b5ab33b12acae5cb3858c218dc4a1e1901c4006dca5160778798813d333b2e9e615eeb29e01007084d8479c58573f88ad5e282dfc06f3f5a9820df482c
+doccontainersize 77272
+doccontainerchecksum 05e7b61864f483f0fc50d4680d80a395282a5c7f36b7ccaebb70e1c24cb5a101c4ee5accfec8d12c7fac0e7a32851dc15906267b93e6d75094b7ac646826dead
+runfiles size=76
+ texmf-dist/fonts/source/public/calligra/callig15.mf
+ texmf-dist/fonts/source/public/calligra/calligra.mf
+ texmf-dist/fonts/tfm/public/calligra/callig15.tfm
+catalogue-also calligra-type1
+catalogue-ctan /fonts/calligra
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license other-free
+catalogue-topics font font-calligraphic font-mf

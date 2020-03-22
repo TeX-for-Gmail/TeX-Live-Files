@@ -1,0 +1,20 @@
+name fundus-sueterlin
+category Package
+revision 26030
+shortdesc Sutterlin
+longdesc The package supports use, in LaTeX, of the Metafont emulation
+longdesc of the Sueterlin handwriting fonts The package is distributed
+longdesc as part of the fundus bundle..
+containersize 1556
+containerchecksum b15a1fa2ee3272f25a616234a335d0bd5c8ac810724ecf453e172d2b68293b55f01f3e57acf81c17721cd3f489b35cde077d5456b78afacc589853224f1bce94
+doccontainersize 180884
+doccontainerchecksum 7162188682c9129e1788104fe94aae2a70607e276eeec4367ae60ff9e50d26aa88a73998028b99ee42627aa27e8868ed2fe72063db2e033798b09ff0b7a13477
+srccontainersize 3576
+srccontainerchecksum 59f5e1e7f338445d3e8430c5c7cf69de9499a659ad5f32566c26166bc2997eab82964919c50aa15311d19c80a14a1a7bc4380e985f382d4ee89c387faef38b37
+runfiles size=1
+ texmf-dist/tex/latex/fundus-sueterlin/suetterl.sty
+catalogue-ctan /macros/latex/contrib/fundus/suetterl
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license lppl1.3
+catalogue-topics font-supp
+catalogue-version 1.2

@@ -1,0 +1,33 @@
+name chess
+category Package
+revision 20582
+shortdesc Fonts for typesetting chess boards
+longdesc The original (and now somewhat dated) TeX chess font package.
+longdesc Potential users should consider skak (for alternative fonts,
+longdesc and notation support), texmate (for alternative notation
+longdesc support), or chessfss (for flexible font choices).
+containersize 10984
+containerchecksum 236e195febc213825fbb5569d8eddd1967fbce1c6e9d550a1c52729be43674e063161adcd5dcb1f6293d9ecf8809518d40064fee08ab64ffe444affe3282224b
+doccontainersize 44696
+doccontainerchecksum 95d3b598f63231abb6cdccddc970d6ccb29bec7e9fa29efcf1391bca70b610e9c0bc65754061a4b955548a854bcbbdd8cdf05f8f93fe52bea400b7c281ccc0da
+runfiles size=21
+ texmf-dist/fonts/source/public/chess/README.mf
+ texmf-dist/fonts/source/public/chess/chess10.mf
+ texmf-dist/fonts/source/public/chess/chess20.mf
+ texmf-dist/fonts/source/public/chess/chess30.mf
+ texmf-dist/fonts/source/public/chess/chessbase.mf
+ texmf-dist/fonts/source/public/chess/chessdiag.mf
+ texmf-dist/fonts/source/public/chess/chessf10.mf
+ texmf-dist/fonts/source/public/chess/chesspieces.mf
+ texmf-dist/fonts/source/public/chess/empty.mf
+ texmf-dist/fonts/tfm/public/chess/chess10.tfm
+ texmf-dist/fonts/tfm/public/chess/chess20.tfm
+ texmf-dist/fonts/tfm/public/chess/chess30.tfm
+ texmf-dist/fonts/tfm/public/chess/chessf10.tfm
+ texmf-dist/fonts/tfm/public/chess/chessfig10.tfm
+ texmf-dist/tex/latex/chess/chess.sty
+catalogue-ctan /fonts/chess/chess
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license pd
+catalogue-topics font font-chess games
+catalogue-version 1.2

@@ -1,0 +1,18 @@
+name lualatex-doc-de
+category Package
+revision 30474
+shortdesc Guide to LuaLaTeX (German translation)
+longdesc The document is a German translation of the map/guide to the
+longdesc world of LuaLaTeX. Coverage supports both new users and package
+longdesc developers. Apart from the introductory material, the document
+longdesc gathers information from several sources, and offers links to
+longdesc others.
+containersize 536
+containerchecksum c1bf1c7f367e5d15cb1a5ba0878a4f02dfe25772bed22b48f7376e8448569247233ee41ee8b58c156494d9cf0c0956dc23f4576f053cc349896247de0a96444b
+doccontainersize 137620
+doccontainerchecksum b615887d8b543af1c125b6e9fb9c533f52816f8087075a8bd4e6ef752ff48f51169f5945ccb067228612cbdeb10dbeb298a090bdb93d201b9629b128b0c5a466
+catalogue-ctan /info/luatex/lualatex-doc-de
+catalogue-date 2016-06-24 19:18:15 +0200
+catalogue-license fdl
+catalogue-topics luatex-doc german
+catalogue-version 1.0
